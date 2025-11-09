@@ -1,0 +1,157 @@
+Peters anomaly: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Peters anomaly
+URL of this page: https://medlineplus.gov/genetics/condition/peters-anomaly/
+Peters anomaly
+Description
+Peters anomaly is characterized by eye problems that occur in an area at the front part of the eye known as the anterior segment. The anterior segment consists of structures including the lens, the colored part (iris) of the eye, and the clear covering of the eye (cornea). During development of the eye, the elements of the anterior segment form separate structures. However, in Peters anomaly, development of the anterior segment is abnormal, leading to incomplete separation of the cornea from the iris or the lens. As a result, the cornea is cloudy (opaque), which causes blurred vision. The opaque area (opacity) of the cornea varies in size and intensity from a small, faint streak to a large, white cloudy area that covers the front surface of the eye. Additionally, the location of the opacity varies; the cloudiness may be at the center of the cornea or off-center. Large, centrally located opacities tend to cause poorer vision than smaller, off-center ones.
+Nearly half of the individuals affected with Peters anomaly have low vision early in life and about a quarter are legally blind. Due to a lack of visual stimulation, some individuals develop "lazy eye" (amblyopia). Peters anomaly is often associated with other eye problems, such as increased pressure within the eye (
+glaucoma
+), clouding of the lens (
+cataract
+), and unusually small eyeballs (
+microphthalmia
+). In most cases, Peters anomaly is bilateral, which means that it affects both eyes, although the level of vision impairment may be different in each eye. These individuals may have eyes that do not point in the same direction (strabismus). In some people with Peters anomaly, corneal clouding improves over time leading to improved vision.
+There are two types of Peters anomaly, which are distinguished by their signs and symptoms. Peters anomaly type I is characterized by an incomplete separation of the cornea and iris and mild to moderate corneal opacity. Type II is characterized by an incomplete separation of the cornea and lens and severe corneal opacity that may involve the entire cornea.
+Frequency
+The exact prevalence of Peters anomaly is unknown. This condition is one of a group of disorders known as congenital corneal opacities, which affect 3 to 6 individuals per 100,000.
+Causes
+Mutations in the
+FOXC1
+,
+PAX6
+,
+PITX2
+, or
+CYP1B1
+gene can cause Peters anomaly. The
+FOXC1
+,
+PAX6
+, and
+PITX2
+genes are all members of a family called homeobox genes that direct the formation of many parts of the body. These three genes are involved in the development of the anterior segment of the eye. The
+CYP1B1
+gene provides instructions for making an enzyme that is active in many tissues, including the eye. The enzyme's role in these tissues is unclear; it is likely involved in the development of the anterior segment.
+Mutations in any of these four genes disrupt development of the anterior segment of the eye. These mutations can lead to severe developmental problems, such as incomplete separation of eye structures and complete corneal opacity, or they can result in minor eye abnormalities including small, faint opacities. It is likely that mutations that cause a complete absence of protein function result in the most severe eye problems. It is unknown why both eyes are affected in some cases and in others only one eye is abnormal.
+In many cases of Peters anomaly, there is no mutation identified in any of these four genes. The cause of the condition in these cases is unknown.
+Learn more about the genes associated with Peters anomaly
+CYP1B1
+FOXC1
+PAX6
+PITX2
+SOX2
+Inheritance
+Most cases of Peters anomaly are sporadic, which means that they occur in people with no apparent history of the disorder in their family. In many of these sporadic cases the genetic cause of the condition is unknown. However, some of these cases are caused by
+a new mutation
+in one of the previously mentioned genes or by the inheritance of a mutation from unaffected parents. In rare cases, the condition (or related eye disorders) has been reported to occur in multiple members of the same family.
+Whether sporadic or inherited, when Peters anomaly is caused by mutations in the
+CYP1B1
+gene, it follows an
+autosomal recessive pattern
+of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. When caused by mutations in the
+FOXC1
+,
+PAX6
+, or
+PITX2
+gene, the condition follows an
+autosomal dominant pattern
+of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Irido-corneo-trabecular dysgenesis
+Peters congenital glaucoma
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Anterior segment dysgenesis 3
+Genetic Testing Registry: Anterior segment dysgenesis 4
+Genetic Testing Registry: Anterior segment dysgenesis 6
+Genetic Testing Registry: Irido-corneo-trabecular dysgenesis
+Genetic and Rare Diseases Information Center
+Peters anomaly
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ANTERIOR SEGMENT DYSGENESIS 5; ASGD5
+Scientific Articles on PubMed
+PubMed
+References
+Bhandari R, Ferri S, Whittaker B, Liu M, Lazzaro DR. Peters anomaly: review of
+the literature. Cornea. 2011 Aug;30(8):939-44. doi: 10.1097/ICO.0b013e31820156a9.
+Citation on PubMed
+Chang JW, Kim JH, Kim SJ, Yu YS. Long-term clinical course and visual outcome
+associated with Peters' anomaly. Eye (Lond). 2012 Sep;26(9):1237-42. doi:
+10.1038/eye.2012.128. Epub 2012 Jun 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chesneau B, Aubert-Mucca M, Fremont F, Pechmeja J, Soler V, Isidor B, Nizon M,
+Dollfus H, Kaplan J, Fares-Taie L, Rozet JM, Busa T, Lacombe D, Naudion S, Amiel
+J, Rio M, Attie-Bitach T, Lesage C, Thouvenin D, Odent S, Morel G,
+Vincent-Delorme C, Boute O, Vanlerberghe C, Dieux A, Boussion S, Faivre L, Pinson
+L, Laffargue F, Le Guyader G, Le Meur G, Prieur F, Lambert V, Laudier B,
+Cottereau E, Ayuso C, Corton-Perez M, Bouneau L, Le Caignec C, Gaston V,
+Jeanton-Scaramouche C, Dupin-Deguine D, Calvas P, Chassaing N, Plaisancie J.
+First evidence of SOX2 mutations in Peters' anomaly: Lessons from molecular
+screening of 95 patients. Clin Genet. 2022 May;101(5-6):494-506. doi:
+10.1111/cge.14123. Epub 2022 Feb 27.
+Citation on PubMed
+Harissi-Dagher M, Colby K. Anterior segment dysgenesis: Peters anomaly and
+sclerocornea. Int Ophthalmol Clin. 2008 Spring;48(2):35-42. doi:
+10.1097/IIO.0b013e318169526c. No abstract available.
+Citation on PubMed
+Najjar DM, Christiansen SP, Bothun ED, Summers CG. Strabismus and amblyopia in
+bilateral Peters anomaly. J AAPOS. 2006 Jun;10(3):193-7. doi:
+10.1016/j.jaapos.2006.01.006.
+Citation on PubMed
+Nischal KK. A new approach to the classification of neonatal corneal
+opacities. Curr Opin Ophthalmol. 2012 Sep;23(5):344-54. doi:
+10.1097/ICU.0b013e328356893d.
+Citation on PubMed
+Shigeyasu C, Yamada M, Mizuno Y, Yokoi T, Nishina S, Azuma N. Clinical
+features of anterior segment dysgenesis associated with congenital corneal
+opacities. Cornea. 2012 Mar;31(3):293-8. doi: 10.1097/ICO.0b013e31820cd2ab.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Corneal Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cloudy cornea
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

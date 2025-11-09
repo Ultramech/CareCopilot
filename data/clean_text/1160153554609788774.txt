@@ -1,0 +1,275 @@
+Nearsightedness: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Nearsightedness
+URL of this page: https://medlineplus.gov/genetics/condition/nearsightedness/
+Nearsightedness
+Description
+Nearsightedness, also known as myopia, is an eye condition that causes blurry distance vision. People who are nearsighted have more trouble seeing things that are far away (such as when driving) than things that are close up (such as when reading or using a computer). If it is not treated with corrective lenses or surgery, nearsightedness can lead to squinting, eyestrain, headaches, and significant visual impairment.
+Nearsightedness usually begins in childhood or adolescence. It tends to worsen with age until adulthood, when it may stop getting worse (stabilize). In some people, nearsightedness improves in later adulthood.
+For normal vision, light passes through the clear cornea at the front of the
+eye
+and is focused by the lens onto the surface of the
+retina
+, which is the lining of the back of the eye that contains light-sensing cells. People who are nearsighted typically have eyeballs that are too long from front to back. As a result, light entering the eye is focused too far forward, in front of the retina instead of on its surface. It is this change that causes distant objects to appear blurry. The longer the eyeball is, the farther forward light rays will be focused and the more severely nearsighted a person will be.
+Nearsightedness is measured by how powerful a lens must be to correct it. The standard unit of lens power is called a diopter. Negative (minus) powered lenses are used to correct nearsightedness. The more severe a person's nearsightedness, the larger the number of diopters required for correction. In an individual with nearsightedness, one eye may be more nearsighted than the other.
+Eye doctors often refer to nearsightedness less than -5 or -6 diopters as "common myopia." Nearsightedness of -6 diopters or more is commonly called "high myopia." This distinction is important because high myopia increases a person's risk of developing other eye problems that can lead to permanent vision loss or blindness. These problems include tearing and
+detachment
+of the retina, clouding of the lens (
+cataract
+), and an eye disease called
+glaucoma
+that is usually related to increased pressure within the eye. The risk of these other eye problems increases with the severity of the nearsightedness. The term "pathological myopia" is used to describe cases in which high myopia leads to tissue damage within the eye.
+Frequency
+Nearsightedness is the most frequent cause of correctable visual impairment worldwide, and it has become increasingly common over the past few decades. By 2020, scientists estimate that more than one-third of the world population, about 2.6 billion people, will have myopia. Almost 400 million of those will have high myopia.
+The prevalence of nearsightedness is significantly higher in some East Asian countries, where the condition affects up to 90 percent of young adults. Most of these individuals have common myopia. However, in regions where myopia is most common, between 10 and 20 percent of young adults have high myopia.
+Causes
+Nearsightedness is typically a complex condition. Multiple genetic variations, each with a small effect, likely interact with environmental and lifestyle factors to influence whether a person becomes nearsighted. Some of the factors that contribute to nearsightedness have been confirmed by research, while others have yet to be discovered.
+Occasionally, nearsightedness (particularly high myopia) results from mutations in a single gene. Variations in at least seven specific genes have been associated with high myopia. In some families, the genetic cause of their nearsightedness has been narrowed down to a small segment of a chromosome (called a locus, plural loci). Each locus can contain dozens or hundreds of genes; researchers have not determined which genes are involved. More than two dozen loci related to nearsightedness have been identified. Each one is named with the prefix "MYP" (for "myopia") and a number that reflects the order in which it was reported.
+Large studies have identified more than 200 genes involved in nearsightedness, and additional studies are underway. Some of these genes help guide eye growth before and after birth. Other genes are involved in processing light signals in the retina. Still other genes are known to be involved in nearsightedness, but their role in vision is unclear. Environmental and lifestyle factors also play an important part in nearsightedness. Much of the recent increase in the frequency of nearsightedness worldwide is likely related to spending less time outdoors and doing more "near work," such as reading, studying, and working on computers and handheld devices. Researchers are working to determine how genetic variations may interact with these lifestyle changes to alter the shape of the eyes.
+In most nearsighted people, this vision problem is not part of a larger genetic syndrome. However, more than 200 genetic conditions, most of them rare, include nearsightedness as a feature. These conditions include
+autosomal recessive congenital stationary night blindness
+,
+X-linked congenital stationary night blindness
+,
+Stickler syndrome
+,
+Marfan syndrome
+,
+retinitis pigmentosa
+,
+cone-rod dystrophy
+,
+deafness and myopia syndrome
+,
+Knobloch syndrome
+, and
+Cohen syndrome
+.
+Inheritance
+Because common myopia is a complex condition involving hundreds of genes, the condition does not have a clear pattern of inheritance. The risk of developing this condition is greater for
+first-degree relatives
+of affected individuals (such as siblings or children) as compared to the general public. This increased risk is likely due in part to shared genetic factors, but it may also be related to environment and lifestyle factors that are shared by members of a family.
+Like common myopia, high myopia seldom has a clear pattern of inheritance. However, when it is caused by mutations in a single gene, it can follow an
+autosomal dominant
+,
+autosomal recessive
+, or X-linked inheritance pattern. In autosomal dominant inheritance, one copy of an altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person inherits the gene mutation from an affected parent. In autosomal recessive inheritance, both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. X-linked inheritance applies to mutations in genes located on the X chromosome, one of the two
+sex chromosomes
+in each cell. In males, who have only one X chromosome, a mutation in the only copy of the gene in each cell is sufficient to cause the condition. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell can lead to less severe features of the condition or may cause no signs or symptoms at all. In general, males are affected by X-linked disorders much more frequently than females.
+When nearsightedness is a feature of a genetic syndrome, it follows the inheritance pattern of that syndrome, most commonly autosomal dominant, autosomal recessive, or X-linked.
+Other Names for This Condition
+Close sighted
+Myopia
+Myopic
+Near-sightedness
+Nearsighted
+Short-sighted
+Short-sightedness
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Myopia
+Genetic and Rare Diseases Information Center
+Myopia 6
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MYOPIA 2, AUTOSOMAL DOMINANT; MYP2
+MYOPIA 1, X-LINKED; MYP1
+MYOPIA 13, X-LINKED; MYP13
+MYOPIA 18, AUTOSOMAL RECESSIVE; MYP18
+MYOPIA 3, AUTOSOMAL DOMINANT; MYP3
+MYOPIA 6; MYP6
+MYOPIA 17, AUTOSOMAL DOMINANT; MYP17
+MYOPIA 5, AUTOSOMAL DOMINANT; MYP5
+MYOPIA 7; MYP7
+MYOPIA 8; MYP8
+MYOPIA 9; MYP9
+MYOPIA 10; MYP10
+MYOPIA 14; MYP14
+MYOPIA 11, AUTOSOMAL DOMINANT; MYP11
+MYOPIA 12, AUTOSOMAL DOMINANT; MYP12
+MYOPIA 16, AUTOSOMAL DOMINANT; MYP16
+MYOPIA 15, AUTOSOMAL DOMINANT; MYP15
+MYOPIA 20, AUTOSOMAL DOMINANT; MYP20
+MYOPIA 19, AUTOSOMAL DOMINANT; MYP19
+Scientific Articles on PubMed
+PubMed
+References
+Cheng CY, Schache M, Ikram MK, Young TL, Guggenheim JA, Vitart V, MacGregor S,
+Verhoeven VJ, Barathi VA, Liao J, Hysi PG, Bailey-Wilson JE, St Pourcain B, Kemp
+JP, McMahon G, Timpson NJ, Evans DM, Montgomery GW, Mishra A, Wang YX, Wang JJ,
+Rochtchina E, Polasek O, Wright AF, Amin N, van Leeuwen EM, Wilson JF, Pennell
+CE, van Duijn CM, de Jong PT, Vingerling JR, Zhou X, Chen P, Li R, Tay WT, Zheng
+Y, Chew M; Consortium for Refractive Error and Myopia; Burdon KP, Craig JE,
+Iyengar SK, Igo RP Jr, Lass JH Jr; Fuchs' Genetics Multi-Center Study Group; Chew
+EY, Haller T, Mihailov E, Metspalu A, Wedenoja J, Simpson CL, Wojciechowski R,
+Hohn R, Mirshahi A, Zeller T, Pfeiffer N, Lackner KJ; Wellcome Trust Case Control
+Consortium 2; Bettecken T, Meitinger T, Oexle K, Pirastu M, Portas L, Nag A,
+Williams KM, Yonova-Doing E, Klein R, Klein BE, Hosseini SM, Paterson AD;
+Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions,
+and Complications Research Group; Makela KM, Lehtimaki T, Kahonen M, Raitakari O,
+Yoshimura N, Matsuda F, Chen LJ, Pang CP, Yip SP, Yap MK, Meguro A, Mizuki N,
+Inoko H, Foster PJ, Zhao JH, Vithana E, Tai ES, Fan Q, Xu L, Campbell H, Fleck B,
+Rudan I, Aung T, Hofman A, Uitterlinden AG, Bencic G, Khor CC, Forward H,
+Parssinen O, Mitchell P, Rivadeneira F, Hewitt AW, Williams C, Oostra BA, Teo YY,
+Hammond CJ, Stambolian D, Mackey DA, Klaver CC, Wong TY, Saw SM, Baird PN. Nine
+loci for ocular axial length identified through genome-wide association studies,
+including shared loci with refractive error. Am J Hum Genet. 2013 Aug
+8;93(2):264-77. doi: 10.1016/j.ajhg.2013.06.016.
+Citation on PubMed
+or
+Free article on PubMed Central
+Holden BA, Fricke TR, Wilson DA, Jong M, Naidoo KS, Sankaridurg P, Wong TY,
+Naduvilath TJ, Resnikoff S. Global Prevalence of Myopia and High Myopia and
+Temporal Trends from 2000 through 2050. Ophthalmology. 2016 May;123(5):1036-42.
+doi: 10.1016/j.ophtha.2016.01.006. Epub 2016 Feb 11.
+Citation on PubMed
+Kiefer AK, Tung JY, Do CB, Hinds DA, Mountain JL, Francke U, Eriksson N.
+Genome-wide analysis points to roles for extracellular matrix remodeling, the
+visual cycle, and neuronal development in myopia. PLoS Genet. 2013;9(2):e1003299.
+doi: 10.1371/journal.pgen.1003299. Epub 2013 Feb 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Li J, Zhang Q. Insight into the molecular genetics of myopia. Mol Vis. 2017
+Dec 31;23:1048-1080. eCollection 2017.
+Citation on PubMed
+or
+Free article on PubMed Central
+Morgan IG, Ohno-Matsui K, Saw SM. Myopia. Lancet. 2012 May
+5;379(9827):1739-48. doi: 10.1016/S0140-6736(12)60272-4.
+Citation on PubMed
+Simpson CL, Wojciechowski R, Oexle K, Murgia F, Portas L, Li X, Verhoeven VJ,
+Vitart V, Schache M, Hosseini SM, Hysi PG, Raffel LJ, Cotch MF, Chew E, Klein BE,
+Klein R, Wong TY, van Duijn CM, Mitchell P, Saw SM, Fossarello M, Wang JJ;
+DCCT/EDIC Research Group; Polasek O, Campbell H, Rudan I, Oostra BA, Uitterlinden
+AG, Hofman A, Rivadeneira F, Amin N, Karssen LC, Vingerling JR, Doring A,
+Bettecken T, Bencic G, Gieger C, Wichmann HE, Wilson JF, Venturini C, Fleck B,
+Cumberland PM, Rahi JS, Hammond CJ, Hayward C, Wright AF, Paterson AD, Baird PN,
+Klaver CC, Rotter JI, Pirastu M, Meitinger T, Bailey-Wilson JE, Stambolian D.
+Genome-wide meta-analysis of myopia and hyperopia provides evidence for
+replication of 11 loci. PLoS One. 2014 Sep 18;9(9):e107110. doi:
+10.1371/journal.pone.0107110. eCollection 2014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tedja MS, Wojciechowski R, Hysi PG, Eriksson N, Furlotte NA, Verhoeven VJM,
+Iglesias AI, Meester-Smoor MA, Tompson SW, Fan Q, Khawaja AP, Cheng CY, Hohn R,
+Yamashiro K, Wenocur A, Grazal C, Haller T, Metspalu A, Wedenoja J, Jonas JB,
+Wang YX, Xie J, Mitchell P, Foster PJ, Klein BEK, Klein R, Paterson AD, Hosseini
+SM, Shah RL, Williams C, Teo YY, Tham YC, Gupta P, Zhao W, Shi Y, Saw WY, Tai ES,
+Sim XL, Huffman JE, Polasek O, Hayward C, Bencic G, Rudan I, Wilson JF; CREAM
+Consortium; 23andMe Research Team; UK Biobank Eye and Vision Consortium; Joshi
+PK, Tsujikawa A, Matsuda F, Whisenhunt KN, Zeller T, van der Spek PJ, Haak R,
+Meijers-Heijboer H, van Leeuwen EM, Iyengar SK, Lass JH, Hofman A, Rivadeneira F,
+Uitterlinden AG, Vingerling JR, Lehtimaki T, Raitakari OT, Biino G, Concas MP,
+Schwantes-An TH, Igo RP Jr, Cuellar-Partida G, Martin NG, Craig JE, Gharahkhani
+P, Williams KM, Nag A, Rahi JS, Cumberland PM, Delcourt C, Bellenguez C, Ried JS,
+Bergen AA, Meitinger T, Gieger C, Wong TY, Hewitt AW, Mackey DA, Simpson CL,
+Pfeiffer N, Parssinen O, Baird PN, Vitart V, Amin N, van Duijn CM, Bailey-Wilson
+JE, Young TL, Saw SM, Stambolian D, MacGregor S, Guggenheim JA, Tung JY, Hammond
+CJ, Klaver CCW. Genome-wide association meta-analysis highlights light-induced
+signaling as a driver for refractive error. Nat Genet. 2018 Jun;50(6):834-848.
+doi: 10.1038/s41588-018-0127-7. Epub 2018 May 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Verhoeven VJ, Hysi PG, Wojciechowski R, Fan Q, Guggenheim JA, Hohn R,
+MacGregor S, Hewitt AW, Nag A, Cheng CY, Yonova-Doing E, Zhou X, Ikram MK,
+Buitendijk GH, McMahon G, Kemp JP, Pourcain BS, Simpson CL, Makela KM, Lehtimaki
+T, Kahonen M, Paterson AD, Hosseini SM, Wong HS, Xu L, Jonas JB, Parssinen O,
+Wedenoja J, Yip SP, Ho DW, Pang CP, Chen LJ, Burdon KP, Craig JE, Klein BE, Klein
+R, Haller T, Metspalu A, Khor CC, Tai ES, Aung T, Vithana E, Tay WT, Barathi VA;
+Consortium for Refractive Error and Myopia (CREAM); Chen P, Li R, Liao J, Zheng
+Y, Ong RT, Doring A; Diabetes Control and Complications Trial/Epidemiology of
+Diabetes Interventions and Complications (DCCT/EDIC) Research Group; Evans DM,
+Timpson NJ, Verkerk AJ, Meitinger T, Raitakari O, Hawthorne F, Spector TD,
+Karssen LC, Pirastu M, Murgia F, Ang W; Wellcome Trust Case Control Consortium 2
+(WTCCC2); Mishra A, Montgomery GW, Pennell CE, Cumberland PM, Cotlarciuc I,
+Mitchell P, Wang JJ, Schache M, Janmahasatian S, Igo RP Jr, Lass JH, Chew E,
+Iyengar SK; Fuchs' Genetics Multi-Center Study Group; Gorgels TG, Rudan I,
+Hayward C, Wright AF, Polasek O, Vatavuk Z, Wilson JF, Fleck B, Zeller T,
+Mirshahi A, Muller C, Uitterlinden AG, Rivadeneira F, Vingerling JR, Hofman A,
+Oostra BA, Amin N, Bergen AA, Teo YY, Rahi JS, Vitart V, Williams C, Baird PN,
+Wong TY, Oexle K, Pfeiffer N, Mackey DA, Young TL, van Duijn CM, Saw SM,
+Bailey-Wilson JE, Stambolian D, Klaver CC, Hammond CJ. Genome-wide meta-analyses
+of multiancestry cohorts identify multiple new susceptibility loci for refractive
+error and myopia. Nat Genet. 2013 Mar;45(3):314-8. doi: 10.1038/ng.2554. Epub
+2013 Feb 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Williams KM, Verhoeven VJ, Cumberland P, Bertelsen G, Wolfram C, Buitendijk
+GH, Hofman A, van Duijn CM, Vingerling JR, Kuijpers RW, Hohn R, Mirshahi A,
+Khawaja AP, Luben RN, Erke MG, von Hanno T, Mahroo O, Hogg R, Gieger C,
+Cougnard-Gregoire A, Anastasopoulos E, Bron A, Dartigues JF, Korobelnik JF,
+Creuzot-Garcher C, Topouzis F, Delcourt C, Rahi J, Meitinger T, Fletcher A,
+Foster PJ, Pfeiffer N, Klaver CC, Hammond CJ. Prevalence of refractive error in
+Europe: the European Eye Epidemiology (E(3)) Consortium. Eur J Epidemiol. 2015
+Apr;30(4):305-15. doi: 10.1007/s10654-015-0010-0. Epub 2015 Mar 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wojciechowski R, Hysi PG. Focusing in on the complex genetics of myopia. PLoS
+Genet. 2013 Apr;9(4):e1003442. doi: 10.1371/journal.pgen.1003442. Epub 2013 Apr
+4. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wojciechowski R. Nature and nurture: the complex genetics of myopia and
+refractive error. Clin Genet. 2011 Apr;79(4):301-20. doi:
+10.1111/j.1399-0004.2010.01592.x. Epub 2010 Dec 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wu PC, Huang HM, Yu HJ, Fang PC, Chen CT. Epidemiology of Myopia. Asia Pac J
+Ophthalmol (Phila). 2016 Nov/Dec;5(6):386-393. doi: 10.1097/APO.0000000000000236.
+Citation on PubMed
+Zhang Q. Genetics of Refraction and Myopia. Prog Mol Biol Transl Sci.
+2015;134:269-79. doi: 10.1016/bs.pmbts.2015.05.007. Epub 2015 Jun 27.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Refractive Errors
+MEDICAL ENCYCLOPEDIA
+Genetics
+Nearsightedness
+Related Medical Tests
+Vision Screening
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

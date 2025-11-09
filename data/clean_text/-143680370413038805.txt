@@ -1,0 +1,104 @@
+Myosin storage myopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Myosin storage myopathy
+URL of this page: https://medlineplus.gov/genetics/condition/myosin-storage-myopathy/
+Myosin storage myopathy
+Description
+Myosin storage myopathy is a condition that causes muscle weakness (myopathy) that does not worsen or worsens very slowly over time. This condition is characterized by the formation of protein clumps, which contain a protein called myosin, within certain muscle fibers. The signs and symptoms of myosin storage myopathy usually become noticeable in childhood, although they can occur later. Because of muscle weakness, affected individuals may start walking later than usual and have a waddling gait, trouble climbing stairs, and difficulty lifting the arms above shoulder level. Muscle weakness also causes some affected individuals to have trouble breathing.
+Frequency
+Myosin storage myopathy is a rare condition. Its prevalence is unknown.
+Causes
+Mutations in the
+MYH7
+gene cause myosin storage myopathy. The
+MYH7
+gene provides instructions for making a protein known as the cardiac beta (β)-myosin heavy chain. This protein is found in heart (cardiac) muscle and in type I skeletal muscle fibers, one of two types of fibers that make up the muscles that the body uses for movement. Cardiac β-myosin heavy chain is the major component of the thick filament in muscle cell structures called
+sarcomeres
+. Sarcomeres, which are made up of thick and thin filaments, are the basic units of muscle contraction. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract.
+Mutations in the
+MYH7
+gene lead to the production of an altered cardiac β-myosin heavy chain protein, which is thought to be less able to form thick filaments. The altered proteins accumulate in type I skeletal muscle fibers, forming the protein clumps characteristic of the disorder. It is unclear how these changes lead to muscle weakness in people with myosin storage myopathy.
+Learn more about the gene associated with Myosin storage myopathy
+MYH7
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Autosomal dominant hyaline body myopathy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Myosin storage myopathy
+Genetic and Rare Diseases Information Center
+Hyaline body myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CONGENITAL MYOPATHY 7A, MYOSIN STORAGE, AUTOSOMAL DOMINANT; CMYO7A
+Scientific Articles on PubMed
+PubMed
+References
+Armel TZ, Leinwand LA. Mutations in the beta-myosin rod cause myosin storage
+myopathy via multiple mechanisms. Proc Natl Acad Sci U S A. 2009 Apr
+14;106(15):6291-6. doi: 10.1073/pnas.0900107106. Epub 2009 Mar 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pegoraro E, Gavassini BF, Borsato C, Melacini P, Vianello A, Stramare R,
+Cenacchi G, Angelini C. MYH7 gene mutation in myosin storage myopathy and
+scapulo-peroneal myopathy. Neuromuscul Disord. 2007 Apr;17(4):321-9. doi:
+10.1016/j.nmd.2007.01.010. Epub 2007 Mar 2.
+Citation on PubMed
+Tajsharghi H, Oldfors A. Myosinopathies: pathology and mechanisms. Acta
+Neuropathol. 2013 Jan;125(1):3-18. doi: 10.1007/s00401-012-1024-2. Epub 2012 Aug
+5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tajsharghi H, Thornell LE, Lindberg C, Lindvall B, Henriksson KG, Oldfors A.
+Myosin storage myopathy associated with a heterozygous missense mutation in MYH7.
+Ann Neurol. 2003 Oct;54(4):494-500. doi: 10.1002/ana.10693.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Muscle function loss
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

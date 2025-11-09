@@ -1,0 +1,127 @@
+Pulmonary alveolar microlithiasis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pulmonary alveolar microlithiasis
+URL of this page: https://medlineplus.gov/genetics/condition/pulmonary-alveolar-microlithiasis/
+Pulmonary alveolar microlithiasis
+Description
+Pulmonary alveolar microlithiasis is a disorder in which many tiny fragments (microliths) of a compound called calcium phosphate gradually accumulate in the small air sacs (alveoli) located throughout the lungs. These deposits eventually cause widespread damage to the alveoli and surrounding lung tissue (interstitial lung disease) that leads to breathing problems. People with this disorder can develop a persistent cough and difficulty breathing (dyspnea), especially during physical exertion. Affected individuals may also experience chest pain that worsens when coughing, sneezing, or taking deep breaths.
+Pulmonary alveolar microlithiasis is usually diagnosed before age 40. Often the disorder is discovered before symptoms develop, when medical imaging is done for other reasons. The condition typically worsens slowly over many years, although some affected individuals have signs and symptoms that remain stable for long periods of time.
+People with pulmonary alveolar microlithiasis can also develop calcium phosphate deposits in other organs and tissues of the body, including the
+kidneys
+,
+gallbladder
+,
+testes
+, and the valve that connects a large blood vessel called the
+aorta
+with the heart (the aortic valve). In rare cases, affected individuals have complications related to accumulation of these deposits, such as a narrowing (stenosis) of the aortic valve that can impede normal blood flow.
+Frequency
+Pulmonary alveolar microlithiasis is a rare disorder; its prevalence is unknown. More than 1,000 affected individuals have been described in the medical literature, of whom more than half are from Turkey, China, Japan, India, or Italy. The remainder come from populations worldwide.
+Causes
+Pulmonary alveolar microlithiasis is caused by mutations in the
+SLC34A2
+gene. This gene provides instructions for making a protein called the type IIb sodium-phosphate cotransporter, which plays a role in the regulation of phosphate levels (phosphate homeostasis). Although this protein can be found in several organs and tissues in the body, it is located mainly in the lungs, specifically in cells in the alveoli called alveolar type II cells. These cells produce and recycle surfactant, which is a mixture of certain phosphate-containing fats (called phospholipids) and proteins that lines the lung tissue and makes breathing easy.
+The recycling of surfactant releases phosphate into the alveoli. Research suggests that the type IIb sodium-phosphate cotransporter normally helps clear this phosphate.
+SLC34A2
+gene mutations are thought to impair the activity of the type IIb sodium-phosphate cotransporter, resulting in the accumulation of phosphate in the alveoli. The accumulated phosphate forms the microliths that cause the signs and symptoms of pulmonary alveolar microlithiasis.
+Learn more about the gene associated with Pulmonary alveolar microlithiasis
+SLC34A2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+PAM
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: PULMONARY ALVEOLAR MICROLITHIASIS
+Genetic and Rare Diseases Information Center
+Pulmonary alveolar microlithiasis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PULMONARY ALVEOLAR MICROLITHIASIS; PULAM
+Scientific Articles on PubMed
+PubMed
+References
+Castellana G, Castellana G, Gentile M, Castellana R, Resta O. Pulmonary
+alveolar microlithiasis: review of the 1022 cases reported worldwide. Eur Respir
+Rev. 2015 Dec;24(138):607-20. doi: 10.1183/16000617.0036-2015.
+Citation on PubMed
+Ferreira Francisco FA, Pereira e Silva JL, Hochhegger B, Zanetti G, Marchiori
+E. Pulmonary alveolar microlithiasis. State-of-the-art review. Respir Med. 2013
+Jan;107(1):1-9. doi: 10.1016/j.rmed.2012.10.014. Epub 2012 Nov 23.
+Citation on PubMed
+Huqun, Izumi S, Miyazawa H, Ishii K, Uchiyama B, Ishida T, Tanaka S, Tazawa R,
+Fukuyama S, Tanaka T, Nagai Y, Yokote A, Takahashi H, Fukushima T, Kobayashi K,
+Chiba H, Nagata M, Sakamoto S, Nakata K, Takebayashi Y, Shimizu Y, Kaneko K,
+Shimizu M, Kanazawa M, Abe S, Inoue Y, Takenoshita S, Yoshimura K, Kudo K,
+Tachibana T, Nukiwa T, Hagiwara K. Mutations in the SLC34A2 gene are associated
+with pulmonary alveolar microlithiasis. Am J Respir Crit Care Med. 2007 Feb
+1;175(3):263-8. doi: 10.1164/rccm.200609-1274OC. Epub 2006 Nov 9.
+Citation on PubMed
+Jonsson AL, Simonsen U, Hilberg O, Bendstrup E. Pulmonary alveolar
+microlithiasis: two case reports and review of the literature. Eur Respir Rev.
+2012 Sep 1;21(125):249-56. doi: 10.1183/09059180.00009411.
+Citation on PubMed
+Mehta K, Dell S, Birken C, Al-Saleh S. Pulmonary Alveolar Microlithiasis. Can
+Respir J. 2016;2016:4938632. doi: 10.1155/2016/4938632. Epub 2016 Mar 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Proesmans M, Boon M, Verbeken E, Ozcelik U, Kiper N, Van de Casseye W, De
+Boeck K. Pulmonary alveolar microlithiasis: a case report and review of the
+literature. Eur J Pediatr. 2012 Jul;171(7):1069-72. doi:
+10.1007/s00431-012-1678-8. Epub 2012 Feb 4.
+Citation on PubMed
+Saito A, McCormack FX. Pulmonary Alveolar Microlithiasis. Clin Chest Med. 2016
+Sep;37(3):441-8. doi: 10.1016/j.ccm.2016.04.007. Epub 2016 Jun 24.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yin X, Wang H, Wu D, Zhao G, Shao J, Dai Y. SLC34A2 Gene mutation of pulmonary
+alveolar microlithiasis: report of four cases and review of literatures. Respir
+Med. 2013 Feb;107(2):217-22. doi: 10.1016/j.rmed.2012.10.016. Epub 2012 Nov 17.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Interstitial Lung Diseases
+Oxygen Therapy
+Pulmonary Rehabilitation
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

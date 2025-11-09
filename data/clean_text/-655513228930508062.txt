@@ -1,0 +1,146 @@
+CLN2 disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+CLN2 disease
+URL of this page: https://medlineplus.gov/genetics/condition/cln2-disease/
+CLN2 disease
+Description
+CLN2 disease is an inherited disorder that primarily affects the nervous system. The signs and symptoms of this condition typically begin between ages 2 and 4. The initial features usually include recurrent seizures (epilepsy) and difficulty coordinating movements (ataxia). Affected children also develop muscle twitches (myoclonus) and vision loss. CLN2 disease affects motor skills, such as sitting and walking, and speech development. This condition also causes the loss of previously acquired skills (developmental regression), intellectual disability that gradually gets worse, and behavioral problems. Individuals with this condition often require the use of a wheelchair by late childhood and typically do not survive past their teens.
+Some children with CLN2 disease do not develop symptoms until later in childhood, typically after age 4. These individuals tend to have milder features overall compared to those diagnosed earlier, but with more severe ataxia. They have a shortened life expectancy, although they tend to survive into adulthood.
+CLN2 disease is one of a group of disorders known as neuronal ceroid lipofuscinoses (NCLs), which may also be collectively referred to as Batten disease. All these disorders affect the nervous system and typically cause worsening problems with vision, movement, and thinking ability. The different NCLs are distinguished by their genetic cause. Each disease type is given the designation "CLN," meaning ceroid lipofuscinosis, neuronal, and then a number to indicate its subtype.
+Frequency
+In the Newfoundland province of Canada, the incidence of CLN2 disease is estimated to be 9 in 100,000 births. The incidence of the condition outside of this population is unknown. More than 300 cases worldwide have been described in the scientific literature.
+Causes
+Mutations in the
+TPP1
+gene cause CLN2 disease. The
+TPP1
+gene provides instructions for producing an enzyme called tripeptidyl peptidase 1. This enzyme is found in cell structures called
+lysosomes
+, which digest and recycle different types of molecules. Tripeptidyl peptidase 1 breaks down protein fragments, known as peptides, into their individual building blocks (
+amino acids
+).
+Mutations in the
+TPP1
+gene greatly reduce or eliminate the production or activity of the tripeptidyl peptidase 1 enzyme. A reduction in functional enzyme results in the incomplete breakdown of certain peptides. CLN2 disease, like other NCLs, is characterized by the accumulation of proteins or peptides and other substances in lysosomes. These accumulations occur in cells throughout the body; however, nerve cells seem to be particularly vulnerable to their effects. The accumulations can cause cell damage leading to cell death. The progressive death of nerve cells in the brain and other tissues leads to the signs and symptoms of CLN2 disease.
+Individuals who are diagnosed with CLN2 disease later in childhood likely have
+TPP1
+gene mutations that result in the production of an enzyme with a small amount of normal function. Protein function in these individuals is higher than in those who have the condition beginning earlier in childhood. As a result, it takes longer for peptides and other substances to accumulate in the lysosomes and damage nerve cells.
+Learn more about the gene associated with CLN2 disease
+TPP1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Jansky-Bielschowsky disease
+Late-infantile Batten disease
+Late-infantile neuronal ceroid lipofuscinosis
+LINCL
+Neuronal ceroid lipofuscinosis, late-infantile
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Neuronal ceroid lipofuscinosis 2
+Genetic Testing Registry: Late-infantile neuronal ceroid lipofuscinosis
+Genetic Testing Registry: Neuronal ceroid lipofuscinosis
+Genetic and Rare Diseases Information Center
+CLN2 disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CEROID LIPOFUSCINOSIS, NEURONAL, 2; CLN2
+Scientific Articles on PubMed
+PubMed
+References
+Elleder M, Dvorakova L, Stolnaja L, Vlaskova H, Hulkova H, Druga R, Poupetova
+H, Kostalova E, Mikulastik J. Atypical CLN2 with later onset and prolonged
+course: a neuropathologic study showing different sensitivity of neuronal
+subpopulations to TPP1 deficiency. Acta Neuropathol. 2008 Jul;116(1):119-24. doi:
+10.1007/s00401-008-0349-3. Epub 2008 Feb 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fietz M, AlSayed M, Burke D, Cohen-Pfeffer J, Cooper JD, Dvorakova L,
+Giugliani R, Izzo E, Jahnova H, Lukacs Z, Mole SE, Noher de Halac I, Pearce DA,
+Poupetova H, Schulz A, Specchio N, Xin W, Miller N. Diagnosis of neuronal ceroid
+lipofuscinosis type 2 (CLN2 disease): Expert recommendations for early detection
+and laboratory diagnosis. Mol Genet Metab. 2016 Sep;119(1-2):160-7. doi:
+10.1016/j.ymgme.2016.07.011. Epub 2016 Jul 25.
+Citation on PubMed
+Getty AL, Pearce DA. Interactions of the proteins of neuronal ceroid
+lipofuscinosis: clues to function. Cell Mol Life Sci. 2011 Feb;68(3):453-74. doi:
+10.1007/s00018-010-0468-6. Epub 2010 Aug 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kohan R, Carabelos MN, Xin W, Sims K, Guelbert N, Cismondi IA, Pons P, Alonso
+GI, Troncoso M, Witting S, Pearce DA, Dodelson de Kremer R, Oller-Ramirez AM,
+Noher de Halac I. Neuronal ceroid lipofuscinosis type CLN2: a new rationale for
+the construction of phenotypic subgroups based on a survey of 25 cases in South
+America. Gene. 2013 Mar 1;516(1):114-21. doi: 10.1016/j.gene.2012.12.058. Epub
+2012 Dec 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Moore SJ, Buckley DJ, MacMillan A, Marshall HD, Steele L, Ray PN, Nawaz Z,
+Baskin B, Frecker M, Carr SM, Ives E, Parfrey PS. The clinical and genetic
+epidemiology of neuronal ceroid lipofuscinosis in Newfoundland. Clin Genet. 2008
+Sep;74(3):213-22. doi: 10.1111/j.1399-0004.2008.01054.x. Epub 2008 Aug 4.
+Citation on PubMed
+Schulz A, Kohlschutter A, Mink J, Simonati A, Williams R. NCL diseases -
+clinical perspectives. Biochim Biophys Acta. 2013 Nov;1832(11):1801-6. doi:
+10.1016/j.bbadis.2013.04.008. Epub 2013 Apr 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sleat DE, Gin RM, Sohar I, Wisniewski K, Sklower-Brooks S, Pullarkat RK,
+Palmer DN, Lerner TJ, Boustany RM, Uldall P, Siakotos AN, Donnelly RJ, Lobel P.
+Mutational analysis of the defective protease in classic late-infantile neuronal
+ceroid lipofuscinosis, a neurodegenerative lysosomal storage disorder. Am J Hum
+Genet. 1999 Jun;64(6):1511-23. doi: 10.1086/302427.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Neuronal ceroid lipofuscinoses (NCL)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

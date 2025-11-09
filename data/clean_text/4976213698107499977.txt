@@ -1,0 +1,113 @@
+Adenylosuccinate lyase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Adenylosuccinate lyase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/adenylosuccinate-lyase-deficiency/
+Adenylosuccinate lyase deficiency
+Description
+Adenylosuccinate lyase deficiency is a neurological disorder that causes brain dysfunction (encephalopathy) leading to delayed development of mental and movement abilities (psychomotor delay), autistic characteristics that affect communication and social interaction, and seizures. A key feature that can help with diagnosis of this condition is the presence of chemicals called succinylaminoimidazole carboxamide riboside (SAICAr) and succinyladenosine (S-Ado) in body fluids.
+Adenylosuccinate lyase deficiency is classified into three forms based on the severity of the signs and symptoms. The most severe is the neonatal form. Signs and symptoms of this form can be detected at or before birth and can include impaired growth during fetal development and a small head size (
+microcephaly
+). Affected newborns have severe encephalopathy, which leads to a lack of movement, difficulty feeding, and life-threatening respiratory problems. Some affected babies develop seizures that do not improve with treatment. Because of the severity of the encephalopathy, infants with this form of the condition generally do not survive more than a few weeks after birth.
+Adenylosuccinate lyase deficiency type I (also known as the severe form) is the most common. The signs and symptoms of this form begin in the first months of life. Affected babies have severe psychomotor delay, weak muscle tone (hypotonia), and microcephaly. Many affected infants develop recurrent seizures that are difficult to treat, and some exhibit autistic traits, such as repetitive actions and a lack of eye contact.
+In individuals with adenylosuccinate lyase deficiency type II (also known as the moderate or mild form), development is typically normal for the first few years of life but then slows. Psychomotor delay is considered mild or moderate. Some children with this form of the condition develop seizures and autistic traits.
+Frequency
+Adenylosuccinate lyase deficiency is a rare disorder; fewer than 100 cases have been reported. The condition is most common in the Netherlands and Belgium, but it has been found worldwide.
+Causes
+All forms of adenylosuccinate lyase deficiency are caused by mutations in the
+ADSL
+gene. This gene provides instructions for making an enzyme called adenylosuccinate lyase, which performs two steps in the process that produces purine nucleotides. These nucleotides are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP that serve as energy sources in the cell. Adenylosuccinate lyase converts a molecule called succinylaminoimidazole carboxamide ribotide (SAICAR) to aminoimidazole carboxamide ribotide (AICAR) and converts succinyladenosine monophosphate (SAMP) to adenosine monophosphate (AMP).
+Most of the mutations involved in adenylosuccinate lyase deficiency change single protein building blocks (amino acids) in the adenylosuccinate lyase enzyme, which impairs its function. Reduced function of this enzyme leads to buildup of SAICAR and SAMP, which are converted through a different reaction to succinylaminoimidazole carboxamide riboside (SAICAr) and succinyladenosine (S-Ado). Researchers believe that SAICAr and S-Ado are toxic; damage to brain tissue caused by one or both of these substances likely underlies the neurological problems that occur in adenylosuccinate lyase deficiency.
+Studies suggest that the amount of SAICAr relative to S-Ado reflects the severity of adenylosuccinate lyase deficiency. Individuals with more SAICAr than S-Ado have more severe encephalopathy and psychomotor delay.
+Learn more about the gene associated with Adenylosuccinate lyase deficiency
+ADSL
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Adenylosuccinase deficiency
+ADSL deficiency
+Succinylpurinemic autism
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Adenylosuccinate lyase deficiency
+Genetic and Rare Diseases Information Center
+Adenylosuccinate lyase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ADENYLOSUCCINASE DEFICIENCY; ADSLD
+Scientific Articles on PubMed
+PubMed
+References
+Ariyananda Lde Z, Lee P, Antonopoulos C, Colman RF. Biochemical and
+biophysical analysis of five disease-associated human adenylosuccinate lyase
+mutants. Biochemistry. 2009 Jun 16;48(23):5291-302. doi: 10.1021/bi802321m.
+Citation on PubMed
+or
+Free article on PubMed Central
+Baresova V, Skopova V, Sikora J, Patterson D, Sovova J, Zikanova M, Kmoch S.
+Mutations of ATIC and ADSL affect purinosome assembly in cultured skin
+fibroblasts from patients with AICA-ribosiduria and ADSL deficiency. Hum Mol
+Genet. 2012 Apr 1;21(7):1534-43. doi: 10.1093/hmg/ddr591. Epub 2011 Dec 16.
+Citation on PubMed
+Jurecka A, Zikanova M, Kmoch S, Tylki-Szymanska A. Adenylosuccinate lyase
+deficiency. J Inherit Metab Dis. 2015 Mar;38(2):231-42. doi:
+10.1007/s10545-014-9755-y. Epub 2014 Aug 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ray SP, Deaton MK, Capodagli GC, Calkins LA, Sawle L, Ghosh K, Patterson D,
+Pegan SD. Structural and biochemical characterization of human adenylosuccinate
+lyase (ADSL) and the R303C ADSL deficiency-associated mutation. Biochemistry.
+2012 Aug 21;51(33):6701-13. doi: 10.1021/bi300796y. Epub 2012 Aug 7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zikanova M, Skopova V, Hnizda A, Krijt J, Kmoch S. Biochemical and structural
+analysis of 14 mutant adsl enzyme complexes and correlation to phenotypic
+heterogeneity of adenylosuccinate lyase deficiency. Hum Mutat. 2010
+Apr;31(4):445-55. doi: 10.1002/humu.21212.
+Citation on PubMed
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Seizures
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

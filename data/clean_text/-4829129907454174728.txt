@@ -1,0 +1,128 @@
+Congenital contractural arachnodactyly: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital contractural arachnodactyly
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-contractural-arachnodactyly/
+Congenital contractural arachnodactyly
+Description
+Congenital contractural arachnodactyly is a disorder that affects many parts of the body. People with this condition typically are tall with long limbs (dolichostenomelia) and long, slender fingers and toes (arachnodactyly). They often have permanently bent joints (contractures) that can restrict movement in their hips, knees, ankles, or elbows. Additional features of congenital contractural arachnodactyly include underdeveloped muscles, a rounded upper back that also curves to the side (
+kyphoscoliosis
+), permanently bent fingers and toes (
+camptodactyly
+), ears that look "crumpled," and a protruding chest (
+pectus carinatum
+). Rarely, people with congenital contractural arachnodactyly have heart defects such as an enlargement of the blood vessel that distributes blood from the heart to the rest of the body (aortic root dilatation) or a leak in one of the valves that control blood flow through the heart (mitral valve prolapse). The life expectancy of individuals with congenital contractural arachnodactyly varies depending on the severity of symptoms but is typically not shortened.
+A rare, severe form of congenital contractural arachnodactyly involves both heart and digestive system abnormalities in addition to the skeletal features described above; individuals with this severe form of the condition usually do not live past infancy.
+Frequency
+The prevalence of congenital contractural arachnodactyly is estimated to be less than 1 in 10,000 worldwide.
+Causes
+Mutations in the
+FBN2
+gene cause congenital contractural arachnodactyly. The
+FBN2
+gene provides instructions for producing the fibrillin-2 protein. Fibrillin-2 binds to other proteins and molecules to form threadlike filaments called microfibrils. Microfibrils become part of the fibers that provide strength and flexibility to connective tissue that supports the body's joints and organs. Additionally, microfibrils regulate the activity of molecules called growth factors. Growth factors enable the growth and repair of tissues throughout the body.
+Mutations in the
+FBN2
+gene can decrease fibrillin-2 production or result in the production of a protein with impaired function. As a result, microfibril formation is reduced, which probably weakens the structure of connective tissue and disrupts regulation of growth factor activity. The resulting abnormalities of connective tissue underlie the signs and symptoms of congenital contractural arachnodactyly.
+Learn more about the gene associated with Congenital contractural arachnodactyly
+FBN2
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Arthrogyroposis, distal, type 9
+Beals syndrome
+Beals-Hecht syndrome
+CCA
+Contractural arachnodactyly, congenital
+DA9
+Distal arthrogyropsis type 9
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital contractural arachnodactyly
+Genetic and Rare Diseases Information Center
+Congenital contractural arachnodactyly
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CONTRACTURAL ARACHNODACTYLY, CONGENITAL; CCA
+Scientific Articles on PubMed
+PubMed
+References
+Callewaert BL, Loeys BL, Ficcadenti A, Vermeer S, Landgren M, Kroes HY, Yaron
+Y, Pope M, Foulds N, Boute O, Galan F, Kingston H, Van der Aa N, Salcedo I,
+Swinkels ME, Wallgren-Pettersson C, Gabrielli O, De Backer J, Coucke PJ, De Paepe
+AM. Comprehensive clinical and molecular assessment of 32 probands with
+congenital contractural arachnodactyly: report of 14 novel mutations and review
+of the literature. Hum Mutat. 2009 Mar;30(3):334-41. doi: 10.1002/humu.20854.
+Citation on PubMed
+Gupta PA, Putnam EA, Carmical SG, Kaitila I, Steinmann B, Child A, Danesino C,
+Metcalfe K, Berry SA, Chen E, Delorme CV, Thong MK, Ades LC, Milewicz DM. Ten
+novel FBN2 mutations in congenital contractural arachnodactyly: delineation of
+the molecular pathogenesis and clinical phenotype. Hum Mutat. 2002
+Jan;19(1):39-48. doi: 10.1002/humu.10017.
+Citation on PubMed
+Gupta PA, Wallis DD, Chin TO, Northrup H, Tran-Fadulu VT, Towbin JA, Milewicz
+DM. FBN2 mutation associated with manifestations of Marfan syndrome and
+congenital contractural arachnodactyly. J Med Genet. 2004 May;41(5):e56. doi:
+10.1136/jmg.2003.012880. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nishimura A, Sakai H, Ikegawa S, Kitoh H, Haga N, Ishikiriyama S, Nagai T,
+Takada F, Ohata T, Tanaka F, Kamasaki H, Saitsu H, Mizuguchi T, Matsumoto N.
+FBN2, FBN1, TGFBR1, and TGFBR2 analyses in congenital contractural
+arachnodactyly. Am J Med Genet A. 2007 Apr 1;143A(7):694-8. doi:
+10.1002/ajmg.a.31639.
+Citation on PubMed
+Tuncbilek E, Alanay Y. Congenital contractural arachnodactyly (Beals
+syndrome). Orphanet J Rare Dis. 2006 Jun 1;1:20. doi: 10.1186/1750-1172-1-20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Connective Tissue Disorders
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Arachnodactyly
+Contracture deformity
+Genetics
+Skeletal limb abnormalities
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

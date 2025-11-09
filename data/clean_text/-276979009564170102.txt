@@ -1,0 +1,122 @@
+Uncombable hair syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Uncombable hair syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/uncombable-hair-syndrome/
+Uncombable hair syndrome
+Description
+Uncombable hair syndrome is a condition that is characterized by dry, frizzy hair that cannot be combed flat. This condition develops in childhood, often between infancy and age 3, but can appear as late as age 12. Affected children have light-colored hair, described as blond or silvery with a glistening sheen. The hair does not grow downward but out from the scalp in multiple directions. Despite its appearance, the hair is not fragile or brittle, and it grows at a normal or slightly slower rate. Only scalp hair is affected in uncombable hair syndrome.
+For unknown reasons, this condition usually improves over time. By adolescence individuals with uncombable hair syndrome have hair that lies flat and has normal or nearly normal texture.
+Frequency
+The prevalence of uncombable hair syndrome is unknown; at least 100 cases have been described in the scientific literature. There are likely more people who are undiagnosed because adults who seem unaffected may have had uncombable hair syndrome in childhood.
+Causes
+Uncombable hair syndrome is caused by mutations in the
+PADI3
+,
+TGM3
+, or
+TCHH
+gene. These genes provide instructions for making proteins that help give structure to the hair strand (shaft).
+The proteins produced from the
+PADI3
+and
+TGM3
+genes modify the protein produced from the
+TCHH
+gene, known as trichohyalin. The modified trichohyalin can attach (bind) to other trichohyalin proteins and to molecules called
+keratin intermediate filaments
+to create organized cross-links. These links form dense networks that provide structure to the hair shaft and give it a cylindrical shape.
+PADI3
+,
+TGM3
+, or
+TCHH
+gene mutations likely lead to the production of proteins with little or no activity. As a result, the shape of the hair shaft is altered. Instead of having a cylindrical shape, it has a triangular, heart-like, or flat cross-section. Sometimes all of these irregular shapes can occur along the length of a single strand of hair. Because of the angular shape of the hair shaft, the hair will not lie flat. In children with uncombable hair syndrome, 50 to 100 percent of their strands of hair have an irregular shape. Additionally, the abnormal hair reflects light differently than normal hair, accounting for its glistening sheen.
+Some people with uncombable hair syndrome do not have an identified mutation in one of these three genes. The cause of the condition in these individuals is unknown.
+Learn more about the genes associated with Uncombable hair syndrome
+PADI3
+TCHH
+TGM3
+Inheritance
+When uncombable hair syndrome is caused by mutations in the PADI3, TGM3, or TCHH gene, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+In other cases, uncombable hair syndrome appears to be inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In these cases an affected person usually inherits the mutation from one affected parent, although the associated gene is unknown.
+In still other cases of uncombable hair syndrome, the inheritance pattern is unknown.
+Other Names for This Condition
+Cheveux incoiffables
+Pili trianguli et canaliculi
+Spun glass hair
+UHS
+Unmanageable hair syndrome
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Uncombable hair syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+UNCOMBABLE HAIR SYNDROME 1; UHS1
+UNCOMBABLE HAIR SYNDROME 2; UHS2
+UNCOMBABLE HAIR SYNDROME 3; UHS3
+Scientific Articles on PubMed
+PubMed
+References
+Calderon P, Otberg N, Shapiro J. Uncombable hair syndrome. J Am Acad Dermatol.
+2009 Sep;61(3):512-5. doi: 10.1016/j.jaad.2009.01.006.
+Citation on PubMed
+Rieubland C, de Viragh PA, Addor MC. Uncombable hair syndrome: a clinical
+report. Eur J Med Genet. 2007 Jul-Aug;50(4):309-14. doi:
+10.1016/j.ejmg.2007.03.002. Epub 2007 Apr 11.
+Citation on PubMed
+U Basmanav FB, Cau L, Tafazzoli A, Mechin MC, Wolf S, Romano MT, Valentin F,
+Wiegmann H, Huchenq A, Kandil R, Garcia Bartels N, Kilic A, George S, Ralser DJ,
+Bergner S, Ferguson DJP, Oprisoreanu AM, Wehner M, Thiele H, Altmuller J,
+Nurnberg P, Swan D, Houniet D, Buchner A, Weibel L, Wagner N, Grimalt R, Bygum A,
+Serre G, Blume-Peytavi U, Sprecher E, Schoch S, Oji V, Hamm H, Farrant P, Simon
+M, Betz RC. Mutations in Three Genes Encoding Proteins Involved in Hair Shaft
+Formation Cause Uncombable Hair Syndrome. Am J Hum Genet. 2016 Dec
+1;99(6):1292-1304. doi: 10.1016/j.ajhg.2016.10.004. Epub 2016 Nov 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Hair Problems
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

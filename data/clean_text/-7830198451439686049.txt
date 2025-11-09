@@ -1,0 +1,142 @@
+SUCLG1-related mitochondrial DNA depletion syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+SUCLG1-related mitochondrial DNA depletion syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/suclg1-related-mitochondrial-dna-depletion-syndrome/
+SUCLG1-related mitochondrial DNA depletion syndrome
+Description
+SUCLG1
+-related mitochondrial DNA (mtDNA) depletion syndrome is an inherited disorder that affects the early development of the brain. Signs and symptoms typically appear soon after birth. Most affected children develop severe brain dysfunction and muscle weakness (encephalomyopathy). Infants with
+SUCLG1
+-related mtDNA depletion syndrome often have weak muscle tone (hypotonia). They typically have difficulty eating and may require a feeding tube. Additional features may include liver abnormalities and thickening of the heart muscle (hypertrophic cardiomyopathy). In affected individuals, a substance called methylmalonic acid typically builds up in the blood and urine.
+People with
+SUCLG1
+-related mtDNA depletion syndrome can have serious health complications, which result in a shortened lifespan. Individuals with
+SUCLG1
+-related mtDNA depletion syndrome typically do not survive past childhood.
+Some infants with
+SUCLG1
+-related mtDNA depletion syndrome develop a toxic buildup of acids in the body in the first few days of life. This form of the disorder is called fatal infantile lactic acidosis. Infants with fatal infantile lactic acidosis typically only survive for a few days after birth.
+Frequency
+Approximately 40 people with
+SUCLG1
+-related mtDNA depletion syndrome have been reported in the medical literature.
+Causes
+SUCLG1
+-related mtDNA depletion syndrome is caused by variants (also called mutations) in the
+SUCLG1
+gene. The
+SUCLG1
+gene provides instructions for making one part (the alpha subunit) of an enzyme called succinyl-CoA ligase. This enzyme plays an important role in mitochondria, which are the energy-producing centers inside the cell. Succinyl-CoA ligase is involved in producing and maintaining the molecules that make up mtDNA, which is essential for the normal function of mitochondria.
+Variants in the
+SUCLG1
+gene lead to the production of an altered version of the alpha subunit, which disrupts the normal function of succinyl-CoA ligase. A shortage (deficiency) of the normal enzyme leads to problems with the production and maintenance of mtDNA.
+A reduction in the amount of mtDNA (known as mtDNA depletion) impairs energy production in many of the body's cells and tissues. These problems lead to hypotonia, muscle weakness, and the other characteristic features of
+SUCLG1
+-related mtDNA depletion syndrome.
+Learn more about the gene associated with SUCLG1-related mitochondrial DNA depletion syndrome
+SUCLG1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Fatal infantile lactic acidosis with methylmalonic aciduria
+Mitochondrial DNA depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria)
+MTDPS9
+Succinate-coenzyme A ligase deficiency
+SUCLG1 deficiency
+SUCLG1-related mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria
+SUCLG1-related succinyl-CoA ligase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Mitochondrial DNA depletion syndrome 9
+Genetic and Rare Diseases Information Center
+Mitochondrial DNA depletion syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MITOCHONDRIAL DNA DEPLETION SYNDROME 9 (ENCEPHALOMYOPATHIC TYPE WITH METHYLMALONIC ACIDURIA); MTDPS9
+Scientific Articles on PubMed
+PubMed
+References
+Carrozzo R, Verrigni D, Rasmussen M, de Coo R, Amartino H, Bianchi M, Buhas D,
+Mesli S, Naess K, Born AP, Woldseth B, Prontera P, Batbayli M, Ravn K, Joensen F,
+Cordelli DM, Santorelli FM, Tulinius M, Darin N, Duno M, Jouvencel P, Burlina A,
+Stangoni G, Bertini E, Redonnet-Vernhet I, Wibrand F, Dionisi-Vici C, Uusimaa J,
+Vieira P, Osorio AN, McFarland R, Taylor RW, Holme E, Ostergaard E. Succinate-CoA
+ligase deficiency due to mutations in SUCLA2 and SUCLG1: phenotype and genotype
+correlations in 71 patients. J Inherit Metab Dis. 2016 Mar;39(2):243-52. doi:
+10.1007/s10545-015-9894-9. Epub 2015 Oct 16.
+Citation on PubMed
+El-Hattab AW, Scaglia F. Mitochondrial DNA depletion syndromes: review and
+updates of genetic basis, manifestations, and therapeutic options.
+Neurotherapeutics. 2013 Apr;10(2):186-98. doi: 10.1007/s13311-013-0177-6.
+Citation on PubMed
+El-Hattab AW, Scaglia F. SUCLG1-Related Mitochondrial DNA Depletion
+Syndrome, Encephalomyopathic Form with Methylmalonic Aciduria. 2017 Mar 30. In:
+Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK425223/
+Citation on PubMed
+Molaei Ramsheh S, Erfanian Omidvar M, Tabasinezhad M, Alipoor B, Salmani TA,
+Ghaedi H. SUCLG1 mutations and mitochondrial encephalomyopathy: a case study and
+review of the literature. Mol Biol Rep. 2020 Dec;47(12):9699-9714. doi:
+10.1007/s11033-020-05999-y. Epub 2020 Nov 23.
+Citation on PubMed
+Ostergaard E, Christensen E, Kristensen E, Mogensen B, Duno M, Shoubridge EA,
+Wibrand F. Deficiency of the alpha subunit of succinate-coenzyme A ligase causes
+fatal infantile lactic acidosis with mitochondrial DNA depletion. Am J Hum Genet.
+2007 Aug;81(2):383-7. doi: 10.1086/519222. Epub 2007 Jun 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ostergaard E, Schwartz M, Batbayli M, Christensen E, Hjalmarson O, Kollberg G,
+Holme E. A novel missense mutation in SUCLG1 associated with mitochondrial DNA
+depletion, encephalomyopathic form, with methylmalonic aciduria. Eur J Pediatr.
+2010 Feb;169(2):201-5. doi: 10.1007/s00431-009-1007-z. Epub 2009 Jun 14.
+Citation on PubMed
+Spinazzola A, Invernizzi F, Carrara F, Lamantea E, Donati A, Dirocco M,
+Giordano I, Meznaric-Petrusa M, Baruffini E, Ferrero I, Zeviani M. Clinical and
+molecular features of mitochondrial DNA depletion syndromes. J Inherit Metab Dis.
+2009 Apr;32(2):143-58. doi: 10.1007/s10545-008-1038-z. Epub 2008 Dec 27.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Mitochondrial Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hypotonia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

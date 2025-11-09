@@ -1,0 +1,197 @@
+HTLV-1: Infection, Transmission, Diagnosis & Prevention
+Home
+/
+Health Library
+/
+Diseases & Conditions
+/
+HTLV-1
+Advertisement
+Advertisement
+HTLV-1
+Human T-lymphotropic virus type-1 (HTLV-1) is a retrovirus that causes a lifelong viral infection, usually without symptoms. But about 1 in 20 people who have it go on to develop adult T-cell leukemia/lymphoma (ATL) — a type of cancer — or neurological conditions. It most commonly spreads through sex, breastfeeding and shared needles.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Infectious Disease Care
+Make an Appointment
+Contents
+Arrow Down
+Overview
+Symptoms and Causes
+Diagnosis and Tests
+Management and Treatment
+Outlook / Prognosis
+Prevention
+Living With
+Overview
+What is HTLV-1?
+Human T-lymphotropic virus type-1 (HTLV-1) is a retrovirus that can cause cancer and neurological conditions in people infected with it. Retroviruses insert their genetic material into your
+DNA
+.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+The most well-known human retrovirus is
+human immunodeficiency virus (HIV)
+. But HTLV-1 acts very differently from HIV. While both HTLV-1 and HIV infect your
+immune system
+, HTLV-1 doesn’t destroy your
+T cells
+and doesn’t cause symptoms in most people.
+A small percentage of people with HTLV-1 infections develop adult T-cell leukemia/lymphoma (ATL or ATLL) or HTLV-1-associated
+myelopathy
+/tropical spastic paraparesis (HAM/TSP). These conditions develop 30 to 60 years after you’re infected with HTLV-1.
+Types of HTLV
+There are several types of HTLV that cause infections in humans, including HTLV-1, HTLV-2, HTLV-3 and HTLV-4. All of them cause a lifelong infection, but only HTLV-1 has been shown to cause specific diseases.
+How common is HTLV-1?
+HTLV exists in most parts of the world. Experts estimate that 5 to 20 million people worldwide have an HTLV-1 infection, but infection rates vary widely. For instance, less than 1% of people in North America are infected with HTLV-1. But about one-third of the population — or more — are infected in specific parts of Japan, Africa, South America, Australia, Iran and the Caribbean.
+Symptoms and Causes
+What are the symptoms of HTLV-1?
+Most people don’t have symptoms of HTLV-1. Decades after you’re infected, you may develop symptoms of ATL or HAM/TSP. Symptoms of ATL include:
+Advertisement
+Fatigue.
+Skin rash.
+Swollen lymph nodes
+.
+Constipation
+.
+Confusion.
+Bone pain.
+Symptoms of HAM/TSP include:
+Weakness or stiffness in one or both legs that gets progressively worse.
+Back pain.
+Leaking pee (
+urinary incontinence
+).
+Numbness or tingling (peripheral neuropathy)
+.
+What conditions can HTLV cause?
+HTLV-1 causes adult T-cell leukemia/lymphoma (ATL) or HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP) in about 1 in 20 people (5%) of people infected with it.
+ATL is a type of
+blood cancer
+. It’s further divided into acute,
+lymphoma
+, smoldering and chronic subtypes. These have slightly different treatments and outlooks (prognoses).
+HAM/TSP is a nerve condition that has some similarities to
+multiple sclerosis
+(
+MS
+). It causes muscle weakness and
+nervous system
+issues that get progressively worse.
+HTLV-1 also might cause inflammatory and
+autoimmune diseases
+, though researchers haven’t made a clear connection between the two. These include:
+Dermatitis
+.
+Arthritis
+.
+Uveitis
+.
+Sjögren’s syndrome
+.
+What causes HTLV-1-related diseases?
+When HTLV-1 gets into your body, it infects CD4 cells (or
+helper T-cells
+), part of your immune system that helps you fight infections. Retroviruses like HTLV-1 carry their genetic information — instructions for making more viruses — on RNA. Inside your cells, it changes its RNA to look like your cells’ instructions (DNA). It then inserts that DNA (called a pro virus) into your DNA. Your cells read the virus’s instructions as though they were their own instructions and make more copies of the virus.
+New copies of HTLV can go on to infect many other CD4 cells. This usually doesn’t cause any symptoms. But in some people, after several decades, the infection can cause their bodies to make too many T cells, causing ATL. In other cases, it can infect your nervous system, causing HAM/TSP.
+How do people get HTLV?
+HTLV-1 spreads through:
+Sex (vaginal, anal or oral).
+Breastfeeding
+(from mother to child).
+Sharing needles.
+Rarely,
+blood transfusions
+or organ transplants.
+What are the risk factors for HTLV-1?
+Risk factors for HTLV-1 include injecting nonprescription drugs and being born in or living in an area where HTLV is common. HTLV-1 has higher infection rates in:
+Southwestern Japan.
+Sub-Saharan Africa.
+Parts of South America.
+The Caribbean.
+Northern Iran.
+Central Australia.
+It’s important to note that infection rates aren’t the same in all parts of any country or region. Some areas may have very high rates, while a larger region has low rates overall.
+What are the complications of HTLV-1?
+One of the most common complications of ATL and HAM/TSP is a weakened immune system (HTLV-1 doesn’t weaken your immune system on its own). This means you might get infections that you wouldn’t otherwise (opportunistic infections). Some of these infections can be life-threatening.
+Diagnosis and Tests
+How is HTLV-1 diagnosed?
+Healthcare providers diagnose HTLV-1 with a
+blood test
+that looks for
+antibodies
+to HTLV or its genetic material (RNA). Providers don’t regularly test for HTLV-1. They might test you for it if you:
+Advertisement
+Are diagnosed with a condition that could be related to an HTLV-1 infection.
+Want to breastfeed and live in an area where HTLV infections are common.
+Want to be a blood or organ donor.
+Management and Treatment
+How is HTLV-1 treated?
+There’s no cure for HTLV-1. Providers treat ATL with:
+Medications used in other types of lymphoma, like
+chemotherapy
+.
+Antiviral medications
+, including
+Zidovudine (Retrovir®)
+and interferon alfa. Not all types of ATL respond to antiviral treatments.
+Stem cell transplant
+. Not many people with ATL can receive a stem cell transplant. But when successful, they can significantly extend your life.
+For people with HAM/TSP, providers use treatments to help alleviate some symptoms. These might include:
+Interferon alfa.
+Corticosteroids
+to reduce inflammation.
+Interferon beta. This can reduce inflammation and prevent nerve damage.
+Baclofen (Lioresal
+®
+) or tizanidine for muscle spasticity and stiffness.
+Oxybutynin
+for urinary incontinence.
+Care at Cleveland Clinic
+Infectious Disease Care
+Make an Appointment
+Outlook / Prognosis
+What should I expect if I have HTLV-1?
+Most people with HTLV-1 won’t develop ATL or HAM/TSP. The outlook for people who do develop these conditions depends on which type they have. People who have smoldering or chronic ATL have a better prognosis than those with other types of ATL. HAM/TSP gets progressively worse over time, but you can live for several decades with it after diagnosis.
+Advertisement
+Prevention
+Can HTLV-1 be prevented?
+Providers screen donated blood and organs for HTLV-1 to help prevent its spread. You can reduce your risk by trying to avoid:
+Injecting nonprescription drugs.
+Sharing or reusing needles.
+Having unprotected sex. Use latex
+condoms
+whenever you have any type of sex (vaginal, anal or oral).
+Breastfeeding or donating blood if you test positive for HTLV-1. If you have HTLV-1 and want to breastfeed, ask a healthcare provider familiar with HTLV-1 about options. Expressing breast milk and freezing it, then thawing it can reduce your risk of transmitting HTLV-1.
+Living With
+What does it mean to be HTLV positive?
+Being HTLV positive means you carry HTLV-1 or another type of HTLV. It doesn’t mean you’ll get ATL or HAM/TSP. If you test positive for HTLV-1, there are precautions you can take to prevent its spread, like not breastfeeding or having unprotected sex.
+How serious is HTLV?
+On its own, HTLV usually isn’t serious and doesn’t cause symptoms. But HTLV-1 sometimes leads to cancers, neurological diseases or inflammatory conditions.
+When should I see my healthcare provider?
+Talk to a healthcare provider if you have questions about being tested for HTLV-1, or precautions you need to take if you test positive.
+A note from Cleveland Clinic
+Human T-lymphotropic virus type-1 (HTLV-1) infections exist worldwide, but are uncommon in most places. Only a small percentage of people with infections will develop serious illnesses. If you live in an area where HTLV-1 is common, ask your healthcare provider about precautions you can take to prevent its spread.
+Advertisement
+Care at Cleveland Clinic
+Have a virus, fungus or bacteria? Some of these “bugs” won’t go away on their own. Cleveland Clinic’s infectious disease experts are here to help.
+Infectious Disease Care
+Make an Appointment
+Medically Reviewed
+Last reviewed on 07/25/2024.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointments
+216.444.6503
+Appointments & Locations
+Request an Appointment

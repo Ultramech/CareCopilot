@@ -1,0 +1,202 @@
+16p11.2 duplication: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+16p11.2 duplication
+URL of this page: https://medlineplus.gov/genetics/condition/16p112-duplication/
+16p11.2 duplication
+Description
+16p11.2 duplication is a chromosomal change in which a small amount of genetic material within chromosome 16 is abnormally copied (
+duplicated
+). The duplication occurs near the middle of the chromosome at a location designated p11.2. This duplication can have a variety of effects. Common characteristics that occur in people with a 16p11.2 duplication include a low weight; a small head size (microcephaly); and developmental delay, especially in speech and language. Affected individuals also have an increased risk of behavioral problems. However, some people with the duplication have no identified physical or behavioral abnormalities.
+Developmental delay and intellectual disability can occur in people with a 16p11.2 duplication. Approximately one-third of children with this condition have delays in developing physical skills such as sitting, crawling, or walking. The average IQ of affected individuals is about 26 points lower than that of their parents without the duplication. About 80 percent of people with a 16p11.2 duplication have problems related to speech or language. Both expressive language skills (vocabulary and the production of speech) and receptive language skills (the ability to understand speech) can be affected.
+One of the most common behavioral problems associated with this chromosomal change is
+attention-deficit/hyperactivity disorder
+(ADHD).
+Autism spectrum disorder
+, which affects communication and social skills, is diagnosed in about one in five people with a 16p11.2 duplication. Affected individuals also have an increased risk of mental health problems, including
+schizophrenia
+, anxiety, and
+depression
+. Recurrent seizures are possible in this condition, although they do not occur in most affected individuals.
+Other abnormalities that can occur with a 16p11.2 duplication include malformations of the
+kidneys and urinary tract
+. However, there is no particular pattern of physical abnormalities that characterizes 16p11.2 duplications; signs and symptoms related to the chromosomal change vary even among affected members of the same family.
+Frequency
+16p11.2 duplications have been estimated to occur in about 3 in 10,000 people. These changes are present in about 4 in 10,000 people who have mental health problems or difficulties with speech and language. Many people with the duplication are likely never diagnosed because there are many causes of these problems, and some people with the duplication have no related health or developmental problems.
+Causes
+People with a 16p11.2 duplication have an
+extra copy of a segment of genetic material
+on the short (p) arm of
+chromosome 16
+at a position known as p11.2. This duplication affects one of the two copies of chromosome 16 in each cell. The length of the duplicated segment is most often about 600,000 DNA building blocks (
+base pairs
+), also written as 600 kilobases (kb). The 600 kb region contains more than 25 genes, and little is known about the function of most of these genes. Researchers are working to determine how the extra genetic material contributes to the features of 16p11.2 duplication.
+Learn more about the chromosome associated with 16p11.2 duplication
+chromosome 16
+Inheritance
+16p11.2 duplications have an autosomal dominant inheritance pattern, which means that a duplication in one copy of chromosome 16 in each cell is sufficient to cause the condition. Most affected individuals inherit the duplication from
+one affected parent
+; they may have similar characteristics of the condition as the parent, or they may be either more or less severely affected. However, in some cases 16p11.2 duplications are not inherited. Instead, they occur as random events during the formation of reproductive cells (eggs and sperm) or in early fetal development. People with a
+new duplication
+typically have no history of related signs or symptoms in their family, although their children can inherit the chromosomal change.
+Other Names for This Condition
+16p11.2 duplication syndrome
+16p11.2 microduplication
+Autism, susceptibility to, 14B
+AUTS14B
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Chromosome 16p11.2 duplication syndrome
+Genetic and Rare Diseases Information Center
+Proximal 16p11.2 microduplication syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CHROMOSOME 16p11.2 DUPLICATION SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+D'Angelo D, Lebon S, Chen Q, Martin-Brevet S, Snyder LG, Hippolyte L, Hanson
+E, Maillard AM, Faucett WA, Mace A, Pain A, Bernier R, Chawner SJ, David A,
+Andrieux J, Aylward E, Baujat G, Caldeira I, Conus P, Ferrari C, Forzano F,
+Gerard M, Goin-Kochel RP, Grant E, Hunter JV, Isidor B, Jacquette A, Jonch AE,
+Keren B, Lacombe D, Le Caignec C, Martin CL, Mannik K, Metspalu A, Mignot C,
+Mukherjee P, Owen MJ, Passeggeri M, Rooryck-Thambo C, Rosenfeld JA, Spence SJ,
+Steinman KJ, Tjernagel J, Van Haelst M, Shen Y, Draganski B, Sherr EH, Ledbetter
+DH, van den Bree MB, Beckmann JS, Spiro JE, Reymond A, Jacquemont S, Chung WK;
+Cardiff University Experiences of Children With Copy Number Variants (ECHO)
+Study; 16p11.2 European Consortium; Simons Variation in Individuals Project (VIP)
+Consortium. Defining the Effect of the 16p11.2 Duplication on Cognition,
+Behavior, and Medical Comorbidities. JAMA Psychiatry. 2016 Jan;73(1):20-30. doi:
+10.1001/jamapsychiatry.2015.2123.
+Citation on PubMed
+Fernandez BA, Roberts W, Chung B, Weksberg R, Meyn S, Szatmari P,
+Joseph-George AM, Mackay S, Whitten K, Noble B, Vardy C, Crosbie V, Luscombe S,
+Tucker E, Turner L, Marshall CR, Scherer SW. Phenotypic spectrum associated with
+de novo and inherited deletions and duplications at 16p11.2 in individuals
+ascertained for diagnosis of autism spectrum disorder. J Med Genet. 2010
+Mar;47(3):195-203. doi: 10.1136/jmg.2009.069369. Epub 2009 Sep 15.
+Citation on PubMed
+Filges I, Sparagana S, Sargent M, Selby K, Schlade-Bartusiak K, Lueder GT,
+Robichaux-Viehoever A, Schlaggar BL, Shimony JS, Shinawi M. Brain MRI
+abnormalities and spectrum of neurological and clinical findings in three
+patients with proximal 16p11.2 microduplication. Am J Med Genet A. 2014
+Aug;164A(8):2003-12. doi: 10.1002/ajmg.a.36605. Epub 2014 May 28.
+Citation on PubMed
+Jacquemont S, Reymond A, Zufferey F, Harewood L, Walters RG, Kutalik Z,
+Martinet D, Shen Y, Valsesia A, Beckmann ND, Thorleifsson G, Belfiore M,
+Bouquillon S, Campion D, de Leeuw N, de Vries BB, Esko T, Fernandez BA,
+Fernandez-Aranda F, Fernandez-Real JM, Gratacos M, Guilmatre A, Hoyer J, Jarvelin
+MR, Kooy RF, Kurg A, Le Caignec C, Mannik K, Platt OS, Sanlaville D, Van Haelst
+MM, Villatoro Gomez S, Walha F, Wu BL, Yu Y, Aboura A, Addor MC, Alembik Y,
+Antonarakis SE, Arveiler B, Barth M, Bednarek N, Bena F, Bergmann S, Beri M,
+Bernardini L, Blaumeiser B, Bonneau D, Bottani A, Boute O, Brunner HG, Cailley D,
+Callier P, Chiesa J, Chrast J, Coin L, Coutton C, Cuisset JM, Cuvellier JC, David
+A, de Freminville B, Delobel B, Delrue MA, Demeer B, Descamps D, Didelot G,
+Dieterich K, Disciglio V, Doco-Fenzy M, Drunat S, Duban-Bedu B, Dubourg C,
+El-Sayed Moustafa JS, Elliott P, Faas BH, Faivre L, Faudet A, Fellmann F,
+Ferrarini A, Fisher R, Flori E, Forer L, Gaillard D, Gerard M, Gieger C, Gimelli
+S, Gimelli G, Grabe HJ, Guichet A, Guillin O, Hartikainen AL, Heron D, Hippolyte
+L, Holder M, Homuth G, Isidor B, Jaillard S, Jaros Z, Jimenez-Murcia S, Helas GJ,
+Jonveaux P, Kaksonen S, Keren B, Kloss-Brandstatter A, Knoers NV, Koolen DA,
+Kroisel PM, Kronenberg F, Labalme A, Landais E, Lapi E, Layet V, Legallic S,
+Leheup B, Leube B, Lewis S, Lucas J, MacDermot KD, Magnusson P, Marshall C,
+Mathieu-Dramard M, McCarthy MI, Meitinger T, Mencarelli MA, Merla G, Moerman A,
+Mooser V, Morice-Picard F, Mucciolo M, Nauck M, Ndiaye NC, Nordgren A, Pasquier
+L, Petit F, Pfundt R, Plessis G, Rajcan-Separovic E, Ramelli GP, Rauch A,
+Ravazzolo R, Reis A, Renieri A, Richart C, Ried JS, Rieubland C, Roberts W,
+Roetzer KM, Rooryck C, Rossi M, Saemundsen E, Satre V, Schurmann C, Sigurdsson E,
+Stavropoulos DJ, Stefansson H, Tengstrom C, Thorsteinsdottir U, Tinahones FJ,
+Touraine R, Vallee L, van Binsbergen E, Van der Aa N, Vincent-Delorme C,
+Visvikis-Siest S, Vollenweider P, Volzke H, Vulto-van Silfhout AT, Waeber G,
+Wallgren-Pettersson C, Witwicki RM, Zwolinksi S, Andrieux J, Estivill X, Gusella
+JF, Gustafsson O, Metspalu A, Scherer SW, Stefansson K, Blakemore AI, Beckmann
+JS, Froguel P. Mirror extreme BMI phenotypes associated with gene dosage at the
+chromosome 16p11.2 locus. Nature. 2011 Aug 31;478(7367):97-102. doi:
+10.1038/nature10406.
+Citation on PubMed
+or
+Free article on PubMed Central
+McCarthy SE, Makarov V, Kirov G, Addington AM, McClellan J, Yoon S, Perkins
+DO, Dickel DE, Kusenda M, Krastoshevsky O, Krause V, Kumar RA, Grozeva D,
+Malhotra D, Walsh T, Zackai EH, Kaplan P, Ganesh J, Krantz ID, Spinner NB,
+Roccanova P, Bhandari A, Pavon K, Lakshmi B, Leotta A, Kendall J, Lee YH, Vacic
+V, Gary S, Iakoucheva LM, Crow TJ, Christian SL, Lieberman JA, Stroup TS,
+Lehtimaki T, Puura K, Haldeman-Englert C, Pearl J, Goodell M, Willour VL, Derosse
+P, Steele J, Kassem L, Wolff J, Chitkara N, McMahon FJ, Malhotra AK, Potash JB,
+Schulze TG, Nothen MM, Cichon S, Rietschel M, Leibenluft E, Kustanovich V,
+Lajonchere CM, Sutcliffe JS, Skuse D, Gill M, Gallagher L, Mendell NR; Wellcome
+Trust Case Control Consortium; Craddock N, Owen MJ, O'Donovan MC, Shaikh TH,
+Susser E, Delisi LE, Sullivan PF, Deutsch CK, Rapoport J, Levy DL, King MC, Sebat
+J. Microduplications of 16p11.2 are associated with schizophrenia. Nat Genet.
+2009 Nov;41(11):1223-7. doi: 10.1038/ng.474. Epub 2009 Oct 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rosenfeld JA, Coppinger J, Bejjani BA, Girirajan S, Eichler EE, Shaffer LG,
+Ballif BC. Speech delays and behavioral problems are the predominant features in
+individuals with developmental delays and 16p11.2 microdeletions and
+microduplications. J Neurodev Disord. 2010 Mar;2(1):26-38. doi:
+10.1007/s11689-009-9037-4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Shinawi M, Liu P, Kang SH, Shen J, Belmont JW, Scott DA, Probst FJ, Craigen
+WJ, Graham BH, Pursley A, Clark G, Lee J, Proud M, Stocco A, Rodriguez DL, Kozel
+BA, Sparagana S, Roeder ER, McGrew SG, Kurczynski TW, Allison LJ, Amato S, Savage
+S, Patel A, Stankiewicz P, Beaudet AL, Cheung SW, Lupski JR. Recurrent reciprocal
+16p11.2 rearrangements associated with global developmental delay, behavioural
+problems, dysmorphism, epilepsy, and abnormal head size. J Med Genet. 2010
+May;47(5):332-41. doi: 10.1136/jmg.2009.073015. Epub 2009 Nov 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Weiss LA, Shen Y, Korn JM, Arking DE, Miller DT, Fossdal R, Saemundsen E,
+Stefansson H, Ferreira MA, Green T, Platt OS, Ruderfer DM, Walsh CA, Altshuler D,
+Chakravarti A, Tanzi RE, Stefansson K, Santangelo SL, Gusella JF, Sklar P, Wu BL,
+Daly MJ; Autism Consortium. Association between microdeletion and
+microduplication at 16p11.2 and autism. N Engl J Med. 2008 Feb 14;358(7):667-75.
+doi: 10.1056/NEJMoa075974. Epub 2008 Jan 9.
+Citation on PubMed
+Related Health Topics
+Autism Spectrum Disorder
+Developmental Disabilities
+Genetic Disorders
+Speech and Communication Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

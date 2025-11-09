@@ -1,0 +1,103 @@
+Hereditary antithrombin deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary antithrombin deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-antithrombin-deficiency/
+Hereditary antithrombin deficiency
+Description
+Hereditary antithrombin deficiency is a disorder of blood clotting. People with this condition are at higher than average risk for developing abnormal blood clots, particularly a type of clot that occurs in the deep veins of the legs. This type of clot is called a
+deep vein thrombosis
+(DVT). Affected individuals also have an increased risk of developing a
+pulmonary embolism
+(PE), which is a clot that travels through the bloodstream and lodges in the lungs. In hereditary antithrombin deficiency, abnormal blood clots usually form only in veins, although they may rarely occur in arteries.
+About half of people with hereditary antithrombin deficiency will develop at least one abnormal blood clot during their lifetime. These clots usually develop after adolescence.
+Other factors can increase the risk of abnormal blood clots in people with hereditary antithrombin deficiency. These factors include increasing age, surgery, or immobility. The combination of hereditary antithrombin deficiency and other inherited disorders of blood clotting can also influence risk. Women with hereditary antithrombin deficiency are at increased risk of developing an abnormal blood clot during pregnancy or soon after delivery. They also may have an increased risk for pregnancy loss (miscarriage) or stillbirth.
+Frequency
+Hereditary antithrombin deficiency is estimated to occur in about 1 in 2,000 to 3,000 individuals. Of people who have experienced an abnormal blood clot, about 1 in 20 to 200 have hereditary antithrombin deficiency.
+Causes
+Hereditary antithrombin deficiency is caused by mutations in the
+SERPINC1
+gene. This gene provides instructions for producing a protein called antithrombin (previously known as antithrombin III). This protein is found in the bloodstream and is important for controlling blood clotting. Antithrombin blocks the activity of proteins that promote blood clotting, especially a protein called thrombin.
+Most of the mutations that cause hereditary antithrombin deficiency change single protein building blocks (amino acids) in antithrombin, which disrupts its ability to control blood clotting. Individuals with this condition do not have enough functional antithrombin to inactivate clotting proteins, which results in the increased risk of developing abnormal blood clots.
+Learn more about the gene associated with Hereditary antithrombin deficiency
+SERPINC1
+Inheritance
+Hereditary antithrombin deficiency is typically inherited in an
+autosomal dominant pattern
+, which means one altered copy of the
+SERPINC1
+gene in each cell is sufficient to cause the disorder. Inheriting two altered copies of this gene in each cell is usually incompatible with life; however, a few severely affected individuals have been reported with mutations in both copies of the
+SERPINC1
+gene in each cell.
+Other Names for This Condition
+Antithrombin III deficiency
+Congenital antithrombin III deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary antithrombin deficiency
+Genetic and Rare Diseases Information Center
+Hereditary thrombophilia due to congenital antithrombin deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SERPIN PEPTIDASE INHIBITOR, CLADE C (ANTITHROMBIN), MEMBER 1; SERPINC1
+Scientific Articles on PubMed
+PubMed
+References
+Brouwer JL, Lijfering WM, Ten Kate MK, Kluin-Nelemans HC, Veeger NJ, van der
+Meer J. High long-term absolute risk of recurrent venous thromboembolism in
+patients with hereditary deficiencies of protein S, protein C or antithrombin.
+Thromb Haemost. 2009 Jan;101(1):93-9.
+Citation on PubMed
+Maclean PS, Tait RC. Hereditary and acquired antithrombin deficiency:
+epidemiology, pathogenesis and treatment options. Drugs. 2007;67(10):1429-40.
+doi: 10.2165/00003495-200767100-00005.
+Citation on PubMed
+Patnaik MM, Moll S. Inherited antithrombin deficiency: a review. Haemophilia.
+2008 Nov;14(6):1229-39. doi: 10.1111/j.1365-2516.2008.01830.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Blood Clots
+Deep Vein Thrombosis
+Genetic Disorders
+Pulmonary Embolism
+MEDICAL ENCYCLOPEDIA
+Blood clots
+Congenital antithrombin III deficiency
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

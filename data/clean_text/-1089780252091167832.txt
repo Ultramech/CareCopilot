@@ -1,0 +1,130 @@
+Mycosis fungoides: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Mycosis fungoides
+URL of this page: https://medlineplus.gov/genetics/condition/mycosis-fungoides/
+Mycosis fungoides
+Description
+Mycosis fungoides is the most common form of a type of blood cancer called cutaneous T-cell lymphoma. Cutaneous T-cell lymphomas occur when certain white blood cells, called
+T cells
+, become cancerous; these cancers characteristically affect the skin, causing different types of skin lesions. Although the skin is involved, the skin cells themselves are not cancerous. Mycosis fungoides usually occurs in adults over age 50, although affected children have been identified.
+Mycosis fungoides may progress slowly through several stages, although not all people with the condition progress through all stages. Most affected individuals initially develop skin lesions called patches, which are flat, scaly, pink or red areas on the skin that can be itchy. Cancerous T cells, which cause the formation of patches, are found in these lesions. The skin cells themselves are not cancerous; the skin problems result when cancerous T cells move from the blood into the skin. Patches are most commonly found on the lower abdomen, upper thighs, buttocks, and breasts. They can disappear and reappear or remain stable over time. In some affected individuals, patches progress to plaques, the next stage of mycosis fungoides.
+Plaques are raised lesions that are usually reddish, purplish, or brownish in color and itchy. Plaques commonly occur in the same body regions as patches. While some plaques arise from patches, others develop on their own, and an affected person can have both patches and plaques simultaneously. As with patches, cancerous T cells are found in plaques. Plaques can remain stable or can develop into tumors. Not everyone with patches or plaques develops tumors.
+The tumors in mycosis fungoides, which are composed of cancerous T cells, are raised nodules that are thicker and deeper than plaques. They can arise from patches or plaques or occur on their own. Mycosis fungoides was so named because the tumors can resemble mushrooms, a type of fungus. Common locations for tumor development include the upper thighs and groin, breasts, armpits, and the crook of the elbow. Open sores may develop on the tumors, often leading to infection.
+Although rare, the cancerous T cells can spread to other organs, including the lymph nodes, spleen, liver, and lungs. Spread to other organs can occur in any stage of mycosis fungoides but is most common in the tumor stage. In addition, affected individuals have an increased risk of developing another lymphoma or other type of cancer.
+Frequency
+Mycosis fungoides occurs in about 1 in 100,000 to 350,000 individuals. It accounts for approximately 70 percent of cutaneous T-cell lymphomas. For unknown reasons, mycosis fungoides affects males nearly twice as often as females. In the United States, there are an estimated 3.6 cases per million people each year. The condition has been found in regions around the world.
+Causes
+The cause of mycosis fungoides is unknown. Most affected individuals have one or more chromosomal abnormalities, such as the loss or gain of genetic material. These abnormalities occur during a person's lifetime and are found only in the DNA of cancerous cells. Abnormalities have been found on most chromosomes, but some regions are more commonly affected than others. People with this condition tend to have additions of DNA in regions of chromosomes 7 and 17 or loss of DNA from regions of chromosomes 9 and 10. It is unclear whether these genetic changes play a role in mycosis fungoides, although the tendency to acquire chromosome abnormalities (chromosomal instability) is a feature of many cancers. It can lead to genetic changes that allow cells to grow and divide uncontrollably.
+Other research suggests that certain variants of
+HLA class II genes
+are associated with mycosis fungoides. HLA genes help the immune system distinguish the body's own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person's immune system to react to a wide range of foreign proteins. The specific variants are inherited through families. Certain variations of HLA genes may affect the risk of developing mycosis fungoides or may impact progression of the disorder.
+It is possible that other factors, such as environmental exposure or certain bacterial or viral infections, are involved in the development of mycosis fungoides. However, the influence of genetic and environmental factors on the development of this complex disorder remains unclear.
+Inheritance
+The inheritance pattern of mycosis fungoides has not been determined. Although the condition has been found in multiple members of more than a dozen families, it most often occurs in people with no history of the disorder in their family and is typically not inherited.
+Other Names for This Condition
+Alibert-Bazin syndrome
+Granuloma fungoides
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Classic mycosis fungoides
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MYCOSIS FUNGOIDES
+Scientific Articles on PubMed
+PubMed
+References
+Campbell JJ, Clark RA, Watanabe R, Kupper TS. Sezary syndrome and mycosis
+fungoides arise from distinct T-cell subsets: a biologic rationale for their
+distinct clinical behaviors. Blood. 2010 Aug 5;116(5):767-71. doi:
+10.1182/blood-2009-11-251926. Epub 2010 May 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hodak E, Klein T, Gabay B, Ben-Amitai D, Bergman R, Gdalevich M, Feinmesser M,
+Maron L, David M. Familial mycosis fungoides: report of 6 kindreds and a study of
+the HLA system. J Am Acad Dermatol. 2005 Mar;52(3 Pt 1):393-402. doi:
+10.1016/j.jaad.2003.12.052.
+Citation on PubMed
+Hwang ST, Janik JE, Jaffe ES, Wilson WH. Mycosis fungoides and Sezary
+syndrome. Lancet. 2008 Mar 15;371(9616):945-57. doi:
+10.1016/S0140-6736(08)60420-1.
+Citation on PubMed
+Laharanne E, Oumouhou N, Bonnet F, Carlotti M, Gentil C, Chevret E, Jouary T,
+Longy M, Vergier B, Beylot-Barry M, Merlio JP. Genome-wide analysis of cutaneous
+T-cell lymphomas identifies three clinically relevant classes. J Invest Dermatol.
+2010 Jun;130(6):1707-18. doi: 10.1038/jid.2010.8. Epub 2010 Feb 4.
+Citation on PubMed
+Rosen ST, Querfeld C. Primary cutaneous T-cell lymphomas. Hematology Am Soc
+Hematol Educ Program. 2006:323-30, 513. doi: 10.1182/asheducation-2006.1.323.
+Citation on PubMed
+Salgado R, Servitje O, Gallardo F, Vermeer MH, Ortiz-Romero PL, Karpova MB,
+Zipser MC, Muniesa C, Garcia-Muret MP, Estrach T, Salido M, Sanchez-Schmidt J,
+Herrera M, Romagosa V, Suela J, Ferreira BI, Cigudosa JC, Barranco C, Serrano S,
+Dummer R, Tensen CP, Sole F, Pujol RM, Espinet B. Oligonucleotide array-CGH
+identifies genomic subgroups and prognostic markers for tumor stage mycosis
+fungoides. J Invest Dermatol. 2010 Apr;130(4):1126-35. doi: 10.1038/jid.2009.306.
+Epub 2009 Sep 17.
+Citation on PubMed
+van Doorn R, van Kester MS, Dijkman R, Vermeer MH, Mulder AA, Szuhai K,
+Knijnenburg J, Boer JM, Willemze R, Tensen CP. Oncogenomic analysis of mycosis
+fungoides reveals major differences with Sezary syndrome. Blood. 2009 Jan
+1;113(1):127-36. doi: 10.1182/blood-2008-04-153031. Epub 2008 Oct 1.
+Citation on PubMed
+Wong HK, Mishra A, Hake T, Porcu P. Evolving insights in the pathogenesis and
+therapy of cutaneous T-cell lymphoma (mycosis fungoides and Sezary syndrome). Br
+J Haematol. 2011 Oct;155(2):150-66. doi: 10.1111/j.1365-2141.2011.08852.x. Epub
+2011 Aug 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yamashita T, Abbade LP, Marques ME, Marques SA. Mycosis fungoides and Sezary
+syndrome: clinical, histopathological and immunohistochemical review and update.
+An Bras Dermatol. 2012 Nov-Dec;87(6):817-28; quiz 829-30. doi:
+10.1590/s0365-05962012000600001.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Cancer--Living with Cancer
+Genetic Disorders
+Lymphoma
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

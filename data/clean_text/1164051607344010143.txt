@@ -1,0 +1,124 @@
+Parkes Weber syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Parkes Weber syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/parkes-weber-syndrome/
+Parkes Weber syndrome
+Description
+Parkes Weber syndrome is a disorder of the vascular system, which is the body's complex network of blood vessels. The vascular system consists of
+arteries
+, which carry oxygen-rich blood from the heart to the body's various organs and tissues; veins, which carry blood back to the heart; and capillaries, which are tiny blood vessels that connect arteries and veins.
+Parkes Weber syndrome is characterized by vascular abnormalities known as capillary malformations and arteriovenous fistulas (AVFs), which are present from birth. The capillary malformations increase blood flow near the surface of the skin. They usually look like large, flat, pink stains on the skin, and because of their color are sometimes called "port-wine stains." In people with Parkes Weber syndrome, capillary malformations occur together with multiple micro-AVFs, which are tiny abnormal connections between arteries and veins that affect blood circulation. These AVFs can be associated with life-threatening complications including abnormal bleeding and heart failure.
+Another characteristic feature of Parkes Weber syndrome is overgrowth of one limb, most commonly a leg. Abnormal growth occurs in bones and soft tissues, making one of the limbs longer and larger around than the corresponding one.
+Some vascular abnormalities seen in Parkes Weber syndrome are similar to those that occur in a condition called
+capillary malformation-arteriovenous malformation syndrome
+(CM-AVM). CM-AVM and some cases of Parkes Weber syndrome have the same genetic cause.
+Frequency
+Parkes Weber syndrome is a rare condition; its exact prevalence is unknown.
+Causes
+Some cases of Parkes Weber syndrome result from mutations in the
+RASA1
+gene. When the condition is caused by
+RASA1
+gene mutations, affected individuals usually have multiple capillary malformations. People with Parkes Weber syndrome who do not have multiple capillary malformations are unlikely to have mutations in the
+RASA1
+gene; in these cases, the cause of the condition is often unknown.
+The
+RASA1
+gene provides instructions for making a protein known as p120-RasGAP, which is involved in transmitting chemical signals from outside the cell to the nucleus. These signals help control several important cell functions, including the growth and
+division
+(proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), and cell movement. The role of the p120-RasGAP protein is not fully understood, although it appears to be essential for the normal development of the vascular system.
+Mutations in the
+RASA1
+gene lead to the production of a nonfunctional version of the p120-RasGAP protein. A loss of this protein's activity disrupts tightly regulated chemical signaling during development. However, it is unclear how these changes lead to the specific vascular abnormalities and limb overgrowth seen in people with Parkes Weber syndrome.
+Learn more about the gene associated with Parkes Weber syndrome
+RASA1
+Inheritance
+Most cases of Parkes Weber syndrome occur in people with no history of the condition in their family. These cases are described as sporadic.
+When Parkes Weber syndrome is caused by mutations in the
+RASA1
+gene, it is sometimes inherited from an affected parent. In these cases, the condition has an
+autosomal dominant pattern
+of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Parkes-Weber syndrome
+PKWS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Parkes Weber syndrome
+Genetic and Rare Diseases Information Center
+Parkes Weber syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CAPILLARY MALFORMATION-ARTERIOVENOUS MALFORMATION 1; CMAVM1
+Scientific Articles on PubMed
+PubMed
+References
+Bayrak-Toydemir P, Stevenson DA. Capillary Malformation-Arteriovenous
+Malformation Syndrome. 2011 Feb 22 [updated 2019 Sep 12]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK52764/
+Citation on PubMed
+Boon LM, Mulliken JB, Vikkula M. RASA1: variable phenotype with capillary and
+arteriovenous malformations. Curr Opin Genet Dev. 2005 Jun;15(3):265-9. doi:
+10.1016/j.gde.2005.03.004.
+Citation on PubMed
+Lobo-Mueller E, Amaral JG, Babyn PS, Wang Q, John P. Complex combined vascular
+malformations and vascular malformation syndromes affecting the extremities in
+children. Semin Musculoskelet Radiol. 2009 Sep;13(3):255-76. doi:
+10.1055/s-0029-1237692. Epub 2009 Sep 1.
+Citation on PubMed
+Revencu N, Boon LM, Mulliken JB, Enjolras O, Cordisco MR, Burrows PE, Clapuyt
+P, Hammer F, Dubois J, Baselga E, Brancati F, Carder R, Quintal JM, Dallapiccola
+B, Fischer G, Frieden IJ, Garzon M, Harper J, Johnson-Patel J, Labreze C,
+Martorell L, Paltiel HJ, Pohl A, Prendiville J, Quere I, Siegel DH, Valente EM,
+Van Hagen A, Van Hest L, Vaux KK, Vicente A, Weibel L, Chitayat D, Vikkula M.
+Parkes Weber syndrome, vein of Galen aneurysmal malformation, and other fast-flow
+vascular anomalies are caused by RASA1 mutations. Hum Mutat. 2008
+Jul;29(7):959-65. doi: 10.1002/humu.20746.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Arteriovenous Malformations
+Genetic Disorders
+Vascular Diseases
+MEDICAL ENCYCLOPEDIA
+Cerebral arteriovenous malformation
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

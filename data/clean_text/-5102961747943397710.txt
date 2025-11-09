@@ -1,0 +1,116 @@
+Melorheostosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Melorheostosis
+URL of this page: https://medlineplus.gov/genetics/condition/melorheostosis/
+Melorheostosis
+Description
+Melorheostosis is a rare bone disease. It causes the abnormal growth of new bone tissue on the surface of existing bones. The new bone has a characteristic appearance on x-rays, often described as "flowing" or like dripping candle wax. The excess bone growth typically occurs on the bones in one arm or leg, although it can also affect the pelvis, breastbone (sternum), ribs, or other bones. (The term "melorheostosis" is derived from the Greek words "melos," which means limb; "rheos," which means flow; and "ostosis," which refers to bone formation.) The abnormal bone growth associated with melorheostosis is noncancerous (benign), and it does not spread from one bone to another.
+The signs and symptoms of melorheostosis usually appear in childhood or adolescence. The condition can cause long-lasting (chronic) pain, permanent joint deformities (contractures), and a limited range of motion of the affected body part. In some people, the limb may appear thickened or enlarged, and the skin overlying the affected area can become red, thick, and shiny.
+Another rare disease,
+Buschke-Ollendorff syndrome
+, can include melorheostosis. Buschke-Ollendorff syndrome is characterized by skin growths called connective tissue nevi and areas of increased bone density called osteopoikilosis. A small percentage of affected individuals also have melorheostosis or other bone abnormalities. Scientists originally speculated that melorheostosis that occurs without the other features of Buschke-Ollendorff syndrome might have the same genetic cause as that syndrome. However, it has since been determined that Buschke-Ollendorff syndrome and melorheostosis that occurs alone are caused by mutations in different genes, and the two conditions are considered separate disorders.
+Frequency
+Melorheostosis affects about 1 in 1 million people. Approximately 400 cases have been reported worldwide.
+Causes
+Mutations in the
+MAP2K1
+gene are estimated to cause about half of all cases of melorheostosis. The
+MAP2K1
+gene provides instructions for making a protein called MEK1 protein kinase. This protein is active in many kinds of cells, including bone cells. It is part of a signaling pathway called RAS/MAPK. This signaling pathway helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), and cell movement (migration). RAS/MAPK signaling is critical for normal development, including the formation of bones.
+The
+MAP2K1
+gene mutations that cause melorheostosis are somatic, which means that they occur during a person's lifetime and are present only in certain cells, in this case, bone cells in a particular area of the body. The mutations lead to the production of a version of MEK1 protein kinase that is overactive, which increases RAS/MAPK signaling in bone tissue. The increased signaling disrupts the regulation of bone cell proliferation, allowing new bone to grow abnormally. Studies suggest that increased RAS/MAPK signaling also stimulates excess bone remodeling, a normal process in which old bone is broken down and new bone is created to replace it. These changes in bone growth and turnover underlie the bone abnormalities characteristic of melorheostosis.
+In cases of melorheostosis without an identified mutation in the
+MAP2K1
+gene, the cause of the condition is usually unknown. Studies suggest that somatic mutations in other genes, particularly genes related to the RAS/MAPK signaling pathway, may also cause the disorder.
+Learn more about the gene associated with Melorheostosis
+MAP2K1
+Inheritance
+This condition is not inherited from a parent, and it cannot be passed down to children. It arises from somatic mutations in bone cells that occur during an individual's lifetime.
+Other Names for This Condition
+Candle wax disease
+Flowing hyperostosis
+Hyperostosis, monomelic
+Leri syndrome
+Leri's disease
+Melorheostoses
+Melorheostosis of Leri
+Melorheostosis, isolated
+Periostitis; monomelic
+Rheostosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Melorheostosis
+Genetic and Rare Diseases Information Center
+Melorheostosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MELORHEOSTOSIS, ISOLATED; MEL
+Scientific Articles on PubMed
+PubMed
+References
+Jain VK, Arya RK, Bharadwaj M, Kumar S. Melorheostosis: clinicopathological
+features, diagnosis, and management. Orthopedics. 2009 Jul;32(7):512. doi:
+10.3928/01477447-20090527-20.
+Citation on PubMed
+Kang H, Jha S, Deng Z, Fratzl-Zelman N, Cabral WA, Ivovic A, Meylan F, Hanson
+EP, Lange E, Katz J, Roschger P, Klaushofer K, Cowen EW, Siegel RM, Marini JC,
+Bhattacharyya T. Somatic activating mutations in MAP2K1 cause melorheostosis. Nat
+Commun. 2018 Apr 11;9(1):1390. doi: 10.1038/s41467-018-03720-z.
+Citation on PubMed
+Smith GC, Pingree MJ, Freeman LA, Matsumoto JM, Howe BM, Kannas SN, Pyfferoen
+MD, Struss LT, Wenger DE, Amrami KK, Matsumoto M, Jurisson ML. Melorheostosis: A
+Retrospective Clinical Analysis of 24 Patients at the Mayo Clinic. PM R. 2017
+Mar;9(3):283-288. doi: 10.1016/j.pmrj.2016.07.530. Epub 2016 Jul 30.
+Citation on PubMed
+Whyte MP, Griffith M, Trani L, Mumm S, Gottesman GS, McAlister WH, Krysiak K,
+Lesurf R, Skidmore ZL, Campbell KM, Rosman IS, Bayliss S, Bijanki VN, Nenninger
+A, Van Tine BA, Griffith OL, Mardis ER. Melorheostosis: Exome sequencing of an
+associated dermatosis implicates postzygotic mosaicism of mutated KRAS. Bone.
+2017 Aug;101:145-155. doi: 10.1016/j.bone.2017.04.010. Epub 2017 Apr 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,44 @@
+# --- Core ---
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+httpx==0.27.0
+requests==2.32.3
+
+# --- Database / Storage ---
+supabase==2.5.0
+psycopg2-binary==2.9.9  # optional for debugging Postgres directly
+
+# --- Vector Store / RAG ---
+llama-index-core==0.14.7
+llama-index-llms-groq==0.3.1
+llama-index-embeddings-huggingface==0.2.4
+llama-index-vector-stores-pinecone==0.2.3
+llama-index-readers-file==0.2.0
+
+# --- Embeddings / Models ---
+sentence-transformers==2.7.0
+transformers==4.44.2
+torch==2.4.1
+
+# --- Vector DB ---
+pinecone-client==4.1.0
+chromadb==0.5.3
+
+# --- PDF & Parsing ---
+PyMuPDF==1.24.9        # (fitz)
+llama-parse==0.4.1     # (for advanced PDF parsing)
+pypdf2==3.0.1          # fallback parsing
+
+# --- Data Manipulation ---
+pandas==2.2.2
+numpy==1.26.4
+
+# --- Utilities ---
+tqdm==4.66.5
+uuid==1.30
+typing-extensions==4.12.2
+regex==2024.9.11
+aiofiles==23.2.1
+python-multipart

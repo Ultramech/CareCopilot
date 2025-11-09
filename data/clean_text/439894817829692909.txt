@@ -1,0 +1,111 @@
+Familial pityriasis rubra pilaris: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial pityriasis rubra pilaris
+URL of this page: https://medlineplus.gov/genetics/condition/familial-pityriasis-rubra-pilaris/
+Familial pityriasis rubra pilaris
+Description
+Familial pityriasis rubra pilaris is a rare genetic condition that affects the skin. The name of the condition reflects its major features: The term "pityriasis" refers to scaling; "rubra" means redness; and "pilaris" suggests the involvement of hair follicles in this disorder. Affected individuals have a salmon-colored skin rash covered in fine scales. This rash occurs in patches all over the body, with distinct areas of unaffected skin between the patches. Affected individuals also develop bumps called follicular keratoses that occur around hair follicles. The skin on the palms of the hands and soles of the feet often becomes thick, hard, and callused, a condition known as palmoplantar keratoderma.
+Researchers have distinguished six types of pityriasis rubra pilaris based on the features of the disorder and the age at which signs and symptoms appear. The familial form is usually considered part of type V, which is also known as the atypical juvenile type. People with familial pityriasis rubra pilaris typically have skin abnormalities from birth or early childhood, and these skin problems persist throughout life.
+Frequency
+Familial pityriasis rubra pilaris is a rare condition. Its incidence is unknown, although the familial form appears to be the least common type of pityriasis rubra pilaris.
+Causes
+In most cases of pityriasis rubra pilaris, the cause of the condition is unknown. However, mutations in the
+CARD14
+gene have been found to cause the familial form of the disorder in a few affected families. The
+CARD14
+gene provides instructions for making a protein that turns on (activates) a group of interacting proteins known as nuclear factor-kappa-B (NF-κB). NF-κB regulates the activity of multiple genes, including genes that control the body's immune responses and inflammatory reactions. It also protects cells from certain signals that would otherwise cause them to self-destruct (undergo
+apoptosis
+).
+The CARD14 protein is found in many of the body's tissues, but it is particularly abundant in the skin. NF-κB signaling appears to play an important role in regulating inflammation in the skin. Mutations in the
+CARD14
+gene lead to overactivation of NF-κB signaling, which triggers an abnormal inflammatory response. Researchers are working to determine how these changes lead to the specific features of familial pityriasis rubra pilaris.
+Learn more about the gene associated with Familial pityriasis rubra pilaris
+CARD14
+Inheritance
+Familial pityriasis rubra pilaris usually has an
+autosomal dominant inheritance pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Affected individuals usually inherit the condition from one affected parent. However, the condition is said to have incomplete penetrance because not everyone who inherits the altered gene from a parent develops the condition's characteristic skin abnormalities.
+The other types of pityriasis rubra pilaris are sporadic, which means they occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Familial PRP
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pityriasis rubra pilaris
+Genetic and Rare Diseases Information Center
+Pityriasis rubra pilaris
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PITYRIASIS RUBRA PILARIS; PRP
+Scientific Articles on PubMed
+PubMed
+References
+Fuchs-Telem D, Sarig O, van Steensel MA, Isakov O, Israeli S, Nousbeck J,
+Richard K, Winnepenninckx V, Vernooij M, Shomron N, Uitto J, Fleckman P, Richard
+G, Sprecher E. Familial pityriasis rubra pilaris is caused by mutations in
+CARD14. Am J Hum Genet. 2012 Jul 13;91(1):163-70. doi:
+10.1016/j.ajhg.2012.05.010. Epub 2012 Jun 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Klein A, Landthaler M, Karrer S. Pityriasis rubra pilaris: a review of
+diagnosis and treatment. Am J Clin Dermatol. 2010;11(3):157-70. doi:
+10.2165/11530070-000000000-00000.
+Citation on PubMed
+Sehgal VN, Srivastava G. (Juvenile) Pityriasis rubra pilaris. Int J Dermatol.
+2006 Apr;45(4):438-46. doi: 10.1111/j.1365-4632.2006.02666.x. No abstract
+available.
+Citation on PubMed
+Thomson MA, Moss C. Pityriasis rubra pilaris in a mother and two daughters. Br
+J Dermatol. 2007 Jul;157(1):202-4. doi: 10.1111/j.1365-2133.2007.07938.x. Epub
+2007 May 8. No abstract available.
+Citation on PubMed
+Vanderhooft SL, Francis JS, Holbrook KA, Dale BA, Fleckman P. Familial
+pityriasis rubra pilaris. Arch Dermatol. 1995 Apr;131(4):448-53.
+Citation on PubMed
+Vasher M, Smithberger E, Lien MH, Fenske NA. Familial pityriasis rubra
+pilaris: report of a family and therapeutic response to etanercept. J Drugs
+Dermatol. 2010 Jul;9(7):844-50.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Pityriasis rubra pilaris
+Pityriasis Rubra Pilaris - Close-Up (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

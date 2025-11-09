@@ -1,0 +1,137 @@
+Pyruvate kinase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pyruvate kinase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/pyruvate-kinase-deficiency/
+Pyruvate kinase deficiency
+Description
+Pyruvate kinase deficiency is an inherited disorder that affects red blood cells, which carry oxygen to the body's tissues. People with this disorder have a condition known as chronic hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely, resulting in a shortage of red blood cells (anemia). Specifically, pyruvate kinase deficiency is a common cause of a type of inherited hemolytic anemia called hereditary nonspherocytic hemolytic anemia. In hereditary nonspherocytic hemolytic anemia, the red blood cells do not assume a spherical shape as they do in some other forms of hemolytic anemia.
+Chronic hemolytic
+anemia
+can lead to unusually pale skin (pallor), yellowing of the eyes and skin (jaundice), extreme tiredness (fatigue), shortness of breath (dyspnea), and a rapid heart rate (tachycardia). An enlarged spleen (splenomegaly), an excess of iron in the blood, and small pebble-like deposits in the
+gallbladder
+or
+bile ducts
+(gallstones) are also common in this disorder.
+In people with pyruvate kinase deficiency, hemolytic anemia and associated complications may range from mild to severe. Some affected individuals have few or no symptoms. Severe cases can be life-threatening in infancy, and such affected individuals may require regular blood transfusions to survive. The symptoms of this disorder may get worse during an infection or pregnancy.
+Frequency
+Pyruvate kinase deficiency is the most common inherited cause of nonspherocytic hemolytic anemia. More than 500 affected families have been identified, and studies suggest that the disorder may be underdiagnosed because mild cases may not be identified.
+Pyruvate kinase deficiency is found in all ethnic groups. Its prevalence has been estimated at 1 in 20,000 people of European descent. It is more common in the Old Order Amish population of Pennsylvania.
+Causes
+Pyruvate kinase deficiency is caused by mutations in the
+PKLR
+gene. The
+PKLR
+gene is active in the
+liver
+and in red blood cells, where it provides instructions for making an enzyme called pyruvate kinase. The pyruvate kinase enzyme is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce adenosine triphosphate (ATP), the cell's main energy source.
+PKLR
+gene mutations result in reduced pyruvate kinase enzyme function, causing a shortage of ATP in red blood cells and increased levels of other molecules produced earlier in the glycolysis process. The abnormal red blood cells are gathered up by the spleen and destroyed, causing hemolytic anemia and an enlarged spleen. A shortage of red blood cells to carry oxygen throughout the body leads to fatigue, pallor, and shortness of breath. Iron and a molecule called bilirubin are released when red blood cells are destroyed, resulting in an excess of these substances circulating in the blood. Excess bilirubin in the blood causes jaundice and increases the risk of developing gallstones.
+Pyruvate kinase deficiency may also occur as an effect of other blood diseases, such as
+leukemia
+. These cases are called secondary pyruvate kinase deficiency and are not inherited.
+Learn more about the gene associated with Pyruvate kinase deficiency
+PKLR
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+PK deficiency
+PKD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pyruvate kinase deficiency of red cells
+Genetic and Rare Diseases Information Center
+Hemolytic anemia due to red cell pyruvate kinase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ANEMIA, CONGENITAL, NONSPHEROCYTIC HEMOLYTIC, 2; CNSHA2
+Scientific Articles on PubMed
+PubMed
+References
+Ayi K, Min-Oo G, Serghides L, Crockett M, Kirby-Allen M, Quirt I, Gros P, Kain
+KC. Pyruvate kinase deficiency and malaria. N Engl J Med. 2008 Apr
+24;358(17):1805-10. doi: 10.1056/NEJMoa072464. Epub 2008 Apr 16.
+Citation on PubMed
+Beutler E, Gelbart T. Estimating the prevalence of pyruvate kinase deficiency
+from the gene frequency in the general white population. Blood. 2000 Jun
+1;95(11):3585-8.
+Citation on PubMed
+Climent F, Roset F, Repiso A, Perez de la Ossa P. Red cell glycolytic enzyme
+disorders caused by mutations: an update. Cardiovasc Hematol Disord Drug Targets.
+2009 Jun;9(2):95-106. doi: 10.2174/187152909788488636.
+Citation on PubMed
+Durand PM, Coetzer TL. Pyruvate kinase deficiency protects against malaria in
+humans. Haematologica. 2008 Jun;93(6):939-40. doi: 10.3324/haematol.12450. Epub
+2008 May 6. No abstract available.
+Citation on PubMed
+Rider NL, Strauss KA, Brown K, Finkenstedt A, Puffenberger EG, Hendrickson CL,
+Robinson DL, Muenke N, Tselepis C, Saunders L, Zoller H, Morton DH. Erythrocyte
+pyruvate kinase deficiency in an old-order Amish cohort: longitudinal risk and
+disease management. Am J Hematol. 2011 Oct;86(10):827-34. doi: 10.1002/ajh.22118.
+Epub 2011 Aug 3.
+Citation on PubMed
+van Wijk R, Huizinga EG, van Wesel AC, van Oirschot BA, Hadders MA, van
+Solinge WW. Fifteen novel mutations in PKLR associated with pyruvate kinase (PK)
+deficiency: structural implications of amino acid substitutions in PK. Hum Mutat.
+2009 Mar;30(3):446-53. doi: 10.1002/humu.20915.
+Citation on PubMed
+van Wijk R, van Solinge WW. The energy-less red blood cell is lost:
+erythrocyte enzyme abnormalities of glycolysis. Blood. 2005 Dec
+15;106(13):4034-42. doi: 10.1182/blood-2005-04-1622. Epub 2005 Jul 28.
+Citation on PubMed
+Zanella A, Fermo E, Bianchi P, Chiarelli LR, Valentini G. Pyruvate kinase
+deficiency: the genotype-phenotype association. Blood Rev. 2007 Jul;21(4):217-31.
+doi: 10.1016/j.blre.2007.01.001. Epub 2007 Mar 13.
+Citation on PubMed
+Zanella A, Fermo E, Bianchi P, Valentini G. Red cell pyruvate kinase
+deficiency: molecular and clinical aspects. Br J Haematol. 2005 Jul;130(1):11-25.
+doi: 10.1111/j.1365-2141.2005.05527.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Anemia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hemolytic anemia
+Pyruvate kinase deficiency
+Related Medical Tests
+Bilirubin Blood Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

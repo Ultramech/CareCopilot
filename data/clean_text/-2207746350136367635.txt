@@ -1,0 +1,170 @@
+Congenital fiber-type disproportion: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital fiber-type disproportion
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-fiber-type-disproportion/
+Congenital fiber-type disproportion
+Description
+Congenital fiber-type disproportion is a condition that primarily affects skeletal muscles, which are muscles used for movement. People with this condition typically experience muscle weakness (myopathy), particularly in the muscles of the shoulders, upper arms, hips, and thighs. Weakness can also affect the muscles of the face and muscles that control eye movement (ophthalmoplegia), sometimes causing droopy eyelids (
+ptosis
+). Individuals with congenital fiber-type disproportion generally have a long face, a high arch in the roof of the mouth (
+high-arched palate
+), and
+crowded teeth
+.
+Individuals with congenital fiber-type disproportion may have joint deformities (contractures) and an abnormally curved lower back (
+lordosis
+) or a spine that curves to the side (
+scoliosis
+). Approximately 30 percent of people with this disorder experience mild to severe breathing problems related to weakness of muscles needed for breathing. Some people who experience these breathing problems require use of a machine to help regulate their breathing at night (noninvasive mechanical ventilation), and occasionally during the day as well. About 30 percent of affected individuals have difficulty swallowing due to muscle weakness in the throat. Rarely, people with this condition have a weakened and enlarged heart muscle (
+dilated cardiomyopathy
+).
+The severity of congenital fiber-type disproportion varies widely. It is estimated that up to 25 percent of affected individuals experience severe muscle weakness at birth and die in infancy or childhood. Others have only mild muscle weakness that becomes apparent in adulthood. Most often, the signs and symptoms of this condition appear by age 1. The first signs of this condition are usually decreased muscle tone (hypotonia) and muscle weakness. In most cases, muscle weakness does not worsen over time, and in some instances it may improve. Although motor skills such as standing and walking may be delayed, many affected children eventually learn to walk. These individuals often have less stamina than their peers, but they remain active. Rarely, people with this condition have a progressive decline in muscle strength over time. These individuals may lose the ability to walk and require wheelchair assistance.
+Frequency
+Congenital fiber-type disproportion is thought to be a rare condition, although its prevalence is unknown.
+Causes
+Mutations in multiple genes can cause congenital fiber-type disproportion. Mutations in the
+TPM3
+,
+RYR1
+and
+ACTA1
+genes cause 35 to 50 percent of cases, while mutations in other genes, some known and some unidentified, are responsible for the remaining cases.
+The genes that cause congenital fiber-type disproportion provide instructions for making proteins that are involved in the tensing of muscle fibers (muscle contraction). Changes in these proteins lead to impaired muscle contraction, resulting in muscle weakness.
+Skeletal muscle is made up of two types of muscle fibers: type I (slow twitch fibers) and type II (fast twitch fibers). Normally, type I and type II fibers are the same size. In people with congenital fiber-type disproportion, type I skeletal muscle fibers are significantly smaller than type II skeletal muscle fibers. It is unclear whether the small type I skeletal muscle fibers lead to muscle weakness or are caused by muscle weakness in people with congenital fiber-type disproportion.
+Learn more about the genes associated with Congenital fiber-type disproportion
+ACTA1
+MYH7
+RYR1
+SELENON
+TPM2
+TPM3
+Inheritance
+Congenital fiber-type disproportion can have multiple inheritance patterns.
+When this condition is caused by mutations in the
+ACTA1
+gene, it usually occurs in an
+autosomal dominant pattern
+. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Most other cases of congenital fiber-type disproportion, including those caused by mutations in the
+RYR1
+gene, have an
+autosomal recessive pattern
+of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+When this condition is caused by mutations in the
+TPM3
+gene, it can occur in either an autosomal dominant or autosomal recessive pattern.
+In rare cases, this condition can be inherited in an X-linked pattern, although the gene or genes associated with X-linked congenital fiber-type disproportion have not been identified. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. Because females have two copies of the X chromosome, one altered copy of the gene in each cell usually leads to less severe symptoms in females than in males or may cause no symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+It is estimated that 40 percent of individuals with congenital fiber-type disproportion have an affected relative.
+Other Names for This Condition
+CFTD
+CFTDM
+Congenital myopathy with fiber type disproportion
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital myopathy with fiber type disproportion
+Genetic and Rare Diseases Information Center
+Congenital fiber-type disproportion myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CONGENITAL MYOPATHY 4A, AUTOSOMAL DOMINANT; CMYO4A
+Scientific Articles on PubMed
+PubMed
+References
+Clarke NF, Kidson W, Quijano-Roy S, Estournet B, Ferreiro A, Guicheney P,
+Manson JI, Kornberg AJ, Shield LK, North KN. SEPN1: associated with congenital
+fiber-type disproportion and insulin resistance. Ann Neurol. 2006
+Mar;59(3):546-52. doi: 10.1002/ana.20761.
+Citation on PubMed
+Clarke NF, Kolski H, Dye DE, Lim E, Smith RL, Patel R, Fahey MC, Bellance R,
+Romero NB, Johnson ES, Labarre-Vila A, Monnier N, Laing NG, North KN. Mutations
+in TPM3 are a common cause of congenital fiber type disproportion. Ann Neurol.
+2008 Mar;63(3):329-37. doi: 10.1002/ana.21308.
+Citation on PubMed
+Clarke NF, Waddell LB, Cooper ST, Perry M, Smith RL, Kornberg AJ, Muntoni F,
+Lillis S, Straub V, Bushby K, Guglieri M, King MD, Farrell MA, Marty I, Lunardi
+J, Monnier N, North KN. Recessive mutations in RYR1 are a common cause of
+congenital fiber type disproportion. Hum Mutat. 2010 Jul;31(7):E1544-50. doi:
+10.1002/humu.21278.
+Citation on PubMed
+Clarke NF. Congenital fiber-type disproportion. Semin Pediatr Neurol. 2011
+Dec;18(4):264-71. doi: 10.1016/j.spen.2011.10.008.
+Citation on PubMed
+Imoto C, Nonaka I. The significance of type 1 fiber atrophy (hypotrophy) in
+childhood neuromuscular disorders. Brain Dev. 2001 Aug;23(5):298-302. doi:
+10.1016/s0387-7604(01)00213-3.
+Citation on PubMed
+Laing NG, Clarke NF, Dye DE, Liyanage K, Walker KR, Kobayashi Y, Shimakawa S,
+Hagiwara T, Ouvrier R, Sparrow JC, Nishino I, North KN, Nonaka I. Actin mutations
+are one cause of congenital fibre type disproportion. Ann Neurol. 2004
+Nov;56(5):689-94. doi: 10.1002/ana.20260.
+Citation on PubMed
+Lawlor MW, Dechene ET, Roumm E, Geggel AS, Moghadaszadeh B, Beggs AH.
+Mutations of tropomyosin 3 (TPM3) are common and associated with type 1 myofiber
+hypotrophy in congenital fiber type disproportion. Hum Mutat. 2010
+Feb;31(2):176-83. doi: 10.1002/humu.21157.
+Citation on PubMed
+or
+Free article on PubMed Central
+Marttila M, Lehtokari VL, Marston S, Nyman TA, Barnerias C, Beggs AH, Bertini
+E, Ceyhan-Birsoy O, Cintas P, Gerard M, Gilbert-Dussardier B, Hogue JS, Longman
+C, Eymard B, Frydman M, Kang PB, Klinge L, Kolski H, Lochmuller H, Magy L, Manel
+V, Mayer M, Mercuri E, North KN, Peudenier-Robert S, Pihko H, Probst FJ, Reisin
+R, Stewart W, Taratuto AL, de Visser M, Wilichowski E, Winer J, Nowak K, Laing
+NG, Winder TL, Monnier N, Clarke NF, Pelin K, Gronholm M, Wallgren-Pettersson C.
+Mutation update and genotype-phenotype correlations of novel and previously
+described mutations in TPM2 and TPM3 causing congenital myopathies. Hum Mutat.
+2014 Jul;35(7):779-90. doi: 10.1002/humu.22554. Epub 2014 May 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ortolano S, Tarrio R, Blanco-Arias P, Teijeira S, Rodriguez-Trelles F,
+Garcia-Murias M, Delague V, Levy N, Fernandez JM, Quintans B, Millan BS,
+Carracedo A, Navarro C, Sobrido MJ. A novel MYH7 mutation links congenital fiber
+type disproportion and myosin storage myopathy. Neuromuscul Disord. 2011
+Apr;21(4):254-62. doi: 10.1016/j.nmd.2010.12.011. Epub 2011 Feb 1.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Contracture deformity
+Genetics
+Hypotonia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,141 @@
+X-linked agammaglobulinemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+X-linked agammaglobulinemia
+URL of this page: https://medlineplus.gov/genetics/condition/x-linked-agammaglobulinemia/
+X-linked agammaglobulinemia
+Description
+X-linked agammaglobulinemia (XLA) is a condition that affects the immune system and occurs almost exclusively in males. It is part of a group of disorders called primary immunodeficiencies (or inborn errors of immunity), in which part of the immune system does not function as it should. People with XLA have very few B cells, which are specialized white blood cells that help protect the body against infection. B cells can mature into the cells that produce special proteins called
+antibodies
+or immunoglobulins. Antibodies attach to specific foreign particles and germs, marking them for destruction. Individuals with XLA are more susceptible to infections because their body makes very few antibodies.
+Children with XLA are usually healthy for the first 1 or 2 months of life because they are protected by antibodies acquired before birth from their mother. After this time, the maternal antibodies are cleared from the body, and the affected child begins to develop recurrent infections.
+Children with XLA generally take longer to recover from infections, and infections often occur again, even in children who are taking antibiotic medications.
+The most common bacterial infections that occur in people with XLA are lung infections (pneumonia and bronchitis), ear infections (otitis), pink eye (conjunctivitis), and sinus infections (sinusitis). Infections that cause chronic diarrhea are also common. Recurrent infections can lead to organ damage.
+Treatments that replace antibodies can help prevent infections, improving the quality of life for people with XLA.
+Frequency
+XLA occurs in approximately 1 in 200,000 newborns.
+Causes
+Variants (also called mutations) in the
+BTK
+gene cause XLA. This gene provides instructions for making the BTK protein, which is important for the development of B cells and normal functioning of the immune system. Most variants in the
+BTK
+gene prevent the production of any BTK protein. The absence of functional BTK protein blocks B cell development and leads to a lack of antibodies. Without antibodies, the immune system cannot properly respond to foreign invaders and prevent infection.
+Learn more about the gene associated with X-linked agammaglobulinemia
+BTK
+Inheritance
+This condition is inherited in an
+X-linked recessive pattern
+. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a variant would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females.
+An affected person's mother may carry one altered copy of the
+BTK
+gene. Individuals with only one altered copy of this gene do not have the immune system abnormalities associated with XLA, but they can pass the altered gene to their children. Fathers cannot pass X-linked traits to their sons, but they can pass them to their daughters.
+About half of affected individuals do not have a family history of XLA. In most of these cases, the affected individual has a new variant in the
+BTK
+gene that was not inherited from a parent.
+Other Names for This Condition
+Agammaglobulinemia
+Bruton's agammaglobulinemia
+Congenital agammaglobulinemia
+Hypogammaglobulinemia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: X-linked agammaglobulinemia
+Genetic and Rare Diseases Information Center
+X-linked agammaglobulinemia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+AGAMMAGLOBULINEMIA, X-LINKED; XLA
+Scientific Articles on PubMed
+PubMed
+References
+Conley ME, Farmer DM, Dobbs AK, Howard V, Aiba Y, Shurtleff SA, Kurosaki T. A
+minimally hypomorphic mutation in Btk resulting in reduced B cell numbers but no
+clinical disease. Clin Exp Immunol. 2008 Apr;152(1):39-44. doi:
+10.1111/j.1365-2249.2008.03593.x. Epub 2008 Jan 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grammatikos A, Donati M, Johnston SL, Gompels MM. Peripheral B Cell Deficiency
+and Predisposition to Viral Infections: The Paradigm of Immune Deficiencies.
+Front Immunol. 2021 Aug 30;12:731643. doi: 10.3389/fimmu.2021.731643. eCollection
+2021.
+Citation on PubMed
+Howard V, Greene JM, Pahwa S, Winkelstein JA, Boyle JM, Kocak M, Conley ME.
+The health status and quality of life of adults with X-linked agammaglobulinemia.
+Clin Immunol. 2006 Feb-Mar;118(2-3):201-8. doi: 10.1016/j.clim.2005.11.002. Epub
+2005 Dec 22.
+Citation on PubMed
+Lopez-Herrera G, Vargas-Hernandez A, Gonzalez-Serrano ME, Berron-Ruiz L,
+Rodriguez-Alba JC, Espinosa-Rosales F, Santos-Argumedo L. Bruton's tyrosine
+kinase--an integral protein of B cell development that also has an essential role
+in the innate immune system. J Leukoc Biol. 2014 Feb;95(2):243-50. doi:
+10.1189/jlb.0513307. Epub 2013 Nov 18.
+Citation on PubMed
+Plebani A, Soresina A, Rondelli R, Amato GM, Azzari C, Cardinale F, Cazzola G,
+Consolini R, De Mattia D, Dell'Erba G, Duse M, Fiorini M, Martino S, Martire B,
+Masi M, Monafo V, Moschese V, Notarangelo LD, Orlandi P, Panei P, Pession A,
+Pietrogrande MC, Pignata C, Quinti I, Ragno V, Rossi P, Sciotto A, Stabile A;
+Italian Pediatric Group for XLA-AIEOP. Clinical, immunological, and molecular
+analysis in a large cohort of patients with X-linked agammaglobulinemia: an
+Italian multicenter study. Clin Immunol. 2002 Sep;104(3):221-30. doi:
+10.1006/clim.2002.5241.
+Citation on PubMed
+Smith CIE, Berglof A. X-Linked Agammaglobulinemia. 2001 Apr 5 [updated 2024
+Jun 27]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1453/
+Citation on PubMed
+Valiaho J, Smith CI, Vihinen M. BTKbase: the mutation database for X-linked
+agammaglobulinemia. Hum Mutat. 2006 Dec;27(12):1209-17. doi: 10.1002/humu.20410.
+Citation on PubMed
+Winkelstein JA, Marino MC, Lederman HM, Jones SM, Sullivan K, Burks AW, Conley
+ME, Cunningham-Rundles C, Ochs HD. X-linked agammaglobulinemia: report on a
+United States registry of 201 patients. Medicine (Baltimore). 2006
+Jul;85(4):193-202. doi: 10.1097/01.md.0000229482.27398.ad.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Agammaglobulinemia
+Genetics
+Related Medical Tests
+Globulin Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

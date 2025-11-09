@@ -1,0 +1,144 @@
+Hyperparathyroidism-jaw tumor syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hyperparathyroidism-jaw tumor syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/hyperparathyroidism-jaw-tumor-syndrome/
+Hyperparathyroidism-jaw tumor syndrome
+Description
+Hyperparathyroidism-jaw tumor syndrome is a condition characterized by overactivity of the parathyroid glands (hyperparathyroidism). The four parathyroid glands are located in the neck and secrete a hormone that regulates the body's use of calcium. Hyperparathyroidism disrupts the normal balance of calcium in the blood, which can lead to
+kidney stones
+, thinning of the bones (
+osteoporosis
+), nausea, vomiting, high blood pressure (
+hypertension
+), weakness, and fatigue. About 95 percent of people with hyperparathyroidism-jaw tumor syndrome will develop hyperparathyroidism during their lifetime.
+In people with hyperparathyroidism-jaw tumor syndrome, hyperparathyroidism is caused by tumors that form in the parathyroid glands. Typically, only one of the four parathyroid glands is affected, but in some people, tumors are found in more than one gland. The tumors are usually a noncancerous (benign) type of tumor called an adenoma. Approximately 15 percent of people with hyperparathyroidism-jaw tumor syndrome develop a cancerous tumor called parathyroid carcinoma.
+People with hyperparathyroidism-jaw tumor syndrome may also have a type of benign tumor called a fibroma in the jaw. Even though jaw tumors are specified in the name of this condition, it is estimated that only 11 to 40 percent of affected individuals have this symptom.
+Other tumors, both benign and cancerous, are often seen in people with hyperparathyroidism-jaw tumor syndrome. For example, tumors of the uterus occur in up to 50 percent of people with this condition. Uterine tumors are typically benign, but they can cause heavy menstrual bleeding or other symptoms. The kidneys are affected in about 20 percent of people with hyperparathyroidism-jaw tumor syndrome. Benign kidney cysts are the most common kidney feature, but a rare cancerous tumor called
+Wilms tumor
+and other types of kidney tumor have also been found.
+Regular medical screening may assist in the early detection of the features of hyperparathyroidism-jaw tumor syndrome.
+Frequency
+The exact prevalence of hyperparathyroidism-jaw tumor syndrome is unknown. Approximately 200 cases have been reported in the medical literature. It is estimated that up to 30 percent of individuals with parathyroid carcinoma have hyperparathyroidism-jaw tumor syndrome.
+Causes
+Variants (also called mutations) in the
+CDC73
+gene cause hyperparathyroidism-jaw tumor syndrome. The
+CDC73
+gene provides instructions for making a protein called parafibromin. This protein is found throughout the body and is likely involved in gene transcription, which is the first step in protein production. Parafibromin is also thought to play a role in cell growth and division (proliferation). It can either promote or inhibit cell proliferation depending on signals within the cell.
+CDC73
+gene variants cause hyperparathyroidism-jaw tumor syndrome by reducing the amount of functional parafibromin that is produced. Most of these variants cause the cell to produce a parafibromin protein that is abnormally short and does not function well. The uncontrolled cell proliferation that occurs without functional parafibromin can lead to the formation tumors. It is unknown why only certain tissues seem to be affected by changes in parafibromin.
+Some people with hyperparathyroidism-jaw tumor syndrome do not have any of the variants in the
+CDC73
+gene that are known to cause this condition. The cause of the condition in these individuals is unknown.
+Learn more about the gene associated with Hyperparathyroidism-jaw tumor syndrome
+CDC73
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+CDC73-related disorders
+Familial cystic parathyroid adenomatosis
+Familial primary hyperparathyroidism with multiple ossifying jaw fibromas
+Hereditary hyperparathyroidism-jaw tumor syndrome
+HPT-JT
+Hyperparathyroidism 2
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hyperparathyroidism 2 with jaw tumors
+Genetic and Rare Diseases Information Center
+Hyperparathyroidism-jaw tumor syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HYPERPARATHYROIDISM 2 WITH JAW TUMORS; HRPT2
+Scientific Articles on PubMed
+PubMed
+References
+Bradley KJ, Cavaco BM, Bowl MR, Harding B, Cranston T, Fratter C, Besser GM,
+Conceicao Pereira M, Davie MW, Dudley N, Leite V, Sadler GP, Seller A, Thakker
+RV. Parafibromin mutations in hereditary hyperparathyroidism syndromes and
+parathyroid tumours. Clin Endocrinol (Oxf). 2006 Mar;64(3):299-306. doi:
+10.1111/j.1365-2265.2006.02460.x.
+Citation on PubMed
+Figueiredo AA, Saramago A, Cavaco BM, Simoes-Pereira J, Leite V. Familial
+parathyroid tumours-comparison of clinical profiles between syndromes. J
+Endocrinol Invest. 2023 Sep;46(9):1799-1806. doi: 10.1007/s40618-023-02032-4.
+Epub 2023 Feb 13.
+Citation on PubMed
+Iacobone M, Masi G, Barzon L, Porzionato A, Macchi V, Ciarleglio FA, Palu G,
+De Caro R, Viel G, Favia G. Hyperparathyroidism-jaw tumor syndrome: a report of
+three large kindred. Langenbecks Arch Surg. 2009 Sep;394(5):817-25. doi:
+10.1007/s00423-009-0511-y. Epub 2009 Jun 16.
+Citation on PubMed
+Masi G, Barzon L, Iacobone M, Viel G, Porzionato A, Macchi V, De Caro R, Favia
+G, Palu G. Clinical, genetic, and histopathologic investigation of CDC73-related
+familial hyperparathyroidism. Endocr Relat Cancer. 2008 Dec;15(4):1115-26. doi:
+10.1677/ERC-08-0066. Epub 2008 Aug 28.
+Citation on PubMed
+Newey PJ, Bowl MR, Cranston T, Thakker RV. Cell division cycle protein 73
+homolog (CDC73) mutations in the hyperparathyroidism-jaw tumor syndrome (HPT-JT)
+and parathyroid tumors. Hum Mutat. 2010 Mar;31(3):295-307. doi:
+10.1002/humu.21188.
+Citation on PubMed
+Tora R, Welch J, Sun J, Agarwal SK, Bell DA, Merino M, Weinstein LS, Simonds
+WF, Jha S. Phenotypic Profiling and Molecular Mechanisms in
+Hyperparathyroidism-jaw Tumor Syndrome. J Clin Endocrinol Metab. 2023 Nov
+17;108(12):3165-3177. doi: 10.1210/clinem/dgad368.
+Citation on PubMed
+Torresan F, Iacobone M. Clinical Features, Treatment, and Surveillance of
+Hyperparathyroidism-Jaw Tumor Syndrome: An Up-to-Date and Review of the
+Literature. Int J Endocrinol. 2019 Dec 18;2019:1761030. doi:
+10.1155/2019/1761030. eCollection 2019.
+Citation on PubMed
+van der Tuin K, Tops CMJ, Adank MA, Cobben JM, Hamdy NAT, Jongmans MC, Menko
+FH, van Nesselrooij BPM, Netea-Maier RT, Oosterwijk JC, Valk GD, Wolffenbuttel
+BHR, Hes FJ, Morreau H. CDC73-Related Disorders: Clinical Manifestations and Case
+Detection in Primary Hyperparathyroidism. J Clin Endocrinol Metab. 2017 Dec
+1;102(12):4534-4540. doi: 10.1210/jc.2017-01249.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Jaw Injuries and Disorders
+Parathyroid Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hyperparathyroidism
+Parathyroid adenoma
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

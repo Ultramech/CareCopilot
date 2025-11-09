@@ -1,0 +1,158 @@
+Menkes syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Menkes syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/menkes-syndrome/
+Menkes syndrome
+Description
+Menkes syndrome is a disorder that affects copper levels in the body. It is characterized by sparse, kinky hair; failure to gain weight and grow at the expected rate (failure to thrive); and deterioration of the nervous system. Additional signs and symptoms include weak muscle tone (hypotonia), sagging facial features, seizures, developmental delay, and intellectual disability. Children with Menkes syndrome typically begin to develop symptoms during infancy and often do not live past age 3. Early treatment with copper may improve the prognosis in some affected individuals. In rare cases, symptoms begin later in childhood.
+Occipital horn syndrome (sometimes called X-linked
+cutis laxa
+) is a less severe form of Menkes syndrome that begins in early to middle childhood. It is characterized by wedge-shaped calcium deposits in a bone at the base of the skull (the occipital bone), coarse hair, and loose skin and joints.
+Frequency
+The incidence of Menkes syndrome and occipital horn syndrome is estimated to be 1 in 100,000 newborns.
+Causes
+Mutations in the
+ATP7A
+gene cause Menkes syndrome. The
+ATP7A
+gene provides instructions for making a protein that is important for regulating copper levels in the body. Copper is necessary for many cellular functions, but it is toxic when present in excessive amounts. Mutations in the
+ATP7A
+gene result in poor distribution of copper to the body's cells. Copper accumulates in some tissues, such as the small intestine and kidneys, while the brain and other tissues have unusually low levels of copper. The decreased supply of copper can reduce the activity of numerous copper-containing enzymes that are necessary for the structure and function of bone, skin, hair, blood vessels, and the nervous system. The signs and symptoms of Menkes syndrome and occipital horn syndrome are caused by the reduced activity of these copper-containing enzymes.
+Learn more about the gene associated with Menkes syndrome
+ATP7A
+Inheritance
+Menkes syndrome is inherited in an
+X-linked recessive pattern
+. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In about one-third of cases, Menkes syndrome is caused by new mutations in the
+ATP7A
+gene. People with a new mutation do not have a history of the disorder in their family.
+Other Names for This Condition
+Copper transport disease
+Hypocupremia, congenital
+Kinky hair syndrome
+Menkea syndrome
+Menkes disease
+MK
+MNK
+Steely hair syndrome
+X-linked copper deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Menkes kinky-hair syndrome
+Genetic and Rare Diseases Information Center
+Menkes disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+OCCIPITAL HORN SYNDROME; OHS
+MENKES DISEASE; MNK
+Scientific Articles on PubMed
+PubMed
+References
+Barnes N, Tsivkovskii R, Tsivkovskaia N, Lutsenko S. The copper-transporting
+ATPases, menkes and wilson disease proteins, have distinct roles in adult and
+developing cerebellum. J Biol Chem. 2005 Mar 11;280(10):9640-5. doi:
+10.1074/jbc.M413840200. Epub 2005 Jan 5.
+Citation on PubMed
+Bertini I, Rosato A. Menkes disease. Cell Mol Life Sci. 2008 Jan;65(1):89-91.
+doi: 10.1007/s00018-007-7439-6.
+Citation on PubMed
+de Bie P, Muller P, Wijmenga C, Klomp LW. Molecular pathogenesis of Wilson and
+Menkes disease: correlation of mutations with molecular defects and disease
+phenotypes. J Med Genet. 2007 Nov;44(11):673-88. doi: 10.1136/jmg.2007.052746.
+Epub 2007 Aug 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Donsante A, Tang J, Godwin SC, Holmes CS, Goldstein DS, Bassuk A, Kaler SG.
+Differences in ATP7A gene expression underlie intrafamilial variability in Menkes
+disease/occipital horn syndrome. J Med Genet. 2007 Aug;44(8):492-7. doi:
+10.1136/jmg.2007.050013. Epub 2007 May 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Harris ED. Basic and clinical aspects of copper. Crit Rev Clin Lab Sci. 2003
+Oct;40(5):547-86.
+Citation on PubMed
+Kaler SG, DiStasio AT. ATP7A-Related Copper Transport Disorders. 2003
+May 9 [updated 2021 Apr 15]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace
+SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1413/
+Citation on PubMed
+Kaler SG, Holmes CS, Goldstein DS, Tang J, Godwin SC, Donsante A, Liew CJ,
+Sato S, Patronas N. Neonatal diagnosis and treatment of Menkes disease. N Engl J
+Med. 2008 Feb 7;358(6):605-14. doi: 10.1056/NEJMoa070613.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lutsenko S, Washington-Hughes C, Ralle M, Schmidt K. Copper and the brain
+noradrenergic system. J Biol Inorg Chem. 2019 Dec;24(8):1179-1188. doi:
+10.1007/s00775-019-01737-3. Epub 2019 Nov 5.
+Citation on PubMed
+Madsen E, Gitlin JD. Copper deficiency. Curr Opin Gastroenterol. 2007
+Mar;23(2):187-92. doi: 10.1097/MOG.0b013e32801421bb.
+Citation on PubMed
+Menkes JH. Menkes disease and Wilson disease: two sides of the same copper
+coin. Part I: Menkes disease. Eur J Paediatr Neurol. 1999;3(4):147-58. doi:
+10.1016/s1090-3798(99)90048-x. No abstract available.
+Citation on PubMed
+National Institute of Neurological Disorders and Stroke
+Prohaska JR. Role of copper transporters in copper homeostasis. Am J Clin
+Nutr. 2008 Sep;88(3):826S-9S. doi: 10.1093/ajcn/88.3.826S.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tang J, Robertson S, Lem KE, Godwin SC, Kaler SG. Functional copper transport
+explains neurologic sparing in occipital horn syndrome. Genet Med. 2006
+Nov;8(11):711-8. doi: 10.1097/01.gim.0000245578.94312.1e.
+Citation on PubMed
+Voskoboinik I, Camakaris J. Menkes copper-translocating P-type ATPase (ATP7A):
+biochemical and cell biology properties, and role in Menkes disease. J Bioenerg
+Biomembr. 2002 Oct;34(5):363-71. doi: 10.1023/a:1021250003104.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Copper in diet
+Genetics
+Menkes disease
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

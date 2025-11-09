@@ -1,0 +1,155 @@
+Moyamoya disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Moyamoya disease
+URL of this page: https://medlineplus.gov/genetics/condition/moyamoya-disease/
+Moyamoya disease
+Description
+Moyamoya disease is a disorder of blood vessels in the brain, specifically the internal carotid arteries and the arteries that branch from them. These vessels, which provide oxygen-rich blood to the brain, narrow over time. Narrowing of these vessels reduces blood flow in the brain. In an attempt to compensate, new networks of small, fragile blood vessels form. These networks, visualized by a particular test called an angiogram, resemble puffs of smoke, which is how the condition got its name: "moyamoya" is an expression meaning "something hazy like a puff of smoke" in Japanese.
+Moyamoya disease commonly begins either around age 5 or in a person's thirties or forties. A lack of blood supply to the brain leads to several symptoms of the disorder, including temporary stroke-like episodes (transient ischemic attacks),
+strokes
+, and seizures. In addition, the fragile blood vessels that grow can develop bulges (
+aneurysms
+), or they can break open, leading to bleeding (hemorrhage) in the brain. Affected individuals may develop recurrent headaches, involuntary jerking movements (chorea), or a decline in thinking ability. The symptoms of moyamoya disease often worsen over time if the condition is not treated.
+Some people have the blood vessel changes characteristic of moyamoya disease in addition to features of another disorder, such as
+neurofibromatosis type 1
+,
+sickle cell disease
+, or
+Graves' disease
+. These individuals are said to have moyamoya syndrome.
+Frequency
+Moyamoya disease was first identified in Japan, where it is most prevalent, affecting about 5 in 100,000 individuals. The condition is also relatively common in other Asian populations. It is ten times less common in Europe. In the United States, Asian Americans are four times more commonly affected than whites. For unknown reasons, moyamoya disease occurs twice as often in females as in males.
+Causes
+The genetics of moyamoya disease are not well understood. Research suggests that the condition can be passed through families, and changes in one gene,
+RNF213
+, have been associated with the condition. Other genes that have not been identified may be involved in moyamoya disease. It is also likely that other factors (such as infection or inflammation) in combination with genetic factors play a role in the condition's development.
+The
+RNF213
+gene provides instructions for making a protein whose function is unknown. However, research suggests that the RNF213 protein is involved in the proper development of blood vessels.
+Changes in the
+RNF213
+gene involved in moyamoya disease replace single protein building blocks (amino acids) in the RNF213 protein. The effect of these changes on the function of the RNF213 protein is unknown, and researchers are unsure how the changes contribute to the narrowing of blood vessels or the characteristic blood vessel growth of moyamoya disease. For unknown reasons, people with moyamoya disease have elevated levels of proteins involved in cell and tissue growth, including the growth of blood vessels (angiogenesis). An excess of these proteins could account for the growth of new blood vessels characteristic of moyamoya disease. It is not clear if changes in the
+RNF213
+gene are involved in the overproduction of these proteins.
+Learn more about the gene associated with Moyamoya disease
+RNF213
+Inheritance
+Up to 15 percent of Japanese people with moyamoya disease have one or more family members with the condition, indicating that the condition can be passed through generations in families; however, the inheritance pattern is unknown. Research suggests that the condition follows an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, some people who have a copy of the altered gene never develop the condition, which is a situation known as reduced penetrance.
+Other Names for This Condition
+Cerebrovascular moyamoya disease
+Moya-moya disease
+Progressive intracranial arterial occlusion
+Progressive intracranial occlusive arteropathy
+Spontaneous occlusion of the Circle of Willis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Moyamoya disease
+Genetic Testing Registry: Moyamoya disease 2
+Genetic Testing Registry: Moyamoya disease 5
+Genetic and Rare Diseases Information Center
+Moyamoya disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MOYAMOYA DISEASE 1; MYMY1
+MOYAMOYA DISEASE 3; MYMY3
+MOYAMOYA DISEASE 2; MYMY2
+MOYAMOYA DISEASE 5; MYMY5
+Scientific Articles on PubMed
+PubMed
+References
+Achrol AS, Guzman R, Lee M, Steinberg GK. Pathophysiology and genetic factors
+in moyamoya disease. Neurosurg Focus. 2009 Apr;26(4):E4. doi:
+10.3171/2009.1.FOCUS08302.
+Citation on PubMed
+Cecchi AC, Guo D, Ren Z, Flynn K, Santos-Cortez RL, Leal SM, Wang GT, Regalado
+ES, Steinberg GK, Shendure J, Bamshad MJ; University of Washington Center for
+Mendelian Genomics; Grotta JC, Nickerson DA, Pannu H, Milewicz DM. RNF213 rare
+variants in an ethnically diverse population with Moyamoya disease. Stroke. 2014
+Nov;45(11):3200-7. doi: 10.1161/STROKEAHA.114.006244. Epub 2014 Oct 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fujimura M, Sonobe S, Nishijima Y, Niizuma K, Sakata H, Kure S, Tominaga T.
+Genetics and Biomarkers of Moyamoya Disease: Significance of RNF213 as a
+Susceptibility Gene. J Stroke. 2014 May;16(2):65-72. doi:
+10.5853/jos.2014.16.2.65. Epub 2014 May 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hayashi K, Horie N, Suyama K, Nagata I. An epidemiological survey of moyamoya
+disease, unilateral moyamoya disease and quasi-moyamoya disease in Japan. Clin
+Neurol Neurosurg. 2013 Jul;115(7):930-3. doi: 10.1016/j.clineuro.2012.09.020.
+Epub 2012 Oct 4.
+Citation on PubMed
+Kamada F, Aoki Y, Narisawa A, Abe Y, Komatsuzaki S, Kikuchi A, Kanno J,
+Niihori T, Ono M, Ishii N, Owada Y, Fujimura M, Mashimo Y, Suzuki Y, Hata A,
+Tsuchiya S, Tominaga T, Matsubara Y, Kure S. A genome-wide association study
+identifies RNF213 as the first Moyamoya disease gene. J Hum Genet. 2011
+Jan;56(1):34-40. doi: 10.1038/jhg.2010.132. Epub 2010 Nov 4.
+Citation on PubMed
+Kronenburg A, Braun KP, van der Zwan A, Klijn CJ. Recent advances in moyamoya
+disease: pathophysiology and treatment. Curr Neurol Neurosci Rep. 2014
+Jan;14(1):423. doi: 10.1007/s11910-013-0423-7.
+Citation on PubMed
+Liu W, Morito D, Takashima S, Mineharu Y, Kobayashi H, Hitomi T, Hashikata H,
+Matsuura N, Yamazaki S, Toyoda A, Kikuta K, Takagi Y, Harada KH, Fujiyama A,
+Herzig R, Krischek B, Zou L, Kim JE, Kitakaze M, Miyamoto S, Nagata K, Hashimoto
+N, Koizumi A. Identification of RNF213 as a susceptibility gene for moyamoya
+disease and its possible role in vascular development. PLoS One.
+2011;6(7):e22542. doi: 10.1371/journal.pone.0022542. Epub 2011 Jul 20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Smith ER, Scott RM. Moyamoya: epidemiology, presentation, and diagnosis.
+Neurosurg Clin N Am. 2010 Jul;21(3):543-51. doi: 10.1016/j.nec.2010.03.007.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Stroke
+Transient Ischemic Attack
+MEDICAL ENCYCLOPEDIA
+Aneurysm in the brain
+Genetics
+Stroke
+Transient ischemic attack
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

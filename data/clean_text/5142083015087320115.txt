@@ -1,0 +1,140 @@
+Nijmegen breakage syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Nijmegen breakage syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/nijmegen-breakage-syndrome/
+Nijmegen breakage syndrome
+Description
+Nijmegen breakage syndrome is a condition characterized by short stature, an unusually small head size (
+microcephaly
+), distinctive facial features, recurrent respiratory tract infections, an increased risk of cancer, intellectual disability, and other health problems.
+People with this condition typically grow slowly during infancy and early childhood. After this period of slow growth, affected individuals grow at a normal rate but remain shorter than their peers. Microcephaly is apparent from birth in the majority of affected individuals. The head does not grow at the same rate as the rest of the body, so it appears that the head is getting smaller as the body grows (progressive microcephaly). Individuals with Nijmegen breakage syndrome have distinctive facial features that include a
+sloping forehead
+, a
+prominent nose
+, large ears, a
+small jaw
+, and outside corners of the eyes that point upward (
+upslanting palpebral fissures
+). These facial features typically become apparent by age 3.
+People with Nijmegen breakage syndrome have a malfunctioning immune system (immunodeficiency) with abnormally low levels of immune system proteins called
+immunoglobulin G
+(IgG) and
+immunoglobulin A
+(IgA). Affected individuals also have a shortage of immune system cells called
+T cells
+. The immune system abnormalities increase susceptibility to recurrent infections, such as bronchitis, pneumonia, sinusitis, and other infections affecting the upper respiratory tract and lungs.
+Individuals with Nijmegen breakage syndrome have an increased risk of developing cancer, most commonly a cancer of immune system cells called
+non-Hodgkin lymphoma
+. About half of individuals with Nijmegen breakage syndrome develop non-Hodgkin lymphoma, usually before age 15. Other cancers seen in people with Nijmegen breakage syndrome include brain tumors such as medulloblastoma and glioma, and a cancer of muscle tissue called rhabdomyosarcoma. People with Nijmegen breakage syndrome are 50 times more likely to develop cancer than people without this condition.
+Intellectual development is normal in most people with this condition for the first year or two of life, but then development becomes delayed. Skills decline over time, and most affected children and adults have mild to moderate intellectual disability.
+Most affected woman have premature ovarian failure and do not begin menstruation by age 16 (primary amenorrhea) or have infrequent menstrual periods. Most women with Nijmegen breakage syndrome are unable to have biological children (infertile).
+Frequency
+The exact prevalence of Nijmegen breakage syndrome is unknown. This condition is estimated to affect one in 100,000 newborns worldwide, but is thought to be most common in the Slavic populations of Eastern Europe.
+Causes
+Mutations in the
+NBN
+gene cause Nijmegen breakage syndrome. The
+NBN
+gene provides instructions for making a protein called nibrin. This protein is involved in several critical cellular functions, including the repair of damaged DNA. DNA can be damaged by agents such as toxic chemicals or radiation. Breaks in DNA strands also occur naturally when chromosomes exchange genetic material in preparation for
+cell division
+. Repairing DNA prevents cells from accumulating genetic damage that can cause them to die or to divide uncontrollably. The nibrin protein helps maintain the stability of a cell's genetic information through its roles in repairing damaged DNA and regulating cell division.
+The
+NBN
+gene mutations that cause Nijmegen breakage syndrome typically lead to the production of an abnormally short version of the nibrin protein, which prevents it from responding to DNA damage effectively. As a result, affected individuals are highly sensitive to the effects of radiation exposure and other agents that can cause breaks in DNA. Nijmegen breakage syndrome gets its name from numerous breaks in DNA that occur in affected people's cells. A buildup of these breaks lead to errors in DNA that can trigger cells to grow and divide abnormally, increasing the risk of cancer in people with Nijmegen breakage syndrome. Additionally, medical radiation or chemotherapy, which is often used to treat cancers, can cause further DNA damage in people with Nijmegen breakage syndrome.
+Nibrin's role in regulating cell division and cell growth (proliferation) is thought to lead to the immunodeficiency seen in individuals with Nijmegen breakage syndrome. A lack of functional nibrin results in less immune cell proliferation. A decrease in the amount of immune cells that are produced leads to reduced amounts of immunoglobulins and other features of immunodeficiency. It is unclear how mutations in the
+NBN
+gene cause the distinctive facial features, slow growth, and other features of Nijmegen breakage syndrome.
+Learn more about the gene associated with Nijmegen breakage syndrome
+NBN
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Ataxia-telangiectasia variant 1
+Berlin breakage syndrome
+Microcephaly, normal intelligence and immunodeficiency
+Seemanova syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Microcephaly, normal intelligence and immunodeficiency
+Genetic and Rare Diseases Information Center
+Nijmegen breakage syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NIJMEGEN BREAKAGE SYNDROME; NBS
+Scientific Articles on PubMed
+PubMed
+References
+Dembowska-Baginska B, Perek D, Brozyna A, Wakulinska A, Olczak-Kowalczyk D,
+Gladkowska-Dura M, Grajkowska W, Chrzanowska KH. Non-Hodgkin lymphoma (NHL) in
+children with Nijmegen Breakage syndrome (NBS). Pediatr Blood Cancer. 2009
+Feb;52(2):186-90. doi: 10.1002/pbc.21789.
+Citation on PubMed
+Demuth I, Digweed M. The clinical manifestation of a defective response to DNA
+double-strand breaks as exemplified by Nijmegen breakage syndrome. Oncogene. 2007
+Dec 10;26(56):7792-8. doi: 10.1038/sj.onc.1210876.
+Citation on PubMed
+Pastorczak A, Szczepanski T, Mlynarski W; International
+Berlin-Frankfurt-Munster (I-BFM) ALL host genetic variation working group.
+Clinical course and therapeutic implications for lymphoid malignancies in
+Nijmegen breakage syndrome. Eur J Med Genet. 2016 Mar;59(3):126-32. doi:
+10.1016/j.ejmg.2016.01.007. Epub 2016 Jan 27.
+Citation on PubMed
+Pluth JM, Yamazaki V, Cooper BA, Rydberg BE, Kirchgessner CU, Cooper PK. DNA
+double-strand break and chromosomal rejoining defects with misrejoining in
+Nijmegen breakage syndrome cells. DNA Repair (Amst). 2008 Jan 1;7(1):108-18. doi:
+10.1016/j.dnarep.2007.08.004. Epub 2007 Oct 4.
+Citation on PubMed
+Wolska-Kusnierz B, Gregorek H, Chrzanowska K, Piatosa B, Pietrucha B,
+Heropolitanska-Pliszka E, Pac M, Klaudel-Dreszler M, Kostyuchenko L, Pasic S,
+Marodi L, Belohradsky BH, Ciznar P, Shcherbina A, Kilic SS, Baumann U, Seidel MG,
+Gennery AR, Syczewska M, Mikoluc B, Kalwak K, Styczynski J, Pieczonka A, Drabko
+K, Wakulinska A, Gathmann B, Albert MH, Skarzynska U, Bernatowska E; Inborn
+Errors Working Party of the Society for European Blood and Marrow Transplantation
+and the European Society for Immune Deficiencies. Nijmegen Breakage Syndrome:
+Clinical and Immunological Features, Long-Term Outcome and Treatment Options - a
+Retrospective Analysis. J Clin Immunol. 2015 Aug;35(6):538-49. doi:
+10.1007/s10875-015-0186-9. Epub 2015 Aug 14.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

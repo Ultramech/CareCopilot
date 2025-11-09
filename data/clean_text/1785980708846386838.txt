@@ -1,0 +1,132 @@
+Donohue syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Donohue syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/donohue-syndrome/
+Donohue syndrome
+Description
+Donohue syndrome is a rare disorder characterized by severe insulin resistance, a condition in which the body's tissues and organs do not respond properly to the hormone insulin. Insulin normally helps regulate blood sugar levels by
+controlling how much sugar
+(in the form of glucose) is passed from the bloodstream into cells to be used as energy. Severe insulin resistance leads to problems with regulating blood glucose levels and affects the development and function of organs and tissues throughout the body.
+Severe insulin resistance underlies the varied signs and symptoms of Donohue syndrome. Individuals with Donohue syndrome are unusually small starting before birth, and affected infants experience failure to thrive, which means they do not grow and gain weight at the expected rate. Additional features that become apparent soon after birth include a lack of fatty tissue under the skin (subcutaneous fat); wasting (atrophy) of muscles; excessive body hair growth (hirsutism);
+multiple cysts on the ovaries
+in females; and enlargement of the nipples, genitalia, kidneys, heart, and other organs. Most affected individuals also have a skin condition called acanthosis nigricans, in which the skin in body folds and creases becomes thick, dark, and velvety. Distinctive facial features in people with Donohue syndrome include bulging eyes, thick lips, upturned nostrils, and low-set ears. Affected individuals develop recurrent, life-threatening infections beginning in infancy.
+Donohue syndrome is one of a group of related conditions described as inherited severe insulin resistance syndromes. These disorders, which also include
+Rabson-Mendenhall syndrome
+and
+type A insulin resistance syndrome
+, are considered part of a spectrum. Donohue syndrome represents the most severe end of the spectrum; most children with this condition do not survive beyond age 2.
+Frequency
+Donohue syndrome is estimated to affect less than 1 per million people worldwide. Several dozen cases have been reported in the medical literature.
+Causes
+Donohue syndrome results from mutations in the
+INSR
+gene. This gene provides instructions for making a protein called an insulin receptor, which is found in many types of cells. Insulin receptors are embedded in the
+outer membrane
+surrounding the cell, where they attach (bind) to
+insulin
+circulating in the bloodstream. This binding triggers
+signaling pathways
+that influence many cell functions.
+The
+INSR
+gene mutations that cause Donohue syndrome greatly reduce the number of insulin receptors that reach the cell membrane or disrupt the function of these receptors. Although insulin is present in the bloodstream, without functional receptors it cannot exert its effects on cells and tissues. This severe resistance to the effects of insulin impairs blood glucose regulation and affects many aspects of development in people with Donohue syndrome.
+Learn more about the gene associated with Donohue syndrome
+INSR
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Donohue's syndrome
+Leprechaunism
+Leprechaunism syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Leprechaunism syndrome
+Genetic and Rare Diseases Information Center
+Leprechaunism
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+DONOHUE SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Falik Zaccai TC, Kalfon L, Klar A, Elisha MB, Hurvitz H, Weingarten G, Chechik
+E, Fleisher Sheffer V, Haj Yahya R, Meidan G, Gross-Kieselstein E, Bauman D,
+Hershkovitz S, Yaron Y, Orr-Urtreger A, Wertheimer E. Two novel mutations
+identified in familial cases with Donohue syndrome. Mol Genet Genomic Med. 2014
+Jan;2(1):64-72. doi: 10.1002/mgg3.43. Epub 2013 Nov 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grasso V, Colombo C, Favalli V, Galderisi A, Rabbone I, Gombos S, Bonora E,
+Massa O, Meschi F, Cerutti F, Iafusco D, Bonfanti R, Monciotti C, Barbetti F. Six
+cases with severe insulin resistance (SIR) associated with mutations of insulin
+receptor: Is a Bartter-like syndrome a feature of congenital SIR? Acta Diabetol.
+2013 Dec;50(6):951-7. doi: 10.1007/s00592-013-0490-x. Epub 2013 Jul 4.
+Citation on PubMed
+Longo N, Wang Y, Smith SA, Langley SD, DiMeglio LA, Giannella-Neto D.
+Genotype-phenotype correlation in inherited severe insulin resistance. Hum Mol
+Genet. 2002 Jun 1;11(12):1465-75. doi: 10.1093/hmg/11.12.1465.
+Citation on PubMed
+Musso C, Cochran E, Moran SA, Skarulis MC, Oral EA, Taylor S, Gorden P.
+Clinical course of genetic diseases of the insulin receptor (type A and
+Rabson-Mendenhall syndromes): a 30-year prospective. Medicine (Baltimore). 2004
+Jul;83(4):209-222. doi: 10.1097/01.md.0000133625.73570.54.
+Citation on PubMed
+Parker VE, Semple RK. Genetics in endocrinology: genetic forms of severe
+insulin resistance: what endocrinologists should know. Eur J Endocrinol. 2013 Sep
+12;169(4):R71-80. doi: 10.1530/EJE-13-0327. Print 2013 Oct.
+Citation on PubMed
+or
+Free article on PubMed Central
+Semple RK, Savage DB, Cochran EK, Gorden P, O'Rahilly S. Genetic syndromes of
+severe insulin resistance. Endocr Rev. 2011 Aug;32(4):498-514. doi:
+10.1210/er.2010-0020. Epub 2011 May 2.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Blood Glucose
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Acanthosis nigricans
+Failure to thrive
+Genetics
+Ovarian cysts
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

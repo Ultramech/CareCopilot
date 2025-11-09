@@ -1,0 +1,125 @@
+Protein C deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Protein C deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/protein-c-deficiency/
+Protein C deficiency
+Description
+Protein C deficiency is a disorder that increases the risk of developing abnormal blood clots; the condition can be mild or severe.
+Individuals with mild protein C deficiency are at risk of a type of blood clot known as a
+deep vein thrombosis
+(DVT). These clots occur in the deep veins of the arms or legs, away from the surface of the skin. A DVT can travel through the bloodstream and lodge in the lungs, causing a life-threatening blockage of blood flow known as a
+pulmonary embolism
+(PE). While most people with mild protein C deficiency never develop abnormal blood clots, certain factors can add to the risk of their development. These factors include increased age, surgery, inactivity, or pregnancy. Having another inherited disorder of blood clotting in addition to protein C deficiency can also influence the risk of abnormal blood clotting.
+In severe cases of protein C deficiency, infants develop a life-threatening blood clotting disorder called purpura fulminans soon after birth. Purpura fulminans is characterized by the formation of blood clots in the small blood vessels throughout the body. These blood clots block normal blood flow and can lead to localized death of body tissue (necrosis). Widespread blood clotting uses up all available blood clotting proteins. As a result, abnormal bleeding occurs in various parts of the body, which can cause large, purple patches on the skin. Individuals who survive the newborn period may experience recurrent episodes of purpura fulminans.
+Frequency
+Mild protein C deficiency affects approximately 1 in 500 individuals. Severe protein C deficiency is rare and occurs in an estimated 1 in 4 million newborns.
+Causes
+Protein C deficiency is caused by mutations in the
+PROC
+gene. This gene provides instructions for making protein C, which is found in the bloodstream and is important for controlling blood clotting. Protein C blocks the activity of (inactivates) certain proteins that promote blood clotting.
+Most of the mutations that cause protein C deficiency change single protein building blocks (amino acids) in protein C, which disrupts its ability to control blood clotting. Individuals with this condition do not have enough functional protein C to inactivate clotting proteins, which results in the increased risk of developing abnormal blood clots. Protein C deficiency can be divided into type I and type II based on how mutations in the
+PROC
+gene affect protein C. Type I is caused by
+PROC
+gene mutations that result in reduced levels of protein C, while type II is caused by
+PROC
+gene mutations that result in the production of an altered protein C with reduced activity. Both types of mutations can be associated with mild or severe protein C deficiency; the severity is determined by the number of
+PROC
+gene mutations an individual has.
+Learn more about the gene associated with Protein C deficiency
+PROC
+Inheritance
+Protein C deficiency is inherited in an
+autosomal dominant pattern
+, which means one altered copy of the
+PROC
+gene in each cell is sufficient to cause mild protein C deficiency. Individuals who inherit two altered copies of this gene in each cell have severe protein C deficiency.
+Other Names for This Condition
+Hereditary thrombophilia due to protein C deficiency
+PROC deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Thrombophilia due to protein C deficiency, autosomal dominant
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+THROMBOPHILIA DUE TO PROTEIN C DEFICIENCY, AUTOSOMAL DOMINANT; THPH3
+THROMBOPHILIA DUE TO PROTEIN C DEFICIENCY, AUTOSOMAL RECESSIVE; THPH4
+Scientific Articles on PubMed
+PubMed
+References
+Brouwer JL, Lijfering WM, Ten Kate MK, Kluin-Nelemans HC, Veeger NJ, van der
+Meer J. High long-term absolute risk of recurrent venous thromboembolism in
+patients with hereditary deficiencies of protein S, protein C or antithrombin.
+Thromb Haemost. 2009 Jan;101(1):93-9.
+Citation on PubMed
+Cafolla A, D'Andrea G, Baldacci E, Margaglione M, Mazzucconi MG, Foa R.
+Hereditary protein C deficiency and thrombosis risk: genotype and phenotype
+relation in a large Italian family. Eur J Haematol. 2012 Apr;88(4):336-9. doi:
+10.1111/j.1600-0609.2011.01742.x. Epub 2012 Jan 10.
+Citation on PubMed
+Goldenberg NA, Manco-Johnson MJ. Protein C deficiency. Haemophilia. 2008
+Nov;14(6):1214-21. doi: 10.1111/j.1365-2516.2008.01838.x.
+Citation on PubMed
+Knoebl PN. Severe congenital protein C deficiency: the use of protein C
+concentrates (human) as replacement therapy for life-threatening blood-clotting
+complications. Biologics. 2008 Jun;2(2):285-96. doi: 10.2147/btt.s1954.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mahmoodi BK, Brouwer JL, Ten Kate MK, Lijfering WM, Veeger NJ, Mulder AB,
+Kluin-Nelemans HC, Van Der Meer J. A prospective cohort study on the absolute
+risks of venous thromboembolism and predictive value of screening asymptomatic
+relatives of patients with hereditary deficiencies of protein S, protein C or
+antithrombin. J Thromb Haemost. 2010 Jun;8(6):1193-200. doi:
+10.1111/j.1538-7836.2010.03840.x. Epub 2010 Mar 4.
+Citation on PubMed
+Related Health Topics
+Blood Clots
+Deep Vein Thrombosis
+Genetic Disorders
+Pulmonary Embolism
+MEDICAL ENCYCLOPEDIA
+Congenital protein C or S deficiency
+Genetics
+Necrosis
+Protein C blood test
+Purpura
+Related Medical Tests
+Protein C and Protein S Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

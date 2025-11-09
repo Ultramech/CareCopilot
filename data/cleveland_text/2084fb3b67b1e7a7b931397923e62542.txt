@@ -1,0 +1,200 @@
+Hyper-IgM (HIgM) Syndromes: Causes, Symptoms & Treatment
+Home
+/
+Health Library
+/
+Diseases & Conditions
+/
+Hyper-IgM Syndrome
+Advertisement
+Advertisement
+Hyper-IgM Syndrome
+Hyper-IgM syndromes are a group of genetic disorders that make it hard to fight off infections. People with hyper-IgM make very few antibodies, causing them to get sick frequently. It can cause severe complications. People with hyper IgM often develop a fatal infection before the age of 30. Sometimes, a stem cell transplant can cure hyper-IgM.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Find a Pediatric Primary Care Provider
+Find a Doctor and Specialists
+Schedule a Pediatric Primary Care Appointment
+Contents
+Arrow Down
+Overview
+Symptoms and Causes
+Diagnosis and Tests
+Management and Treatment
+Outlook / Prognosis
+Prevention
+Overview
+What is a hyper-IgM syndrome?
+Hyper-IgM syndromes are a group of rare conditions that prevent your body from making certain
+antibodies
+. Antibodies are a part of your
+immune system
+that help you fight infections. Having a hyper-IgM (HIgM) syndrome can cause you to get sick more often and more severely than other people.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+HIgM syndromes are types of
+primary immunodeficiencies
+, or inborn errors of immunity. This means they’re an immune system disorder that you’re born with. They’re most commonly diagnosed in kids before the age of 4.
+Kids get sick — a lot. But with HIgM, it’s more than that. Your body isn’t able to develop the tools it needs to effectively fight infections. You get illnesses that other people don’t, and each one can be life-threatening. Because of this, people with HIgM have shortened life expectancies.
+IgM is short for
+immunoglobulin M
+, a type of antibody. Even though the name “hyper-IgM” might imply that it causes high levels of IgM antibodies, people with HIgM can have high, normal or even low levels of IgM. The name comes from your body being unable to switch from making IgM to other types of antibodies.
+Types
+Genetic types of hyper-IgM syndrome include:
+X-linked hyper-IgM syndrome
+: This is the most common type. The
+CD40 ligand
+gene on the
+X chromosome
+causes it. It mostly affects
+males
+.
+Autosomal hyper-IgM syndrome
+: Gene changes on numbered chromosomes (autosomes) cause this type of HIgM. It affects both males and females.
+HIgM can also happen secondarily in people with other conditions, like
+congenital rubella syndrome
+.
+Advertisement
+Symptoms and Causes
+What are the symptoms of hyper-IgM syndrome?
+The most common symptom of hyper-IgM syndrome is frequent infections. These can include:
+Bacterial infections
+, like sinusitis and ear infections
+Severe respiratory infections, like pneumonia
+Uncommon bacterial, fungal, parasitic and viral infections due to a
+weakened immune system
+Recurrent or chronic diarrhea is also common in people with HIgM.
+What causes hyper-IgM syndrome?
+Problems with your B cells cause hyper IgM syndromes. In most cases, changes in your DNA that you’re born with cause these issues. These changes prevent your immune cells from class switching — changing the type of antibody they make from IgM antibodies to other types of antibodies. You inherit the difference from one or both of your parents.
+When you first get an infection from a specific germ, a type of white blood cell called a
+B cell
+makes IgM antibodies to fight it. Then, another type of white blood cell (
+T cells
+) activates those B cells. This causes the B cells to make additional types of antibodies (class switching), like
+IgG
+,
+IgA
+and
+IgE
+. IgM antibodies on their own aren’t enough to fight off most infections — other antibodies, like IgG, are more effective.
+Genetic changes can prevent T cells or B cells from working properly. This prevents the T cells from activating the B cells, so the B cells can’t class switch. This means you might have high or normal levels of IgM antibodies but low levels of other antibodies.
+If B cells aren’t activated, it also means they can’t make memory B cells. Memory B cells recognize germs so they can fight them off more quickly if they encounter them again.
+Does hyper-IgM affect B cells or T cells?
+Hyper-IgM can affect both. For example, it can cause non-functioning CD40L proteins in T cells or non-functioning CD40 proteins in B cells. These changes make T cells unable to activate B cells.
+What are the risk factors?
+You’re most at risk for HIgM if one or both of your parents have it. But sometimes, people with IgM have no known family history.
+What are the complications of hyper-IgM syndrome?
+Complications of HIgM syndromes can include:
+Neutropenia
+: A condition where your body doesn’t make enough neutrophils, a type of white blood cell that helps fight infections. About 2 out of 3 people with hyper IgM have neutropenia.
+Pneumocystis
+pneumonia
+: A potentially severe type of
+pneumonia
+from a fungal infection.
+Lung damage
+:
+Bronchiectasis
+, scarring and other lung damage is common in people with hyper-IgM syndromes due to frequent infections.
+Sepsis
+: Your body can have a life-threatening response to infection.
+If you have hyper-IgM syndrome, you’re also at a higher risk for developing certain cancers.
+Diagnosis and Tests
+How is hyper-IgM diagnosed?
+Healthcare providers diagnose hyper IgM by
+measuring levels of antibodies
+in your blood. If you have high or normal levels of IgM and low levels of other antibodies, your provider might recommend
+genetic testing
+to look for gene changes that cause hyper IgM.
+Advertisement
+Management and Treatment
+How is hyper-IgM syndrome treated?
+Treatments for hyper-IgM syndromes may include:
+Allogenic stem cell transplant
+: This replaces your stem cells with those from a donor. This treatment can cure hyper-IgM syndrome in some people, but it has significant risks.
+Antibiotics
+: These medications can prevent or treat infections.
+Granulocyte colony-stimulating factor (G-CSF)
+: Providers can use G-CSF to treat neutropenia, a complication of hyper-IgM.
+Subcutaneous or
+intravenous immunoglobulin (IVIG)
+: This is an infusion of IgG antibodies that can help fight infections. You might get this weekly or monthly.
+When should I see my healthcare provider?
+Hyper-IgM syndromes are rare. But it’s important to get a diagnosis as early as possible. If you or your child gets sick frequently or severely, talk to a healthcare provider.
+If you or your child has an HIgM diagnosis and you have questions about any treatments you’re receiving, how to prevent infections and when to seek care, talk to your provider.
+When should I go to the ER?
+Talk to your healthcare provider about when to go to the emergency room if you or your child has HIgM. They may give you recommendations based on your specific situation. In general, go to the emergency room if you or your child experiences:
+High fever (103 degrees Fahrenheit/40 degrees Celsius)
+Difficulty breathing
+New or worsening
+chest pain
+Bluish or grayish skin, lips or nails (
+cyanosis
+)
+Confusion or inability to think clearly
+Severe diarrhea
+Advertisement
+Care at Cleveland Clinic
+Find a Pediatric Primary Care Provider
+Find a Doctor and Specialists
+Schedule a Pediatric Primary Care Appointment
+Outlook / Prognosis
+What can I expect if I have HIgM?
+Hyper-IgM syndrome is a challenging condition to manage. If you or your child has hyper-IgM syndrome, you’ll need to be vigilant about preventing and treating infections. You’ll also need to work closely with your team of healthcare providers and know what to do if you or your child gets sick.
+Some people are eligible for a stem cell transplant. This can improve your quality of life and life expectancy. But it comes with significant risks, including
+graft-vs-host disease
+, where your immune system attacks the donor cells.
+What’s the prognosis for people with hyper-IgM syndrome?
+People with HIgM are prone to many life-threatening illnesses. This affects their life expectancy. About
+20% of people with hyper-IgM
+live past age 25. But people with hyper-IgM are now living longer than they used to.
+Prevention
+Can hyper-IgM syndrome be prevented?
+If you have a genetic hyper-IgM syndrome, you can talk to a
+genetic counselor
+about the risk of your child inheriting it. IVF with pre-implantation testing might be an option if you’re concerned about passing on HIgM to future children.
+If you or your child has hyper IgM syndrome, you can reduce your risk of infections by:
+Avoiding swimming in lakes, rivers or public pools
+: These can contain parasites.
+Avoiding situations where germs spread
+: This could mean avoiding busy or crowded spaces during times when colds, flu and COVID-19 are spreading. An N95 face mask can also help if you can’t avoid others.
+Practicing good hygiene
+: This includes maintaining
+good handwashing habits
+, wearing clean and dry clothes and not sharing personal items (like cups or towels) with other people.
+Keeping wounds clean
+: Breaks in your skin allow bacteria to get in. Clean and cover cuts or wounds on your skin.
+Practicing safe food habits
+: This includes storing food properly, heating meat and poultry to a temperature that kills bacteria, and washing or peeling fruits and vegetables before eating.
+Getting all recommended non-live
+vaccinations
+: Talk to your provider about the vaccinations you or your child should get. Generally, people with hyper-IgM should avoid live vaccinations.
+Avoiding activities with lots of dust or mold
+: This includes gardening and construction. If you might be exposed to airborne dust or mold, wear an N95 respirator mask.
+Advertisement
+A note from Cleveland Clinic
+When you’re a parent, you can expect kids to get sick a lot. But if your child has hyper-IgM syndrome, the potential for repeated, severe illness — sometimes with things you’ve never even heard of — can be overwhelming.
+It can help to connect with other families who are experiencing the same things as you. They can help you know what to expect and share knowledge and resources. An experienced medical team, along with family and friends, who understand the importance of staying healthy can also provide critical support for whatever the future holds.
+Care at Cleveland Clinic
+As your child grows, you need healthcare providers by your side to guide you through each step. Cleveland Clinic Children’s is there with care you can trust.
+Find a Pediatric Primary Care Provider
+Find a Doctor and Specialists
+Schedule a Pediatric Primary Care Appointment
+Medically Reviewed
+Last reviewed on 10/19/2025.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointments
+216.444.6503
+Appointments & Locations
+Request an Appointment

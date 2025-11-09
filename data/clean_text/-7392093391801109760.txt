@@ -1,0 +1,127 @@
+Tietz syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Tietz syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/tietz-syndrome/
+Tietz syndrome
+Description
+Tietz syndrome is a disorder characterized by profound hearing loss from birth, fair skin, and light-colored hair. The hearing loss in affected individuals is caused by abnormalities of the inner ear (sensorineural hearing loss) and is present from birth. Although people with Tietz syndrome are born with white hair and very pale skin, their hair color often darkens over time to blond or red. The skin of affected individuals, which sunburns very easily, may tan slightly or develop reddish freckles with limited sun exposure; however, their skin and hair color remain lighter than those of other members of their family.
+Tietz syndrome also affects the eyes. The colored part of the eye (
+the iris
+) in affected individuals is blue, and specialized cells in the eye called retinal pigment epithelial cells lack their normal pigment. The
+retinal pigment epithelium
+nourishes the retina, the part of the eye that detects light and color. The changes to the retinal pigment epithelium are generally detectable only by an eye examination; it is unclear whether the changes affect vision.
+Frequency
+Tietz syndrome is a rare disorder; its exact prevalence is unknown. Only a few affected families have been described in the medical literature.
+Causes
+Tietz syndrome is caused by mutations in the
+MITF
+gene. This gene provides instructions for making a protein that plays a role in the development, survival, and function of certain types of cells. Molecules of the MITF protein attach (bind) to each other or with other proteins that have a similar structure, creating a two-protein unit (dimer). The dimer attaches to specific areas of DNA and helps control the activity of particular genes. On the basis of this action, the MITF protein is called a transcription factor.
+The MITF protein helps control the development and function of pigment-producing cells called
+melanocytes
+. Within these cells, this protein controls production of the pigment melanin, which contributes to hair, eye, and skin color. Melanocytes are also found in the inner ear and play an important role in hearing. Additionally, the MITF protein regulates the development of the retinal pigment epithelium.
+MITF
+gene mutations that cause Tietz syndrome either delete or change a single protein building block (amino acid) in an area of the MITF protein known as the basic motif region. Dimers incorporating the abnormal MITF protein cannot be transported into the cell nucleus to bind with DNA. As a result, most of the dimers are unavailable to bind to DNA, which affects the development of melanocytes and the production of melanin. The resulting reduction or absence of melanocytes in the inner ear leads to hearing loss. Decreased melanin production (hypopigmentation) accounts for the light skin and hair color and the retinal pigment epithelium changes that are characteristic of Tietz syndrome.
+Researchers suggest that Tietz syndrome may represent a severe form of a disorder called
+Waardenburg syndrome
+, which can also be caused by MITF gene mutations.
+Learn more about the gene associated with Tietz syndrome
+MITF
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+Other Names for This Condition
+Albinism and complete nerve deafness
+Albinism-deafness of Tietz
+Hypopigmentation-deafness syndrome
+Hypopigmentation/deafness of Tietz
+Tietz albinism-deafness syndrome
+Tietz's syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Tietz syndrome
+Genetic and Rare Diseases Information Center
+Tietz syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+TIETZ ALBINISM-DEAFNESS SYNDROME; TADS
+Scientific Articles on PubMed
+PubMed
+References
+Amiel J, Watkin PM, Tassabehji M, Read AP, Winter RM. Mutation of the MITF
+gene in albinism-deafness syndrome (Tietz syndrome). Clin Dysmorphol. 1998
+Jan;7(1):17-20.
+Citation on PubMed
+Grill C, Bergsteinsdottir K, Ogmundsdottir MH, Pogenberg V, Schepsky A,
+Wilmanns M, Pingault V, Steingrimsson E. MITF mutations associated with pigment
+deficiency syndromes and melanoma have different effects on protein function. Hum
+Mol Genet. 2013 Nov 1;22(21):4357-67. doi: 10.1093/hmg/ddt285. Epub 2013 Jun 20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Izumi K, Kohta T, Kimura Y, Ishida S, Takahashi T, Ishiko A, Kosaki K. Tietz
+syndrome: unique phenotype specific to mutations of MITF nuclear localization
+signal. Clin Genet. 2008 Jul;74(1):93-5. doi: 10.1111/j.1399-0004.2008.01010.x.
+Epub 2008 May 28. No abstract available.
+Citation on PubMed
+Leger S, Balguerie X, Goldenberg A, Drouin-Garraud V, Cabot A,
+Amstutz-Montadert I, Young P, Joly P, Bodereau V, Holder-Espinasse M, Jamieson
+RV, Krause A, Chen H, Baumann C, Nunes L, Dollfus H, Goossens M, Pingault V.
+Novel and recurrent non-truncating mutations of the MITF basic domain: genotypic
+and phenotypic variations in Waardenburg and Tietz syndromes. Eur J Hum Genet.
+2012 May;20(5):584-7. doi: 10.1038/ejhg.2011.234. Epub 2012 Jan 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Smith SD, Kelley PM, Kenyon JB, Hoover D. Tietz syndrome
+(hypopigmentation/deafness) caused by mutation of MITF. J Med Genet. 2000
+Jun;37(6):446-8. doi: 10.1136/jmg.37.6.446.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Hearing Disorders and Deafness
+Skin Pigmentation Disorders
+MEDICAL ENCYCLOPEDIA
+Abnormally dark or light skin
+Genetics
+Sensorineural deafness
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

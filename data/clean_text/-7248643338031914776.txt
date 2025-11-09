@@ -1,0 +1,132 @@
+Short/branched chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Short/branched chain acyl-CoA dehydrogenase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/short-branched-chain-acyl-coa-dehydrogenase-deficiency/
+Short/branched chain acyl-CoA dehydrogenase deficiency
+Description
+Short/branched chain acyl-CoA dehydrogenase (SBCAD) deficiency (also known as 2-methylbutyryl-CoA dehydrogenase deficiency) is a rare disorder in which the body is unable to process proteins properly. Normally, the body breaks down proteins from food into smaller parts called amino acids. Amino acids can be further processed to provide energy for the body. People with SBCAD deficiency cannot process a particular amino acid called isoleucine.
+Most cases of SBCAD deficiency are detected shortly after birth by newborn screening, which identifies abnormal levels of certain compounds in the blood. In individuals with this condition, a compound called 2-methylbutyryl carnitine is elevated in the blood and another called 2-methylbutyrylglycine is elevated in the urine (2-methylbutyrylglycinuria).
+Most people with SBCAD deficiency have no health problems related to the disorder. A small percentage of affected individuals develop signs and symptoms of the condition, which can begin soon after birth or later in childhood. The initial symptoms often include poor feeding, lack of energy (lethargy), vomiting, and irritability. These symptoms sometimes progress to serious health problems such as difficulty breathing, seizures, and coma. Additional problems can include poor growth, vision impairment, learning disabilities, muscle weakness, and delays in motor skills such as standing and walking.
+It is unclear why some people with SBCAD deficiency develop health problems and others do not. Doctors suggest that in some cases, signs and symptoms may be triggered by infections, prolonged periods without food (fasting), or an increased amount of protein-rich foods in the diet.
+Frequency
+SBCAD deficiency is a rare condition; its worldwide prevalence is unknown. This condition is most common among Hmong populations in Southeast Asia and in people of Hmong descent, affecting 1 in 250 to 1 in 500 people in these communities. These individuals do not usually develop health problems related to the condition.
+Causes
+Mutations in the
+ACADSB
+gene cause SBCAD deficiency. This gene provides instructions for making an enzyme called short/branched chain acyl-CoA dehydrogenase (SBCAD), which performs a chemical reaction that helps process the amino acid isoleucine. Mutations in the
+ACADSB
+gene reduce or eliminate the activity of this enzyme. With a shortage (deficiency) of SBCAD activity, the body is unable to break down isoleucine properly. Researchers speculate that some features of this disorder, such as lethargy and muscle weakness, occur because isoleucine is not converted to energy. In addition, impairment of SBCAD may allow the buildup of toxic compounds, which can lead to serious health problems.
+Learn more about the gene associated with Short/branched chain acyl-CoA dehydrogenase deficiency
+ACADSB
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+2-MBADD
+2-MBCD deficiency
+2-MBG
+2-methylbutyryl glycinuria
+2-methylbutyryl-CoA dehydrogenase deficiency
+2-methylbutyryl-coenzyme A dehydrogenase deficiency
+SBCADD
+Short/branched-chain acyl-CoA dehydrogenase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deficiency of 2-methylbutyryl-CoA dehydrogenase
+Genetic and Rare Diseases Information Center
+2-methylbutyryl-CoA dehydrogenase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+2-METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Alfardan J, Mohsen AW, Copeland S, Ellison J, Keppen-Davis L, Rohrbach M,
+Powell BR, Gillis J, Matern D, Kant J, Vockley J. Characterization of new ACADSB
+gene sequence mutations and clinical implications in patients with
+2-methylbutyrylglycinuria identified by newborn screening. Mol Genet Metab. 2010
+Aug;100(4):333-8. doi: 10.1016/j.ymgme.2010.04.014. Epub 2010 May 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Andresen BS, Christensen E, Corydon TJ, Bross P, Pilgaard B, Wanders RJ,
+Ruiter JP, Simonsen H, Winter V, Knudsen I, Schroeder LD, Gregersen N, Skovby F.
+Isolated 2-methylbutyrylglycinuria caused by short/branched-chain acyl-CoA
+dehydrogenase deficiency: identification of a new enzyme defect, resolution of
+its molecular basis, and evidence for distinct acyl-CoA dehydrogenases in
+isoleucine and valine metabolism. Am J Hum Genet. 2000 Nov;67(5):1095-103. doi:
+10.1086/303105. Epub 2000 Sep 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Korman SH. Inborn errors of isoleucine degradation: a review. Mol Genet Metab.
+2006 Dec;89(4):289-99. doi: 10.1016/j.ymgme.2006.07.010. Epub 2006 Sep 6.
+Citation on PubMed
+Madsen PP, Kibaek M, Roca X, Sachidanandam R, Krainer AR, Christensen E,
+Steiner RD, Gibson KM, Corydon TJ, Knudsen I, Wanders RJ, Ruiter JP, Gregersen N,
+Andresen BS. Short/branched-chain acyl-CoA dehydrogenase deficiency due to an
+IVS3+3A>G mutation that causes exon skipping. Hum Genet. 2006
+Feb;118(6):680-90. doi: 10.1007/s00439-005-0070-4. Epub 2005 Nov 30.
+Citation on PubMed
+Matern D, He M, Berry SA, Rinaldo P, Whitley CB, Madsen PP, van Calcar SC,
+Lussky RC, Andresen BS, Wolff JA, Vockley J. Prospective diagnosis of
+2-methylbutyryl-CoA dehydrogenase deficiency in the Hmong population by newborn
+screening using tandem mass spectrometry. Pediatrics. 2003 Jul;112(1 Pt 1):74-8.
+doi: 10.1542/peds.112.1.74.
+Citation on PubMed
+Pasquali M, Monsen G, Richardson L, Alston M, Longo N. Biochemical findings in
+common inborn errors of metabolism. Am J Med Genet C Semin Med Genet. 2006 May
+15;142C(2):64-76. doi: 10.1002/ajmg.c.30086.
+Citation on PubMed
+Sass JO, Ensenauer R, Roschinger W, Reich H, Steuerwald U, Schirrmacher O,
+Engel K, Haberle J, Andresen BS, Megarbane A, Lehnert W, Zschocke J.
+2-Methylbutyryl-coenzyme A dehydrogenase deficiency: functional and molecular
+studies on a defect in isoleucine catabolism. Mol Genet Metab. 2008
+Jan;93(1):30-5. doi: 10.1016/j.ymgme.2007.09.002. Epub 2007 Oct 22.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

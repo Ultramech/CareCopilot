@@ -1,0 +1,149 @@
+Horizontal gaze palsy with progressive scoliosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Horizontal gaze palsy with progressive scoliosis
+URL of this page: https://medlineplus.gov/genetics/condition/horizontal-gaze-palsy-with-progressive-scoliosis/
+Horizontal gaze palsy with progressive scoliosis
+Description
+Horizontal gaze palsy with progressive scoliosis (HGPPS) is a disorder that affects the eyes and the spine. Individuals with this condition are unable to move their eyes side-to-side (horizontally) from birth, although the problem may not be diagnosed until later in infancy. As a result, affected individuals must track moving objects by turning their head instead of moving their eyes. Up-and-down (vertical) eye movements are typically normal.
+In people with HGPPS, an abnormal side-to-side curvature of the spine (
+scoliosis
+) develops between infancy and childhood. It tends to be moderate to severe and worsens over time. The abnormal spine position can be painful and can interfere with movement. In severe cases, it may impede breathing. It may require external support, such as bracing, and is often treated with surgery early in life.
+People with HGPPS have structural abnormalities along the midline of
+the brain
+that can only be seen with medical imaging. This imaging shows distinctive malformations that include underdevelopment of brain structures called the pons and cerebellar peduncles and a notch or cleft in the midline of the brain. While most people with HGPPS have a normal intellect, mild intellectual disabilities can occur.
+Frequency
+HGPPS has been reported in several dozen families worldwide.
+Causes
+HGPPS is caused by variants (also called mutations) in the
+ROBO3
+gene. This gene provides instructions for making a protein that plays a critical role in the developing brain before birth. Specifically, this protein is important for communication across the two sides (hemispheres) of the brain.
+The ROBO3 protein is important for forming certain nerve pathways in the
+brain
+. These include motor nerve pathways, which transmit information about voluntary muscle movement, and sensory nerve pathways, which transmit information about sensory input (such as touch, pain, and temperature). For the brain and the body to communicate effectively, these nerve pathways must cross from one side of the body to the other in the brainstem. The ROBO3 protein is necessary to ensure that motor and sensory nerve pathways can cross over in the brainstem. In people with HGPPS, these pathways do not cross over; they stay on the same side of the body.
+Researchers believe that this miswiring in the brain caused by the lack of the ROBO3 protein is the underlying cause of the eye movement abnormalities that are associated with HGPPS. The cause of progressive scoliosis in people with this condition is unclear.
+Learn more about the gene associated with Horizontal gaze palsy with progressive scoliosis
+ROBO3
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Familial horizontal gaze palsy with progressive scoliosis
+Familial infantile scoliosis associated with bilateral paralysis of conjugate gaze
+HGPPS
+Progressive external ophthalmoplegia and scoliosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Gaze palsy, familial horizontal, with progressive scoliosis 1
+Genetic and Rare Diseases Information Center
+Horizontal gaze palsy with progressive scoliosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GAZE PALSY, FAMILIAL HORIZONTAL, WITH PROGRESSIVE SCOLIOSIS 1; HGPPS1
+Scientific Articles on PubMed
+PubMed
+References
+Abu-Amero KK, al Dhalaan H, al Zayed Z, Hellani A, Bosley TM. Five new
+consanguineous families with horizontal gaze palsy and progressive scoliosis and
+novel ROBO3 mutations. J Neurol Sci. 2009 Jan 15;276(1-2):22-6. doi:
+10.1016/j.jns.2008.08.026. Epub 2008 Oct 1.
+Citation on PubMed
+Bosley TM, Salih MA, Jen JC, Lin DD, Oystreck D, Abu-Amero KK, MacDonald DB,
+al Zayed Z, al Dhalaan H, Kansu T, Stigsby B, Baloh RW. Neurologic features of
+horizontal gaze palsy and progressive scoliosis with mutations in ROBO3.
+Neurology. 2005 Apr 12;64(7):1196-203. doi: 10.1212/01.WNL.0000156349.01765.2B.
+Citation on PubMed
+Chan WM, Traboulsi EI, Arthur B, Friedman N, Andrews C, Engle EC. Horizontal
+gaze palsy with progressive scoliosis can result from compound heterozygous
+mutations in ROBO3. J Med Genet. 2006 Mar;43(3):e11. doi:
+10.1136/jmg.2005.035436.
+Citation on PubMed
+or
+Free article on PubMed Central
+Engle EC. Oculomotility disorders arising from disruptions in brainstem motor
+neuron development. Arch Neurol. 2007 May;64(5):633-7. doi:
+10.1001/archneur.64.5.633.
+Citation on PubMed
+Gunbey C, Cavdarli B, Gocmen R, Yazici M, Temucin CM, Ozdemir O, Cirak S,
+Haliloglu G. Horizontal gaze palsy with progressive scoliosis: Further expanding
+the ROBO3 spectrum. Ann Clin Transl Neurol. 2024 Aug;11(8):2088-2099. doi:
+10.1002/acn3.52129. Epub 2024 Jun 21.
+Citation on PubMed
+Jen J, Coulin CJ, Bosley TM, Salih MA, Sabatti C, Nelson SF, Baloh RW.
+Familial horizontal gaze palsy with progressive scoliosis maps to chromosome
+11q23-25. Neurology. 2002 Aug 13;59(3):432-5. doi: 10.1212/wnl.59.3.432.
+Citation on PubMed
+Jen JC, Chan WM, Bosley TM, Wan J, Carr JR, Rub U, Shattuck D, Salamon G, Kudo
+LC, Ou J, Lin DD, Salih MA, Kansu T, Al Dhalaan H, Al Zayed Z, MacDonald DB,
+Stigsby B, Plaitakis A, Dretakis EK, Gottlob I, Pieh C, Traboulsi EI, Wang Q,
+Wang L, Andrews C, Yamada K, Demer JL, Karim S, Alger JR, Geschwind DH, Deller T,
+Sicotte NL, Nelson SF, Baloh RW, Engle EC. Mutations in a human ROBO gene disrupt
+hindbrain axon pathway crossing and morphogenesis. Science. 2004 Jun
+4;304(5676):1509-13. doi: 10.1126/science.1096437. Epub 2004 Apr 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jen JC. Effects of failure of development of crossing brainstem pathways on
+ocular motor control. Prog Brain Res. 2008;171:137-41. doi:
+10.1016/S0079-6123(08)00618-3.
+Citation on PubMed
+Pinero-Pinto E, Perez-Cabezas V, Tous-Rivera C, Sanchez-Gonzalez JM,
+Ruiz-Molinero C, Jimenez-Rejano JJ, Benitez-Lugo ML, Sanchez-Gonzalez MC.
+Mutation in ROBO3 Gene in Patients with Horizontal Gaze Palsy with
+Progressive Scoliosis Syndrome: A Systematic Review. Int J Environ Res Public
+Health. 2020 Jun 22;17(12):4467. doi: 10.3390/ijerph17124467.
+Citation on PubMed
+Sicotte NL, Salamon G, Shattuck DW, Hageman N, Rub U, Salamon N, Drain AE,
+Demer JL, Engle EC, Alger JR, Baloh RW, Deller T, Jen JC. Diffusion tensor MRI
+shows abnormal brainstem crossing fibers associated with ROBO3 mutations.
+Neurology. 2006 Aug 8;67(3):519-21. doi: 10.1212/01.wnl.0000227960.38262.0c.
+Citation on PubMed
+Zhang Z, Zhang Z, Shu L, Meng Y, Ma J, Gao R, Zhou X. A Genetic Variant of the
+ROBO3 Gene is Associated With Adolescent Idiopathic Scoliosis in the Chinese
+Population. Spine (Phila Pa 1976). 2023 Jan 15;48(2):E20-E24. doi:
+10.1097/BRS.0000000000004484. Epub 2022 Sep 20.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eye Movement Disorders
+Genetic Disorders
+Scoliosis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,129 @@
+Erdheim-Chester disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Erdheim-Chester disease
+URL of this page: https://medlineplus.gov/genetics/condition/erdheim-chester-disease/
+Erdheim-Chester disease
+Description
+Erdheim-Chester disease is a rare type of slow-growing blood cancer called a histiocytic neoplasm, which results in overproduction of cells called histiocytes. Histiocytes normally function to destroy foreign substances and protect the body from infection. In Erdheim-Chester disease, the excess production of histiocytes (histiocytosis) leads to inflammation that can damage organs and tissues throughout the body, causing them to become thickened, dense, and scarred (fibrotic); this tissue damage may lead to organ failure.
+People with Erdheim-Chester disease often have bone pain, especially in the lower legs and upper arms, due to an abnormal increase in bone density (osteosclerosis). Damage to the pituitary gland (a structure at the base of the brain that produces several hormones, including a hormone that controls the amount of water released in the urine) may result in hormonal problems such as a condition called diabetes insipidus that leads to excessive urination. Abnormally high pressure of the cerebrospinal fluid within the skull (intracranial hypertension) caused by accumulation of histiocytes in the brain may result in headaches, seizures, cognitive impairment, or problems with movement or sensation. People with this condition can also have shortness of breath, heart or kidney disease, protruding eyes (exophthalmos), skin growths, or inability to conceive a child (infertility). Affected individuals may also experience fever, night sweats, fatigue, weakness, and weight loss.
+The signs and symptoms of Erdheim-Chester disease usually appear between the ages of 40 and 60, although the disorder can occur at any age. The severity of the condition varies widely; some affected individuals have few or no associated health problems, while others have severe complications that can be life-threatening.
+Frequency
+Erdheim-Chester disease is a rare disorder; its exact prevalence is unknown. More than 500 affected individuals worldwide have been described in the medical literature. For unknown reasons, men are slightly more likely to develop the disease, accounting for about 60 percent of cases.
+Causes
+More than half of people with Erdheim-Chester disease have a specific mutation in the
+BRAF
+gene. Mutations in other genes are also thought to be involved in this disorder.
+The
+BRAF
+gene provides instructions for making a protein that helps transmit chemical signals from outside the cell to the cell's nucleus. This protein is part of a signaling pathway known as the RAS/MAPK pathway, which controls several important cell functions. Specifically, the RAS/MAPK pathway regulates the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis).
+The
+BRAF
+gene mutation that causes Erdheim-Chester disease is somatic, which means that it occurs during a person's lifetime and is present only in certain cells. The mutation occurs in histiocytes or in immature precursor cells that will develop into histiocytes. This mutation leads to production of a BRAF protein that is abnormally active, which disrupts regulation of cell growth and division. The unregulated overproduction of histiocytes results in their accumulation in the body's tissues and organs, leading to the signs and symptoms of Erdheim-Chester disease.
+Learn more about the gene associated with Erdheim-Chester disease
+BRAF
+Inheritance
+This condition is not inherited. It arises from a somatic mutation in histiocytes or their precursor cells during an individual's lifetime.
+Other Names for This Condition
+Lipid granulomatosis
+Polyostotic sclerosing histiocytosis
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Erdheim-Chester disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Scientific Articles on PubMed
+PubMed
+References
+Bosco J, Allende A, Varikatt W, Lee R, Stewart GJ. Does the BRAF(V600E)
+mutation herald a new treatment era for Erdheim-Chester disease? A case-based
+review of a rare and difficult to diagnose disorder. Intern Med J. 2015
+Mar;45(3):348-51. doi: 10.1111/imj.12685.
+Citation on PubMed
+Campochiaro C, Tomelleri A, Cavalli G, Berti A, Dagna L. Erdheim-Chester
+disease. Eur J Intern Med. 2015 May;26(4):223-9. doi: 10.1016/j.ejim.2015.03.004.
+Epub 2015 Apr 10.
+Citation on PubMed
+Cives M, Simone V, Rizzo FM, Dicuonzo F, Cristallo Lacalamita M, Ingravallo G,
+Silvestris F, Dammacco F. Erdheim-Chester disease: a systematic review. Crit Rev
+Oncol Hematol. 2015 Jul;95(1):1-11. doi: 10.1016/j.critrevonc.2015.02.004. Epub
+2015 Feb 17.
+Citation on PubMed
+Diamond EL, Dagna L, Hyman DM, Cavalli G, Janku F, Estrada-Veras J, Ferrarini
+M, Abdel-Wahab O, Heaney ML, Scheel PJ, Feeley NK, Ferrero E, McClain KL, Vaglio
+A, Colby T, Arnaud L, Haroche J. Consensus guidelines for the diagnosis and
+clinical management of Erdheim-Chester disease. Blood. 2014 Jul 24;124(4):483-92.
+doi: 10.1182/blood-2014-03-561381. Epub 2014 May 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Graziani G, Podesta MA, Cucchiari D, Reggiani F, Ponticelli C. Erdheim-Chester
+disease: from palliative care to targeted treatment. Clin Kidney J. 2014
+Aug;7(4):339-43. doi: 10.1093/ckj/sfu068. Epub 2014 Jul 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Haroche J, Arnaud L, Cohen-Aubart F, Hervier B, Charlotte F, Emile JF, Amoura
+Z. Erdheim-Chester disease. Curr Rheumatol Rep. 2014 Apr;16(4):412. doi:
+10.1007/s11926-014-0412-0.
+Citation on PubMed
+Mazor RD, Manevich-Mazor M, Shoenfeld Y. Erdheim-Chester Disease: a
+comprehensive review of the literature. Orphanet J Rare Dis. 2013 Sep 8;8:137.
+doi: 10.1186/1750-1172-8-137.
+Citation on PubMed
+or
+Free article on PubMed Central
+Swerdlow SH, Campo E, Pileri SA, Harris NL, Stein H, Siebert R, Advani R,
+Ghielmini M, Salles GA, Zelenetz AD, Jaffe ES. The 2016 revision of the World
+Health Organization classification of lymphoid neoplasms. Blood. 2016 May
+19;127(20):2375-90. doi: 10.1182/blood-2016-01-643569. Epub 2016 Mar 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Diabetes Insipidus
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Bone pain or tenderness
+Diabetes insipidus
+Genetics
+Histiocyte
+Histiocytosis
+Related Medical Tests
+BRAF Genetic Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

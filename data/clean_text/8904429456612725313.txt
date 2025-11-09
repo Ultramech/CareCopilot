@@ -1,0 +1,187 @@
+3MC syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+3MC syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/3mc-syndrome/
+3MC syndrome
+Description
+3MC syndrome is a disorder characterized by unusual facial features and problems affecting other tissues and organs.
+The distinctive facial features of people with 3MC syndrome include widely spaced eyes (
+hypertelorism
+), a narrowing of the eye opening (
+blepharophimosis
+), droopy eyelids (
+ptosis
+),
+highly arched eyebrows
+, and an opening in the upper lip (
+cleft lip
+) with an opening in the roof of the mouth (
+cleft palate
+).
+Other common features of 3MC syndrome include developmental delay, intellectual disability, hearing loss, and slow growth after birth resulting in short stature. Less often, individuals with 3MC syndrome can have abnormal fusion of certain bones in the skull (craniosynostosis) or forearm (radioulnar synostosis); an outgrowth of the tailbone (caudal appendage); a soft out-pouching around the belly-button (an umbilical
+hernia
+); and abnormalities of the kidneys, bladder, or genitals.
+3MC syndrome encompasses four disorders that were formerly considered to be separate: Mingarelli, Malpeuch, Michels, and Carnevale syndromes. Researchers now generally consider these disorders to be part of the same condition, which is called 3MC based on the initials of the older condition names.
+Frequency
+3MC syndrome is a rare disorder; its prevalence is unknown.
+Causes
+3MC syndrome is caused by mutations in the
+COLEC10
+,
+COLEC11
+, or
+MASP1
+gene. These genes provide instructions for making proteins that are involved in a series of steps called the lectin complement pathway. This pathway is thought to help direct the movement (migration) of cells during development before birth to form the organs and systems of the body. The lectin complement pathway appears to be particularly important in directing the migration of neural crest cells. These cells give rise to various tissues including many tissues in the face and skull, the glands that produce hormones (endocrine glands), and portions of the nervous system. After birth, the lectin complement pathway is involved in the immune system.
+The
+COLEC10
+,
+COLEC11
+, and
+MASP1
+gene mutations that cause 3MC syndrome impair or eliminate the function of the corresponding proteins, resulting in faulty control of cell migration in early development. Impaired cell migration disrupts the normal growth and development of several tissues and organs, which leads to the various abnormalities that occur in this disorder. Researchers suggest that similar pathways in the immune system can compensate for problems in the lectin complement pathway, which explains why immune system abnormalities are not part of 3MC syndrome.
+Learn more about the genes associated with 3MC syndrome
+COLEC10
+COLEC11
+MASP1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Carnevale syndrome
+Carnevale-Krajewska-Fischetto syndrome
+Craniofacial-ulnar-renal syndrome
+Craniosynostosis with lid anomalies
+Malpuech facial clefting syndrome
+Malpuech syndrome
+Michels syndrome
+Mingarelli syndrome
+Oculo-skeletal-abdominal syndrome
+Oculopalatoskeletal syndrome
+OSA syndrome
+Ptosis of eyelids with diastasis recti and hip dysplasia
+Ptosis-strabismus-rectus abdominis diastasis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: 3MC syndrome 1
+Genetic Testing Registry: 3MC syndrome 2
+Genetic Testing Registry: 3MC syndrome 3
+Genetic and Rare Diseases Information Center
+3MC syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+3MC SYNDROME 1; 3MC1
+3MC SYNDROME 3; 3MC3
+3MC SYNDROME 2; 3MC2
+Scientific Articles on PubMed
+PubMed
+References
+Atik T, Koparir A, Bademci G, Foster J 2nd, Altunoglu U, Mutlu GY, Bowdin S,
+Elcioglu N, Tayfun GA, Atik SS, Ozen M, Ozkinay F, Alanay Y, Kayserili H, Thiel
+S, Tekin M. Novel MASP1 mutations are associated with an expanded phenotype in
+3MC1 syndrome. Orphanet J Rare Dis. 2015 Sep 30;10:128. doi:
+10.1186/s13023-015-0345-3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Munye MM, Diaz-Font A, Ocaka L, Henriksen ML, Lees M, Brady A, Jenkins D,
+Morton J, Hansen SW, Bacchelli C, Beales PL, Hernandez-Hernandez V. COLEC10 is
+mutated in 3MC patients and regulates early craniofacial development. PLoS Genet.
+2017 Mar 16;13(3):e1006679. doi: 10.1371/journal.pgen.1006679. eCollection 2017
+Mar.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rooryck C, Diaz-Font A, Osborn DP, Chabchoub E, Hernandez-Hernandez V,
+Shamseldin H, Kenny J, Waters A, Jenkins D, Kaissi AA, Leal GF, Dallapiccola B,
+Carnevale F, Bitner-Glindzicz M, Lees M, Hennekam R, Stanier P, Burns AJ, Peeters
+H, Alkuraya FS, Beales PL. Mutations in lectin complement pathway genes COLEC11
+and MASP1 cause 3MC syndrome. Nat Genet. 2011 Mar;43(3):197-203. doi:
+10.1038/ng.757. Epub 2011 Jan 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Selman L, Hansen S. Structure and function of collectin liver 1 (CL-L1) and
+collectin 11 (CL-11, CL-K1). Immunobiology. 2012 Sep;217(9):851-63. doi:
+10.1016/j.imbio.2011.12.008. Epub 2012 Feb 4.
+Citation on PubMed
+Sirmaci A, Walsh T, Akay H, Spiliopoulos M, Sakalar YB, Hasanefendioglu-Bayrak
+A, Duman D, Farooq A, King MC, Tekin M. MASP1 mutations in patients with facial,
+umbilical, coccygeal, and auditory findings of Carnevale, Malpuech, OSA, and
+Michels syndromes. Am J Hum Genet. 2010 Nov 12;87(5):679-86. doi:
+10.1016/j.ajhg.2010.09.018. Epub 2010 Oct 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Titomanlio L, Bennaceur S, Bremond-Gignac D, Baumann C, Dupuy O, Verloes A.
+Michels syndrome, Carnevale syndrome, OSA syndrome, and Malpuech syndrome:
+variable expression of a single disorder (3MC syndrome)? Am J Med Genet A. 2005
+Sep 1;137A(3):332-5. doi: 10.1002/ajmg.a.30878.
+Citation on PubMed
+Urquhart J, Roberts R, de Silva D, Shalev S, Chervinsky E, Nampoothiri S,
+Sznajer Y, Revencu N, Gunasekera R, Suri M, Ellingford J, Williams S, Bhaskar S,
+Clayton-Smith J. Exploring the genetic basis of 3MC syndrome: Findings in 12
+further families. Am J Med Genet A. 2016 May;170A(5):1216-24. doi:
+10.1002/ajmg.a.37564. Epub 2016 Jan 20.
+Citation on PubMed
+Venkatraman Girija U, Furze CM, Gingras AR, Yoshizaki T, Ohtani K, Marshall
+JE, Wallis AK, Schwaeble WJ, El-Mezgueldi M, Mitchell DA, Moody PC, Wakamiya N,
+Wallis R. Molecular basis of sugar recognition by collectin-K1 and the effects of
+mutations associated with 3MC syndrome. BMC Biol. 2015 Apr 17;13:27. doi:
+10.1186/s12915-015-0136-2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yongqing T, Wilmann PG, Reeve SB, Coetzer TH, Smith AI, Whisstock JC, Pike RN,
+Wijeyewickrema LC. The x-ray crystal structure of mannose-binding
+lectin-associated serine proteinase-3 reveals the structural basis for enzyme
+inactivity associated with the Carnevale, Mingarelli, Malpuech, and Michels (3MC)
+syndrome. J Biol Chem. 2013 Aug 2;288(31):22399-407. doi:
+10.1074/jbc.M113.483875. Epub 2013 Jun 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Cleft Lip and Palate
+Craniofacial Abnormalities
+Developmental Disabilities
+Genetic Disorders
+Hearing Disorders and Deafness
+MEDICAL ENCYCLOPEDIA
+Craniosynostosis
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

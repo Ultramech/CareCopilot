@@ -1,0 +1,152 @@
+Cell Death: Causes, Apoptosis, Autophagy & Necrosis
+Home
+/
+Health Library
+/
+Articles
+/
+Cell Death
+Advertisement
+Advertisement
+Cell Death
+Cell death, like apoptosis and autophagy, are natural processes. Cells die or recycle to make way for newer, more efficient ones. Your body expects these programmed cell deaths to happen. Necrosis (unexpected cell death from lack of blood flow) causes tissue death. When cell death doesn’t happen as it should, cancers and other problems occur.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Find a Primary Care Provider
+Schedule an Appointment
+What is cell death?
+Cell death occurs when cells in your body stop working and die. Cells in your body reproduce — a process called cell division or mitosis. Experts believe that healthy human cells can replicate or divide up to 60 times before cell death occurs. Your body is constantly making new cells to replace damaged and dying ones.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Natural cell death keeps your body healthy and functioning. Problems arise when cell death doesn’t happen as expected or cells die when they shouldn’t.
+What are cells?
+Cells are the structures that make up all living forms. In fact, your body has more than 30 trillion cells. Cells have three main parts:
+Cell membrane
+: This thin layer surrounds a cell. It has receptors that control what goes in and out of the cell.
+Cytoplasm
+: This fluid inside each cell makes proteins. It’s also where most chemical reactions inside a cell take place.
+Nucleus
+: This structure inside each cell contains most of your genetic information in the form of
+deoxyribonucleic acid (DNA)
+. The nucleus also makes ribonucleic acid (RNA). RNA carries DNA, which develops into proteins cells need to function.
+What causes cell death?
+There are many reasons cells die:
+Some cells die as they develop, before they’re fully formed.
+Old cells reach the age where they can’t divide anymore and die.
+Irrepairable damaged cells naturally die off.
+Diseases, injuries, toxins and certain treatments damage cells, causing cell death.
+Who is at risk for cell death?
+Cell death affects all of us — and that’s usually a good thing. Your
+skin
+sheds up to 40,000 dead cells every day. Your skin’s outer layer, the
+epidermis
+, constantly makes new skin cells to replace them. In other words, you wouldn’t have skin without this cell death.
+Advertisement
+What are the types of cell death?
+There are three main types of cell death:
+Apoptosis.
+Autophagy.
+Necrosis.
+What is apoptosis and programmed cell death?
+Apoptosis
+is a form of programmed cell death that happens when cells naturally self-destruct or die. With apoptosis or programmed cell death, cells die when they achieve maximum cell division and can no longer reproduce. This type of programmed cell death is healthy and expected.
+An example of apoptosis occurs during pregnancy. Unnecessary cells between developing fetal fingers die. After cell death, the fingers can separate. If apoptosis doesn’t occur, a baby may be born with skin webbing between their fingers that fuses them together. This
+congenital hand difference
+is called
+syndactyly
+.
+Apoptosis is an ongoing process. It rids your body of old, damaged cells so that younger, healthier cells can take their place. When something stops this programmed cell death from happening, old and damaged cells can uncontrollably reproduce. This is how
+tumors
+and
+cancers
+form.
+Sometimes, there are problems with cell programming and cell death occurs when it shouldn’t. When you develop
+Parkinson’s disease
+,
+Huntington’s disease
+or
+Alzheimer’s disease
+, too many nerve cells or neurons in your
+nervous system
+die. This premature cell death affects your ability to think or move.
+What is autophagy?
+Autophagy
+is another form of programmed cell death. It typically occurs during times of
+stress
+or hunger. It’s your body’s way of breaking down and reusing old cell parts to make more efficient cells. You might think of autophagy as your body’s cellular recycling system.
+During autophagy (which means self-devouring), a cell consumes old or damaged proteins and other substances in its cytoplasm. The cell then recycles these broken-down parts to support important cell functions.
+Autophagy can be helpful when the recycling process assists your
+immune system
+in destroying infection-causing viruses and bacteria. It can also prevent healthy cells from becoming cancerous and may
+prevent other problems like heart disease
+.
+On the other hand, autophagy can be bad if you have cancer. The recycling process provides extra nutrients to cancer cells, fueling their growth. Plus, the recycled cells may prevent cancer treatments from destroying the cancer cells.
+Some people severely restrict calories or fast to induce autophagy and stimulate the production of younger, healthier cells. But there’s no evidence that this type of induced autophagy is successful. We do know that strict dietary restrictions can be unhealthy.
+Advertisement
+What is necrosis?
+Necrosis
+is an accidental or unprogrammed cell death that causes tissue death. Trauma to a cell can cause its contents to leak and damage nearby cells. This can lead to
+inflammation
+and additional cell damage and death. Although your healthcare provider can remove the dead tissue, tissue death is irreversible.
+Lack of blood flow and oxygen to certain areas of your body can cause this cell death. Necrosis also
+happens when you die
+because cells no longer receive blood, oxygen and nutrients.
+Other causes of necrosis include:
+Accidents and traumatic injuries.
+Autoimmune diseases
+.
+Infection-causing bacteria, viruses and fungi.
+Poisons, toxins and illicit drug use.
+Radiation therapy
+.
+Types of necrosis
+Types of necrosis vary depending on the cause and affected body area. Common necrosis types include:
+Avascular necrosis
+or osteonecrosis (bone tissue death).
+Gangrene
+(skin tissue death).
+Pulp necrosis
+(tooth death).
+What is activation-induced cell death (AICD)?
+Activation-induced cell death (AICD) is a complication that occurs during the development of
+chimeric antigen receptor (CAR) T-cell therapy
+, a cancer treatment. It causes
+T-cells
+, a type of
+white blood cell
+that can help destroy cancer cells, to die before they should.
+In CAR T-cell therapy, healthcare providers:
+Advertisement
+Perform
+leukapheresis
+to remove white blood cells that are over-multiplying from your blood.
+Activate the T-cells and try to grow more of them in a lab.
+Modify these lab-grown T-cells with new genetic information that helps the cells find and kill cancer cells.
+Transfuse the modified T-cells into your bloodstream where they seek and destroy cancer cells.
+Unfortunately, the process of activating and growing these T-cells in a lab can bring on or induce cell death. Activation-induced cell death means there are fewer modified T-cells to fight cancer.
+A note from Cleveland Clinic
+While the term “cell death” might sound scary, it’s a natural body process that typically keeps you healthy. There are different types of cell death. During apoptosis, old, damaged cells die, allowing younger, healthier cells to take their place. With autophagy, cells recycle and reuse certain substances, so your cells work better. Unfortunately, not all cell death is good. Necrosis is a serious type that causes permanent tissue death. And sometimes, apoptosis and autophagy can contribute to illnesses like cancer. Your body is busy every day repairing damaged cells and making new ones to replace those affected by cell death.
+Advertisement
+Care at Cleveland Clinic
+Cleveland Clinic’s primary care providers offer lifelong medical care. From sinus infections and high blood pressure to preventive screening, we’re here for you.
+Find a Primary Care Provider
+Schedule an Appointment
+Medically Reviewed
+Last reviewed on 09/28/2023.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Questions
+216.444.2538
+Appointments & Locations
+Request an Appointment
+Find a Primary Care Provider

@@ -1,0 +1,130 @@
+Glucose-galactose malabsorption: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Glucose-galactose malabsorption
+URL of this page: https://medlineplus.gov/genetics/condition/glucose-galactose-malabsorption/
+Glucose-galactose malabsorption
+Description
+Glucose-galactose malabsorption is a condition in which the body cannot take in (absorb) the sugars glucose and galactose, which primarily results in severe diarrhea. Beginning in infancy, severe diarrhea results in weight loss and dehydration that can be life-threatening. Small amounts of the simple sugar glucose in the urine (mild glucosuria) may occur in this disorder. Rarely, affected infants develop
+kidney stones
+due to deposits of calcium in
+the kidneys
+(nephrocalcinosis).
+The signs and symptoms of glucose-galactose malabsorption appear early in life when affected infants are fed breast milk or regular infant formulas. These foods contain glucose, galactose, and another sugar called lactose that gets broken down into these two sugars. When these sugar-containing foods are ingested by affected individuals, it leads to diarrhea and other health problems. If foods that contain glucose, galactose, and lactose are removed from the diet, the diarrhea stops.
+Frequency
+Glucose-galactose malabsorption is a rare disorder; only a few hundred cases have been identified worldwide. However, as many as 10 percent of the population may have a somewhat reduced capacity for glucose absorption without associated health problems.
+Causes
+Mutations in the
+SLC5A1
+gene cause glucose-galactose malabsorption. The
+SLC5A1
+gene provides instructions for producing a protein called sodium/glucose cotransporter protein 1 (SGLT1). This protein is found mainly in the intestinal tract and the kidneys. It spans the membrane of cells in these body systems and moves (transports) glucose and galactose from outside the cell to inside the cell. Sodium and water are transported across the cell membrane along with the sugars in this process. Glucose and galactose are simple sugars; they are present in many foods, or they can be obtained from the breakdown of lactose or other sugars and carbohydrates in the diet during digestion.
+In the intestinal tract, the SGLT1 protein helps the body absorb glucose and galactose from the diet so the body can use them. During the digestion of food, the protein transports the sugars into the cells that line the wall of the intestine (intestinal epithelial cells) as food passes through.
+The SGLT1 protein in kidney cells plays a role in maintaining normal blood glucose levels. The kidneys filter waste products from the blood and eliminate them in urine. They also reabsorb needed nutrients and release them back into the blood. The SGLT1 protein transports glucose into specialized kidney cells, ensuring that the sugar goes back into the bloodstream and is not released into the urine.
+SLC5A1
+gene mutations impair or eliminate the function of the SGLT1 protein. As a result, glucose and galactose are not absorbed by intestinal epithelial cells but instead accumulate in the intestinal tract. In addition, water that normally would have been transported with the sugars remains in the intestinal tract, resulting in dehydration of the body's tissues and severe diarrhea. The SGLT1 protein in kidney cells cannot transport glucose; however, other proteins in the kidneys are able to absorb enough glucose into the bloodstream, so that glucosuria is mild, if present at all, in people with glucose-galactose malabsorption.
+Learn more about the gene associated with Glucose-galactose malabsorption
+SLC5A1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Carbohydrate intolerance
+Complex carbohydrate intolerance
+Congenital glucose-galactose intolerance
+Congenital glucose-galactose malabsorption
+GGM
+Monosaccharide malabsorption
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital glucose-galactose malabsorption
+Genetic and Rare Diseases Information Center
+Glucose-galactose malabsorption
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GLUCOSE/GALACTOSE MALABSORPTION; GGM
+Scientific Articles on PubMed
+PubMed
+References
+Al-Suyufi Y, ALSaleem K, Al-Mehaidib A, Banemai M, Aldekhail WM, Al-Muhandes
+A, Mohammed M, Allam R, Jambi A, Ramzan K, Imtiaz F. SLC5A1 Mutations in Saudi
+Arabian Patients With Congenital Glucose-Galactose Malabsorption. J Pediatr
+Gastroenterol Nutr. 2018 Feb;66(2):250-252. doi: 10.1097/MPG.0000000000001694.
+Citation on PubMed
+Ghezzi C, Loo DDF, Wright EM. Physiology of renal glucose handling via SGLT1,
+SGLT2 and GLUT2. Diabetologia. 2018 Oct;61(10):2087-2097. doi:
+10.1007/s00125-018-4656-5. Epub 2018 Aug 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lam JT, Martin MG, Turk E, Hirayama BA, Bosshard NU, Steinmann B, Wright EM.
+Missense mutations in SGLT1 cause glucose-galactose malabsorption by trafficking
+defects. Biochim Biophys Acta. 1999 Feb 24;1453(2):297-303. doi:
+10.1016/s0925-4439(98)00109-4.
+Citation on PubMed
+Saadah OI, Alghamdi SA, Sindi HH, Alhunaitti H, Bin-Taleb YY, Alhussaini BH.
+Congenital glucose-galactose malabsorption: a descriptive study of clinical
+characteristics and outcome from Western Saudi Arabia. Arab J Gastroenterol. 2014
+Mar;15(1):21-3. doi: 10.1016/j.ajg.2014.01.004. Epub 2014 Feb 1.
+Citation on PubMed
+Wright EM, Hirayama BA, Loo DF. Active sugar transport in health and disease.
+J Intern Med. 2007 Jan;261(1):32-43. doi: 10.1111/j.1365-2796.2006.01746.x.
+Citation on PubMed
+Wright EM, Loo DD, Hirayama BA. Biology of human sodium glucose transporters.
+Physiol Rev. 2011 Apr;91(2):733-94. doi: 10.1152/physrev.00055.2009.
+Citation on PubMed
+Wright EM, Martin MG, Turk E. Intestinal absorption in health and
+disease--sugars. Best Pract Res Clin Gastroenterol. 2003 Dec;17(6):943-56. doi:
+10.1016/s1521-6918(03)00107-0.
+Citation on PubMed
+Wright EM, Turk E, Martin MG. Molecular basis for glucose-galactose
+malabsorption. Cell Biochem Biophys. 2002;36(2-3):115-21. doi:
+10.1385/CBB:36:2-3:115.
+Citation on PubMed
+Wright EM. I. Glucose galactose malabsorption. Am J Physiol. 1998
+Nov;275(5):G879-82. doi: 10.1152/ajpgi.1998.275.5.G879.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Digestive Diseases
+Genetic Disorders
+Malabsorption Syndromes
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

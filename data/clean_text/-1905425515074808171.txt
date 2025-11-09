@@ -1,0 +1,138 @@
+5q minus syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+5q minus syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/5q-minus-syndrome/
+5q minus syndrome
+Description
+5q minus (5q-) syndrome is a type of bone marrow disorder called myelodysplastic syndrome (MDS). MDS comprises a group of conditions in which immature blood cells fail to develop normally, resulting in too many immature cells and too few normal mature blood cells. In 5q- syndrome, development of red blood cells is particularly affected, leading to a shortage of these cells (
+anemia
+). In addition, the red blood cells that are present are unusually large (macrocytic). Although many people with 5q- syndrome have no symptoms related to anemia, especially in the early stages of the condition, some affected individuals develop extreme tiredness (fatigue), weakness, and an abnormally pale appearance (pallor) as the condition worsens. Individuals with 5q- syndrome also have abnormal development of bone marrow cells called megakaryocytes, which produce platelets, the cells involved in blood clotting. A common finding in people with 5q- syndrome is abnormal cells described as hypolobated megakaryocytes. In addition, some individuals with 5q- syndrome have an excess of platelets, while others have normal numbers of platelets.
+MDS is considered a slow-growing (chronic)
+blood cancer
+. It can progress to a fast-growing blood cancer called acute myeloid leukemia (AML). Progression to AML occurs less commonly in people with 5q- syndrome than in those with other forms of MDS.
+Frequency
+MDS affects nearly 1 in 20,000 people in the United States. It is thought that 5q- syndrome accounts for 15 percent of MDS cases. Unlike other forms of MDS, which occur more frequently in men than women, 5q- syndrome is more than twice as common in women.
+Causes
+5q- syndrome is caused by deletion of a region of DNA from the long (q) arm of
+chromosome 5
+. Most people with 5q- syndrome are missing a sequence of about 1.5 million DNA building blocks (base pairs), also written as 1.5 megabases (Mb). However, the size of the deleted region varies. This deletion occurs in immature blood cells during a person's lifetime and affects one of the two copies of chromosome 5 in each cell.
+The commonly deleted region of DNA contains 40 genes, many of which play a critical role in
+normal blood cell development
+. Research suggests that loss of multiple genes in this region contributes to the features of 5q- syndrome. Loss of the
+RPS14
+gene leads to the problems with red blood cell development characteristic of 5q- syndrome, and loss of
+MIR145
+or
+MIR146A
+contributes to the megakaryocyte and platelet abnormalities and may promote the overgrowth of immature cells. Scientists are still determining how the loss of other genes in the deleted region might be involved in the features of 5q- syndrome.
+Learn more about the genes and chromosome associated with 5q minus syndrome
+MIR145
+MIR146A
+RPS14
+chromosome 5
+Inheritance
+This condition is generally not inherited but arises from a mutation in the body's cells that occurs after conception. This alteration is called a somatic mutation. Affected people typically have no history of the disorder in their family.
+Other Names for This Condition
+5q- syndrome
+Chromosome 5q deletion syndrome
+Myelodysplastic syndrome associated with isolated del(5q) chromosome abnormality
+Myelodysplastic syndrome with 5q deletion
+Myelodysplastic syndrome with 5q deletion syndrome
+Refractory macrocytic anemia due to 5q deletion
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Myelodysplastic syndrome associated with isolated del(5q)
+Genetic and Rare Diseases Information Center
+Myelodysplastic syndrome associated with isolated del(5q) chromosome abnormality
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CHROMOSOME 5q DELETION SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Dutt S, Narla A, Lin K, Mullally A, Abayasekara N, Megerdichian C, Wilson FH,
+Currie T, Khanna-Gupta A, Berliner N, Kutok JL, Ebert BL. Haploinsufficiency for
+ribosomal protein genes causes selective activation of p53 in human erythroid
+progenitor cells. Blood. 2011 Mar 3;117(9):2567-76. doi:
+10.1182/blood-2010-07-295238. Epub 2010 Nov 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ebert BL, Pretz J, Bosco J, Chang CY, Tamayo P, Galili N, Raza A, Root DE,
+Attar E, Ellis SR, Golub TR. Identification of RPS14 as a 5q- syndrome gene by
+RNA interference screen. Nature. 2008 Jan 17;451(7176):335-9. doi:
+10.1038/nature06494.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gaballa MR, Besa EC. Myelodysplastic syndromes with 5q deletion:
+pathophysiology and role of lenalidomide. Ann Hematol. 2014 May;93(5):723-33.
+doi: 10.1007/s00277-014-2022-3. Epub 2014 Mar 14.
+Citation on PubMed
+Giagounidis A, Mufti GJ, Fenaux P, Germing U, List A, MacBeth KJ. Lenalidomide
+as a disease-modifying agent in patients with del(5q) myelodysplastic syndromes:
+linking mechanism of action to clinical outcomes. Ann Hematol. 2014
+Jan;93(1):1-11. doi: 10.1007/s00277-013-1863-5. Epub 2013 Sep 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Komrokji RS, Padron E, Ebert BL, List AF. Deletion 5q MDS: molecular and
+therapeutic implications. Best Pract Res Clin Haematol. 2013 Dec;26(4):365-75.
+doi: 10.1016/j.beha.2013.10.013. Epub 2013 Oct 16.
+Citation on PubMed
+Kumar MS, Narla A, Nonami A, Mullally A, Dimitrova N, Ball B, McAuley JR,
+Poveromo L, Kutok JL, Galili N, Raza A, Attar E, Gilliland DG, Jacks T, Ebert BL.
+Coordinate loss of a microRNA and protein-coding gene cooperate in the
+pathogenesis of 5q- syndrome. Blood. 2011 Oct 27;118(17):4666-73. doi:
+10.1182/blood-2010-12-324715. Epub 2011 Aug 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Starczynowski DT, Kuchenbauer F, Argiropoulos B, Sung S, Morin R, Muranyi A,
+Hirst M, Hogge D, Marra M, Wells RA, Buckstein R, Lam W, Humphries RK, Karsan A.
+Identification of miR-145 and miR-146a as mediators of the 5q- syndrome
+phenotype. Nat Med. 2010 Jan;16(1):49-58. doi: 10.1038/nm.2054. Epub 2009 Nov 8.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Myelodysplastic Syndromes
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

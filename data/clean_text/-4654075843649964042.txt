@@ -1,0 +1,213 @@
+Congenital fibrosis of the extraocular muscles: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital fibrosis of the extraocular muscles
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-fibrosis-of-the-extraocular-muscles/
+Congenital fibrosis of the extraocular muscles
+Description
+Congenital fibrosis of the extraocular muscles (CFEOM) is a disorder of the nervous system that affects use of the muscles that surround the eyes (extraocular muscles). These muscles control eye movement and the direction of the eyes (for example, looking straight ahead). CFEOM impairs control of these muscles. As a result, affected individuals are unable to move their eyes normally. Most people with this condition have difficulty looking upward, and their side-to-side eye movement may also be limited. The eyes may look in different directions (strabismus). Instead of moving their eyes, affected individuals may need to turn their head to track moving objects. Additionally, most people with CFEOM have droopy eyelids (
+ptosis
+), which further limits their vision.
+Researchers have identified several forms of CFEOM, designated CFEOM1, CFEOM2, CFEOM3, and Tukel syndrome (sometimes called CFEOM4). The specific problems with eye movement vary among the types, and some types are associated with additional signs and symptoms. People with CFEOM1 and CFEOM2 have only the eye problems described above. In CFEOM1, the eyes typically point downward, whereas in CFEOM2, the eyes usually turn outward.
+CFEOM3 can include additional neurological problems, such as intellectual disability; difficulty with social skills; a smaller-than-normal head size (
+microcephaly
+); muscle weakness in the face; nonfunctioning vocal cords; and a set of symptoms called
+Kallmann syndrome
+, which features delayed or absent puberty and an impaired sense of smell. Some affected individuals develop pain, weakness, or a decreased ability to feel sensations in the limbs (peripheral neuropathy), which can begin in childhood or adulthood.
+Brain abnormalities can also occur in people with CFEOM3. Some have abnormal development of the white matter, which is brain tissue containing nerve cell fibers (axons) that transmit nerve impulses. A particular form of CFEOM3, known as CFEOM3 with
+polymicrogyria
+, is characterized by abnormal development of the brain, in which the folds and ridges on the surface of the brain are smaller and more numerous than usual.
+Tukel syndrome is characterized by missing fingers (
+oligodactyly
+) and other hand abnormalities in addition to problems with eye movement.
+Frequency
+CFEOM1 is the most common form of congenital fibrosis of the extraocular muscles, affecting at least 1 in 230,000 people. CFEOM1 and CFEOM3 have been reported worldwide, whereas CFEOM2 has been seen in only a few families of Turkish, Saudi Arabian, and Iranian descent. Tukel syndrome appears to be very rare; it has been diagnosed in only one large Turkish family.
+Causes
+Several genes involved in CFEOM have been identified. Mutations in the
+KIF21A
+gene cause CFEOM1 and rare cases of CFEOM3; mutations in the
+TUBB3
+gene cause CFEOM3 and rare cases of CFEOM1; a mutation in the
+TUBB2B
+gene causes CFEOM3 with polymicrogyria; and mutations in the
+PHOX2A
+gene cause CFEOM2. The genetic cause of Tukel syndrome is unknown. The CFEOM-related genes are important for growth or development of nerve cells (neurons).
+Mutations in the
+KIF21A
+,
+TUBB3
+, or
+TUBB2B
+gene impair a process called axon guidance. Through this process, the specialized extensions of neurons (
+axons
+) are directed to their correct positions. Once in the right position, axons relay messages from the brain to muscles and sensory cells and back to the brain, which is critical for controlling muscle movement and detecting sensations such as touch, pain, and heat. As a result of these mutations, axons do not reach their proper locations. Nerves in the head and face (known as
+cranial nerves
+) that control muscles that move the eyes and eyelids are particularly affected, although other nerves can also be involved. Abnormal growth of cranial nerves impairs extraocular muscle function and leads to the characteristic features of CFEOM, including restricted eye movement and droopy eyelids. Problems with other nerves likely underlie additional neurological features in people with CFEOM3.
+The protein produced from the
+PHOX2A
+gene is involved in neuron development, particularly of cranial nerves III and IV, which are necessary for normal eye movement. Mutations likely eliminate the function of the PHOX2A protein, which prevents the normal development of these cranial nerves and impairs control of the extraocular muscles.
+Studies suggest that a gene associated with Tukel syndrome may be located near one end of chromosome 21. Some people with features of CFEOM do not have mutations in the genes mentioned above, indicating that other genes that have not been identified may also be involved in the condition.
+Learn more about the genes associated with Congenital fibrosis of the extraocular muscles
+KIF21A
+PHOX2A
+TUBB2B
+TUBB3
+Inheritance
+The different types of CFEOM have different patterns of inheritance. CFEOM1 and CFEOM3 are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+CFEOM2 is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Tukel syndrome also appears to have an autosomal recessive pattern of inheritance, although the genetic change responsible for this disorder is unknown.
+Other Names for This Condition
+CFEOM
+Congenital external ophthalmoplegia
+Congenital fibrosis of extraocular muscles
+Congenital fibrosis syndrome
+General fibrosis syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital fibrosis of extraocular muscles
+Genetic and Rare Diseases Information Center
+Congenital fibrosis of extraocular muscles
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+FIBROSIS OF EXTRAOCULAR MUSCLES, CONGENITAL, 1; CFEOM1
+FIBROSIS OF EXTRAOCULAR MUSCLES, CONGENITAL, 3A, WITH OR WITHOUT EXTRAOCULAR INVOLVEMENT; CFEOM3A
+FIBROSIS OF EXTRAOCULAR MUSCLES, CONGENITAL, 2; CFEOM2
+TUKEL SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Bosley TM, Oystreck DT, Robertson RL, al Awad A, Abu-Amero K, Engle EC.
+Neurological features of congenital fibrosis of the extraocular muscles type 2
+with mutations in PHOX2A. Brain. 2006 Sep;129(Pt 9):2363-74. doi:
+10.1093/brain/awl161. Epub 2006 Jun 30.
+Citation on PubMed
+Cederquist GY, Luchniak A, Tischfield MA, Peeva M, Song Y, Menezes MP, Chan
+WM, Andrews C, Chew S, Jamieson RV, Gomes L, Flaherty M, Grant PE, Gupta ML Jr,
+Engle EC. An inherited TUBB2B mutation alters a kinesin-binding site and causes
+polymicrogyria, CFEOM and axon dysinnervation. Hum Mol Genet. 2012 Dec
+15;21(26):5484-99. doi: 10.1093/hmg/dds393. Epub 2012 Sep 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Demer JL, Clark RA, Engle EC. Magnetic resonance imaging evidence for
+widespread orbital dysinnervation in congenital fibrosis of extraocular muscles
+due to mutations in KIF21A. Invest Ophthalmol Vis Sci. 2005 Feb;46(2):530-9. doi:
+10.1167/iovs.04-1125.
+Citation on PubMed
+Heidary G, Engle EC, Hunter DG. Congenital fibrosis of the extraocular
+muscles. Semin Ophthalmol. 2008 Jan-Feb;23(1):3-8. doi:
+10.1080/08820530701745181.
+Citation on PubMed
+Lu S, Zhao C, Zhao K, Li N, Larsson C. Novel and recurrent KIF21A mutations in
+congenital fibrosis of the extraocular muscles type 1 and 3. Arch Ophthalmol.
+2008 Mar;126(3):388-94. doi: 10.1001/archopht.126.3.388.
+Citation on PubMed
+Nakano M, Yamada K, Fain J, Sener EC, Selleck CJ, Awad AH, Zwaan J, Mullaney
+PB, Bosley TM, Engle EC. Homozygous mutations in ARIX(PHOX2A) result in
+congenital fibrosis of the extraocular muscles type 2. Nat Genet. 2001
+Nov;29(3):315-20. doi: 10.1038/ng744.
+Citation on PubMed
+Price JM, Boparai RS, Wasserman BN. Congenital fibrosis of the extraocular
+muscles: review of recent literature. Curr Opin Ophthalmol. 2019
+Sep;30(5):314-318. doi: 10.1097/ICU.0000000000000592.
+Citation on PubMed
+Tischfield MA, Baris HN, Wu C, Rudolph G, Van Maldergem L, He W, Chan WM,
+Andrews C, Demer JL, Robertson RL, Mackey DA, Ruddle JB, Bird TD, Gottlob I, Pieh
+C, Traboulsi EI, Pomeroy SL, Hunter DG, Soul JS, Newlin A, Sabol LJ, Doherty EJ,
+de Uzcategui CE, de Uzcategui N, Collins ML, Sener EC, Wabbels B, Hellebrand H,
+Meitinger T, de Berardinis T, Magli A, Schiavi C, Pastore-Trossello M, Koc F,
+Wong AM, Levin AV, Geraghty MT, Descartes M, Flaherty M, Jamieson RV, Moller HU,
+Meuthen I, Callen DF, Kerwin J, Lindsay S, Meindl A, Gupta ML Jr, Pellman D,
+Engle EC. Human TUBB3 mutations perturb microtubule dynamics, kinesin
+interactions, and axon guidance. Cell. 2010 Jan 8;140(1):74-87. doi:
+10.1016/j.cell.2009.12.011.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tukel T, Uzumcu A, Gezer A, Kayserili H, Yuksel-Apak M, Uyguner O, Gultekin
+SH, Hennies HC, Nurnberg P, Desnick RJ, Wollnik B. A new syndrome, congenital
+extraocular muscle fibrosis with ulnar hand anomalies, maps to chromosome 21qter.
+J Med Genet. 2005 May;42(5):408-15. doi: 10.1136/jmg.2004.026138.
+Citation on PubMed
+or
+Free article on PubMed Central
+van der Vaart B, van Riel WE, Doodhi H, Kevenaar JT, Katrukha EA, Gumy L,
+Bouchet BP, Grigoriev I, Spangler SA, Yu KL, Wulf PS, Wu J, Lansbergen G, van
+Battum EY, Pasterkamp RJ, Mimori-Kiyosue Y, Demmers J, Olieric N, Maly IV,
+Hoogenraad CC, Akhmanova A. CFEOM1-associated kinesin KIF21A is a cortical
+microtubule growth inhibitor. Dev Cell. 2013 Oct 28;27(2):145-160. doi:
+10.1016/j.devcel.2013.09.010. Epub 2013 Oct 10.
+Citation on PubMed
+Whitman MC, Jurgens JA, Hunter DG, Engle EC. Congenital Fibrosis of the
+Extraocular Muscles Overview. 2004 Apr 27 [updated 2021 Aug 12]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1348/
+Citation on PubMed
+Yamada K, Andrews C, Chan WM, McKeown CA, Magli A, de Berardinis T,
+Loewenstein A, Lazar M, O'Keefe M, Letson R, London A, Ruttum M, Matsumoto N,
+Saito N, Morris L, Del Monte M, Johnson RH, Uyama E, Houtman WA, de Vries B,
+Carlow TJ, Hart BL, Krawiecki N, Shoffner J, Vogel MC, Katowitz J, Goldstein SM,
+Levin AV, Sener EC, Ozturk BT, Akarsu AN, Brodsky MC, Hanisch F, Cruse RP, Zubcov
+AA, Robb RM, Roggenkaemper P, Gottlob I, Kowal L, Battu R, Traboulsi EI,
+Franceschini P, Newlin A, Demer JL, Engle EC. Heterozygous mutations of the
+kinesin KIF21A in congenital fibrosis of the extraocular muscles type 1 (CFEOM1).
+Nat Genet. 2003 Dec;35(4):318-21. doi: 10.1038/ng1261. Epub 2003 Nov 2.
+Citation on PubMed
+Yamada K, Chan WM, Andrews C, Bosley TM, Sener EC, Zwaan JT, Mullaney PB,
+Ozturk BT, Akarsu AN, Sabol LJ, Demer JL, Sullivan TJ, Gottlob I, Roggenkaemper
+P, Mackey DA, De Uzcategui CE, Uzcategui N, Ben-Zeev B, Traboulsi EI, Magli A, de
+Berardinis T, Gagliardi V, Awasthi-Patney S, Vogel MC, Rizzo JF 3rd, Engle EC.
+Identification of KIF21A mutations as a rare cause of congenital fibrosis of the
+extraocular muscles type 3 (CFEOM3). Invest Ophthalmol Vis Sci. 2004
+Jul;45(7):2218-23. doi: 10.1167/iovs.03-1413.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eye Movement Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Extraocular muscle function testing
+Genetics
+Strabismus
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

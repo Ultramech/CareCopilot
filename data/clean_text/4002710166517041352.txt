@@ -1,0 +1,117 @@
+Liebenberg syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Liebenberg syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/liebenberg-syndrome/
+Liebenberg syndrome
+Description
+Liebenberg syndrome is a condition that involves abnormal development of the arms, resulting in characteristic arm malformations that can vary in severity. In people with this condition, bones and other tissues in the elbows, forearms, wrists, and hands have characteristics of related structures in the lower limbs. For example, bones in the elbows are abnormally shaped, which affects mobility of the joints. The stiff elbows function more like knees, unable to rotate as freely as elbows normally do. Bones in the wrists are joined together (fused), forming structures that resemble those in the ankles and heels and causing permanent bending of the hand toward the thumb (radial deviation). The bones in the hands (metacarpals) are longer than normal, and the fingers are short (brachydactyly), similar to the proportions of bones found in the feet. In addition, muscles and tendons that are typically found only in the hands and not in the feet are missing in people with Liebenberg syndrome. Affected individuals also have joint deformities (contractures) that limit movement of the elbows, wrists, and hands. Development of the lower limbs is normal in people with this condition.
+Individuals with Liebenberg syndrome have no other health problems related to this condition, and life expectancy is normal.
+Frequency
+Liebenberg syndrome is a rare condition. Fewer than 10 affected families have been described in the medical literature.
+Causes
+Liebenberg syndrome is caused by genetic changes near the
+PITX1
+gene. The protein produced from this gene plays a critical role in lower limb development by controlling the activity of other genes involved in limb development, directing the shape and structure of bones and other tissues in the legs and feet.
+The genetic changes involved in Liebenberg syndrome delete, insert, or rearrange genetic material near the
+PITX1
+gene. These changes affect regions of DNA known as regulatory elements, which help turn on or turn off genes (known as enhancers or repressors, respectively). They control when and where certain genes are active. The mutations that cause Liebenberg syndrome are thought to relocate enhancers that normally promote the activity of genes involved in upper limb development to be near the
+PITX1
+gene, where they can promote its activity. Alternatively, the mutations may remove repressors that normally turn off the
+PITX1
+gene during upper limb development. As a result, the
+PITX1
+gene is abnormally active during development of the upper limbs. Because the PITX1 protein normally directs lower limb structure, bones, muscles, and tendons in the arms and hands develop more like those in the legs and feet, leading to the features of Liebenberg syndrome.
+Learn more about the gene associated with Liebenberg syndrome
+PITX1
+Inheritance
+Liebenberg syndrome is inherited in an
+autosomal dominant pattern
+, which means having a genetic change that affects the
+PITX1
+gene on one copy of the chromosome in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+Other Names for This Condition
+Brachydactyly with joint dysplasia
+Brachydactyly-elbow wrist dysplasia syndrome
+Carpal synostosis with dysplastic elbow joints and brachydactyly
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Brachydactyly-elbow wrist dysplasia syndrome
+Genetic and Rare Diseases Information Center
+Brachydactyly-elbow wrist dysplasia syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+LIEBENBERG SYNDROME; LBNBG
+Scientific Articles on PubMed
+PubMed
+References
+Al-Qattan MM, Al-Thunayan A, Alabdulkareem I, Al Balwi M. Liebenberg syndrome
+is caused by a deletion upstream to the PITX1 gene resulting in transformation of
+the upper limbs to reflect lower limb characteristics. Gene. 2013 Jul
+15;524(1):65-71. doi: 10.1016/j.gene.2013.03.120. Epub 2013 Apr 12.
+Citation on PubMed
+DeLaurier A, Schweitzer R, Logan M. Pitx1 determines the morphology of muscle,
+tendon, and bones of the hindlimb. Dev Biol. 2006 Nov 1;299(1):22-34. doi:
+10.1016/j.ydbio.2006.06.055. Epub 2006 Jul 14.
+Citation on PubMed
+Duboc V, Logan MP. Pitx1 is necessary for normal initiation of hindlimb
+outgrowth through regulation of Tbx4 expression and shapes hindlimb morphologies
+via targeted growth control. Development. 2011 Dec;138(24):5301-9. doi:
+10.1242/dev.074153. Epub 2011 Nov 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Seoighe DM, Gadancheva V, Regan R, McDaid J, Brenner C, Ennis S, Betts DR,
+Eadie PA, Lynch SA. A chromosomal 5q31.1 gain involving PITX1 causes Liebenberg
+syndrome. Am J Med Genet A. 2014 Nov;164A(11):2958-60. doi: 10.1002/ajmg.a.36712.
+Epub 2014 Aug 14. No abstract available.
+Citation on PubMed
+Spielmann M, Brancati F, Krawitz PM, Robinson PN, Ibrahim DM, Franke M, Hecht
+J, Lohan S, Dathe K, Nardone AM, Ferrari P, Landi A, Wittler L, Timmermann B,
+Chan D, Mennen U, Klopocki E, Mundlos S. Homeotic arm-to-leg transformation
+associated with genomic rearrangements at the PITX1 locus. Am J Hum Genet. 2012
+Oct 5;91(4):629-35. doi: 10.1016/j.ajhg.2012.08.014. Epub 2012 Sep 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Arm Injuries and Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Contracture deformity
+Genetics
+Skeletal limb abnormalities
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

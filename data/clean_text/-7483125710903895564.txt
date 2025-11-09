@@ -1,0 +1,117 @@
+Adenosine monophosphate deaminase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Adenosine monophosphate deaminase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/adenosine-monophosphate-deaminase-deficiency/
+Adenosine monophosphate deaminase deficiency
+Description
+Adenosine monophosphate (AMP) deaminase deficiency is a condition that can affect the muscles used for movement (skeletal muscles). In many affected individuals, AMP deaminase deficiency does not cause any symptoms. People who do experience symptoms typically have fatigue, muscle pain (myalgia), or cramps after exercise or prolonged physical activity (exercise intolerance). Following strenuous activity, they often get tired more quickly and stay tired longer than would normally be expected. In rare cases, affected individuals have more severe symptoms including severe muscle weakness, low muscle tone (hypotonia), and muscle wasting (atrophy), but it is unclear whether these symptoms are due solely to AMP deaminase deficiency or additional health conditions. Exercise intolerance associated with AMP deaminase deficiency usually becomes apparent in childhood or early adulthood.
+Frequency
+AMP deaminase deficiency is one of the most common inherited muscle disorders in white populations, affecting 1 in 50 to 100 people. The prevalence is lower in African Americans, affecting an estimated 1 in 40,000 people, and the condition is even less common in the Japanese population.
+Causes
+AMP deaminase deficiency is caused by mutations in the
+AMPD1
+gene, which provides instructions for producing an enzyme called AMP deaminase. This enzyme is found in skeletal muscles, where it plays a role in producing energy. Skeletal muscle cells need energy to function and move the body.
+Mutations in the
+AMPD1
+gene often result in an AMP deaminase enzyme that cannot function and as a result, energy production in skeletal muscle cells is decreased. Skeletal muscles are particularly sensitive to decreases in energy during periods of exercise or increased activity when energy demands increase. The lack of AMP deaminase activity can result in fatigue, muscle weakness or pain, or other muscle problems in some people with AMP deaminase deficiency.
+It is not known why some people with this condition do not experience symptoms. Researchers speculate that additional factors, both genetic and environmental, may determine whether a person develops the signs and symptoms of AMP deaminase deficiency.
+Learn more about the gene associated with Adenosine monophosphate deaminase deficiency
+AMPD1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+AMP deaminase deficiency
+Exercise-induced myopathy
+MAD deficiency
+MADA deficiency
+Muscle AMP deaminase deficiency
+Myoadenylate deaminase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Muscle AMP deaminase deficiency
+Genetic and Rare Diseases Information Center
+Adenosine monophosphate deaminase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MYOPATHY DUE TO MYOADENYLATE DEAMINASE DEFICIENCY; MMDD
+Scientific Articles on PubMed
+PubMed
+References
+Fischer H, Esbjornsson M, Sabina RL, Stromberg A, Peyrard-Janvid M, Norman B.
+AMP deaminase deficiency is associated with lower sprint cycling performance in
+healthy subjects. J Appl Physiol (1985). 2007 Jul;103(1):315-22. doi:
+10.1152/japplphysiol.00185.2007. Epub 2007 Apr 26.
+Citation on PubMed
+Gross M, Rotzer E, Kolle P, Mortier W, Reichmann H, Goebel HH, Lochmuller H,
+Pongratz D, Mahnke-Zizelman DK, Sabina RL. A G468-T AMPD1 mutant allele
+contributes to the high incidence of myoadenylate deaminase deficiency in the
+Caucasian population. Neuromuscul Disord. 2002 Aug;12(6):558-65. doi:
+10.1016/s0960-8966(02)00008-1.
+Citation on PubMed
+Hanisch F, Joshi P, Zierz S. AMP deaminase deficiency in skeletal muscle is
+unlikely to be of clinical relevance. J Neurol. 2008 Mar;255(3):318-22. doi:
+10.1007/s00415-008-0530-6. Epub 2008 Mar 14.
+Citation on PubMed
+Isackson PJ, Bujnicki H, Harding CO, Vladutiu GD. Myoadenylate deaminase
+deficiency caused by alternative splicing due to a novel intronic mutation in the
+AMPD1 gene. Mol Genet Metab. 2005 Sep-Oct;86(1-2):250-6. doi:
+10.1016/j.ymgme.2005.06.002. Epub 2005 Jul 22.
+Citation on PubMed
+Rico-Sanz J, Rankinen T, Joanisse DR, Leon AS, Skinner JS, Wilmore JH, Rao DC,
+Bouchard C; HERITAGE Family study. Associations between cardiorespiratory
+responses to exercise and the C34T AMPD1 gene polymorphism in the HERITAGE Family
+Study. Physiol Genomics. 2003 Jul 7;14(2):161-6. doi:
+10.1152/physiolgenomics.00165.2002.
+Citation on PubMed
+Teijeira S, San Millan B, Fernandez JM, Rivas E, Vieitez I, Miranda S,
+Gonzalez F, Navarro C. Myoadenylate deaminase deficiency: clinico-pathological
+and molecular study of a series of 27 Spanish cases. Clin Neuropathol. 2009
+Mar-Apr;28(2):136-42. doi: 10.5414/npp28136.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Muscle aches
+Weakness
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

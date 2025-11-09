@@ -1,0 +1,189 @@
+Hereditary neuralgic amyotrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary neuralgic amyotrophy
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-neuralgic-amyotrophy/
+Hereditary neuralgic amyotrophy
+Description
+Hereditary neuralgic amyotrophy is a disorder characterized by episodes of severe pain and muscle wasting (amyotrophy) in one or both shoulders and arms. Pain is felt along the path of one or more nerves (neuralgia) and often has no obvious physical cause. The network of nerves involved in hereditary neuralgic amyotrophy, called the brachial plexus, controls movement and sensation in the shoulders and arms.
+People with hereditary neuralgic amyotrophy usually begin experiencing pain episodes in their twenties, but pain episodes have occurred in children as young as 1 year old. The episodes may be spontaneous, or they may be triggered by stress such as strenuous exercise, childbirth, surgery, exposure to cold, infections, immunization, or emotional disturbance. While the frequency of the episodes tends to decrease with age, affected individuals are often left with residual problems, such as chronic pain and impaired movement, that accumulate over time.
+Typically, an attack begins with severe pain on one or both sides of the body; the pain most commonly occurs on the right side of the body. About one-third of individuals with hereditary neuralgic amyotrophy have pain in both shoulders or arms. The pain typically starts out sharp and may become more of an ache over time, and the pain lasts about a month. It may be difficult to control the pain with medication. Over a period of a few hours to a couple of weeks, the muscles in the affected area begin to weaken and waste away (atrophy), and movement becomes difficult. Muscle wasting may cause changes in posture or in the appearance of the shoulder, back, and arm. In particular, weak shoulder muscles tend to make the shoulder blades (scapulae) stick out from the back, a common sign known as scapular winging. Additional features of hereditary neuralgic amyotrophy may include decreased sensation (hypoesthesia) and abnormal sensations in the skin such as numbness or tingling (paresthesias). Areas other than the shoulder and arm may also be involved.
+In a few affected families, individuals with hereditary neuralgic amyotrophy also have unusual physical characteristics including short stature, excess skin folds on the neck and arms, an opening in the roof of the mouth (
+cleft palate
+), a split in the soft flap of tissue that hangs from the back of the mouth (
+bifid uvula
+), and partially webbed or fused fingers or toes (partial
+syndactyly
+). They may also have distinctive facial features including eyes set close together (
+ocular hypotelorism
+), a narrow opening of the eyelids (
+short palpebral fissures
+) with a skin fold that covers the inner corner of the eye (
+epicanthal fold
+), a long nasal bridge, a
+narrow mouth
+, and differences between one side of the face and the other (facial asymmetry).
+Frequency
+Hereditary neuralgic amyotrophy is a rare disorder, but its specific prevalence is unknown.
+Causes
+Variants (also called mutations) in the
+SEPTIN9
+gene cause hereditary neuralgic amyotrophy. The
+SEPTIN9
+gene provides instructions for making a protein called septin-9, which belongs to a group of proteins called septins. Septins are involved in a process called
+cytokinesis
+, which is the step in cell division when the fluid inside the cell (
+cytoplasm
+) divides to form two separate cells.
+The
+SEPTIN9
+gene seems to be found in cells throughout the body. Approximately 15 slightly different versions (isoforms) of the septin-9 protein may be produced from this gene. Different types of cells make different isoforms. However, the specific distribution of these isoforms in the body's tissues is not well understood. Septin-9 isoforms interact with other septin proteins and help them perform their functions.
+Variants in the
+SEPTIN9
+gene may change the sequence of protein building blocks (
+amino acids
+) in certain septin-9 isoforms in ways that interfere with their function. These variants may also change the distribution of septin-9 isoforms and their interactions with other septin proteins in some of the body's tissues. This change in the functioning and location of the various septin-9 proteins seems to particularly affect the brachial plexus, but the reason for this is unknown.
+Because many of the triggers for hereditary neuralgic amyotrophy also affect the immune system, researchers believe that an overactive immune response may be involved in this disorder. However, the relationship between
+SEPTIN9
+gene variants and immune function is unclear. The signs and symptoms of hereditary neuralgic amyotrophy may be the result of chronic inflammation caused by an overactive immune response in the nerves in the brachial plexus.
+At least 15 percent of families affected by hereditary neuralgic amyotrophy do not have
+SEPTIN9
+gene variants. In these cases, the genetic cause of the disorder has not been identified.
+Learn more about the gene associated with Hereditary neuralgic amyotrophy
+SEPTIN9
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Amyotrophic neuralgia
+Brachial neuralgia
+Brachial neuritis
+Brachial plexus neuritis
+Familial brachial plexus neuritis
+Hereditary brachial plexus neuropathy
+Heredofamilial neuritis with brachial plexus predilection
+HNA
+NAPB
+Neuralgic amyotrophy
+Neuritis with brachial predilection
+Shoulder girdle neuropathy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Amyotrophic neuralgia
+Genetic and Rare Diseases Information Center
+Amyotrophy, hereditary neuralgic
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+AMYOTROPHY, HEREDITARY NEURALGIC; HNA
+Scientific Articles on PubMed
+PubMed
+References
+Gstoettner C, Mayer JA, Rassam S, Hruby LA, Salminger S, Sturma A, Aman M,
+Harhaus L, Platzgummer H, Aszmann OC. Neuralgic amyotrophy: a paradigm shift in
+diagnosis and treatment. J Neurol Neurosurg Psychiatry. 2020 Aug;91(8):879-888.
+doi: 10.1136/jnnp-2020-323164. Epub 2020 Jun 2.
+Citation on PubMed
+Hannibal MC, Ruzzo EK, Miller LR, Betz B, Buchan JG, Knutzen DM, Barnett K,
+Landsverk ML, Brice A, LeGuern E, Bedford HM, Worrall BB, Lovitt S, Appel SH,
+Andermann E, Bird TD, Chance PF. SEPT9 gene sequencing analysis reveals recurrent
+mutations in hereditary neuralgic amyotrophy. Neurology. 2009 May
+19;72(20):1755-9. doi: 10.1212/WNL.0b013e3181a609e3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hoque R, Schwendimann RN, Kelley RE, Bien-Willner R, Sivakumar K. Painful
+brachial plexopathies in SEPT9 mutations: adverse outcome related to comorbid
+states. J Clin Neuromuscul Dis. 2008 Jun;9(4):379-84. doi:
+10.1097/CND.0b013e318166ee89.
+Citation on PubMed
+Klein CJ, Wu Y, Cunningham JM, Windebank AJ, Dyck PJ, Friedenberg SM, Klein
+DM, Dyck PJ. SEPT9 mutations and a conserved 17q25 sequence in sporadic and
+hereditary brachial plexus neuropathy. Arch Neurol. 2009 Feb;66(2):238-43. doi:
+10.1001/archneurol.2008.585.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kuhlenbaumer G, Hannibal MC, Nelis E, Schirmacher A, Verpoorten N, Meuleman J,
+Watts GD, De Vriendt E, Young P, Stogbauer F, Halfter H, Irobi J, Goossens D,
+Del-Favero J, Betz BG, Hor H, Kurlemann G, Bird TD, Airaksinen E, Mononen T,
+Serradell AP, Prats JM, Van Broeckhoven C, De Jonghe P, Timmerman V, Ringelstein
+EB, Chance PF. Mutations in SEPT9 cause hereditary neuralgic amyotrophy. Nat
+Genet. 2005 Oct;37(10):1044-6. doi: 10.1038/ng1649. Epub 2005 Sep 25.
+Citation on PubMed
+Laccone F, Hannibal MC, Neesen J, Grisold W, Chance PF, Rehder H. Dysmorphic
+syndrome of hereditary neuralgic amyotrophy associated with a SEPT9 gene
+mutation--a family study. Clin Genet. 2008 Sep;74(3):279-83. doi:
+10.1111/j.1399-0004.2008.01022.x. Epub 2008 May 19.
+Citation on PubMed
+Landsverk ML, Ruzzo EK, Mefford HC, Buysse K, Buchan JG, Eichler EE, Petty EM,
+Peterson EA, Knutzen DM, Barnett K, Farlow MR, Caress J, Parry GJ, Quan D,
+Gardner KL, Hong M, Simmons Z, Bird TD, Chance PF, Hannibal MC. Duplication
+within the SEPT9 gene associated with a founder effect in North American families
+with hereditary neuralgic amyotrophy. Hum Mol Genet. 2009 Apr 1;18(7):1200-8.
+doi: 10.1093/hmg/ddp014. Epub 2009 Jan 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+McDade SS, Hall PA, Russell SE. Translational control of SEPT9 isoforms is
+perturbed in disease. Hum Mol Genet. 2007 Apr 1;16(7):742-52. doi:
+10.1093/hmg/ddm003.
+Citation on PubMed
+Meiling JB, Boon AJ, Niu Z, Howe BM, Hoskote SS, Spinner RJ, Klein CJ.
+Parsonage-Turner Syndrome and Hereditary Brachial Plexus Neuropathy. Mayo Clin
+Proc. 2024 Jan;99(1):124-140. doi: 10.1016/j.mayocp.2023.06.011.
+Citation on PubMed
+Sudo K, Ito H, Iwamoto I, Morishita R, Asano T, Nagata K. SEPT9 sequence
+alternations causing hereditary neuralgic amyotrophy are associated with altered
+interactions with SEPT4/SEPT11 and resistance to Rho/Rhotekin-signaling. Hum
+Mutat. 2007 Oct;28(10):1005-13. doi: 10.1002/humu.20554.
+Citation on PubMed
+van Alfen N, van der Werf SP, van Engelen BG. Long-term pain, fatigue, and
+impairment in neuralgic amyotrophy. Arch Phys Med Rehabil. 2009 Mar;90(3):435-9.
+doi: 10.1016/j.apmr.2008.08.216.
+Citation on PubMed
+van Alfen N, van Engelen BG. The clinical spectrum of neuralgic amyotrophy in
+246 cases. Brain. 2006 Feb;129(Pt 2):438-50. doi: 10.1093/brain/awh722. Epub 2005
+Dec 21.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Brachial Plexus Injuries
+Genetic Disorders
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,176 @@
+Peptide Receptor Radionuclide Therapy (PRRT): What it Is
+Home
+/
+Health Library
+/
+Medical Treatments
+/
+Peptide Receptor Radionuclide Therapy (PRRT)
+Advertisement
+Advertisement
+Peptide Receptor Radionuclide Therapy (PRRT)
+PRRT is a treatment that targets some types of neuroendocrine tumors. It binds to specific receptors on the tumor cells and destroys them with a small, but powerful dose of radioactivity. It is not a cure, but PRRT can effectively slow or stop tumor growth. This helps improve the length and quality of life for people with neuroendocrine tumors.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Imaging Care
+Make an Appointment
+Contents
+Arrow Down
+Overview
+Treatment Details
+Risks / Benefits
+Recovery and Outlook
+When To Call the Doctor
+Overview
+What is peptide receptor radionuclide therapy (PRRT)?
+PRRT is a type of targeted
+cancer
+therapy that treats
+neuroendocrine tumors
+(NETs). It enables the delivery of radioactivity directly to the NET cancer cells.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+How does PRRT work?
+PRRT targets specific receptors located on the surface of tumor cells. Receptors allow proteins and
+hormones
+to attach to the cell and control cellular processes.
+PRRT radionuclide therapy combines a protein that binds to the tumor cell receptors with a radioactive element called a radionuclide. Like a key opening a door, the protein attaches to the tumor cell and lets the radionuclide inside. The radioactivity damages the tumor cell’s DNA and destroys the cell.
+Since PRRT specifically targets protein receptors on cancer cells, it causes minimal damage to healthy cells.
+What types of PRRT are available?
+The U.S. Food and Drug Administration (FDA) approved the first PRRT drug in 2018. This drug is lutetium Lu 177 dotatate (LUTATHERA®). It pairs dotatate, which is a synthetic (man-made) form of somatostatin, with the radioactive element lutetium-177.
+Somatostatin is a hormone in your body that prevents the secretion of other hormones. Some NET cells have unique receptors for somatostatin. Dotatate binds tightly to these receptors.
+Scientists are also developing other PRRT combinations. Many are in clinical trials and are available for people who qualify.
+Who needs PRRT?
+Currently, PRRT is for people with gastroenteropancreatic NETs. These include
+tumors
+that occur in the:
+Advertisement
+Pancreas
+.
+Rectum.
+Small
+and
+large intestines
+.
+Stomach
+.
+You might be eligible for PRRT if you:
+Aren't a candidate for surgery.
+Surgery is often the most effective treatment for cancerous tumors. But it has limited value if the cancer has spread to multiple locations in the body (
+metastasized
+). For many people diagnosed with neuroendocrine tumors, the cancer has already metastasized.
+Haven't responded to other treatments.
+If surgery isn’t an option, people with NETs may receive
+hormone therapy
+medications. These drugs prevent tumor growth and improve hormone-related symptoms. But in some people, NETs continue to grow.
+Have NETs that have somatostatin receptors.
+Your healthcare provider will determine this with somatostatin receptor imaging (
+octreotide scan
+). This technology is similar to PRRT in that it uses a man-made form of somatostatin and a radionuclide. But this radionuclide doesn't destroy cancer cells. Instead, it allows providers to use a
+PET scan
+to identify tumor cells with somatostatin receptors.
+Treatment Details
+What happens before PRRT?
+If you're taking medications for NET treatment, your provider may ask you to stop them before treatment. You will receive specific guidance about when to stop these medications.
+Usually, you should stop taking your long-acting somatostatin analog at least 4 weeks, and the short-acting somatostatin analog 24 hours before the PRRT treatment.
+Avoid repeated high doses of glucocorticosteroids during treatment with PRRT.
+Your healthcare provider will perform blood tests one week prior to each session of the PRRT to safely proceed with treatment.
+What happens during PRRT?
+The typical dosage of PRRT is four treatments given every two months over eight months. The nuclear medicine department or infusion center at a hospital will usually do this as an outpatient procedure.
+The entire procedure takes about five to six hours:
+Your healthcare provider inserts an intravenous (IV) needle into your hand or arm to access your vein.
+An hour before the procedure, you receive medications to prevent nausea and vomiting.
+You receive amino acids through the IV to help protect your
+kidneys
+. This takes about four hours.
+About 30 minutes after starting the amino acid infusion, you receive PRRT through the IV. This takes 30 to 45 minutes and will continue until you receive the full amount of amino acids.
+After the infusions, your healthcare provider removes the IV.
+What happens after PRRT?
+The day after the treatment, your provider will take scans to see where the radionuclide has traveled in your body.
+Advertisement
+Care at Cleveland Clinic
+Imaging Care
+Make an Appointment
+Risks / Benefits
+What are the advantages of PRRT?
+PRRT can be an effective treatment for a period of time. For many people who receive PRRT, their tumors go away or stop growing. This extends how long people with NETs live and improves their quality of life.
+But PRRT is not a
+cure
+. For most people who receive PRRT, the neuroendocrine tumors eventually return.
+What are the risks or complications of PRRT?
+The most common immediate side effects of PRRT are
+nausea
+and
+vomiting
+. You'll receive anti-nausea medications before your treatments to help with this.
+Other potential complications include:
+Kidney or
+liver
+problems.
+Low blood cell counts that can cause
+shortness of breath
+and increased risk of infections, bleeding and
+bruising
+.
+Blood cancers
+such as
+myelodysplastic syndrome
+and
+leukemia
+.
+You'll have
+blood tests
+frequently over the eight months of your treatment. If complications arise, your provider will adjust or stop your treatment.
+A rare but serious side effect of PRRT is carcinoid crisis. This is a potentially life-threatening reaction caused by excess hormones released from the tumor cells. People with
+carcinoid syndrome
+are more likely to experience carcinoid crisis. Symptoms include:
+Difficulty breathing.
+Flushing or reddening of your skin, especially on your face or neck.
+Low blood pressure (hypotension)
+.
+Racing or pounding heart (
+heart palpitations
+).
+Severe
+diarrhea
+.
+Advertisement
+Call 911
+or seek emergency care if you have any of these symptoms.
+Recovery and Outlook
+What is the recovery time?
+Most people tolerate PRRT well and recover quickly from their treatment.
+When can I go back to work or school?
+PRRT uses very small amounts of radiation. Over the next several days, the radionuclide will leave your body through your urine and feces when you go to the bathroom. Your provider may instruct you to stay away from others during this time. Good handwashing is also important to avoid exposing others to radiation.
+Can I travel after receiving PRRT?
+You'll continue to have trace levels of radiation in your body that might draw attention from law enforcement. U.S. Customs and Border Protection agencies monitor radioactivity at U.S. ports of entry such as border crossings and airports. Security personnel have detained people who have received PRRT.
+Your provider will give you a card that describes your treatment and where it occurred. You should keep this card with you for up to three months after completion of therapy. Experts also recommend keeping a copy of your most recent treatment notes with you.
+When To Call the Doctor
+When should I see my healthcare provider?
+You should talk to your provider about any side effects you experience after your treatment.
+Carcinoid crisis is rare, but usually occurs within 48 hours of treatment. If you notice symptoms such as flushing, diarrhea, shortness of breath or heart palpitations, call 911 or go to the emergency room right away.
+Advertisement
+A note from Cleveland Clinic
+PRRT is a powerful treatment for people with neuroendocrine tumors who can't have surgery and haven't responded to other treatments. It may slow or stop tumor growth and relieve symptoms. Most people do not experience severe side effects. Rarely, PRRT can damage the liver or kidneys or cause a life-threatening condition called carcinoid crisis.
+Flushing, diarrhea, shortness of breath or heart palpitations within 48 hours of treatment are signs of carcinoid crisis. If you experience these symptoms, call 911 or go to the emergency room. You should monitor your health closely after receiving PRRT and talk to your provider if you have any concerns.
+Care at Cleveland Clinic
+When you need a clear picture of what’s happening inside your body, the Cleveland Clinic imaging team is here for you.
+Imaging Care
+Make an Appointment
+Medically Reviewed
+Last reviewed on 08/29/2022.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointment Center
+216.445.7050
+Appointments & Locations

@@ -1,0 +1,140 @@
+Spastic paraplegia type 11: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Spastic paraplegia type 11
+URL of this page: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-11/
+Spastic paraplegia type 11
+Description
+Spastic paraplegia type 11 is part of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the lower limbs (paraplegia). Hereditary spastic paraplegias are divided into two types: pure and complex. The pure types involve the lower limbs. The complex types involve the lower limbs and can affect the upper limbs to a lesser degree. Complex spastic paraplegias also affect the structure or functioning of the brain and the peripheral nervous system, which consists of nerves connecting the brain and spinal cord to muscles and sensory cells that detect sensations such as touch, pain, heat, and sound. Spastic paraplegia type 11 is a complex hereditary spastic paraplegia.
+Like all hereditary spastic paraplegias, spastic paraplegia type 11 involves spasticity of the leg muscles and muscle weakness. In almost all individuals with this type of spastic paraplegia, the tissue connecting the left and right halves of the brain (corpus callosum) is abnormally thin. People with this form of spastic paraplegia can also experience numbness, tingling, or pain in the arms and legs (sensory neuropathy); disturbance in the
+nerves used for muscle movement
+(motor neuropathy); intellectual disability; exaggerated reflexes (hyperreflexia) of the lower limbs; speech difficulties (dysarthria); reduced bladder control; and muscle wasting (amyotrophy). Less common features include difficulty swallowing (dysphagia), high-arched feet (pes cavus), an abnormal curvature of the spine (
+scoliosis
+), and involuntary movements of the eyes (nystagmus). The onset of symptoms varies greatly; however, abnormalities in muscle tone and difficulty walking usually become noticeable in adolescence.
+Many features of spastic paraplegia type 11 are progressive. Most people experience a decline in intellectual ability and an increase in muscle weakness and nerve abnormalities over time. As the condition progresses, some people require wheelchair assistance.
+Frequency
+Over 100 cases of spastic paraplegia type 11 have been reported. Although this condition is thought to be rare, its exact prevalence is unknown.
+Causes
+Mutations in the
+SPG11
+gene cause spastic paraplegia type 11. The
+SPG11
+gene provides instructions for making the protein spatacsin. Spatacsin is active (expressed) throughout the nervous system, although its exact function is unknown. Researchers speculate that spatacsin may be involved in the maintenance of axons, which are specialized extensions of nerve cells (
+neurons
+) that transmit impulses throughout the nervous system.
+SPG11
+gene mutations typically change the structure of the spatacsin protein. The effect that the altered spatacsin protein has on the nervous system is not known. Researchers suggest that mutations in spatacsin may cause the signs and symptoms of spastic paraplegia type 11 by interfering with the protein's proposed role in the maintenance of axons.
+Learn more about the gene associated with Spastic paraplegia type 11
+SPG11
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Autosomal recessive spastic paraplegia complicated with thin corpus callosum
+Autosomal recessive spastic paraplegia with mental impairment and thin corpus callosum
+HSP-TCC
+SPG11-related hereditary spastic paraplegia with thin corpus callosum
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary spastic paraplegia 11
+Genetic Testing Registry: Hereditary spastic paraplegia
+Genetic and Rare Diseases Information Center
+Autosomal recessive spastic paraplegia type 11
+Hereditary spastic paraplegia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPASTIC PARAPLEGIA 11, AUTOSOMAL RECESSIVE; SPG11
+Scientific Articles on PubMed
+PubMed
+References
+Denora PS, Schlesinger D, Casali C, Kok F, Tessa A, Boukhris A, Azzedine H,
+Dotti MT, Bruno C, Truchetto J, Biancheri R, Fedirko E, Di Rocco M, Bueno C,
+Malandrini A, Battini R, Sickl E, de Leva MF, Boespflug-Tanguy O, Silvestri G,
+Simonati A, Said E, Ferbert A, Criscuolo C, Heinimann K, Modoni A, Weber P,
+Palmeri S, Plasilova M, Pauri F, Cassandrini D, Battisti C, Pini A, Tosetti M,
+Hauser E, Masciullo M, Di Fabio R, Piccolo F, Denis E, Cioni G, Massa R, Della
+Giustina E, Calabrese O, Melone MA, De Michele G, Federico A, Bertini E, Durr A,
+Brockmann K, van der Knaap MS, Zatz M, Filla A, Brice A, Stevanin G, Santorelli
+FM. Screening of ARHSP-TCC patients expands the spectrum of SPG11 mutations and
+includes a large scale gene deletion. Hum Mutat. 2009 Mar;30(3):E500-19. doi:
+10.1002/humu.20945.
+Citation on PubMed
+Hehr U, Bauer P, Winner B, Schule R, Olmez A, Koehler W, Uyanik G, Engel A,
+Lenz D, Seibel A, Hehr A, Ploetz S, Gamez J, Rolfs A, Weis J, Ringer TM, Bonin M,
+Schuierer G, Marienhagen J, Bogdahn U, Weber BH, Topaloglu H, Schols L, Riess O,
+Winkler J. Long-term course and mutational spectrum of spatacsin-linked spastic
+paraplegia. Ann Neurol. 2007 Dec;62(6):656-65. doi: 10.1002/ana.21310.
+Citation on PubMed
+Paisan-Ruiz C, Dogu O, Yilmaz A, Houlden H, Singleton A. SPG11 mutations are
+common in familial cases of complicated hereditary spastic paraplegia. Neurology.
+2008 Apr 15;70(16 Pt 2):1384-9. doi: 10.1212/01.wnl.0000294327.66106.3d. Epub
+2008 Mar 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Paisan-Ruiz C, Nath P, Wood NW, Singleton A, Houlden H. Clinical heterogeneity
+and genotype-phenotype correlations in hereditary spastic paraplegia because of
+Spatacsin mutations (SPG11). Eur J Neurol. 2008 Oct;15(10):1065-70. doi:
+10.1111/j.1468-1331.2008.02247.x. Epub 2008 Aug 20.
+Citation on PubMed
+Stevanin G, Azzedine H, Denora P, Boukhris A, Tazir M, Lossos A, Rosa AL,
+Lerer I, Hamri A, Alegria P, Loureiro J, Tada M, Hannequin D, Anheim M, Goizet C,
+Gonzalez-Martinez V, Le Ber I, Forlani S, Iwabuchi K, Meiner V, Uyanik G,
+Erichsen AK, Feki I, Pasquier F, Belarbi S, Cruz VT, Depienne C, Truchetto J,
+Garrigues G, Tallaksen C, Tranchant C, Nishizawa M, Vale J, Coutinho P,
+Santorelli FM, Mhiri C, Brice A, Durr A; SPATAX consortium. Mutations in SPG11
+are frequent in autosomal recessive spastic paraplegia with thin corpus callosum,
+cognitive decline and lower motor neuron degeneration. Brain. 2008 Mar;131(Pt
+3):772-84. doi: 10.1093/brain/awm293. Epub 2007 Dec 13.
+Citation on PubMed
+Stevanin G, Santorelli FM, Azzedine H, Coutinho P, Chomilier J, Denora PS,
+Martin E, Ouvrard-Hernandez AM, Tessa A, Bouslam N, Lossos A, Charles P, Loureiro
+JL, Elleuch N, Confavreux C, Cruz VT, Ruberg M, Leguern E, Grid D, Tazir M,
+Fontaine B, Filla A, Bertini E, Durr A, Brice A. Mutations in SPG11, encoding
+spatacsin, are a major cause of spastic paraplegia with thin corpus callosum. Nat
+Genet. 2007 Mar;39(3):366-72. doi: 10.1038/ng1980. Epub 2007 Feb 18.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Neuromuscular Disorders
+Paralysis
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

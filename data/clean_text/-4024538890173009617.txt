@@ -1,0 +1,259 @@
+Coloboma: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Coloboma
+URL of this page: https://medlineplus.gov/genetics/condition/coloboma/
+Coloboma
+Description
+Coloboma is an eye abnormality that occurs before birth. Colobomas are missing pieces of tissue in structures that form the eye. They may appear as notches or gaps in one of several
+parts of the eye
+, including the colored part of the eye called the iris; the
+retina
+, which is the specialized light-sensitive tissue that lines the back of the eye; the blood vessel layer under the retina called the choroid; or the
+optic nerves
+, which carry information from the eyes to the brain.
+Colobomas may be present in one or both eyes and, depending on their size and location, can affect a person's vision. Colobomas affecting the iris, which result in a "keyhole" appearance of the pupil, generally do not lead to vision loss. Colobomas involving the retina result in vision loss in specific parts of the visual field. Large retinal colobomas or those affecting the optic nerve can cause low vision, which means vision loss that cannot be completely corrected with glasses or contact lenses.
+Some people with coloboma also have a condition called
+microphthalmia
+. In this condition, one or both eyeballs are abnormally small. In some affected individuals, the eyeball may appear to be completely missing; however, even in these cases some remaining eye tissue is generally present. Such severe microphthalmia should be distinguished from another condition called anophthalmia, in which no eyeball forms at all. However, the terms anophthalmia and severe microphthalmia are often used interchangeably. Microphthalmia may or may not result in significant vision loss.
+People with coloboma may also have other eye abnormalities, including clouding of the lens of the eye (
+cataract
+), increased pressure inside the eye (
+glaucoma
+) that can damage the optic nerve, vision problems such as
+nearsightedness
+(
+myopia
+), involuntary back-and-forth eye movements (nystagmus), or separation of the retina from the back of the eye (
+retinal detachment
+).
+Some individuals have coloboma as part of a syndrome that affects other organs and tissues in the body. These forms of the condition are described as syndromic. When coloboma occurs by itself, it is described as nonsyndromic or isolated.
+Colobomas involving the eyeball should be distinguished from gaps that occur in the eyelids. While these eyelid gaps are also called colobomas, they arise from abnormalities in different structures during early development.
+Frequency
+Coloboma occurs in approximately 1 in 10,000 people. Because coloboma does not always affect vision or the outward appearance of the eye, some people with this condition are likely undiagnosed.
+Causes
+Coloboma arises from abnormal development of the eye. During the second month of development before birth, a seam called the optic fissure (also known as the choroidal fissure or embryonic fissure) closes to form the structures of the eye. When the optic fissure does not close completely, the result is a coloboma.
+Because the optic fissure forms at the bottom of the eyeball during development, colobomas occur in the lower half of the eye. The particular structure within the eye affected by the coloboma depends on the part of the optic fissure that failed to close.
+Coloboma may be caused by changes in many genes involved in the early development of the eye, most of which have not been identified. The condition may also result from a chromosomal abnormality affecting one or more genes. Most genetic changes associated with coloboma have been identified only in very small numbers of affected individuals.
+The risk of coloboma may also be increased by environmental factors that affect early development, such as exposure to alcohol during pregnancy. In these cases, affected individuals usually have other health problems in addition to coloboma.
+Learn more about the genes associated with Coloboma
+ACTB
+ACTG1
+BCOR
+CHD7
+DPYD
+FOXL2
+FRAS1
+FREM1
+FREM2
+GDF3
+GDF6
+GJA1
+GRIP1
+HCCS
+KAT6B
+KMT2D
+LRP2
+OTX2
+PAX2
+PAX6
+POLR1C
+POLR1D
+PORCN
+PQBP1
+PTCH1
+RAB3GAP1
+RAB3GAP2
+SALL1
+SALL4
+SHH
+SIX3
+SMOC1
+SOX2
+TBC1D20
+TCOF1
+TFAP2A
+ZEB2
+ZIC2
+Additional Information from NCBI Gene:
+ABCB6
+ALDH1A3
+ATOH7
+BMP4
+BMP7
+C12orf57
+CC2D2A
+CLDN19
+CRIM1
+CRYAA
+CRYBA4
+CRYBB2
+DHX38
+ERCC1
+ERCC5
+FADD
+FAM111A
+FNBP4
+FZD5
+HMGB3
+HMX1
+IGBP1
+MAB21L2
+MAF
+MFRP
+NAA10
+PDE6D
+PIGL
+PRSS56
+RARB
+RAX
+RBP4
+RPGRIP1L
+SALL2
+SCLT1
+SEMA3E
+SIX6
+SRD5A3
+STRA6
+TBC1D32
+TBX22
+TENM3
+TMEM67
+TMEM98
+TMX3
+VAX1
+VSX2
+YAP1
+Inheritance
+Most often, isolated coloboma is not inherited, and there is only one affected individual in a family. However, the affected individual is still at risk of passing the coloboma on to his or her own children.
+In cases when it is passed down in families, coloboma can have different inheritance patterns. Isolated coloboma is sometimes inherited in an
+autosomal dominant pattern
+, which means one copy of an altered gene in each cell is sufficient to cause the disorder. Isolated coloboma can also be inherited in an
+autosomal recessive pattern
+, which means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of a mutated gene, but they typically do not show signs and symptoms of the condition.
+Less commonly, isolated coloboma may have
+X-linked dominant
+or
+X-linked recessive
+patterns of inheritance. X-linked means that a gene associated with this condition is located on the X chromosome, which is one of the two
+sex chromosomes
+. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+X-linked dominant means that in females (who have two X chromosomes), a mutation in one of the two copies of a gene in each cell is sufficient to cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of a gene in each cell causes the disorder. In most cases, males experience more severe symptoms of the disorder than females.
+X-linked recessive means that in females, a mutation would have to occur in both copies of a gene to cause the disorder. In males, one altered copy of a gene in each cell is sufficient to cause the condition. Because it is unlikely that females will have two altered copies of a particular gene, males are affected by X-linked recessive disorders much more frequently than females.
+When coloboma occurs as a feature of a genetic syndrome or chromosomal abnormality, it may cluster in families according to the inheritance pattern for that condition, which may be autosomal dominant, autosomal recessive, or X-linked.
+Other Names for This Condition
+Congenital ocular coloboma
+Microphthalmia, isolated, with coloboma
+Ocular coloboma
+Uveoretinal coloboma
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital ocular coloboma
+Genetic Testing Registry: Coloboma, ocular, autosomal recessive
+Genetic and Rare Diseases Information Center
+Coloboma of iris
+Coloboma of choroid and retina
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MICROPHTHALMIA/COLOBOMA 12; MCOPCB12
+COLOBOMA, OCULAR, AUTOSOMAL RECESSIVE
+Scientific Articles on PubMed
+PubMed
+References
+Bernstein CS, Anderson MT, Gohel C, Slater K, Gross JM, Agarwala S. The
+cellular bases of choroid fissure formation and closure. Dev Biol. 2018 Aug
+15;440(2):137-151. doi: 10.1016/j.ydbio.2018.05.010. Epub 2018 May 24.
+Citation on PubMed
+Chang L, Blain D, Bertuzzi S, Brooks BP. Uveal coloboma: clinical and basic
+science update. Curr Opin Ophthalmol. 2006 Oct;17(5):447-70. doi:
+10.1097/01.icu.0000243020.82380.f6.
+Citation on PubMed
+Gregory-Evans CY, Williams MJ, Halford S, Gregory-Evans K. Ocular coloboma: a
+reassessment in the age of molecular neuroscience. J Med Genet. 2004
+Dec;41(12):881-91. doi: 10.1136/jmg.2004.025494.
+Citation on PubMed
+or
+Free article on PubMed Central
+Guercio JR, Martyn LJ. Congenital malformations of the eye and orbit.
+Otolaryngol Clin North Am. 2007 Feb;40(1):113-40, vii. doi:
+10.1016/j.otc.2006.11.013.
+Citation on PubMed
+Huynh N, Blain D, Glaser T, Doss EL, Zein WM, Lang DM, Baker EH, Hill S,
+Brewer CC, Kopp JB, Bardakjian TM, Maumenee IH, Bateman BJ, Brooks BP. Systemic
+diagnostic testing in patients with apparently isolated uveal coloboma. Am J
+Ophthalmol. 2013 Dec;156(6):1159-1168.e4. doi: 10.1016/j.ajo.2013.06.037. Epub
+2013 Sep 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nakamura KM, Diehl NN, Mohney BG. Incidence, ocular findings, and systemic
+associations of ocular coloboma: a population-based study. Arch Ophthalmol. 2011
+Jan;129(1):69-74. doi: 10.1001/archophthalmol.2010.320.
+Citation on PubMed
+or
+Free article on PubMed Central
+Onwochei BC, Simon JW, Bateman JB, Couture KC, Mir E. Ocular colobomata. Surv
+Ophthalmol. 2000 Nov-Dec;45(3):175-94. doi: 10.1016/s0039-6257(00)00151-x.
+Citation on PubMed
+Reis LM, Semina EV. Conserved genetic pathways associated with microphthalmia,
+anophthalmia, and coloboma. Birth Defects Res C Embryo Today. 2015
+Jun;105(2):96-113. doi: 10.1002/bdrc.21097. Epub 2015 Jun 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Skalicky SE, White AJ, Grigg JR, Martin F, Smith J, Jones M, Donaldson C,
+Smith JE, Flaherty M, Jamieson RV. Microphthalmia, anophthalmia, and coloboma and
+associated ocular and systemic features: understanding the spectrum. JAMA
+Ophthalmol. 2013 Dec;131(12):1517-24. doi: 10.1001/jamaophthalmol.2013.5305.
+Citation on PubMed
+Williamson KA, FitzPatrick DR. The genetic architecture of microphthalmia,
+anophthalmia and coloboma. Eur J Med Genet. 2014 Aug;57(8):369-80. doi:
+10.1016/j.ejmg.2014.05.002. Epub 2014 May 22.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eye Diseases
+Genetic Disorders
+Glaucoma
+Optic Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Coloboma of the iris
+Congenital cataract
+Genetics
+Nearsightedness
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

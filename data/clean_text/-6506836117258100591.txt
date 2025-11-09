@@ -1,0 +1,134 @@
+Alexander disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Alexander disease
+URL of this page: https://medlineplus.gov/genetics/condition/alexander-disease/
+Alexander disease
+Description
+Alexander disease is a rare disorder of the nervous system. It is one of a group of disorders, called leukodystrophies, that involve the destruction of myelin. Myelin is the fatty covering that insulates nerve fibers and promotes the rapid transmission of nerve impulses. If myelin is not properly maintained, the transmission of nerve impulses could be disrupted. As myelin deteriorates in leukodystrophies such as Alexander disease, nervous system functions are impaired.
+Most cases of Alexander disease begin before age 2 and are described as the infantile form. Signs and symptoms of the infantile form typically include an enlarged brain and head size (megalencephaly), seizures, stiffness in the arms and/or legs (spasticity), intellectual disability, and developmental delay. Less frequently, onset occurs later in childhood (the juvenile form) or in adulthood. Common problems in juvenile and adult forms of Alexander disease include speech abnormalities, swallowing difficulties, seizures, and poor coordination (ataxia). Rarely, a neonatal form of Alexander disease occurs within the first month of life and is associated with severe intellectual disability and developmental delay, a buildup of fluid in the brain (hydrocephalus), and seizures.
+Alexander disease is also characterized by abnormal protein deposits known as Rosenthal fibers. These deposits are found in specialized cells called astroglial cells, which support and nourish other cells in the brain and spinal cord (
+central nervous system
+).
+Frequency
+The prevalence of Alexander disease is unknown. About 500 cases have been reported since the disorder was first described in 1949.
+Causes
+Mutations in the
+GFAP
+gene cause Alexander disease. The
+GFAP
+gene provides instructions for making a protein called glial fibrillary acidic protein. Several molecules of this protein bind together to form intermediate filaments, which provide support and strength to cells. Mutations in the
+GFAP
+gene lead to the production of a structurally altered glial fibrillary acidic protein. The altered protein is thought to impair the formation of normal intermediate filaments. As a result, the abnormal glial fibrillary acidic protein likely accumulates in astroglial cells, leading to the formation of Rosenthal fibers, which impair cell function. It is not well understood how impaired astroglial cells contribute to the abnormal formation or maintenance of myelin, leading to the signs and symptoms of Alexander disease.
+Learn more about the gene associated with Alexander disease
+GFAP
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Most cases result from
+new mutations
+in the gene. These cases occur in people with no history of the disorder in their family. Rarely, an affected person inherits the mutation from
+one affected parent
+.
+Other Names for This Condition
+Alexander's disease
+ALX
+AxD
+Demyelinogenic leukodystrophy
+Dysmyelinogenic leukodystrophy
+Fibrinoid degeneration of astrocytes
+Leukodystrophy with Rosenthal fibers
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Alexander Disease
+Genetic and Rare Diseases Information Center
+Alexander disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ALEXANDER DISEASE; ALXDRD
+Scientific Articles on PubMed
+PubMed
+References
+Gorospe JR, Maletkovic J. Alexander disease and megalencephalic
+leukoencephalopathy with subcortical cysts: leukodystrophies arising from
+astrocyte dysfunction. Ment Retard Dev Disabil Res Rev. 2006;12(2):113-22. doi:
+10.1002/mrdd.20101. No abstract available.
+Citation on PubMed
+Graff-Radford J, Schwartz K, Gavrilova RH, Lachance DH, Kumar N. Neuroimaging
+and clinical features in type II (late-onset) Alexander disease. Neurology. 2014
+Jan 7;82(1):49-56. doi: 10.1212/01.wnl.0000438230.33223.bc. Epub 2013 Dec 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Li R, Johnson AB, Salomons G, Goldman JE, Naidu S, Quinlan R, Cree B, Ruyle
+SZ, Banwell B, D'Hooghe M, Siebert JR, Rolf CM, Cox H, Reddy A, Gutierrez-Solana
+LG, Collins A, Weller RO, Messing A, van der Knaap MS, Brenner M. Glial
+fibrillary acidic protein mutations in infantile, juvenile, and adult forms of
+Alexander disease. Ann Neurol. 2005 Mar;57(3):310-26. doi: 10.1002/ana.20406.
+Citation on PubMed
+Quinlan RA, Brenner M, Goldman JE, Messing A. GFAP and its role in Alexander
+disease. Exp Cell Res. 2007 Jun 10;313(10):2077-87. doi:
+10.1016/j.yexcr.2007.04.004. Epub 2007 Apr 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Srivastava S, Waldman A, Naidu S. Alexander Disease. 2002 Nov 15 [updated 2020
+Nov 12]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1172/
+Citation on PubMed
+van der Knaap MS, Ramesh V, Schiffmann R, Blaser S, Kyllerman M, Gholkar A,
+Ellison DW, van der Voorn JP, van Dooren SJ, Jakobs C, Barkhof F, Salomons GS.
+Alexander disease: ventricular garlands and abnormalities of the medulla and
+spinal cord. Neurology. 2006 Feb 28;66(4):494-8. doi:
+10.1212/01.wnl.0000198770.80743.37.
+Citation on PubMed
+Zang L, Wang J, Jiang Y, Gu Q, Gao Z, Yang Y, Xiao J, Wu Y. Follow-up study of
+22 Chinese children with Alexander disease and analysis of parental origin of de
+novo GFAP mutations. J Hum Genet. 2013 Apr;58(4):183-8. doi:
+10.1038/jhg.2012.152. Epub 2013 Jan 31.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+Leukodystrophies
+MEDICAL ENCYCLOPEDIA
+Genetics
+Myelin
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

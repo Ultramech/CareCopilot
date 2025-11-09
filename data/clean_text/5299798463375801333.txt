@@ -1,0 +1,118 @@
+Task-specific focal dystonia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Task-specific focal dystonia
+URL of this page: https://medlineplus.gov/genetics/condition/task-specific-focal-dystonia/
+Task-specific focal dystonia
+Description
+Task-specific focal dystonia is a movement disorder that interferes with the performance of particular tasks, such as writing, playing a musical instrument, or participating in a sport. Dystonias are a group of movement problems characterized by involuntary, sustained muscle contractions, tremors, and other uncontrolled movements. The term "focal" refers to a type of dystonia that affects a single part of the body, such as the hand or jaw.
+Researchers have described several forms of task-specific focal dystonia. The most common is writer's cramp, in which muscle cramps or spasms in the hand, wrist, or forearm interfere with holding a pen or pencil. Writer's cramp begins in the hand used for writing (the dominant hand) and is usually limited to that task, but with time it can spread to the other hand and affect other fine-motor activities such as shaving or typing.
+Musician's dystonia is a form of task-specific focal dystonia characterized by muscle cramps and spasms that occur while playing a musical instrument. This condition can affect amateur or professional musicians, and the location of the dystonia depends on the instrument. Some musicians (such as piano, guitar, and violin players) develop focal hand dystonia, which causes loss of fine-motor control in the hand and wrist muscles. This condition reduces finger coordination, speed, and endurance while playing. Musicians who play woodwind or brass instruments can develop what is known as embouchure dystonia. This condition causes muscle cramps or spasms involving the lips, tongue, or jaw, which prevents normal positioning of the mouth around the instrument's mouthpiece. Musician's dystonia often occurs only when playing a particular instrument. However, over time focal hand dystonia may impair other activities, and embouchure dystonia can worsen to affect eating and speech.
+Task-specific focal dystonia can affect people who play sports and engage in other occupations involving repetitive, highly practiced movements. For example, some golfers experience involuntary jerking of the wrists during putting, a condition known informally as "the yips." Cramps and spasms of the hand and arm muscles can also affect tennis players, billiards players, dart throwers, and other athletes. Additionally, task-specific dystonia has been reported in tailors, shoemakers, hair stylists, and people who frequently type or use a computer mouse.
+The abnormal movements associated with task-specific focal dystonia are usually painless, although they can cause anxiety when they interfere with musical performance and other activities. Severe cases can cause professional disability.
+Frequency
+Task-specific focal dystonia affects an estimated 7 to 69 per million people in the general population. Musician's dystonia that is severe enough to impact performance occurs in about 1 percent of musicians.
+Causes
+The causes of task-specific focal dystonia are unknown, although the disorder likely results from a combination of genetic and environmental factors. Certain genetic changes probably increase the likelihood of developing this condition, and environmental factors may trigger the onset of symptoms in people who are at risk. It is possible that the different forms of task-specific focal dystonia have different underlying causes.
+Having a family history of dystonia, particularly focal dystonia, is one of the only established risk factors for task-specific focal dystonia. Studies suggest that previous injury, changes in practice routine, and exposure to anti-psychotic drugs (which can cause other types of dystonia) are not major risk factors. Nor does the condition appear to be a form of performance anxiety. Task-specific focal dystonia may be associated with dysfunction in areas of the brain that regulate movement. In particular, researchers have found that at least some cases of the condition are related to malfunction of the basal ganglia, which are structures deep within the brain that help start and control movement.
+Although genetic factors are almost certainly involved in task-specific focal dystonia, no genes have been clearly associated with the condition. Researchers have looked for mutations in several genes known to be involved in other forms of dystonia, but these genetic changes do not appear to be a major cause of task-specific focal dystonia. Researchers are working to determine which genetic factors are related to this disorder.
+Inheritance
+Most cases of task-specific focal dystonia are sporadic, which means they occur in people with no history of the condition in their family. However, at least 10 percent of affected individuals have a family history of focal dystonia. (For example, writer's cramp and musician's dystonia have been reported to occur in the same family.) The dystonia often appears to have an
+autosomal dominant pattern
+of inheritance, based on the observation that some affected people have a parent with the condition.
+Other Names for This Condition
+Focal hand dystonia
+Focal task-specific dystonia
+FTSD
+Occupational cramp
+Occupational dystonia
+Task-specific dystonia
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Focal dystonia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+DYSTONIA, FOCAL, TASK-SPECIFIC; FTSD
+Scientific Articles on PubMed
+PubMed
+References
+Adler CH, Crews D, Kahol K, Santello M, Noble B, Hentz JG, Caviness JN. Are
+the yips a task-specific dystonia or "golfer's cramp"? Mov Disord. 2011
+Sep;26(11):1993-6. doi: 10.1002/mds.23824. Epub 2011 Jun 14.
+Citation on PubMed
+Altenmuller E, Jabusch HC. Focal dystonia in musicians: phenomenology,
+pathophysiology and triggering factors. Eur J Neurol. 2010 Jul;17 Suppl 1:31-6.
+doi: 10.1111/j.1468-1331.2010.03048.x.
+Citation on PubMed
+Frucht SJ. Embouchure dystonia--Portrait of a task-specific cranial dystonia.
+Mov Disord. 2009 Sep 15;24(12):1752-62. doi: 10.1002/mds.22550.
+Citation on PubMed
+Hallett M. Pathophysiology of writer's cramp. Hum Mov Sci. 2006
+Oct;25(4-5):454-63. doi: 10.1016/j.humov.2006.05.004. Epub 2006 Jul 21.
+Citation on PubMed
+Jankovic J, Ashoori A. Movement disorders in musicians. Mov Disord. 2008 Oct
+30;23(14):1957-65. doi: 10.1002/mds.22255.
+Citation on PubMed
+Schmidt A, Jabusch HC, Altenmuller E, Hagenah J, Bruggemann N, Hedrich K,
+Saunders-Pullman R, Bressman SB, Kramer PL, Klein C. Dominantly transmitted focal
+dystonia in families of patients with musician's cramp. Neurology. 2006 Aug
+22;67(4):691-3. doi: 10.1212/01.wnl.0000230148.00035.f9.
+Citation on PubMed
+Schmidt A, Jabusch HC, Altenmuller E, Hagenah J, Bruggemann N, Lohmann K,
+Enders L, Kramer PL, Saunders-Pullman R, Bressman SB, Munchau A, Klein C.
+Etiology of musician's dystonia: familial or environmental? Neurology. 2009 Apr
+7;72(14):1248-54. doi: 10.1212/01.wnl.0000345670.63363.d1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Suzuki K, Takano M, Hashimoto K, Numao A, Nakamura T, Sakuta H, Hirata K.
+Computer mouse-related dystonia: a novel presentation of task-specific dystonia.
+J Neurol. 2012 Oct;259(10):2221-2. doi: 10.1007/s00415-012-6519-1. Epub 2012 May
+9. No abstract available.
+Citation on PubMed
+Torres-Russotto D, Perlmutter JS. Task-specific dystonias: a review. Ann N Y
+Acad Sci. 2008 Oct;1142:179-99. doi: 10.1196/annals.1444.012.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Dystonia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

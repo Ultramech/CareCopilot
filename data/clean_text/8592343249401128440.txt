@@ -1,0 +1,141 @@
+Multiple sclerosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Multiple sclerosis
+URL of this page: https://medlineplus.gov/genetics/condition/multiple-sclerosis/
+Multiple sclerosis
+Description
+Multiple sclerosis is a condition characterized by areas of damage (lesions) on
+the brain and spinal cord
+. These lesions are associated with destruction of the covering that protects nerves and promotes the efficient transmission of nerve impulses (the
+myelin sheath
+) and damage to nerve cells. Multiple sclerosis is considered an autoimmune disorder; autoimmune disorders occur when the immune system malfunctions and attacks the body's own tissues and organs, in this case tissues of the nervous system.
+Multiple sclerosis usually begins in early adulthood, between ages 20 and 40. The symptoms vary widely, and affected individuals can experience one or more effects of nervous system damage. Multiple sclerosis often causes sensory disturbances in the limbs, including a prickling or tingling sensation (paresthesia), numbness, pain, and itching. Some people experience Lhermitte sign, which is an electrical shock-like sensation that runs down the back and into the limbs. This sensation usually occurs when the head is bent forward. Problems with muscle control are common in people with multiple sclerosis. Affected individuals may have tremors, muscle stiffness (spasticity), exaggerated reflexes (hyperreflexia), weakness or partial paralysis of the muscles of the limbs, difficulty walking, or poor bladder control. Multiple sclerosis is also associated with vision problems, such as blurred or double vision or partial or complete vision loss. Infections that cause fever can make the symptoms worse.
+There are several forms of multiple sclerosis: relapsing-remitting MS, secondary progressive MS, primary progressive MS, and progressive relapsing MS. The most common is the relapsing-remitting form, which affects approximately 80 percent of people with multiple sclerosis. Individuals with this form of the condition have periods during which they experience symptoms, called clinical attacks, followed by periods without any symptoms (remission). The triggers of clinical attacks and remissions are unknown. After about 10 years, relapsing-remitting MS usually develops into another form of the disorder called secondary progressive MS. In this form, there are no remissions, and symptoms of the condition continually worsen.
+Primary progressive MS is the next most common form, affecting approximately 10 to 20 percent of people with multiple sclerosis. This form is characterized by constant symptoms that worsen over time, with no clinical attacks or remissions. Primary progressive MS typically begins later than the other forms, around age 40.
+Progressive relapsing MS is a rare form of multiple sclerosis that initially appears like primary progressive MS, with constant symptoms. However, people with progressive relapsing MS also experience clinical attacks of more severe symptoms.
+Frequency
+An estimated 1.1 to 2.5 million people worldwide have multiple sclerosis. Although the reason is unclear, this condition is more common in regions that are farther away from the equator. In Canada, parts of the northern United States, western and northern Europe, Russia, and southeastern Australia, the condition affects approximately 1 in 2,000 to 2,400 people. It is less common closer to the equator, such as in Asia, sub-Saharan Africa, and parts of South America, where about 1 in 20,000 people are affected. For unknown reasons, most forms of multiple sclerosis affect women twice as often as men; however, women and men are equally affected by primary progressive MS.
+Causes
+Although the cause of multiple sclerosis is unknown, variations in dozens of genes are thought to be involved in multiple sclerosis risk. Changes in the
+HLA-DRB1
+gene are the strongest genetic risk factors for developing multiple sclerosis. Other factors associated with an increased risk of developing multiple sclerosis include changes in the
+IL7R
+gene and environmental factors, such as exposure to the Epstein-Barr virus, low levels of vitamin D, and smoking.
+The
+HLA-DRB1
+gene belongs to a family of genes called the
+human leukocyte antigen (HLA) complex
+. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person's immune system to react to a wide range of foreign proteins. Variations in several HLA genes have been associated with increased multiple sclerosis risk, but one particular variant of the
+HLA-DRB1
+gene, called
+HLA-DRB1*15:01
+, is the most strongly linked genetic factor.
+The
+IL7R
+gene provides instructions for making one piece of two different receptor proteins: the interleukin 7 (IL-7) receptor and the thymic stromal lymphopoietin (TSLP) receptor. Both receptors are embedded in the cell membrane of immune cells. These receptors stimulate signaling pathways that induce the growth and division (proliferation) and survival of immune cells. The genetic variation involved in multiple sclerosis leads to production of an IL-7 receptor that is not embedded in the cell membrane but is instead found inside the cell. It is unknown if this variation affects the TSLP receptor.
+Because the
+HLA-DRB1
+and
+IL-7R
+genes are involved in the immune system, changes in either might be related to
+the autoimmune response
+that damages the myelin sheath and nerve cells and leads to the signs and symptoms of multiple sclerosis. However, it is unclear exactly what role variations in either gene plays in development of the condition.
+Learn more about the genes associated with Multiple sclerosis
+CYP27B1
+HLA-DRB1
+IL7R
+TNFRSF1A
+Additional Information from NCBI Gene:
+IL2RA
+Inheritance
+The inheritance pattern of multiple sclerosis is unknown, although the condition does appear to be passed down through generations in families. The risk of developing multiple sclerosis is higher for siblings or children of a person with the condition than for the general population.
+Other Names for This Condition
+Disseminated sclerosis
+MS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Multiple sclerosis, susceptibility to
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO; MS
+Scientific Articles on PubMed
+PubMed
+References
+Alcina A, Abad-Grau Mdel M, Fedetz M, Izquierdo G, Lucas M, Fernandez O,
+Ndagire D, Catala-Rabasa A, Ruiz A, Gayan J, Delgado C, Arnal C, Matesanz F.
+Multiple sclerosis risk variant HLA-DRB1*1501 associates with high expression of
+DRB1 gene in different human populations. PLoS One. 2012;7(1):e29819. doi:
+10.1371/journal.pone.0029819. Epub 2012 Jan 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Cree BA. Multiple sclerosis genetics. Handb Clin Neurol. 2014;122:193-209.
+doi: 10.1016/B978-0-444-52001-2.00009-1.
+Citation on PubMed
+Gourraud PA, Harbo HF, Hauser SL, Baranzini SE. The genetics of multiple
+sclerosis: an up-to-date review. Immunol Rev. 2012 Jul;248(1):87-103. doi:
+10.1111/j.1600-065X.2012.01134.x.
+Citation on PubMed
+Gregory SG, Schmidt S, Seth P, Oksenberg JR, Hart J, Prokop A, Caillier SJ,
+Ban M, Goris A, Barcellos LF, Lincoln R, McCauley JL, Sawcer SJ, Compston DA,
+Dubois B, Hauser SL, Garcia-Blanco MA, Pericak-Vance MA, Haines JL; Multiple
+Sclerosis Genetics Group. Interleukin 7 receptor alpha chain (IL7R) shows allelic
+and functional association with multiple sclerosis. Nat Genet. 2007
+Sep;39(9):1083-91. doi: 10.1038/ng2103. Epub 2007 Jul 29.
+Citation on PubMed
+Lin R, Charlesworth J, van der Mei I, Taylor BV. The genetics of multiple
+sclerosis. Pract Neurol. 2012 Oct;12(5):279-88. doi:
+10.1136/practneurol-2012-000276.
+Citation on PubMed
+Lundmark F, Duvefelt K, Iacobaeus E, Kockum I, Wallstrom E, Khademi M, Oturai
+A, Ryder LP, Saarela J, Harbo HF, Celius EG, Salter H, Olsson T, Hillert J.
+Variation in interleukin 7 receptor alpha chain (IL7R) influences risk of
+multiple sclerosis. Nat Genet. 2007 Sep;39(9):1108-13. doi: 10.1038/ng2106. Epub
+2007 Jul 29.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Autoimmune Diseases
+Genetic Disorders
+Immune System and Disorders
+Multiple Sclerosis
+Neurologic Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

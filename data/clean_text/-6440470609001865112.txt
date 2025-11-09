@@ -1,0 +1,143 @@
+Neuropathy, ataxia, and retinitis pigmentosa: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Neuropathy, ataxia, and retinitis pigmentosa
+URL of this page: https://medlineplus.gov/genetics/condition/neuropathy-ataxia-and-retinitis-pigmentosa/
+Neuropathy, ataxia, and retinitis pigmentosa
+Description
+Neuropathy, ataxia, and
+retinitis pigmentosa
+(NARP) is a condition that causes a variety of signs and symptoms that mainly affect the nervous system. The condition typically begins in childhood or early adulthood, and the signs and symptoms usually worsen over time. Most people with NARP experience numbness, tingling, or pain in the arms and legs (sensory neuropathy); muscle weakness; and problems with balance and coordination (ataxia). Many affected individuals also have vision loss caused by changes in the light-sensitive tissue that lines the back of the
+eye
+(the retina). In some cases, the vision loss results from a condition called retinitis pigmentosa. This eye disease causes the light-sensing cells of the retina gradually to deteriorate.
+Learning disabilities and developmental delays are often seen in children with NARP, and older individuals with this condition may experience a loss of intellectual function (dementia). Other features of NARP include seizures, hearing loss, and abnormalities of
+the electrical signals
+that control the heartbeat (cardiac conduction defects). These signs and symptoms vary among affected individuals.
+Frequency
+The prevalence of NARP is unknown. This disorder is probably less common than a similar but more severe condition,
+Leigh syndrome
+, which affects about 1 in 40,000 people.
+Causes
+NARP results from mutations in the
+MT-ATP6
+gene. This gene is contained in mitochondrial DNA, also known as mtDNA.
+Mitochondria
+are structures within cells that convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA, known as
+mitochondrial DNA
+or mtDNA.
+The
+MT-ATP6
+gene provides instructions for making a protein that is essential for normal mitochondrial function. Through a series of chemical reactions, mitochondria use oxygen and simple sugars to create adenosine triphosphate (ATP), the cell's main energy source. The MT-ATP6 protein forms one part (subunit) of an enzyme called
+ATP synthase
+, which is responsible for the last step in ATP production. Mutations in the
+MT-ATP6
+gene alter the structure or function of ATP synthase, reducing the ability of mitochondria to make ATP. It remains unclear how this disruption in mitochondrial energy production leads to muscle weakness, vision loss, and the other specific features of NARP.
+Learn more about the gene and chromosome associated with Neuropathy, ataxia, and retinitis pigmentosa
+MT-ATP6
+mitochondrial dna
+Inheritance
+This condition is inherited in a
+mitochondrial pattern
+, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in
+mtDNA
+. Because egg cells, but not sperm cells, contribute
+mitochondria
+to the developing embryo, children can inherit disorders resulting from mtDNA mutations only from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.
+Most of the body's cells contain thousands of mitochondria, each with one or more copies of mtDNA. The severity of some mitochondrial disorders is associated with the percentage of mitochondria in each cell that has a particular genetic change. Most individuals with NARP have a specific
+MT-ATP6
+mutation in 70 percent to 90 percent of their mitochondria. When this mutation is present in a higher percentage of a person's mitochondria—more than 90 percent to 95 percent—it usually causes a more severe condition known as maternally inherited Leigh syndrome. Because these two conditions result from the same genetic changes and can occur in different members of a single family, and because some individuals with
+MT-ATP6
+gene mutations have related signs and symptoms that do not follow the specific patterns of these conditions, researchers believe that the conditions may be part of a spectrum of overlapping features rather than two distinct syndromes.
+Other Names for This Condition
+NARP
+NARP syndrome
+Neurogenic muscle weakness, ataxia, and retinitis pigmentosa
+Neuropathy, ataxia, and retinitis pigmentos
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: NARP syndrome
+Genetic and Rare Diseases Information Center
+NARP syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NEUROPATHY, ATAXIA, AND RETINITIS PIGMENTOSA
+Scientific Articles on PubMed
+PubMed
+References
+Ball M, Thorburn DR, Rahman S. Mitochondrial DNA-Associated Leigh Syndrome
+Spectrum. 2003 Oct 30 [updated 2024 May 9]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1173/
+Citation on PubMed
+Chowers I, Lerman-Sagie T, Elpeleg ON, Shaag A, Merin S. Cone and rod
+dysfunction in the NARP syndrome. Br J Ophthalmol. 1999 Feb;83(2):190-3. doi:
+10.1136/bjo.83.2.190.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ng YS, Martikainen MH, Gorman GS, Blain A, Bugiardini E, Bunting A, Schaefer
+AM, Alston CL, Blakely EL, Sharma S, Hughes I, Lim A, de Goede C, McEntagart M,
+Spinty S, Horrocks I, Roberts M, Woodward CE, Chinnery PF, Horvath R, Nesbitt V,
+Fratter C, Poulton J, Hanna MG, Pitceathly RDS, Taylor RW, Turnbull DM, McFarland
+R. Pathogenic variants in MT-ATP6: A United Kingdom-based mitochondrial disease
+cohort study. Ann Neurol. 2019 Aug;86(2):310-315. doi: 10.1002/ana.25525. Epub
+2019 Jul 1.
+Citation on PubMed
+Rojo A, Campos Y, Sanchez JM, Bonaventura I, Aguilar M, Garcia A, Gonzalez L,
+Rey MJ, Arenas J, Olive M, Ferrer I. NARP-MILS syndrome caused by 8993 T>G
+mitochondrial DNA mutation: a clinical, genetic and neuropathological study. Acta
+Neuropathol. 2006 Jun;111(6):610-6. doi: 10.1007/s00401-006-0040-5. Epub 2006 Mar
+9.
+Citation on PubMed
+Uziel G, Moroni I, Lamantea E, Fratta GM, Ciceri E, Carrara F, Zeviani M.
+Mitochondrial disease associated with the T8993G mutation of the mitochondrial
+ATPase 6 gene: a clinical, biochemical, and molecular study in six families. J
+Neurol Neurosurg Psychiatry. 1997 Jul;63(1):16-22. doi: 10.1136/jnnp.63.1.16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Cerebellar Disorders
+Genetic Disorders
+Mitochondrial Diseases
+Retinal Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Retinitis pigmentosa
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

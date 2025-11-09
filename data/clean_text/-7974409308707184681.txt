@@ -1,0 +1,124 @@
+Buschke-Ollendorff syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Buschke-Ollendorff syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/buschke-ollendorff-syndrome/
+Buschke-Ollendorff syndrome
+Description
+Buschke-Ollendorff syndrome is a hereditary disorder that primarily affects the skin and bones. Specifically, the condition is characterized by skin growths called connective tissue nevi and bone abnormalities, most commonly a pattern of increased bone density called osteopoikilosis. Buschke-Ollendorff syndrome is classified as a disorder of connective tissues, which provide support, strength, and flexibility to organs and tissues throughout the body.
+Connective tissue nevi are small, noncancerous lumps on the skin. They tend to appear in childhood and are widespread in people with Buschke-Ollendorff syndrome. In some cases, the nevi are subtle and hard to feel. The most common form of these nevi are elastomas, which are made up of a type of stretchy connective tissue called elastic fibers. Less commonly, affected individuals have nevi called collagenomas, which are made up of another type of connective tissue called collagen.
+Osteopoikilosis, which is from the Greek words for "spotted bones," refers to small, round areas of increased bone density that appear as bright spots on x-rays. Osteopoikilosis usually occurs near the ends of the long bones of the arms and legs, and in the bones of the hands, feet, and pelvis. The areas of increased bone density appear during childhood. They do not cause pain or other health problems.
+Other bone abnormalities can also occur with Buschke-Ollendorff syndrome, although they are less common. For example, a small percentage of affected individuals have
+melorheostosis
+, which is characterized by excess bone growth on the surface of existing bones in a pattern resembling dripping candle wax. Melorheostosis usually affects the bones in one arm or leg, although it can also affect bones in other areas of the body. This abnormality can cause long-lasting (chronic) pain, permanent joint deformities (contractures), and a limited range of motion of the affected body part.
+Frequency
+Buschke-Ollendorff syndrome has an estimated incidence of 1 in 20,000 people worldwide.
+Causes
+Buschke-Ollendorff syndrome results from mutations in the
+LEMD3
+gene. This gene provides instructions for making a protein that helps control signaling through two chemical pathways known as the bone morphogenic protein (BMP) and
+transforming growth factor-beta
+(TGF-β) pathways. These signaling pathways regulate various cell functions and are involved in the growth of cells, including new bone cells.
+Mutations in the
+LEMD3
+gene reduce the amount of functional LEMD3 protein that is produced. A shortage of this protein increases signaling through the BMP and TGF-β pathways. Studies suggest that the enhanced signaling increases the formation of bone tissue, resulting in areas of overly dense bone or excess bone growth. It is unclear how the increased signaling is related to the development of connective tissue nevi in people with Buschke-Ollendorff syndrome.
+Learn more about the gene associated with Buschke-Ollendorff syndrome
+LEMD3
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person has a parent and other family members with the condition. While most people with Buschke-Ollendorff syndrome have both skin and bone abnormalities, some affected families include individuals who have the skin abnormalities alone or the bone abnormalities alone.
+Other Names for This Condition
+BOS
+Dermatofibrosis disseminata lenticularis
+Dermatofibrosis lenticularis disseminata
+Dermatofibrosis lenticularis disseminata with osteopoikilosis
+Dermatofibrosis, disseminated, with osteopoikilosis
+Dermatoosteopoikilosis
+Osteopathia condensans disseminata
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Dermatofibrosis lenticularis disseminata
+Genetic and Rare Diseases Information Center
+Buschke-Ollendorff syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+BUSCHKE-OLLENDORFF SYNDROME; BOS
+Scientific Articles on PubMed
+PubMed
+References
+Burger B, Hershkovitz D, Indelman M, Kovac M, Galambos J, Haeusermann P,
+Sprecher E, Itin PH. Buschke-Ollendorff syndrome in a three-generation family:
+influence of a novel LEMD3 mutation to tropoelastin expression. Eur J Dermatol.
+2010 Nov-Dec;20(6):693-7. doi: 10.1684/ejd.2010.1051. Epub 2010 Aug 24.
+Citation on PubMed
+Couto AR, Bruges-Armas J, Peach CA, Chapman K, Brown MA, Wordsworth BP, Zhang
+Y. A novel LEMD3 mutation common to patients with osteopoikilosis with and
+without melorheostosis. Calcif Tissue Int. 2007 Aug;81(2):81-4. doi:
+10.1007/s00223-007-9043-z. Epub 2007 Jul 11.
+Citation on PubMed
+Hellemans J, Preobrazhenska O, Willaert A, Debeer P, Verdonk PC, Costa T,
+Janssens K, Menten B, Van Roy N, Vermeulen SJ, Savarirayan R, Van Hul W,
+Vanhoenacker F, Huylebroeck D, De Paepe A, Naeyaert JM, Vandesompele J, Speleman
+F, Verschueren K, Coucke PJ, Mortier GR. Loss-of-function mutations in LEMD3
+result in osteopoikilosis, Buschke-Ollendorff syndrome and melorheostosis. Nat
+Genet. 2004 Nov;36(11):1213-8. doi: 10.1038/ng1453. Epub 2004 Oct 17.
+Citation on PubMed
+Mumm S, Wenkert D, Zhang X, McAlister WH, Mier RJ, Whyte MP. Deactivating
+germline mutations in LEMD3 cause osteopoikilosis and Buschke-Ollendorff
+syndrome, but not sporadic melorheostosis. J Bone Miner Res. 2007
+Feb;22(2):243-50. doi: 10.1359/jbmr.061102.
+Citation on PubMed
+Pope V, Dupuis L, Kannu P, Mendoza-Londono R, Sajic D, So J, Yoon G,
+Lara-Corrales I. Buschke-Ollendorff syndrome: a novel case series and systematic
+review. Br J Dermatol. 2016 Apr;174(4):723-9. doi: 10.1111/bjd.14366. Epub 2016
+Mar 8.
+Citation on PubMed
+Zhang Y, Castori M, Ferranti G, Paradisi M, Wordsworth BP. Novel and recurrent
+germline LEMD3 mutations causing Buschke-Ollendorff syndrome and osteopoikilosis
+but not isolated melorheostosis. Clin Genet. 2009 Jun;75(6):556-61. doi:
+10.1111/j.1399-0004.2009.01177.x. Epub 2009 May 5.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Connective Tissue Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Bone Density Scan
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

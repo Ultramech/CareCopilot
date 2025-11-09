@@ -1,0 +1,111 @@
+Juvenile primary lateral sclerosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Juvenile primary lateral sclerosis
+URL of this page: https://medlineplus.gov/genetics/condition/juvenile-primary-lateral-sclerosis/
+Juvenile primary lateral sclerosis
+Description
+Juvenile primary lateral sclerosis is a rare disorder characterized by progressive weakness and tightness (spasticity) of muscles in the arms, legs, and face. The features of this disorder are caused by damage to motor neurons, which are specialized nerve cells in the brain and spinal cord that control muscle movement.
+Symptoms of juvenile primary lateral sclerosis begin in early childhood and progress slowly over many years. Early symptoms include clumsiness, muscle weakness and spasticity in the legs, and difficulty with balance. As symptoms progress, the spasticity spreads to the arms and hands and individuals develop slurred speech, drooling, difficulty swallowing, and an inability to walk.
+Frequency
+Juvenile primary lateral sclerosis is a rare disorder, with few reported cases.
+Causes
+Mutations in the
+ALS2
+gene cause most cases of juvenile primary lateral sclerosis. This gene provides instructions for making a protein called alsin. Alsin is abundant in motor neurons, but its function is not fully understood. Mutations in the
+ALS2
+gene alter the instructions for producing alsin. As a result, alsin is unstable and is quickly broken down, or it cannot function properly. It is unclear how the loss of functional alsin protein damages motor neurons and causes juvenile primary lateral sclerosis.
+Learn more about the gene associated with Juvenile primary lateral sclerosis
+ALS2
+Additional Information from NCBI Gene:
+ERLIN2
+Inheritance
+When caused by mutations in the
+ALS2
+gene, juvenile primary lateral sclerosis is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+JPLS
+Juvenile PLS
+PLSJ
+Primary lateral sclerosis, juvenile
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Juvenile primary lateral sclerosis
+Genetic and Rare Diseases Information Center
+Juvenile primary lateral sclerosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PRIMARY LATERAL SCLEROSIS, JUVENILE; PLSJ
+Scientific Articles on PubMed
+PubMed
+References
+Hadano S, Kunita R, Otomo A, Suzuki-Utsunomiya K, Ikeda JE. Molecular and
+cellular function of ALS2/alsin: implication of membrane dynamics in neuronal
+development and degeneration. Neurochem Int. 2007 Jul-Sep;51(2-4):74-84. doi:
+10.1016/j.neuint.2007.04.010. Epub 2007 May 4.
+Citation on PubMed
+Mintchev N, Zamba-Papanicolaou E, Kleopa KA, Christodoulou K. A novel ALS2
+splice-site mutation in a Cypriot juvenile-onset primary lateral sclerosis
+family. Neurology. 2009 Jan 6;72(1):28-32. doi:
+10.1212/01.wnl.0000338530.77394.60.
+Citation on PubMed
+Orrell RW. ALS2-Related Disorder. 2005 Oct 21 [updated 2021 May 13].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1243/
+Citation on PubMed
+Panzeri C, De Palma C, Martinuzzi A, Daga A, De Polo G, Bresolin N, Miller CC,
+Tudor EL, Clementi E, Bassi MT. The first ALS2 missense mutation associated with
+JPLS reveals new aspects of alsin biological function. Brain. 2006 Jul;129(Pt
+7):1710-9. doi: 10.1093/brain/awl104. Epub 2006 May 2.
+Citation on PubMed
+Yang Y, Hentati A, Deng HX, Dabbagh O, Sasaki T, Hirano M, Hung WY, Ouahchi K,
+Yan J, Azim AC, Cole N, Gascon G, Yagmour A, Ben-Hamida M, Pericak-Vance M,
+Hentati F, Siddique T. The gene encoding alsin, a protein with three
+guanine-nucleotide exchange factor domains, is mutated in a form of recessive
+amyotrophic lateral sclerosis. Nat Genet. 2001 Oct;29(2):160-5. doi:
+10.1038/ng1001-160.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+Paralysis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

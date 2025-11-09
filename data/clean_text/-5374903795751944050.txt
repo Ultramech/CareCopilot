@@ -1,0 +1,129 @@
+Nicolaides-Baraitser syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Nicolaides-Baraitser syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/nicolaides-baraitser-syndrome/
+Nicolaides-Baraitser syndrome
+Description
+Nicolaides-Baraitser syndrome is a condition that affects many body systems. Affected individuals can have a wide variety of signs and symptoms, but the most common are sparse scalp hair, small head size (microcephaly), distinct facial features, short stature, prominent finger joints, unusually short
+fingers
+and
+toes
+(brachydactyly), recurrent seizures (epilepsy), and moderate to severe intellectual disability with impaired language development.
+In people with Nicolaides-Baraitser syndrome, the sparse scalp hair is often noticeable in infancy. The amount of hair decreases over time, but the growth rate and texture of the hair that is present is normal. Affected adults generally have very little hair. In rare cases, the amount of scalp hair increases over time. As affected individuals age, their eyebrows may become less full, but their eyelashes almost always remain normal. At birth, the hair on the face may be abnormally thick (hypertrichosis) but thins out over time.
+Most affected individuals grow slowly, resulting in short stature and microcephaly. Sometimes, growth before birth is unusually slow.
+The characteristic facial features of people with Nicolaides-Baraitser syndrome include a triangular face, deep-set eyes, a thin nasal bridge, wide nostrils, a pointed nasal tip, and a thick lower lip. Many affected individuals have a lack of fat under the skin (subcutaneous fat) of the face, which may cause premature wrinkling. Throughout their bodies, people with Nicolaides-Baraitser syndrome may have pale skin with veins that are visible on the skin surface due to the lack of subcutaneous fat.
+In people with Nicolaides-Baraitser syndrome,
+a lack of subcutaneous fat in the hands
+makes the finger joints appear larger than normal. Over time, the fingertips become broad and oval shaped. Additionally, there is a wide gap between the first and second toes (known as
+a sandal gap
+).
+Most people with Nicolaides-Baraitser syndrome have epilepsy, which often begins in infancy. Affected individuals can experience multiple seizure types, and the seizures can be difficult to control with medication.
+Almost everyone with Nicolaides-Baraitser syndrome has moderate to severe intellectual disability. Early developmental milestones, such as crawling and walking, are often normally achieved, but further development is limited, and language development is severely impaired. At least one-third of affected individuals never develop speech, while others lose their verbal communication over time. People with this condition are often described as having a happy demeanor and being very friendly, although they can exhibit moments of aggression and temper tantrums.
+Other signs and symptoms of Nicolaides-Baraitser syndrome include an inflammatory skin disorder called eczema. About half of individuals with Nicolaides-Baraitser syndrome have a
+soft out-pouching
+around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). Some affected individuals have dental abnormalities such as widely spaced teeth, delayed eruption of teeth, and absent teeth (hypodontia). Most affected males have undescended testes (cryptorchidism) and females may have underdeveloped breasts. Nearly half of individuals with Nicolaides-Baraitser syndrome have feeding problems.
+Frequency
+Nicolaides-Baraitser syndrome is likely a rare condition; approximately 75 cases have been reported in the scientific literature.
+Causes
+Nicolaides-Baraitser syndrome is caused by mutations in the
+SMARCA2
+gene. This gene provides instructions for making one piece (subunit) of a group of similar protein complexes known as SWI/SNF complexes. These complexes regulate gene activity (expression) by a process known as chromatin remodeling.
+Chromatin
+is the network of DNA and proteins that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. Chromatin remodeling is one way gene expression is regulated during development; when DNA is tightly packed, gene expression is lower than when DNA is loosely packed. To provide energy for chromatin remodeling, the SMARCA2 protein uses a molecule called ATP.
+The
+SMARCA2
+gene mutations that cause Nicolaides-Baraitser syndrome result in the production of an altered protein that interferes with the normal function of the SWI/SNF complexes. These altered proteins are able to form SWI/SNF complexes, but the complexes are nonfunctional. As a result, they cannot participate in chromatin remodeling. Disturbance of this regulatory process alters the activity of many genes, which likely explains the diverse signs and symptoms of Nicolaides-Baraitser syndrome.
+Learn more about the gene associated with Nicolaides-Baraitser syndrome
+SMARCA2
+Inheritance
+Nicolaides-Baraitser syndrome follows an
+autosomal dominant pattern
+of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+All cases of this condition result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+NBS
+NCBRS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Nicolaides-Baraitser syndrome
+Genetic and Rare Diseases Information Center
+Nicolaides-Baraitser syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NICOLAIDES-BARAITSER SYNDROME; NCBRS
+Scientific Articles on PubMed
+PubMed
+References
+Castori M, Covaciu C, Rinaldi R, Grammatico P, Paradisi M. A rare cause of
+syndromic hypotrichosis: Nicolaides-Baraitser syndrome. J Am Acad Dermatol. 2008
+Nov;59(5 Suppl):S92-8. doi: 10.1016/j.jaad.2008.05.016.
+Citation on PubMed
+Sousa SB, Abdul-Rahman OA, Bottani A, Cormier-Daire V, Fryer A,
+Gillessen-Kaesbach G, Horn D, Josifova D, Kuechler A, Lees M, MacDermot K, Magee
+A, Morice-Picard F, Rosser E, Sarkar A, Shannon N, Stolte-Dijkstra I, Verloes A,
+Wakeling E, Wilson L, Hennekam RC. Nicolaides-Baraitser syndrome: Delineation of
+the phenotype. Am J Med Genet A. 2009 Aug;149A(8):1628-40. doi:
+10.1002/ajmg.a.32956.
+Citation on PubMed
+Sousa SB, Hennekam RC; Nicolaides-Baraitser Syndrome International Consortium.
+Phenotype and genotype in Nicolaides-Baraitser syndrome. Am J Med Genet C Semin
+Med Genet. 2014 Sep;166C(3):302-14. doi: 10.1002/ajmg.c.31409. Epub 2014 Aug 28.
+Citation on PubMed
+Van Houdt JK, Nowakowska BA, Sousa SB, van Schaik BD, Seuntjens E, Avonce N,
+Sifrim A, Abdul-Rahman OA, van den Boogaard MJ, Bottani A, Castori M,
+Cormier-Daire V, Deardorff MA, Filges I, Fryer A, Fryns JP, Gana S, Garavelli L,
+Gillessen-Kaesbach G, Hall BD, Horn D, Huylebroeck D, Klapecki J,
+Krajewska-Walasek M, Kuechler A, Lines MA, Maas S, Macdermot KD, McKee S, Magee
+A, de Man SA, Moreau Y, Morice-Picard F, Obersztyn E, Pilch J, Rosser E, Shannon
+N, Stolte-Dijkstra I, Van Dijck P, Vilain C, Vogels A, Wakeling E, Wieczorek D,
+Wilson L, Zuffardi O, van Kampen AH, Devriendt K, Hennekam R, Vermeesch JR.
+Heterozygous missense mutations in SMARCA2 cause Nicolaides-Baraitser syndrome.
+Nat Genet. 2012 Feb 26;44(4):445-9, S1. doi: 10.1038/ng.1105.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+Seizures
+Speech and Language Problems in Children
+MEDICAL ENCYCLOPEDIA
+Genetics
+Microcephaly
+Short stature
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

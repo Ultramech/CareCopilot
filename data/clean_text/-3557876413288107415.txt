@@ -1,0 +1,130 @@
+CHILD syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+CHILD syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/child-syndrome/
+CHILD syndrome
+Description
+CHILD syndrome is a condition that affects the development of several parts of the body. The name of the condition is an acronym of the major features: congenital hemidysplasia with ichthyosiform erythroderma and limb defects. The signs and symptoms of this disorder may vary from person to person, but they are typically limited to only one side of the body ("hemi-" means "half," and "dysplasia" refers to abnormal growth). The right side of the body is affected more often than the left side.
+People with CHILD syndrome often have a skin condition characterized by large patches of skin that are red and inflamed (erythroderma) and covered with yellow, flaky scales (ichthyosis). This condition is most likely to occur in skin folds and creases and usually does not affect the face. The skin abnormalities are typically present at birth or appear within the first few weeks of life and may improve with time.
+CHILD syndrome may also disrupt the formation of the arms and legs during early development. Some children with this disorder have shortened bones in the fingers or toes, while others have shortened or missing limbs. The limb abnormalities typically occur on the same side of the body as the skin abnormalities.
+Some children have a curvature of the spine (scoliosis) or joint deformities that restrict movement (contractures). In some cases, CHILD syndrome affects the development of the brain, heart, lungs, and kidneys.
+Frequency
+CHILD syndrome is a rare disorder; fewer than 100 people with this condition have been reported in the medical literature. This condition occurs almost exclusively in females.
+Causes
+Variants (also called mutations) in the
+NSDHL
+gene cause CHILD syndrome. This gene provides instructions for making an enzyme that is involved in the production of cholesterol. Cholesterol is a type of fat that is produced in the body and obtained from foods that come from animals, particularly egg yolks, meat, and dairy products. Although high cholesterol levels are a well-known risk factor for heart disease, the body needs some cholesterol to develop and function normally both before and after birth. Cholesterol is an important component of cell membranes and the protective substance that covers nerve cells (
+myelin
+). Additionally, cholesterol plays a role in the production of certain hormones and digestive acids.
+The variants that cause CHILD syndrome change either the amount or the activity of the NSDHL enzyme, which disrupts the normal production of cholesterol within cells. Without enough of this enzyme, potentially toxic byproducts of cholesterol synthesis can build up in the body's tissues. Researchers suspect that low cholesterol levels can contribute to problems with the growth and development of many parts of the body. It is not known, however, exactly how a disturbance in cholesterol production leads to the specific features of CHILD syndrome.
+Learn more about the gene associated with CHILD syndrome
+NSDHL
+Inheritance
+This condition is inherited in an
+X-linked dominant
+pattern. The gene associated with this condition is located on the X chromosome, which is one of the two
+sex chromosomes
+. In females (who have two copies of the X chromosome), a variant in one of the two copies of the gene in each cell is sufficient to cause the disorder, although the signs and symptoms may be mild.
+Researchers believe that affected males (who have only one X chromosome) have more severe signs and symptoms and typically die before birth.
+Other Names for This Condition
+CHILD nevus
+Congenital hemidysplasia with ichthyosiform erythroderma and limb defects
+Congenital hemidysplasia with ichthyosiform nevus and limbs defects
+Ichthyosiform erythroderma, unilateral, with ipsilateral malformations, especially absence deformity of limbs
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Child syndrome
+Genetic and Rare Diseases Information Center
+CHILD syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CONGENITAL HEMIDYSPLASIA WITH ICHTHYOSIFORM ERYTHRODERMA AND LIMB DEFECTS
+Scientific Articles on PubMed
+PubMed
+References
+Bittar M, Happle R, Grzeschik KH, Leveleki L, Hertl M, Bornholdt D, Konig A.
+CHILD syndrome in 3 generations: the importance of mild or minimal skin lesions.
+Arch Dermatol. 2006 Mar;142(3):348-51. doi: 10.1001/archderm.142.3.348.
+Citation on PubMed
+Herman GE. Disorders of cholesterol biosynthesis: prototypic metabolic
+malformation syndromes. Hum Mol Genet. 2003 Apr 1;12 Spec No 1:R75-88. doi:
+10.1093/hmg/ddg072.
+Citation on PubMed
+Hummel M, Cunningham D, Mullett CJ, Kelley RI, Herman GE. Left-sided CHILD
+syndrome caused by a nonsense mutation in the NSDHL gene. Am J Med Genet A. 2003
+Oct 15;122A(3):246-51. doi: 10.1002/ajmg.a.20248.
+Citation on PubMed
+Kaminska-Winciorek G, Brzezinska-Wcislo L, Jezela-Stanek A, Krajewska-Walasek
+M, Cunningham D, Herman GE. CHILD syndrome: clinical picture and diagnostic
+procedures. J Eur Acad Dermatol Venereol. 2007 May;21(5):715-6. doi:
+10.1111/j.1468-3083.2006.02015.x. No abstract available.
+Citation on PubMed
+Kim CA, Konig A, Bertola DR, Albano LM, Gattas GJ, Bornholdt D, Leveleki L,
+Happle R, Grzeschik KH. CHILD syndrome caused by a deletion of exons 6-8 of the
+NSDHL gene. Dermatology. 2005;211(2):155-8. doi: 10.1159/000086448.
+Citation on PubMed
+Konig A, Happle R, Bornholdt D, Engel H, Grzeschik KH. Mutations in the NSDHL
+gene, encoding a 3beta-hydroxysteroid dehydrogenase, cause CHILD syndrome. Am J
+Med Genet. 2000 Feb 14;90(4):339-46.
+Citation on PubMed
+Konig A, Happle R, Fink-Puches R, Soyer HP, Bornholdt D, Engel H, Grzeschik
+KH. A novel missense mutation of NSDHL in an unusual case of CHILD syndrome
+showing bilateral, almost symmetric involvement. J Am Acad Dermatol. 2002
+Apr;46(4):594-6. doi: 10.1067/mjd.2002.113680.
+Citation on PubMed
+Kurban M, El Feghaly J, Hamie L. NSDHL-Related Disorders. 2011 Feb 1
+[updated 2024 Sep 5]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK51754/
+Citation on PubMed
+Porter FD. Human malformation syndromes due to inborn errors of cholesterol
+synthesis. Curr Opin Pediatr. 2003 Dec;15(6):607-13. doi:
+10.1097/00008480-200312000-00011.
+Citation on PubMed
+Ramphul K, Kota V, Sathe NC, Mejias SG. CHILD Syndrome. 2024 Feb 2. In:
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
+Available from http://www.ncbi.nlm.nih.gov/books/NBK507813/
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

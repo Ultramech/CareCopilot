@@ -1,0 +1,122 @@
+Mannose-binding lectin deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Mannose-binding lectin deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/mannose-binding-lectin-deficiency/
+Mannose-binding lectin deficiency
+Description
+Mannose-binding lectin deficiency is a condition that affects the immune system. People with this condition have low levels (deficiency) of an immune system protein called mannose-binding lectin in their blood. Whether this deficiency makes affected individuals prone to recurrent infections is not clear.
+People with mannose-binding lectin deficiency can develop infections of the upper respiratory tract and other body systems. Individuals with this condition may also contract more serious infections such as pneumonia and meningitis. Depending on the type of infection, the symptoms caused by the infections vary in frequency and severity.
+Infants and young children with mannose-binding lectin deficiency seem to be more susceptible to infections than affected adults, but adults can also develop recurrent infections. In addition, affected individuals undergoing chemotherapy or taking drugs that suppress the immune system are especially prone to infections.
+Frequency
+Mannose-binding lectin deficiency is thought to affect approximately 5 to 10 percent of people worldwide; however, many affected individuals have no signs or symptoms related to low mannose-binding lectin levels. The condition is more common in certain populations, such as sub-Saharan Africans.
+Causes
+Relatively common mutations in the
+MBL2
+gene can lead to mannose-binding lectin deficiency. This gene provides instructions for making a protein that assembles into a complex called mannose-binding lectin. Functional mannose-binding lectins are made up of two to six protein groups called trimers, which are each composed of three of the protein pieces (subunits) produced from the
+MBL2
+gene.
+Mannose-binding lectin plays an important role in the body's immune response by attaching to foreign invaders such as bacteria, viruses, or yeast and turning on (activating) the
+complement system
+. The complement system is a group of immune system proteins that work together to destroy foreign invaders (pathogens), trigger inflammation, and remove debris from cells and tissues. Mannose-binding lectin can also stimulate special immune cells to engulf and break down the attached pathogen.
+Mutations in the
+MBL2
+gene can reduce the production of the mannose-binding lectin subunit or eliminate the subunit's ability to assemble into functional mannose-binding lectin. A decrease in the availability of the normal subunit protein may lead to a reduction of the functional mannose-binding lectin in blood. With decreased levels of mannose-binding lectin, the body does not recognize and fight foreign invaders efficiently. Consequently, infections can be more common in people with this condition.
+However, not everyone with a change in the
+MBL2
+gene has decreased levels of mannose-binding lectin, and not everyone with decreased protein levels is prone to infection. Researchers believe that a number of factors, including other genetic and environmental factors, are involved in the development of mannose-binding lectin deficiency and susceptibility to infection.
+Learn more about the gene associated with Mannose-binding lectin deficiency
+MBL2
+Inheritance
+The inheritance pattern of mannose-binding lectin deficiency is unclear. Some reports show that having a disease-associated mutation in one copy of the
+MBL2
+gene in each cell can lead to the condition, while other reports state that a mutation in both copies of the gene is necessary. It is important to note that people inherit an increased risk of developing mannose-binding lectin deficiency, not the condition itself. Not all people who inherit mutations in this gene will develop the condition.
+Other Names for This Condition
+Mannose-binding lectin protein deficiency
+Mannose-binding protein deficiency
+MBL deficiency
+MBL2 deficiency
+MBP deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Mannose-binding lectin deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MANNOSE-BINDING LECTIN DEFICIENCY; MBLD
+Scientific Articles on PubMed
+PubMed
+References
+Arora M, Munoz E, Tenner AJ. Identification of a site on mannan-binding lectin
+critical for enhancement of phagocytosis. J Biol Chem. 2001 Nov
+16;276(46):43087-94. doi: 10.1074/jbc.M105455200. Epub 2001 Aug 30.
+Citation on PubMed
+Bouwman LH, Roep BO, Roos A. Mannose-binding lectin: clinical implications for
+infection, transplantation, and autoimmunity. Hum Immunol. 2006
+Apr-May;67(4-5):247-56. doi: 10.1016/j.humimm.2006.02.030. Epub 2006 Apr 17.
+Citation on PubMed
+Degn SE, Jensenius JC, Thiel S. Disease-causing mutations in genes of the
+complement system. Am J Hum Genet. 2011 Jun 10;88(6):689-705. doi:
+10.1016/j.ajhg.2011.05.011.
+Citation on PubMed
+or
+Free article on PubMed Central
+Martin P, Lerner A, Johnson L, Lerner DL, Haraguchi S, Good RA, Day NK.
+Inherited mannose-binding lectin deficiency as evidenced by genetic and
+immunologic analyses: association with severe recurrent infections. Ann Allergy
+Asthma Immunol. 2003 Oct;91(4):386-92. doi: 10.1016/S1081-1206(10)61686-9.
+Citation on PubMed
+Ram S, Lewis LA, Rice PA. Infections of people with complement deficiencies
+and patients who have undergone splenectomy. Clin Microbiol Rev. 2010
+Oct;23(4):740-80. doi: 10.1128/CMR.00048-09.
+Citation on PubMed
+or
+Free article on PubMed Central
+Turner MW. The role of mannose-binding lectin in health and disease. Mol
+Immunol. 2003 Nov;40(7):423-9. doi: 10.1016/s0161-5890(03)00155-x.
+Citation on PubMed
+Weis WI, Drickamer K, Hendrickson WA. Structure of a C-type mannose-binding
+protein complexed with an oligosaccharide. Nature. 1992 Nov 12;360(6400):127-34.
+doi: 10.1038/360127a0.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Immune response
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

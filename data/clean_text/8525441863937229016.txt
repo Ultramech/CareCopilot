@@ -1,0 +1,113 @@
+Craniofacial-deafness-hand syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Craniofacial-deafness-hand syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/craniofacial-deafness-hand-syndrome/
+Craniofacial-deafness-hand syndrome
+Description
+Craniofacial-deafness-hand syndrome is characterized by distinctive facial features, profound hearing loss, and hand abnormalities.
+The distinctive facial features of people with craniofacial-deafness-hand syndrome result from a variety of developmental abnormalities involving the skull (cranium) and face. Affected individuals often have underdeveloped or absent nasal bones resulting in a small nose, thin nostrils, and a
+flattened mid-face
+with a
+flat nasal bridge
+. Individuals with this condition typically also have widely spaced eyes (ocular
+hypertelorism
+), narrowed openings of the eyes (narrowed palpebral fissures), a small upper jaw (hypoplastic maxilla), and a
+small mouth
+with pursed lips.
+People with this condition also have profound hearing loss that is caused by abnormalities in the
+inner ear
+(sensorineural deafness). Hearing loss in these individuals is present from birth.
+In affected individuals, a common abnormality of the muscles in the hand is a malformation in which all of the fingers are angled outward toward the fifth finger (
+ulnar deviation
+). People with craniofacial-deafness-hand syndrome may also have permanently bent third, fourth, and fifth fingers (
+camptodactyly
+), which can limit finger movement and lead to joint deformities called contractures. Contractures in the wrist can further impair hand movements.
+Frequency
+Craniofacial-deafness-hand syndrome is an extremely rare condition. Only a few cases have been reported in the scientific literature.
+Causes
+Craniofacial-deafness-hand syndrome is caused by mutations in the
+PAX3
+gene. The
+PAX3
+gene plays a critical role in the formation of tissues and organs during embryonic development. To perform this function, the gene provides instructions for making a protein that attaches (binds) to specific areas of DNA to help control the activity of particular genes. During embryonic development, the
+PAX3
+gene is active in cells called neural crest cells. These cells migrate from the developing spinal cord to specific regions in the embryo. The protein produced from the
+PAX3
+gene directs the activity of other genes that signal neural crest cells to form specialized tissues or cell types. These include some nerve tissues, bones in the face and skull (craniofacial bones), and muscle tissue.
+At least one
+PAX3
+gene mutation has been identified in individuals with craniofacial-deafness-hand syndrome. This mutation appears to affect the ability of the PAX3 protein to bind to DNA. As a result, the PAX3 protein cannot control the activity of other genes and cannot regulate the differentiation of neural crest cells. A lack of specialization of neural crest cells leads to the impaired growth of craniofacial bones, nerve tissue, and muscles seen in craniofacial-deafness-hand syndrome.
+Learn more about the gene associated with Craniofacial-deafness-hand syndrome
+PAX3
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+CDHS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Craniofacial-deafness-hand syndrome
+Genetic and Rare Diseases Information Center
+Craniofacial-deafness-hand syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CRANIOFACIAL-DEAFNESS-HAND SYNDROME; CDHS
+Scientific Articles on PubMed
+PubMed
+References
+Asher JH Jr, Sommer A, Morell R, Friedman TB. Missense mutation in the paired
+domain of PAX3 causes craniofacial-deafness-hand syndrome. Hum Mutat.
+1996;7(1):30-5. doi: 10.1002/(SICI)1098-1004(1996)7:13.0.CO;2-T.
+Citation on PubMed
+Birrane G, Soni A, Ladias JA. Structural basis for DNA recognition by the
+human PAX3 homeodomain. Biochemistry. 2009 Feb 17;48(6):1148-55. doi:
+10.1021/bi802052y.
+Citation on PubMed
+Sommer A, Bartholomew DW. Craniofacial-deafness-hand syndrome revisited. Am J
+Med Genet A. 2003 Nov 15;123A(1):91-4. doi: 10.1002/ajmg.a.20501.
+Citation on PubMed
+Related Health Topics
+Craniofacial Abnormalities
+Genetic Disorders
+Hand Injuries and Disorders
+Hearing Disorders and Deafness
+MEDICAL ENCYCLOPEDIA
+Contracture deformity
+Genetics
+Sensorineural deafness
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

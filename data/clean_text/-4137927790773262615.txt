@@ -1,0 +1,144 @@
+Chanarin-Dorfman syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Chanarin-Dorfman syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/chanarin-dorfman-syndrome/
+Chanarin-Dorfman syndrome
+Description
+Chanarin-Dorfman syndrome is a condition in which fats (lipids) build up in the body. Affected individuals have trouble breaking down certain fats called triglycerides; these fats then accumulate in organs and tissues, including the skin, liver, muscles, intestine, and bone marrow.
+People with Chanarin-Dorfman syndrome have dry, scaly skin (ichthyosis), which is usually present at birth. They may also have lower eyelids that turn out so that the inner surface is exposed (ectropion). Additional features of Chanarin-Dorfman syndrome may include an enlarged liver (hepatomegaly), clouding of the lens of the eyes (
+cataracts
+), hearing loss, short stature, progressive muscle weakness (myopathy), and intellectual disabilities. Some people with Chanarin-Dorfman syndrome develop liver failure.
+The signs and symptoms of Chanarin-Dorfman syndrome can vary greatly among individuals, which can delay the diagnosis of the condition.
+Frequency
+Chanarin-Dorfman syndrome is a rare condition. Approximately 150 people with this condition have been reported in the literature.
+Causes
+Several variants (also called mutations) in the
+ABHD5
+gene have been found to cause Chanarin-Dorfman syndrome. The
+ABHD5
+gene provides instructions for making a protein that turns on (activates) an enzyme called adipose triglyceride lipase (ATGL). This enzyme breaks down triglycerides, which are a major source of stored energy in cells. The ATGL enzyme helps break triglycerides down into simpler molecules called fatty acids, which the body can then use for energy.
+ABHD5
+gene variants impair the protein's ability to activate the ATGL enzyme. If there is not enough activated ATGL enzyme to break down triglycerides, these fats can accumulate in tissues throughout the body. Over time, the buildup of triglycerides can damage cells and tissues, leading to the signs and symptoms of Chanarin-Dorfman syndrome.
+Learn more about the gene associated with Chanarin-Dorfman syndrome
+ABHD5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CDS
+Chanarin-Dorfman disease
+DCS
+Dorfman-Chanarin disease
+Dorfman-Chanarin syndrome
+Ichthyosiform Erythroderma with Leukocyte Vacuolation
+Ichthyotic neutral lipid storage disease
+Neutral lipid storage disease with ichthyosis
+NLSDI
+Triglyceride storage disease with ichthyosis
+Triglyceride storage disease with impaired long-chain fatty acid oxidation
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Triglyceride storage disease with ichthyosis
+Genetic and Rare Diseases Information Center
+Neutral lipid storage disease with ichthyosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CHANARIN-DORFMAN SYNDROME; CDS
+Scientific Articles on PubMed
+PubMed
+References
+Bruno C, Bertini E, Di Rocco M, Cassandrini D, Ruffa G, De Toni T, Seri M,
+Spada M, Li Volti G, D'Amico A, Trucco F, Arca M, Casali C, Angelini C, Dimauro
+S, Minetti C. Clinical and genetic characterization of Chanarin-Dorfman syndrome.
+Biochem Biophys Res Commun. 2008 May 16;369(4):1125-8. doi:
+10.1016/j.bbrc.2008.03.010. Epub 2008 Mar 11.
+Citation on PubMed
+Bruno C, Dimauro S. Lipid storage myopathies. Curr Opin Neurol. 2008
+Oct;21(5):601-6. doi: 10.1097/WCO.0b013e32830dd5a6.
+Citation on PubMed
+Cakmak E, Bagci G. Chanarin-Dorfman Syndrome: A comprehensive review. Liver
+Int. 2021 May;41(5):905-914. doi: 10.1111/liv.14794. Epub 2021 Mar 18.
+Citation on PubMed
+Elias PM, Williams ML, Holleran WM, Jiang YJ, Schmuth M. Pathogenesis of
+permeability barrier abnormalities in the ichthyoses: inherited disorders of
+lipid metabolism. J Lipid Res. 2008 Apr;49(4):697-714. doi:
+10.1194/jlr.R800002-JLR200. Epub 2008 Feb 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lass A, Zimmermann R, Haemmerle G, Riederer M, Schoiswohl G, Schweiger M,
+Kienesberger P, Strauss JG, Gorkiewicz G, Zechner R. Adipose triglyceride
+lipase-mediated lipolysis of cellular fat stores is activated by CGI-58 and
+defective in Chanarin-Dorfman Syndrome. Cell Metab. 2006 May;3(5):309-19. doi:
+10.1016/j.cmet.2006.03.005.
+Citation on PubMed
+Lefevre C, Jobard F, Caux F, Bouadjar B, Karaduman A, Heilig R, Lakhdar H,
+Wollenberg A, Verret JL, Weissenbach J, Ozguc M, Lathrop M, Prud'homme JF,
+Fischer J. Mutations in CGI-58, the gene encoding a new protein of the
+esterase/lipase/thioesterase subfamily, in Chanarin-Dorfman syndrome. Am J Hum
+Genet. 2001 Nov;69(5):1002-12. doi: 10.1086/324121. Epub 2001 Oct 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mangukiya NP, Kaleem S, Meghana DR, Ishfaq L, Kochhar G, Mathew B, Pulekar S,
+Lainingwala AC, Parmar MP, Venugopal V. Chanarin-Dorfman Syndrome (CDS): A Rare
+Lipid Metabolism Disorder. Cureus. 2023 Aug 21;15(8):e43889. doi:
+10.7759/cureus.43889. eCollection 2023 Aug.
+Citation on PubMed
+Pennisi EM, Arca M, Bertini E, Bruno C, Cassandrini D, D'amico A, Garibaldi M,
+Gragnani F, Maggi L, Massa R, Missaglia S, Morandi L, Musumeci O, Pegoraro E,
+Rastelli E, Santorelli FM, Tasca E, Tavian D, Toscano A, Angelini C; Italian NLSD
+Group. Neutral Lipid Storage Diseases: clinical/genetic features and natural
+history in a large cohort of Italian patients. Orphanet J Rare Dis. 2017 May
+12;12(1):90. doi: 10.1186/s13023-017-0646-9.
+Citation on PubMed
+Pujol RM, Gilaberte M, Toll A, Florensa L, Lloreta J, Gonzalez-Ensenat MA,
+Fischer J, Azon A. Erythrokeratoderma variabilis-like ichthyosis in
+Chanarin-Dorfman syndrome. Br J Dermatol. 2005 Oct;153(4):838-41. doi:
+10.1111/j.1365-2133.2005.06828.x.
+Citation on PubMed
+Related Health Topics
+Cataract
+Genetic Disorders
+Lipid Metabolism Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Ichthyosis vulgaris
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

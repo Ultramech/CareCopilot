@@ -1,0 +1,220 @@
+Cardiofaciocutaneous syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cardiofaciocutaneous syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/cardiofaciocutaneous-syndrome/
+Cardiofaciocutaneous syndrome
+Description
+Cardiofaciocutaneous syndrome is a disorder that affects many parts of the body, particularly the
+heart
+(cardio-), facial features (facio-), and the skin and hair (cutaneous). People with this condition also have delayed development and intellectual disability, usually ranging from moderate to severe.
+Heart defects occur in most people with cardiofaciocutaneous syndrome. The heart problems most commonly associated with this condition include malformations of one of the heart valves that impairs blood flow from the heart to the lungs (pulmonic stenosis), a hole between the two upper chambers of the heart (
+atrial septal defect
+), and a form of heart disease that enlarges and weakens the heart muscle (hypertrophic cardiomyopathy).
+Cardiofaciocutaneous syndrome is also characterized by distinctive facial features. These include a
+high forehead that narrows at the temples
+, a
+short nose
+, widely spaced eyes (
+ocular hypertelorism
+), outside corners of the eyes that point downward (
+down-slanting palpebral fissures
+), droopy eyelids (
+ptosis
+), a
+small chin
+, and low-set ears. Overall, the face is
+broad
+and
+long
+, and the facial features are sometimes described as "
+coarse
+."
+Skin abnormalities occur in almost everyone with cardiofaciocutaneous syndrome. Many affected people have dry, rough skin; dark-colored moles (nevi); wrinkled palms and soles; and a skin condition called keratosis pilaris, which causes small bumps to form on the arms, legs, and face. People with cardiofaciocutaneous syndrome also tend to have thin, dry, curly hair and
+sparse or absent eyelashes
+and eyebrows.
+Infants with cardiofaciocutaneous syndrome typically have weak muscle tone (hypotonia), feeding difficulties, and a failure to grow and gain weight at the normal rate (failure to thrive). Additional features of this disorder in children and adults can include an unusually large head (
+macrocephaly
+), short stature, problems with vision, and seizures.
+The signs and symptoms of cardiofaciocutaneous syndrome overlap significantly with those of two other genetic conditions,
+Costello syndrome
+and
+Noonan syndrome
+. The three conditions are distinguished by their genetic cause and specific patterns of signs and symptoms; however, it can be difficult to tell these conditions apart, particularly in infancy. Unlike Costello syndrome, which significantly increases a person's cancer risk, cancer does not appear to be a major feature of cardiofaciocutaneous syndrome.
+Frequency
+Cardiofaciocutaneous syndrome is a very rare condition whose incidence is unknown. Researchers estimate that 200 to 300 people worldwide have this condition.
+Causes
+Cardiofaciocutaneous syndrome can be caused by variants (also known as mutations) in several genes. Variants in the
+BRAF
+gene are most common, accounting for 75 to 80 percent of all cases. Another 10 to 15 percent of cases result from variants in one of two similar genes,
+MAP2K1
+and
+MAP2K2
+. Fewer than 5 percent of cases are caused by variants in the
+KRAS
+gene.
+The
+BRAF
+,
+MAP2K1
+,
+MAP2K2
+, and
+KRAS
+genes provide instructions for making proteins that work together to transmit chemical signals from outside the cell to the cell's nucleus. This chemical signaling pathway, known as the RAS/MAPK pathway, is essential for normal development before birth. It helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement, and the self-destruction of cells (apoptosis).
+Variants in any of these genes can result in the characteristic features of cardiofaciocutaneous syndrome. The protein made from the altered gene is overactive, which alters tightly regulated chemical signaling during development. The altered signaling interferes with the development of many organs and tissues, leading to the signs and symptoms of cardiofaciocutaneous syndrome.
+Some people with the signs and symptoms of cardiofaciocutaneous syndrome do not have an identified variant in the
+BRAF
+,
+MAP2K1
+,
+MAP2K2
+, or
+KRAS
+gene. In these cases, affected individuals may actually have Costello syndrome or Noonan syndrome, which are also caused by variants in genes involved in RAS/MAPK signaling. The proteins produced from these genes are all part of the same chemical signaling pathway, which helps explain why variants in different genes can cause conditions with such similar signs and symptoms. The group of related conditions that includes cardiofaciocutaneous syndrome, Costello syndrome, and Noonan syndrome is often called the RASopathies.
+Learn more about the genes associated with Cardiofaciocutaneous syndrome
+BRAF
+KRAS
+MAP2K1
+MAP2K2
+Inheritance
+Cardiofaciocutaneous syndrome is considered to be an autosomal dominant condition, which means one copy of an altered gene in each cell is sufficient to cause the disorder.
+Cardiofaciocutaneous syndrome usually results from
+new gene variants
+and occurs in people with no history of the disorder in their family. In a few reported cases, an affected person has inherited the condition from
+an affected parent
+.
+Other Names for This Condition
+Cardio-facio-cutaneous syndrome
+CFC syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cardio-facio-cutaneous syndrome
+Genetic and Rare Diseases Information Center
+Cardiofaciocutaneous syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CARDIOFACIOCUTANEOUS SYNDROME 1; CFC1
+Scientific Articles on PubMed
+PubMed
+References
+Allanson JE, Anneren G, Aoki Y, Armour CM, Bondeson ML, Cave H, Gripp KW, Kerr
+B, Nystrom AM, Sol-Church K, Verloes A, Zenker M. Cardio-facio-cutaneous
+syndrome: does genotype predict phenotype? Am J Med Genet C Semin Med Genet. 2011
+May 15;157C(2):129-35. doi: 10.1002/ajmg.c.30295. Epub 2011 Apr 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Armour CM, Allanson JE. Further delineation of cardio-facio-cutaneous
+syndrome: clinical features of 38 individuals with proven mutations. J Med Genet.
+2008 Apr;45(4):249-54. doi: 10.1136/jmg.2007.054460. Epub 2007 Nov 26.
+Citation on PubMed
+Gripp KW, Lin AE, Nicholson L, Allen W, Cramer A, Jones KL, Kutz W, Peck D,
+Rebolledo MA, Wheeler PG, Wilson W, Al-Rahawan MM, Stabley DL, Sol-Church K.
+Further delineation of the phenotype resulting from BRAF or MEK1 germline
+mutations helps differentiate cardio-facio-cutaneous syndrome from Costello
+syndrome. Am J Med Genet A. 2007 Jul 1;143A(13):1472-80. doi:
+10.1002/ajmg.a.31815.
+Citation on PubMed
+Narumi Y, Aoki Y, Niihori T, Neri G, Cave H, Verloes A, Nava C, Kavamura MI,
+Okamoto N, Kurosawa K, Hennekam RC, Wilson LC, Gillessen-Kaesbach G, Wieczorek D,
+Lapunzina P, Ohashi H, Makita Y, Kondo I, Tsuchiya S, Ito E, Sameshima K, Kato K,
+Kure S, Matsubara Y. Molecular and clinical characterization of
+cardio-facio-cutaneous (CFC) syndrome: overlapping clinical manifestations with
+Costello syndrome. Am J Med Genet A. 2007 Apr 15;143A(8):799-807. doi:
+10.1002/ajmg.a.31658.
+Citation on PubMed
+Nava C, Hanna N, Michot C, Pereira S, Pouvreau N, Niihori T, Aoki Y, Matsubara
+Y, Arveiler B, Lacombe D, Pasmant E, Parfait B, Baumann C, Heron D, Sigaudy S,
+Toutain A, Rio M, Goldenberg A, Leheup B, Verloes A, Cave H.
+Cardio-facio-cutaneous and Noonan syndromes due to mutations in the RAS/MAPK
+signalling pathway: genotype-phenotype relationships and overlap with Costello
+syndrome. J Med Genet. 2007 Dec;44(12):763-71. doi: 10.1136/jmg.2007.050450. Epub
+2007 Aug 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rauen KA, Tidyman WE, Estep AL, Sampath S, Peltier HM, Bale SJ, Lacassie Y.
+Molecular and functional analysis of a novel MEK2 mutation in
+cardio-facio-cutaneous syndrome: transmission through four generations. Am J Med
+Genet A. 2010 Apr;152A(4):807-14. doi: 10.1002/ajmg.a.33342.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rauen KA. Cardiofaciocutaneous Syndrome. 2007 Jan 18 [updated 2023 Feb 9]. In:
+Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1186/
+Citation on PubMed
+Rauen KA. Distinguishing Costello versus cardio-facio-cutaneous syndrome: BRAF
+mutations in patients with a Costello phenotype. Am J Med Genet A. 2006 Aug
+1;140(15):1681-3. doi: 10.1002/ajmg.a.31315. No abstract available.
+Citation on PubMed
+Roberts A, Allanson J, Jadico SK, Kavamura MI, Noonan J, Opitz JM, Young T,
+Neri G. The cardiofaciocutaneous syndrome. J Med Genet. 2006 Nov;43(11):833-42.
+doi: 10.1136/jmg.2006.042796. Epub 2006 Jul 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schulz AL, Albrecht B, Arici C, van der Burgt I, Buske A, Gillessen-Kaesbach
+G, Heller R, Horn D, Hubner CA, Korenke GC, Konig R, Kress W, Kruger G, Meinecke
+P, Mucke J, Plecko B, Rossier E, Schinzel A, Schulze A, Seemanova E, Seidel H,
+Spranger S, Tuysuz B, Uhrig S, Wieczorek D, Kutsche K, Zenker M. Mutation and
+phenotypic spectrum in patients with cardio-facio-cutaneous and Costello
+syndrome. Clin Genet. 2008 Jan;73(1):62-70. doi:
+10.1111/j.1399-0004.2007.00931.x. Epub 2007 Nov 27.
+Citation on PubMed
+Yoon G, Rosenberg J, Blaser S, Rauen KA. Neurological complications of
+cardio-facio-cutaneous syndrome. Dev Med Child Neurol. 2007 Dec;49(12):894-9.
+doi: 10.1111/j.1469-8749.2007.00894.x.
+Citation on PubMed
+Zenker M. Clinical manifestations of mutations in RAS and related
+intracellular signal transduction factors. Curr Opin Pediatr. 2011
+Aug;23(4):443-51. doi: 10.1097/MOP.0b013e32834881dd.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Congenital Heart Defects
+Craniofacial Abnormalities
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+BRAF Genetic Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

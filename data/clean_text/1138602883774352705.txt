@@ -1,0 +1,120 @@
+Ocular albinism: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Ocular albinism
+URL of this page: https://medlineplus.gov/genetics/condition/ocular-albinism/
+Ocular albinism
+Description
+Ocular albinism is a genetic condition that primarily affects the eyes. This condition reduces the coloring (pigmentation) of the iris, which is the colored part of the eye, and the
+retina
+, which is the light-sensitive tissue at the back of the eye. Pigmentation in the eye is essential for normal vision.
+Ocular albinism is characterized by severely impaired sharpness of vision (visual acuity) and problems with combining vision from both eyes to perceive depth (stereoscopic vision). Although the vision loss is permanent, it does not worsen over time. Other eye abnormalities associated with this condition include rapid, involuntary eye movements (nystagmus); eyes that do not look in the same direction (strabismus); and increased sensitivity to light (photophobia). Many affected individuals also have abnormalities involving the optic nerves, which carry visual information from the eye to the brain.
+Unlike some other forms of albinism, ocular albinism does not significantly affect the color of the skin and hair. People with this condition may have a somewhat lighter complexion than other members of their family, but these differences are usually minor.
+The most common form of ocular albinism is known as the Nettleship-Falls type or type 1. Other forms of ocular albinism are much rarer and may be associated with additional signs and symptoms, such as hearing loss.
+Frequency
+The most common form of this disorder, ocular albinism type 1, affects at least 1 in 60,000 males. The classic signs and symptoms of this condition are much less common in females.
+Causes
+Ocular albinism type 1 results from mutations in the
+GPR143
+gene. This gene provides instructions for making a protein that plays a role in pigmentation of the eyes and skin. It helps control the growth of melanosomes, which are cellular structures that produce and store a pigment called melanin. Melanin is the substance that gives skin, hair, and eyes their color. In the retina, this pigment also plays a role in normal vision.
+Most mutations in the
+GPR143
+gene alter the size or shape of the GPR143 protein. Many of these genetic changes prevent the protein from reaching melanosomes to control their growth. In other cases, the protein reaches melanosomes normally but mutations disrupt the protein's function. As a result of these changes, melanosomes in skin cells and the retina can grow abnormally large. Researchers are uncertain how these giant melanosomes are related to vision loss and other eye abnormalities in people with ocular albinism.
+Rare cases of ocular albinism are not caused by mutations in the
+GPR143
+gene. In these cases, the genetic cause of the condition is often unknown.
+Learn more about the gene associated with Ocular albinism
+GPR143
+Inheritance
+Ocular albinism type 1 is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the
+GPR143
+gene in each cell is sufficient to cause the characteristic features of ocular albinism. Because females have two copies of the X chromosome, women with only one copy of a
+GPR143
+mutation in each cell usually do not experience vision loss or other significant eye abnormalities. They may have mild changes in retinal pigmentation that can be detected during an eye examination.
+Other Names for This Condition
+Albinism, ocular
+OA
+XLOA
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Aland island eye disease
+Genetic Testing Registry: Ocular albinism with late-onset sensorineural deafness
+Genetic Testing Registry: Ocular albinism, type I
+Genetic and Rare Diseases Information Center
+Ocular albinism with late-onset sensorineural deafness
+X-linked recessive ocular albinism
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ALBINISM, OCULAR, WITH LATE-ONSET SENSORINEURAL DEAFNESS; OASD
+ALBINISM, OCULAR, TYPE I; OA1
+ALBINISM, OCULOCUTANEOUS, TYPE IB; OCA1B
+Scientific Articles on PubMed
+PubMed
+References
+Camand O, Boutboul S, Arbogast L, Roche O, Sternberg C, Sutherland J, Levin A,
+Heon E, Menasche M, Dufier J, Abitbol M. Mutational analysis of the OA1 gene in
+ocular albinism. Ophthalmic Genet. 2003 Sep;24(3):167-73. doi:
+10.1076/opge.24.3.167.15605.
+Citation on PubMed
+Cortese K, Giordano F, Surace EM, Venturi C, Ballabio A, Tacchetti C, Marigo
+V. The ocular albinism type 1 (OA1) gene controls melanosome maturation and size.
+Invest Ophthalmol Vis Sci. 2005 Dec;46(12):4358-64. doi: 10.1167/iovs.05-0834.
+Citation on PubMed
+Lewis RA. Ocular Albinism, X-Linked - RETIRED CHAPTER, FOR HISTORICAL
+REFERENCE ONLY. 2004 Mar 12 [updated 2015 Nov 19]. In: Adam MP, Feldman J, Mirzaa
+GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1343/
+Citation on PubMed
+Oetting WS. New insights into ocular albinism type 1 (OA1): Mutations and
+polymorphisms of the OA1 gene. Hum Mutat. 2002 Feb;19(2):85-92. doi:
+10.1002/humu.10034.
+Citation on PubMed
+Tak WJ, Kim MN, Hong CK, Ro BI, Song KY, Seo SJ. Ocular albinism with
+sensorineural deafness. Int J Dermatol. 2004 Apr;43(4):290-2. doi:
+10.1111/j.1365-4632.2004.01857.x. No abstract available.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eye Diseases
+Genetic Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Albinism
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

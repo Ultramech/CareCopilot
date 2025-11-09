@@ -1,0 +1,117 @@
+Pyruvate carboxylase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pyruvate carboxylase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/pyruvate-carboxylase-deficiency/
+Pyruvate carboxylase deficiency
+Description
+Pyruvate carboxylase deficiency is an inherited disorder that causes lactic acid and other potentially toxic compounds to accumulate in the blood. High levels of these substances can damage the body's organs and tissues, particularly in the nervous system.
+Researchers have identified at least three types of pyruvate carboxylase deficiency, which are distinguished by the severity of their signs and symptoms. Type A, which has been identified mostly in people from North America, has severe symptoms that begin in infancy. Characteristic features include developmental delay and a buildup of lactic acid in the blood (lactic acidosis). Increased acidity in the blood can lead to vomiting, abdominal pain, extreme tiredness (fatigue), muscle weakness, and difficulty breathing. In some cases, episodes of lactic acidosis are triggered by an illness or periods without food (fasting). Children with pyruvate carboxylase deficiency type A typically survive only into infancy or early childhood.
+Pyruvate carboxylase deficiency type B has life-threatening signs and symptoms that become apparent shortly after birth. This form of the condition has been reported mostly in Europe, particularly France. Affected infants have severe lactic acidosis, a buildup of ammonia in the blood (hyperammonemia), and liver failure. They experience neurological problems including weak muscle tone (hypotonia), abnormal movements, seizures, and coma. Infants with this form of the condition usually survive for less than 3 months after birth.
+A milder form of pyruvate carboxylase deficiency, sometimes called type C, has also been described. This type is characterized by slightly increased levels of lactic acid in the blood and minimal signs and symptoms affecting the nervous system.
+Frequency
+Pyruvate carboxylase deficiency is a rare condition, with an estimated incidence of 1 in 250,000 births worldwide. Type A appears to be much more common in some Algonkian Indian tribes in eastern Canada.
+Causes
+Mutations in the
+PC
+gene cause pyruvate carboxylase deficiency. This gene provides instructions for making an enzyme called pyruvate carboxylase. This enzyme is active in
+mitochondria
+, which are the energy-producing centers within cells. It is involved in several important cellular functions, including the generation of glucose, a simple sugar that is the body's main energy source. Pyruvate carboxylase also plays a role in the formation of the protective sheath that surrounds certain nerve cells (myelin) and the production of brain chemicals called
+neurotransmitters
+that allow nerve cells to communicate with one another.
+Mutations in the
+PC
+gene reduce the amount of pyruvate carboxylase in cells or disrupt the enzyme's activity. The missing or altered enzyme cannot carry out its essential role in generating glucose, which impairs the body's ability to make energy in mitochondria. Additionally, a loss of pyruvate carboxylase allows compounds such as lactic acid and ammonia to build up and damage organs and tissues. Researchers suggest that the loss of pyruvate carboxylase function in the nervous system, particularly the role of the enzyme in myelin formation and neurotransmitter production, also contributes to the neurologic features of pyruvate carboxylase deficiency.
+Learn more about the gene associated with Pyruvate carboxylase deficiency
+PC
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Ataxia with lactic acidosis, type II
+Leigh necrotizing encephalopathy due to pyruvate carboxylase deficiency
+Leigh syndrome due to pyruvate carboxylase deficiency
+PC deficiency
+Pyruvate carboxylase deficiency disease
+Type II ataxia with lactic acidosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pyruvate carboxylase deficiency
+Genetic and Rare Diseases Information Center
+Pyruvate carboxylase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PYRUVATE CARBOXYLASE DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Carbone MA, MacKay N, Ling M, Cole DE, Douglas C, Rigat B, Feigenbaum A,
+Clarke JT, Haworth JC, Greenberg CR, Seargeant L, Robinson BH. Amerindian
+pyruvate carboxylase deficiency is associated with two distinct missense
+mutations. Am J Hum Genet. 1998 Jun;62(6):1312-9. doi: 10.1086/301884.
+Citation on PubMed
+or
+Free article on PubMed Central
+De Meirleir L. Disorders of pyruvate metabolism. Handb Clin Neurol.
+2013;113:1667-73. doi: 10.1016/B978-0-444-59565-2.00034-4.
+Citation on PubMed
+Garcia-Cazorla A, Rabier D, Touati G, Chadefaux-Vekemans B, Marsac C, de
+Lonlay P, Saudubray JM. Pyruvate carboxylase deficiency: metabolic
+characteristics and new neurological aspects. Ann Neurol. 2006 Jan;59(1):121-7.
+doi: 10.1002/ana.20709.
+Citation on PubMed
+Marin-Valencia I, Roe CR, Pascual JM. Pyruvate carboxylase deficiency:
+mechanisms, mimics and anaplerosis. Mol Genet Metab. 2010 Sep;101(1):9-17. doi:
+10.1016/j.ymgme.2010.05.004. Epub 2010 Jun 9.
+Citation on PubMed
+Monnot S, Serre V, Chadefaux-Vekemans B, Aupetit J, Romano S, De Lonlay P,
+Rival JM, Munnich A, Steffann J, Bonnefont JP. Structural insights on pathogenic
+effects of novel mutations causing pyruvate carboxylase deficiency. Hum Mutat.
+2009 May;30(5):734-40. doi: 10.1002/humu.20908.
+Citation on PubMed
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Mitochondrial Diseases
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Lactate Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

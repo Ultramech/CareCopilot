@@ -1,0 +1,136 @@
+Wiskott-Aldrich syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Wiskott-Aldrich syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/wiskott-aldrich-syndrome/
+Wiskott-Aldrich syndrome
+Description
+Wiskott-Aldrich syndrome is characterized by abnormal immune system function (immune deficiency), eczema (an inflammatory skin disorder characterized by abnormal patches of red, irritated skin), and a reduced ability to
+form blood clots
+. This condition primarily affects males.
+Individuals with Wiskott-Aldrich syndrome have microthrombocytopenia, which is a decrease in the number and size of blood cells involved in clotting (platelets). This platelet abnormality, which is typically present from birth, can lead to easy bruising, bloody diarrhea, or episodes of prolonged bleeding following nose bleeds or minor trauma. Microthrombocytopenia can also lead to small areas of bleeding just under the surface of the skin, resulting in purplish spots called purpura, or variably sized rashes made up of tiny red spots called petechiae. In some cases, particularly if a bleeding episode occurs within the brain, prolonged bleeding can be life-threatening.
+Wiskott-Aldrich syndrome is also characterized by abnormal or nonfunctional immune system cells known as
+white blood cells
+. Changes in white blood cells lead to an increased risk of several immune and inflammatory disorders in people with Wiskott-Aldrich syndrome. These immune problems vary in severity and include an increased susceptibility to infection from bacteria, viruses, and fungi. People with Wiskott-Aldrich syndrome are at greater risk of developing autoimmune disorders, such as
+rheumatoid arthritis
+, vasculitis, or hemolytic anemia. These disorder occur when the immune system malfunctions and attacks the body's own tissues and organs. The chance of developing certain types of cancer, such as cancer of the immune system cells (
+lymphoma
+), is also increased in people with Wiskott-Aldrich syndrome.
+Wiskott-Aldrich syndrome is often considered to be part of a disease spectrum with two other disorders:
+X-linked thrombocytopenia
+and
+severe congenital neutropenia
+. These conditions have overlapping signs and symptoms and the same genetic cause.
+Frequency
+The estimated incidence of Wiskott-Aldrich syndrome is between 1 and 10 cases per million males worldwide; this condition is rarer in females.
+Causes
+Mutations in the
+WAS
+gene cause Wiskott-Aldrich syndrome. The
+WAS
+gene provides instructions for making a protein called WASP. This protein is found in
+all blood cells
+. WASP is involved in relaying signals from the surface of blood cells to the
+actin cytoskeleton
+, which is a network of fibers that make up the cell's structural framework. WASP signaling triggers the cell to move and attach to other cells and tissues (adhesion). In white blood cells, this signaling allows the actin cytoskeleton to establish interactions between cells and the foreign invaders that they target (immune synapses).
+WAS
+gene mutations that cause Wiskott-Aldrich syndrome lead to a lack of any functional WASP. Loss of WASP signaling disrupts the function of the actin cytoskeleton in developing blood cells. White blood cells that lack WASP have a decreased ability to respond to their environment and form immune synapses. As a result, white blood cells are less able to respond to foreign invaders, causing many of the immune problems related to Wiskott-Aldrich syndrome. Similarly, a lack of functional WASP in platelets impairs their development, leading to reduced size and early cell death. Additionally, the normal process of removing platelets from circulation and taking them to the spleen for destruction also likely contributes to microthrombocytopenia in individuals with Wiskott-Aldrich syndrome.
+Because they all have the same genetic cause, Wiskott-Aldrich syndrome, X-linked thrombocytopenia, and severe congenital neutropenia are sometimes collectively referred to as WAS-related disorders.
+Learn more about the gene associated with Wiskott-Aldrich syndrome
+WAS
+Inheritance
+This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+in each cell. In males, who have only one X chromosome, a mutation in the only copy of the gene in each cell is sufficient to cause the condition. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell can lead to less severe features of the condition or may cause no signs or symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+Eczema-thrombocytopenia-immunodeficiency syndrome
+IMD2
+Immunodeficiency 2
+Wiskott syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Wiskott-Aldrich syndrome
+Genetic and Rare Diseases Information Center
+Wiskott-Aldrich syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+WISKOTT-ALDRICH SYNDROME; WAS
+Scientific Articles on PubMed
+PubMed
+References
+Blundell MP, Worth A, Bouma G, Thrasher AJ. The Wiskott-Aldrich syndrome: The
+actin cytoskeleton and immune cell function. Dis Markers. 2010;29(3-4):157-75.
+doi: 10.3233/DMA-2010-0735.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chandra S, Nagaraj CB, Sun M, Chandrakasan S, Zhang K. WAS-Related
+Disorders. 2004 Sep 30 [updated 2024 Aug 15]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1178/
+Citation on PubMed
+Chen N, Zhang ZY, Liu DW, Liu W, Tang XM, Zhao XD. The clinical features of
+autoimmunity in 53 patients with Wiskott-Aldrich syndrome in China: a
+single-center study. Eur J Pediatr. 2015 Oct;174(10):1311-8. doi:
+10.1007/s00431-015-2527-3. Epub 2015 Apr 16.
+Citation on PubMed
+Gulacsy V, Freiberger T, Shcherbina A, Pac M, Chernyshova L, Avcin T,
+Kondratenko I, Kostyuchenko L, Prokofjeva T, Pasic S, Bernatowska E, Kutukculer
+N, Rascon J, Iagaru N, Mazza C, Toth B, Erdos M, van der Burg M, Marodi L; J
+Project Study Group. Genetic characteristics of eighty-seven patients with the
+Wiskott-Aldrich syndrome. Mol Immunol. 2011 Feb;48(5):788-92. doi:
+10.1016/j.molimm.2010.11.013. Epub 2010 Dec 24.
+Citation on PubMed
+Notarangelo LD, Miao CH, Ochs HD. Wiskott-Aldrich syndrome. Curr Opin Hematol.
+2008 Jan;15(1):30-6. doi: 10.1097/MOH.0b013e3282f30448.
+Citation on PubMed
+Thrasher AJ. New insights into the biology of Wiskott-Aldrich syndrome (WAS).
+Hematology Am Soc Hematol Educ Program. 2009:132-8. doi:
+10.1182/asheducation-2009.1.132.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bleeding Disorders
+Eczema
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Thrombocytopenia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

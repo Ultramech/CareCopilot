@@ -1,0 +1,159 @@
+Epidermolysis bullosa simplex: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Epidermolysis bullosa simplex
+URL of this page: https://medlineplus.gov/genetics/condition/epidermolysis-bullosa-simplex/
+Epidermolysis bullosa simplex
+Description
+Epidermolysis bullosa simplex is one of a group of genetic conditions called epidermolysis bullosa that cause the skin to be very fragile and to blister easily. Blisters and areas of skin loss (erosions) occur in response to minor injury or friction, such as rubbing or scratching. Epidermolysis bullosa simplex is one of the major forms of epidermolysis bullosa. The signs and symptoms of this condition vary widely among affected individuals. Blistering primarily affects the hands and feet in mild cases, and the blisters usually heal without leaving scars. Severe cases of this condition involve widespread blistering that can lead to infections, dehydration, and other medical problems. Severe cases may be life-threatening in infancy.
+Researchers have identified four major types of epidermolysis bullosa simplex.
+Although the types differ in severity, their features overlap significantly, and they are caused by mutations in the same genes. Most researchers now consider the major forms of this condition to be part of a single disorder with a range of signs and symptoms.
+The mildest form of epidermolysis bullosa simplex, known as the localized type (formerly called the Weber-Cockayne type), is characterized by skin blistering that begins anytime between childhood and adulthood and is usually limited to the hands and feet. Later in life, skin on the palms of the hands and soles of the feet may thicken and harden (
+hyperkeratosis
+).
+The Dowling-Meara type is the most severe form of epidermolysis bullosa simplex. Extensive, severe blistering can occur anywhere on the body, including the inside of the mouth, and blisters may appear in clusters. Blistering is present from birth and tends to improve with age. Affected individuals also experience abnormal nail growth and hyperkeratosis of the palms and soles.
+Another form of epidermolysis bullosa simplex, known as the other generalized type (formerly called the Koebner type), is associated with widespread blisters that appear at birth or in early infancy. The blistering tends to be less severe than in the Dowling-Meara type.
+Epidermolysis bullosa simplex with mottled pigmentation is characterized by patches of darker skin on the trunk, arms, and legs that fade in adulthood. This form of the disorder also involves skin blistering from early infancy, hyperkeratosis of the palms and soles, and abnormal nail growth.
+In addition to the four major types described above, researchers have identified another skin condition related to epidermolysis bullosa simplex, which they call the Ogna type. It is caused by mutations in a gene that is not associated with the other types of epidermolysis bullosa simplex. It is unclear whether the Ogna type is a subtype of epidermolysis bullosa simplex or represents a separate form of epidermolysis bullosa.
+Several other variants of epidermolysis bullosa simplex have been proposed, but they appear to be very rare.
+Frequency
+The exact prevalence of epidermolysis bullosa simplex is unknown, but this condition is estimated to affect 1 in 30,000 to 50,000 people. The localized type is the most common form of the condition.
+Causes
+The four major types of epidermolysis bullosa simplex can result from mutations in either the
+KRT5
+or
+KRT14
+gene. These genes provide instructions for making proteins called keratin 5 and keratin 14. These
+tough, fibrous proteins
+work together to provide strength and resiliency to the outer layer of the skin (the epidermis). Mutations in either the
+KRT5
+or
+KRT14
+gene prevent the keratin proteins from assembling into strong networks, causing cells in the epidermis to become fragile and easily damaged. As a result, the skin is less resistant to friction and minor trauma and blisters easily. In rare cases, no
+KRT5
+or
+KRT14
+gene mutations are identified in people with one of the four major types of epidermolysis bullosa simplex.
+Mutations in another gene,
+PLEC
+, have been associated with the rare Ogna type of epidermolysis bullosa simplex. The
+PLEC
+gene provides instructions for making a protein called plectin, which helps attach the epidermis to underlying layers of skin. Researchers are working to determine how
+PLEC
+gene mutations lead to the major features of the condition.
+Learn more about the genes associated with Epidermolysis bullosa simplex
+KRT14
+KRT5
+PLEC
+Inheritance
+Epidermolysis bullosa simplex is usually inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Some affected people inherit the mutation from
+one affected parent
+. Other cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+In rare cases, epidermolysis bullosa simplex is inherited in an
+autosomal recessive pattern
+. Autosomal recessive inheritance means the condition results when two copies of the gene in each cell are altered. The parents of an individual with an autosomal recessive disorder typically each carry one copy of the altered gene, but do not show signs and symptoms of the disorder.
+Other Names for This Condition
+EBS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Epidermolysis bullosa simplex
+Genetic Testing Registry: Epidermolysis bullosa simplex, Ogna type
+Genetic and Rare Diseases Information Center
+Autosomal dominant generalized epidermolysis bullosa simplex, intermediate form
+Epidermolysis bullosa simplex
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+EPIDERMOLYSIS BULLOSA SIMPLEX 1A, GENERALIZED SEVERE; EBS1A
+EPIDERMOLYSIS BULLOSA SIMPLEX 1C, LOCALIZED; EBS1C
+EPIDERMOLYSIS BULLOSA SIMPLEX 1B, GENERALIZED INTERMEDIATE; EBS1B
+EPIDERMOLYSIS BULLOSA SIMPLEX 5A, OGNA TYPE; EBS5A
+EPIDERMOLYSIS BULLOSA SIMPLEX 2F, WITH MOTTLED PIGMENTATION; EBS2F
+EPIDERMOLYSIS BULLOSA SIMPLEX 1D, GENERALIZED, INTERMEDIATE OR SEVERE, AUTOSOMAL RECESSIVE; EBS1D
+EPIDERMOLYSIS BULLOSA SIMPLEX 2E, WITH MIGRATORY CIRCINATE ERYTHEMA; EBS2E
+Scientific Articles on PubMed
+PubMed
+References
+Charlesworth A, Chiaverini C, Chevrant-Breton J, DelRio M, Diociaiuti A,
+Dupuis RP, El Hachem M, Le Fiblec B, Sankari-Ho AM, Valhquist A, Wierzbicka E,
+Lacour JP, Meneguzzi G. Epidermolysis bullosa simplex with PLEC mutations: new
+phenotypes and new mutations. Br J Dermatol. 2013 Apr;168(4):808-14. doi:
+10.1111/bjd.12202.
+Citation on PubMed
+Coulombe PA, Kerns ML, Fuchs E. Epidermolysis bullosa simplex: a paradigm for
+disorders of tissue fragility. J Clin Invest. 2009 Jul;119(7):1784-93. doi:
+10.1172/JCI38177. Epub 2009 Jul 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Intong LR, Murrell DF. Inherited epidermolysis bullosa: new diagnostic
+criteria and classification. Clin Dermatol. 2012 Jan-Feb;30(1):70-7. doi:
+10.1016/j.clindermatol.2011.03.012.
+Citation on PubMed
+Irvine AD. Inherited defects in keratins. Clin Dermatol. 2005
+Jan-Feb;23(1):6-14. doi: 10.1016/j.clindermatol.2004.09.014.
+Citation on PubMed
+Pfendner E, Rouan F, Uitto J. Progress in epidermolysis bullosa: the
+phenotypic spectrum of plectin mutations. Exp Dermatol. 2005 Apr;14(4):241-9.
+doi: 10.1111/j.0906-6705.2005.00324.x.
+Citation on PubMed
+Pfendner EG, Sadowski SG, Uitto J. Epidermolysis bullosa simplex: recurrent
+and de novo mutations in the KRT5 and KRT14 genes, phenotype/genotype
+correlations, and implications for genetic counseling and prenatal diagnosis. J
+Invest Dermatol. 2005 Aug;125(2):239-43. doi: 10.1111/j.0022-202X.2005.23818.x.
+Citation on PubMed
+Rugg EL, Leigh IM. The keratins and their disorders. Am J Med Genet C Semin
+Med Genet. 2004 Nov 15;131C(1):4-11. doi: 10.1002/ajmg.c.30029.
+Citation on PubMed
+So JY, Teng J. Epidermolysis Bullosa Simplex. 1998 Oct 7 [updated 2022 Aug 4].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1369/
+Citation on PubMed
+Sprecher E. Epidermolysis bullosa simplex. Dermatol Clin. 2010
+Jan;28(1):23-32. doi: 10.1016/j.det.2009.10.003.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Epidermolysis bullosa
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

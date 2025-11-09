@@ -1,0 +1,133 @@
+Meesmann corneal dystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Meesmann corneal dystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/meesmann-corneal-dystrophy/
+Meesmann corneal dystrophy
+Description
+Meesmann corneal dystrophy is an eye disease that affects the cornea, which is the clear front covering of the eye. This condition is characterized by the formation of tiny round cysts in the outermost layer of the cornea, called the corneal epithelium. This part of the cornea acts as a barrier to help prevent foreign materials, such as dust and bacteria, from entering the eye.
+In people with Meesmann corneal dystrophy, cysts can appear as early as the first year of life. They usually affect both eyes and increase in number over time. The cysts usually do not cause any symptoms until late adolescence or adulthood, when they start to break open (rupture) on the surface of the cornea and cause irritation. The resulting symptoms typically include increased sensitivity to light (photophobia), twitching of the eyelids (blepharospasm), increased tear production, the sensation of having a foreign object in the eye, and an inability to tolerate wearing contact lenses. Some affected individuals also have temporary episodes of blurred vision.
+Frequency
+Meesmann corneal dystrophy is a rare disorder whose prevalence is unknown. It was first described in a large, multi-generational German family with more than 100 affected members. Since then, the condition has been reported in individuals and families worldwide.
+Causes
+Meesmann corneal dystrophy can result from mutations in either the
+KRT12
+gene or the
+KRT3
+gene. These genes provide instructions for making proteins called keratin 12 and keratin 3, which are found in the corneal epithelium. The two
+proteins
+interact to form the structural framework of this layer of the cornea. Mutations in either the
+KRT12
+or
+KRT3
+gene weaken this framework, causing the corneal epithelium to become fragile and to develop the cysts that characterize the disorder. The cysts likely contain clumps of abnormal keratin proteins and other cellular debris. When the cysts rupture, they cause eye irritation and the other symptoms of Meesmann corneal dystrophy.
+Learn more about the genes associated with Meesmann corneal dystrophy
+KRT12
+KRT3
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of an altered
+KRT12
+or
+KRT3
+gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the condition from an affected parent.
+Other Names for This Condition
+Corneal dystrophy, juvenile epithelial of Meesmann
+Corneal dystrophy, Meesmann epithelial
+Juvenile hereditary epithelial dystrophy
+MECD
+Meesman's corneal dystrophy
+Meesmann corneal epithelial dystrophy
+Meesmann epithelial corneal dystrophy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Meesmann corneal dystrophy
+Genetic and Rare Diseases Information Center
+Meesmann corneal dystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CORNEAL DYSTROPHY, MEESMANN, 1; MECD1
+Scientific Articles on PubMed
+PubMed
+References
+Corden LD, Swensson O, Swensson B, Smith FJ, Rochels R, Uitto J, McLEAN WH.
+Molecular genetics of Meesmann's corneal dystrophy: ancestral and novel mutations
+in keratin 12 (K12) and complete sequence of the human KRT12 gene. Exp Eye Res.
+2000 Jan;70(1):41-9. doi: 10.1006/exer.1999.0769.
+Citation on PubMed
+Ehlers N, Hjortdal J, Nielsen K, Thiel HJ, Orntoft T. Phenotypic variability
+in Meesmann's dystrophy: clinical review of the literature and presentation of a
+family genetically identical to the original family. Acta Ophthalmol. 2008
+Feb;86(1):40-4. doi: 10.1111/j.1600-0420.2007.00931.x. Epub 2007 Nov 6.
+Citation on PubMed
+Irvine AD, Corden LD, Swensson O, Swensson B, Moore JE, Frazer DG, Smith FJ,
+Knowlton RG, Christophers E, Rochels R, Uitto J, McLean WH. Mutations in
+cornea-specific keratin K3 or K12 genes cause Meesmann's corneal dystrophy. Nat
+Genet. 1997 Jun;16(2):184-7. doi: 10.1038/ng0697-184.
+Citation on PubMed
+Klintworth GK. Corneal dystrophies. Orphanet J Rare Dis. 2009 Feb 23;4:7. doi:
+10.1186/1750-1172-4-7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nishida K, Honma Y, Dota A, Kawasaki S, Adachi W, Nakamura T, Quantock AJ,
+Hosotani H, Yamamoto S, Okada M, Shimomura Y, Kinoshita S. Isolation and
+chromosomal localization of a cornea-specific human keratin 12 gene and detection
+of four mutations in Meesmann corneal epithelial dystrophy. Am J Hum Genet. 1997
+Dec;61(6):1268-75. doi: 10.1086/301650.
+Citation on PubMed
+or
+Free article on PubMed Central
+Smith F. The molecular genetics of keratin disorders. Am J Clin Dermatol.
+2003;4(5):347-64. doi: 10.2165/00128071-200304050-00005.
+Citation on PubMed
+Szaflik JP, Oldak M, Maksym RB, Kaminska A, Pollak A, Udziela M, Ploski R,
+Szaflik J. Genetics of Meesmann corneal dystrophy: a novel mutation in the
+keratin 3 gene in an asymptomatic family suggests genotype-phenotype correlation.
+Mol Vis. 2008 Sep 15;14:1713-8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Corneal Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Eyelid twitch
+Genetics
+Photophobia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

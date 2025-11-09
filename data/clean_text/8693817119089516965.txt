@@ -1,0 +1,109 @@
+Ghosal hematodiaphyseal dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Ghosal hematodiaphyseal dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/ghosal-hematodiaphyseal-dysplasia/
+Ghosal hematodiaphyseal dysplasia
+Description
+Ghosal hematodiaphyseal dysplasia is a rare inherited condition characterized by abnormally thick bones and a shortage of red blood cells (
+anemia
+). Signs and symptoms of the condition become apparent in early childhood.
+In affected individuals, the long bones in the arms and legs are unusually dense and wide. The bone changes specifically affect the shafts of the long bones, called diaphyses, and areas near the ends of the bones called metaphyses. The bone abnormalities can lead to bowing of the legs and difficulty walking.
+Ghosal hematodiaphyseal dysplasia also causes scarring (fibrosis) of the bone marrow, which is the spongy tissue inside long bones where blood cells are formed. The abnormal bone marrow cannot produce enough red blood cells, which leads to anemia. Signs and symptoms of anemia that have been reported in people with Ghosal hematodiaphyseal dysplasia include extremely pale skin (pallor) and excessive tiredness (fatigue).
+Frequency
+Ghosal hematodiaphyseal dysplasia is a rare disorder; only a few cases have been reported in the medical literature. Most affected individuals have been from the Middle East and India.
+Causes
+Ghosal hematodiaphyseal dysplasia results from mutations in the
+TBXAS1
+gene. This gene provides instructions for making an enzyme called thromboxane A synthase 1, which acts as part of a chemical signaling pathway involved in normal blood clotting (
+hemostasis
+). Based on its role in Ghosal hematodiaphyseal dysplasia, researchers suspect that thromboxane A synthase 1 may also be important for bone remodeling, which is a normal process in which old bone is removed and new bone is created to replace it, and for the production of red blood cells in
+bone marrow
+.
+Mutations in the
+TBXAS1
+gene severely reduce the activity of thromboxane A synthase 1. Studies suggest that a lack of this enzyme's activity may lead to abnormal bone remodeling and fibrosis of the bone marrow. However, the mechanism by which a shortage of thromboxane A synthase 1 activity leads to the particular abnormalities characteristic of Ghosal hematodiaphyseal dysplasia is unclear.
+Learn more about the gene associated with Ghosal hematodiaphyseal dysplasia
+TBXAS1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Diaphyseal dysplasia associated with anemia
+GHDD
+Ghosal hemato-diaphyseal dysplasia
+Ghosal syndrome
+Ghosal-type hemato-diaphyseal dysplasia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Ghosal hematodiaphyseal dysplasia
+Genetic and Rare Diseases Information Center
+Ghosal hematodiaphyseal dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+GHOSAL HEMATODIAPHYSEAL DYSPLASIA; GHDD
+Scientific Articles on PubMed
+PubMed
+References
+Genevieve D, Proulle V, Isidor B, Bellais S, Serre V, Djouadi F, Picard C,
+Vignon-Savoye C, Bader-Meunier B, Blanche S, de Vernejoul MC, Legeai-Mallet L,
+Fischer AM, Le Merrer M, Dreyfus M, Gaussem P, Munnich A, Cormier-Daire V.
+Thromboxane synthase mutations in an increased bone density disorder (Ghosal
+syndrome). Nat Genet. 2008 Mar;40(3):284-6. doi: 10.1038/ng.2007.66. Epub 2008
+Feb 10.
+Citation on PubMed
+Ghosal SP, Mukherjee AK, Mukherjee D, Ghosh AK. Diaphyseal dysplasia
+associated with anemia. J Pediatr. 1988 Jul;113(1 Pt 1):49-57. doi:
+10.1016/s0022-3476(88)80527-4.
+Citation on PubMed
+Gumruk F, Besim A, Altay C. Ghosal haemato-diaphyseal dysplasia: a new
+disorder. Eur J Pediatr. 1993 Mar;152(3):218-21. doi: 10.1007/BF01956148.
+Citation on PubMed
+Isidor B, Dagoneau N, Huber C, Genevieve D, Bader-Meunier B, Blanche S, Picard
+C, De Vernejoul MC, Munnich A, Le Merrer M, Cormier-Daire V. A gene responsible
+for Ghosal hemato-diaphyseal dysplasia maps to chromosome 7q33-34. Hum Genet.
+2007 Apr;121(2):269-73. doi: 10.1007/s00439-006-0311-1. Epub 2007 Jan 3.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Anemia
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Anemia
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

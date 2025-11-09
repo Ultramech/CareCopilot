@@ -1,0 +1,147 @@
+Liddle syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Liddle syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/liddle-syndrome/
+Liddle syndrome
+Description
+Liddle syndrome is an inherited form of high blood pressure (
+hypertension
+). This condition is characterized by severe hypertension that begins unusually early in life, often in childhood, although some affected individuals are not diagnosed until adulthood. Some people with Liddle syndrome have no additional signs or symptoms, especially in childhood. Over time, however, untreated hypertension can lead to heart disease or
+stroke
+, which may be fatal.
+In addition to hypertension, affected individuals can have low levels of potassium in the blood (hypokalemia). Signs and symptoms of hypokalemia include muscle weakness or pain, fatigue, constipation, or heart palpitations. The shortage of potassium can also raise the pH of the blood, a condition known as metabolic alkalosis.
+Frequency
+Liddle syndrome is a rare condition, although its prevalence is unknown. The condition has been found in populations worldwide.
+Causes
+Liddle syndrome is caused by mutations in the
+SCNN1B
+or
+SCNN1G
+gene. Each of these genes provides instructions for making a piece (subunit) of a protein complex called the epithelial sodium channel (ENaC). These channels are found at the surface of certain cells called epithelial cells in many tissues of the body, including the kidneys, where the channels transport sodium into cells.
+In the kidney, ENaC channels open in response to signals that sodium levels in the blood are too low, which allows sodium to flow into cells. From the kidney cells, this sodium is returned to the bloodstream (a process called reabsorption) rather than being removed from the body in urine.
+Mutations in the
+SCNN1B
+or
+SCNN1G
+gene change the structure of the respective ENaC subunit. The changes alter a region of the subunit that is involved in signaling for its breakdown (degradation) when it is no longer needed. As a result of the mutations, the subunit proteins are not degraded, and more ENaC channels remain at the cell surface. The increase in channels at the cell surface abnormally increases the reabsorption of sodium (followed by water), which leads to hypertension. Reabsorption of sodium into the blood is linked with removal of potassium from the blood, so excess sodium reabsorption leads to hypokalemia.
+Learn more about the genes associated with Liddle syndrome
+SCNN1B
+SCNN1G
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Pseudoaldosteronism
+Pseudoprimary hyperaldosteronism
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Liddle syndrome
+Genetic and Rare Diseases Information Center
+Liddle syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LIDDLE SYNDROME 1; LIDLS1
+Scientific Articles on PubMed
+PubMed
+References
+Bogdanovic R, Kuburovic V, Stajic N, Mughal SS, Hilger A, Ninic S, Prijic S,
+Ludwig M. Liddle syndrome in a Serbian family and literature review of underlying
+mutations. Eur J Pediatr. 2012 Mar;171(3):471-8. doi: 10.1007/s00431-011-1581-8.
+Epub 2011 Sep 29.
+Citation on PubMed
+Corvol P. Liddle's syndrome: heritable human hypertension caused by mutations
+in the Beta subunit of the epithelial sodium channel. J Endocrinol Invest. 1995
+Jul-Aug;18(7):592-4. doi: 10.1007/BF03349775. No abstract available.
+Citation on PubMed
+Hansson JH, Nelson-Williams C, Suzuki H, Schild L, Shimkets R, Lu Y, Canessa
+C, Iwasaki T, Rossier B, Lifton RP. Hypertension caused by a truncated epithelial
+sodium channel gamma subunit: genetic heterogeneity of Liddle syndrome. Nat
+Genet. 1995 Sep;11(1):76-82. doi: 10.1038/ng0995-76.
+Citation on PubMed
+Hansson JH, Schild L, Lu Y, Wilson TA, Gautschi I, Shimkets R, Nelson-Williams
+C, Rossier BC, Lifton RP. A de novo missense mutation of the beta subunit of the
+epithelial sodium channel causes hypertension and Liddle syndrome, identifying a
+proline-rich segment critical for regulation of channel activity. Proc Natl Acad
+Sci U S A. 1995 Dec 5;92(25):11495-9. doi: 10.1073/pnas.92.25.11495.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lifton RP, Gharavi AG, Geller DS. Molecular mechanisms of human hypertension.
+Cell. 2001 Feb 23;104(4):545-56. doi: 10.1016/s0092-8674(01)00241-0. No abstract
+available.
+Citation on PubMed
+Rotin D. Role of the UPS in Liddle syndrome. BMC Biochem. 2008 Oct 21;9 Suppl
+1(Suppl 1):S5. doi: 10.1186/1471-2091-9-S1-S5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schild L, Lu Y, Gautschi I, Schneeberger E, Lifton RP, Rossier BC.
+Identification of a PY motif in the epithelial Na channel subunits as a target
+sequence for mutations causing channel activation found in Liddle syndrome. EMBO
+J. 1996 May 15;15(10):2381-7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Smith JH, Lindor NM, Rabinstein AA. Cerebrovascular consequences of
+pseudohyperaldosteronism. J Clin Hypertens (Greenwich). 2012 Aug;14(8):547-52.
+doi: 10.1111/j.1751-7176.2012.00639.x. Epub 2012 May 3.
+Citation on PubMed
+Snyder PM, Price MP, McDonald FJ, Adams CM, Volk KA, Zeiher BG, Stokes JB,
+Welsh MJ. Mechanism by which Liddle's syndrome mutations increase activity of a
+human epithelial Na+ channel. Cell. 1995 Dec 15;83(6):969-78. doi:
+10.1016/0092-8674(95)90212-0.
+Citation on PubMed
+Staub O, Dho S, Henry P, Correa J, Ishikawa T, McGlade J, Rotin D. WW domains
+of Nedd4 bind to the proline-rich PY motifs in the epithelial Na+ channel deleted
+in Liddle's syndrome. EMBO J. 1996 May 15;15(10):2371-80.
+Citation on PubMed
+or
+Free article on PubMed Central
+Warnock DG. Liddle syndrome: genetics and mechanisms of Na+ channel defects.
+Am J Med Sci. 2001 Dec;322(6):302-7. doi: 10.1097/00000441-200112000-00002.
+Citation on PubMed
+Related Health Topics
+Fluid and Electrolyte Balance
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+High blood pressure in adults - hypertension
+Low blood potassium
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

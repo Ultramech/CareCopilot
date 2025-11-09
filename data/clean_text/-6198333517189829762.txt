@@ -1,0 +1,153 @@
+Ataxia-telangiectasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Ataxia-telangiectasia
+URL of this page: https://medlineplus.gov/genetics/condition/ataxia-telangiectasia/
+Ataxia-telangiectasia
+Description
+Ataxia-telangiectasia is a rare inherited disorder that affects the nervous system, immune system, and other body systems. This disorder is characterized by progressive difficulty with coordinating movements (ataxia) beginning in early childhood, usually before age 5. Affected children typically develop difficulty walking, problems with balance and hand coordination, involuntary jerking movements (chorea), muscle twitches (myoclonus), and disturbances in nerve function (neuropathy). The movement problems typically cause people to require wheelchair assistance by adolescence. People with this disorder also have slurred speech and trouble moving their eyes to look side-to-side (oculomotor apraxia). Small clusters of enlarged blood vessels called telangiectases, which occur in the eyes and on the surface of the skin, are also characteristic of this condition.
+Affected individuals tend to have high amounts of a protein called alpha-fetoprotein (AFP) in their blood. The level of this protein is normally increased in the bloodstream of pregnant women, but it is unknown why individuals with ataxia-telangiectasia have elevated AFP or what effects it has in these individuals.
+People with ataxia-telangiectasia often have a weakened immune system, and many develop chronic lung infections. They also have an increased risk of developing cancer, particularly cancer of blood-forming cells (
+leukemia
+) and cancer of immune system cells (
+lymphoma
+). Affected individuals are very sensitive to the effects of radiation exposure, including medical x-rays.
+Ataxia-telangiectasia has no cure, though treatments might improve some symptoms. These treatments include physical and speech therapy and improving deficits in the immune system and nutrition. The life expectancy of people with ataxia-telangiectasia varies greatly, but affected individuals typically live into early adulthood.
+Frequency
+Ataxia-telangiectasia occurs in 1 in 40,000 to 100,000 people worldwide.
+Causes
+Variants (also called mutations) in the
+ATM
+gene cause ataxia-telangiectasia. The
+ATM
+gene provides instructions for making a protein that helps control
+cell division
+and is involved in DNA repair. This protein plays an important role in the normal development and activity of several body systems, including the nervous system and immune system. The ATM protein assists cells in recognizing damaged or broken DNA strands and coordinates DNA repair by activating enzymes that fix the broken strands. Efficient repair of damaged DNA strands helps maintain the stability of the cell's genetic information.
+Variants in the
+ATM
+gene reduce or eliminate the function of the ATM protein. Without this protein, cells become unstable and die. Cells in the part of the brain involved in coordinating movements (
+the cerebellum
+) are particularly affected by loss of the ATM protein. The loss of these brain cells causes some of the movement problems characteristic of ataxia-telangiectasia. Variants in the
+ATM
+gene also prevent cells from responding correctly to DNA damage, which allows breaks in DNA strands to accumulate and can lead to the formation of cancerous tumors.
+Learn more about the gene associated with Ataxia-telangiectasia
+ATM
+Inheritance
+Ataxia-telangiectasia is inherited in an
+autosomal recessive pattern
+, which means both copies of the
+ATM
+gene in each cell have variants. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but do not show signs and symptoms of the condition.
+About 1 percent of the United States population carries one altered copy and one normal copy of the
+ATM
+gene in each cell. These individuals are called carriers. Although
+ATM
+gene variant carriers do not have ataxia-telangiectasia, they are more likely than people without an
+ATM
+gene variant to develop cancer; female carriers are particularly at risk for developing
+breast cancer
+. Carriers of a variant in the
+ATM
+gene also may have an increased risk of heart disease.
+Other Names for This Condition
+A-T
+Ataxia telangiectasia syndrome
+ATM
+Louis-Bar syndrome
+Telangiectasia, cerebello-oculocutaneous
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Ataxia-telangiectasia syndrome
+Genetic and Rare Diseases Information Center
+Ataxia-telangiectasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ATAXIA-TELANGIECTASIA; AT
+Scientific Articles on PubMed
+PubMed
+References
+Demuth I, Dutrannoy V, Marques W Jr, Neitzel H, Schindler D, Dimova PS,
+Chrzanowska KH, Bojinova V, Gregorek H, Graul-Neumann LM, von Moers A, Schulze I,
+Nicke M, Bora E, Cankaya T, Olah E, Kiss C, Bessenyei B, Szakszon K,
+Gruber-Sedlmayr U, Kroisel PM, Sodia S, Goecke TO, Dork T, Digweed M, Sperling K,
+de Sa J, Lourenco CM, Varon R. New mutations in the ATM gene and clinical data of
+25 AT patients. Neurogenetics. 2011 Nov;12(4):273-82. doi:
+10.1007/s10048-011-0299-0. Epub 2011 Oct 2.
+Citation on PubMed
+Hall J. The Ataxia-telangiectasia mutated gene and breast cancer: gene
+expression profiles and sequence variants. Cancer Lett. 2005 Sep
+28;227(2):105-14. doi: 10.1016/j.canlet.2004.12.001. Epub 2005 Jan 8.
+Citation on PubMed
+McGrath-Morrow SA, Rothblum-Oviatt CC, Wright J, Schlechter H, Lefton-Greif
+MA, Natale VA, Crawford TO, Lederman HM. Multidisciplinary Management of Ataxia
+Telangiectasia: Current Perspectives. J Multidiscip Healthc. 2021 Jun
+28;14:1637-1644. doi: 10.2147/JMDH.S295486. eCollection 2021.
+Citation on PubMed
+McKinnon PJ. ATM and ataxia telangiectasia. EMBO Rep. 2004 Aug;5(8):772-6.
+doi: 10.1038/sj.embor.7400210.
+Citation on PubMed
+or
+Free article on PubMed Central
+Taylor AM, Byrd PJ. Molecular pathology of ataxia telangiectasia. J Clin
+Pathol. 2005 Oct;58(10):1009-15. doi: 10.1136/jcp.2005.026062.
+Citation on PubMed
+or
+Free article on PubMed Central
+Veenhuis S, van Os N, Weemaes C, Kamsteeg EJ, Willemsen M.
+Ataxia-Telangiectasia. 1999 Mar 19 [updated 2023 Oct 5]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK26468/
+Citation on PubMed
+Verhagen MM, Last JI, Hogervorst FB, Smeets DF, Roeleveld N, Verheijen F,
+Catsman-Berrevoets CE, Wulffraat NM, Cobben JM, Hiel J, Brunt ER, Peeters EA,
+Gomez Garcia EB, van der Knaap MS, Lincke CR, Laan LA, Tijssen MA, van Rijn MA,
+Majoor-Krakauer D, Visser M, van 't Veer LJ, Kleijer WJ, van de Warrenburg BP,
+Warris A, de Groot IJ, de Groot R, Broeks A, Preijers F, Kremer BH, Weemaes CM,
+Taylor MA, van Deuren M, Willemsen MA. Presence of ATM protein and residual
+kinase activity correlates with the phenotype in ataxia-telangiectasia: a
+genotype-phenotype study. Hum Mutat. 2012 Mar;33(3):561-71. doi:
+10.1002/humu.22016. Epub 2012 Jan 25.
+Citation on PubMed
+Related Health Topics
+Ataxia Telangiectasia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Ataxia - telangiectasia
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

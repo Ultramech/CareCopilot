@@ -1,0 +1,204 @@
+Heterotaxy syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Heterotaxy syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/heterotaxy-syndrome/
+Heterotaxy syndrome
+Description
+Heterotaxy syndrome is a condition in which the internal organs are abnormally arranged in the chest and abdomen. The term "heterotaxy" is from the Greek words "heteros," meaning "other than," and "taxis," meaning "arrangement." Individuals with this condition have complex birth defects affecting the heart, lungs, liver, spleen, intestines, and other organs.
+In the normal body, most of the organs in the chest and abdomen have a particular location on the right or left side. For example, the heart, spleen, and
+pancreas
+are on the left side of the body, and most of
+the liver
+is on the right. This normal arrangement of the organs is known as "situs solitus." Rarely, the orientation of the internal organs is completely flipped from right to left, a situation known as "situs inversus." This mirror-image orientation usually does not cause any health problems, unless it occurs as part of a syndrome affecting other parts of the body. Heterotaxy syndrome is an arrangement of internal organs somewhere between situs solitus and situs inversus; this condition is also known as "situs ambiguus." Unlike situs inversus, the abnormal arrangement of organs in heterotaxy syndrome often causes serious health problems.
+Heterotaxy syndrome can alter the structure of
+the heart
+, including the attachment of the large blood vessels that carry blood to and from the rest of the body. It can also affect the structure of
+the lungs
+, such as the number of lobes in each lung and the length of the tubes (called bronchi) that lead from the windpipe to the lungs. In the abdomen, the condition can cause a person to have no
+spleen
+(asplenia) or multiple small, poorly functioning spleens (polysplenia). The liver may lie across the middle of the body instead of being in its normal position to the right of the stomach. Some affected individuals also have intestinal malrotation, which is an abnormal twisting of
+the intestines
+that occurs in the early stages of development before birth.
+Depending on the organs involved, signs and symptoms of heterotaxy syndrome can include a bluish appearance of the skin or lips (cyanosis, which is due to a shortage of oxygen), breathing difficulties, an increased risk of infections, and problems with digesting food. The most serious complications are generally caused by
+critical congenital heart disease
+, a group of complex heart defects that are present from birth. Biliary atresia, a problem with
+the bile ducts in the liver
+, can also cause severe health problems in infancy.
+The severity of heterotaxy syndrome varies depending on the specific abnormalities involved. Some affected individuals have only mild health problems related to the condition. At the other end of the spectrum, heterotaxy syndrome can be life-threatening in infancy or childhood, even with treatment.
+Frequency
+The prevalence of heterotaxy syndrome is estimated to be 1 in 10,000 people worldwide. However, researchers suspect that the condition is underdiagnosed, and so it may actually be more common than this. Heterotaxy syndrome accounts for approximately 3 percent of all congenital heart defects. For reasons that are unknown, the condition appears to be more common in populations in Asia than in North America and Europe. Recent studies report that in the United States, the condition occurs more frequently in children born to Black or Hispanic mothers than in children born to white mothers.
+Causes
+Heterotaxy syndrome can be caused by mutations in many different genes. The proteins produced from most of these genes play roles in determining which structures should be on the right side of the body and which should be on the left, a process known as establishing left-right asymmetry. This process occurs during the earliest stages of embryonic development. Dozens of genes are probably involved in establishing left-right asymmetry; mutations in at least 20 of these genes have been identified in people with heterotaxy syndrome.
+In some cases, heterotaxy syndrome is caused by mutations in genes whose involvement in determining left-right asymmetry is unknown. Rarely, chromosomal changes such as insertions,
+deletions
+,
+duplications
+, and
+other rearrangements
+of genetic material have been associated with this condition.
+Heterotaxy syndrome can occur by itself, or it can be a feature of other genetic syndromes that have additional signs and symptoms. For example, at least 12 percent of people with a condition called
+primary ciliary dyskinesia
+have heterotaxy syndrome. In addition to abnormally positioned internal organs, primary ciliary dyskinesia is characterized by chronic respiratory tract infections and an inability to have children (infertility). The signs and symptoms of this condition are caused by abnormal
+cilia
+, which are microscopic, finger-like projections that stick out from the surface of cells. It appears that cilia play a critical role in establishing left-right asymmetry before birth.
+Studies suggest that certain factors affecting a woman during pregnancy may also contribute to the risk of heterotaxy syndrome in her child. These include diabetes mellitus; smoking; and exposure to hair dyes, cocaine, and certain chemicals such as pesticides and organic solvents.
+Some people with heterotaxy syndrome have no identified gene mutations or other risk factors. In these cases, the cause of the condition is unknown.
+Learn more about the genes associated with Heterotaxy syndrome
+DNAH11
+DNAH5
+DNAI1
+Additional Information from NCBI Gene:
+ACVR2B
+CFAP53
+CFC1
+CITED2
+CRELD1
+FOXH1
+GATA4
+GDF1
+LEFTY2
+MMP21
+NAT10
+NKX2-5
+NODAL
+SESN1
+SHROOM3
+SMAD2
+ZIC3
+Inheritance
+Most often, heterotaxy syndrome is sporadic, meaning that only one person in a family is affected. However, about 10 percent of people with heterotaxy syndrome have a close relative (such as a parent or sibling) who has a congenital heart defect without other apparent features of heterotaxy syndrome. Isolated congenital heart defects and heterotaxy syndrome may represent a range of signs and symptoms that can result from a particular genetic mutation; this situation is known as variable expressivity. It is also possible that different genetic and environmental factors combine to produce isolated congenital heart defects in some family members and heterotaxy syndrome in others.
+When heterotaxy syndrome runs in families, it can have an
+autosomal dominant
+,
+autosomal recessive
+, or X-linked pattern of inheritance, depending on which gene is involved. Autosomal dominant inheritance means that one copy of the altered gene in each cell is sufficient to cause the disorder. Autosomal recessive inheritance means that both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. In X-linked inheritance, the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell.
+When heterotaxy syndrome occurs as a feature of primary ciliary dyskinesia, it has an autosomal recessive pattern of inheritance.
+Other Names for This Condition
+Heterotaxy
+HTX
+Ivemark syndrome
+Left isomerism
+Right isomerism
+Situs ambiguus
+Situs ambiguus viscerum
+Visceral heterotaxy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Atrioventricular septal defect, partial, with heterotaxy syndrome
+Genetic Testing Registry: Heterotaxy, visceral, 5, autosomal
+Genetic Testing Registry: Visceral heterotaxy
+Genetic Testing Registry: Heterotaxy, visceral, 1, X-linked
+Genetic Testing Registry: Heterotaxy, visceral, 2, autosomal
+Genetic Testing Registry: Heterotaxy, visceral, 4, autosomal
+Genetic Testing Registry: Heterotaxy, visceral, 6, autosomal
+Genetic and Rare Diseases Information Center
+Heterotaxia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+RIGHT ATRIAL ISOMERISM; RAI
+HETEROTAXY, VISCERAL, 5, AUTOSOMAL; HTX5
+HETEROTAXY, VISCERAL, 1, X-LINKED; HTX1
+ATRIOVENTRICULAR SEPTAL DEFECT, SUSCEPTIBILITY TO, 2; AVSD2
+HETEROTAXY, VISCERAL, 2, AUTOSOMAL; HTX2
+HETEROTAXY, VISCERAL, 3, AUTOSOMAL; HTX3
+HETEROTAXY, VISCERAL, 6, AUTOSOMAL; HTX6
+HETEROTAXY, VISCERAL, 4, AUTOSOMAL; HTX4
+Scientific Articles on PubMed
+PubMed
+References
+Deng H, Xia H, Deng S. Genetic basis of human left-right asymmetry disorders.
+Expert Rev Mol Med. 2015 Jan 27;16:e19. doi: 10.1017/erm.2014.22.
+Citation on PubMed
+El Malti R, Liu H, Doray B, Thauvin C, Maltret A, Dauphin C, Goncalves-Rocha
+M, Teboul M, Blanchet P, Roume J, Gronier C, Ducreux C, Veyrier M, Marcon F, Acar
+P, Lusson JR, Levy M, Beyler C, Vigneron J, Cordier-Alex MP, Heitz F, Sanlaville
+D, Bonnet D, Bouvagnet P. A systematic variant screening in familial cases of
+congenital heart defects demonstrates the usefulness of molecular genetics in
+this field. Eur J Hum Genet. 2016 Feb;24(2):228-36. doi: 10.1038/ejhg.2015.105.
+Epub 2015 May 27.
+Citation on PubMed
+Jacobs JP, Anderson RH, Weinberg PM, Walters HL 3rd, Tchervenkov CI, Del Duca
+D, Franklin RC, Aiello VD, Beland MJ, Colan SD, Gaynor JW, Krogmann ON, Kurosawa
+H, Maruszewski B, Stellin G, Elliott MJ. The nomenclature, definition and
+classification of cardiac structures in the setting of heterotaxy. Cardiol Young.
+2007 Sep;17 Suppl 2:1-28. doi: 10.1017/S1047951107001138.
+Citation on PubMed
+Kim SJ. Heterotaxy syndrome. Korean Circ J. 2011 May;41(5):227-32. doi:
+10.4070/kcj.2011.41.5.227. Epub 2011 May 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kuehl KS, Loffredo C. Risk factors for heart disease associated with abnormal
+sidedness. Teratology. 2002 Nov;66(5):242-8. doi: 10.1002/tera.10099.
+Citation on PubMed
+Lin AE, Krikov S, Riehle-Colarusso T, Frias JL, Belmont J, Anderka M, Geva T,
+Getz KD, Botto LD; National Birth Defects Prevention Study. Laterality defects in
+the national birth defects prevention study (1998-2007): birth prevalence and
+descriptive epidemiology. Am J Med Genet A. 2014 Oct;164A(10):2581-91. doi:
+10.1002/ajmg.a.36695. Epub 2014 Aug 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lopez KN, Marengo LK, Canfield MA, Belmont JW, Dickerson HA. Racial
+disparities in heterotaxy syndrome. Birth Defects Res A Clin Mol Teratol. 2015
+Nov;103(11):941-50. doi: 10.1002/bdra.23416. Epub 2015 Sep 2.
+Citation on PubMed
+Shapiro AJ, Davis SD, Ferkol T, Dell SD, Rosenfeld M, Olivier KN, Sagel SD,
+Milla C, Zariwala MA, Wolf W, Carson JL, Hazucha MJ, Burns K, Robinson B, Knowles
+MR, Leigh MW; Genetic Disorders of Mucociliary Clearance Consortium. Laterality
+defects other than situs inversus totalis in primary ciliary dyskinesia: insights
+into situs ambiguus and heterotaxy. Chest. 2014 Nov;146(5):1176-1186. doi:
+10.1378/chest.13-1704.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sutherland MJ, Ware SM. Disorders of left-right asymmetry: heterotaxy and
+situs inversus. Am J Med Genet C Semin Med Genet. 2009 Nov 15;151C(4):307-17.
+doi: 10.1002/ajmg.c.30228.
+Citation on PubMed
+Teele SA, Jacobs JP, Border WL, Chanani NK. Heterotaxy Syndrome: Proceedings
+From the 10th International PCICS Meeting. World J Pediatr Congenit Heart Surg.
+2015 Oct;6(4):616-29. doi: 10.1177/2150135115604470.
+Citation on PubMed
+Related Health Topics
+Birth Defects
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

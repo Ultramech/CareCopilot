@@ -1,0 +1,130 @@
+Protein S deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Protein S deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/protein-s-deficiency/
+Protein S deficiency
+Description
+Protein S deficiency is a disorder that increases the risk of developing blood clots. People with protein S deficiency are at risk of developing a type of clot called a
+deep vein thrombosis
+(DVT) that occurs in the deep veins of the arms or legs. A DVT can travel through the bloodstream and lodge in the lungs, causing a life-threatening clot called a
+pulmonary embolism
+(PE). Both DVTs and PEs are a type of venous thromboembolism, a general term for blood clots that form in a vein. Factors such as age, surgery, immobility, or pregnancy can increase the risk of clotting in people with protein S deficiency. In addition, people who have protein S deficiency and another inherited blood clotting disorder may have a higher risk of developing blood clots. Venous thromboembolism occurs in approximately fifty to sixty percent of people with protein S deficiency.
+In rare cases, individuals have a severe form of protein S deficiency with signs and symptoms that develop soon after birth. Affected infants typically develop a life-threatening blood clotting disorder called purpura fulminans. Purpura fulminans is characterized by the formation of blood clots within small blood vessels throughout the body. These blood clots disrupt normal blood flow and can lead to the death of tissues (necrosis). Widespread blood clotting uses up all available blood clotting proteins. As a result, the body can no longer create clots, and bleeding occurs in various parts of the body. This abnormal bleeding often appears as large, purple skin lesions. Affected individuals who survive the newborn period may experience recurrent episodes of purpura fulminans.
+Frequency
+Protein S deficiency is estimated to occur in approximately 1 in 500 individuals.
+The severe form of protein S deficiency that develops in infancy is rare, although its exact prevalence is unknown.
+Causes
+Protein S deficiency can be caused by variants (also called mutations) in the
+PROS1
+gene. This gene provides instructions for making protein S, which is found in the bloodstream and is important for the control of blood clotting. Protein S helps block the activity of (inactivate) certain proteins that promote the formation of blood clots.
+Most variants that cause protein S deficiency change single DNA building blocks (base pairs) in the
+PROS1
+gene. These gene variants change the amount of functional protein S. Individuals with protein S deficiency may not have enough functional protein S to inactivate clotting proteins, which increases the risk of developing blood clots.
+Some cases of protein S deficiency are acquired, which means they do not appear to be caused by gene variants. Causes of acquired protein S deficiency include vitamin K deficiency, liver disease, and kidney disorders.
+Learn more about the gene associated with Protein S deficiency
+PROS1
+Inheritance
+Protein S deficiency is typically inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to increase the risk of clotting.
+In rare cases, a person has a variant in both copies of the
+PROS1
+gene. This is typical of individuals with the severe form of protein S deficiency that develops in infancy. This form of protein S deficiency is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder.
+Acquired protein S deficiency is not inherited and typically occurs in people with no history of the condition in their family.
+Other Names for This Condition
+Hereditary thrombophilia due to protein S deficiency
+Thrombophilia due to protein S deficiency, autosomal dominant
+Thrombophilia due to protein S deficiency, autosomal recessive
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Thrombophilia due to protein S deficiency, autosomal dominant
+Genetic and Rare Diseases Information Center
+Protein S deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+THROMBOPHILIA DUE TO PROTEIN S DEFICIENCY, AUTOSOMAL DOMINANT; THPH5
+Scientific Articles on PubMed
+PubMed
+References
+Castoldi E, Hackeng TM. Regulation of coagulation by protein S. Curr Opin
+Hematol. 2008 Sep;15(5):529-36. doi: 10.1097/MOH.0b013e328309ec97.
+Citation on PubMed
+Garcia de Frutos P, Fuentes-Prior P, Hurtado B, Sala N. Molecular basis of
+protein S deficiency. Thromb Haemost. 2007 Sep;98(3):543-56.
+Citation on PubMed
+Gupta A, Tun AM, Gupta K, Tuma F. Protein S Deficiency. 2022 Dec 5. In:
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
+Available from http://www.ncbi.nlm.nih.gov/books/NBK544344/
+Citation on PubMed
+Hackeng TM, Maurissen LF, Castoldi E, Rosing J. Regulation of TFPI function by
+protein S. J Thromb Haemost. 2009 Jul;7 Suppl 1:165-8. doi:
+10.1111/j.1538-7836.2009.03363.x.
+Citation on PubMed
+Pintao MC, Garcia AA, Borgel D, Alhenc-Gelas M, Spek CA, de Visser MC,
+Gandrille S, Reitsma PH. Gross deletions/duplications in PROS1 are relatively
+common in point mutation-negative hereditary protein S deficiency. Hum Genet.
+2009 Sep;126(3):449-56. doi: 10.1007/s00439-009-0687-9. Epub 2009 May 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ten Kate MK, Platteel M, Mulder R, Terpstra P, Nicolaes GA, Reitsma PH, van
+der Steege G, van der Meer J. PROS1 analysis in 87 pedigrees with hereditary
+protein S deficiency demonstrates striking genotype-phenotype associations. Hum
+Mutat. 2008 Jul;29(7):939-47. doi: 10.1002/humu.20687.
+Citation on PubMed
+ten Kate MK, van der Meer J. Protein S deficiency: a clinical perspective.
+Haemophilia. 2008 Nov;14(6):1222-8. doi: 10.1111/j.1365-2516.2008.01775.x. Epub
+2008 May 7.
+Citation on PubMed
+Related Health Topics
+Blood Clots
+Deep Vein Thrombosis
+Genetic Disorders
+Pulmonary Embolism
+MEDICAL ENCYCLOPEDIA
+Congenital protein C or S deficiency
+Genetics
+Necrosis
+Protein S blood test
+Purpura
+Related Medical Tests
+Protein C and Protein S Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

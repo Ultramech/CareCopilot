@@ -1,0 +1,155 @@
+Giant congenital melanocytic nevus: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Giant congenital melanocytic nevus
+URL of this page: https://medlineplus.gov/genetics/condition/giant-congenital-melanocytic-nevus/
+Giant congenital melanocytic nevus
+Description
+Giant congenital melanocytic nevus is a skin condition characterized by an abnormally dark, noncancerous skin patch (nevus) that is composed of pigment-producing cells called melanocytes. It is present from birth (congenital) or is noticeable soon after birth. The nevus may be small in infants, but it will usually grow at the same rate the body grows and will eventually be at least 40 cm (15.75 inches) across. The nevus can appear anywhere on the body, but it is more often found on the trunk or limbs. The color ranges from tan to black and can become darker or lighter over time. The surface of a nevus can be flat, rough, raised, thickened, or bumpy; the surface can vary in different regions of the nevus, and it can change over time. The skin of the nevus is often dry and prone to irritation and itching (dermatitis). Excessive hair growth (hypertrichosis) can occur within the nevus. There is often less fat tissue under the skin of the nevus; the skin may appear thinner there than over other areas of the body.
+People with giant congenital melanocytic nevus may have more than one nevus (plural: nevi). The other nevi are often smaller than the giant nevus. Affected individuals may have one or two additional nevi or multiple small nevi that are scattered over the skin; these are known as satellite or disseminated nevi.
+Affected individuals may feel anxiety or emotional stress due to the impact the nevus may have on their appearance and their health. Children with giant congenital melanocytic nevus can develop emotional or behavior problems.
+Some people with giant congenital melanocytic nevus develop a condition called neurocutaneous melanosis, which is the presence of pigment-producing skin cells (melanocytes) in the tissue that covers the brain and spinal cord. These melanocytes may be spread out or grouped together in clusters. Their growth can cause increased pressure in the brain, leading to headache, vomiting, irritability, seizures, and movement problems. Tumors in the brain may also develop.
+Individuals with giant congenital melanocytic nevus have an increased risk of developing an aggressive form of
+skin cancer
+called
+melanoma
+, which arises from melanocytes. Estimates vary, but it is generally thought that people with giant congenital melanocytic nevus have a 5 to 10 percent lifetime risk of developing melanoma. Melanoma commonly begins in the nevus, but it can develop when melanocytes that
+invade other tissues
+, such as those in
+the brain and spinal cord
+, become cancerous. When melanoma occurs in people with giant congenital melanocytic nevus, the survival rate is low.
+Other types of tumors can also develop in individuals with giant congenital melanocytic nevus, including soft tissue tumors (
+sarcomas
+), fatty tumors (lipomas), and tumors of the nerve cells (schwannomas).
+Frequency
+Giant congenital melanocytic nevus occurs in approximately 1 in 20,000 newborns worldwide.
+Causes
+NRAS
+gene mutations cause most cases of giant congenital melanocytic nevus. Rarely, mutations in the
+BRAF
+gene are responsible for this condition.
+The proteins produced from these genes are involved in a process known as signal transduction by which signals are relayed from outside the cell to the cell's
+nucleus
+. Signals relayed by the N-Ras and BRAF proteins instruct the cell to grow and divide (proliferate) or to mature and take on specialized functions (differentiate). To transmit signals, these proteins must be turned on; when the proteins are turned off, they do not relay signals to the cell's nucleus.
+The
+NRAS
+or
+BRAF
+gene mutations responsible for giant congenital melanocytic nevus are somatic, meaning that they are acquired during a person's lifetime and are present only in certain cells. These mutations occur early in embryonic development during the growth and division (proliferation) of cells that develop into
+melanocytes
+. Somatic
+NRAS
+or
+BRAF
+gene mutations cause the altered protein in affected cells to be constantly turned on (constitutively active) and relaying signals. The overactive protein may contribute to the development of giant congenital melanocytic nevus by allowing cells that develop into melanocytes to grow and divide uncontrollably, starting before birth.
+Learn more about the genes associated with Giant congenital melanocytic nevus
+BRAF
+NRAS
+Inheritance
+This condition is generally not inherited but arises from a mutation in the body's cells that occurs after conception. This alteration is called a somatic mutation. A somatic mutation in one copy of the
+NRAS
+or
+BRAF
+gene is sufficient to cause this disorder.
+Other Names for This Condition
+Congenital giant pigmented nevus of skin
+Congenital melanocytic nevus syndrome
+Giant congenital melanocytic nevi
+Giant congenital pigmented nevus
+Giant pigmented hairy nevus
+GMN
+GPHN
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Large congenital melanocytic nevus
+Genetic and Rare Diseases Information Center
+Large congenital melanocytic nevus
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MELANOCYTIC NEVUS SYNDROME, CONGENITAL; CMNS
+Scientific Articles on PubMed
+PubMed
+References
+Charbel C, Fontaine RH, Malouf GG, Picard A, Kadlub N, El-Murr N, How-Kit A,
+Su X, Coulomb-L'Hermine A, Tost J, Mourah S, Aractingi S, Guegan S. NRAS mutation
+is the sole recurrent somatic mutation in large congenital melanocytic nevi. J
+Invest Dermatol. 2014 Apr;134(4):1067-1074. doi: 10.1038/jid.2013.429. Epub 2013
+Oct 15.
+Citation on PubMed
+Etchevers HC. Hiding in plain sight: molecular genetics applied to giant
+congenital melanocytic nevi. J Invest Dermatol. 2014 Apr;134(4):879-882. doi:
+10.1038/jid.2013.531.
+Citation on PubMed
+Krengel S, Scope A, Dusza SW, Vonthein R, Marghoob AA. New recommendations for
+the categorization of cutaneous features of congenital melanocytic nevi. J Am
+Acad Dermatol. 2013 Mar;68(3):441-51. doi: 10.1016/j.jaad.2012.05.043. Epub 2012
+Sep 13.
+Citation on PubMed
+Rasmussen BS, Henriksen TF, Kolle SF, Schmidt G. Giant congenital melanocytic
+nevus: report from 30 years of experience in a single department. Ann Plast Surg.
+2015 Feb;74(2):223-9. doi: 10.1097/SAP.0b013e3182920c3d.
+Citation on PubMed
+Salgado CM, Basu D, Nikiforova M, Bauer BS, Johnson D, Rundell V, Grunwaldt
+LJ, Reyes-Mugica M. BRAF mutations are also associated with neurocutaneous
+melanocytosis and large/giant congenital melanocytic nevi. Pediatr Dev Pathol.
+2015 Jan-Feb;18(1):1-9. doi: 10.2350/14-10-1566-OA.1. Epub 2014 Dec 9.
+Citation on PubMed
+Viana AC, Gontijo B, Bittencourt FV. Giant congenital melanocytic nevus. An
+Bras Dermatol. 2013 Nov-Dec;88(6):863-78. doi: 10.1590/abd1806-4841.20132233.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yun SJ, Kwon OS, Han JH, Kweon SS, Lee MW, Lee DY, Kim MB, Kim YC, Yoon TY,
+Chung KY, Kim IH, Kim KH, Suh KS, Lee SJ, Seo YJ, Kim KH, Park HJ, Roh MR, Ahn
+KJ, Yoon TJ, Kim MH, Li KS, Park JS, Shin BS, Ko JY, Ahn HH, Kim HJ, Park SD,
+Jang SJ, Won YH. Clinical characteristics and risk of melanoma development from
+giant congenital melanocytic naevi in Korea: a nationwide retrospective study. Br
+J Dermatol. 2012 Jan;166(1):115-23. doi: 10.1111/j.1365-2133.2011.10636.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Birthmarks
+Genetic Disorders
+Melanoma
+MEDICAL ENCYCLOPEDIA
+Congenital Nevus on the Abdomen (Image)
+Genetics
+Giant congenital nevus
+Related Medical Tests
+BRAF Genetic Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,146 @@
+Meier-Gorlin syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Meier-Gorlin syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/meier-gorlin-syndrome/
+Meier-Gorlin syndrome
+Description
+Meier-Gorlin syndrome is a condition primarily characterized by short stature. It is considered a form of primordial dwarfism because the growth problems begin before birth (intrauterine growth retardation). After birth, affected individuals continue to grow at a slow rate. Other characteristic features of this condition are underdeveloped or missing kneecaps (patellae), small ears, and, often, an abnormally small head (
+microcephaly
+). Despite a small head size, most people with Meier-Gorlin syndrome have normal intellect.
+Some people with Meier-Gorlin syndrome have other skeletal abnormalities, such as unusually narrow long bones in the arms and legs, a deformity of the knee joint that allows the knee to bend backwards (genu recurvatum), and slowed mineralization of bones (delayed bone age).
+Most people with Meier-Gorlin syndrome have distinctive facial features. In addition to being abnormally small, the ears may be low-set or rotated backward. Additional features can include a small mouth (microstomia), an underdeveloped lower jaw (micrognathia), full lips, and a narrow nose with a high nasal bridge.
+Abnormalities in sexual development may also occur in Meier-Gorlin syndrome. In some males with this condition, the testes are small or undescended (cryptorchidism). Affected females may have unusually small external genital folds (hypoplasia of the labia majora) and small breasts. Both males and females with this condition can have sparse or absent underarm (axillary) hair.
+Additional features of Meier-Gorlin syndrome can include difficulty feeding and a lung condition known as pulmonary emphysema or other breathing problems.
+Frequency
+Meier-Gorlin syndrome is a rare condition; however, its prevalence is unknown.
+Causes
+Meier-Gorlin syndrome can be caused by mutations in one of several genes. Each of these genes,
+ORC1
+,
+ORC4
+,
+ORC6
+,
+CDT1
+, and
+CDC6
+, provides instructions for making one of a group of proteins known as the pre-replication complex. This complex regulates initiation of the copying (replication) of DNA before cells divide. Specifically, the pre-replication complex attaches (binds) to certain regions of DNA known as origins of replication, allowing copying of the DNA to begin at that location. This tightly controlled process, called replication licensing, helps ensure that DNA replication occurs only once per cell division and is required for cells to divide.
+Mutations in any one of these genes impair formation of the pre-replication complex and disrupt replication licensing; however, it is not clear how a reduction in replication licensing leads to Meier-Gorlin syndrome. Researchers speculate that such a reduction delays the cell division process, which impairs growth of the bones and other tissues during development. Some research suggests that some of the pre-replication complex proteins have additional functions, impairment of which may contribute to features of Meier-Gorlin syndrome, such as delayed development of the kneecaps and ears.
+Learn more about the genes associated with Meier-Gorlin syndrome
+CDC6
+CDT1
+ORC1
+ORC4
+ORC6
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Ear, patella, short stature syndrome
+Microtia, absent patellae, micrognathia syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Meier-Gorlin syndrome
+Genetic Testing Registry: Meier-Gorlin syndrome 2
+Genetic Testing Registry: Meier-Gorlin syndrome 3
+Genetic Testing Registry: Meier-Gorlin syndrome 4
+Genetic Testing Registry: Meier-Gorlin syndrome 5
+Genetic and Rare Diseases Information Center
+Ear-patella-short stature syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MEIER-GORLIN SYNDROME 1; MGORS1
+MEIER-GORLIN SYNDROME 2; MGORS2
+MEIER-GORLIN SYNDROME 3; MGORS3
+MEIER-GORLIN SYNDROME 4; MGORS4
+MEIER-GORLIN SYNDROME 5; MGORS5
+Scientific Articles on PubMed
+PubMed
+References
+Bicknell LS, Bongers EM, Leitch A, Brown S, Schoots J, Harley ME, Aftimos S,
+Al-Aama JY, Bober M, Brown PA, van Bokhoven H, Dean J, Edrees AY, Feingold M,
+Fryer A, Hoefsloot LH, Kau N, Knoers NV, Mackenzie J, Opitz JM, Sarda P, Ross A,
+Temple IK, Toutain A, Wise CA, Wright M, Jackson AP. Mutations in the
+pre-replication complex cause Meier-Gorlin syndrome. Nat Genet. 2011 Feb
+27;43(4):356-9. doi: 10.1038/ng.775.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bicknell LS, Walker S, Klingseisen A, Stiff T, Leitch A, Kerzendorfer C,
+Martin CA, Yeyati P, Al Sanna N, Bober M, Johnson D, Wise C, Jackson AP,
+O'Driscoll M, Jeggo PA. Mutations in ORC1, encoding the largest subunit of the
+origin recognition complex, cause microcephalic primordial dwarfism resembling
+Meier-Gorlin syndrome. Nat Genet. 2011 Feb 27;43(4):350-5. doi: 10.1038/ng.776.
+Citation on PubMed
+de Munnik SA, Bicknell LS, Aftimos S, Al-Aama JY, van Bever Y, Bober MB,
+Clayton-Smith J, Edrees AY, Feingold M, Fryer A, van Hagen JM, Hennekam RC,
+Jansweijer MC, Johnson D, Kant SG, Opitz JM, Ramadevi AR, Reardon W, Ross A,
+Sarda P, Schrander-Stumpel CT, Schoots J, Temple IK, Terhal PA, Toutain A, Wise
+CA, Wright M, Skidmore DL, Samuels ME, Hoefsloot LH, Knoers NV, Brunner HG,
+Jackson AP, Bongers EM. Meier-Gorlin syndrome genotype-phenotype studies: 35
+individuals with pre-replication complex gene mutations and 10 without molecular
+diagnosis. Eur J Hum Genet. 2012 Jun;20(6):598-606. doi: 10.1038/ejhg.2011.269.
+Epub 2012 Feb 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+de Munnik SA, Otten BJ, Schoots J, Bicknell LS, Aftimos S, Al-Aama JY, van
+Bever Y, Bober MB, Borm GF, Clayton-Smith J, Deal CL, Edrees AY, Feingold M,
+Fryer A, van Hagen JM, Hennekam RC, Jansweijer MC, Johnson D, Kant SG, Opitz JM,
+Ramadevi AR, Reardon W, Ross A, Sarda P, Schrander-Stumpel CT, Sluiter AE, Temple
+IK, Terhal PA, Toutain A, Wise CA, Wright M, Skidmore DL, Samuels ME, Hoefsloot
+LH, Knoers NV, Brunner HG, Jackson AP, Bongers EM. Meier-Gorlin syndrome: growth
+and secondary sexual development of a microcephalic primordial dwarfism disorder.
+Am J Med Genet A. 2012 Nov;158A(11):2733-42. doi: 10.1002/ajmg.a.35681. Epub 2012
+Sep 28.
+Citation on PubMed
+Guernsey DL, Matsuoka M, Jiang H, Evans S, Macgillivray C, Nightingale M,
+Perry S, Ferguson M, LeBlanc M, Paquette J, Patry L, Rideout AL, Thomas A, Orr A,
+McMaster CR, Michaud JL, Deal C, Langlois S, Superneau DW, Parkash S, Ludman M,
+Skidmore DL, Samuels ME. Mutations in origin recognition complex gene ORC4 cause
+Meier-Gorlin syndrome. Nat Genet. 2011 Feb 27;43(4):360-4. doi: 10.1038/ng.777.
+Citation on PubMed
+Related Health Topics
+Dwarfism
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Microcephaly
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

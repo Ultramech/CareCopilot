@@ -1,0 +1,187 @@
+Vitiligo: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Vitiligo
+URL of this page: https://medlineplus.gov/genetics/condition/vitiligo/
+Vitiligo
+Description
+Vitiligo is a condition that causes patchy loss of skin coloring (pigmentation). In addition, hair on these regions of skin can also lose pigment and appear white. The average age of onset of vitiligo is in the mid-twenties, but it can appear at any age. The size and number of patches varies from person to person. The condition tends to progress over time, with larger areas of the skin losing pigment. However, the patches can remain stable or even improve in some affected individuals.
+Researchers have identified several forms of vitiligo. Generalized vitiligo (also called nonsegmental vitiligo), which is the most common form, involves loss of pigment (depigmentation) in
+patches of skin all over the body
+. Depigmentation typically occurs on the face, neck, and scalp, and around body openings such as the mouth and genitals. Sometimes pigment is lost in mucous membranes, such as the lips. Loss of pigmentation is also frequently seen in areas that tend to experience rubbing, impact, or other trauma, such as the hands, arms, and places where bones are close to the skin surface (bony prominences). Another form of the condition, called segmental vitiligo, is associated with smaller patches of depigmented skin that appear on one side of the body in a limited area. This form occurs in about 10 percent of affected individuals.
+Vitiligo is generally considered to be an autoimmune disorder. Autoimmune disorders occur when the immune system attacks the body's own tissues and organs. In people with vitiligo the immune system appears to attack the
+pigment cells (melanocytes) in the skin
+. About 15 to 25 percent of people with vitiligo are also affected by at least one other autoimmune disorder, particularly autoimmune
+thyroid
+disease,
+rheumatoid arthritis
+,
+type 1 diabetes
+,
+psoriasis
+, pernicious anemia,
+Addison disease
+,
+systemic lupus erythematosus
+,
+celiac disease
+,
+Crohn's disease
+, or
+ulcerative colitis
+.
+In the absence of other autoimmune conditions, vitiligo does not affect general health or physical functioning. However, concerns about appearance and ethnic identity are significant issues for many affected individuals.
+Frequency
+Vitiligo is a common disorder, affecting between 0.5 percent and 1 percent of the population worldwide. However, many cases may not be reported, and some researchers suggest the condition may affect up to 1.5 percent of the population. While the condition may be more noticeable in dark-skinned people, it occurs with similar frequency in all ethnic groups.
+Causes
+Variations in over 30 genes, occurring in different combinations, have been associated with an increased risk of developing vitiligo. Two of these genes are
+NLRP1
+and
+PTPN22
+. The
+NLRP1
+gene provides instructions for making a protein that is involved in the immune system, helping to regulate the process of
+inflammation
+. Inflammation occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair. The body then stops (inhibits) the inflammatory response to prevent damage to its own cells and tissues.
+The
+PTPN22
+gene provides instructions for making a protein involved in signaling that helps control the activity of immune system cells called
+T cells
+. T cells identify foreign substances and defend the body against infection.
+The variations in the
+NLRP1
+and
+PTPN22
+genes that are associated with an increased risk of developing vitiligo likely affect the activity of the NLRP1 and PTPN22 proteins, making it more difficult for the body to control inflammation and prevent the immune system from attacking its own tissues.
+Studies indicate that variations in a number of other genes also affect the risk of vitiligo. Many of these genes are also involved in immune system function or
+melanocyte
+biology, and variations in each likely make only a small contribution to vitiligo risk. Some of the gene changes associated with an increased risk of vitiligo have also been associated with an increased risk of other autoimmune conditions.
+It is unclear what specific circumstances trigger the immune system to attack melanocytes in the skin. Research suggests that the immune system of affected individuals may react abnormally to melanocytes that are stressed by factors such as chemicals or ultraviolet radiation. In addition, the melanocytes of people with vitiligo may be more susceptible to stress than those of the general population and therefore may be more likely to be attacked by the immune system.
+The condition probably results from a combination of genetic and environmental factors, many of which have not been identified. Studies suggest that psychological stress, exposure to ultraviolet radiation, or contact with certain chemicals or skin-whitening products may trigger vitiligo in predisposed individuals.
+Learn more about the genes associated with Vitiligo
+NLRP1
+PTPN22
+Inheritance
+Vitiligo sometimes runs in families, but the inheritance pattern is complex because multiple causative factors are involved. About one-fifth of people with this condition have at least one close relative who is also affected.
+Other Names for This Condition
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 6; VAMAS6
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1; VAMAS1
+Scientific Articles on PubMed
+PubMed
+References
+Boissy RE, Spritz RA. Frontiers and controversies in the pathobiology of
+vitiligo: separating the wheat from the chaff. Exp Dermatol. 2009
+Jul;18(7):583-5. doi: 10.1111/j.1600-0625.2008.00826.x. Epub 2009 Mar 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Halder RM, Chappell JL. Vitiligo update. Semin Cutan Med Surg. 2009
+Jun;28(2):86-92. doi: 10.1016/j.sder.2009.04.008.
+Citation on PubMed
+Jin Y, Birlea SA, Fain PR, Ferrara TM, Ben S, Riccardi SL, Cole JB, Gowan K,
+Holland PJ, Bennett DC, Luiten RM, Wolkerstorfer A, van der Veen JP, Hartmann A,
+Eichner S, Schuler G, van Geel N, Lambert J, Kemp EH, Gawkrodger DJ, Weetman AP,
+Taieb A, Jouary T, Ezzedine K, Wallace MR, McCormack WT, Picardo M, Leone G,
+Overbeck A, Silverberg NB, Spritz RA. Genome-wide association analyses identify
+13 new susceptibility loci for generalized vitiligo. Nat Genet. 2012 May
+6;44(6):676-80. doi: 10.1038/ng.2272.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jin Y, Birlea SA, Fain PR, Gowan K, Riccardi SL, Holland PJ, Mailloux CM,
+Sufit AJ, Hutton SM, Amadi-Myers A, Bennett DC, Wallace MR, McCormack WT, Kemp
+EH, Gawkrodger DJ, Weetman AP, Picardo M, Leone G, Taieb A, Jouary T, Ezzedine K,
+van Geel N, Lambert J, Overbeck A, Spritz RA. Variant of TYR and autoimmunity
+susceptibility loci in generalized vitiligo. N Engl J Med. 2010 May
+6;362(18):1686-97. doi: 10.1056/NEJMoa0908547. Epub 2010 Apr 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jin Y, Birlea SA, Fain PR, Mailloux CM, Riccardi SL, Gowan K, Holland PJ,
+Bennett DC, Wallace MR, McCormack WT, Kemp EH, Gawkrodger DJ, Weetman AP, Picardo
+M, Leone G, Taieb A, Jouary T, Ezzedine K, van Geel N, Lambert J, Overbeck A,
+Spritz RA. Common variants in FOXP1 are associated with generalized vitiligo. Nat
+Genet. 2010 Jul;42(7):576-8. doi: 10.1038/ng.602. Epub 2010 Jun 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jin Y, Riccardi SL, Gowan K, Fain PR, Spritz RA. Fine-mapping of vitiligo
+susceptibility loci on chromosomes 7 and 9 and interactions with NLRP1 (NALP1). J
+Invest Dermatol. 2010 Mar;130(3):774-83. doi: 10.1038/jid.2009.273. Epub 2009 Sep
+3.
+Citation on PubMed
+or
+Free article on PubMed Central
+LaBerge GS, Bennett DC, Fain PR, Spritz RA. PTPN22 is genetically associated
+with risk of generalized vitiligo, but CTLA4 is not. J Invest Dermatol. 2008
+Jul;128(7):1757-62. doi: 10.1038/sj.jid.5701233. Epub 2008 Jan 17.
+Citation on PubMed
+Laberge GS, Birlea SA, Fain PR, Spritz RA. The PTPN22-1858C>T (R620W)
+functional polymorphism is associated with generalized vitiligo in the Romanian
+population. Pigment Cell Melanoma Res. 2008 Apr;21(2):206-8. doi:
+10.1111/j.1755-148X.2008.00443.x.
+Citation on PubMed
+Richmond JM, Frisoli ML, Harris JE. Innate immune mechanisms in vitiligo:
+danger from within. Curr Opin Immunol. 2013 Dec;25(6):676-82. doi:
+10.1016/j.coi.2013.10.010. Epub 2013 Nov 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Smith AG, Sturm RA. Multiple genes and locus interactions in susceptibility to
+vitiligo. J Invest Dermatol. 2010 Mar;130(3):643-5. doi: 10.1038/jid.2009.403.
+Citation on PubMed
+Spritz RA. Recent progress in the genetics of generalized vitiligo. J Genet
+Genomics. 2011 Jul 20;38(7):271-8. doi: 10.1016/j.jgg.2011.05.005. Epub 2011 Jun
+12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Spritz RA. The genetics of generalized vitiligo. Curr Dir Autoimmun.
+2008;10:244-57. doi: 10.1159/000131501.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Vitiligo
+MEDICAL ENCYCLOPEDIA
+Genetics
+Vitiligo
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

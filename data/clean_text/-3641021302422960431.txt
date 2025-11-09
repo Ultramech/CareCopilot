@@ -1,0 +1,127 @@
+Autosomal dominant congenital stationary night blindness: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Autosomal dominant congenital stationary night blindness
+URL of this page: https://medlineplus.gov/genetics/condition/autosomal-dominant-congenital-stationary-night-blindness/
+Autosomal dominant congenital stationary night blindness
+Description
+Autosomal dominant congenital stationary night blindness is a disorder of the retina, which is the specialized tissue at the back of
+the eye
+that detects light and color. People with this condition typically have difficulty seeing and distinguishing objects in low light (night blindness). For example, they are not able to identify road signs at night and some people cannot see stars in the night sky. Affected individuals have normal daytime vision and typically do not have other vision problems related to this disorder.
+The night blindness associated with this condition is congenital, which means it is present from birth. This vision impairment tends to remain stable (stationary); it does not worsen over time.
+Frequency
+Autosomal dominant congenital stationary night blindness is likely a rare disease; however, its prevalence is unknown.
+Causes
+Mutations in the
+RHO
+,
+GNAT1
+, or
+PDE6B
+gene cause autosomal dominant congenital stationary night blindness. The proteins produced from these genes are necessary for normal vision, particularly in low-light conditions. These proteins are found in specialized light receptor cells in the retina called rods.
+Rods
+transmit visual signals from the eye to the brain when light is dim.
+The
+RHO
+gene provides instructions for making a protein called rhodopsin, which is turned on (activated) by light entering the eye. Rhodopsin then attaches (binds) to and activates the protein produced from the
+GNAT1
+gene, alpha (α)-transducin. The α-transducin protein then triggers the activation of a protein called cGMP-PDE, which is made up of multiple parts (subunits) including a subunit produced from the
+PDE6B
+gene. Activated cGMP-PDE triggers a series of chemical reactions that create electrical signals. These signals are transmitted from rod cells to the brain, where they are interpreted as vision.
+Mutations in the
+RHO
+,
+GNAT1
+, or
+PDE6B
+gene disrupt the normal signaling that occurs within rod cells. As a result, the rods cannot effectively transmit signals to the brain, leading to a lack of visual perception in low light.
+Learn more about the genes associated with Autosomal dominant congenital stationary night blindness
+GNAT1
+PDE6B
+RHO
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+AdCSNB
+CSNBAD
+Night blindness, congenital stationary, autosomal dominant
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital stationary night blindness
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+NIGHT BLINDNESS, CONGENITAL STATIONARY, AUTOSOMAL DOMINANT 2; CSNBAD2
+NIGHT BLINDNESS, CONGENITAL STATIONARY, AUTOSOMAL DOMINANT 3; CSNBAD3
+NIGHT BLINDNESS, CONGENITAL STATIONARY, AUTOSOMAL DOMINANT 1; CSNBAD1
+Scientific Articles on PubMed
+PubMed
+References
+Gal A, Orth U, Baehr W, Schwinger E, Rosenberg T. Heterozygous missense
+mutation in the rod cGMP phosphodiesterase beta-subunit gene in autosomal
+dominant stationary night blindness. Nat Genet. 1994 May;7(1):64-8. doi:
+10.1038/ng0594-64.
+Citation on PubMed
+McAlear SD, Kraft TW, Gross AK. 1 rhodopsin mutations in congenital night
+blindness. Adv Exp Med Biol. 2010;664:263-72. doi: 10.1007/978-1-4419-1399-9_30.
+Citation on PubMed
+Szabo V, Kreienkamp HJ, Rosenberg T, Gal A. p.Gln200Glu, a putative
+constitutively active mutant of rod alpha-transducin (GNAT1) in autosomal
+dominant congenital stationary night blindness. Hum Mutat. 2007 Jul;28(7):741-2.
+doi: 10.1002/humu.9499.
+Citation on PubMed
+Tsang SH, Woodruff ML, Jun L, Mahajan V, Yamashita CK, Pedersen R, Lin CS,
+Goff SP, Rosenberg T, Larsen M, Farber DB, Nusinowitz S. Transgenic mice carrying
+the H258N mutation in the gene encoding the beta-subunit of phosphodiesterase-6
+(PDE6B) provide a model for human congenital stationary night blindness. Hum
+Mutat. 2007 Mar;28(3):243-54. doi: 10.1002/humu.20425.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zeitz C, Gross AK, Leifert D, Kloeckener-Gruissem B, McAlear SD, Lemke J,
+Neidhardt J, Berger W. Identification and functional characterization of a novel
+rhodopsin mutation associated with autosomal dominant CSNB. Invest Ophthalmol Vis
+Sci. 2008 Sep;49(9):4105-14. doi: 10.1167/iovs.08-1717. Epub 2008 May 16.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Vision - night blindness
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,122 @@
+Congenital insensitivity to pain with anhidrosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital insensitivity to pain with anhidrosis
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-insensitivity-to-pain-with-anhidrosis/
+Congenital insensitivity to pain with anhidrosis
+Description
+Congenital insensitivity to pain with anhidrosis (CIPA) has two characteristic features: the inability to feel pain and temperature, and decreased or absent sweating (anhidrosis). This condition is also known as hereditary sensory and autonomic neuropathy type IV. The signs and symptoms of CIPA appear early, usually at birth or during infancy, but with careful medical attention, affected individuals can live into adulthood.
+An inability to feel pain and temperature often leads to repeated severe injuries. Unintentional self-injury is common in people with CIPA, typically by biting the tongue, lips, or fingers, which may lead to spontaneous amputation of the affected area. In addition, people with CIPA heal slowly from skin and bone injuries. Repeated trauma can lead to chronic bone infections (osteomyelitis) or a condition called Charcot joints, in which the bones and tissue surrounding joints are destroyed.
+Normally, sweating helps cool the body temperature. However, in people with CIPA, anhidrosis often causes recurrent, extremely high fevers (hyperpyrexia) and seizures brought on by high temperature (febrile seizures).
+In addition to the characteristic features, there are other signs and symptoms of CIPA. Many affected individuals have thick, leathery skin (lichenification) on the palms of their hands or misshapen fingernails or toenails. They can also have patches on their scalp where hair does not grow (hypotrichosis). About half of people with CIPA show signs of hyperactivity or emotional instability, and many affected individuals have intellectual disability. Some people with CIPA have weak muscle tone (hypotonia) when they are young, but muscle strength and tone become more normal as they get older.
+Frequency
+CIPA is a rare condition; however, the prevalence is unknown.
+Causes
+Mutations in the
+NTRK1
+gene cause CIPA. The
+NTRK1
+gene provides instructions for making a receptor protein that attaches (binds) to another protein called NGFβ. The NTRK1 receptor is important for the survival of nerve cells (
+neurons
+).
+The NTRK1 receptor is found on the surface of cells, particularly neurons that transmit pain, temperature, and touch sensations (sensory neurons). When the NGFβ protein binds to the NTRK1 receptor, signals are transmitted inside the cell that tell the cell to grow and divide, and that help it survive. Mutations in the
+NTRK1
+gene lead to a protein that cannot transmit signals. Without the proper signaling, neurons die by a process of self-destruction called apoptosis. Loss of sensory neurons leads to the inability to feel pain in people with CIPA. In addition, people with CIPA lose the nerves leading to their
+sweat glands
+, which causes the anhidrosis seen in affected individuals.
+Learn more about the gene associated with Congenital insensitivity to pain with anhidrosis
+NTRK1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CIPA
+Hereditary insensitivity to pain with anhidrosis
+Hereditary sensory and autonomic neuropathy type IV
+Hereditary sensory and autonomic neuropathy, type 4
+HSAN type IV
+HSAN4
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary insensitivity to pain with anhidrosis
+Genetic and Rare Diseases Information Center
+Hereditary sensory and autonomic neuropathy type 4
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INSENSITIVITY TO PAIN, CONGENITAL, WITH ANHIDROSIS; CIPA
+Scientific Articles on PubMed
+PubMed
+References
+Indo Y, Tsuruta M, Hayashida Y, Karim MA, Ohta K, Kawano T, Mitsubuchi H,
+Tonoki H, Awaya Y, Matsuda I. Mutations in the TRKA/NGF receptor gene in patients
+with congenital insensitivity to pain with anhidrosis. Nat Genet. 1996
+Aug;13(4):485-8. doi: 10.1038/ng0896-485.
+Citation on PubMed
+Indo Y. Molecular basis of congenital insensitivity to pain with anhidrosis
+(CIPA): mutations and polymorphisms in TRKA (NTRK1) gene encoding the receptor
+tyrosine kinase for nerve growth factor. Hum Mutat. 2001 Dec;18(6):462-71. doi:
+10.1002/humu.1224.
+Citation on PubMed
+Kaplan DR, Miller FD. Neurotrophin signal transduction in the nervous system.
+Curr Opin Neurobiol. 2000 Jun;10(3):381-91. doi: 10.1016/s0959-4388(00)00092-1.
+Citation on PubMed
+Miranda C, Di Virgilio M, Selleri S, Zanotti G, Pagliardini S, Pierotti MA,
+Greco A. Novel pathogenic mechanisms of congenital insensitivity to pain with
+anhidrosis genetic disorder unveiled by functional analysis of neurotrophic
+tyrosine receptor kinase type 1/nerve growth factor receptor mutations. J Biol
+Chem. 2002 Feb 22;277(8):6455-62. doi: 10.1074/jbc.M110016200. Epub 2001 Nov 21.
+Citation on PubMed
+Verhoeven K, Timmerman V, Mauko B, Pieber TR, De Jonghe P, Auer-Grumbach M.
+Recent advances in hereditary sensory and autonomic neuropathies. Curr Opin
+Neurol. 2006 Oct;19(5):474-80. doi: 10.1097/01.wco.0000245370.82317.f6.
+Citation on PubMed
+Verpoorten N, De Jonghe P, Timmerman V. Disease mechanisms in hereditary
+sensory and autonomic neuropathies. Neurobiol Dis. 2006 Feb;21(2):247-55. doi:
+10.1016/j.nbd.2005.08.004. Epub 2005 Sep 23.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Absence of Sweating
+Genetics
+Osteomyelitis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

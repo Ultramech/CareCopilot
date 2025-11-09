@@ -1,0 +1,143 @@
+Rosacea: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Rosacea
+URL of this page: https://medlineplus.gov/genetics/condition/rosacea/
+Rosacea
+Description
+Rosacea is a long-lasting (chronic) skin disease that affects the face, primarily the forehead, nose, cheeks, and chin. The signs and symptoms of rosacea vary, and they may come and go or change over time.
+There are three main types of rosacea, categorized by their primary signs and symptoms. Erythematotelangiectatic rosacea causes skin redness and warmth (flushing) and visible clusters of blood vessels (telangiectasia). Papulopustular rosacea causes skin redness, swelling, and pus-filled bumps called pustules. Phymatous rosacea is characterized by thickened skin on the face and an enlarged, bulbous nose (rhinophyma). People with rosacea may feel itching, stinging, or burning sensations in affected areas. Often, the disorder affects the eyes, causing abnormal inflammation of the eyelids and eyes (ocular rosacea). This inflammation can cause dryness, redness, and irritation of the eyes and may affect vision.
+Frequency
+Rosacea is a common skin condition. Depending on the population studied and the criteria used to diagnose the disorder, estimates of disease prevalence range from less than 1 percent to more than 20 percent of the population. The condition has been reported most frequently in fair-skinned people, particularly those of western European ancestry. However, the signs and symptoms of rosacea are easier to notice in fair-skinned people than in dark-skinned people, and few studies have investigated the prevalence of the disease in people with darker skin.
+Rosacea is diagnosed most often in early to mid-adulthood. It is unknown how common the disease is in children because most studies have involved adults. For reasons that are unclear, women appear to be affected more often than men.
+Causes
+The causes of rosacea are complex and not well understood. Both genetic and environmental factors appear to influence the disorder, although many of these factors have not been identified.
+Studies suggest that rosacea is associated with abnormalities of blood vessels (the vascular system) and the immune system. In people with this condition, blood vessels expand (dilate) too easily, which can cause redness and flushing of the skin. Rosacea is also associated with abnormal inflammation. Inflammation is a normal immune system response to injury and foreign invaders, such as bacteria. Abnormal inflammation impairs the skin's ability to act as a protective barrier for the body. Researchers believe that a combination of blood vessel abnormalities, abnormal inflammation, and a disruption of the skin barrier underlie the signs and symptoms of rosacea.
+Among the genes thought to play roles in rosacea are several genes in a family called the
+human leukocyte antigen (HLA) complex
+. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders. Each HLA gene has many different variations, allowing each person's immune system to react to a wide range of foreign proteins. Certain variations in HLA genes likely contribute to the abnormal inflammation that is characteristic of rosacea.
+Another group of genes that appear to be involved in the development of rosacea are glutathione S-transferases (GSTs). The proteins produced from these genes help protect cells from oxidative stress. Oxidative stress occurs when unstable molecules called reactive oxygen species (ROS) accumulate to levels that can damage or kill cells. Variants in several GST genes have been associated with an increased risk of developing rosacea. Researchers suspect that these variants reduce the ability of GSTs to protect skin cells from oxidative stress, leading to cell damage and inflammation.
+Environmental (nongenetic) factors can also increase the risk of developing rosacea and trigger its symptoms. Among the best-studied risk factors for rosacea is exposure to ultraviolet (UV) radiation from the sun. UV radiation causes oxidative stress that can damage skin cells. Studies suggest that having an overgrowth of certain microorganisms that live on facial skin, particularly mites called
+Demodex folliculorum
+, may also contribute to the development of rosacea. These mites stimulate an abnormal immune response and disrupt the normal skin barrier. Other factors that can trigger the signs and symptoms of rosacea or make them worse include heat exposure, spicy food, cigarette smoking, and alcohol, all of which cause blood vessels in the skin to dilate.
+Learn more about the genes associated with Rosacea
+HLA-DQA1
+HLA-DQB1
+HLA-DRB1
+Additional Information from NCBI Gene:
+GSTM1
+GSTT1
+Inheritance
+Because rosacea is a complex disease with both genetic and environmental influences, it does not have a straightforward pattern of inheritance. Studies suggest that people with rosacea are four times more likely to have a family history of the disorder than people without the condition. This increased risk is likely due in part to shared genetic factors, but it may also be related to environment and other nongenetic factors that are shared by members of a family.
+Other Names for This Condition
+Erythematotelangiectatic rosacea
+Granulomatous rosacea
+Ocular rosacea
+Papulopustular rosacea
+Phymatous rosacea
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Scientific Articles on PubMed
+PubMed
+References
+Aldrich N, Gerstenblith M, Fu P, Tuttle MS, Varma P, Gotow E, Cooper KD, Mann
+M, Popkin DL. Genetic vs Environmental Factors That Correlate With Rosacea: A
+Cohort-Based Survey of Twins. JAMA Dermatol. 2015 Nov;151(11):1213-9. doi:
+10.1001/jamadermatol.2015.2230.
+Citation on PubMed
+Asai Y, Tan J, Baibergenova A, Barankin B, Cochrane CL, Humphrey S, Lynde CW,
+Marcoux D, Poulin Y, Rivers JK, Sapijaszko M, Sibbald RG, Toole J, Ulmer M, Zip
+C. Canadian Clinical Practice Guidelines for Rosacea. J Cutan Med Surg. 2016
+Sep;20(5):432-45. doi: 10.1177/1203475416650427. Epub 2016 May 17.
+Citation on PubMed
+Chang ALS, Raber I, Xu J, Li R, Spitale R, Chen J, Kiefer AK, Tian C, Eriksson
+NK, Hinds DA, Tung JY. Assessment of the genetic basis of rosacea by genome-wide
+association study. J Invest Dermatol. 2015 Jun;135(6):1548-1555. doi:
+10.1038/jid.2015.53. Epub 2015 Feb 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Egeberg A, Hansen PR, Gislason GH, Thyssen JP. Clustering of autoimmune
+diseases in patients with rosacea. J Am Acad Dermatol. 2016 Apr;74(4):667-72.e1.
+doi: 10.1016/j.jaad.2015.11.004. Epub 2016 Jan 30.
+Citation on PubMed
+Schaller M, Almeida LM, Bewley A, Cribier B, Dlova NC, Kautz G, Mannis M, Oon
+HH, Rajagopalan M, Steinhoff M, Thiboutot D, Troielli P, Webster G, Wu Y, van
+Zuuren E, Tan J. Rosacea treatment update: recommendations from the global
+ROSacea COnsensus (ROSCO) panel. Br J Dermatol. 2017 Feb;176(2):465-471. doi:
+10.1111/bjd.15173. Epub 2017 Feb 5.
+Citation on PubMed
+Steinhoff M, Schauber J, Leyden JJ. New insights into rosacea pathophysiology:
+a review of recent findings. J Am Acad Dermatol. 2013 Dec;69(6 Suppl 1):S15-26.
+doi: 10.1016/j.jaad.2013.04.045.
+Citation on PubMed
+Steinhoff M, Schmelz M, Schauber J. Facial Erythema of Rosacea - Aetiology,
+Different Pathophysiologies and Treatment Options. Acta Derm Venereol. 2016 Jun
+15;96(5):579-86. doi: 10.2340/00015555-2335.
+Citation on PubMed
+Tan J, Berg M. Rosacea: current state of epidemiology. J Am Acad Dermatol.
+2013 Dec;69(6 Suppl 1):S27-35. doi: 10.1016/j.jaad.2013.04.043.
+Citation on PubMed
+van Zuuren EJ, Fedorowicz Z, Carter B, van der Linden MM, Charland L.
+Interventions for rosacea. Cochrane Database Syst Rev. 2015 Apr
+28;2015(4):CD003262. doi: 10.1002/14651858.CD003262.pub5.
+Citation on PubMed
+or
+Free article on PubMed Central
+van Zuuren EJ. Rosacea. N Engl J Med. 2017 Nov 2;377(18):1754-1764. doi:
+10.1056/NEJMcp1506630. No abstract available.
+Citation on PubMed
+Woo YR, Lim JH, Cho DH, Park HJ. Rosacea: Molecular Mechanisms and Management
+of a Chronic Cutaneous Inflammatory Condition. Int J Mol Sci. 2016 Sep
+15;17(9):1562. doi: 10.3390/ijms17091562.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yazici AC, Tamer L, Ikizoglu G, Kaya TI, Api H, Yildirim H, Adiguzel A. GSTM1
+and GSTT1 null genotypes as possible heritable factors of rosacea. Photodermatol
+Photoimmunol Photomed. 2006 Aug;22(4):208-10. doi:
+10.1111/j.1600-0781.2006.00220.x.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Rosacea
+MEDICAL ENCYCLOPEDIA
+Genetics
+Rhinophyma
+Rosacea
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

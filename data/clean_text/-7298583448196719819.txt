@@ -1,0 +1,182 @@
+Alcohol use disorder: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Alcohol use disorder
+URL of this page: https://medlineplus.gov/genetics/condition/alcohol-use-disorder/
+Alcohol use disorder
+Description
+Alcohol use disorder is a diagnosis made when an individual has severe problems related to drinking alcohol. Alcohol use disorder can cause major health, social, and economic problems, and can endanger affected individuals and others through behaviors prompted by impaired decision-making and lowered inhibitions, such as aggression, unprotected sex, or driving while intoxicated.
+Alcohol use disorder is a broad diagnosis that encompasses several commonly used terms describing problems with drinking. It includes alcoholism, also called alcohol addiction, which is a long-lasting (chronic) condition characterized by a powerful, compulsive urge to drink alcohol and the inability to stop drinking after starting. In addition to alcoholism, alcohol use disorder includes alcohol abuse, which involves problem drinking without addiction.
+Habitual excessive use of alcohol changes the chemistry of the brain and leads to tolerance, which means that over time the amount of alcohol ingested needs to be increased to achieve the same effect. Long-term excessive use of alcohol may also produce dependence, which means that when people stop drinking, they have physical and psychological symptoms of withdrawal, such as sleep problems, irritability, jumpiness, shakiness, restlessness, headache, nausea, sweating, anxiety, and
+depression
+. In severe cases, agitation, fever, seizures, and hallucinations can occur; this pattern of severe withdrawal symptoms is called delirium tremens.
+The heavy drinking that often occurs in alcohol use disorder, and can also occur in short-term episodes called binge drinking, can lead to a life-threatening overdose known as alcohol poisoning. Alcohol poisoning occurs when a large quantity of alcohol consumed over a short time causes problems with breathing, heart rate, body temperature, and the gag reflex. Signs and symptoms can include vomiting, choking, confusion, slow or irregular breathing, pale or blue-tinged skin, seizures, a low body temperature, a toxic buildup of substances called ketones in the blood (alcoholic ketoacidosis), and passing out (unconsciousness). Coma, brain damage, and death can occur if alcohol poisoning is not treated immediately.
+Chronic heavy alcohol use can also cause long-term problems affecting many organs and systems of the body. These health problems include irreversible
+liver
+disease (cirrhosis), inflammation of the
+pancreas
+(pancreatitis), brain dysfunction (encephalopathy), nerve damage (neuropathy), high blood pressure (
+hypertension
+), stroke, weakening of the heart muscle (
+cardiomyopathy
+), irregular heartbeats (arrhythmia), and immune system problems. Long-term overuse of alcohol also increases the risk of certain cancers, including cancers of the mouth, throat, esophagus, liver, and breast. Alcohol use in pregnant women can cause birth defects and fetal alcohol syndrome, which can lead to lifelong physical and behavioral problems in the affected child.
+Frequency
+Alcohol use disorder is a very common condition. According to the 2015 National Survey on Drug Use and Health, about 16 million Americans have alcohol use disorder, which affects about 8 percent of adult men, 4 percent of adult women, and 2.5 percent of adolescents ages 12 to 17. In total, approximately 38 million people in the United States are considered by public health experts to drink too much alcohol, which includes high weekly use (15 or more drinks per average week for men, and 8 for women), binge drinking, and any drinking by pregnant women or individuals under age 21.
+Heavy drinking, either with or without a diagnosis of alcohol use disorder, accounts for approximately 88,000 preventable deaths in the United States every year, including almost a third of driving fatalities, and is the third leading cause of preventable deaths in the United States after tobacco use and poor diet coupled with physical inactivity.
+Causes
+The causes of alcohol use disorder are complex. This condition results from a combination of genetic, environmental, and lifestyle factors, some of which have not been identified.
+Variations in genes that affect the metabolism (breakdown) of alcohol in the body have been studied as factors that can increase or decrease the risk of alcohol use disorder. Gene variations that result in skin flushing, nausea, headaches, and rapid heartbeat when drinking alcohol discourage its consumption and reduce the risk of alcohol use disorder. Populations that have a higher prevalence of such gene variations, such as people of Asian or Jewish descent, tend to have a lower risk of alcohol use disorder than other populations.
+The risk of alcohol use disorder is also related to variations in genes involved in nervous system function. Some of these genes play roles in various neurotransmitter pathways, in which chemicals in the nervous system called neurotransmitters and their receptors
+relay signals from one nerve cell (neuron) to another
+. Although variations in several of these genes have been associated with alcohol use disorder, it is unclear how these genetic changes influence the way in which the nervous system responds to alcohol.
+Nongenetic factors also play a critical role in alcohol use disorder. Factors that increase the risk of this condition include depression or other psychiatric disorders and certain psychological traits, including impulsivity and low self-esteem. Stress, associating with others who abuse alcohol, and having easy access to alcohol also contribute to a person's risk.
+Learn more about the genes associated with Alcohol use disorder
+COMT
+OPRM1
+SLC6A3
+Additional Information from NCBI Gene:
+ADH1B
+ADH1C
+ADH4
+ALDH2
+CHRM2
+DRD2
+DRD3
+GABRA2
+GABRG3
+HTR2A
+SLC6A4
+TAS2R16
+Inheritance
+Alcohol use disorder does not have a clear pattern of inheritance, although many affected individuals have a family history of problems with alcohol or other substances. Children of people with alcohol use disorder are two to six times more likely than the general public to develop alcohol problems. This increased risk is likely due in part to shared genetic factors, but it may also be related to environment, lifestyle, and other nongenetic influences that are shared by members of a family.
+Other Names for This Condition
+Alcohol addiction
+Alcohol dependence
+Alcoholism
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Alcohol dependence
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ALCOHOL DEPENDENCE
+Scientific Articles on PubMed
+PubMed
+References
+Abrahao KP, Salinas AG, Lovinger DM. Alcohol and the Brain: Neuronal Molecular
+Targets, Synapses, and Circuits. Neuron. 2017 Dec 20;96(6):1223-1238. doi:
+10.1016/j.neuron.2017.10.032.
+Citation on PubMed
+Anderson P, O'Donnell A, Kaner E. Managing Alcohol Use Disorder in Primary
+Health Care. Curr Psychiatry Rep. 2017 Sep 14;19(11):79. doi:
+10.1007/s11920-017-0837-z.
+Citation on PubMed
+or
+Free article on PubMed Central
+Awofala AA. Molecular and genetic determinants of alcohol dependence. J Addict
+Dis. 2013;32(3):293-309. doi: 10.1080/10550887.2013.824329.
+Citation on PubMed
+Berkel TD, Pandey SC. Emerging Role of Epigenetic Mechanisms in Alcohol
+Addiction. Alcohol Clin Exp Res. 2017 Apr;41(4):666-680. doi: 10.1111/acer.13338.
+Epub 2017 Feb 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Edenberg HJ. The genetics of alcohol metabolism: role of alcohol dehydrogenase
+and aldehyde dehydrogenase variants. Alcohol Res Health. 2007;30(1):5-13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ferraguti G, Pascale E, Lucarelli M. Alcohol addiction: a molecular biology
+perspective. Curr Med Chem. 2015;22(6):670-84. doi:
+10.2174/0929867321666141229103158.
+Citation on PubMed
+Grant BF, Chou SP, Saha TD, Pickering RP, Kerridge BT, Ruan WJ, Huang B, Jung
+J, Zhang H, Fan A, Hasin DS. Prevalence of 12-Month Alcohol Use, High-Risk
+Drinking, and DSM-IV Alcohol Use Disorder in the United States, 2001-2002 to
+2012-2013: Results From the National Epidemiologic Survey on Alcohol and Related
+Conditions. JAMA Psychiatry. 2017 Sep 1;74(9):911-923. doi:
+10.1001/jamapsychiatry.2017.2161.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nehring SM, Chen RJ, Freeman AM. Alcohol Use Disorder: Screening, Evaluation,
+and Management. 2024 Mar 16. In: StatPearls [Internet]. Treasure Island (FL):
+StatPearls Publishing; 2025 Jan-. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK436003/
+Citation on PubMed
+Ragia G, Manolopoulos VG. Personalized Medicine of Alcohol Addiction:
+Pharmacogenomics and Beyond. Curr Pharm Biotechnol. 2017;18(3):221-230. doi:
+10.2174/1389201018666170224105025.
+Citation on PubMed
+Samokhvalov AV, Popova S, Room R, Ramonas M, Rehm J. Disability associated
+with alcohol abuse and dependence. Alcohol Clin Exp Res. 2010 Nov;34(11):1871-8.
+doi: 10.1111/j.1530-0277.2010.01275.x.
+Citation on PubMed
+or
+Free article on PubMed Central
+Substance Abuse and Mental Health Services Administration (US); Office of the
+Surgeon General (US). Facing Addiction in America: The Surgeon General's Report
+on Alcohol, Drugs, and Health [Internet]. Washington (DC): US Department of
+Health and Human Services; 2016 Nov. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK424857/
+Citation on PubMed
+Zhu EC, Soundy TJ, Hu Y. Genetics of Alcoholism. S D Med. 2017
+May;70(5):225-227.
+Citation on PubMed
+Related Health Topics
+Alcohol
+Alcohol Use Disorder (AUD)
+Alcohol Use Disorder (AUD) Treatment
+Fatty Liver Disease
+Fetal Alcohol Spectrum Disorders
+Genetic Disorders
+Underage Drinking
+MEDICAL ENCYCLOPEDIA
+Alcohol use disorder
+Alcohol withdrawal
+Alcoholic liver disease
+Alcoholic neuropathy
+Deciding to quit drinking alcohol
+Delirium tremens
+Genetics
+Health risks of alcohol use
+Helping a loved one with a drinking problem
+When you are drinking too much - tips for cutting back
+Related Medical Tests
+Mental Health Screening
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

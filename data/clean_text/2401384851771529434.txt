@@ -1,0 +1,194 @@
+Severe congenital neutropenia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Severe congenital neutropenia
+URL of this page: https://medlineplus.gov/genetics/condition/severe-congenital-neutropenia/
+Severe congenital neutropenia
+Description
+Severe congenital neutropenia is a condition that increases the risk of repeated infections in affected individuals. People with this condition have an abnormally low level (deficiency) of neutrophils, a type of white blood cell that plays a role in inflammation and in fighting infection. The shortage of neutrophils, called neutropenia, is apparent at birth or soon afterward. It leads to frequent infections beginning in infancy, including infections of the sinuses, lungs, and liver. Affected individuals can also develop fevers and inflammation of the gums (gingivitis) and skin. Approximately 40 percent of affected people have decreased bone density (osteopenia) and may develop
+osteoporosis
+, a condition that makes bones progressively more brittle and likely to fracture. In people with severe congenital neutropenia, bone disorders can begin at any time from infancy through adulthood.
+Approximately 20 percent of people with severe congenital neutropenia develop certain cancerous conditions of the blood, particularly myelodysplastic syndrome or
+leukemia
+during adolescence.
+Some people with severe congenital neutropenia have additional health problems such as seizures, developmental delay, or heart and genital abnormalities.
+Frequency
+The incidence of severe congenital neutropenia is estimated to be 1 in 200,000 individuals.
+Causes
+Severe congenital neutropenia can result from variants (also known as mutations) in one of many different genes. These genes play a role in the maturation and function of neutrophils, which are cells produced by
+the bone marrow
+. Neutrophils surround foreign invaders and break them down. These cells also release substances, some of which break down foreign invaders and others of which strengthen the immune response.
+Gene variants that cause severe congenital neutropenia lead to the production of neutrophils that die off quickly or do not function as they should. Some gene variants result in the production of unstable proteins that build up in neutrophils, leading to cell death. Other gene variants result in the production of abnormal proteins that prevent neutrophils from developing or functioning properly, which limits the cells' ability to respond appropriately to immune signals.
+About half of all cases of severe congenital neutropenia are caused by variants in the
+ELANE
+gene. Another 10 percent are caused by variants in the
+HAX1
+gene. The other associated genes each account for only a small percentage of all cases of this condition. In about one-third of people with severe congenital neutropenia, the cause of the disorder is unknown.
+Learn more about the genes associated with Severe congenital neutropenia
+ELANE
+HAX1
+TCIRG1
+WAS
+Additional Information from NCBI Gene:
+CSF3R
+G6PC3
+GFI1
+JAGN1
+VPS45
+Inheritance
+Most cases of severe congenital neutropenia are classified as sporadic and occur in people with no apparent history of the disorder in their family. Some of these cases are associated with changes in specific genes; however in some cases the cause of the disorder is unknown.
+When severe congenital neutropenia is caused by variants in the
+ELANE
+gene, it is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Variants in a few other genes that cause this condition are also inherited in an autosomal dominant pattern.
+When severe congenital neutropenia is caused by variants in the
+HAX1
+gene, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition. Many cases of this condition are caused by genetic variants that are inherited in an autosomal recessive pattern.
+In rare cases, severe congenital neutropenia is inherited in an
+X-linked recessive pattern
+. In these cases, the gene that causes the condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a variant would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+Congenital agranulocytosis
+Congenital neutropenia
+Infantile genetic agranulocytosis
+Kostmann disease
+Kostmann's agranulocytosis
+Kostmann's syndrome
+Severe infantile genetic neutropenia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Severe congenital neutropenia
+Genetic and Rare Diseases Information Center
+Severe congenital neutropenia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NEUTROPENIA, SEVERE CONGENITAL, 1, AUTOSOMAL DOMINANT; SCN1
+NEUTROPENIA, SEVERE CONGENITAL, X-LINKED; SCNX
+NEUTROPENIA, SEVERE CONGENITAL, 3, AUTOSOMAL RECESSIVE; SCN3
+NEUTROPENIA, SEVERE CONGENITAL, 6, AUTOSOMAL RECESSIVE; SCN6
+NEUTROPENIA, SEVERE CONGENITAL, 4, AUTOSOMAL RECESSIVE; SCN4
+NEUTROPENIA, SEVERE CONGENITAL, 5, AUTOSOMAL RECESSIVE; SCN5
+NEUTROPENIA, SEVERE CONGENITAL, 2, AUTOSOMAL DOMINANT; SCN2
+NEUTROPENIA, SEVERE CONGENITAL, 7, AUTOSOMAL RECESSIVE; SCN7
+Scientific Articles on PubMed
+PubMed
+References
+Berliner N. Lessons from congenital neutropenia: 50 years of progress in
+understanding myelopoiesis. Blood. 2008 Jun 15;111(12):5427-32. doi:
+10.1182/blood-2007-10-077396.
+Citation on PubMed
+Dale DC, Makaryan V. ELANE-Related Neutropenia. 2002 Jun 17 [updated
+2018 Aug 23]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1533/
+Citation on PubMed
+Fioredda F, Iacobelli S, van Biezen A, Gaspar B, Ancliff P, Donadieu J, Aljurf
+M, Peters C, Calvillo M, Matthes-Martin S, Morreale G, van 't Veer-Tazelaar N, de
+Wreede L, Al Seraihy A, Yesilipek A, Fischer A, Bierings M, Ozturk G, Smith O,
+Veys P, Ljungman P, Peffault de Latour R, Sanchez de Toledo Codina J, Or R,
+Ganser A, Afanasyev B, Wynn R, Kalwak K, Marsh J, Dufour C; Severe Aplastic
+Anemia the Inborn Error, and the Pediatric Disease Working Parties of the
+European Society for Blood and Bone Marrow Transplantation (EBMT) and Stem Cell
+Transplant for Immunodeficiencies in Europe (SCETIDE). Stem cell transplantation
+in severe congenital neutropenia: an analysis from the European Society for Blood
+and Marrow Transplantation. Blood. 2015 Oct 15;126(16):1885-92; quiz 1970. doi:
+10.1182/blood-2015-02-628859. Epub 2015 Jul 16.
+Citation on PubMed
+Makaryan V, Zeidler C, Bolyard AA, Skokowa J, Rodger E, Kelley ML, Boxer LA,
+Bonilla MA, Newburger PE, Shimamura A, Zhu B, Rosenberg PS, Link DC, Welte K,
+Dale DC. The diversity of mutations and clinical outcomes for ELANE-associated
+neutropenia. Curr Opin Hematol. 2015 Jan;22(1):3-11. doi:
+10.1097/MOH.0000000000000105.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rosenberg PS, Alter BP, Link DC, Stein S, Rodger E, Bolyard AA, Aprikyan AA,
+Bonilla MA, Dror Y, Kannourakis G, Newburger PE, Boxer LA, Dale DC. Neutrophil
+elastase mutations and risk of leukaemia in severe congenital neutropenia. Br J
+Haematol. 2008 Jan;140(2):210-3. doi: 10.1111/j.1365-2141.2007.06897.x. Epub 2007
+Nov 20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rosenthal EA, Makaryan V, Burt AA, Crosslin DR, Kim DS, Smith JD, Nickerson
+DA, Reiner AP, Rich SS, Jackson RD, Ganesh SK, Polfus LM, Qi L, Dale DC;
+University of Washington, Center for Mendelian Genomics; Jarvik GP. Association
+Between Absolute Neutrophil Count and Variation at TCIRG1: The NHLBI Exome
+Sequencing Project. Genet Epidemiol. 2016 Sep;40(6):470-4. doi:
+10.1002/gepi.21976. Epub 2016 May 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schaffer AA, Klein C. Genetic heterogeneity in severe congenital neutropenia:
+how many aberrant pathways can kill a neutrophil? Curr Opin Allergy Clin Immunol.
+2007 Dec;7(6):481-94. doi: 10.1097/ACI.0b013e3282f1d690.
+Citation on PubMed
+or
+Free article on PubMed Central
+Shu Z, Li XH, Bai XM, Zhang ZY, Jiang LP, Tang XM, Zhao XD. Clinical
+characteristics of severe congenital neutropenia caused by novel ELANE gene
+mutations. Pediatr Infect Dis J. 2015 Feb;34(2):203-7. doi:
+10.1097/INF.0000000000000522.
+Citation on PubMed
+Skokowa J, Dale DC, Touw IP, Zeidler C, Welte K. Severe congenital
+neutropenias. Nat Rev Dis Primers. 2017 Jun 8;3:17032. doi: 10.1038/nrdp.2017.32.
+Citation on PubMed
+Xia J, Bolyard AA, Rodger E, Stein S, Aprikyan AA, Dale DC, Link DC.
+Prevalence of mutations in ELANE, GFI1, HAX1, SBDS, WAS and G6PC3 in patients
+with severe congenital neutropenia. Br J Haematol. 2009 Nov;147(4):535-42. doi:
+10.1111/j.1365-2141.2009.07888.x. Epub 2009 Sep 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zeidler C, Germeshausen M, Klein C, Welte K. Clinical implications of ELA2-,
+HAX1-, and G-CSF-receptor (CSF3R) mutations in severe congenital neutropenia. Br
+J Haematol. 2009 Feb;144(4):459-67. doi: 10.1111/j.1365-2141.2008.07425.x. Epub
+2008 Dec 10.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Blood Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Neutropenia - infants
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

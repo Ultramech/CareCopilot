@@ -1,0 +1,194 @@
+Branchiootorenal/branchiootic syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Branchiootorenal/branchiootic syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/branchiootorenal-branchiootic-syndrome/
+Branchiootorenal/branchiootic syndrome
+Description
+Branchiootorenal (BOR) syndrome is a condition that disrupts the development of tissues in the neck and causes malformations of the ears and kidneys. The signs and symptoms of this condition vary widely, even among members of the same family. Branchiootic (BO) syndrome includes many of the same features as BOR syndrome, but affected individuals do not have kidney abnormalities. The two conditions are otherwise so similar that researchers often consider them together (BOR/BO syndrome or branchiootorenal spectrum disorders).
+"Branchio-" refers to the second branchial arch, which is a structure in the developing embryo that gives rise to tissues in the front and side of the neck. In people with BOR/BO syndrome, abnormal development of the second branchial arch can result in the formation of masses in the neck called branchial cleft cysts. Some affected people have abnormal holes or pits called fistulae in the side of the neck just above the collarbone. Fistulae can form tunnels into the neck, exiting in the mouth near the tonsil. Branchial cleft cysts and fistulae can cause health problems if they become infected, so they are often removed surgically.
+"Oto-" and "-otic" refer to the
+ear
+; most people with BOR/BO syndrome have hearing loss and other ear abnormalities. The hearing loss can be sensorineural, meaning it is caused by abnormalities in the inner ear; conductive, meaning it results from changes in the small bones in the middle ear; or mixed, meaning it is caused by a combination of inner ear and middle ear abnormalities. Some affected people have tiny holes in the skin or extra bits of tissue just in front of the ear. These are called
+preauricular pits
+and preauricular tags, respectively.
+"Renal" refers to the
+kidneys
+; BOR syndrome (but not BO syndrome) causes abnormalities of kidney structure and function. These abnormalities range from mild to severe and can affect one or both kidneys. In some cases, end-stage renal disease (ESRD) develops later in life. This serious condition occurs when the kidneys become unable to filter fluids and waste products from the body effectively.
+Frequency
+Researchers estimate that BOR/BO syndrome affects about 1 in 40,000 people.
+Causes
+Mutations in three genes,
+EYA1
+,
+SIX1
+, and
+SIX5
+, have been reported in people with BOR/BO syndrome. About 40 percent of people with this condition have a mutation in the
+EYA1
+gene.
+SIX1
+gene mutations are a much less common cause of the disorder.
+SIX5
+gene mutations have been found in a small number of people with BOR syndrome, although researchers question whether mutations in this gene cause the condition. Some affected individuals originally reported to have
+SIX5
+gene mutations were later found to have
+EYA1
+gene mutations as well, and researchers suspect that the
+EYA1
+gene mutations may be the actual cause of the condition in these people.
+The proteins produced from the
+EYA1
+,
+SIX1
+, and
+SIX5
+genes play important roles in development before birth. The EYA1 protein interacts with several other proteins, including SIX1 and SIX5, to regulate the activity of genes involved in many aspects of embryonic development. Research suggests that these protein interactions are essential for the normal formation of many organs and tissues, including the second branchial arch,
+ears
+, and
+kidneys
+. Mutations in the
+EYA1
+,
+SIX1
+, or
+SIX5
+gene may disrupt the proteins' ability to interact with one another and regulate gene activity. The resulting genetic changes affect the development of organs and tissues before birth, which leads to the characteristic features of BOR/BO syndrome.
+Some people with BOR/BO syndrome do not have an identified mutation in any of the genes listed above. In these cases, the cause of the condition is unknown.
+Learn more about the genes associated with Branchiootorenal/branchiootic syndrome
+EYA1
+SIX1
+SIX5
+Inheritance
+BOR/BO syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In about 90 percent of cases, an affected person inherits the mutation from
+one affected parent
+. The remaining cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+BO syndrome
+BOR
+BOR syndrome
+BOS
+Branchio-oto-renal syndrome
+Branchio-otorenal dysplasia
+Branchio-otorenal syndrome
+Branchiootic syndrome
+Branchiootorenal dysplasia
+Branchiootorenal spectrum disorders
+Branchiootorenal syndrome
+Melnick-Fraser syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Branchiootic syndrome 3
+Genetic Testing Registry: Branchiootorenal syndrome 2
+Genetic Testing Registry: Branchiootic syndrome 1
+Genetic Testing Registry: Branchiootorenal syndrome 1
+Genetic and Rare Diseases Information Center
+BOR syndrome
+Branchiootic syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+BRANCHIOOTORENAL SYNDROME 1; BOR1
+BRANCHIOOTIC SYNDROME 2; BOS2
+BRANCHIOOTIC SYNDROME 1; BOS1
+BRANCHIOOTIC SYNDROME 3; BOS3
+BRANCHIOOTORENAL SYNDROME 2; BOR2
+Scientific Articles on PubMed
+PubMed
+References
+Brophy PD, Alasti F, Darbro BW, Clarke J, Nishimura C, Cobb B, Smith RJ, Manak
+JR. Genome-wide copy number variation analysis of a Branchio-oto-renal syndrome
+cohort identifies a recombination hotspot and implicates new candidate genes. Hum
+Genet. 2013 Dec;132(12):1339-50. doi: 10.1007/s00439-013-1338-8. Epub 2013 Jul
+13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chang EH, Menezes M, Meyer NC, Cucci RA, Vervoort VS, Schwartz CE, Smith RJ.
+Branchio-oto-renal syndrome: the mutation spectrum in EYA1 and its phenotypic
+consequences. Hum Mutat. 2004 Jun;23(6):582-9. doi: 10.1002/humu.20048.
+Citation on PubMed
+Hoskins BE, Cramer CH, Silvius D, Zou D, Raymond RM, Orten DJ, Kimberling WJ,
+Smith RJ, Weil D, Petit C, Otto EA, Xu PX, Hildebrandt F. Transcription factor
+SIX5 is mutated in patients with branchio-oto-renal syndrome. Am J Hum Genet.
+2007 Apr;80(4):800-4. doi: 10.1086/513322. Epub 2007 Feb 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kochhar A, Fischer SM, Kimberling WJ, Smith RJ. Branchio-oto-renal syndrome.
+Am J Med Genet A. 2007 Jul 15;143A(14):1671-8. doi: 10.1002/ajmg.a.31561.
+Citation on PubMed
+Kochhar A, Orten DJ, Sorensen JL, Fischer SM, Cremers CW, Kimberling WJ, Smith
+RJ. SIX1 mutation screening in 247 branchio-oto-renal syndrome families: a
+recurrent missense mutation associated with BOR. Hum Mutat. 2008 Apr;29(4):565.
+doi: 10.1002/humu.20714.
+Citation on PubMed
+Krug P, Moriniere V, Marlin S, Koubi V, Gabriel HD, Colin E, Bonneau D,
+Salomon R, Antignac C, Heidet L. Mutation screening of the EYA1, SIX1, and SIX5
+genes in a large cohort of patients harboring branchio-oto-renal syndrome calls
+into question the pathogenic role of SIX5 mutations. Hum Mutat. 2011
+Feb;32(2):183-90. doi: 10.1002/humu.21402.
+Citation on PubMed
+Orten DJ, Fischer SM, Sorensen JL, Radhakrishna U, Cremers CW, Marres HA, Van
+Camp G, Welch KO, Smith RJ, Kimberling WJ. Branchio-oto-renal syndrome (BOR):
+novel mutations in the EYA1 gene, and a review of the mutational genetics of BOR.
+Hum Mutat. 2008 Apr;29(4):537-44. doi: 10.1002/humu.20691.
+Citation on PubMed
+Ruf RG, Xu PX, Silvius D, Otto EA, Beekmann F, Muerb UT, Kumar S, Neuhaus TJ,
+Kemper MJ, Raymond RM Jr, Brophy PD, Berkman J, Gattas M, Hyland V, Ruf EM,
+Schwartz C, Chang EH, Smith RJ, Stratakis CA, Weil D, Petit C, Hildebrandt F.
+SIX1 mutations cause branchio-oto-renal syndrome by disruption of EYA1-SIX1-DNA
+complexes. Proc Natl Acad Sci U S A. 2004 May 25;101(21):8090-5. doi:
+10.1073/pnas.0308475101. Epub 2004 May 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Smith RJH, Azaiez H. Branchiootorenal Spectrum Disorder. 1999 Mar 19 [updated
+2025 Jun 26]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1380/
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Hearing Disorders and Deafness
+Kidney Diseases
+MEDICAL ENCYCLOPEDIA
+Branchial cleft cyst
+End-stage kidney disease
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,135 @@
+Spondyloenchondrodysplasia with immune dysregulation: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Spondyloenchondrodysplasia with immune dysregulation
+URL of this page: https://medlineplus.gov/genetics/condition/spondyloenchondrodysplasia-with-immune-dysregulation/
+Spondyloenchondrodysplasia with immune dysregulation
+Description
+Spondyloenchondrodysplasia with immune dysregulation (SPENCDI) is an inherited condition that primarily affects bone growth and immune system function. The signs and symptoms of SPENCDI can become apparent anytime from infancy to adolescence.
+Bone abnormalities in individuals with SPENCDI include flattened spinal bones (platyspondyly), abnormalities at the ends of long bones in the limbs (metaphyseal dysplasia), and areas of damage (lesions) on the long bones and spinal bones that can be seen on x-rays. Additional skeletal problems occur because of abnormalities of the tough, flexible tissue called cartilage that makes up much of the skeleton during early development. Individuals with SPENCDI often have areas where cartilage did not convert to bone. They may also have noncancerous growths of cartilage (enchondromas). The bone and cartilage problems contribute to short stature in people with SPENCDI.
+Individuals with SPENCDI have a combination of immune system problems. Many affected individuals have malfunctioning immune systems that attack the body's own tissues and organs, which is known as an autoimmune reaction. The malfunctioning immune system can lead to a variety of disorders, such as a decrease in blood cells called platelets (thrombocytopenia), premature destruction of red blood cells (hemolytic
+anemia
+), an underactive
+thyroid gland
+(hypothyroidism), or chronic inflammatory disorders such as
+systemic lupus erythematosus
+or
+rheumatoid arthritis
+. In addition, affected individuals often have abnormal immune cells that cannot grow and divide in response to harmful invaders such as bacteria and viruses. As a result of this immune deficiency, these individuals have frequent fevers and recurrent respiratory infections.
+Some people with SPENCDI have neurological problems such as abnormal muscle stiffness (spasticity), difficulty with coordinating movements (ataxia), and intellectual disability. They may also have abnormal deposits of calcium (calcification) in the brain.
+Due to the range of immune system problems, people with SPENCDI typically have a shortened life expectancy, but figures vary widely.
+Frequency
+SPENCDI appears to be a rare condition, although its prevalence is unknown.
+Causes
+Mutations in the
+ACP5
+gene cause SPENCDI. This gene provides instructions for making an enzyme called tartrate-resistant acid phosphatase type 5 (TRAP). The TRAP enzyme primarily regulates the activity of a protein called osteopontin, which is produced in bone cells called osteoclasts and in immune cells. Osteopontin performs a variety of functions in these cells.
+Osteoclasts are specialized cells that break down and remove (resorb) bone tissue that is no longer needed. These cells are involved in bone remodeling, which is a normal process that replaces old bone tissue with new bone. During bone remodeling, osteopontin is turned on (activated), allowing osteoclasts to attach (bind) to bones. When the breakdown of bone is complete, TRAP turns off (inactivates) osteopontin, causing the osteoclasts to release themselves from bone.
+In immune system cells, osteopontin helps fight infection by promoting inflammation, regulating immune cell activity, and turning on various immune system cells that are necessary to fight off foreign invaders. As in bone cells, the TRAP enzyme inactivates osteopontin in immune cells when it is no longer needed.
+The
+ACP5
+gene mutations that cause SPENCDI impair or eliminate TRAP's ability to inactivate osteopontin. As a result, osteopontin is abnormally active, prolonging bone breakdown by osteoclasts and triggering abnormal inflammation and immune responses by immune cells. In people with SPENCDI, increased bone remodeling contributes to the skeletal abnormalities, including irregularly shaped bones and short stature. An overactive immune system leads to increased susceptibility to autoimmune disorders and impairs the body's normal immune response to harmful invaders, resulting in frequent infections. The mechanism that leads to the other features of SPENCDI, including movement disorders and intellectual disability, is currently unknown.
+Learn more about the gene associated with Spondyloenchondrodysplasia with immune dysregulation
+ACP5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Combined immunodeficiency with autoimmunity and spondylometaphyseal dysplasia
+Roifman-Melamed syndrome
+Roifman–Costa syndrome
+SPENCDI
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Spondyloenchondrodysplasia with immune dysregulation
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION; SPENCDI
+Scientific Articles on PubMed
+PubMed
+References
+Behrens TW, Graham RR. TRAPing a new gene for autoimmunity. Nat Genet. 2011
+Feb;43(2):90-1. doi: 10.1038/ng0211-90. No abstract available.
+Citation on PubMed
+Briggs TA, Rice GI, Daly S, Urquhart J, Gornall H, Bader-Meunier B, Baskar K,
+Baskar S, Baudouin V, Beresford MW, Black GC, Dearman RJ, de Zegher F, Foster ES,
+Frances C, Hayman AR, Hilton E, Job-Deslandre C, Kulkarni ML, Le Merrer M,
+Linglart A, Lovell SC, Maurer K, Musset L, Navarro V, Picard C, Puel A,
+Rieux-Laucat F, Roifman CM, Scholl-Burgi S, Smith N, Szynkiewicz M, Wiedeman A,
+Wouters C, Zeef LA, Casanova JL, Elkon KB, Janckila A, Lebon P, Crow YJ.
+Tartrate-resistant acid phosphatase deficiency causes a bone dysplasia with
+autoimmunity and a type I interferon expression signature. Nat Genet. 2011
+Feb;43(2):127-31. doi: 10.1038/ng.748. Epub 2011 Jan 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kulkarni ML, Baskar K, Kulkarni PM. A syndrome of immunodeficiency,
+autoimmunity, and spondylometaphyseal dysplasia. Am J Med Genet A. 2007 Jan
+1;143A(1):69-75. doi: 10.1002/ajmg.a.31526.
+Citation on PubMed
+Lausch E, Janecke A, Bros M, Trojandt S, Alanay Y, De Laet C, Hubner CA,
+Meinecke P, Nishimura G, Matsuo M, Hirano Y, Tenoutasse S, Kiss A, Rosa RF, Unger
+SL, Renella R, Bonafe L, Spranger J, Unger S, Zabel B, Superti-Furga A. Genetic
+deficiency of tartrate-resistant acid phosphatase associated with skeletal
+dysplasia, cerebral calcifications and autoimmunity. Nat Genet. 2011
+Feb;43(2):132-7. doi: 10.1038/ng.749. Epub 2011 Jan 9.
+Citation on PubMed
+Navarro V, Scott C, Briggs TA, Barete S, Frances C, Lebon P, Maisonobe T, Rice
+GI, Wouters CH, Crow YJ. Two further cases of spondyloenchondrodysplasia (SPENCD)
+with immune dysregulation. Am J Med Genet A. 2008 Nov 1;146A(21):2810-5. doi:
+10.1002/ajmg.a.32518.
+Citation on PubMed
+Renella R, Schaefer E, LeMerrer M, Alanay Y, Kandemir N, Eich G, Costa T,
+Ballhausen D, Boltshauser E, Bonafe L, Giedion A, Unger S, Superti-Furga A.
+Spondyloenchondrodysplasia with spasticity, cerebral calcifications, and immune
+dysregulation: clinical and radiographic delineation of a pleiotropic disorder.
+Am J Med Genet A. 2006 Mar 15;140(6):541-50. doi: 10.1002/ajmg.a.31081.
+Citation on PubMed
+Roifman CM, Melamed I. A novel syndrome of combined immunodeficiency,
+autoimmunity and spondylometaphyseal dysplasia. Clin Genet. 2003 Jun;63(6):522-9.
+doi: 10.1034/j.1399-0004.2003.00033.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Immune response
+Skeletal limb abnormalities
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

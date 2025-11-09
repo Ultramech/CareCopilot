@@ -1,0 +1,141 @@
+Dystonia 6: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Dystonia 6
+URL of this page: https://medlineplus.gov/genetics/condition/dystonia-6/
+Dystonia 6
+Description
+Dystonia 6 is one of many forms of dystonia, which is a group of conditions characterized by involuntary movements, twisting (torsion) and tensing of various muscles, and unusual positioning of affected body parts. Dystonia 6 can appear at any age from childhood through adulthood; the average age of onset is 18.
+The signs and symptoms of dystonia 6 vary among affected individuals. The disorder usually first impacts muscles of the head and neck, causing problems with speaking (dysarthria) and eating (dysphagia). Eyelid twitching (blepharospasm) may also occur. Involvement of one or more limbs is common, and in some cases occurs before the head and neck problems. Dystonia 6 gradually gets worse, and it may eventually involve most of the body.
+Frequency
+The prevalence of dystonia 6 is unknown. Studies indicate that it likely accounts for between 1 and 3 percent of all cases of dystonia. For reasons that are unclear, the disorder appears to be slightly more prevalent in females than in males.
+Causes
+Dystonia 6 is caused by mutations in the
+THAP1
+gene. This gene provides instructions for making a protein that is a transcription factor, which means that it attaches (binds) to specific regions of DNA and regulates the activity of other genes. Through this function, it is thought to help control several processes in the body, including the growth and division (proliferation) of endothelial cells, which line the inside surface of blood vessels and other circulatory system structures called lymphatic vessels. The THAP1 protein also plays a role in the self-destruction of cells that are no longer needed (
+apoptosis
+).
+Studies indicate that most of the
+THAP1
+gene mutations that cause dystonia 6 affect the stability of the THAP1 protein, reducing the amount of functional THAP1 protein available for DNA binding. Other mutations may impair the protein's ability to bind with the correct regions of DNA. Problems with DNA binding likely disrupt the proper regulation of gene activity, leading to the signs and symptoms of dystonia 6.
+A particular
+THAP1
+gene mutation is specific to a Mennonite population in the Midwestern United States in which dystonia 6 was first described. This mutation changes the DNA sequence in a region of the gene known as exon 2. Some researchers use the term DYT6 dystonia to refer to dystonia caused by this particular mutation, and the broader term THAP1 dystonia to refer to dystonia caused by any
+THAP1
+gene mutation. In general, mutations affecting the region of the THAP1 protein that binds to DNA, including the mutation found in the Mennonite population, tend to result in more severe signs and symptoms than mutations affecting other regions of the protein.
+Learn more about the gene associated with Dystonia 6
+THAP1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell can be sufficient to cause the disorder. Some people who inherit the altered gene never develop the condition, a situation known as reduced penetrance.
+Other Names for This Condition
+DYT6
+DYT6 dystonia
+Idiopathic torsion dystonia of mixed type
+Primary dystonia, DYT6 type
+THAP1 dystonia
+Torsion dystonia 6
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Torsion dystonia 6
+Genetic and Rare Diseases Information Center
+Primary dystonia, DYT6 type
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+DYSTONIA 6, TORSION; DYT6
+Scientific Articles on PubMed
+PubMed
+References
+Blanchard A, Ea V, Roubertie A, Martin M, Coquart C, Claustres M, Beroud C,
+Collod-Beroud G. DYT6 dystonia: review of the literature and creation of the UMD
+Locus-Specific Database (LSDB) for mutations in the THAP1 gene. Hum Mutat. 2011
+Nov;32(11):1213-24. doi: 10.1002/humu.21564. Epub 2011 Sep 15.
+Citation on PubMed
+Bressman SB, Raymond D, Fuchs T, Heiman GA, Ozelius LJ, Saunders-Pullman R.
+Mutations in THAP1 (DYT6) in early-onset dystonia: a genetic screening study.
+Lancet Neurol. 2009 May;8(5):441-6. doi: 10.1016/S1474-4422(09)70081-X. Epub 2009
+Apr 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Campagne S, Muller I, Milon A, Gervais V. Towards the classification of DYT6
+dystonia mutants in the DNA-binding domain of THAP1. Nucleic Acids Res. 2012
+Oct;40(19):9927-40. doi: 10.1093/nar/gks703. Epub 2012 Jul 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Cheng FB, Ozelius LJ, Wan XH, Feng JC, Ma LY, Yang YM, Wang L. THAP1/DYT6
+sequence variants in non-DYT1 early-onset primary dystonia in China and their
+effects on RNA expression. J Neurol. 2012 Feb;259(2):342-7. doi:
+10.1007/s00415-011-6196-5. Epub 2011 Jul 29.
+Citation on PubMed
+Djarmati A, Schneider SA, Lohmann K, Winkler S, Pawlack H, Hagenah J,
+Bruggemann N, Zittel S, Fuchs T, Rakovic A, Schmidt A, Jabusch HC, Wilcox R,
+Kostic VS, Siebner H, Altenmuller E, Munchau A, Ozelius LJ, Klein C. Mutations in
+THAP1 (DYT6) and generalised dystonia with prominent spasmodic dysphonia: a
+genetic screening study. Lancet Neurol. 2009 May;8(5):447-52. doi:
+10.1016/S1474-4422(09)70083-3. Epub 2009 Apr 1.
+Citation on PubMed
+Houlden H, Schneider SA, Paudel R, Melchers A, Schwingenschuh P, Edwards M,
+Hardy J, Bhatia KP. THAP1 mutations (DYT6) are an additional cause of early-onset
+dystonia. Neurology. 2010 Mar 9;74(10):846-50. doi: 10.1212/WNL.0b013e3181d5276d.
+Citation on PubMed
+or
+Free article on PubMed Central
+LeDoux MS, Xiao J, Rudzinska M, Bastian RW, Wszolek ZK, Van Gerpen JA,
+Puschmann A, Momcilovic D, Vemula SR, Zhao Y. Genotype-phenotype correlations in
+THAP1 dystonia: molecular foundations and description of new cases. Parkinsonism
+Relat Disord. 2012 Jun;18(5):414-25. doi: 10.1016/j.parkreldis.2012.02.001. Epub
+2012 Feb 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Xiromerisiou G, Houlden H, Scarmeas N, Stamelou M, Kara E, Hardy J, Lees AJ,
+Korlipara P, Limousin P, Paudel R, Hadjigeorgiou GM, Bhatia KP. THAP1 mutations
+and dystonia phenotypes: genotype phenotype correlations. Mov Disord. 2012 Sep
+1;27(10):1290-4. doi: 10.1002/mds.25146. Epub 2012 Aug 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Dystonia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

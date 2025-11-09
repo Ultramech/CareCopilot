@@ -1,0 +1,149 @@
+SYNGAP1-related intellectual disability: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+SYNGAP1-related intellectual disability
+URL of this page: https://medlineplus.gov/genetics/condition/syngap1-related-intellectual-disability/
+SYNGAP1-related intellectual disability
+Description
+SYNGAP1
+-related intellectual disability is a neurological disorder characterized by moderate to severe intellectual disability that is evident in early childhood. The earliest features are typically delayed development of speech and motor skills, such as sitting, standing, and walking. Many people with this condition have weak muscle tone (hypotonia), which contributes to the difficulty with motor skills. Some affected individuals lose skills they had already acquired (developmental regression). Other features of
+SYNGAP1
+-related intellectual disability include recurrent seizures (epilepsy), hyperactivity, and
+autism spectrum disorder
+, which is characterized by impaired communication and social interaction; almost everyone with
+SYNGAP1
+-related intellectual disability develops epilepsy, and about half have autism spectrum disorder.
+Frequency
+SYNGAP1
+-related intellectual disability is a relatively common form of cognitive impairment. It is estimated to account for 1 to 2 percent of intellectual disability cases.
+Causes
+SYNGAP1
+-related intellectual disability is caused by mutations in the
+SYNGAP1
+gene. The protein produced from this gene, called SynGAP, plays an important role in nerve cells in the brain. It is found at the junctions between nerve cells (
+synapses
+) and helps regulate changes in synapses that are critical for learning and memory. Mutations involved in this condition prevent the production of functional SynGAP protein from one copy of the gene, reducing the protein's activity in cells. Studies show that a reduction of SynGAP activity can have multiple effects in nerve cells, including pushing synapses to develop too early. The resulting abnormalities disrupt the synaptic changes in the brain that underlie learning and memory, leading to cognitive impairment and other neurological problems characteristic of
+SYNGAP1
+-related intellectual disability.
+Learn more about the gene associated with SYNGAP1-related intellectual disability
+SYNGAP1
+Inheritance
+SYNGAP1
+-related intellectual disability is classified as an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Almost all cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family. In at least one case, an affected person inherited the mutation from
+one affected parent
+.
+Other Names for This Condition
+Mental retardation, autosomal dominant 5
+MRD5
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Intellectual disability, autosomal dominant 5
+Genetic and Rare Diseases Information Center
+Intellectual developmental disorder, autosomal dominant 5
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL DOMINANT 5; MRD5
+Scientific Articles on PubMed
+PubMed
+References
+Aceti M, Creson TK, Vaissiere T, Rojas C, Huang WC, Wang YX, Petralia RS, Page
+DT, Miller CA, Rumbaugh G. Syngap1 haploinsufficiency damages a postnatal
+critical period of pyramidal cell structural maturation linked to cortical
+circuit assembly. Biol Psychiatry. 2015 May 1;77(9):805-15. doi:
+10.1016/j.biopsych.2014.08.001. Epub 2014 Aug 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Clement JP, Aceti M, Creson TK, Ozkan ED, Shi Y, Reish NJ, Almonte AG, Miller
+BH, Wiltgen BJ, Miller CA, Xu X, Rumbaugh G. Pathogenic SYNGAP1 mutations impair
+cognitive development by disrupting maturation of dendritic spine synapses. Cell.
+2012 Nov 9;151(4):709-723. doi: 10.1016/j.cell.2012.08.045.
+Citation on PubMed
+or
+Free article on PubMed Central
+Clement JP, Ozkan ED, Aceti M, Miller CA, Rumbaugh G. SYNGAP1 links the
+maturation rate of excitatory synapses to the duration of critical-period
+synaptic plasticity. J Neurosci. 2013 Jun 19;33(25):10447-52. doi:
+10.1523/JNEUROSCI.0765-13.2013.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mignot C, von Stulpnagel C, Nava C, Ville D, Sanlaville D, Lesca G, Rastetter
+A, Gachet B, Marie Y, Korenke GC, Borggraefe I, Hoffmann-Zacharska D, Szczepanik
+E, Rudzka-Dybala M, Yis U, Caglayan H, Isapof A, Marey I, Panagiotakaki E, Korff
+C, Rossier E, Riess A, Beck-Woedl S, Rauch A, Zweier C, Hoyer J, Reis A, Mironov
+M, Bobylova M, Mukhin K, Hernandez-Hernandez L, Maher B, Sisodiya S, Kuhn M,
+Glaeser D, Weckhuysen S, Myers CT, Mefford HC, Hortnagel K, Biskup S;
+EuroEPINOMICS-RES MAE working group; Lemke JR, Heron D, Kluger G, Depienne C.
+Genetic and neurodevelopmental spectrum of SYNGAP1-associated intellectual
+disability and epilepsy. J Med Genet. 2016 Aug;53(8):511-22. doi:
+10.1136/jmedgenet-2015-103451. Epub 2016 Mar 17.
+Citation on PubMed
+Ozkan ED, Creson TK, Kramar EA, Rojas C, Seese RR, Babyan AH, Shi Y, Lucero R,
+Xu X, Noebels JL, Miller CA, Lynch G, Rumbaugh G. Reduced cognition in Syngap1
+mutants is caused by isolated damage within developing forebrain excitatory
+neurons. Neuron. 2014 Jun 18;82(6):1317-33. doi: 10.1016/j.neuron.2014.05.015.
+Citation on PubMed
+or
+Free article on PubMed Central
+Parker MJ, Fryer AE, Shears DJ, Lachlan KL, McKee SA, Magee AC, Mohammed S,
+Vasudevan PC, Park SM, Benoit V, Lederer D, Maystadt I, Study D, FitzPatrick DR.
+De novo, heterozygous, loss-of-function mutations in SYNGAP1 cause a syndromic
+form of intellectual disability. Am J Med Genet A. 2015 Oct;167A(10):2231-7. doi:
+10.1002/ajmg.a.37189. Epub 2015 Jun 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wang CC, Held RG, Hall BJ. SynGAP regulates protein synthesis and homeostatic
+synaptic plasticity in developing cortical networks. PLoS One. 2013 Dec
+31;8(12):e83941. doi: 10.1371/journal.pone.0083941. eCollection 2013.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Autism Spectrum Disorder
+Developmental Disabilities
+Epilepsy
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Epilepsy
+Genetics
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

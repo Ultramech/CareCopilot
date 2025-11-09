@@ -1,0 +1,141 @@
+Carnitine-acylcarnitine translocase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Carnitine-acylcarnitine translocase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/carnitine-acylcarnitine-translocase-deficiency/
+Carnitine-acylcarnitine translocase deficiency
+Description
+Carnitine-acylcarnitine translocase (CACT) deficiency is a condition that prevents the body from using certain fats for energy, particularly during periods without food (fasting). Signs and symptoms of this disorder usually begin soon after birth and may include breathing problems, seizures, and an irregular heartbeat (arrhythmia). Affected individuals typically have low blood glucose (hypoglycemia) and a low level of ketones, which are produced during the breakdown of fats and used for energy. Together these signs are called hypoketotic hypoglycemia. People with CACT deficiency also usually have excess ammonia in the blood (hyperammonemia), an enlarged liver (hepatomegaly), and a weakened heart muscle (cardiomyopathy).
+Many infants with CACT deficiency do not survive the newborn period. Some affected individuals have a less severe form of the condition and do not develop signs and symptoms until early childhood. These individuals are at risk for liver failure, nervous system damage, coma, and sudden death.
+Frequency
+CACT deficiency is very rare; at least 30 cases have been reported.
+Causes
+Mutations in the
+SLC25A20
+gene cause CACT deficiency. This gene provides instructions for making a protein called carnitine-acylcarnitine translocase (CACT). This protein is essential for fatty acid oxidation, a multistep process that breaks down (metabolizes) fats and converts them into energy. Fatty acid oxidation takes place within
+mitochondria
+, which are the energy-producing centers in cells. A group of fats called long-chain fatty acids must be attached to a substance known as carnitine to enter mitochondria. Once these fatty acids are joined with carnitine, the CACT protein transports them into mitochondria. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.
+Although mutations in the
+SLC25A20
+gene change the structure of the CACT protein in different ways, they all lead to a shortage (deficiency) of the transporter. Without enough functional CACT protein, long-chain fatty acids cannot be transported into mitochondria. As a result, these fatty acids are not converted to energy. Reduced energy production can lead to some of the features of CACT deficiency, such as hypoketotic hypoglycemia. Fatty acids and long-chain acylcarnitines (fatty acids still attached to carnitine) may also build up in cells and damage the liver, heart, and muscles. This abnormal buildup causes the other signs and symptoms of the disorder.
+Learn more about the gene associated with Carnitine-acylcarnitine translocase deficiency
+SLC25A20
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CACT deficiency
+Carnitine acylcarnitine translocase deficiency
+Carnitine-acylcarnitine carrier deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Carnitine acylcarnitine translocase deficiency
+Genetic and Rare Diseases Information Center
+Carnitine-acylcarnitine translocase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CARNITINE-ACYLCARNITINE TRANSLOCASE DEFICIENCY; CACTD
+Scientific Articles on PubMed
+PubMed
+References
+Geven WB, Niezen-Koning KE, Timmer A, van Loon AJ, Wanders RJ, van Spronsen
+FJ. Pre-eclampsia in a woman whose child suffered from lethal
+carnitine-acylcarnitine translocase deficiency. BJOG. 2007 Aug;114(8):1028-30.
+doi: 10.1111/j.1471-0528.2007.01411.x. Epub 2007 Jun 18. No abstract available.
+Citation on PubMed
+Iacobazzi V, Invernizzi F, Baratta S, Pons R, Chung W, Garavaglia B,
+Dionisi-Vici C, Ribes A, Parini R, Huertas MD, Roldan S, Lauria G, Palmieri F,
+Taroni F. Molecular and functional analysis of SLC25A20 mutations causing
+carnitine-acylcarnitine translocase deficiency. Hum Mutat. 2004 Oct;24(4):312-20.
+doi: 10.1002/humu.20085.
+Citation on PubMed
+Korman SH, Pitt JJ, Boneh A, Dweikat I, Zater M, Meiner V, Gutman A, Brivet M.
+A novel SLC25A20 splicing mutation in patients of different ethnic origin with
+neonatally lethal carnitine-acylcarnitine translocase (CACT) deficiency. Mol
+Genet Metab. 2006 Dec;89(4):332-8. doi: 10.1016/j.ymgme.2006.06.009. Epub 2006
+Aug 17.
+Citation on PubMed
+Longo N, Amat di San Filippo C, Pasquali M. Disorders of carnitine transport
+and the carnitine cycle. Am J Med Genet C Semin Med Genet. 2006 May
+15;142C(2):77-85. doi: 10.1002/ajmg.c.30087.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lopriore E, Gemke RJ, Verhoeven NM, Jakobs C, Wanders RJ, Roeleveld-Versteeg
+AB, Poll-The BT. Carnitine-acylcarnitine translocase deficiency: phenotype,
+residual enzyme activity and outcome. Eur J Pediatr. 2001 Feb;160(2):101-4. doi:
+10.1007/s004310000644.
+Citation on PubMed
+Morales Corado JA, Lee CU, Enns GM. Carnitine-Acylcarnitine Translocase
+Deficiency. 2022 Jul 21. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK582032/
+Citation on PubMed
+Rubio-Gozalbo ME, Bakker JA, Waterham HR, Wanders RJ. Carnitine-acylcarnitine
+translocase deficiency, clinical, biochemical and genetic aspects. Mol Aspects
+Med. 2004 Oct-Dec;25(5-6):521-32. doi: 10.1016/j.mam.2004.06.007.
+Citation on PubMed
+Vitoria I, Martin-Hernandez E, Pena-Quintana L, Bueno M, Quijada-Fraile P,
+Dalmau J, Molina-Marrero S, Perez B, Merinero B. Carnitine-acylcarnitine
+translocase deficiency: experience with four cases in Spain and review of the
+literature. JIMD Rep. 2015;20:11-20. doi: 10.1007/8904_2014_382. Epub 2015 Jan
+23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wang GL, Wang J, Douglas G, Browning M, Hahn S, Ganesh J, Cox S, Aleck K,
+Schmitt ES, Zhang W, Wong LJ. Expanded molecular features of carnitine
+acyl-carnitine translocase (CACT) deficiency by comprehensive molecular analysis.
+Mol Genet Metab. 2011 Aug;103(4):349-57. doi: 10.1016/j.ymgme.2011.05.001. Epub
+2011 May 7.
+Citation on PubMed
+Wilcken B. Fatty acid oxidation disorders: outcome and long-term prognosis. J
+Inherit Metab Dis. 2010 Oct;33(5):501-6. doi: 10.1007/s10545-009-9001-1. Epub
+2010 Jan 5.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Lipid Metabolism Disorders
+Mitochondrial Diseases
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

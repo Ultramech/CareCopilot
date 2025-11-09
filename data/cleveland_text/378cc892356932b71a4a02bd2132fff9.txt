@@ -1,0 +1,160 @@
+Paroxysmal Nocturnal Hemoglobinuria (PNH): Symptoms & Treatment
+Home
+/
+Health Library
+/
+Diseases & Conditions
+/
+Paroxysmal Nocturnal Hemoglobinuria
+Advertisement
+Advertisement
+Paroxysmal Nocturnal Hemoglobinuria
+Paroxysmal nocturnal hemoglobinuria (PNH) is a rare blood disorder that happens when part of your immune system attacks and damages your red blood cells and platelets. Left untreated, PNH can cause   hemolytic anemia, chronic kidney disease or thrombosis (blood clots). Healthcare providers treat PNH with medication that prevents blood cell damage.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Benign Hematology Disorders Treatment
+Find a Doctor and Specialists
+Make an Appointment
+Contents
+Arrow Down
+Overview
+Symptoms and Causes
+Diagnosis and Tests
+Management and Treatment
+Outlook / Prognosis
+Prevention
+Living With
+Overview
+What is paroxysmal nocturnal hemoglobinuria (PNH)?
+Paroxysmal nocturnal hemoglobinuria (PNH) is a rare blood disorder named for a single symptom: Red/brown/dark urine noticed during late night or early morning trips to the bathroom. “Paroxysmal” means sudden; “nocturnal” means night; and “hemoglobinuria” refers to pee stained with blood. Your pee is dark because your immune system is breaking down your red blood cells. Healthcare providers call this hemolysis.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Dark-colored pee is only one of many PHN symptoms that may signal potentially serious illnesses. Left untreated, PNH may cause
+hemolytic anemia
+,
+chronic kidney disease
+or
+thrombosis
+(blood clots in your blood vessels). Healthcare providers treat PNH with medication that prevents blood cell damage.
+Who does it affect?
+About 6 per 1 million people are diagnosed with PNH each year. This condition affects men and women between the ages of 30 and 40. Women are slightly more likely than men to develop PNH. Often, people who have bone marrow disorders like
+aplastic anemia
+or
+myelodysplastic syndrome
+develop paroxysmal nocturnal hemoglobinuria.
+What is the difference between hemoglobinuria and hematuria?
+Both conditions cause blood in your urine. The difference is
+hematuria
+is red blood cells in your urine, while hemoglobinuria is hemoglobin in your urine. Hemoglobin is a protein in your red blood cells that makes blood look red.
+Symptoms and Causes
+What causes paroxysmal nocturnal hemoglobinuria?
+PNH happens when a genetic flaw affects how your red blood cells and platelets work. The flaw launches a cascade of events that create serious and potentially life-threatening medical issues.
+The cascade starts in your bone marrow, where your body makes stem cells that eventually become mature red blood cells, white blood cells and platelets. In PNH, a gene called
+PIGA
+in one stem cell mutates or changes into an abnormal stem cell. This cell divides and makes additional abnormal stem cells that become abnormal red blood cells and platelets.
+Advertisement
+How does the genetic change affect red blood cells?
+Occasionally, proteins that help your white blood cells fight infection turn on your red blood cells. Healthcare providers refer to these proteins as the complement system.
+Normal red blood cells have a protective shield of proteins that fends off complement system assaults. The
+PIGA
+gene is responsible for the red blood cells’ protective shield. When the
+PIGA
+gene mutates, it stops making the protective shields. Here’s what happens next:
+When your complement system attacks your red blood cells, your red blood cells fall apart and release hemoglobin. Hemoglobin helps your red blood cells carry oxygen throughout your body. When red blood cells fall apart, they dump their hemoglobin into your bloodstream. Healthcare providers call this free hemoglobin.
+Normally, a substance called haptoglobin sweeps in and clears out free hemoglobin. But with PNH, your bloodstream cleaning crew can’t keep up.
+Your body also tries to manage the overflow with nitric oxide, but ends up depleting your body’s supply of it. Without enough nitric oxide, you may have sudden painful spasms in your stomach muscles, esophagus and muscles in your back.
+At the same time, your bone marrow is under pressure to make more red blood cells to replace those destroyed by your complement system. Anemia happens when your bone marrow can’t make enough red blood cells to compensate for the blood cells destroyed by your complement system.
+The overflow of hemoglobin also damages your kidneys. People who have PNH are six times more likely to develop chronic kidney disease.
+Free hemoglobin also affects your pee (urine). Many people who have PNH notice dark-colored pee during the night or first thing in the morning. That’s because excess hemoglobin becomes concentrated in pee, turning it dark.
+How does the genetic change affect platelets?
+Platelets are blood cells that help your body make blood clots. The mutated
+PIGA
+gene also affects stem cells that become abnormal platelets. The abnormal platelets make your blood clot more than it should. As a result, people who have PNA have an increased risk of life-threatening thrombosis or blood clots.
+What are the symptoms?
+While paroxysmal nocturnal hemoglobinuria is named for one symptom, people who have PNH typically seek medical help because they have severe and persistent fatigue or tiredness that affects their daily lives. Other symptoms include:
+Shortness of breath (dyspnea
+).
+Kidney problems.
+Difficulty swallowing (dysphagia
+).
+Esophageal spasms.
+Stomach pain.
+Back pain
+.
+Erectile dysfunction
+.
+Diagnosis and Tests
+How do healthcare providers diagnose paroxysmal nocturnal hemoglobinuria?
+Healthcare providers may use several tests to look for signs of PNH. Based on those test results, they may use a test called
+flow cytometry
+to examine your blood cells. Tests healthcare providers might use include:
+Complete blood count with differential (CBC w/diff)
+:
+Healthcare providers look for signs of blood disorders like anemia and thrombocytopenia and anemia.
+Basic metabolic panel (BMP
+)
+: Healthcare providers look for signs of chronic kidney disease and renal dysfunction.
+Urinalysis
+: This test may show signs of hemoglobinuria (blood in pee) and hemosiderosis (excess iron deposits).
+Reticulocyte count
+: A reticulocyte count measures the number of immature red blood cells (reticulocytes) in your bone marrow. Healthcare providers measure reticulocytes to find out if your bone marrow is producing enough healthy
+red blood cells
+.
+Haptoglobin test
+:Haptoglobin is a protein that eliminates debris produced by damaged red blood cells. Low haptoglobin levels may be a sign of damaged red blood cells.
+Lactate dehydrogenase (LDH)
+:
+LDH is an enzyme in red blood cells. A high LDH level may be a sign of increased red blood cell destruction.
+Liver function
+: This test measures bilirubin levels that may increase when red blood cells break down.
+Advertisement
+Management and Treatment
+How do healthcare providers treat PNH?
+Healthcare providers use targeted therapies called complement inhibitors that keep your complement system from destroying red blood cells.
+Before this therapy was available, people with paroxysmal nocturnal hemoglobinuria needed regular red blood cell transfusions to treat anemia caused by PNH. At that time, people with PNH usually lived 10 to 22 years after their diagnosis. The only cure for PNH was to have an allogeneic
+stem cell transplant
+. Now, studies show people who receive this treatment can expect to live as long as someone who doesn’t have PNH.
+What are treatment side effects?
+Complement inhibitors have many side effects. Fortunately, these side effects wear off soon after people start treatment.
+Care at Cleveland Clinic
+Benign Hematology Disorders Treatment
+Find a Doctor and Specialists
+Make an Appointment
+Outlook / Prognosis
+Can PNH be cured?
+There are treatments that stop PNH from damaging your red blood cells and platelets. Most people who have PNH develop anemia that requires additional treatment.
+Prevention
+Can I prevent PNH?
+A genetic mutation causes PNH, which means you can’t prevent it.
+Living With
+How do I take care of myself?
+Even with treatment, people who have PNH need to take steps to prevent blood clots. For example, people who have PNH and need surgery are at risk for blood clots and serious bleeding during surgery. People who are pregnant and have PNH face health risks that affect them and the developing fetus.
+Advertisement
+A note from Cleveland Clinic
+Paroxysmal nocturnal hemoglobinuria (PNH) is a rare blood disorder that happens when part of your immune system attacks and damages red blood cells and platelets. Fewer than 20 years ago, PHN was a debilitating disease treated with blood transfusions. Even so, PHN put people at risk for serious and sometimes life-threatening illnesses. Most people lived 10 to 22 years after their diagnosis.
+But today, people with PHN receive innovative treatment that protects their blood cells and reduces their risk of serious illness. People with PHN can expect to live as long as someone who doesn’t have the disease. If you have paroxysmal nocturnal hemoglobinuria, your healthcare provider will explain your treatment options. Treatment doesn’t cure PHN, but it can keep the condition from creating serious medical issues.
+Advertisement
+Care at Cleveland Clinic
+Living with a noncancerous blood disorder can be exhausting. But there’s hope. Cleveland Clinic’s benign hematology experts provide personalized care and support.
+Benign Hematology Disorders Treatment
+Find a Doctor and Specialists
+Make an Appointment
+Medically Reviewed
+Last reviewed on 04/25/2022.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Cancer Answer Line
+866.223.8100
+Appointments & Locations
+Request an Appointment
+Search Clinical Trials

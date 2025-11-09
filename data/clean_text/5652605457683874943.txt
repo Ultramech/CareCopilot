@@ -1,0 +1,138 @@
+Mainzer-Saldino syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Mainzer-Saldino syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/mainzer-saldino-syndrome/
+Mainzer-Saldino syndrome
+Description
+Mainzer-Saldino syndrome is a disorder characterized by kidney disease, eye problems, and skeletal abnormalities.
+People with Mainzer-Saldino syndrome have chronic kidney disease that begins in childhood and gets worse over time. The rate at which the kidney disease worsens is variable, but the condition eventually leads to kidney failure in most affected individuals.
+Degeneration of the light-sensitive tissue at the back of the eye (the
+retina
+) almost always occurs in this disorder, but the age at which this feature develops varies. Some affected individuals are blind or have severe vision impairment beginning in infancy, with the pattern of vision loss resembling a condition called
+Leber congenital amaurosis
+. In other people with Mainzer-Saldino syndrome, the retinal degeneration begins in childhood, but some vision is retained into early adulthood. The vision loss in these affected individuals resembles a category of retinal disorders called rod-cone dystrophies. The most common rod-cone dystrophy is called
+retinitis pigmentosa
+, and the vision problems in Mainzer-Saldino syndrome are sometimes referred to as such. However, the abnormal deposits of pigment in the retina from which retinitis pigmentosa gets its name are often not found in Mainzer-Saldino syndrome. As a result, some researchers use terms such as "atypical retinitis pigmentosa without pigment" to describe the retinal degeneration that occurs in Mainzer-Saldino syndrome.
+The skeletal abnormality most characteristic of Mainzer-Saldino syndrome consists of cone-shaped ends of the bones (
+epiphyses
+) in the fingers (phalanges) that can be seen on x-ray images after the first year of life. Affected individuals may also have abnormalities of the thigh bones that occur in the epiphyses and adjacent areas where bone growth occurs (the metaphyses). Occasionally, other skeletal abnormalities occur, including short stature and premature fusion of certain skull bones (
+craniosynostosis
+) that affects the shape of the head and face. Affected individuals may also have a small rib cage, which sometimes causes breathing problems in infancy, but the breathing problems are usually mild.
+A small number of individuals with this disorder have additional problems affecting other organs. These can include liver disease resulting in a buildup of scar tissue in the liver (hepatic fibrosis); cerebellar ataxia, which is difficulty with coordination and balance arising from problems with a part of the brain called the
+cerebellum
+; and mild intellectual disability.
+Frequency
+Mainzer-Saldino syndrome is a rare disorder; its prevalence is unknown. At least 20 cases have been reported.
+Causes
+Mainzer-Saldino syndrome is usually caused by mutations in the
+IFT140
+gene. This gene provides instructions for making a protein that is involved in the formation and maintenance of cilia, which are microscopic, finger-like projections that stick out from the surface of cells and participate in signaling pathways that transmit information within and between cells. Cilia are important for the structure and function of many types of cells, including cells in the kidneys, liver, and brain. Light-sensing cells (photoreceptors) in the retina also contain cilia, which are essential for normal vision. Cilia also play a role in the development of the bones, although the mechanism is not well understood.
+The movement of substances within cilia and similar structures called flagella is known as intraflagellar transport (IFT). This process is essential for the assembly and maintenance of these cell structures. During intraflagellar transport, cells use molecules called IFT particles to carry materials to and from the tips of cilia. IFT particles are made of proteins produced from related genes that belong to the IFT gene family. Each IFT particle is made up of two groups of IFT proteins: complex A, which includes at least six proteins, and complex B, which includes at least 15 proteins. The protein produced from the
+IFT140
+gene forms part of IFT complex A (IFT-A).
+Mutations in the
+IFT140
+gene that cause Mainzer-Saldino syndrome may change the shape of the IFT140 protein or affect its interactions with other IFT proteins, likely impairing the assembly of IFT-A and the development or maintenance of cilia. As a result, fewer cilia may be present or functional, affecting many organs and tissues in the body and resulting in the signs and symptoms of Mainzer-Saldino syndrome. Disorders such as Mainzer-Saldino syndrome that are caused by problems with cilia and involve bone abnormalities are called skeletal ciliopathies.
+While
+IFT140
+gene mutations are believed to account for most cases of Mainzer-Saldino syndrome, mutations in additional genes that have not been identified may also cause this disorder.
+Learn more about the gene associated with Mainzer-Saldino syndrome
+IFT140
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Conorenal dysplasia
+Conorenal syndrome
+Mainzer-Saldino chondrodysplasia
+Mainzer-Saldino disease
+MZSDS
+Renal dysplasia, retinal pigmentary dystrophy, cerebellar ataxia, and skeletal dysplasia
+Saldino-Mainzer dysplasia
+Saldino-Mainzer syndrome
+Short-rib thoracic dysplasia 9
+SRTD9
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Saldino-Mainzer syndrome
+Genetic and Rare Diseases Information Center
+Saldino-Mainzer syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SHORT-RIB THORACIC DYSPLASIA 9 WITH OR WITHOUT POLYDACTYLY; SRTD9
+Scientific Articles on PubMed
+PubMed
+References
+Beals RK, Weleber RG. Conorenal dysplasia: a syndrome of cone-shaped
+epiphysis, renal disease in childhood, retinitis pigmentosa and abnormality of
+the proximal femur. Am J Med Genet A. 2007 Oct 15;143A(20):2444-7. doi:
+10.1002/ajmg.a.31948.
+Citation on PubMed
+Mortellaro C, Bello L, Pucci A, Lucchina AG, Migliario M. Saldino-Mainzer
+syndrome: nephronophthisis, retinitis pigmentosa, and cone-shaped epiphyses. J
+Craniofac Surg. 2010 Sep;21(5):1554-6. doi: 10.1097/SCS.0b013e3181ec69bb.
+Citation on PubMed
+Perrault I, Saunier S, Hanein S, Filhol E, Bizet AA, Collins F, Salih MA,
+Gerber S, Delphin N, Bigot K, Orssaud C, Silva E, Baudouin V, Oud MM, Shannon N,
+Le Merrer M, Roche O, Pietrement C, Goumid J, Baumann C, Bole-Feysot C, Nitschke
+P, Zahrate M, Beales P, Arts HH, Munnich A, Kaplan J, Antignac C, Cormier-Daire
+V, Rozet JM. Mainzer-Saldino syndrome is a ciliopathy caused by IFT140 mutations.
+Am J Hum Genet. 2012 May 4;90(5):864-70. doi: 10.1016/j.ajhg.2012.03.006. Epub
+2012 Apr 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schmidts M, Frank V, Eisenberger T, Al Turki S, Bizet AA, Antony D, Rix S,
+Decker C, Bachmann N, Bald M, Vinke T, Toenshoff B, Di Donato N, Neuhann T,
+Hartley JL, Maher ER, Bogdanovic R, Peco-Antic A, Mache C, Hurles ME, Joksic I,
+Guc-Scekic M, Dobricic J, Brankovic-Magic M, Bolz HJ, Pazour GJ, Beales PL,
+Scambler PJ, Saunier S, Mitchison HM, Bergmann C. Combined NGS approaches
+identify mutations in the intraflagellar transport gene IFT140 in skeletal
+ciliopathies with early progressive kidney Disease. Hum Mutat. 2013
+May;34(5):714-24. doi: 10.1002/humu.22294.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Kidney Diseases
+Retinal Disorders
+MEDICAL ENCYCLOPEDIA
+Electroretinography
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,144 @@
+Tetrahydrobiopterin deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Tetrahydrobiopterin deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/tetrahydrobiopterin-deficiency/
+Tetrahydrobiopterin deficiency
+Description
+Tetrahydrobiopterin deficiency is a rare disorder characterized by a shortage (deficiency) of a molecule called tetrahydrobiopterin or BH4. This condition alters the levels of several substances in the body, including phenylalanine. Phenylalanine is a building block of proteins (an
+amino acid
+) that is obtained through the diet. It is found in foods that contain protein and in some artificial sweeteners. High levels of phenylalanine are present from early infancy in people with untreated tetrahydrobiopterin deficiency. This condition also alters the levels of chemicals called
+neurotransmitters
+, which transmit signals between nerve cells in the brain.
+Infants with tetrahydrobiopterin deficiency appear normal at birth, but medical problems ranging from mild to severe become apparent over time. Signs and symptoms of this condition can include intellectual disability, progressive problems with development, movement disorders, difficulty swallowing, seizures, behavioral problems, and an inability to control body temperature.
+Frequency
+This condition is rare, affecting an estimated 1 in 500,000 to 1 in 1 million newborns. In most parts of the world, tetrahydrobiopterin deficiency accounts for 1 to 3 percent of all cases of elevated phenylalanine levels. The remaining cases are caused by a similar condition called
+phenylketonuria
+(PKU). In certain countries, including Saudi Arabia, Taiwan, China, and Turkey, it is more common for elevated levels of phenylalanine to be caused by tetrahydrobiopterin deficiency than by PKU.
+Causes
+Tetrahydrobiopterin deficiency can be caused by mutations in one of several genes, including
+GCH1
+,
+PCBD1
+,
+PTS
+, and
+QDPR
+. These genes provide instructions for making enzymes that help produce and recycle tetrahydrobiopterin in the body. Tetrahydrobiopterin normally helps process several
+amino acids
+, including phenylalanine. It is also involved in the production of
+neurotransmitters
+.
+If one of the enzymes fails to function correctly because of a gene mutation, little or no tetrahydrobiopterin is available to help process phenylalanine. As a result, phenylalanine can build up in the blood and other tissues. Because nerve cells in the brain are particularly sensitive to phenylalanine levels, excessive amounts of this substance can cause brain damage. Tetrahydrobiopterin deficiency can also alter the levels of certain neurotransmitters, which disrupts normal brain function. These abnormalities underlie the intellectual disability and other characteristic features of the condition.
+Learn more about the genes associated with Tetrahydrobiopterin deficiency
+GCH1
+PCBD1
+PTS
+QDPR
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+BH4 deficiency
+Hyperphenylalaninemia caused by a defect in biopterin metabolism
+Hyperphenylalaninemia, non-phenylketonuric
+Non-phenylketonuric hyperphenylalaninemia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Dihydropteridine reductase deficiency
+Genetic Testing Registry: 6-Pyruvoyl-tetrahydrobiopterin synthase deficiency
+Genetic Testing Registry: Pterin-4 alpha-carbinolamine dehydratase 1 deficiency
+Genetic Testing Registry: GTP cyclohydrolase I deficiency
+Genetic and Rare Diseases Information Center
+Hyperphenylalaninemia due to tetrahydrobiopterin deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HYPERPHENYLALANINEMIA, BH4-DEFICIENT, C; HPABH4C
+HYPERPHENYLALANINEMIA, BH4-DEFICIENT, A; HPABH4A
+HYPERPHENYLALANINEMIA, BH4-DEFICIENT, B; HPABH4B
+HYPERPHENYLALANINEMIA, BH4-DEFICIENT, D; HPABH4D
+Scientific Articles on PubMed
+PubMed
+References
+Jaggi L, Zurfluh MR, Schuler A, Ponzone A, Porta F, Fiori L, Giovannini M,
+Santer R, Hoffmann GF, Ibel H, Wendel U, Ballhausen D, Baumgartner MR, Blau N.
+Outcome and long-term follow-up of 36 patients with tetrahydrobiopterin
+deficiency. Mol Genet Metab. 2008 Mar;93(3):295-305. doi:
+10.1016/j.ymgme.2007.10.004. Epub 2007 Dec 3.
+Citation on PubMed
+Liu TT, Chiang SH, Wu SJ, Hsiao KJ. Tetrahydrobiopterin-deficient
+hyperphenylalaninemia in the Chinese. Clin Chim Acta. 2001 Nov;313(1-2):157-69.
+doi: 10.1016/s0009-8981(01)00669-6.
+Citation on PubMed
+Longo N. Disorders of biopterin metabolism. J Inherit Metab Dis. 2009
+Jun;32(3):333-42. doi: 10.1007/s10545-009-1067-2. Epub 2009 Feb 9.
+Citation on PubMed
+Pearl PL, Taylor JL, Trzcinski S, Sokohl A. The pediatric neurotransmitter
+disorders. J Child Neurol. 2007 May;22(5):606-16. doi: 10.1177/0883073807302619.
+Citation on PubMed
+Ponzone A, Spada M, Ferraris S, Dianzani I, de Sanctis L. Dihydropteridine
+reductase deficiency in man: from biology to treatment. Med Res Rev. 2004
+Mar;24(2):127-50. doi: 10.1002/med.10055.
+Citation on PubMed
+Shintaku H. Disorders of tetrahydrobiopterin metabolism and their treatment.
+Curr Drug Metab. 2002 Apr;3(2):123-31. doi: 10.2174/1389200024605145.
+Citation on PubMed
+Thony B, Auerbach G, Blau N. Tetrahydrobiopterin biosynthesis, regeneration
+and functions. Biochem J. 2000 Apr 1;347 Pt 1(Pt 1):1-16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Thony B, Blau N. Mutations in the BH4-metabolizing genes GTP cyclohydrolase I,
+6-pyruvoyl-tetrahydropterin synthase, sepiapterin reductase,
+carbinolamine-4a-dehydratase, and dihydropteridine reductase. Hum Mutat. 2006
+Sep;27(9):870-8. doi: 10.1002/humu.20366.
+Citation on PubMed
+Wang L, Yu WM, He C, Chang M, Shen M, Zhou Z, Zhang Z, Shen S, Liu TT, Hsiao
+KJ. Long-term outcome and neuroradiological findings of 31 patients with
+6-pyruvoyltetrahydropterin synthase deficiency. J Inherit Metab Dis. 2006
+Feb;29(1):127-34. doi: 10.1007/s10545-006-0080-y.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Newborn Screening
+Phenylketonuria
+MEDICAL ENCYCLOPEDIA
+Genetics
+Serum phenylalanine screening
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

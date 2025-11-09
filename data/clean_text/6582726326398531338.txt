@@ -1,0 +1,135 @@
+Branchio-oculo-facial syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Branchio-oculo-facial syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/branchio-oculo-facial-syndrome/
+Branchio-oculo-facial syndrome
+Description
+Branchio-oculo-facial syndrome is a condition that affects development before birth, particularly of structures in the face and neck. Its characteristic features include skin anomalies on the neck, malformations of the eyes and ears, and distinctive facial features.
+"Branchio-" refers to the branchial arches, which are structures in the developing embryo that give rise to tissues in the face and neck. In people with branchio-oculo-facial syndrome, the first and second branchial arches do not develop properly, leading to abnormal patches of skin, typically on the neck or near the ears. These patches can be unusually thin, hairy, or red and densely packed with blood vessels (hemangiomatous). In a small number of individuals, tissue from a gland called the thymus is abnormally located on the skin of the neck (dermal thymus). Problems with branchial arch development underlie many of the other features of branchio-oculo-facial syndrome.
+"Oculo-" refers to the eyes. Many people with branchio-oculo-facial syndrome have malformations of the eyes that can lead to vision impairment. These abnormalities include unusually small eyeballs (
+microphthalmia
+), no eyeballs (anophthalmia), a gap or split in structures that make up the eyes (
+coloboma
+), or blockage of the tear ducts (nasolacrimal duct stenosis).
+Problems with development of the face lead to distinctive facial features in people with branchio-oculo-facial syndrome. Many affected individuals have a split in the upper lip (
+cleft lip
+) or a pointed upper lip that resembles a poorly repaired cleft lip (often called a pseudocleft lip) with or without an opening in the roof of the mouth (
+cleft palate
+). Other facial characteristics include widely spaced eyes (hypertelorism), an increased distance between the inner corners of the eyes (
+telecanthus
+), outside corners of the eyes that point upward (
+upslanting palpebral fissures
+), a broad nose with a
+flattened tip
+, and weakness of the muscles in the lower face. The ears are also commonly affected, resulting in malformed or prominent ears. Abnormalities of the inner ear or of the tiny bones in the ears (
+ossicles
+) can cause hearing loss in people with this condition.
+Branchio-oculo-facial syndrome can affect other structures and tissues as well. Some affected individuals have kidney abnormalities, such as malformed kidneys or multiple kidney cysts. Nail and teeth abnormalities also occur, and some people with this condition have prematurely graying hair.
+Frequency
+Branchio-oculo-facial syndrome is a rare condition, although the prevalence is unknown.
+Causes
+Branchio-oculo-facial syndrome is caused by mutations in the
+TFAP2A
+gene. This gene provides instructions for making a protein called transcription factor AP-2 alpha (AP-2α). As its name suggests, this protein is a transcription factor, which means it attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Transcription factor AP-2α regulates genes that are involved in several cellular processes, such as cell division and the self-destruction of cells that are no longer needed (apoptosis). This protein is critical during development before birth, particularly of the branchial arches, which form the structures of the face and neck.
+Most
+TFAP2A
+gene mutations that cause branchio-oculo-facial syndrome change single protein building blocks (
+amino acids
+) in the transcription factor AP-2α protein. These changes tend to occur in a region of the protein that allows it to bind to DNA. Without this function, transcription factor AP-2α cannot control the activity of genes during development, which disrupts the development of the eyes, ears, and face and causes the features of branchio-oculo-facial syndrome.
+Learn more about the gene associated with Branchio-oculo-facial syndrome
+TFAP2A
+Inheritance
+Branchio-oculo-facial syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In about half of cases, an affected person inherits the mutation from
+one affected parent
+. The remaining cases occur in people whose parents do not have a mutation in the
+TFAP2A
+gene. In these situations, the mutation likely occurs as a
+random event
+during the formation of reproductive cells (eggs and sperm) in a parent or in early fetal development of the affected individual.
+Other Names for This Condition
+BOFS
+Branchial clefts with characteristic facies, growth retardation, imperforate nasolacrimal duct, and premature aging
+Hemangiomatous branchial clefts-lip pseudocleft syndrome
+Lip pseudocleft-hemagiomatous branchial cyst syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Branchiooculofacial syndrome
+Genetic and Rare Diseases Information Center
+Branchio-oculo-facial syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+BRANCHIOOCULOFACIAL SYNDROME; BOFS
+Scientific Articles on PubMed
+PubMed
+References
+Developmental Biology (sixth edition, 2000): The Neural Crest
+Haldeman-Englert CR, Lin AE, Milunsky JM. Branchiooculofacial Syndrome. 2011
+May 31 [updated 2025 Aug 14]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA,
+Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK55063/
+Citation on PubMed
+Lin AE, Gorlin RJ, Lurie IW, Brunner HG, van der Burgt I, Naumchik IV,
+Rumyantseva NV, Stengel-Rutkowski S, Rosenbaum K, Meinecke P, et al. Further
+delineation of the branchio-oculo-facial syndrome. Am J Med Genet. 1995 Mar
+13;56(1):42-59. doi: 10.1002/ajmg.1320560112.
+Citation on PubMed
+Milunsky JM, Maher TA, Zhao G, Roberts AE, Stalker HJ, Zori RT, Burch MN,
+Clemens M, Mulliken JB, Smith R, Lin AE. TFAP2A mutations result in
+branchio-oculo-facial syndrome. Am J Hum Genet. 2008 May;82(5):1171-7. doi:
+10.1016/j.ajhg.2008.03.005.
+Citation on PubMed
+or
+Free article on PubMed Central
+Milunsky JM, Maher TM, Zhao G, Wang Z, Mulliken JB, Chitayat D, Clemens M,
+Stalker HJ, Bauer M, Burch M, Chenier S, Cunningham ML, Drack AV, Janssens S,
+Karlea A, Klatt R, Kini U, Klein O, Lachmeijer AM, Megarbane A, Mendelsohn NJ,
+Meschino WS, Mortier GR, Parkash S, Ray CR, Roberts A, Roberts A, Reardon W,
+Schnur RE, Smith R, Splitt M, Tezcan K, Whiteford ML, Wong DA, Zori R, Lin AE.
+Genotype-phenotype analysis of the branchio-oculo-facial syndrome. Am J Med Genet
+A. 2011 Jan;155A(1):22-32. doi: 10.1002/ajmg.a.33783.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cleft Lip and Palate
+Craniofacial Abnormalities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cleft lip and palate
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,126 @@
+SOST-related sclerosing bone dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+SOST-related sclerosing bone dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/sost-related-sclerosing-bone-dysplasia/
+SOST-related sclerosing bone dysplasia
+Description
+SOST
+-related sclerosing bone dysplasia is a disorder of bone development characterized by excessive bone formation (hyperostosis). As a result of hyperostosis, bones throughout the body are denser and wider than normal, particularly the bones of the skull. Affected individuals typically have an enlarged jaw with misaligned teeth. People with this condition may also have a sunken appearance of the middle of the face (midface hypoplasia), bulging eyes with shallow eye sockets (ocular proptosis), and a prominent forehead. People with this condition often experience headaches because increased thickness of the skull bones increases pressure on the brain. The excessive bone formation seen in this condition seems to occur throughout a person's life, so the skeletal features become more pronounced over time. However, the excessive bone growth may only occur in certain areas.
+Abnormal bone growth can pinch (compress)
+the cranial nerves
+, which emerge from the brain and extend to various areas of the head and neck. Compression of the cranial nerves can lead to paralyzed facial muscles (facial nerve palsy), hearing loss, vision loss, and a sense of smell that is diminished (hyposmia) or completely absent (anosmia). Abnormal bone growth can cause life-threatening complications if it compresses the part of the brain that is connected to the spinal cord (
+the brainstem
+).
+There are two forms of
+SOST
+-related sclerosing bone dysplasia: sclerosteosis and van Buchem disease. The two forms are distinguished by the severity of their symptoms.
+Sclerosteosis is the more severe form of the disorder. People with sclerosteosis are often tall and have webbed or fused fingers (syndactyly), most often involving the second and third fingers. The syndactyly is present from birth, while the skeletal features typically appear in early childhood. People with sclerosteosis may also have absent or malformed nails.
+Van Buchem disease represents the milder form of the disorder. People with van Buchem disease are typically of average height and do not have syndactyly or nail abnormalities. Affected individuals tend to have less severe cranial nerve compression, resulting in milder neurological features. In people with van Buchem disease, the skeletal features typically appear in childhood or adolescence.
+Frequency
+SOST
+-related sclerosing bone dysplasia is a rare condition; its exact prevalence is unknown.
+Approximately 100 individuals with sclerosteosis have been reported in the scientific literature. Sclerosteosis is most common in the Afrikaner population of South Africa.
+Van Buchem disease has been reported in approximately 30 people. Most people with van Buchem disease are of Dutch ancestry.
+Causes
+SOST
+-related sclerosing bone dysplasia is caused by mutations in or near the
+SOST
+gene. The
+SOST
+gene provides instructions for making the protein sclerostin. Sclerostin is produced in osteocytes, which are a type of bone cell. The main function of sclerostin is to stop (inhibit) bone formation.
+Mutations in the
+SOST
+gene that cause sclerosteosis prevent the production of any functional sclerostin. A lack of sclerostin disrupts the inhibitory role it plays during bone formation, causing excessive bone growth.
+SOST
+mutations that cause van Buchem disease result in a shortage of functional sclerostin. This shortage reduces the protein's ability to inhibit bone formation, causing the excessive bone growth seen in people with van Buchem disease.
+Learn more about the gene associated with SOST-related sclerosing bone dysplasia
+SOST
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Hyperostosis corticalis generalisata
+Hyperotosis corticalis generalisata familiaris
+Hyperphosphatasemia tarda
+Sclerosteosis
+SOST sclerosing bone dysplasia
+Van Buchem disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hyperphosphatasemia tarda
+Genetic and Rare Diseases Information Center
+Hyperostosis corticalis generalisata
+Sclerosteosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SCLEROSTEOSIS 1; SOST1
+VAN BUCHEM DISEASE; VBCH
+Scientific Articles on PubMed
+PubMed
+References
+Balemans W, Van Hul W. Human genetics of SOST. J Musculoskelet Neuronal
+Interact. 2006 Oct-Dec;6(4):355-6. No abstract available.
+Citation on PubMed
+Gardner JC, van Bezooijen RL, Mervis B, Hamdy NA, Lowik CW, Hamersma H,
+Beighton P, Papapoulos SE. Bone mineral density in sclerosteosis; affected
+individuals and gene carriers. J Clin Endocrinol Metab. 2005 Dec;90(12):6392-5.
+doi: 10.1210/jc.2005-1235. Epub 2005 Sep 27.
+Citation on PubMed
+Hamersma H, Gardner J, Beighton P. The natural history of sclerosteosis. Clin
+Genet. 2003 Mar;63(3):192-7. doi: 10.1034/j.1399-0004.2003.00036.x.
+Citation on PubMed
+van Bezooijen RL, ten Dijke P, Papapoulos SE, Lowik CW. SOST/sclerostin, an
+osteocyte-derived negative regulator of bone formation. Cytokine Growth Factor
+Rev. 2005 Jun;16(3):319-27. doi: 10.1016/j.cytogfr.2005.02.005.
+Citation on PubMed
+Vanhoenacker FM, Balemans W, Tan GJ, Dikkers FG, De Schepper AM, Mathysen DG,
+Bernaerts A, Hul WV. Van Buchem disease: lifetime evolution of radioclinical
+features. Skeletal Radiol. 2003 Dec;32(12):708-18. doi:
+10.1007/s00256-003-0675-4. Epub 2003 Oct 1.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+Hearing Disorders and Deafness
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Facial paralysis
+Genetics
+Smell - impaired
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

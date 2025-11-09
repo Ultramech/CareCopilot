@@ -1,0 +1,129 @@
+Complement factor I deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Complement factor I deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/complement-factor-i-deficiency/
+Complement factor I deficiency
+Description
+Complement factor I deficiency is a disorder that affects the immune system. People with this condition are prone to recurrent infections, including infections of the upper respiratory tract, ears, skin, and urinary tract. They may also contract more serious infections such as pneumonia, meningitis, and
+sepsis
+, which may be life-threatening.
+Some people with complement factor I deficiency have a kidney disorder called glomerulonephritis with isolated C3 deposits. Complement factor I deficiency can also be associated with autoimmune disorders such as
+rheumatoid arthritis
+or
+systemic lupus erythematosus
+(SLE). Autoimmune disorders occur when the immune system malfunctions and attacks the body's tissues and organs.
+Frequency
+Complement factor I deficiency is a rare disorder; its exact prevalence is unknown. At least 38 cases have been reported in the medical literature.
+Causes
+Complement factor I deficiency is caused by mutations in the
+CFI
+gene. This gene provides instructions for making a protein called complement factor I. This protein helps regulate a part of the body's immune response known as the
+complement system
+. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger
+inflammation
+, and remove debris from cells and tissues. This system must be carefully regulated so it targets only unwanted materials and does not attack the body's healthy cells. Complement factor I and several related proteins protect healthy cells by preventing activation of the complement system when it is not needed.
+Mutations in the
+CFI
+gene that cause complement factor I deficiency result in abnormal, nonfunctional, or absent complement factor I. The lack (deficiency) of functional complement factor I protein allows uncontrolled activation of the complement system. The unregulated activity of the complement system decreases blood levels of another complement protein called C3, reducing the immune system's ability to fight infections. In addition, the immune system may malfunction and attack its own tissues, resulting in autoimmune disorders.
+Learn more about the gene associated with Complement factor I deficiency
+CFI
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+C3 inactivator deficiency
+Complement component 3 inactivator deficiency
+Hereditary factor I deficiency disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary factor I deficiency disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+COMPLEMENT FACTOR I DEFICIENCY; CFID
+Scientific Articles on PubMed
+PubMed
+References
+Baracho GV, Nudelman V, Isaac L. Molecular characterization of homozygous
+hereditary factor I deficiency. Clin Exp Immunol. 2003 Feb;131(2):280-6. doi:
+10.1046/j.1365-2249.2003.02077.x.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grumach AS, Leitao MF, Arruk VG, Kirschfink M, Condino-Neto A. Recurrent
+infections in partial complement factor I deficiency: evaluation of three
+generations of a Brazilian family. Clin Exp Immunol. 2006 Feb;143(2):297-304.
+doi: 10.1111/j.1365-2249.2005.02988.x.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nilsson SC, Trouw LA, Renault N, Miteva MA, Genel F, Zelazko M, Marquart H,
+Muller K, Sjoholm AG, Truedsson L, Villoutreix BO, Blom AM. Genetic, molecular
+and functional analyses of complement factor I deficiency. Eur J Immunol. 2009
+Jan;39(1):310-23. doi: 10.1002/eji.200838702.
+Citation on PubMed
+Pettigrew HD, Teuber SS, Gershwin ME. Clinical significance of complement
+deficiencies. Ann N Y Acad Sci. 2009 Sep;1173:108-23. doi:
+10.1111/j.1749-6632.2009.04633.x.
+Citation on PubMed
+Ponce-Castro IM, Gonzalez-Rubio C, Delgado-Cervino EM, Abarrategui-Garrido C,
+Fontan G, Sanchez-Corral P, Lopez-Trascasa M. Molecular characterization of
+Complement Factor I deficiency in two Spanish families. Mol Immunol. 2008
+May;45(10):2764-71. doi: 10.1016/j.molimm.2008.02.008. Epub 2008 Mar 28.
+Citation on PubMed
+Vyse TJ, Morley BJ, Bartok I, Theodoridis EL, Davies KA, Webster AD, Walport
+MJ. The molecular basis of hereditary complement factor I deficiency. J Clin
+Invest. 1996 Feb 15;97(4):925-33. doi: 10.1172/JCI118515.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vyse TJ, Spath PJ, Davies KA, Morley BJ, Philippe P, Athanassiou P, Giles CM,
+Walport MJ. Hereditary complement factor I deficiency. QJM. 1994
+Jul;87(7):385-401.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Complement
+Genetics
+Immunodeficiency disorders
+Related Medical Tests
+Complement Blood Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

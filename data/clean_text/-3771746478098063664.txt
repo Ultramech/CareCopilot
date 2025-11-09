@@ -1,0 +1,171 @@
+Gyrate atrophy of the choroid and retina: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Gyrate atrophy of the choroid and retina
+URL of this page: https://medlineplus.gov/genetics/condition/gyrate-atrophy-of-the-choroid-and-retina/
+Gyrate atrophy of the choroid and retina
+Description
+Gyrate atrophy of the choroid and retina, which is often shortened to gyrate atrophy, is an inherited disorder characterized by progressive vision loss. People with this disorder have an ongoing loss of cells (atrophy) in
+the retina
+, which is the specialized light-sensitive tissue that lines the back of the eye, and in a nearby tissue layer called the choroid. During childhood, they begin experiencing
+nearsightedness
+(
+myopia
+), difficulty seeing in low light (night blindness), and loss of side (peripheral) vision. Over time, their field of vision continues to narrow, resulting in tunnel vision. Many people with gyrate atrophy also develop clouding of the lens of the eyes (
+cataracts
+). These progressive vision changes lead to blindness by about the age of 50.
+Most people with gyrate atrophy have no symptoms other than vision loss, but some have additional features of the disorder. Occasionally, newborns with gyrate atrophy develop excess ammonia in the blood (hyperammonemia), which may lead to poor feeding, vomiting, seizures, or coma. Neonatal hyperammonemia associated with gyrate atrophy generally responds quickly to treatment and does not recur after the newborn period.
+Gyrate atrophy usually does not affect intelligence; however, abnormalities may be observed in brain imaging or other neurological testing. In some cases, mild to moderate intellectual disability is associated with gyrate atrophy.
+Gyrate atrophy may also cause disturbances in the nerves connecting the brain and spinal cord to muscles and sensory cells (peripheral nervous system). In some people with the disorder these abnormalities lead to numbness, tingling, or pain in the hands or feet, while in others they are detectable only by electrical testing of the nerve impulses.
+In some people with gyrate atrophy, a particular type of muscle fibers (type II fibers) break down over time. While this muscle abnormality usually causes no symptoms, it may result in mild weakness.
+Frequency
+More than 150 individuals with gyrate atrophy have been identified; approximately one third are from Finland.
+Causes
+Mutations in the
+OAT
+gene cause gyrate atrophy. The
+OAT
+gene provides instructions for making the enzyme ornithine aminotransferase. This enzyme is active in the energy-producing centers of cells (
+mitochondria
+), where it helps break down a molecule called ornithine. Ornithine is involved in
+the urea cycle
+, which processes excess nitrogen (in the form of ammonia) that is generated when protein is broken down by the body. In addition to its role in the urea cycle, ornithine participates in several reactions that help ensure the proper balance of protein building blocks (
+amino acids
+) in the body. This balance is important because a specific sequence of amino acids is required to build each of the many different proteins needed for the body's functions. The ornithine aminotransferase enzyme helps convert ornithine into another molecule called pyrroline-5-carboxylate (P5C). P5C can be converted into the amino acids glutamate and proline.
+OAT
+gene mutations that cause gyrate atrophy result in a reduced amount of functional ornithine aminotransferase enzyme. A shortage of this enzyme impedes the conversion of ornithine into P5C. As a result, excess ornithine accumulates in the blood (hyperornithinemia), and less P5C than normal is produced. It is not clear how these changes result in the specific signs and symptoms of gyrate atrophy. Researchers have suggested that a deficiency of P5C may interfere with the function of the retina. It has also been proposed that excess ornithine may suppress the production of a molecule called creatine. Creatine is needed for many tissues in the body to store and use energy properly. It is involved in providing energy for muscle contraction, and it is also important in nervous system functioning.
+Learn more about the gene associated with Gyrate atrophy of the choroid and retina
+OAT
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Gyrate atrophy
+HOGA
+Hyperornithinemia with gyrate atrophy of choroid and retina
+OAT deficiency
+OKT deficiency
+Ornithine aminotransferase deficiency
+Ornithine keto acid aminotransferase deficiency
+Ornithine-delta-aminotransferase deficiency
+Ornithinemia with gyrate atrophy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hyperornithinemia
+Genetic and Rare Diseases Information Center
+Gyrate atrophy of choroid and retina
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GYRATE ATROPHY OF CHOROID AND RETINA; GACR
+Scientific Articles on PubMed
+PubMed
+References
+Cleary MA, Dorland L, de Koning TJ, Poll-The BT, Duran M, Mandell R, Shih VE,
+Berger R, Olpin SE, Besley GT. Ornithine aminotransferase deficiency: diagnostic
+difficulties in neonatal presentation. J Inherit Metab Dis. 2005;28(5):673-9.
+doi: 10.1007/s10545-005-0074-1.
+Citation on PubMed
+Fleury M, Barbier R, Ziegler F, Mohr M, Caron O, Dollfus H, Tranchant C,
+Warter JM. Myopathy with tubular aggregates and gyrate atrophy of the choroid and
+retina due to hyperornithinaemia. J Neurol Neurosurg Psychiatry. 2007
+Jun;78(6):656-7. doi: 10.1136/jnnp.2006.101386. Epub 2006 Nov 6. No abstract
+available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Heinanen K, Nanto-Salonen K, Komu M, Erkintalo M, Heinonen OJ, Pulkki K,
+Valtonen M, Nikoskelainen E, Alanen A, Simell O. Muscle creatine phosphate in
+gyrate atrophy of the choroid and retina with hyperornithinaemia--clues to
+pathogenesis. Eur J Clin Invest. 1999 May;29(5):426-31. doi:
+10.1046/j.1365-2362.1999.00467.x.
+Citation on PubMed
+Kaiser-Kupfer MI, Caruso RC, Valle D, Reed GF. Use of an arginine-restricted
+diet to slow progression of visual loss in patients with gyrate atrophy. Arch
+Ophthalmol. 2004 Jul;122(7):982-4. doi: 10.1001/archopht.122.7.982.
+Citation on PubMed
+Kaiser-Kupfer MI, Caruso RC, Valle D. Gyrate atrophy of the choroid and
+retina: further experience with long-term reduction of ornithine levels in
+children. Arch Ophthalmol. 2002 Feb;120(2):146-53. doi:
+10.1001/archopht.120.2.146.
+Citation on PubMed
+Mashima YG, Weleber RG, Kennaway NG, Inana G. Genotype-phenotype correlation
+of a pyridoxine-responsive form of gyrate atrophy. Ophthalmic Genet. 1999
+Dec;20(4):219-24. doi: 10.1076/opge.20.4.219.2271.
+Citation on PubMed
+Mitchell GA, Brody LC, Looney J, Steel G, Suchanek M, Dowling C, Der
+Kaloustian V, Kaiser-Kupfer M, Valle D. An initiator codon mutation in
+ornithine-delta-aminotransferase causing gyrate atrophy of the choroid and
+retina. J Clin Invest. 1988 Feb;81(2):630-3. doi: 10.1172/JCI113365.
+Citation on PubMed
+or
+Free article on PubMed Central
+Peltola KE, Jaaskelainen S, Heinonen OJ, Falck B, Nanto-Salonen K, Heinanen K,
+Simell O. Peripheral nervous system in gyrate atrophy of the choroid and retina
+with hyperornithinemia. Neurology. 2002 Sep 10;59(5):735-40. doi:
+10.1212/wnl.59.5.735.
+Citation on PubMed
+Peltola KE, Nanto-Salonen K, Heinonen OJ, Jaaskelainen S, Heinanen K, Simell
+O, Nikoskelainen E. Ophthalmologic heterogeneity in subjects with gyrate atrophy
+of choroid and retina harboring the L402P mutation of ornithine aminotransferase.
+Ophthalmology. 2001 Apr;108(4):721-9. doi: 10.1016/s0161-6420(00)00587-x.
+Citation on PubMed
+Santinelli R, Costagliola C, Tolone C, D'Aloia A, D'Avanzo A, Prisco F,
+Perrone L, del Giudice EM. Low-protein diet and progression of retinal
+degeneration in gyrate atrophy of the choroid and retina: a twenty-six-year
+follow-up. J Inherit Metab Dis. 2004;27(2):187-96. doi:
+10.1023/B:BOLI.0000028779.29966.05.
+Citation on PubMed
+Shenoi A, L N, Christopher R. Hyperornithinemia associated with gyrate atrophy
+of the choroid and retina in a child with myopia. Indian Pediatr. 2001
+Aug;38(8):914-8. No abstract available.
+Citation on PubMed
+Valtonen M, Nanto-Salonen K, Jaaskelainen S, Heinanen K, Alanen A, Heinonen
+OJ, Lundbom N, Erkintalo M, Simell O. Central nervous system involvement in
+gyrate atrophy of the choroid and retina with hyperornithinaemia. J Inherit Metab
+Dis. 1999 Dec;22(8):855-66. doi: 10.1023/a:1005602405349.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eye Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Ammonia Levels
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

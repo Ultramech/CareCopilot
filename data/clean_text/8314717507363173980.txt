@@ -1,0 +1,214 @@
+Centronuclear myopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Centronuclear myopathy
+URL of this page: https://medlineplus.gov/genetics/condition/centronuclear-myopathy/
+Centronuclear myopathy
+Description
+Centronuclear myopathy is a condition characterized by muscle weakness (myopathy) and wasting (
+atrophy
+) in the skeletal muscles, which are the muscles used for movement. The severity of centronuclear myopathy varies among affected individuals, even among members of the same family.
+People with centronuclear myopathy begin experiencing muscle weakness at any time from birth to early adulthood. The muscle weakness slowly worsens over time and can lead to delayed development of motor skills, such as crawling or walking; muscle pain during exercise; and difficulty walking. Some affected individuals may need wheelchair assistance as the muscles atrophy and weakness becomes more severe. In rare instances, the muscle weakness improves over time.
+Some people with centronuclear myopathy experience mild to severe breathing problems related to the weakness of muscles needed for breathing. People with centronuclear myopathy may have droopy eyelids (
+ptosis
+) and weakness in other facial muscles, including the muscles that control eye movement. People with this condition may also have foot abnormalities, a high arch in the roof of the mouth (
+high-arched palate
+), and abnormal side-to-side curvature of the spine (
+scoliosis
+). Rarely, individuals with centronuclear myopathy have a weakened heart muscle (
+cardiomyopathy
+), disturbances in nerve function (neuropathy), or intellectual disability.
+A key feature of centronuclear myopathy is the displacement of the nucleus in muscle cells, which can be viewed under a microscope. Normally the nucleus is found at the edges of the rod-shaped muscle cells, but in people with centronuclear myopathy the nucleus is located in the center of these cells. How the change in location of the nucleus affects muscle cell function is unknown.
+Frequency
+Centronuclear myopathy is a rare condition; its exact prevalence is unknown.
+Causes
+Centronuclear myopathy
+is most often caused by mutations in the
+DNM2
+,
+BIN1
+, or
+TTN
+gene. The proteins produced from the
+DNM2
+and
+BIN1
+genes are involved in endocytosis, a process that brings substances into the cell. The protein produced from the
+BIN1
+gene plays an additional role in the formation of tube-like structures called transverse tubules (or T tubules), which are found within the membrane of muscle fibers. These tubules help transmit the electrical impulses necessary for normal muscle tensing (contraction) and relaxation. The protein produced from the
+DNM2
+gene also regulates the
+actin cytoskeleton
+, which makes up the muscle fiber's structural framework.
+DNM2
+and
+BIN1
+gene mutations lead to abnormal muscle fibers that cannot contract and relax normally, resulting in muscle weakness.
+The
+TTN
+gene provides instructions for making a protein called titin that is an essential component of muscle fiber structures called
+sarcomeres
+. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract.
+TTN
+gene mutations decrease or alter titin's activity in muscle fibers. It is unclear how these mutations lead to centronuclear myopathy, but it is likely that the altered protein cannot interact with other proteins in the sarcomere, leading to dysfunction of the sarcomere. Abnormal sarcomeres prevent muscle fibers from contracting and relaxing normally, resulting in muscle weakness.
+Some people with centronuclear myopathy do not have identified mutations in the
+DNM2
+,
+BIN1
+, or
+TTN
+genes. Mutations in other genes associated with this condition are found in a small percentage of cases. Some males with signs and symptoms of severe centronuclear myopathy may have a condition called
+X-linked myotubular myopathy
+, which is similar to centronuclear myopathy, and is often considered a subtype of the condition, but has a different genetic cause. In some people with centronuclear myopathy, the cause of the disorder is unknown. Researchers are looking for additional genes that are associated with centronuclear myopathy.
+Learn more about the genes associated with Centronuclear myopathy
+BIN1
+DNM2
+RYR1
+TTN
+Additional Information from NCBI Gene:
+CCDC78
+SPEG
+Inheritance
+When centronuclear myopathy is caused by mutations in the
+DNM2
+gene, it is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered
+DNM2
+gene in each cell is sufficient to cause the disorder. Rarely,
+BIN1
+gene mutations that are inherited in an autosomal dominant pattern can cause centronuclear myopathy.
+Centronuclear myopathy caused by
+TTN
+gene mutations and most cases caused by
+BIN1
+gene mutations are inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other cases of centronuclear myopathy that are not caused by these genes are typically inherited in an autosomal recessive manner, although some follow an autosomal dominant pattern.
+Other Names for This Condition
+CNM
+Myopathy, centronuclear
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Centronuclear myopathy
+Genetic Testing Registry: Congenital myopathy with internal nuclei and atypical cores
+Genetic Testing Registry: Myopathy, centronuclear, 5
+Genetic and Rare Diseases Information Center
+Centronuclear myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MYOPATHY, CENTRONUCLEAR, 1; CNM1
+MYOPATHY, CENTRONUCLEAR, 2; CNM2
+MYOPATHY, CENTRONUCLEAR, 5; CNM5
+MYOPATHY, CENTRONUCLEAR, 4; CNM4
+Scientific Articles on PubMed
+PubMed
+References
+Agrawal PB, Pierson CR, Joshi M, Liu X, Ravenscroft G, Moghadaszadeh B,
+Talabere T, Viola M, Swanson LC, Haliloglu G, Talim B, Yau KS, Allcock RJ, Laing
+NG, Perrella MA, Beggs AH. SPEG interacts with myotubularin, and its deficiency
+causes centronuclear myopathy with dilated cardiomyopathy. Am J Hum Genet. 2014
+Aug 7;95(2):218-26. doi: 10.1016/j.ajhg.2014.07.004. Epub 2014 Jul 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bohm J, Biancalana V, Malfatti E, Dondaine N, Koch C, Vasli N, Kress W,
+Strittmatter M, Taratuto AL, Gonorazky H, Laforet P, Maisonobe T, Olive M,
+Gonzalez-Mera L, Fardeau M, Carriere N, Clavelou P, Eymard B, Bitoun M, Rendu J,
+Faure J, Weis J, Mandel JL, Romero NB, Laporte J. Adult-onset autosomal dominant
+centronuclear myopathy due to BIN1 mutations. Brain. 2014 Dec;137(Pt 12):3160-70.
+doi: 10.1093/brain/awu272. Epub 2014 Sep 25.
+Citation on PubMed
+Ceyhan-Birsoy O, Agrawal PB, Hidalgo C, Schmitz-Abe K, DeChene ET, Swanson LC,
+Soemedi R, Vasli N, Iannaccone ST, Shieh PB, Shur N, Dennison JM, Lawlor MW,
+Laporte J, Markianos K, Fairbrother WG, Granzier H, Beggs AH. Recessive
+truncating titin gene, TTN, mutations presenting as centronuclear myopathy.
+Neurology. 2013 Oct 1;81(14):1205-14. doi: 10.1212/WNL.0b013e3182a6ca62. Epub
+2013 Aug 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jungbluth H, Gautel M. Pathogenic mechanisms in centronuclear myopathies.
+Front Aging Neurosci. 2014 Dec 19;6:339. doi: 10.3389/fnagi.2014.00339.
+eCollection 2014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jungbluth H, Wallgren-Pettersson C, Laporte J. Centronuclear (myotubular)
+myopathy. Orphanet J Rare Dis. 2008 Sep 25;3:26. doi: 10.1186/1750-1172-3-26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Majczenko K, Davidson AE, Camelo-Piragua S, Agrawal PB, Manfready RA, Li X,
+Joshi S, Xu J, Peng W, Beggs AH, Li JZ, Burmeister M, Dowling JJ. Dominant
+mutation of CCDC78 in a unique congenital myopathy with prominent internal nuclei
+and atypical cores. Am J Hum Genet. 2012 Aug 10;91(2):365-71. doi:
+10.1016/j.ajhg.2012.06.012. Epub 2012 Jul 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nicot AS, Toussaint A, Tosch V, Kretz C, Wallgren-Pettersson C, Iwarsson E,
+Kingston H, Garnier JM, Biancalana V, Oldfors A, Mandel JL, Laporte J. Mutations
+in amphiphysin 2 (BIN1) disrupt interaction with dynamin 2 and cause autosomal
+recessive centronuclear myopathy. Nat Genet. 2007 Sep;39(9):1134-9. doi:
+10.1038/ng2086. Epub 2007 Aug 5.
+Citation on PubMed
+Romero NB. Centronuclear myopathies: a widening concept. Neuromuscul Disord.
+2010 Apr;20(4):223-8. doi: 10.1016/j.nmd.2010.01.014. Epub 2010 Feb 23.
+Citation on PubMed
+Susman RD, Quijano-Roy S, Yang N, Webster R, Clarke NF, Dowling J, Kennerson
+M, Nicholson G, Biancalana V, Ilkovski B, Flanigan KM, Arbuckle S, Malladi C,
+Robinson P, Vucic S, Mayer M, Romero NB, Urtizberea JA, Garcia-Bragado F,
+Guicheney P, Bitoun M, Carlier RY, North KN. Expanding the clinical, pathological
+and MRI phenotype of DNM2-related centronuclear myopathy. Neuromuscul Disord.
+2010 Apr;20(4):229-37. doi: 10.1016/j.nmd.2010.02.016. Epub 2010 Mar 12.
+Citation on PubMed
+Wilmshurst JM, Lillis S, Zhou H, Pillay K, Henderson H, Kress W, Muller CR,
+Ndondo A, Cloke V, Cullup T, Bertini E, Boennemann C, Straub V, Quinlivan R,
+Dowling JJ, Al-Sarraj S, Treves S, Abbs S, Manzur AY, Sewry CA, Muntoni F,
+Jungbluth H. RYR1 mutations are a common cause of congenital myopathies with
+central nuclei. Ann Neurol. 2010 Nov;68(5):717-26. doi: 10.1002/ana.22119.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

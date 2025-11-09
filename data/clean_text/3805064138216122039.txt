@@ -1,0 +1,152 @@
+47,XYY syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+47,XYY syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/47xyy-syndrome/
+47,XYY syndrome
+Description
+47,XYY syndrome is characterized by an extra copy of the Y chromosome in each of an individual's cells. Although many people with this condition are taller than average, the chromosomal change sometimes causes no unusual physical features. Most individuals with 47,XYY syndrome have normal production of the male sex hormone testosterone and normal male sexual development, and they are usually able to father children.
+47,XYY syndrome is associated with an increased risk of learning disabilities and delayed development of speech and language skills. Affected children can have delayed development of motor skills (such as sitting and walking) or weak muscle tone (hypotonia). Other signs and symptoms of this condition include hand tremors or other involuntary movements (motor tics), seizures, and asthma. Individuals with 47,XYY syndrome have an increased risk of behavioral, social, and emotional difficulties compared with their unaffected peers. These problems include
+attention-deficit/hyperactivity disorder
+(ADHD);
+depression
+; anxiety; and
+autism spectrum disorder
+, which is a group of developmental conditions that affect communication and social interaction.
+Physical features related to 47,XYY syndrome can include increased belly fat, a large head (
+macrocephaly
+), unusually large teeth (
+macrodontia
+), flat feet (
+pes planus
+), fifth fingers that curve inward (
+clinodactyly
+), widely spaced eyes (
+ocular hypertelorism
+), and abnormal side-to-side curvature of the spine (
+scoliosis
+). These characteristics vary widely among people with this condition.
+Frequency
+This condition occurs in about 1 in 1,000 newborns. Five to 10 children with 47,XYY syndrome are born in the United States each day. Many affected individuals are never diagnosed or not diagnosed until later in life.
+Causes
+People normally have 46 chromosomes in each cell. Two of the 46 chromosomes, known as X and Y, are called
+sex chromosomes
+because they help determine whether a person will develop male or female sex characteristics. Females typically have two X chromosomes (46,XX), and males have one
+X chromosome
+and one
+Y chromosome
+(
+46,XY
+) in each cell.
+47,XYY syndrome is caused by the presence of
+an extra copy of the Y chromosome
+in each of a male's cells. As a result of the extra Y chromosome, each cell has a total of 47 chromosomes instead of the usual 46. It is unclear why an extra copy of the Y chromosome is associated with tall stature, learning problems, and other features in some boys and men.
+Some people with 47,XYY syndrome have an extra Y chromosome in only some of their cells. This phenomenon is called 46,XY/47,XYY
+mosaicism
+.
+Learn more about the chromosome associated with 47,XYY syndrome
+y chromosome
+Inheritance
+47,XYY syndrome is not inherited. The chromosomal change occurs as a random event during the formation of sperm cells. An error in cell division called nondisjunction can result in sperm cells with an
+extra copy of the Y chromosome
+. If one of these atypical reproductive cells contributes to the genetic makeup of a child, the child will have an extra Y chromosome in each of the body's cells.
+46,XY/47,XYY mosaicism is also not inherited. It occurs as a random event during
+cell division
+in early embryonic development. As a result, some of an affected person's cells have one X chromosome and one Y chromosome (
+46,XY
+), and other cells have one X chromosome and two Y chromosomes (47,XYY).
+Other Names for This Condition
+Jacob's syndrome
+XYY karyotype
+XYY syndrome
+YY syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Double Y syndrome
+Genetic and Rare Diseases Information Center
+47,XYY syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Scientific Articles on PubMed
+PubMed
+References
+Bardsley MZ, Kowal K, Levy C, Gosek A, Ayari N, Tartaglia N, Lahlou N, Winder
+B, Grimes S, Ross JL. 47,XYY syndrome: clinical phenotype and timing of
+ascertainment. J Pediatr. 2013 Oct;163(4):1085-94. doi:
+10.1016/j.jpeds.2013.05.037. Epub 2013 Jun 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Geerts M, Steyaert J, Fryns JP. The XYY syndrome: a follow-up study on 38
+boys. Genet Couns. 2003;14(3):267-79.
+Citation on PubMed
+Lalatta F, Folliero E, Cavallari U, Di Segni M, Gentilin B, Fogliani R,
+Quagliarini D, Vizziello P, Monti F, Gargantini L. Early manifestations in a
+cohort of children prenatally diagnosed with 47,XYY. Role of multidisciplinary
+counseling for parental guidance and prevention of aggressive behavior. Ital J
+Pediatr. 2012 Oct 3;38:52. doi: 10.1186/1824-7288-38-52.
+Citation on PubMed
+or
+Free article on PubMed Central
+Robinson DO, Jacobs PA. The origin of the extra Y chromosome in males with a
+47,XYY karyotype. Hum Mol Genet. 1999 Nov;8(12):2205-9. doi:
+10.1093/hmg/8.12.2205.
+Citation on PubMed
+Ross JL, Roeltgen DP, Kushner H, Zinn AR, Reiss A, Bardsley MZ, McCauley E,
+Tartaglia N. Behavioral and social phenotypes in boys with 47,XYY syndrome or
+47,XXY Klinefelter syndrome. Pediatrics. 2012 Apr;129(4):769-78. doi:
+10.1542/peds.2011-0719. Epub 2012 Mar 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tartaglia NR, Wilson R, Miller JS, Rafalko J, Cordeiro L, Davis S, Hessl D,
+Ross J. Autism Spectrum Disorder in Males with Sex Chromosome Aneuploidy:
+XXY/Klinefelter Syndrome, XYY, and XXYY. J Dev Behav Pediatr. 2017
+Apr;38(3):197-207. doi: 10.1097/DBP.0000000000000429.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Learning Disabilities
+Speech and Communication Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Karyotype Genetic Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

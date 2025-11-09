@@ -1,0 +1,118 @@
+Biotinidase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Biotinidase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/biotinidase-deficiency/
+Biotinidase deficiency
+Description
+Biotinidase deficiency is an inherited disorder in which the body is unable to recycle the vitamin biotin. If this condition is not recognized and treated, its signs and symptoms typically appear within the first few months of life, although it can also become apparent later in childhood.
+Profound biotinidase deficiency, the more severe form of the condition, can cause seizures, weak muscle tone (hypotonia), breathing problems, hearing and vision loss, problems with movement and balance (ataxia), skin rashes, hair loss (alopecia), and a fungal infection called candidiasis. Affected children also have delayed development. Lifelong treatment can prevent these complications from occurring or improve them if they have already developed.
+Partial biotinidase deficiency is a milder form of this condition. Without treatment, affected children may experience hypotonia, skin rashes, and hair loss, but these problems may appear only during illness, infection, or other times of stress.
+Frequency
+Profound or partial biotinidase deficiency occurs in approximately 1 in 60,000 newborns
+Causes
+Mutations in the
+BTD
+gene cause biotinidase deficiency. The
+BTD
+gene provides instructions for making an enzyme called biotinidase. This enzyme recycles biotin, a B vitamin found in foods such as liver, egg yolks, and milk. Biotinidase removes biotin that is bound to proteins in food, leaving the vitamin in its free (unbound) state. Free biotin is needed by enzymes called biotin-dependent carboxylases to break down fats, proteins, and carbohydrates. Because several of these enzymes are impaired in biotinidase deficiency, the condition is considered a form of multiple carboxylase deficiency.
+Mutations in the
+BTD
+gene reduce or eliminate the activity of biotinidase. Profound biotinidase deficiency results when the activity of biotinidase is reduced to less than 10 percent of normal. Partial biotinidase deficiency occurs when biotinidase activity is reduced to between 10 percent and 30 percent of normal. Without enough of this enzyme, biotin cannot be recycled. The resulting shortage of free biotin impairs the activity of biotin-dependent carboxylases, leading to a buildup of potentially toxic compounds in the body. If the condition is not treated promptly, this buildup damages various cells and tissues, causing the signs and symptoms described above.
+Learn more about the gene associated with Biotinidase deficiency
+BTD
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the
+BTD
+gene in each cell have mutations. The parents of an individual with biotinidase deficiency each carry one copy of the mutated gene, but they typically do not have any health problems associated with the condition.
+Other Names for This Condition
+BIOT
+BTD deficiency
+Carboxylase deficiency, multiple, late-onset
+Late-onset biotin-responsive multiple carboxylase deficiency
+Late-onset multiple carboxylase deficiency
+Multiple carboxylase deficiency, late-onset
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Biotinidase deficiency
+Genetic and Rare Diseases Information Center
+Biotinidase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+BIOTINIDASE DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Dobrowolski SF, Angeletti J, Banas RA, Naylor EW. Real time PCR assays to
+detect common mutations in the biotinidase gene and application of mutational
+analysis to newborn screening for biotinidase deficiency. Mol Genet Metab. 2003
+Feb;78(2):100-7. doi: 10.1016/s1096-7192(02)00231-7.
+Citation on PubMed
+Sivri HS, Genc GA, Tokatli A, Dursun A, Coskun T, Aydin HI, Sennaroglu L,
+Belgin E, Jensen K, Wolf B. Hearing loss in biotinidase deficiency:
+genotype-phenotype correlation. J Pediatr. 2007 Apr;150(4):439-42. doi:
+10.1016/j.jpeds.2007.01.036.
+Citation on PubMed
+Wolf B. Biotinidase Deficiency. 2000 Mar 24 [updated 2023 May 25]. In: Adam
+MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1322/
+Citation on PubMed
+Wolf B. Biotinidase deficiency: "if you have to have an inherited metabolic
+disease, this is the one to have". Genet Med. 2012 Jun;14(6):565-75. doi:
+10.1038/gim.2011.6. Epub 2012 Jan 5.
+Citation on PubMed
+Wolf B. Clinical issues and frequent questions about biotinidase deficiency.
+Mol Genet Metab. 2010 May;100(1):6-13. doi: 10.1016/j.ymgme.2010.01.003. Epub
+2010 Jan 11.
+Citation on PubMed
+Wolf B. The neurology of biotinidase deficiency. Mol Genet Metab. 2011
+Sep-Oct;104(1-2):27-34. doi: 10.1016/j.ymgme.2011.06.001. Epub 2011 Jun 12.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Metabolic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Pantothenic acid and biotin
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

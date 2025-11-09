@@ -1,0 +1,140 @@
+Aceruloplasminemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Aceruloplasminemia
+URL of this page: https://medlineplus.gov/genetics/condition/aceruloplasminemia/
+Aceruloplasminemia
+Description
+Aceruloplasminemia is a disorder in which iron gradually accumulates in the brain and other organs. Iron accumulation in the brain results in neurological problems that generally appear in adulthood and worsen over time.
+People with aceruloplasminemia develop a variety of movement problems. They may experience involuntary muscle contractions (dystonia) of the head and neck, resulting in repetitive movements and contortions. Other involuntary movements may also occur, such as rhythmic shaking (tremors), jerking movements (chorea), eyelid twitching (blepharospasm), and grimacing. Affected individuals may also have difficulty with coordination (ataxia). Some develop psychiatric problems and a decline of intellectual function (dementia) in their forties or fifties.
+In addition to neurological problems, affected individuals may have diabetes mellitus caused by iron damage to cells in the pancreas that make insulin, a hormone that helps control levels of blood sugar, also called blood glucose. Iron accumulation in the pancreas reduces the cells' ability to make insulin, which impairs blood glucose regulation and leads to the signs and symptoms of diabetes.
+Iron accumulation in the tissues and organs results in a corresponding shortage (deficiency) of iron in the blood, leading to a shortage of red blood cells (
+anemia
+). Anemia and diabetes usually occur by the time an affected person is in his or her twenties.
+Affected individuals also have changes in the light-sensitive tissue at the back of the eye (
+retina
+) caused by excess iron. The changes result in small opaque spots and areas of tissue degeneration (atrophy) around the edges of the retina. These abnormalities usually do not affect vision but can be observed during an eye examination.
+The specific features of aceruloplasminemia and their severity may vary, even within the same family.
+Frequency
+Aceruloplasminemia has been seen worldwide, but its overall prevalence is unknown. Studies in Japan have estimated that approximately 1 in 2 million adults in this population are affected.
+Causes
+Mutations in the
+CP
+gene cause aceruloplasminemia. The
+CP
+gene provides instructions for making a protein called ceruloplasmin, which is involved in iron transport and processing. Ceruloplasmin helps move iron from the organs and tissues of the body and prepares it for incorporation into a molecule called transferrin, which transports it to red blood cells to help carry oxygen.
+CP
+gene
+mutations
+result in the production of ceruloplasmin protein that is unstable or nonfunctional, or they prevent the protein from being released (secreted) by the cells in which it is made. When ceruloplasmin is unavailable, transport of iron out of the body's tissues is impaired. The resulting iron accumulation damages cells in those tissues, leading to neurological dysfunction, and the other health problems seen in aceruloplasminemia.
+Learn more about the gene associated with Aceruloplasminemia
+CP
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Deficiency of ferroxidase
+Familial apoceruloplasmin deficiency
+Hereditary ceruloplasmin deficiency
+Hypoceruloplasminemia
+Systemic hemosiderosis due to aceruloplasminemia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deficiency of ferroxidase
+Genetic and Rare Diseases Information Center
+Aceruloplasminemia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ACERULOPLASMINEMIA; ACEP
+Scientific Articles on PubMed
+PubMed
+References
+Berg D, Youdim MB. Role of iron in neurodegenerative disorders. Top Magn Reson
+Imaging. 2006 Feb;17(1):5-17. doi: 10.1097/01.rmr.0000245461.90406.ad.
+Citation on PubMed
+Harris ZL. Aceruloplasminemia. J Neurol Sci. 2003 Mar 15;207(1-2):108-9. doi:
+10.1016/s0022-510x(02)00434-3. No abstract available.
+Citation on PubMed
+Hellman NE, Gitlin JD. Ceruloplasmin metabolism and function. Annu Rev Nutr.
+2002;22:439-58. doi: 10.1146/annurev.nutr.22.012502.114457. Epub 2002 Apr 4.
+Citation on PubMed
+Kono S, Miyajima H. Molecular and pathological basis of aceruloplasminemia.
+Biol Res. 2006;39(1):15-23. doi: 10.4067/s0716-97602006000100003.
+Citation on PubMed
+Kono S, Suzuki H, Oda T, Miyajima H, Takahashi Y, Shirakawa K, Ishikawa K,
+Kitagawa M. Biochemical features of ceruloplasmin gene mutations linked to
+aceruloplasminemia. Neuromolecular Med. 2006;8(3):361-74. doi:
+10.1385/NMM:8:3:361.
+Citation on PubMed
+Kono S, Suzuki H, Oda T, Shirakawa K, Takahashi Y, Kitagawa M, Miyajima H.
+Cys-881 is essential for the trafficking and secretion of truncated mutant
+ceruloplasmin in aceruloplasminemia. J Hepatol. 2007 Dec;47(6):844-50. doi:
+10.1016/j.jhep.2007.05.013. Epub 2007 Jun 18.
+Citation on PubMed
+Madsen E, Gitlin JD. Copper and iron disorders of the brain. Annu Rev
+Neurosci. 2007;30:317-37. doi: 10.1146/annurev.neuro.30.051606.094232.
+Citation on PubMed
+Miyajima H. Aceruloplasminemia, an iron metabolic disorder. Neuropathology.
+2003 Dec;23(4):345-50. doi: 10.1046/j.1440-1789.2003.00521.x.
+Citation on PubMed
+Nittis T, Gitlin JD. The copper-iron connection: hereditary
+aceruloplasminemia. Semin Hematol. 2002 Oct;39(4):282-9. doi:
+10.1053/shem.2002.35633.
+Citation on PubMed
+Ponka P. Hereditary causes of disturbed iron homeostasis in the central
+nervous system. Ann N Y Acad Sci. 2004 Mar;1012:267-81. doi:
+10.1196/annals.1306.022.
+Citation on PubMed
+Vassiliev V, Harris ZL, Zatta P. Ceruloplasmin in neurodegenerative diseases.
+Brain Res Brain Res Rev. 2005 Nov;49(3):633-40. doi:
+10.1016/j.brainresrev.2005.03.003.
+Citation on PubMed
+Xu X, Pin S, Gathinji M, Fuchs R, Harris ZL. Aceruloplasminemia: an inherited
+neurodegenerative disease with impairment of iron homeostasis. Ann N Y Acad Sci.
+2004 Mar;1012:299-305. doi: 10.1196/annals.1306.024.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Blood Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Ceruloplasmin Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

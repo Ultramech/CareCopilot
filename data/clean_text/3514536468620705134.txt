@@ -1,0 +1,141 @@
+Ankyrin-B syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Ankyrin-B syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/ankyrin-b-syndrome/
+Ankyrin-B syndrome
+Description
+Ankyrin-B syndrome is associated with a variety of heart problems related to disruption of the heart's normal rhythm (arrhythmia). Heart rhythm is controlled by electrical signals that move through the heart in a highly coordinated way. In ankyrin-B syndrome, disruption of different steps of electrical signaling can lead to arrhythmia, and the resulting heart problems vary among affected individuals.
+Individuals with ankyrin-B syndrome may have problems with the sinoatrial (SA) node, which generates the electrical impulses that start each heartbeat. If the SA node is not functioning properly, the heartbeat can be too slow (bradycardia). In a small number of people with ankyrin-B syndrome, the heart takes longer than usual to recharge between beats, which is known as a prolonged
+QT interval
+(long QT). Some affected individuals have impaired progression (conduction) of electrical impulses between the
+chambers of the heart
+, which can cause a problem called heart block. Other heart problems that occur in ankyrin-B syndrome include irregular and uncoordinated electrical activity in the heart's upper chambers (atrial fibrillation) or lower chambers (ventricular fibrillation) and an abnormality called
+catecholaminergic polymorphic ventricular tachycardia
+(CPVT), in which an increase in the heart rate can trigger an abnormally fast and irregular heartbeat called
+ventricular tachycardia
+. In people with ankyrin-B syndrome, arrhythmia can lead to fainting (syncope) or cardiac arrest and sudden death.
+When associated with a prolonged QT interval, the condition is sometimes classified as long QT syndrome 4. However, because additional heart problems can result from changes in the same gene, long QT syndrome 4 is usually considered part of ankyrin-B syndrome.
+Frequency
+Ankyrin-B syndrome is a rare disorder. Its prevalence is unknown.
+Causes
+Ankyrin-B syndrome is caused by mutations in the
+ANK2
+gene, which provides instructions for making a protein called ankyrin-B. This protein is active in many cell types, including heart (cardiac) muscle cells. The ankyrin-B protein inserts certain structures called
+ion channels
+into their proper locations in the cell membrane. Ion channels are complexes of proteins that transport charged atoms (ions) across cell membranes. In the heart, the flow of ions (such as sodium, potassium, and calcium) through ion channels generates the electrical signals that control the heartbeat and maintain a normal heart rhythm.
+Mutations in the
+ANK2
+gene lead to production of an altered ankyrin-B protein that cannot target ion channels to their correct locations in cardiac muscle cells. The loss of functional ion channels in the heart disrupts the normal flow of ions, which alters the heart's normal rhythm and causes the heart problems associated with ankyrin-B syndrome.
+Not everyone with an
+ANK2
+gene mutation has heart problems related to ankyrin-B syndrome. Researchers speculate that other genes or environmental factors may play a role in development of the condition.
+Learn more about the gene associated with Ankyrin-B syndrome
+ANK2
+Inheritance
+Ankyrin-B syndrome is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered
+ANK2
+gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+Some people who have an altered
+ANK2
+gene never develop heart problems, a situation known as reduced penetrance.
+Other Names for This Condition
+Cardiac arrhythmia, ankyrin-B-related
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cardiac arrhythmia, ankyrin-B-related
+Genetic and Rare Diseases Information Center
+Ankyrin-B syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CARDIAC ARRHYTHMIA, ANKYRIN-B-RELATED
+Scientific Articles on PubMed
+PubMed
+References
+Cunha SR, Hund TJ, Hashemi S, Voigt N, Li N, Wright P, Koval O, Li J,
+Gudmundsson H, Gumina RJ, Karck M, Schott JJ, Probst V, Le Marec H, Anderson ME,
+Dobrev D, Wehrens XH, Mohler PJ. Defects in ankyrin-based membrane protein
+targeting pathways underlie atrial fibrillation. Circulation. 2011 Sep
+13;124(11):1212-22. doi: 10.1161/CIRCULATIONAHA.111.023986. Epub 2011 Aug 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Le Scouarnec S, Bhasin N, Vieyres C, Hund TJ, Cunha SR, Koval O, Marionneau C,
+Chen B, Wu Y, Demolombe S, Song LS, Le Marec H, Probst V, Schott JJ, Anderson ME,
+Mohler PJ. Dysfunction in ankyrin-B-dependent ion channel and transporter
+targeting causes human sinus node disease. Proc Natl Acad Sci U S A. 2008 Oct
+7;105(40):15617-22. doi: 10.1073/pnas.0805500105. Epub 2008 Oct 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mohler PJ, Le Scouarnec S, Denjoy I, Lowe JS, Guicheney P, Caron L, Driskell
+IM, Schott JJ, Norris K, Leenhardt A, Kim RB, Escande D, Roden DM. Defining the
+cellular phenotype of "ankyrin-B syndrome" variants: human ANK2 variants
+associated with clinical phenotypes display a spectrum of activities in
+cardiomyocytes. Circulation. 2007 Jan 30;115(4):432-41. doi:
+10.1161/CIRCULATIONAHA.106.656512. Epub 2007 Jan 22.
+Citation on PubMed
+Mohler PJ, Schott JJ, Gramolini AO, Dilly KW, Guatimosim S, duBell WH, Song
+LS, Haurogne K, Kyndt F, Ali ME, Rogers TB, Lederer WJ, Escande D, Le Marec H,
+Bennett V. Ankyrin-B mutation causes type 4 long-QT cardiac arrhythmia and sudden
+cardiac death. Nature. 2003 Feb 6;421(6923):634-9. doi: 10.1038/nature01335.
+Citation on PubMed
+Mohler PJ, Splawski I, Napolitano C, Bottelli G, Sharpe L, Timothy K, Priori
+SG, Keating MT, Bennett V. A cardiac arrhythmia syndrome caused by loss of
+ankyrin-B function. Proc Natl Acad Sci U S A. 2004 Jun 15;101(24):9137-42. doi:
+10.1073/pnas.0402546101. Epub 2004 Jun 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Robaei D, Ford T, Ooi SY. Ankyrin-B syndrome: a case of sinus node
+dysfunction, atrial fibrillation and prolonged QT in a young adult. Heart Lung
+Circ. 2015 Feb;24(2):e31-4. doi: 10.1016/j.hlc.2014.09.013. Epub 2014 Sep 30.
+Citation on PubMed
+Tester DJ, Ackerman MJ. Genetics of long QT syndrome. Methodist Debakey
+Cardiovasc J. 2014 Jan-Mar;10(1):29-33. doi: 10.14797/mdcj-10-1-29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Arrhythmia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Arrhythmias
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

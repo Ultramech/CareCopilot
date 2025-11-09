@@ -1,0 +1,121 @@
+Microcephaly, seizures, and developmental delay: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Microcephaly, seizures, and developmental delay
+URL of this page: https://medlineplus.gov/genetics/condition/microcephaly-seizures-and-developmental-delay/
+Microcephaly, seizures, and developmental delay
+Description
+Microcephaly, seizures, and developmental delay (MCSZ) is a condition characterized by an abnormally small head size (microcephaly) and neurological problems related to impaired brain development before birth. Affected individuals typically have recurrent seizures (epilepsy) beginning in infancy and delayed development of motor skills, such as sitting and walking. Speech is also delayed, and some affected individuals are never able to speak. Intellectual disability and behavior problems, primarily hyperactivity, are also common features of MCSZ. Rarely, individuals with MCSZ also have poor balance and coordination (ataxia).
+Frequency
+MCSZ is a rare disorder. Its prevalence is unknown.
+Causes
+MCSZ is caused by mutations in the
+PNKP
+gene. This gene provides instructions for making an enzyme that is critical for repairing broken DNA strands. DNA breaks may be caused by potentially harmful molecules (such as reactive oxygen species) produced during normal cellular functions, natural and medical radiation, or other environmental exposures. They may also occur when chromosomes exchange genetic material in preparation for cell division. At the site of damage, the PNKP enzyme modifies the broken ends of the DNA strands so that they can be joined back together.
+PNKP
+gene mutations lead to production of an unstable enzyme that is quickly broken down in the cell. Shortage of the PNKP enzyme prevents efficient repair of damaged DNA. Nerve cells seem especially susceptible to such damage. It is thought that DNA damage that accumulates during development before birth leads to the death of nerve cell precursors, impairing normal brain growth and causing microcephaly and the other neurological features of MCSZ.
+Accumulated DNA damage in nerve cells in the brain after birth, particularly the part that coordinates movement (the cerebellum), likely underlies ataxia. It is unclear why some people have cerebellar nerve degeneration after birth in addition to impaired brain development before birth and others do not. Researchers suspect that additional genetic factors play a role.
+Learn more about the gene associated with Microcephaly, seizures, and developmental delay
+PNKP
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+EIEE10
+Epileptic encephalopathy, early infantile, 10
+MCSZ
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Microcephaly, seizures, and developmental delay
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MICROCEPHALY, SEIZURES, AND DEVELOPMENTAL DELAY; MCSZ
+Scientific Articles on PubMed
+PubMed
+References
+Dumitrache LC, McKinnon PJ. Polynucleotide kinase-phosphatase (PNKP) mutations
+and neurologic disease. Mech Ageing Dev. 2017 Jan;161(Pt A):121-129. doi:
+10.1016/j.mad.2016.04.009. Epub 2016 Apr 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Poulton C, Oegema R, Heijsman D, Hoogeboom J, Schot R, Stroink H, Willemsen
+MA, Verheijen FW, van de Spek P, Kremer A, Mancini GM. Progressive cerebellar
+atrophy and polyneuropathy: expanding the spectrum of PNKP mutations.
+Neurogenetics. 2013 Feb;14(1):43-51. doi: 10.1007/s10048-012-0351-8. Epub 2012
+Dec 9.
+Citation on PubMed
+Reynolds JJ, Walker AK, Gilmore EC, Walsh CA, Caldecott KW. Impact of PNKP
+mutations associated with microcephaly, seizures and developmental delay on
+enzyme activity and DNA strand break repair. Nucleic Acids Res. 2012
+Aug;40(14):6608-19. doi: 10.1093/nar/gks318. Epub 2012 Apr 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Shen J, Gilmore EC, Marshall CA, Haddadin M, Reynolds JJ, Eyaid W, Bodell A,
+Barry B, Gleason D, Allen K, Ganesh VS, Chang BS, Grix A, Hill RS, Topcu M,
+Caldecott KW, Barkovich AJ, Walsh CA. Mutations in PNKP cause microcephaly,
+seizures and defects in DNA repair. Nat Genet. 2010 Mar;42(3):245-9. doi:
+10.1038/ng.526. Epub 2010 Jan 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Shimada M, Dumitrache LC, Russell HR, McKinnon PJ. Polynucleotide
+kinase-phosphatase enables neurogenesis via multiple DNA repair pathways to
+maintain genome stability. EMBO J. 2015 Oct 1;34(19):2465-80. doi:
+10.15252/embj.201591363. Epub 2015 Aug 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Weinfeld M, Mani RS, Abdou I, Aceytuno RD, Glover JN. Tidying up loose ends:
+the role of polynucleotide kinase/phosphatase in DNA strand break repair. Trends
+Biochem Sci. 2011 May;36(5):262-71. doi: 10.1016/j.tibs.2011.01.006. Epub 2011
+Feb 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Epilepsy in children
+Genetics
+Head circumference
+Microcephaly
+Microcephaly (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

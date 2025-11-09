@@ -1,0 +1,146 @@
+Rigid spine muscular dystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Rigid spine muscular dystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/rigid-spine-muscular-dystrophy/
+Rigid spine muscular dystrophy
+Description
+Rigid spine muscular dystrophy (RSMD) is a form of congenital muscular dystrophy. Disorders in this group cause muscle weakness and wasting (atrophy) beginning very early in life. In particular, RSMD involves weakness of the muscles of the torso and neck (axial muscles). Other characteristic features include spine stiffness and serious breathing problems.
+In RSMD, muscle weakness is often apparent at birth or within the first few months of life. Affected infants can have poor head control and weak muscle tone (hypotonia), which may delay the development of motor skills such as crawling or walking. Over time, muscles surrounding the spine atrophy, and the joints of the spine develop deformities called contractures that restrict movement. The neck and back become stiff and rigid, and affected children have limited ability to move their heads up and down or side to side. Affected children eventually develop an abnormal curvature of the spine (
+scoliosis
+). In some people with RSMD, muscles in the inner thighs also atrophy, although it does not impair the ability to walk.
+A characteristic feature of RSMD is breathing difficulty (respiratory insufficiency) due to restricted movement of the torso and weakness of
+the diaphragm
+, which is the muscle that separates the abdomen from the chest cavity. The breathing problems, which tend to occur only at night, can be life-threatening. Many affected individuals require a machine to help them breathe (mechanical ventilation) during sleep.
+The combination of features characteristic of RSMD, particularly axial muscle weakness, spine rigidity, and respiratory insufficiency, is sometimes referred to as rigid spine syndrome. While these features occur on their own in RSMD, they can also occur along with additional signs and symptoms in other muscle disorders. The features of rigid spine syndrome typically appear at a younger age in people with RSMD than in those with other muscle disorders.
+Frequency
+RSMD is thought to be a rare disorder, although its prevalence is unknown.
+Causes
+Mutations in a gene called
+SELENON
+(formerly
+SEPN1
+) cause about 40 percent of cases of RSMD. When caused by mutations in this gene, the condition is known as rigid spine muscular dystrophy 1 (RSMD1). The genetic cause of the remainder of cases is unknown.
+The
+SELENON
+gene provides instructions for making a protein known as selenoprotein N. The specific job of selenoprotein N is unknown, but researchers suspect it plays a role in the formation of muscle tissue before birth. It may also be important for normal muscle function after birth. The gene mutations that cause RSMD1 are thought to reduce the amount of selenoprotein N or impair its activity in cells. It is unclear how a shortage of working selenoprotein N leads to muscle weakness and other features of RSMD1.
+RSMD1 is part of a spectrum of muscle disorders called
+SELENON
+-related (or
+SEPN1
+-related) myopathy, which also includes the classic form of
+multiminicore disease
+, desmin-related myopathy with Mallory body-like inclusions, and a small subset of cases of
+congenital fiber-type disproportion
+. While these other disorders share the characteristic features of RSMD1, they each also involve distinctive abnormalities of the
+muscle fibers
+that can only be seen when viewed under a microscope. Because these conditions have a similar pattern of signs and symptoms and are caused by mutations in the same gene, many researchers believe that they are all part of a single syndrome with variable signs and symptoms. It is unclear why mutations in the
+SELENON
+gene cause the different muscle fiber abnormalities that distinguish the separate conditions.
+Learn more about the gene associated with Rigid spine muscular dystrophy
+SELENON
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital muscular dystrophy with spine rigidity syndrome
+Muscular dystrophy, congenital, merosin-positive, with early spine rigidity
+Rigid spinal muscular dystrophy
+Rigid spine congenital muscular dystrophy
+RSMD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Eichsfeld type congenital muscular dystrophy
+Genetic and Rare Diseases Information Center
+Rigid spine syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CONGENITAL MYOPATHY 3 WITH RIGID SPINE; CMYO3
+Scientific Articles on PubMed
+PubMed
+References
+Ardissone A, Bragato C, Blasevich F, Maccagnano E, Salerno F, Gandioli C,
+Morandi L, Mora M, Moroni I. SEPN1-related myopathy in three patients: novel
+mutations and diagnostic clues. Eur J Pediatr. 2016 Aug;175(8):1113-8. doi:
+10.1007/s00431-015-2685-3. Epub 2016 Jan 16.
+Citation on PubMed
+Caggiano S, Khirani S, Dabaj I, Cavassa E, Amaddeo A, Arroyo JO, Desguerre I,
+Richard P, Cutrera R, Ferreiro A, Estournet B, Quijano-Roy S, Fauroux B.
+Diaphragmatic dysfunction in SEPN1-related myopathy. Neuromuscul Disord. 2017
+Aug;27(8):747-755. doi: 10.1016/j.nmd.2017.04.010. Epub 2017 Apr 26.
+Citation on PubMed
+Castets P, Bertrand AT, Beuvin M, Ferry A, Le Grand F, Castets M, Chazot G,
+Rederstorff M, Krol A, Lescure A, Romero NB, Guicheney P, Allamand V. Satellite
+cell loss and impaired muscle regeneration in selenoprotein N deficiency. Hum Mol
+Genet. 2011 Feb 15;20(4):694-704. doi: 10.1093/hmg/ddq515. Epub 2010 Dec 2.
+Citation on PubMed
+Castets P, Lescure A, Guicheney P, Allamand V. Selenoprotein N in skeletal
+muscle: from diseases to function. J Mol Med (Berl). 2012 Oct;90(10):1095-107.
+doi: 10.1007/s00109-012-0896-x. Epub 2012 Apr 14.
+Citation on PubMed
+Koul R, Al-Yarubi S, Al-Kindy H, Al-Futaisi A, Al-Thihli K, Chacko PA, Sankhla
+D. Rigid spinal muscular dystrophy and rigid spine syndrome: report of 7
+children. J Child Neurol. 2014 Nov;29(11):1436-40. doi: 10.1177/0883073813479173.
+Epub 2013 Mar 12.
+Citation on PubMed
+Moghadaszadeh B, Petit N, Jaillard C, Brockington M, Quijano Roy S, Merlini L,
+Romero N, Estournet B, Desguerre I, Chaigne D, Muntoni F, Topaloglu H, Guicheney
+P. Mutations in SEPN1 cause congenital muscular dystrophy with spinal rigidity
+and restrictive respiratory syndrome. Nat Genet. 2001 Sep;29(1):17-8. doi:
+10.1038/ng713.
+Citation on PubMed
+Moghadaszadeh B, Topaloglu H, Merlini L, Muntoni F, Estournet B, Sewry C, Naom
+I, Barois A, Fardeau M, Tome FM, Guicheney P. Genetic heterogeneity of congenital
+muscular dystrophy with rigid spine syndrome. Neuromuscul Disord. 1999
+Oct;9(6-7):376-82. doi: 10.1016/s0960-8966(99)00051-6.
+Citation on PubMed
+Scoto M, Cirak S, Mein R, Feng L, Manzur AY, Robb S, Childs AM, Quinlivan RM,
+Roper H, Jones DH, Longman C, Chow G, Pane M, Main M, Hanna MG, Bushby K, Sewry
+C, Abbs S, Mercuri E, Muntoni F. SEPN1-related myopathies: clinical course in a
+large cohort of patients. Neurology. 2011 Jun 14;76(24):2073-8. doi:
+10.1212/WNL.0b013e31821f467c.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscular Dystrophy
+MEDICAL ENCYCLOPEDIA
+Genetics
+Scoliosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

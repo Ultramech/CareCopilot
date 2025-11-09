@@ -1,0 +1,126 @@
+Anonychia congenita: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Anonychia congenita
+URL of this page: https://medlineplus.gov/genetics/condition/anonychia-congenita/
+Anonychia congenita
+Description
+Anonychia congenita is a condition that affects the fingernails and toenails. Individuals with this condition are typically missing all of their fingernails and toenails (anonychia). This absence of nails is noticeable from birth (congenital). In some cases, only part of the nail is missing (hyponychia) or not all fingers and toes are affected. All of the other tissues at the tips of the fingers and toes, including structures that usually support the nail and its growth (such as the nail bed), are normal.
+Individuals with anonychia congenita do not have any other health problems related to the condition.
+Frequency
+Anonychia congenita is a rare condition; its prevalence is unknown.
+Causes
+Mutations in the
+RSPO4
+gene cause anonychia congenita. The
+RSPO4
+gene provides instructions for making a protein called R-spondin-4. R-spondin-4 plays a role in the
+Wnt signaling pathway
+, a series of steps that affect the way cells and tissues develop. Wnt signaling is important for cell division, attachment of cells to one another (adhesion), cell movement (migration), and many other cellular activities. During early development, Wnt signaling plays a critical role in the growth and development of nails. R-spondin-4 is active in the skeleton and contributes to limb formation, particularly at the ends of the fingers and toes where nail development occurs.
+RSPO4
+gene mutations lead to the production of a protein with little or no function. As a result, R-spondin-4 cannot participate in the Wnt signaling pathway and nails develop improperly or not at all.
+Anonychia congenita can also be part of syndromes that affect multiple parts of the body, including
+Coffin-Siris syndrome
+and
+nail-patella syndrome
+. When anonychia congenita is part of a syndrome, it is caused by mutations in the gene associated with that syndrome.
+Learn more about the gene associated with Anonychia congenita
+RSPO4
+Inheritance
+Anonychia congenita resulting from
+RSPO4
+gene mutations is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Absent nails
+Anonychia
+Aplastic nails
+Congenital absence of nails
+Hyponychia congenita
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Anonychia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+NAIL DISORDER, NONSYNDROMIC CONGENITAL, 4; NDNC4
+Scientific Articles on PubMed
+PubMed
+References
+Bergmann C, Senderek J, Anhuf D, Thiel CT, Ekici AB, Poblete-Gutierrez P, van
+Steensel M, Seelow D, Nurnberg G, Schild HH, Nurnberg P, Reis A, Frank J, Zerres
+K. Mutations in the gene encoding the Wnt-signaling component R-spondin 4 (RSPO4)
+cause autosomal recessive anonychia. Am J Hum Genet. 2006 Dec;79(6):1105-9. doi:
+10.1086/509789. Epub 2006 Oct 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Blaydon DC, Ishii Y, O'Toole EA, Unsworth HC, Teh MT, Ruschendorf F, Sinclair
+C, Hopsu-Havu VK, Tidman N, Moss C, Watson R, de Berker D, Wajid M, Christiano
+AM, Kelsell DP. The gene encoding R-spondin 4 (RSPO4), a secreted protein
+implicated in Wnt signaling, is mutated in inherited anonychia. Nat Genet. 2006
+Nov;38(11):1245-7. doi: 10.1038/ng1883. Epub 2006 Oct 15.
+Citation on PubMed
+Bruchle NO, Frank J, Frank V, Senderek J, Akar A, Koc E, Rigopoulos D, van
+Steensel M, Zerres K, Bergmann C. RSPO4 is the major gene in autosomal-recessive
+anonychia and mutations cluster in the furin-like cysteine-rich domains of the
+Wnt signaling ligand R-spondin 4. J Invest Dermatol. 2008 Apr;128(4):791-6. doi:
+10.1038/sj.jid.5701088. Epub 2007 Oct 4.
+Citation on PubMed
+Khalil S, Hayashi R, Daou L, Staiteieh SA, Abbas O, Bergqvist C, Nemer G,
+Shimomura Y, Kurban M. A novel mutation in the RSPO4 gene in a patient with
+autosomal recessive anonychia. Clin Exp Dermatol. 2017 Apr;42(3):313-315. doi:
+10.1111/ced.13052. Epub 2017 Mar 1.
+Citation on PubMed
+Khan TN, Klar J, Nawaz S, Jameel M, Tariq M, Malik NA, Baig SM, Dahl N. Novel
+missense mutation in the RSPO4 gene in congenital hyponychia and evidence for a
+polymorphic initiation codon (p.M1I). BMC Med Genet. 2012 Dec 13;13:120. doi:
+10.1186/1471-2350-13-120.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wasif N, Ahmad W. A novel nonsense mutation in RSPO4 gene underlies autosomal
+recessive congenital anonychia in a Pakistani family. Pediatr Dermatol. 2013
+Jan-Feb;30(1):139-41. doi: 10.1111/j.1525-1470.2011.01587.x. Epub 2012 Feb 3.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Nail Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Nail abnormalities
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

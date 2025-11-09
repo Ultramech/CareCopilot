@@ -1,0 +1,166 @@
+Acrocallosal syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Acrocallosal syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/acrocallosal-syndrome/
+Acrocallosal syndrome
+Description
+Acrocallosal syndrome is a rare condition characterized by a brain abnormality called agenesis of the corpus callosum, the presence of extra fingers and toes (polydactyly), and distinctive facial features. The signs and symptoms of this disorder are present at birth, and their severity varies widely among affected individuals.
+Agenesis of the corpus callosum occurs when the tissue that connects the left and right halves of the brain (the corpus callosum) fails to form normally during the early stages of development before birth. Other brain abnormalities, including the growth of large cysts in brain tissue, have also been reported in people with acrocallosal syndrome. The changes in brain structure associated with this condition lead to delayed development and intellectual disability, which is most often moderate to severe. Some affected individuals also experience seizures.
+Extra fingers and toes are common in people with acrocallosal syndrome. The extra digits can be on the same side of the hand or foot as the
+pinky
+or
+little toe
+(postaxial polydactyly) or on the same side as the
+thumb
+or
+great toe
+(preaxial polydactyly). Some affected individuals also have webbed or fused skin between the
+fingers
+or
+toes
+(syndactyly).
+Distinctive facial features that can occur with acrocallosal syndrome include widely spaced eyes (
+hypertelorism
+) and a high,
+prominent forehead
+. Many affected individuals also have an unusually large head size (
+macrocephaly
+).
+Frequency
+This condition appears to be rare. Only a few dozen cases have been reported in the medical literature.
+Causes
+Mutations in the
+KIF7
+gene have been found to cause acrocallosal syndrome. Mutations in another gene,
+GLI3
+, can also cause features of this disorder. However, the signs and symptoms overlap significantly with those of a similar disorder called
+Greig cephalopolysyndactyly syndrome
+(which is also caused by
+GLI3
+gene mutations), so acrocallosal syndrome resulting from
+GLI3
+gene mutations is sometimes considered a severe form of that condition.
+The proteins produced from the
+KIF7
+and
+GLI3
+genes play critical roles in the normal shaping (patterning) of many tissues and organs before birth. The proteins are part of a chemical signaling pathway called Sonic Hedgehog signaling. This pathway is involved in cell growth, cell specialization, and the patterning of structures such as the brain and limbs.
+Mutations in either the
+KIF7
+or
+GLI3
+gene are thought to impair Sonic Hedgehog signaling, which has wide-ranging effects on development before birth. The roles of these genes in brain and limb patterning may help explain why mutations lead to agenesis of the corpus callosum, polydactyly, and the other features of acrocallosal syndrome.
+Learn more about the genes associated with Acrocallosal syndrome
+GLI3
+KIF7
+Inheritance
+When acrocallosal syndrome is caused by
+KIF7
+gene mutations, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Acrocallosal syndrome (or severe Greig cephalopolysyndactyly syndrome) resulting from
+GLI3
+gene mutations is considered
+autosomal dominant
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. This condition results from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+ACLS
+Hallux duplication, postaxial polydactyly, and absence of corpus callosum
+Schinzel acrocallosal syndrome
+Schinzel syndrome 1
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Acrocallosal syndrome
+Genetic and Rare Diseases Information Center
+Acrocallosal syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+ACROCALLOSAL SYNDROME; ACLS
+Scientific Articles on PubMed
+PubMed
+References
+Courtens W, Vamos E, Christophe C, Schinzel A. Acrocallosal syndrome in an
+Algerian boy born to consanguineous parents: review of the literature and further
+delineation of the syndrome. Am J Med Genet. 1997 Mar 3;69(1):17-22. doi:
+10.1002/(sici)1096-8628(19970303)69:13.0.co;2-q.
+Citation on PubMed
+Elson E, Perveen R, Donnai D, Wall S, Black GC. De novo GLI3 mutation in
+acrocallosal syndrome: broadening the phenotypic spectrum of GLI3 defects and
+overlap with murine models. J Med Genet. 2002 Nov;39(11):804-6. doi:
+10.1136/jmg.39.11.804.
+Citation on PubMed
+or
+Free article on PubMed Central
+Koenig R, Bach A, Woelki U, Grzeschik KH, Fuchs S. Spectrum of the
+acrocallosal syndrome. Am J Med Genet. 2002 Feb 15;108(1):7-11. doi:
+10.1002/ajmg.10236.
+Citation on PubMed
+Putoux A, Nampoothiri S, Laurent N, Cormier-Daire V, Beales PL, Schinzel A,
+Bartholdi D, Alby C, Thomas S, Elkhartoufi N, Ichkou A, Litzler J, Munnich A,
+Encha-Razavi F, Kannan R, Faivre L, Boddaert N, Rauch A, Vekemans M, Attie-Bitach
+T. Novel KIF7 mutations extend the phenotypic spectrum of acrocallosal syndrome.
+J Med Genet. 2012 Nov;49(11):713-20. doi: 10.1136/jmedgenet-2012-101016.
+Citation on PubMed
+Putoux A, Thomas S, Coene KL, Davis EE, Alanay Y, Ogur G, Uz E, Buzas D, Gomes
+C, Patrier S, Bennett CL, Elkhartoufi N, Frison MH, Rigonnot L, Joye N, Pruvost
+S, Utine GE, Boduroglu K, Nitschke P, Fertitta L, Thauvin-Robinet C, Munnich A,
+Cormier-Daire V, Hennekam R, Colin E, Akarsu NA, Bole-Feysot C, Cagnard N,
+Schmitt A, Goudin N, Lyonnet S, Encha-Razavi F, Siffroi JP, Winey M, Katsanis N,
+Gonzales M, Vekemans M, Beales PL, Attie-Bitach T. KIF7 mutations cause fetal
+hydrolethalus and acrocallosal syndromes. Nat Genet. 2011 Jun;43(6):601-6. doi:
+10.1038/ng.826. Epub 2011 May 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Speksnijder L, Cohen-Overbeek TE, Knapen MF, Lunshof SM, Hoogeboom AJ, van den
+Ouwenland AM, de Coo IF, Lequin MH, Bolz HJ, Bergmann C, Biesecker LG, Willems
+PJ, Wessels MW. A de novo GLI3 mutation in a patient with acrocallosal syndrome.
+Am J Med Genet A. 2013 Jun;161A(6):1394-400. doi: 10.1002/ajmg.a.35874. Epub 2013
+Apr 30.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Craniofacial Abnormalities
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Corpus Callosum of the Brain (Image)
+Genetics
+Intellectual disability
+Polydactyly
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

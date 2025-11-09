@@ -1,0 +1,108 @@
+GM3 synthase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+GM3 synthase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/gm3-synthase-deficiency/
+GM3 synthase deficiency
+Description
+GM3 synthase deficiency is characterized by recurrent seizures (epilepsy) and problems with brain development. Within the first few weeks after birth, affected infants become irritable and develop feeding difficulties and vomiting that prevent them from growing and gaining weight at the usual rate. Seizures begin within the first year of life and worsen over time.
+Multiple types of seizures
+are possible, including generalized tonic-clonic seizures (also known as grand mal seizures), which cause muscle rigidity, convulsions, and loss of consciousness. Some affected children also experience prolonged episodes of seizure activity called nonconvulsive status epilepticus. The seizures associated with GM3 synthase deficiency tend to be resistant (refractory) to treatment with antiseizure medications.
+GM3 synthase deficiency profoundly disrupts brain development. Most affected children have severe intellectual disability and do not develop skills such as reaching for objects, speaking, sitting without support, or walking. Some have involuntary twisting or jerking movements of the arms that are described as choreoathetoid. Although affected infants can likely see and hear at birth, vision and hearing become impaired as the disease worsens. It is unknown how long people with GM3 synthase deficiency usually survive.
+Some affected individuals have changes in skin coloring (pigmentation), including dark freckle-like spots on the arms and legs and light patches on the arms, legs, and face. These changes appear in childhood and may become more or less apparent over time. The skin changes do not cause any symptoms, but they can help doctors diagnose GM3 synthase deficiency in children who also have seizures and delayed development.
+Frequency
+GM3 synthase deficiency appears to be a rare condition. About 50 cases have been reported, mostly from Old Order Amish communities.
+Causes
+Mutations in the
+ST3GAL5
+gene have been found to cause GM3 synthase deficiency. This gene provides instructions for making an enzyme called GM3 synthase, which carries out a chemical reaction that is the first step in the production of molecules called gangliosides. These molecules are present in cells and tissues throughout the body, and they are particularly abundant in the nervous system. Although their exact functions are unclear, gangliosides appear to be important for normal brain development and function.
+ST3GAL5
+gene mutations prevent the production of any functional GM3 synthase. Without this enzyme, cells cannot produce gangliosides normally. It is unclear how a loss of this enzyme leads to the signs and symptoms of GM3 synthase deficiency. Researchers are working to determine whether it is the lack of gangliosides or a buildup of compounds used to make gangliosides, or both, that underlies the seizures and other problems with brain development that occur in this condition. The connection between a shortage of GM3 synthase and changes in skin pigmentation is also unknown.
+Learn more about the gene associated with GM3 synthase deficiency
+ST3GAL5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Amish infantile epilepsy syndrome
+Epilepsy syndrome, infantile-onset symptomatic
+Ganglioside GM3 synthase deficiency
+Infantile-onset symptomatic epilepsy syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: GM3 synthase deficiency
+Genetic and Rare Diseases Information Center
+GM3 synthase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SALT AND PEPPER DEVELOPMENTAL REGRESSION SYNDROME; SPDRS
+Scientific Articles on PubMed
+PubMed
+References
+Farukhi F, Dakkouri C, Wang H, Wiztnitzer M, Traboulsi EI. Etiology of vision
+loss in ganglioside GM3 synthase deficiency. Ophthalmic Genet. 2006
+Sep;27(3):89-91. doi: 10.1080/13816810600862626.
+Citation on PubMed
+Fragaki K, Ait-El-Mkadem S, Chaussenot A, Gire C, Mengual R, Bonesso L,
+Beneteau M, Ricci JE, Desquiret-Dumas V, Procaccio V, Rotig A, Paquis-Flucklinger
+V. Refractory epilepsy and mitochondrial dysfunction due to GM3 synthase
+deficiency. Eur J Hum Genet. 2013 May;21(5):528-34. doi: 10.1038/ejhg.2012.202.
+Epub 2012 Sep 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Simpson MA, Cross H, Proukakis C, Priestman DA, Neville DC, Reinkensmeier G,
+Wang H, Wiznitzer M, Gurtz K, Verganelaki A, Pryde A, Patton MA, Dwek RA, Butters
+TD, Platt FM, Crosby AH. Infantile-onset symptomatic epilepsy syndrome caused by
+a homozygous loss-of-function mutation of GM3 synthase. Nat Genet. 2004
+Nov;36(11):1225-9. doi: 10.1038/ng1460. Epub 2004 Oct 24.
+Citation on PubMed
+Wang H, Bright A, Xin B, Bockoven JR, Paller AS. Cutaneous dyspigmentation in
+patients with ganglioside GM3 synthase deficiency. Am J Med Genet A. 2013
+Apr;161A(4):875-9. doi: 10.1002/ajmg.a.35826. Epub 2013 Feb 22.
+Citation on PubMed
+Related Health Topics
+Developmental Disabilities
+Epilepsy
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Bilateral tonic-clonic seizure
+Epilepsy
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

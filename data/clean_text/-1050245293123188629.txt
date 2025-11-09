@@ -1,0 +1,168 @@
+Weill-Marchesani syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Weill-Marchesani syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/weill-marchesani-syndrome/
+Weill-Marchesani syndrome
+Description
+Weill-Marchesani syndrome is a disorder of connective tissue. Connective tissue forms the body's supportive framework, providing structure and strength to the muscles, joints, organs, and skin.
+The major signs and symptoms of Weill-Marchesani syndrome include short stature, eye abnormalities, unusually
+short fingers
+and
+toes
+(brachydactyly), and joint stiffness. Adult height for men with Weill-Marchesani syndrome ranges from 4 feet, 8 inches to 5 feet, 6 inches. Adult height for women with this condition ranges from 4 feet, 3 inches to 5 feet, 2 inches.
+An eye abnormality called microspherophakia is characteristic of Weill-Marchesani syndrome. This term refers to a small, sphere-shaped lens, which is associated with
+nearsightedness
+(
+myopia
+) that worsens over time. The lens also may be positioned abnormally within the eye (
+ectopia lentis
+). Many people with Weill-Marchesani syndrome develop
+glaucoma
+, an eye disease that increases the pressure in the eye and can lead to blindness.
+Occasionally, heart defects or an abnormal heart rhythm can occur in people with Weill-Marchesani syndrome.
+Frequency
+Weill-Marchesani syndrome appears to be rare; it has an estimated prevalence of 1 in 100,000 people.
+Causes
+Mutations in the
+ADAMTS10
+and
+FBN1
+genes can cause Weill-Marchesani syndrome. The
+ADAMTS10
+gene provides instructions for making a protein whose function is unknown. This protein is important for normal growth before and after birth, and it appears to be involved in the development of the eyes, heart, and skeleton. Mutations in this gene disrupt the normal development of these structures, which leads to the specific features of Weill-Marchesani syndrome.
+A mutation in the
+FBN1
+gene has also been found to cause Weill-Marchesani syndrome. The
+FBN1
+gene provides instructions for making a protein called fibrillin-1. This protein is needed to form threadlike filaments, called microfibrils, that help provide strength and flexibility to connective tissue. The
+FBN1
+mutation responsible for Weill-Marchesani syndrome leads to an unstable version of fibrillin-1. Researchers believe that the unstable protein interferes with the normal assembly of microfibrils, which weakens connective tissue and causes the abnormalities associated with Weill-Marchesani syndrome.
+In some people with Weill-Marchesani syndrome, no mutations in
+ADAMTS10
+or
+FBN1
+have been found. Researchers are looking for other genetic changes that may be responsible for the disorder in these people.
+Learn more about the genes associated with Weill-Marchesani syndrome
+ADAMTS10
+FBN1
+Inheritance
+Weill-Marchesani syndrome can be inherited in either an autosomal recessive or an autosomal dominant pattern.
+When Weill-Marchesani syndrome is caused by mutations in the
+ADAMTS10
+gene, it has an
+autosomal recessive pattern
+of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other cases of Weill-Marchesani syndrome, including those caused by mutations in the
+FBN1
+gene, have an
+autosomal dominant pattern
+of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the genetic change from one parent with the condition.
+Other Names for This Condition
+Brachydactyly-spherophakia syndrome
+Brachymorphy with spherophakia syndrome
+Congenital mesodermal dysmorphodystrophy
+Marchesani syndrome
+Marchesani-Weill Syndrome
+Spherophakia-brachymorphia syndrome
+WMS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Weill-Marchesani syndrome 2, dominant
+Genetic Testing Registry: Weill-Marchesani syndrome
+Genetic Testing Registry: Weill-Marchesani syndrome 1
+Genetic and Rare Diseases Information Center
+Weill-Marchesani syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+WEILL-MARCHESANI SYNDROME 1; WMS1
+WEILL-MARCHESANI SYNDROME 2; WMS2
+Scientific Articles on PubMed
+PubMed
+References
+Cecchi A, Ogawa N, Martinez HR, Carlson A, Fan Y, Penny DJ, Guo DC, Eisenberg
+S, Safi H, Estrera A, Lewis RA, Meyers D, Milewicz DM. Missense mutations in FBN1
+exons 41 and 42 cause Weill-Marchesani syndrome with thoracic aortic disease and
+Marfan syndrome. Am J Med Genet A. 2013 Sep;161A(9):2305-10. doi:
+10.1002/ajmg.a.36044. Epub 2013 Jul 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dagoneau N, Benoist-Lasselin C, Huber C, Faivre L, Megarbane A, Alswaid A,
+Dollfus H, Alembik Y, Munnich A, Legeai-Mallet L, Cormier-Daire V. ADAMTS10
+mutations in autosomal recessive Weill-Marchesani syndrome. Am J Hum Genet. 2004
+Nov;75(5):801-6. doi: 10.1086/425231. Epub 2004 Sep 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Evereklioglu C, Hepsen IF, Er H. Weill-Marchesani syndrome in three
+generations. Eye (Lond). 1999 Dec;13 ( Pt 6):773-7. doi: 10.1038/eye.1999.226.
+Citation on PubMed
+Faivre L, Dollfus H, Lyonnet S, Alembik Y, Megarbane A, Samples J, Gorlin RJ,
+Alswaid A, Feingold J, Le Merrer M, Munnich A, Cormier-Daire V. Clinical
+homogeneity and genetic heterogeneity in Weill-Marchesani syndrome. Am J Med
+Genet A. 2003 Dec 1;123A(2):204-7. doi: 10.1002/ajmg.a.20289.
+Citation on PubMed
+Faivre L, Gorlin RJ, Wirtz MK, Godfrey M, Dagoneau N, Samples JR, Le Merrer M,
+Collod-Beroud G, Boileau C, Munnich A, Cormier-Daire V. In frame fibrillin-1 gene
+deletion in autosomal dominant Weill-Marchesani syndrome. J Med Genet. 2003
+Jan;40(1):34-6. doi: 10.1136/jmg.40.1.34.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kojuri J, Razeghinejad MR, Aslani A. Cardiac findings in Weill-Marchesani
+syndrome. Am J Med Genet A. 2007 Sep 1;143A(17):2062-4. doi:
+10.1002/ajmg.a.31861. No abstract available.
+Citation on PubMed
+Kutz WE, Wang LW, Dagoneau N, Odrcic KJ, Cormier-Daire V, Traboulsi EI, Apte
+SS. Functional analysis of an ADAMTS10 signal peptide mutation in
+Weill-Marchesani syndrome demonstrates a long-range effect on secretion of the
+full-length enzyme. Hum Mutat. 2008 Dec;29(12):1425-34. doi: 10.1002/humu.20797.
+Citation on PubMed
+Marzin P, Cormier-Daire V, Tsilou E. Weill-Marchesani Syndrome. 2007 Nov 1
+[updated 2020 Dec 10]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1114/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Connective Tissue Disorders
+Eye Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

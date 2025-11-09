@@ -1,0 +1,123 @@
+Dihydrolipoamide dehydrogenase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Dihydrolipoamide dehydrogenase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/dihydrolipoamide-dehydrogenase-deficiency/
+Dihydrolipoamide dehydrogenase deficiency
+Description
+Dihydrolipoamide dehydrogenase deficiency is a severe condition that can affect several body systems. Signs and symptoms of this condition usually appear shortly after birth, and they can vary widely among affected individuals.
+A common feature of dihydrolipoamide dehydrogenase deficiency is a potentially life-threatening buildup of lactic acid in tissues (lactic acidosis), which can cause nausea, vomiting, severe breathing problems, and an abnormal heartbeat. Neurological problems are also common in this condition; the first symptoms in affected infants are often decreased muscle tone (hypotonia) and extreme tiredness (lethargy). As the problems worsen, affected infants can have difficulty feeding, decreased alertness, and seizures.
+Liver problems can also occur in dihydrolipoamide dehydrogenase deficiency, ranging from an enlarged liver (hepatomegaly) to life-threatening liver failure. In some affected people, liver disease, which can begin anytime from infancy to adulthood, is the primary symptom. The liver problems are usually associated with recurrent vomiting and abdominal pain. Rarely, people with dihydrolipoamide dehydrogenase deficiency experience weakness of the muscles used for movement (skeletal muscles), particularly during exercise; droopy eyelids; or a weakened heart muscle (cardiomyopathy). Other features of this condition include excess ammonia in the blood (hyperammonemia), a buildup of molecules called ketones in the body (ketoacidosis), or low blood glucose levels (hypoglycemia).
+Typically, the signs and symptoms of dihydrolipoamide dehydrogenase deficiency occur in episodes that may be triggered by fever, injury, or other stresses on the body. Affected individuals are usually symptom-free between episodes. Many infants with this condition do not survive the first few years of life because of the severity of these episodes. Affected individuals who survive past early childhood often have delayed growth and neurological problems, including intellectual disability, muscle stiffness (spasticity), difficulty coordinating movements (ataxia), and seizures.
+Frequency
+Dihydrolipoamide dehydrogenase deficiency occurs in an estimated 1 in 35,000 to 48,000 individuals of Ashkenazi Jewish descent. This population typically has liver disease as the primary symptom. In other populations, the prevalence of dihydrolipoamide dehydrogenase deficiency is unknown, but the condition is likely rare.
+Causes
+Mutations in the
+DLD
+gene cause dihydrolipoamide dehydrogenase deficiency. This gene provides instructions for making an enzyme called dihydrolipoamide dehydrogenase (DLD). DLD is one component of three different groups of enzymes that work together (enzyme complexes): branched-chain alpha-keto acid dehydrogenase (BCKD), pyruvate dehydrogenase (PDH), and alpha (α)-ketoglutarate dehydrogenase (αKGDH). The BCKD enzyme complex is involved in the breakdown of three protein building blocks (amino acids) commonly found in protein-rich foods: leucine, isoleucine, and valine. Breakdown of these amino acids produces molecules that can be used for energy. The PDH and αKGDH enzyme complexes are involved in other reactions in the pathways that convert the energy from food into a form that cells can use.
+Mutations in the
+DLD
+gene impair the function of the DLD enzyme, which prevents the three enzyme complexes from functioning properly. As a result, molecules that are normally broken down and their byproducts build up in the body, damaging tissues and leading to lactic acidosis and other chemical imbalances. In addition, the production of cellular energy is diminished. The brain is especially affected by the buildup of molecules and the lack of cellular energy, resulting in the neurological problems associated with dihydrolipoamide dehydrogenase deficiency. Liver problems are likely also related to decreased energy production in cells. The degree of impairment of each complex contributes to the variability in the features of this condition.
+Learn more about the gene associated with Dihydrolipoamide dehydrogenase deficiency
+DLD
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Dihydrolipoyl dehydrogenase deficiency
+DLD deficiency
+E3 deficiency
+Lactic acidosis due to LAD deficiency
+Lactic acidosis due to lipoamide dehydrogenase deficiency
+Lipoamide dehydrogenase deficiency
+Maple syrup urine disease, type III
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pyruvate dehydrogenase E3 deficiency
+Genetic and Rare Diseases Information Center
+Pyruvate dehydrogenase E3 deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+DIHYDROLIPOAMIDE DEHYDROGENASE DEFICIENCY; DLDD
+Scientific Articles on PubMed
+PubMed
+References
+Ambrus A, Adam-Vizi V. Molecular dynamics study of the structural basis of
+dysfunction and the modulation of reactive oxygen species generation by
+pathogenic mutants of human dihydrolipoamide dehydrogenase. Arch Biochem Biophys.
+2013 Oct 15;538(2):145-55. doi: 10.1016/j.abb.2013.08.015. Epub 2013 Sep 3.
+Citation on PubMed
+Brassier A, Ottolenghi C, Boutron A, Bertrand AM, Valmary-Degano S, Cervoni
+JP, Chretien D, Arnoux JB, Hubert L, Rabier D, Lacaille F, de Keyzer Y, Di
+Martino V, de Lonlay P. Dihydrolipoamide dehydrogenase deficiency: a still
+overlooked cause of recurrent acute liver failure and Reye-like syndrome. Mol
+Genet Metab. 2013 May;109(1):28-32. doi: 10.1016/j.ymgme.2013.01.017. Epub 2013
+Feb 1.
+Citation on PubMed
+Odievre MH, Chretien D, Munnich A, Robinson BH, Dumoulin R, Masmoudi S, Kadhom
+N, Rotig A, Rustin P, Bonnefont JP. A novel mutation in the dihydrolipoamide
+dehydrogenase E3 subunit gene (DLD) resulting in an atypical form of
+alpha-ketoglutarate dehydrogenase deficiency. Hum Mutat. 2005 Mar;25(3):323-4.
+doi: 10.1002/humu.9319.
+Citation on PubMed
+Quinonez SC, Leber SM, Martin DM, Thoene JG, Bedoyan JK. Leigh syndrome in a
+girl with a novel DLD mutation causing E3 deficiency. Pediatr Neurol. 2013
+Jan;48(1):67-72. doi: 10.1016/j.pediatrneurol.2012.09.013.
+Citation on PubMed
+or
+Free article on PubMed Central
+Quinonez SC, Thoene JG. Dihydrolipoamide Dehydrogenase Deficiency. 2014 Jul 17
+[updated 2021 Sep 30]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK220444/
+Citation on PubMed
+Quintana E, Pineda M, Font A, Vilaseca MA, Tort F, Ribes A, Briones P.
+Dihydrolipoamide dehydrogenase (DLD) deficiency in a Spanish patient with
+myopathic presentation due to a new mutation in the interface domain. J Inherit
+Metab Dis. 2010 Dec;33 Suppl 3:S315-9. doi: 10.1007/s10545-010-9169-4. Epub 2010
+Jul 21.
+Citation on PubMed
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Enlarged liver
+Genetics
+Lactic acidosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

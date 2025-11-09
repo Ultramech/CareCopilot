@@ -1,0 +1,245 @@
+CRE Infection: Causes, Symptoms, Diagnosis & Treatment
+Home
+/
+Health Library
+/
+Diseases & Conditions
+/
+Carbapenem-Resistant Enterobacterales (CREs)
+Advertisement
+Advertisement
+Carbapenem-Resistant Enterobacterales (CREs)
+Carbapenem-resistant Enterobacterales (CREs) are certain kinds of bacteria that carbapenems (commonly used antibiotics) aren’t effective against. They can cause bloodstream infections, UTIs, pneumonia and other infections. These can be life-threatening and are hard to treat.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Find a Primary Care Provider
+Schedule an Appointment
+Contents
+Arrow Down
+Overview
+Symptoms and Causes
+Diagnosis and Tests
+Management and Treatment
+Outlook / Prognosis
+Prevention
+Living With
+Overview
+What are carbapenem-resistant Enterobacterales (CREs)?
+Enterobacterales are a closely-related group of
+bacteria
+that commonly cause infections. Carbapenem-resistant Enterobacterales (CREs) are resistant to commonly prescribed antibiotics called carbapenems. This can make infections with these bacteria harder to treat.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Antibiotics
+are medications that healthcare providers use to treat
+bacterial infections
+. But with a lot of exposure to them (like in a hospital or skilled nursing facility), bacteria can develop ways to survive antibiotics (resistance). CREs are resistant to carbapenem antibiotics. Carbapenems include:
+Ertapenem.
+Imipenem.
+Meropenem
+.
+Types of Enterobacterales
+Some people use “CRE” to stand for carbapenem-resistant Enterobacterales and some use it to stand for carbapenem-resistant
+Enterobacteriaceae
+. Enterobacterales is an order (large group) of many different types of bacteria. It includes three families, or subgroups. One of its subgroups is
+Enterobacteriaceae
+, which includes bacteria like:
+Escherichia
+(most commonly,
+E. coli
+).
+Klebsiella
+.
+Salmonella
+.
+Shigella
+.
+The most common CREs are versions of
+Klebsiella pneumonia
+and
+E. coli
+that are antibiotic-resistant. (But if you get a
+Klebsiella
+or
+E. coli
+infection, it doesn’t necessarily mean you have a version that’s resistant.)
+Types of CRE infections
+CREs can cause infections in many parts of your body. Most commonly, this includes your:
+Blood
+.
+Urinary tract (UTI)
+.
+Lungs (
+pneumonia
+).
+Abdomen (intra-abdominal
+abscess
+).
+How common are CRE infections?
+In the U.S., CREs cause about 13,000 infections per year. Of those, about 1,100 people die.
+Advertisement
+Symptoms and Causes
+What are the symptoms of CRE infections?
+Carbapenem-resistant Enterobacterales cause different symptoms depending on where you’re infected. Some symptoms could include:
+Fever.
+Chills
+.
+Shortness of breath
+.
+Cough.
+Abdominal (belly) pain
+.
+Pain when you pee.
+Redness, swelling or itching at a surgical or injury site.
+Note that these can be symptoms of other types of infections, not just CREs.
+What causes CRE infections?
+Bacteria that have resistance to carbapenem antibiotics cause CRE infections. Bacteria develop
+antibiotic resistance
+for many reasons, including to co-exist in nature with other organisms.
+In hospitals and other healthcare settings, bacteria can become resistant to certain antibiotics, like carbapenems, that are used often to treat serious infections. Bacteria can pass their resistant genes to other, existing bacteria (horizontal gene transfer). They can also survive the antibiotics by other means and go on to reproduce, passing on their
+genes
+(including resistance) to more copies of the bacteria.
+There are many ways CRE can become resistant. One of the most common is by acquiring an
+enzyme
+(carbapenemase) to chop up the carbapenem antibiotics so they no longer work.
+How do CREs spread?
+Carbapenem-resistant Enterobacterales can be on your skin or even in your gastrointestinal tract (gut) without making you sick — this is called colonization. Both people who are sick (infected) with a CRE and someone who is colonized without having symptoms can spread CREs.
+You’re most at risk of getting a CRE infection in a hospital or healthcare facility because bacteria — many that exist naturally on our skin or in our bodies — are exposed to antibiotics often and can build up resistance. You can get a CRE infection from:
+Contact with someone who has it on their skin (for instance, if they don’t wash their hands).
+Contaminated surfaces, especially sinks and toilets.
+Contaminated medical equipment and medical devices in your body (like a
+central venous line
+or
+breathing tube
+).
+What are the risk factors for CRE infections?
+You might be at higher risk for getting a CRE infection if you:
+Have a central venous line, breathing tube,
+feeding tube
+, or other tube or device that goes into your body
+. These can allow CREs to get into your body from the outside.
+Have been on
+antibiotics
+for a long time or use them frequently
+. Longer exposure to antibiotics can give bacteria more opportunities to develop resistance. It also can kill off “good” (non-harmful) bacteria in your gut that prevent other bacteria from growing out of control and causing an infection.
+Have a weakened immune system from an underlying health condition
+. This includes having
+HIV
+,
+blood cancers
+or
+diabetes
+, or receiving an
+organ
+or
+stem cell transplant
+. These conditions make it harder for your body to fight off infections.
+Need help with daily activities, like going to the bathroom and bathing
+. This increases your risk of coming in contact with poop (and bacteria from your GI tract) and spreading CREs.
+Are hospitalized for a long time, especially if you were hospitalized outside the United States in the past six months
+. Though they’re increasing in the U.S., CREs are more common outside of the country.
+Advertisement
+What are the complications of CREs?
+If providers can’t get rid of a bacterial infection with antibiotics, it can spread throughout your body and cause fatal complications, like
+organ failure
+.
+Diagnosis and Tests
+How is a CRE infection diagnosed?
+Your provider may think you have a CRE infection if you have symptoms of a bacterial infection that don’t go away with antibiotics. They may look for bacteria by testing samples from your body, including:
+Blood
+.
+Pee (urine)
+.
+Poop (stool).
+Fluid or tissue from a wound.
+A lab can determine if any bacteria found in the samples are CREs. Tell your provider about any implanted medical devices you have or if you’ve stayed in a hospital recently.
+Management and Treatment
+How are CREs treated?
+CREs can be hard to treat since common antibiotics don’t work against them. A provider may treat you with a different antibiotic or a carbapenem antibiotic with an added drug that’ll inhibit the bacteria’s carbapenemase (prevent it from destroying the carbapenem). Labs can test different drug options to see which will work on CREs.
+Antibiotics used to treat CREs
+Types of antibiotics providers use — together or separately — to treat CREs include:
+Polymyxin/Colistin
+.
+Tigecycline
+.
+Fosfomycin
+.
+Aminoglycosides (like
+gentamicin
+or
+tobramycin
+).
+Rifampin
+.
+Carbapenem (paired with an inhibitor).
+Care at Cleveland Clinic
+Find a Primary Care Provider
+Schedule an Appointment
+Outlook / Prognosis
+How serious is a CRE infection?
+CREs can cause serious illness that’s difficult to treat. Some people develop life-threatening infections. You’ll be treated in a hospital where healthcare providers can monitor you closely.
+Advertisement
+What is the survival rate of CRE?
+Studies suggest mortality (death) rates range from around 13% for UTIs caused by CREs to 50% or higher for bloodstream infections caused by CREs.
+Prevention
+Can CREs be prevented?
+Healthcare providers follow safety and sterilization rules to prevent
+healthcare-acquired infections
+like CREs. These include:
+Washing their hands.
+Disinfecting surfaces.
+Ensuring that people only take antibiotics when they have bacterial infections.
+Sterilizing medical devices.
+You can help prevent CRE infections by:
+Washing your hands
+frequently, especially if you’re caring for someone with a weakened immune system or who needs help with bathing or going to the bathroom.
+Asking your provider how long you need to use invasive medical devices like catheters and how to prevent infection while you need the device.
+Living With
+When should I see my healthcare provider?
+If you have an implanted medical device or a
+weakened immune system
+, ask your healthcare provider what signs of infection you should look out for. Follow up with your provider if you have any concerning symptoms.
+Even when you’re in the hospital, communication with your healthcare team is important. Let them know if you’re experiencing symptoms of an infection, like pain, rapid heart rate, weakness or fever.
+When should I go to the ER?
+Go to the emergency room if you have any signs of severe illness, including:
+Advertisement
+Fever over 103 degrees Fahrenheit or 40 degrees Celsius.
+Severe pain.
+Seizures
+.
+Confusion or disorientation.
+Sudden drop in blood pressure (symptoms include weakness, dizziness and
+fainting
+).
+What questions should I ask my doctor?
+It might be helpful to ask your healthcare provider:
+What are my treatment options?
+When can I expect to feel better?
+How did I get this infection?
+What can I do to prevent an infection like this in the future?
+A note from Cleveland Clinic
+Carbapenem-resistant Enterobacterales can cause serious infections that are hard to treat. That’s why your healthcare providers work to keep hospitals and long-term care facilities clean and safe. CRE infections are still pretty rare in the U.S. If you do get an infection, providers have strategies to treat CREs.
+If you have symptoms of a serious infection, especially if you have an implanted medical device or weakened immune system, get immediate medical attention. Even if you’re already in a healthcare facility, let your providers know right away. Tell your providers about any medical conditions or devices you have or if you’ve spent a lot of time in hospitals recently. This information can help them get to the bottom of your symptoms more quickly and treat any infections as soon as possible.
+Care at Cleveland Clinic
+Cleveland Clinic’s primary care providers offer lifelong medical care. From sinus infections and high blood pressure to preventive screening, we’re here for you.
+Find a Primary Care Provider
+Schedule an Appointment
+Medically Reviewed
+Last reviewed on 11/13/2023.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Questions
+216.444.2538
+Appointments & Locations
+Request an Appointment
+Find a Primary Care Provider

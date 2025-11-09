@@ -1,0 +1,196 @@
+Familial hypertrophic cardiomyopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial hypertrophic cardiomyopathy
+URL of this page: https://medlineplus.gov/genetics/condition/familial-hypertrophic-cardiomyopathy/
+Familial hypertrophic cardiomyopathy
+Description
+Hypertrophic cardiomyopathy is a heart condition characterized by thickening (hypertrophy) of the heart (cardiac) muscle. When multiple members of a family have the condition, it is known as familial hypertrophic cardiomyopathy. Hypertrophic cardiomyopathy also occurs in people with no family history; these cases are considered nonfamilial hypertrophic cardiomyopathy.
+In familial hypertrophic cardiomyopathy, cardiac thickening usually occurs in the interventricular septum, which is the muscular wall that separates the lower left chamber of the heart (the left ventricle) from the lower right chamber (the right ventricle). In some people, thickening of the interventricular septum impedes the flow of oxygen-rich blood from the heart, which may lead to an abnormal heart sound during a heartbeat (heart murmur) and other signs and symptoms of the condition. Other affected individuals do not have physical obstruction of blood flow, but the pumping of blood is less efficient, which can also lead to symptoms of the condition. Familial hypertrophic cardiomyopathy often begins in adolescence or young adulthood, although it can develop at any time throughout life.
+The symptoms of familial hypertrophic cardiomyopathy are variable, even within the same family. Many affected individuals have no symptoms. Other people with familial hypertrophic cardiomyopathy may experience chest pain; shortness of breath, especially with physical exertion; a sensation of fluttering or pounding in the chest (palpitations); lightheadedness; dizziness; and fainting.
+While most people with familial hypertrophic cardiomyopathy are symptom-free or have only mild symptoms, this condition can have serious consequences. It can cause abnormal heart rhythms (arrhythmias) that may be life threatening. People with familial hypertrophic cardiomyopathy have an increased risk of sudden death, even if they have no other symptoms of the condition. A small number of affected individuals develop potentially fatal heart failure, which may require heart transplantation.
+Nonfamilial hypertrophic cardiomyopathy tends to be milder. This form typically begins later in life than familial hypertrophic cardiomyopathy, and affected individuals have a lower risk of serious cardiac events and sudden death than people with the familial form.
+Frequency
+Familial hypertrophic cardiomyopathy affects an estimated 1 in 200 people worldwide. It is the most common genetic heart disease in the United States. The familial form of hypertrophic cardiomyopathy accounts for more than half of cases.
+Causes
+Variants (also known as mutations) in one of several genes can cause familial hypertrophic cardiomyopathy; the most commonly involved genes are
+MYH7
+,
+MYBPC3
+,
+TNNT2
+, and
+TNNI3
+. Other genes may also be involved in this condition, including some that have not been identified.
+The proteins produced from the genes associated with familial hypertrophic cardiomyopathy play important roles in tensing (contraction) of the heart muscle by forming muscle cell structures called
+sarcomeres
+. Sarcomeres, which are the basic units of muscle contraction, are made up of
+thick and thin protein filaments
+. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract. In the heart, regular contractions of cardiac muscle pump blood to the rest of the body.
+The protein produced from the
+MYH7
+gene, called cardiac beta (β)-myosin heavy chain, is the major component of the thick filament in sarcomeres. The protein produced from the
+MYBPC3
+gene, cardiac myosin binding protein C, associates with the thick filament, providing structural support and helping to regulate muscle contractions.
+The
+TNNT2
+and
+TNNI3
+genes provide instructions for making cardiac troponin T and cardiac troponin I, respectively, which are two of the three proteins that make up the troponin protein complex found in cardiac muscle cells. The troponin complex associates with the thin filament of sarcomeres. It controls muscle contraction and relaxation by regulating the interaction of the thick and thin filaments.
+It is unknown how variants in sarcomere-related genes lead to hypertrophy of the heart muscle and problems with heart rhythm. The variants may result in production of an altered sarcomere protein or reduce the amount of the protein. An abnormality in or shortage of any one of these proteins may impair the function of the sarcomere, disrupting normal cardiac muscle contraction. Research shows that, in affected individuals, contraction and relaxation of the heart muscle are abnormal, even before hypertrophy develops. However, it is not clear how these contraction problems are related to hypertrophy or the symptoms of familial hypertrophic cardiomyopathy.
+Nonfamilial hypertrophic cardiomyopathy is not caused by variants in sarcomere-related genes. The genetic cause of these cases is unknown. Researchers believe the nonfamilial form of the condition is due to a combination of genetic and environmental factors.
+Learn more about the genes associated with Familial hypertrophic cardiomyopathy
+MYBPC3
+MYH7
+PRKAG2
+TNNI3
+TNNT2
+TTN
+Additional Information from NCBI Gene:
+ACTC1
+ACTN2
+CALR3
+CSRP3
+JPH2
+MYL2
+MYL3
+MYOZ2
+NEXN
+PLN
+TCAP
+TPM1
+VCL
+Inheritance
+Familial hypertrophic cardiomyopathy is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Rarely, both copies of the gene are altered, leading to more severe signs and symptoms.
+In most cases, an affected person has one parent with the condition.
+Nonfamilial hypertrophic cardiomyopathy is not inherited. Its cause is complex and likely involves many genetic and environmental factors.
+Other Names for This Condition
+Brock's disease
+Familial asymmetric septal hypertrophy
+HCM
+Hereditary ventricular hypertrophy
+Heritable hypertrophic cardiomyopathy
+Idiopathic hypertrophic subaortic stenosis
+Subaortic hypertrophic stenosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hypertrophic cardiomyopathy 1
+Genetic Testing Registry: Hypertrophic cardiomyopathy 2
+Genetic Testing Registry: Hypertrophic cardiomyopathy 4
+Genetic Testing Registry: Hypertrophic cardiomyopathy 7
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 2; CMH2
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 3; CMH3
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 4; CMH4
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 6; CMH6
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 1; CMH1
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 8; CMH8
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 10; CMH10
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 25; CMH25
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 11; CMH11
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 12; CMH12
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 7; CMH7
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 13; CMH13
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 14; CMH14
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 15; CMH15
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 17; CMH17
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 18; CMH18
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 20; CMH20
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 9; CMH9
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 21; CMH21
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 16; CMH16
+Scientific Articles on PubMed
+PubMed
+References
+Bashyam MD, Savithri GR, Kumar MS, Narasimhan C, Nallari P. Molecular genetics
+of familial hypertrophic cardiomyopathy (FHC). J Hum Genet. 2003;48(2):55-64.
+doi: 10.1007/s100380300007.
+Citation on PubMed
+Frey N, Luedde M, Katus HA. Mechanisms of disease: hypertrophic
+cardiomyopathy. Nat Rev Cardiol. 2011 Oct 25;9(2):91-100. doi:
+10.1038/nrcardio.2011.159.
+Citation on PubMed
+Ho CY. New Paradigms in Hypertrophic Cardiomyopathy: Insights from Genetics.
+Prog Pediatr Cardiol. 2011 May;31(2):93-98. doi: 10.1016/j.ppedcard.2011.02.005.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ingles J, Burns C, Bagnall RD, Lam L, Yeates L, Sarina T, Puranik R, Briffa T,
+Atherton JJ, Driscoll T, Semsarian C. Nonfamilial Hypertrophic Cardiomyopathy:
+Prevalence, Natural History, and Clinical Implications. Circ Cardiovasc Genet.
+2017 Apr;10(2):e001620. doi: 10.1161/CIRCGENETICS.116.001620.
+Citation on PubMed
+Keren A, Syrris P, McKenna WJ. Hypertrophic cardiomyopathy: the genetic
+determinants of clinical disease expression. Nat Clin Pract Cardiovasc Med. 2008
+Mar;5(3):158-68. doi: 10.1038/ncpcardio1110. Epub 2008 Jan 29.
+Citation on PubMed
+Kimura A. Molecular genetics and pathogenesis of cardiomyopathy. J Hum Genet.
+2016 Jan;61(1):41-50. doi: 10.1038/jhg.2015.83. Epub 2015 Jul 16.
+Citation on PubMed
+Ko C, Arscott P, Concannon M, Saberi S, Day SM, Yashar BM, Helms AS. Genetic
+testing impacts the utility of prospective familial screening in hypertrophic
+cardiomyopathy through identification of a nonfamilial subgroup. Genet Med. 2018
+Jan;20(1):69-75. doi: 10.1038/gim.2017.79. Epub 2017 Jun 22.
+Citation on PubMed
+Maron BA, Wang RS, Carnethon MR, Rowin EJ, Loscalzo J, Maron BJ, Maron MS.
+What Causes Hypertrophic Cardiomyopathy? Am J Cardiol. 2022 Sep 15;179:74-82.
+doi: 10.1016/j.amjcard.2022.06.017. Epub 2022 Jul 14.
+Citation on PubMed
+Marston S, Copeland O, Gehmlich K, Schlossarek S, Carrier L. How do MYBPC3
+mutations cause hypertrophic cardiomyopathy? J Muscle Res Cell Motil. 2012
+May;33(1):75-80. doi: 10.1007/s10974-011-9268-3. Epub 2011 Nov 5.
+Citation on PubMed
+Rodriguez JE, McCudden CR, Willis MS. Familial hypertrophic cardiomyopathy:
+basic concepts and future molecular diagnostics. Clin Biochem. 2009
+Jun;42(9):755-65. doi: 10.1016/j.clinbiochem.2009.01.020. Epub 2009 Feb 9.
+Citation on PubMed
+Toste A. Advances in hypertrophic cardiomyopathy: What the cardiologist needs
+to know. Rev Port Cardiol. 2022 Jun;41(6):499-509. doi:
+10.1016/j.repc.2021.05.015. Epub 2022 May 27. English, Portuguese.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cardiomyopathy
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hypertrophic cardiomyopathy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

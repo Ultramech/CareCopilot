@@ -1,0 +1,157 @@
+Alveolar capillary dysplasia with misalignment of pulmonary veins: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Alveolar capillary dysplasia with misalignment of pulmonary veins
+URL of this page: https://medlineplus.gov/genetics/condition/alveolar-capillary-dysplasia-with-misalignment-of-pulmonary-veins/
+Alveolar capillary dysplasia with misalignment of pulmonary veins
+Description
+Alveolar capillary dysplasia with misalignment of pulmonary veins (ACD/MPV) is a disorder affecting the development of the lungs and their blood vessels. The disorder affects the millions of small air sacs (alveoli) in the lungs and the tiny blood vessels (
+capillaries
+) in the alveoli. It is through these alveolar capillaries that inhaled oxygen enters the bloodstream for distribution throughout the body and carbon dioxide leaves the bloodstream to be exhaled.
+In ACD/MPV, the alveolar capillaries fail to develop normally. The number of capillaries is drastically reduced, and existing capillaries are improperly positioned within the walls of the alveoli. These abnormalities in capillary number and location impede the exchange of oxygen and carbon dioxide.
+Other abnormalities of the blood vessels in the lungs also occur in ACD/MPV. The veins that carry blood from the lungs into the heart (pulmonary veins) are improperly positioned and may be abnormally bundled together with arteries that carry blood from the heart to the lungs (pulmonary arteries). The muscle tissue in the walls of the pulmonary arteries may be overgrown, resulting in thicker artery walls and a narrower channel. These changes restrict normal blood flow, which causes high blood pressure in the pulmonary arteries (pulmonary hypertension) and requires the heart to pump harder.
+Most infants with ACD/MPV are born with additional abnormalities. These may include abnormal twisting (malrotation) of the
+large intestine
+or other malformations of the gastrointestinal tract. Cardiovascular and genitourinary abnormalities are also common in affected individuals.
+Infants with ACD/MPV typically develop respiratory distress within a few minutes to a few hours after birth. They experience shortness of breath and cyanosis, which is a bluish appearance of the skin, mucous membranes, or the area underneath the fingernails caused by a lack of oxygen in the blood. Without lung transplantation, infants with ACD/MPV have not been known to survive past one year of age, and most affected infants live only a few weeks.
+Frequency
+ACD/MPV is a rare disorder; its incidence is unknown. Approximately 200 infants with this disorder have been identified worldwide.
+Causes
+ACD/MPV can be caused by mutations in the
+FOXF1
+gene. The protein produced from the
+FOXF1
+gene is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of many other genes. The FOXF1 protein is important in development of the lungs and their blood vessels. The FOXF1 protein is also involved in the development of the gastrointestinal tract. Mutations in the
+FOXF1
+gene that cause ACD/MPV result in an inactive protein that cannot regulate development, leading to abnormal formation of the pulmonary blood vessels and gastrointestinal tract.
+ACD/MPV can also be caused by a
+deletion
+of genetic material on the long arm of
+chromosome 16
+in a region known as 16q24.1. This region includes several genes, including the
+FOXF1
+gene. Deletion of one copy of the
+FOXF1
+gene in each cell reduces the production of the FOXF1 protein. A shortage of FOXF1 protein affects the development of pulmonary blood vessels and causes the main features of ACD/MPV. Researchers suggest that the loss of other genes in this region probably causes the additional abnormalities, such as heart defects, seen in some infants with this disorder. Like
+FOXF1
+, these genes also provide instructions for making transcription factors that regulate development of various body systems before birth.
+In about 60 percent of affected infants, the genetic cause of ACD/MPV is unknown.
+Learn more about the gene and chromosome associated with Alveolar capillary dysplasia with misalignment of pulmonary veins
+FOXF1
+chromosome 16
+Inheritance
+ACD/MPV is usually not inherited, and most affected people have no history of the disorder in their family. The genetic changes associated with this condition usually occur during the formation of reproductive cells (eggs and sperm) or in early fetal development. When the condition is caused by a
+FOXF1
+gene mutation or deletion,
+one altered or missing gene in each cell
+is sufficient to cause the disorder. Individuals with ACD/MPV do not pass the genetic change on to their children because they do not live long enough to reproduce.
+A few families have been identified in which more than one sibling has ACD/MPV. It is not clear how ACD/MPV is inherited in these families because no genetic changes have been identified.
+Other Names for This Condition
+ACD
+ACD/MPV
+ACDMPV
+Alveolar capillary dysplasia
+Congenital alveolar capillary dysplasia
+Familial persistent pulmonary hypertension of the newborn
+Misalignment of the pulmonary vessels
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Persistent fetal circulation syndrome
+Genetic and Rare Diseases Information Center
+Congenital alveolar capillary dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ALVEOLAR CAPILLARY DYSPLASIA WITH MISALIGNMENT OF PULMONARY VEINS; ACDMPV
+Scientific Articles on PubMed
+PubMed
+References
+Antao B, Samuel M, Kiely E, Spitz L, Malone M. Congenital alveolar capillary
+dysplasia and associated gastrointestinal anomalies. Fetal Pediatr Pathol. 2006
+May-Jun;25(3):137-45. doi: 10.1080/15513810600908230.
+Citation on PubMed
+Bishop NB, Stankiewicz P, Steinhorn RH. Alveolar capillary dysplasia. Am J
+Respir Crit Care Med. 2011 Jul 15;184(2):172-9. doi: 10.1164/rccm.201010-1697CI.
+Epub 2011 Mar 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Langston C. Misalignment of pulmonary veins and alveolar capillary dysplasia.
+Pediatr Pathol. 1991 Jan-Feb;11(1):163-70. doi: 10.3109/15513819109064753. No
+abstract available.
+Citation on PubMed
+Maeda Y, Dave V, Whitsett JA. Transcriptional control of lung morphogenesis.
+Physiol Rev. 2007 Jan;87(1):219-44. doi: 10.1152/physrev.00028.2006.
+Citation on PubMed
+Michalsky MP, Arca MJ, Groenman F, Hammond S, Tibboel D, Caniano DA. Alveolar
+capillary dysplasia: a logical approach to a fatal disease. J Pediatr Surg. 2005
+Jul;40(7):1100-5. doi: 10.1016/j.jpedsurg.2005.03.067.
+Citation on PubMed
+Sen P, Choudhury T, Smith EO, Langston C. Expression of angiogenic and
+vasculogenic proteins in the lung in alveolar capillary dysplasia/misalignment of
+pulmonary veins: an immunohistochemical study. Pediatr Dev Pathol. 2010
+Sep-Oct;13(5):354-61. doi: 10.2350/09-04-0640-OA.1. Epub 2010 Mar 23.
+Citation on PubMed
+Sen P, Thakur N, Stockton DW, Langston C, Bejjani BA. Expanding the phenotype
+of alveolar capillary dysplasia (ACD). J Pediatr. 2004 Nov;145(5):646-51. doi:
+10.1016/j.jpeds.2004.06.081.
+Citation on PubMed
+Singh SA, Ibrahim T, Clark DJ, Taylor RS, George DH. Persistent pulmonary
+hypertension of newborn due to congenital capillary alveolar dysplasia. Pediatr
+Pulmonol. 2005 Oct;40(4):349-53. doi: 10.1002/ppul.20244.
+Citation on PubMed
+Stankiewicz P, Sen P, Bhatt SS, Storer M, Xia Z, Bejjani BA, Ou Z, Wiszniewska
+J, Driscoll DJ, Maisenbacher MK, Bolivar J, Bauer M, Zackai EH, McDonald-McGinn
+D, Nowaczyk MM, Murray M, Hustead V, Mascotti K, Schultz R, Hallam L, McRae D,
+Nicholson AG, Newbury R, Durham-O'Donnell J, Knight G, Kini U, Shaikh TH, Martin
+V, Tyreman M, Simonic I, Willatt L, Paterson J, Mehta S, Rajan D, Fitzgerald T,
+Gribble S, Prigmore E, Patel A, Shaffer LG, Carter NP, Cheung SW, Langston C,
+Shaw-Smith C. Genomic and genic deletions of the FOX gene cluster on 16q24.1 and
+inactivating mutations of FOXF1 cause alveolar capillary dysplasia and other
+malformations. Am J Hum Genet. 2009 Jun;84(6):780-91. doi:
+10.1016/j.ajhg.2009.05.005. Epub 2009 Jun 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Pulmonary Hypertension
+MEDICAL ENCYCLOPEDIA
+Alveolar abnormalities
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

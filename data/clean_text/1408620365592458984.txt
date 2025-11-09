@@ -1,0 +1,121 @@
+Trisomy X: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Trisomy X
+URL of this page: https://medlineplus.gov/genetics/condition/trisomy-x/
+Trisomy X
+Description
+Trisomy X, also called triple X syndrome or 47,XXX, is characterized by the presence of an additional X chromosome in each of a female's cells. Although females with this condition may be taller than average, this chromosomal change typically causes no unusual physical features. Most females with trisomy X have normal sexual development and are able to conceive children.
+Trisomy X is associated with an increased risk of learning disabilities and delayed development of speech and language skills. Delayed development of motor skills (such as sitting and walking), weak muscle tone (hypotonia), and behavioral and emotional difficulties are also possible, but these characteristics vary widely. Seizures or kidney abnormalities occur in about 10 percent of affected females.
+Frequency
+This condition occurs in about 1 in 1,000 female newborns; however, many of these affected individuals are never diagnosed. Five to 10 people with trisomy X are born in the United States each day.
+Causes
+People normally have 46 chromosomes in each cell. Two of the 46 chromosomes, known as X and Y, are called
+sex chromosomes
+because they help determine whether a person will develop male or female sex characteristics. Females typically have two X chromosomes (46,XX), and males have one
+X chromosome
+and one
+Y chromosome
+(46,XY).
+Trisomy X results from an
+extra copy of the X chromosome
+in each of a female's cells. As a result of the extra X chromosome, each cell has a total of 47 chromosomes (47,XXX) instead of the usual 46. An extra copy of the X chromosome is associated with tall stature, learning problems, and other features in some affected individuals.
+Some females with trisomy X have an extra X chromosome in only some of their cells. This phenomenon is called 46,XX/47,XXX mosaicism.
+Learn more about the chromosome associated with Trisomy X
+x chromosome
+Inheritance
+Most cases of trisomy X are not inherited. The chromosomal change usually occurs as a random event during the formation of reproductive cells (eggs and sperm). An error in cell division called nondisjunction can result in reproductive cells with an abnormal number of chromosomes. For example, an egg or sperm cell may gain an
+extra copy of the X chromosome
+as a result of nondisjunction. If one of these atypical reproductive cells contributes to the genetic makeup of a child, the child will have an extra X chromosome in each of the body's cells.
+46,XX/47,XXX mosaicism is also not inherited. It occurs as a random event during cell division in early embryonic development. As a result, some of an affected person's cells have two X chromosomes (46,XX), and other cells have three X chromosomes (47,XXX).
+Other Names for This Condition
+47,XXX
+47,XXX syndrome
+Triple X syndrome
+Triplo X syndrome
+Trisomy X
+XXX syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Trisomy X syndrome
+Genetic and Rare Diseases Information Center
+Trisomy X
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Scientific Articles on PubMed
+PubMed
+References
+Nielsen MM, Trolle C, Vang S, Hornshoj H, Skakkebaek A, Hedegaard J,
+Nordentoft I, Pedersen JS, Gravholt CH. Epigenetic and transcriptomic
+consequences of excess X-chromosome material in 47,XXX syndrome-A comparison with
+Turner syndrome and 46,XX females. Am J Med Genet C Semin Med Genet. 2020
+Jun;184(2):279-293. doi: 10.1002/ajmg.c.31799. Epub 2020 Jun 3.
+Citation on PubMed
+Otter M, Crins PML, Campforts BCM, Stumpel CTRM, van Amelsvoort TAMJ,
+Vingerhoets C. Social functioning and emotion recognition in adults with triple X
+syndrome. BJPsych Open. 2021 Feb 15;7(2):e51. doi: 10.1192/bjo.2021.8.
+Citation on PubMed
+Raznahan A, Parikshak NN, Chandran V, Blumenthal JD, Clasen LS,
+Alexander-Bloch AF, Zinn AR, Wangsa D, Wise J, Murphy DGM, Bolton PF, Ried T,
+Ross J, Giedd JN, Geschwind DH. Sex-chromosome dosage effects on gene expression
+in humans. Proc Natl Acad Sci U S A. 2018 Jul 10;115(28):7398-7403. doi:
+10.1073/pnas.1802889115. Epub 2018 Jun 26.
+Citation on PubMed
+Stochholm K, Juul S, Gravholt CH. Mortality and incidence in women with 47,XXX
+and variants. Am J Med Genet A. 2010 Feb;152A(2):367-72. doi:
+10.1002/ajmg.a.33214.
+Citation on PubMed
+Tartaglia NR, Howell S, Sutherland A, Wilson R, Wilson L. A review of trisomy
+X (47,XXX). Orphanet J Rare Dis. 2010 May 11;5:8. doi: 10.1186/1750-1172-5-8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wigby K, D'Epagnier C, Howell S, Reicks A, Wilson R, Cordeiro L, Tartaglia N.
+Expanding the phenotype of Triple X syndrome: A comparison of prenatal versus
+postnatal diagnosis. Am J Med Genet A. 2016 Nov;170(11):2870-2881. doi:
+10.1002/ajmg.a.37688. Epub 2016 Sep 19.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Learning Disabilities
+Speech and Communication Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Karyotype Genetic Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

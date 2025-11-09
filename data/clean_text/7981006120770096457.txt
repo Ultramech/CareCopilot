@@ -1,0 +1,248 @@
+Loeys-Dietz syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Loeys-Dietz syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/loeys-dietz-syndrome/
+Loeys-Dietz syndrome
+Description
+Loeys-Dietz syndrome is a disorder that affects the
+connective tissue
+in many parts of the body. Connective tissue provides strength and flexibility to structures such as bones, ligaments, muscles, and blood vessels.
+There are five types of Loeys-Dietz syndrome, labelled types I through V, which are distinguished by their genetic cause. Regardless of the type, signs and symptoms of Loeys-Dietz syndrome can become apparent anytime from childhood through adulthood, and the severity is variable.
+Loeys-Dietz syndrome is characterized by enlargement of
+the aorta
+, which is the large blood vessel that distributes blood from the heart to the rest of the body. The aorta can weaken and stretch, causing a bulge in the blood vessel wall (
+an aneurysm
+). Stretching of the aorta may also lead to a sudden tearing of the layers in the aorta wall (
+aortic dissection
+). People with Loeys-Dietz syndrome can also have aneurysms or dissections in arteries throughout the body and have arteries with abnormal twists and turns (arterial tortuosity).
+Individuals with Loeys-Dietz syndrome often have skeletal problems including premature fusion of the skull bones (
+craniosynostosis
+), an abnormal side-to-side curvature of the spine (
+scoliosis
+), either a sunken chest (pectus excavatum) or a protruding chest (
+pectus carinatum
+), an inward- and upward-turning foot (
+clubfoot
+), flat feet (
+pes planus
+), or elongated limbs with joint deformities called contractures that restrict the movement of certain joints. A membrane called the dura, which surrounds the brain and spinal cord, can be abnormally enlarged (dural ectasia). In individuals with Loeys-Dietz syndrome, dural ectasia typically does not cause health problems. Malformation or instability of the spinal bones (
+vertebrae
+) in the neck is a common feature of Loeys-Dietz syndrome and can lead to injuries to the spinal cord. Some affected individuals have joint inflammation (
+osteoarthritis
+) that commonly affects the knees and the joints of the hands, wrists, and spine.
+People with Loeys-Dietz syndrome
+may bruise easily and develop abnormal scars after wound healing. The skin is frequently described as translucent, often with stretch marks (striae) and visible underlying veins. Some individuals with Loeys-Dietz syndrome develop an abnormal accumulation of air in the chest cavity that can result in the collapse of a lung (spontaneous pneumothorax) or a protrusion of organs through gaps in muscles (
+hernias
+). Other characteristic features include widely spaced eyes (
+hypertelorism
+), eyes that do not point in the same direction (strabismus), a split in the soft flap of tissue that hangs from the back of the mouth (
+bifid uvula
+), and an opening in the roof of the mouth (
+cleft palate
+).
+Individuals with Loeys-Dietz syndrome frequently develop immune system-related problems such as food allergies, asthma, or inflammatory disorders such as eczema or inflammatory bowel disease.
+Frequency
+The prevalence of Loeys-Dietz syndrome is unknown. Loeys-Dietz syndrome types I and II appear to be the most common forms.
+Causes
+The five types of Loeys-Dietz syndrome are distinguished by their genetic cause:
+TGFBR1
+gene mutations cause type I,
+TGFBR2
+gene mutations cause type II,
+SMAD3
+gene mutations cause type III,
+TGFB2
+gene mutations cause type IV, and
+TGFB3
+gene mutations cause type V. These five genes play roles in a cell signaling pathway called the transforming growth factor beta (TGF-β) pathway, which directs the functions of the body's cells during growth and development. This pathway also regulates the formation of the extracellular matrix, an intricate lattice of proteins and other molecules that forms in the spaces between cells and is important for tissue strength and repair.
+Mutations in the
+TGFBR1
+,
+TGFBR2
+,
+SMAD3
+,
+TGFB2
+, or
+TGFB3
+gene result in the production of a protein with reduced function. Even though the protein is less active, signaling within the TGF-β pathway occurs at an even greater intensity than normal in tissues throughout the body. Researchers speculate that the activity of other proteins in this signaling pathway is increased to compensate for the protein whose function is reduced; however, the exact mechanism responsible for the increase in signaling is unclear. The overactive TGF-β pathway disrupts the development of the extracellular matrix and various body systems, leading to the signs and symptoms of Loeys-Dietz syndrome.
+Learn more about the genes associated with Loeys-Dietz syndrome
+SMAD3
+TGFB2
+TGFB3
+TGFBR1
+TGFBR2
+Inheritance
+Loeys-Dietz syndrome has an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In about 75 percent of cases, this disorder results from a
+new gene mutation
+and occurs in people with no history of the disorder in their family. In other cases, an affected person inherits the mutation from
+one affected parent
+.
+Other Names for This Condition
+LDS
+Loeys-Dietz aortic aneurysm syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Aneurysm-osteoarthritis syndrome
+Genetic Testing Registry: Rienhoff syndrome
+Genetic Testing Registry: Loeys-Dietz syndrome
+Genetic Testing Registry: Loeys-Dietz syndrome 1
+Genetic Testing Registry: Loeys-Dietz syndrome 2
+Genetic Testing Registry: Loeys-Dietz syndrome 4
+Genetic and Rare Diseases Information Center
+Loeys-Dietz syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LOEYS-DIETZ SYNDROME 1; LDS1
+LOEYS-DIETZ SYNDROME 2; LDS2
+LOEYS-DIETZ SYNDROME 5; LDS5
+LOEYS-DIETZ SYNDROME 4; LDS4
+LOEYS-DIETZ SYNDROME 3; LDS3
+Scientific Articles on PubMed
+PubMed
+References
+Arslan-Kirchner M, Epplen JT, Faivre L, Jondeau G, Schmidtke J, De Paepe A,
+Loeys B. Clinical utility gene card for: Loeys-Dietz syndrome (TGFBR1/2) and
+related phenotypes. Eur J Hum Genet. 2011 Oct;19(10). doi: 10.1038/ejhg.2011.68.
+Epub 2011 Apr 27. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bertoli-Avella AM, Gillis E, Morisaki H, Verhagen JMA, de Graaf BM, van de
+Beek G, Gallo E, Kruithof BPT, Venselaar H, Myers LA, Laga S, Doyle AJ, Oswald G,
+van Cappellen GWA, Yamanaka I, van der Helm RM, Beverloo B, de Klein A, Pardo L,
+Lammens M, Evers C, Devriendt K, Dumoulein M, Timmermans J, Bruggenwirth HT,
+Verheijen F, Rodrigus I, Baynam G, Kempers M, Saenen J, Van Craenenbroeck EM,
+Minatoya K, Matsukawa R, Tsukube T, Kubo N, Hofstra R, Goumans MJ, Bekkers JA,
+Roos-Hesselink JW, van de Laar IMBH, Dietz HC, Van Laer L, Morisaki T, Wessels
+MW, Loeys BL. Mutations in a TGF-beta ligand, TGFB3, cause syndromic aortic
+aneurysms and dissections. J Am Coll Cardiol. 2015 Apr 7;65(13):1324-1336. doi:
+10.1016/j.jacc.2015.01.040.
+Citation on PubMed
+or
+Free article on PubMed Central
+Boodhwani M, Andelfinger G, Leipsic J, Lindsay T, McMurtry MS, Therrien J, Siu
+SC; Canadian Cardiovascular Society. Canadian Cardiovascular Society position
+statement on the management of thoracic aortic disease. Can J Cardiol. 2014
+Jun;30(6):577-89. doi: 10.1016/j.cjca.2014.02.018. Epub 2014 Feb 28.
+Citation on PubMed
+Erbel R, Aboyans V, Boileau C, Bossone E, Bartolomeo RD, Eggebrecht H,
+Evangelista A, Falk V, Frank H, Gaemperli O, Grabenwoger M, Haverich A, Iung B,
+Manolis AJ, Meijboom F, Nienaber CA, Roffi M, Rousseau H, Sechtem U, Sirnes PA,
+Allmen RS, Vrints CJ; ESC Committee for Practice Guidelines. 2014 ESC Guidelines
+on the diagnosis and treatment of aortic diseases: Document covering acute and
+chronic aortic diseases of the thoracic and abdominal aorta of the adult. The
+Task Force for the Diagnosis and Treatment of Aortic Diseases of the European
+Society of Cardiology (ESC). Eur Heart J. 2014 Nov 1;35(41):2873-926. doi:
+10.1093/eurheartj/ehu281. Epub 2014 Aug 29. No abstract available.
+Citation on PubMed
+Frischmeyer-Guerrerio PA, Guerrerio AL, Oswald G, Chichester K, Myers L,
+Halushka MK, Oliva-Hemker M, Wood RA, Dietz HC. TGFbeta receptor mutations impose a
+strong predisposition for human allergic disease. Sci Transl Med. 2013 Jul
+24;5(195):195ra94. doi: 10.1126/scitranslmed.3006448.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kalra VB, Gilbert JW, Malhotra A. Loeys-Dietz syndrome: cardiovascular,
+neuroradiological and musculoskeletal imaging findings. Pediatr Radiol. 2011
+Dec;41(12):1495-504; quiz 1616. doi: 10.1007/s00247-011-2195-z. Epub 2011 Jul 23.
+Citation on PubMed
+Lindsay ME, Schepers D, Bolar NA, Doyle JJ, Gallo E, Fert-Bober J, Kempers MJ,
+Fishman EK, Chen Y, Myers L, Bjeda D, Oswald G, Elias AF, Levy HP, Anderlid BM,
+Yang MH, Bongers EM, Timmermans J, Braverman AC, Canham N, Mortier GR, Brunner
+HG, Byers PH, Van Eyk J, Van Laer L, Dietz HC, Loeys BL. Loss-of-function
+mutations in TGFB2 cause a syndromic presentation of thoracic aortic aneurysm.
+Nat Genet. 2012 Jul 8;44(8):922-7. doi: 10.1038/ng.2349.
+Citation on PubMed
+or
+Free article on PubMed Central
+Loeys BL, Schwarze U, Holm T, Callewaert BL, Thomas GH, Pannu H, De Backer JF,
+Oswald GL, Symoens S, Manouvrier S, Roberts AE, Faravelli F, Greco MA, Pyeritz
+RE, Milewicz DM, Coucke PJ, Cameron DE, Braverman AC, Byers PH, De Paepe AM,
+Dietz HC. Aneurysm syndromes caused by mutations in the TGF-beta receptor. N Engl
+J Med. 2006 Aug 24;355(8):788-98. doi: 10.1056/NEJMoa055695.
+Citation on PubMed
+Luo M, Yang H, Yin K, Chen Q, Zhang J, Fan Y, Zhou Z, Chang Q. Genetic testing
+of 10 patients with features of Loeys-Dietz syndrome. Clin Chim Acta. 2016 May
+1;456:144-148. doi: 10.1016/j.cca.2016.02.005. Epub 2016 Feb 11.
+Citation on PubMed
+MacCarrick G, Black JH 3rd, Bowdin S, El-Hamamsy I, Frischmeyer-Guerrerio PA,
+Guerrerio AL, Sponseller PD, Loeys B, Dietz HC 3rd. Loeys-Dietz syndrome: a
+primer for diagnosis and management. Genet Med. 2014 Aug;16(8):576-87. doi:
+10.1038/gim.2014.11. Epub 2014 Feb 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Teixido-Tura G, Franken R, Galuppo V, Gutierrez Garcia-Moreno L, Borregan M,
+Mulder BJ, Garcia-Dorado D, Evangelista A. Heterogeneity of aortic disease
+severity in patients with Loeys-Dietz syndrome. Heart. 2016 Apr;102(8):626-32.
+doi: 10.1136/heartjnl-2015-308535. Epub 2016 Feb 4.
+Citation on PubMed
+van de Laar IM, van der Linde D, Oei EH, Bos PK, Bessems JH, Bierma-Zeinstra
+SM, van Meer BL, Pals G, Oldenburg RA, Bekkers JA, Moelker A, de Graaf BM, Matyas
+G, Frohn-Mulder IM, Timmermans J, Hilhorst-Hofstee Y, Cobben JM, Bruggenwirth HT,
+van Laer L, Loeys B, De Backer J, Coucke PJ, Dietz HC, Willems PJ, Oostra BA, De
+Paepe A, Roos-Hesselink JW, Bertoli-Avella AM, Wessels MW. Phenotypic spectrum of
+the SMAD3-related aneurysms-osteoarthritis syndrome. J Med Genet. 2012
+Jan;49(1):47-57. doi: 10.1136/jmedgenet-2011-100382.
+Citation on PubMed
+Van Hemelrijk C, Renard M, Loeys B. The Loeys-Dietz syndrome: an update for
+the clinician. Curr Opin Cardiol. 2010 Nov;25(6):546-51. doi:
+10.1097/HCO.0b013e32833f0220.
+Citation on PubMed
+Verhagen JMA, Kempers M, Cozijnsen L, Bouma BJ, Duijnhouwer AL, Post JG,
+Hilhorst-Hofstee Y, Bekkers SCAM, Kerstjens-Frederikse WS, van Brakel TJ,
+Lambermon E, Wessels MW, Loeys BL, Roos-Hesselink JW, van de Laar IMBH; National
+Working Group on BAV & TAA. Expert consensus recommendations on the
+cardiogenetic care for patients with thoracic aortic disease and their
+first-degree relatives. Int J Cardiol. 2018 May 1;258:243-248. doi:
+10.1016/j.ijcard.2018.01.145. Epub 2018 Feb 7.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Aortic Aneurysm
+Connective Tissue Disorders
+Genetic Disorders
+Osteoarthritis
+MEDICAL ENCYCLOPEDIA
+Aortic dissection
+Aortic Dissection (Image)
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

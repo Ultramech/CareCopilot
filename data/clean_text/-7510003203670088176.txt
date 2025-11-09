@@ -1,0 +1,132 @@
+Spastic paraplegia type 3A: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Spastic paraplegia type 3A
+URL of this page: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-3a/
+Spastic paraplegia type 3A
+Description
+Spastic paraplegia type 3A is one of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by muscle stiffness (spasticity) and weakness in the lower limbs (paraplegia). Hereditary spastic paraplegias are often divided into two types: pure and complex. The pure types involve only the lower limbs, while the complex types also involve other areas of the body; additional features can include changes in vision, changes in intellectual functioning, difficulty walking, and disturbances in nerve function (neuropathy). Spastic paraplegia type 3A is usually a pure hereditary spastic paraplegia, although a few complex cases have been reported.
+In addition to spasticity and weakness, which typically affect both legs equally, people with spastic paraplegia type 3A can also experience progressive muscle wasting (amyotrophy) in the lower limbs, reduced bladder control, an abnormal curvature of the spine (
+scoliosis
+), loss of sensation in the feet (peripheral neuropathy), or high arches of the feet (
+pes cavus
+). The signs and symptoms of spastic paraplegia type 3A usually appear before the age of 10; the average age of onset is 4 years. In some affected individuals the condition slowly worsens over time, sometimes leading to a need for walking support.
+Frequency
+Spastic paraplegia type 3A belongs to a subgroup of hereditary spastic paraplegias known as autosomal dominant hereditary spastic paraplegia, which has an estimated prevalence of 2 to 9 per 100,000 individuals. Spastic paraplegia type 3A accounts for 10 to 15 percent of all autosomal dominant hereditary spastic paraplegia cases.
+Causes
+Mutations in the
+ATL1
+gene cause spastic paraplegia type 3A. The
+ATL1
+gene provides instructions for producing a protein called atlastin-1. Atlastin-1 is produced primarily in the brain and spinal cord (central nervous system), particularly in nerve cells (
+neurons
+) that extend down the spinal cord (corticospinal tracts). These neurons send electrical signals that lead to voluntary muscle movement. Atlastin-1 is involved in the growth of specialized extensions of neurons, called axons, which transmit nerve impulses that signal muscle movement. The protein also likely plays a role in the normal functioning of multiple structures within neurons and in distributing materials within these cells.
+ATL1
+gene mutations likely lead to a shortage of normal atlastin-1 protein, which impairs the functioning of neurons, including the distribution of materials within these cells. This lack of functional atlastin-1 protein may also restrict the growth of axons. These problems can lead to the abnormal functioning or death of the long neurons of the corticospinal tracts. As a result, the neurons are unable to transmit nerve impulses, particularly to other neurons and muscles in the lower extremities. This impaired nerve function leads to the signs and symptoms of spastic paraplegia type 3A.
+Learn more about the gene associated with Spastic paraplegia type 3A
+ATL1
+Inheritance
+Spastic paraplegia type 3A is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In approximately 95 percent of cases, an affected person inherits the mutation from one affected parent.
+Other Names for This Condition
+Spastic paraplegia 3
+Spastic paraplegia 3A
+SPG3A
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary spastic paraplegia
+Genetic Testing Registry: Hereditary spastic paraplegia 3A
+Genetic and Rare Diseases Information Center
+Autosomal dominant spastic paraplegia type 3
+Hereditary spastic paraplegia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPASTIC PARAPLEGIA 3, AUTOSOMAL DOMINANT; SPG3A
+Scientific Articles on PubMed
+PubMed
+References
+Alvarez V, Sanchez-Ferrero E, Beetz C, Diaz M, Alonso B, Corao AI, Gamez J,
+Esteban J, Gonzalo JF, Pascual-Pascual SI, Lopez de Munain A, Moris G, Ribacoba
+R, Marquez C, Rosell J, Marin R, Garcia-Barcina MJ, Del Castillo E, Benito C,
+Coto E; Group for the Study of the Genetics of Spastic Paraplegia. Mutational
+spectrum of the SPG4 (SPAST) and SPG3A (ATL1) genes in Spanish patients with
+hereditary spastic paraplegia. BMC Neurol. 2010 Oct 8;10:89. doi:
+10.1186/1471-2377-10-89.
+Citation on PubMed
+or
+Free article on PubMed Central
+Blackstone C. Cellular pathways of hereditary spastic paraplegia. Annu Rev
+Neurosci. 2012;35:25-47. doi: 10.1146/annurev-neuro-062111-150400. Epub 2012 Apr
+20.
+Citation on PubMed
+Ivanova N, Claeys KG, Deconinck T, Litvinenko I, Jordanova A, Auer-Grumbach M,
+Haberlova J, Lofgren A, Smeyers G, Nelis E, Mercelis R, Plecko B, Priller J,
+Zamecnik J, Ceulemans B, Erichsen AK, Bjorck E, Nicholson G, Sereda MW, Seeman P,
+Kremensky I, Mitev V, De Jonghe P. Hereditary spastic paraplegia 3A associated
+with axonal neuropathy. Arch Neurol. 2007 May;64(5):706-13. doi:
+10.1001/archneur.64.5.706.
+Citation on PubMed
+Leonardi L, Marcotulli C, Santorelli FM, Tessa A, Casali C. De novo mutations
+in SPG3A: a challenge in differential diagnosis and genetic counselling. Neurol
+Sci. 2015 Jun;36(6):1063-4. doi: 10.1007/s10072-015-2097-1. Epub 2015 Jan 31. No
+abstract available.
+Citation on PubMed
+Leonardis L, Auer-Grumbach M, Papic L, Zidar J. The N355K atlastin 1 mutation
+is associated with hereditary sensory neuropathy and pyramidal tract features.
+Eur J Neurol. 2012 Jul;19(7):992-8. doi: 10.1111/j.1468-1331.2012.03665.x. Epub
+2012 Feb 16.
+Citation on PubMed
+Namekawa M, Ribai P, Nelson I, Forlani S, Fellmann F, Goizet C, Depienne C,
+Stevanin G, Ruberg M, Durr A, Brice A. SPG3A is the most frequent cause of
+hereditary spastic paraplegia with onset before age 10 years. Neurology. 2006 Jan
+10;66(1):112-4. doi: 10.1212/01.wnl.0000191390.20564.8e.
+Citation on PubMed
+Zhu PP, Soderblom C, Tao-Cheng JH, Stadler J, Blackstone C. SPG3A protein
+atlastin-1 is enriched in growth cones and promotes axon elongation during
+neuronal development. Hum Mol Genet. 2006 Apr 15;15(8):1343-53. doi:
+10.1093/hmg/ddl054. Epub 2006 Mar 14.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Neurologic Diseases
+Neuromuscular Disorders
+Paralysis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

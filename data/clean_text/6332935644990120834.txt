@@ -1,0 +1,124 @@
+Pyridoxal phosphate-responsive seizures: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pyridoxal phosphate-responsive seizures
+URL of this page: https://medlineplus.gov/genetics/condition/pyridoxal-phosphate-responsive-seizures/
+Pyridoxal phosphate-responsive seizures
+Description
+Pyridoxal phosphate-responsive seizures (sometimes called pyridoxamine 5'-phosphate oxidase deficiency or PNPO deficiency) is a condition in which repeated seizures (epilepsy) typically begin within the first two weeks of life. In approximately 10 percent of individuals with PNPO deficiency, the seizures have a later onset, beginning after the first month of life. The seizures typically involve irregular involuntary muscle contractions (myoclonus), abnormal eye movements, or convulsions. In some cases, the seizures may last for several minutes or the seizures may occur too close together to allow for recovery between episodes (status epilepticus). Some babies with PNPO deficiency will experience seizures before birth, and some will experience a slow heart rate and a lack of oxygen before delivery (fetal distress).
+Anticonvulsant medications, which are usually given to control seizures, are not effective in people with PNPO deficiency. Instead, individuals with PNPO deficiency require lifelong treatment with one of the following forms of vitamin B6: pyridoxal 5'-phosphate (PLP) or pyridoxine. If untreated, people with this condition can develop severe brain dysfunction (encephalopathy), which can lead to death. Even though seizures can be controlled with PLP or pyridoxine, people with PNPO deficiency may still experience neurological problems such as developmental delays, learning disorders, and uncontrolled movements (dystonia).
+Other conditions present with signs and symptoms that are very similar to those seen in people with PNPO deficiency. These include
+pyridoxine-dependent epilepsy
+caused by changes in the
+ALDH7A1
+gene and PLPBP deficiency caused by changes in the
+PLPBP
+gene. Individuals with these conditions are also typically treated with a form of vitamin B6.
+Frequency
+PNPO deficiency is a rare condition; as of 2022, approximately 90 individuals with PNPO deficiency have been described in the scientific literature.
+Causes
+Variants (also called mutations) in the
+PNPO
+gene cause PNPO deficiency. The
+PNPO
+gene provides instructions for producing an enzyme called pyridox(am)ine 5'-phosphate oxidase. This enzyme is involved in the breakdown (metabolism) of vitamin B6 into pyridoxal 5'-phosphate (PLP), the active form of vitamin B6. PLP is necessary for protein metabolism and the processing of chemicals that transmit signals in the brain (neurotransmitters).
+Variants in the
+PNPO
+gene cause the gene to produce a version of the pyridox(am)ine 5'-phosphate oxidase enzyme that is unable to metabolize vitamin B6, leading to a deficiency of PLP. A shortage of PLP can disrupt the function of many other proteins and enzymes that need PLP in order to be effective. Because PLP plays an important role in neurotransmitter metabolism, a lack of PLP is believed to cause the seizures that are characteristic of PNPO deficiency.
+Learn more about the gene associated with Pyridoxal phosphate-responsive seizures
+PNPO
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+PNPO deficiency
+PNPO-related neonatal epileptic encephalopathy
+PNPOD
+Pyridoxal 5′-phosphate-dependent epilepsy
+Pyridoxal phosphate-dependent seizures
+Pyridoxamine 5'-oxidase deficiency
+Pyridoxamine 5'-phosphate oxidase deficiency
+Pyridoxamine 5-prime-phosphate oxidase deficiency
+Pyridoxine-resistant seizures, PLP-sensitive
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pyridoxal phosphate-responsive seizures
+Genetic and Rare Diseases Information Center
+Pyridoxal phosphate-responsive seizures
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PYRIDOXAMINE 5-PRIME-PHOSPHATE OXIDASE DEFICIENCY; PNPOD
+Scientific Articles on PubMed
+PubMed
+References
+Bagci S, Zschocke J, Hoffmann GF, Bast T, Klepper J, Muller A, Heep A,
+Bartmann P, Franz AR. Pyridoxal phosphate-dependent neonatal epileptic
+encephalopathy. Arch Dis Child Fetal Neonatal Ed. 2008 Mar;93(2):F151-2. doi:
+10.1136/adc.2006.115162.
+Citation on PubMed
+Hoffmann GF, Schmitt B, Windfuhr M, Wagner N, Strehl H, Bagci S, Franz AR,
+Mills PB, Clayton PT, Baumgartner MR, Steinmann B, Bast T, Wolf NI, Zschocke J.
+Pyridoxal 5'-phosphate may be curative in early-onset epileptic encephalopathy. J
+Inherit Metab Dis. 2007 Feb;30(1):96-9. doi: 10.1007/s10545-006-0508-4. Epub 2006
+Dec 23.
+Citation on PubMed
+Khayat M, Korman SH, Frankel P, Weintraub Z, Hershckowitz S, Sheffer VF,
+Elisha MB, Wevers RA, Falik-Zaccai TC. PNPO deficiency: an under diagnosed inborn
+error of pyridoxine metabolism. Mol Genet Metab. 2008 Aug;94(4):431-434. doi:
+10.1016/j.ymgme.2008.04.008. Epub 2008 May 15.
+Citation on PubMed
+Mills PB, Surtees RA, Champion MP, Beesley CE, Dalton N, Scambler PJ, Heales
+SJ, Briddon A, Scheimberg I, Hoffmann GF, Zschocke J, Clayton PT. Neonatal
+epileptic encephalopathy caused by mutations in the PNPO gene encoding
+pyridox(am)ine 5'-phosphate oxidase. Hum Mol Genet. 2005 Apr 15;14(8):1077-86.
+doi: 10.1093/hmg/ddi120. Epub 2005 Mar 16.
+Citation on PubMed
+Plecko B, Mills P. PNPO Deficiency. 2022 Jun 23. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK581452/
+Citation on PubMed
+Related Health Topics
+Epilepsy
+Genetic Disorders
+Seizures
+MEDICAL ENCYCLOPEDIA
+Genetics
+Lactic acidosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,141 @@
+Intensity-Modulated Radiation Therapy (IMRT): Procedure Details
+Home
+/
+Health Library
+/
+Medical Treatments
+/
+Intensity-Modulated Radiation Therapy (IMRT)
+Advertisement
+Advertisement
+Intensity-Modulated Radiation Therapy (IMRT)
+Intensity-modulated radiation therapy (IMRT) is a form of radiation used to treat cancer. IMRT uses a machine to send multiple energy beams of varying strengths to a tumor. This treatment kills cancer cells and shrinks tumors while sparing nearby healthy tissue from harmful radiation exposure.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Contents
+Arrow Down
+Overview
+Treatment Details
+Risks / Benefits
+Recovery and Outlook
+Overview
+What is intensity-modulated radiation therapy (IMRT)?
+Intensity-modulated radiation therapy (IMRT) is a type of
+radiation treatment
+for
+cancer
+. Specifically, IMRT is a form of
+external beam radiation therapy
+. With external beam radiation therapy, a machine called a linear accelerator (LINAC) directs radiation in the form of high-energy X-ray beams toward cancer cells, destroying them. The machine never touches your body.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+IMRT uses sophisticated technology to design energy beams that vary in strength, or intensity. IMRT allows your healthcare provider (a radiation oncologist) to direct radiation to cancer cells while minimizing exposing nearby healthy tissue to harmful amounts of radiation.
+Why is IMRT done?
+Intensity-modulated radiation therapy kills cancer cells and shrinks
+tumors
+while minimizing damage to nearby healthy tissue. All external beam radiation therapy types, including IMRT, direct high-energy beams toward tumors to damage cancer cells. The challenge is that tumors are often close to healthy cells.
+IMRT may allow more precise cell destruction within a treatment area than some other forms of radiation. Its precision makes IMRT a good option for treating tumors in sensitive areas, where radiation exposure could affect sensitive organs. For example, IMRT can treat tumors and protect surrounding tissues such as your spinal cord, brainstem and optic nerves.
+IMRT is also used to treat:
+Breast cancer
+.
+Cervical cancer
+.
+Colon cancer
+.
+Lung cancer
+.
+Prostate cancer
+.
+Stomach cancer
+.
+Uterine cancer
+.
+Other cancer types.
+Treatment Details
+Who performs IMRT?
+A radiation oncology team designs and delivers IMRT. Team members include:
+A
+radiation oncologist
+, who plans and directs treatment.
+A
+physicist
+and
+dosimetrist
+, who design the energy beams that carry radiation to the tumor.
+A
+radiation therapist
+, who operates the machine that directs the radiation to the tumor during treatment sessions.
+Advertisement
+How does IMRT work?
+Intensity-modulated radiation therapy uses images of the tumor to design customized energy beams capable of destroying it. Before treatment, you’ll receive a
+CT scan
+,
+MRI
+or
+PET scan
+that takes pictures of the tumor. The images show the tumor’s location and its size and shape. Your radiation oncologist inputs the images into a special computer program that uses the tumor’s dimensions to design multiple energy beams or a beam that rotates in an arc up to 360 degrees.
+Each beam can be adjusted so they’re a different strength. This capability allows for precise fine-tuning so parts of a tumor with a higher concentration of cells receive higher doses of radiation. In contrast, parts of a tumor near healthy cells receive lower doses of radiation.
+A medical physicist and dosimetrist program this information into the LINAC machine that delivers the radiation.
+What happens before IMRT?
+Before treatment, you’ll attend a planning session called simulation, or “sim.” The goal of simulation is to gather the information your radiation oncology team needs to design your treatment.
+During sim:
+You’ll undergo a CT scan showing the tumor. You may receive an MRI or a PET scan, too.
+You’ll receive tattoo dots on your body to align your body to the LINAC. The markings are about the size of a freckle. In some instances, they’re drawn on, but they must remain throughout treatment.
+Your radiation oncology team will determine how you should be positioned during simulation, so the machine can deliver energy beams at the precise angles needed to target the tumor. You may need to be fitted for special accessories to help you stay in position during treatment. For example, you may need a custom mold to keep your body in place.
+Your radiation oncology team will use the information from sim to design energy beams of varying intensity to target the tumor.
+What happens during IMRT?
+The dosing schedule varies, depending on your type of cancer. Usually, you’ll receive treatment during short sessions (approximately 30 minutes), often over several days to weeks. Most people receive IMRT daily, Monday through Friday. Treatment may last up to several weeks, depending on your cancer.
+During treatment:
+You’ll be positioned as you were during sim. Your radiation therapist will help you with any molds used to keep the treatment area perfectly still.
+Your radiation therapist will leave to operate the LINAC machine from a separate room. They’ll be able to view you on a monitor from the nearby room to make sure everything’s going smoothly. You’ll be able to communicate via a two-way intercom.
+The machine will shift positions as it delivers multiple energy beams to the treatment fields. It may make clicking and whirring sounds as it shifts. This is normal.
+Intensity-modulated radiation therapy is a painless procedure. You won’t feel the radiation during treatment.
+What happens after IMRT?
+You’ll be able to leave after treatment. IMRT is an outpatient procedure, which means you can go home that same day.
+Advertisement
+Risks / Benefits
+What are the advantages of IMRT?
+Intensity-modulated radiation therapy relies on precise technology that can kill cancer cells while sparing surrounding healthy tissue. Shielding healthy tissue from radiation exposure decreases damage, which means you may experience fewer side effects.
+IMRT may be a safer option when treating tumors near essential organs, like your brain or spinal cord.
+What are the disadvantages of IMRT?
+Although there’s a reduced risk that IMRT will damage healthy cells, it can still cause
+side effects
+. Also, while IMRT is a fairly quick procedure to deliver, because it’s complex, it may take slightly more time to plan than other external beam radiation therapy types.
+Volumetric modulated arc therapy (VMAT)
+, a different kind of radiation therapy, usually takes less time during individual treatment sessions than IMRT.
+Recovery and Outlook
+What is the recovery time for IMRT?
+Your recovery time depends on many factors, including your radiation dose, the frequency of treatment, which body part received radiation, etc. Many people who experience side effects feel better within a few weeks, while others need a month or two.
+Your radiation
+oncologist
+will explain what side effects you may experience and what to expect during recovery based on your circumstances.
+How can I care for myself during recovery?
+Your body may need plenty of rest during treatment and recovery. Help your body heal by eating a healthy diet and staying hydrated.
+Advertisement
+Depending on what part of your body is being treated, your skin may be affected. For example, it may be especially sensitive to sunlight. To take care of sensitive skin, you should:
+Wear loose-fitting, comfortable clothes.
+Use personal hygiene products that don’t contain harsh ingredients or perfumes.
+Avoid applying heating pads or ice packs on skin directly exposed to radiation.
+Protect your skin from sun damage by wearing light, loose-fitting clothes outside. Apply sunscreen to exposed skin that can’t be covered.
+Follow your radiation oncologist’s instructions when it comes to caring for yourself during treatment and recovery.
+A note from Cleveland Clinic
+Intensity-modulated radiation therapy (IMRT) customizes radiation treatment based on your cancer. It’s a precise treatment method customized to fit the shape of a tumor and deliver energy beams of varying intensity. Talk to your radiation oncologist about how IMRT will influence your treatment outcomes and your experience of potential side effects.
+Advertisement
+Medically Reviewed
+Last reviewed on 09/01/2022.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Cancer Answer Line
+866.223.8100
+Appointments & Locations
+Request an Appointment
+Search Clinical Trials

@@ -1,0 +1,154 @@
+Tetra-amelia syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Tetra-amelia syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/tetra-amelia-syndrome/
+Tetra-amelia syndrome
+Description
+Tetra-amelia syndrome (sometimes known as TETAMS) is a very rare disorder characterized by the absence of all four limbs. ("Tetra" is the Greek word for "four," and "amelia" refers to the failure of an arm or leg to develop before birth.)
+This syndrome can also cause severe malformations of other parts of the body, including the nervous system, face, head, heart, skeleton, gastrointestinal system, urinary tract, and genitalia. The lungs are underdeveloped in many cases, which makes breathing difficult or impossible. Because children with tetra-amelia syndrome have such serious medical problems, most are stillborn or die shortly after birth.
+There are two forms of tetra-amelia syndrome that have been described, and while the features overlap, they are distinguished by their signs and symptoms and genetic cause.
+Tetra-amelia syndrome type 1 is typically characterized by severe gastrointestinal problems. These problems include an opening in the abdomen through which various abdominal organs can protrude
+(
+abdominal wall defect
+), abnormalities in the muscle (
+diaphragm
+) that separates the organs in the abdomen from those in the chest, and lack of an anal opening (imperforate anus). People with type 1 also tend to have frequent
+urinary tract
+problems, such as a lack of kidney development (renal agenesis).
+Tetra-amelia syndrome type 2 is usually characterized by complete absence of both lungs. Affected individuals often have heart abnormalities, such as defects in the walls between the chambers of the heart (
+septal defects
+) or absence of the
+mitral valve
+, which connects the two left chambers of the heart. People with type 2 can also have facial abnormalities that include partial or complete fusion of the upper and lower eyelids, the bottom of the tongue attached to the floor of the mouth, or a small lower jaw (micrognathia).
+Frequency
+Tetra-amelia syndrome is a very rare condition that has been described in only a few families worldwide. Because this condition is so severe, the frequency is reported to be at least 30 times higher among stillbirths than among live births.
+Causes
+Variants (also called mutations) in two genes have been found to cause tetra-amelia syndrome. Variants in the
+WNT3
+gene cause tetra-amelia syndrome type 1 and variants in the
+RSPO2
+gene cause tetra-amelia syndrome type 2.
+The
+WNT3
+gene is one of a
+family of WNT genes
+that are part of a process called Wnt signaling, which is involved in regulating cell growth and development before birth. The protein produced from the
+WNT3
+gene is particularly involved in the formation of the limbs and neurological development.
+The
+RSPO2
+gene provides instructions for making a protein called R-spondin-2. The role of this protein is to increase Wnt signaling. Specifically, R-spondin-2, attaches (binds) to certain proteins on the surface of cells to turn off (inactivate) proteins that block Wnt signaling.
+The variants in the
+WNT3
+or
+RSPO2
+gene that cause tetra-amelia syndrome likely prevent cells from producing any functional protein. As a result, Wnt signaling is impaired and normal limb formation is disrupted, which leads to the serious birth defects associated with tetra-amelia syndrome types 1 and 2.
+In some affected individuals, the cause of tetra-amelia syndrome has not been determined. Researchers believe that unidentified mutations in
+WNT3
+,
+RSPO2
+, or other genes involved in limb development are probably responsible for the disorder in these cases.
+Learn more about the genes associated with Tetra-amelia syndrome
+RSPO2
+WNT3
+Inheritance
+Tetra-amelia syndrome appears to have an
+autosomal recessive pattern
+of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with tetra-amelia syndrome each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.
+Other Names for This Condition
+TETAMS
+Tetra-amelia
+Tetra-amelia, autosomal recessive
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Tetraamelia syndrome 1
+Genetic Testing Registry: TETRAAMELIA SYNDROME 2
+Genetic and Rare Diseases Information Center
+Tetra-amelia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+TETRAAMELIA SYNDROME 1; TETAMS1
+TETRAAMELIA SYNDROME 2; TETAMS2
+Scientific Articles on PubMed
+PubMed
+References
+Krahn M, Julia S, Sigaudy S, Liprandi A, Bernard R, Gonnet K, Heuertz S,
+Bonaventure J, Chau C, Fredouille C, Levy N, Philip N. Tetra-amelia and lung
+aplasia syndrome: report of a new family and exclusion of candidate genes. Clin
+Genet. 2005 Dec;68(6):558-60. doi: 10.1111/j.1399-0004.2005.00531.x. No abstract
+available.
+Citation on PubMed
+Niemann S, Zhao C, Pascu F, Stahl U, Aulepp U, Niswander L, Weber JL, Muller
+U. Homozygous WNT3 mutation causes tetra-amelia in a large consanguineous family.
+Am J Hum Genet. 2004 Mar;74(3):558-63. doi: 10.1086/382196. Epub 2004 Feb 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ohdo S, Sonoda T, Ohba K. Natural history and postmortem anatomy of a patient
+with tetra-amelia, ectodermal dysplasia, peculiar face, and developmental
+retardation (MIM 273390). J Med Genet. 1994 Dec;31(12):980-1. doi:
+10.1136/jmg.31.12.980-a. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rosenak D, Ariel I, Arnon J, Diamant YZ, Ben Chetrit A, Nadjari M, Zilberman
+R, Yaffe H, Cohen T, Ornoy A. Recurrent tetraamelia and pulmonary hypoplasia with
+multiple malformations in sibs. Am J Med Genet. 1991 Jan;38(1):25-8. doi:
+10.1002/ajmg.1320380107.
+Citation on PubMed
+Szenker-Ravi E, Altunoglu U, Leushacke M, Bosso-Lefevre C, Khatoo M, Thi Tran
+H, Naert T, Noelanders R, Hajamohideen A, Beneteau C, de Sousa SB, Karaman B,
+Latypova X, Basaran S, Yucel EB, Tan TT, Vlaminck L, Nayak SS, Shukla A, Girisha
+KM, Le Caignec C, Soshnikova N, Uyguner ZO, Vleminckx K, Barker N, Kayserili H,
+Reversade B. RSPO2 inhibition of RNF43 and ZNRF3 governs limb development
+independently of LGR4/5/6. Nature. 2018 May;557(7706):564-569. doi:
+10.1038/s41586-018-0118-y. Epub 2018 May 16.
+Citation on PubMed
+Zimmer EZ, Taub E, Sova Y, Divon MY, Pery M, Peretz BA. Tetra-amelia with
+multiple malformations in six male fetuses of one kindred. Eur J Pediatr. 1985
+Nov;144(4):412-4. doi: 10.1007/BF00441792.
+Citation on PubMed
+Zlotogora J, Sagi M, Shabany YO, Jarallah RY. Syndrome of tetraamelia with
+pulmonary hypoplasia. Am J Med Genet. 1993 Sep 15;47(4):570-1. doi:
+10.1002/ajmg.1320470427. No abstract available.
+Citation on PubMed
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

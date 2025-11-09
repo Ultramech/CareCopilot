@@ -1,0 +1,188 @@
+Pol III-related leukodystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pol III-related leukodystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/pol-iii-related-leukodystrophy/
+Pol III-related leukodystrophy
+Description
+Pol III-related leukodystrophy is a disorder that affects the nervous system and other parts of the body. Leukodystrophies are conditions that involve abnormalities of the nervous system's white matter, which consists of nerve cells (
+neurons
+) covered by a fatty substance called myelin. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses.
+Pol III-related leukodystrophy is a hypomyelinating disease, which means that the nervous system of affected individuals has a reduced ability to form myelin. Hypomyelination underlies most of the neurological problems associated with Pol III-related leukodystrophy. A small number of people with this disorder also have a loss of nerve cells in a part of the
+brain
+involved in coordinating movements (cerebellar atrophy) and underdevelopment (hypoplasia) of tissue that connects the left and right halves of the brain (the corpus callosum). These brain abnormalities likely contribute to the neurological problems in affected individuals.
+People with Pol III-related leukodystrophy usually have intellectual disability ranging from mild to severe, which gradually worsens over time. Some affected individuals have normal intelligence in early childhood but develop mild intellectual disability during the course of the disease.
+Difficulty coordinating movements (ataxia), which begins in childhood and slowly worsens over time, is a characteristic feature of Pol III-related leukodystrophy. Affected children typically have delayed development of motor skills such as walking. Their gait is unstable, and they usually walk with their feet wide apart for balance. Affected individuals may eventually need to use a walker or wheelchair. Involuntary rhythmic shaking (tremor) of the arms and hands may occur in this disorder. In some cases the tremor occurs mainly during movement (intention tremor); other affected individuals experience the tremor both during movement and at rest.
+Development of the teeth (dentition) is often abnormal in Pol III-related leukodystrophy, resulting in the absence of some teeth (known as hypodontia or oligodontia). Some affected infants are born with a few teeth (natal teeth), which fall out during the first weeks of life. The primary (deciduous) teeth appear later than usual, beginning at about age 2. In Pol III-related leukodystrophy, the teeth may not appear in the usual sequence, in which front teeth (incisors) appear before back teeth (molars). Instead, molars often appear first, with incisors appearing later or not at all. Permanent teeth are also delayed, and may not appear until adolescence. The teeth may also be unusually shaped.
+Some individuals with Pol III-related leukodystrophy have excessive salivation and difficulty chewing or swallowing (dysphagia), which can lead to choking. They may also have speech impairment (dysarthria). People with Pol III-related leukodystrophy often have abnormalities in eye movement, such as progressive vertical gaze palsy, which is restricted up-and-down eye movement that worsens over time.
+Nearsightedness
+is common in affected individuals, and clouding of the lens of the eyes (
+cataracts
+) has also been reported. Deterioration (atrophy) of the nerves that carry information from the eyes to the brain (the optic nerves) and seizures may also occur in this disorder.
+Hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development, may occur in Pol III-related leukodystrophy. Affected individuals have delayed development of the typical signs of puberty, such as the growth of body hair.
+People with Pol III-related leukodystrophy may have different combinations of its signs and symptoms. These varied combinations of clinical features were originally described as separate disorders. Affected individuals may be diagnosed with ataxia, delayed dentition, and hypomyelination (ADDH); hypomyelination, hypodontia, hypogonadotropic hypogonadism (4H syndrome); tremor-ataxia with central hypomyelination (TACH); leukodystrophy with oligodontia (LO); or hypomyelination with cerebellar atrophy and hypoplasia of the corpus callosum (HCAHC). Because these disorders were later found to have the same genetic cause, researchers now group them as variations of the single condition Pol III-related leukodystrophy.
+Frequency
+Pol III-related leukodystrophy is a rare disorder; its prevalence is unknown. More than 100 affected individuals have been described in the medical literature.
+Causes
+Pol III-related leukodystrophy is caused by mutations in the
+POLR3A
+or
+POLR3B
+gene. These genes provide instructions for making the two largest parts (subunits) of an enzyme called RNA polymerase III. This enzyme is involved in the production (synthesis) of ribonucleic acid (RNA), a chemical cousin of DNA. The RNA polymerase III enzyme attaches (binds) to DNA and synthesizes RNA in accordance with the instructions carried by the DNA, a process called transcription. RNA polymerase III helps synthesize several forms of RNA, including ribosomal RNA (rRNA) and
+transfer RNA (tRNA)
+. Molecules of rRNA and tRNA assemble protein building blocks (
+amino acids
+) into working proteins; this process is essential for the normal functioning and survival of cells.
+Researchers suggest that mutations in the
+POLR3A
+or
+POLR3B
+gene may impair the ability of subunits of the RNA polymerase III enzyme to assemble properly or result in an RNA polymerase III with impaired ability to bind to DNA. Reduced function of the RNA polymerase III molecule likely affects development and function of many parts of the body, including the nervous system and the teeth, but the relationship between
+POLR3A
+and
+POLR3B
+gene mutations and the specific signs and symptoms of Pol III-related leukodystrophy is unknown.
+Learn more about the genes associated with Pol III-related leukodystrophy
+POLR3A
+POLR3B
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+4H syndrome
+ADDH
+Ataxia, delayed dentition, and hypomyelination
+Dentoleukoencephalopathy
+HCAHC
+HLD7
+HLD8
+Hypomyelination with cerebellar atrophy and hypoplasia of the corpus callosum
+Hypomyelination, hypodontia, hypogonadotropic hypogonadism
+Leukodystrophy with oligodontia
+Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/or hypogonadotropic hypogonadism
+Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism
+Leukoencephalopathy-ataxia-hypodontia-hypomyelination
+LO
+Odontoleukodystrophy
+Pol III disorder
+Pol III-related hypomyelinating leukodystrophies
+Ribonucleic acid polymerase III-related leukodystrophy
+TACH
+Tremor-ataxia with central hypomyelination
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: POLR-related leukodystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LEUKODYSTROPHY, HYPOMYELINATING, 7, WITH OR WITHOUT OLIGODONTIA AND/OR HYPOGONADOTROPIC HYPOGONADISM; HLD7
+LEUKODYSTROPHY, HYPOMYELINATING, 8, WITH OR WITHOUT OLIGODONTIA AND/OR HYPOGONADOTROPIC HYPOGONADISM; HLD8
+Scientific Articles on PubMed
+PubMed
+References
+Bernard G, Chouery E, Putorti ML, Tetreault M, Takanohashi A, Carosso G,
+Clement I, Boespflug-Tanguy O, Rodriguez D, Delague V, Abou Ghoch J, Jalkh N,
+Dorboz I, Fribourg S, Teichmann M, Megarbane A, Schiffmann R, Vanderver A, Brais
+B. Mutations of POLR3A encoding a catalytic subunit of RNA polymerase Pol III
+cause a recessive hypomyelinating leukodystrophy. Am J Hum Genet. 2011 Sep
+9;89(3):415-23. doi: 10.1016/j.ajhg.2011.07.014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Cayami FK, La Piana R, van Spaendonk RM, Nickel M, Bley A, Guerrero K, Tran
+LT, van der Knaap MS, Bernard G, Wolf NI. POLR3A and POLR3B Mutations in
+Unclassified Hypomyelination. Neuropediatrics. 2015 Jun;46(3):221-8. doi:
+10.1055/s-0035-1550148. Epub 2015 May 8.
+Citation on PubMed
+Daoud H, Tetreault M, Gibson W, Guerrero K, Cohen A, Gburek-Augustat J,
+Synofzik M, Brais B, Stevens CA, Sanchez-Carpintero R, Goizet C, Naidu S,
+Vanderver A, Bernard G. Mutations in POLR3A and POLR3B are a major cause of
+hypomyelinating leukodystrophies with or without dental abnormalities and/or
+hypogonadotropic hypogonadism. J Med Genet. 2013 Mar;50(3):194-7. doi:
+10.1136/jmedgenet-2012-101357. Epub 2013 Jan 25.
+Citation on PubMed
+Potic A, Brais B, Choquet K, Schiffmann R, Bernard G. 4H syndrome with
+late-onset growth hormone deficiency caused by POLR3A mutations. Arch Neurol.
+2012 Jul;69(7):920-3. doi: 10.1001/archneurol.2011.1963.
+Citation on PubMed
+Sato I, Onuma A, Goto N, Sakai F, Fujiwara I, Uematsu M, Osaka H, Okahashi S,
+Nonaka I, Tanaka S, Haginoya K. A case with central and peripheral
+hypomyelination with hypogonadotropic hypogonadism and hypodontia (4H syndrome)
+plus cataract. J Neurol Sci. 2011 Jan 15;300(1-2):179-81. doi:
+10.1016/j.jns.2010.09.009. Epub 2010 Sep 29.
+Citation on PubMed
+Terao Y, Saitsu H, Segawa M, Kondo Y, Sakamoto K, Matsumoto N, Tsuji S, Nomura
+Y. Diffuse central hypomyelination presenting as 4H syndrome caused by compound
+heterozygous mutations in POLR3A encoding the catalytic subunit of polymerase
+III. J Neurol Sci. 2012 Sep 15;320(1-2):102-5. doi: 10.1016/j.jns.2012.07.005.
+Epub 2012 Jul 21.
+Citation on PubMed
+Tetreault M, Choquet K, Orcesi S, Tonduti D, Balottin U, Teichmann M, Fribourg
+S, Schiffmann R, Brais B, Vanderver A, Bernard G. Recessive mutations in POLR3B,
+encoding the second largest subunit of Pol III, cause a rare hypomyelinating
+leukodystrophy. Am J Hum Genet. 2011 Nov 11;89(5):652-5. doi:
+10.1016/j.ajhg.2011.10.006. Epub 2011 Oct 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vanderver A, Tonduti D, Bernard G, Lai J, Rossi C, Carosso G, Quezado M, Wong
+K, Schiffmann R. More than hypomyelination in Pol-III disorder. J Neuropathol Exp
+Neurol. 2013 Jan;72(1):67-75. doi: 10.1097/NEN.0b013e31827c99d2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wolf NI, Vanderver A, van Spaendonk RM, Schiffmann R, Brais B, Bugiani M,
+Sistermans E, Catsman-Berrevoets C, Kros JM, Pinto PS, Pohl D, Tirupathi S,
+Stromme P, de Grauw T, Fribourg S, Demos M, Pizzino A, Naidu S, Guerrero K, van
+der Knaap MS, Bernard G; 4H Research Group. Clinical spectrum of 4H
+leukodystrophy caused by POLR3A and POLR3B mutations. Neurology. 2014 Nov
+18;83(21):1898-905. doi: 10.1212/WNL.0000000000001002. Epub 2014 Oct 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+Leukodystrophies
+MEDICAL ENCYCLOPEDIA
+Corpus Callosum of the Brain (Image)
+Genetics
+Hypogonadotropic hypogonadism
+Movement - uncoordinated
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

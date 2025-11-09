@@ -1,0 +1,130 @@
+Distal myopathy 2: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Distal myopathy 2
+URL of this page: https://medlineplus.gov/genetics/condition/distal-myopathy-2/
+Distal myopathy 2
+Description
+Distal myopathy 2 is a condition characterized by weakness of specific muscles that begins in adulthood. It is a form of muscular dystrophy that specifically involves muscles in the throat, lower legs, and forearms. Muscles farther from the center of the body, like the muscles of the lower legs and forearms, are known as distal muscles.
+Muscle weakness in the ankles is usually the first symptom of distal myopathy 2. The weakness can also affect muscles in the hands, wrists, and shoulders. At first, the muscle weakness may be on only one side of the body, but both sides are eventually involved. This muscle weakness can slowly worsen and make actions like walking and lifting the fingers difficult.
+Another characteristic feature of distal myopathy 2 is weakness of
+the vocal cords and throat
+. This weakness initially causes the voice to sound weak or breathy (hypophonic). Eventually, the voice becomes gurgling, hoarse, and nasal. The weakness can also cause difficulty swallowing (dysphagia).
+Frequency
+The prevalence of distal myopathy 2 is unknown. At least two families with the condition have been described in the scientific literature.
+Causes
+A mutation in the
+MATR3
+gene has been identified in people with distal myopathy 2. This gene provides instructions for making a protein called matrin 3, which is found in the
+nucleus
+of the cell as part of the nuclear matrix. The nuclear matrix is a network of proteins that provides structural support for the nucleus and aids in several important nuclear functions.
+The function of the matrin 3 protein is unknown. This protein can attach to (bind) RNA, which is a chemical cousin of DNA. Some studies indicate that matrin 3 binds and stabilizes a type of RNA called
+messenger RNA
+(mRNA), which provides the genetic blueprint for proteins. Matrin 3 may also bind certain abnormal RNAs that might lead to nonfunctional or harmful proteins, thereby blocking the formation of such proteins. Other studies suggest that the matrin 3 protein may be involved in cell survival.
+The
+MATR3
+gene mutation identified in people with distal myopathy 2 changes a single protein building block (
+amino acid
+) in the matrin 3 protein. The effect of this mutation on the function of the protein is unknown, although one study suggests that the mutation may change the location of the protein in the nucleus. Researchers are working to determine how this gene mutation leads to the signs and symptoms of distal myopathy 2.
+Learn more about the gene associated with Distal myopathy 2
+MATR3
+Inheritance
+Distal myopathy 2 is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered
+MATR3
+gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Distal myopathy with vocal cord and pharyngeal signs
+Distal myopathy with vocal cord weakness
+Matrin 3 distal myopathy
+MPD2
+Myopathia distalis type 2
+VCPDM
+Vocal cord and pharyngeal weakness with distal myopathy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Amyotrophic lateral sclerosis type 21
+Genetic and Rare Diseases Information Center
+Vocal cord and pharyngeal distal myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+AMYOTROPHIC LATERAL SCLEROSIS 21; ALS21
+Scientific Articles on PubMed
+PubMed
+References
+Feit H, Silbergleit A, Schneider LB, Gutierrez JA, Fitoussi RP, Reyes C,
+Rouleau GA, Brais B, Jackson CE, Beckmann JS, Seboun E. Vocal cord and pharyngeal
+weakness with autosomal dominant distal myopathy: clinical description and gene
+localization to 5q31. Am J Hum Genet. 1998 Dec;63(6):1732-42. doi:
+10.1086/302166.
+Citation on PubMed
+or
+Free article on PubMed Central
+Przygodzka P, Boncela J, Cierniewski CS. Matrin 3 as a key regulator of
+endothelial cell survival. Exp Cell Res. 2011 Apr 1;317(6):802-11. doi:
+10.1016/j.yexcr.2010.12.009. Epub 2010 Dec 21.
+Citation on PubMed
+Salton M, Elkon R, Borodina T, Davydov A, Yaspo ML, Halperin E, Shiloh Y.
+Matrin 3 binds and stabilizes mRNA. PLoS One. 2011;6(8):e23882. doi:
+10.1371/journal.pone.0023882. Epub 2011 Aug 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Senderek J, Garvey SM, Krieger M, Guergueltcheva V, Urtizberea A, Roos A,
+Elbracht M, Stendel C, Tournev I, Mihailova V, Feit H, Tramonte J, Hedera P,
+Crooks K, Bergmann C, Rudnik-Schoneborn S, Zerres K, Lochmuller H, Seboun E, Weis
+J, Beckmann JS, Hauser MA, Jackson CE. Autosomal-dominant distal myopathy
+associated with a recurrent missense mutation in the gene encoding the nuclear
+matrix protein, matrin 3. Am J Hum Genet. 2009 Apr;84(4):511-8. doi:
+10.1016/j.ajhg.2009.03.006. Epub 2009 Apr 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zhang Z, Carmichael GG. The fate of dsRNA in the nucleus: a
+p54(nrb)-containing complex mediates the nuclear retention of promiscuously
+A-to-I edited RNAs. Cell. 2001 Aug 24;106(4):465-75. doi:
+10.1016/s0092-8674(01)00466-4.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+Muscular Dystrophy
+MEDICAL ENCYCLOPEDIA
+Genetics
+Muscular dystrophy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

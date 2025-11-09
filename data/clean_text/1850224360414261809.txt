@@ -1,0 +1,144 @@
+Leber hereditary optic neuropathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Leber hereditary optic neuropathy
+URL of this page: https://medlineplus.gov/genetics/condition/leber-hereditary-optic-neuropathy/
+Leber hereditary optic neuropathy
+Description
+Leber hereditary optic neuropathy (LHON) is an inherited form of vision loss. Although this condition usually begins in a person's teens or twenties, rare cases may appear in early childhood or later in adulthood. For unknown reasons, males are affected much more often than females.
+Blurring and clouding of vision are usually the first symptoms of LHON. These vision problems may begin in one eye or simultaneously in both eyes; if vision loss starts in one eye, the other eye is usually affected within several weeks or months. Over time, vision in both eyes worsens with a severe loss of sharpness (visual acuity) and color vision. This condition mainly affects central vision, which is needed for detailed tasks such as reading, driving, and recognizing faces. Vision loss results from the death of cells in the nerve that relays visual information from the eyes to the brain (the optic nerve). Although central vision gradually improves in a small percentage of cases, in most cases the vision loss is profound and permanent.
+Vision loss is typically the only symptom of LHON; however, some families with additional signs and symptoms have been reported. In these individuals, the condition is described as "LHON plus." In addition to vision loss, the features of LHON plus can include movement disorders, tremors, and abnormalities of the
+electrical signals that control the heartbeat
+(cardiac conduction defects). Some affected individuals develop features similar to
+multiple sclerosis
+, which is a chronic disorder characterized by muscle weakness, poor coordination, numbness, and a variety of other health problems.
+Frequency
+The prevalence of LHON in most populations is unknown. It affects 1 in 30,000 to 50,000 people in northeast England and Finland.
+Causes
+Mutations in the
+MT-ND1
+,
+MT-ND4
+,
+MT-ND4L
+, or
+MT-ND6
+gene can cause LHON. These genes are found in the DNA of cellular structures called
+mitochondria
+, which convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA, known as
+mitochondrial DNA
+or mtDNA.
+The genes associated with LHON each provide instructions for making a protein involved in normal mitochondrial function. These proteins are part of a large enzyme complex in mitochondria that helps convert oxygen, fats, and simple sugars to energy. Mutations in any of the genes disrupt this process. It remains unclear how these genetic changes cause the death of cells in the optic nerve and lead to the specific features of LHON.
+A significant percentage of people with a mutation that causes LHON do not develop any features of the disorder. Specifically, more than 50 percent of males with a mutation and more than 85 percent of females with a mutation never experience vision loss or related health problems. Additional factors may determine whether a person develops the signs and symptoms of this disorder. Environmental factors such as smoking and alcohol use may be involved, although studies have produced conflicting results. Researchers are also investigating whether changes in additional genes contribute to the development of signs and symptoms.
+Learn more about the genes and chromosome associated with Leber hereditary optic neuropathy
+MT-ND1
+MT-ND4
+MT-ND4L
+MT-ND6
+mitochondrial dna
+Inheritance
+LHON has a
+mitochondrial pattern of inheritance
+, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in
+mtDNA
+. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.
+Often, people who develop the features of LHON have no family history of the condition. Because a person may carry an mtDNA mutation without experiencing any signs or symptoms, it is hard to predict which members of a family who carry a mutation will eventually develop vision loss or other problems associated with LHON. It is important to note that all females with an mtDNA mutation, even those who do not have any signs or symptoms, will pass the genetic change to their children.
+Other Names for This Condition
+Hereditary optic neuroretinopathy
+Leber hereditary optic atrophy
+Leber optic atrophy
+Leber's hereditary optic neuropathy
+Leber's optic atrophy
+Leber's optic neuropathy
+LHON
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Leber optic atrophy
+Genetic and Rare Diseases Information Center
+Leber hereditary optic neuropathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LEBER OPTIC ATROPHY
+LEBER HEREDITARY OPTIC NEUROPATHY, MODIFIER OF; LOAM
+Scientific Articles on PubMed
+PubMed
+References
+Mroczek-Tonska K, Kisiel B, Piechota J, Bartnik E. Leber hereditary optic
+neuropathy--a disease with a known molecular basis but a mysterious mechanism of
+pathology. J Appl Genet. 2003;44(4):529-38.
+Citation on PubMed
+Newman NJ. Hereditary optic neuropathies: from the mitochondria to the optic
+nerve. Am J Ophthalmol. 2005 Sep;140(3):517-23. doi: 10.1016/j.ajo.2005.03.017.
+Citation on PubMed
+Spruijt L, Kolbach DN, de Coo RF, Plomp AS, Bauer NJ, Smeets HJ, de
+Die-Smulders CE. Influence of mutation type on clinical expression of Leber
+hereditary optic neuropathy. Am J Ophthalmol. 2006 Apr;141(4):676-82. doi:
+10.1016/j.ajo.2005.11.007.
+Citation on PubMed
+Tonska K, Kodron A, Bartnik E. Genotype-phenotype correlations in Leber
+hereditary optic neuropathy. Biochim Biophys Acta. 2010
+Jun-Jul;1797(6-7):1119-23. doi: 10.1016/j.bbabio.2010.02.032. Epub 2010 Mar 6.
+Citation on PubMed
+Yu-Wai-Man P, Chinnery PF. Leber Hereditary Optic Neuropathy. 2000 Oct 26
+[updated 2021 Mar 11]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1174/
+Citation on PubMed
+Yu-Wai-Man P, Griffiths PG, Hudson G, Chinnery PF. Inherited mitochondrial
+optic neuropathies. J Med Genet. 2009 Mar;46(3):145-58. doi:
+10.1136/jmg.2007.054270. Epub 2008 Nov 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yu-Wai-Man P, Turnbull DM, Chinnery PF. Leber hereditary optic neuropathy. J
+Med Genet. 2002 Mar;39(3):162-9. doi: 10.1136/jmg.39.3.162.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Mitochondrial Diseases
+Optic Nerve Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Blindness - resources
+Blindness and vision loss
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

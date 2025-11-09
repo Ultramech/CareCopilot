@@ -1,0 +1,117 @@
+Gnathodiaphyseal dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Gnathodiaphyseal dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/gnathodiaphyseal-dysplasia/
+Gnathodiaphyseal dysplasia
+Description
+Gnathodiaphyseal dysplasia is a disorder that affects the bones. People with this condition have reduced bone mineral density (osteopenia), which causes the bones to be unusually fragile. As a result, affected individuals typically experience multiple bone fractures in childhood, often from mild trauma or with no apparent cause.
+While most bone tissue is less dense than normal in gnathodiaphyseal dysplasia, the outer layer (cortex) of the shafts of the long bones in the arms and legs is abnormally hard and thick (diaphyseal sclerosis). Bowing of the long bones also occurs in this disorder.
+Jaw problems are common in gnathodiaphyseal dysplasia; the prefix "gnatho-" in the condition name refers to the jaw. Affected individuals may develop bone infections (osteomyelitis) in the jaw, which can lead to pain, swelling, discharge of pus from the gums, loose teeth, and slow healing after teeth are lost or extracted. Areas of the jawbone may lose the protective coverage of the gums, which can result in deterioration of the exposed bone (osteonecrosis of the jaw). Also, normal bone in areas of the jaw may be replaced by fibrous tissue and a hard material called cementum, which normally surrounds the roots of teeth and anchors them in the jaw. These areas of abnormal bone, called cementoosseous lesions, may be present at birth or develop later in life.
+When gnathodiaphyseal dysplasia was first described, it was thought to be a variation of another bone disorder called
+osteogenesis imperfecta
+, which is also characterized by frequent bone fractures. However, gnathodiaphyseal dysplasia is now generally considered to be a separate condition. Unlike in osteogenesis imperfecta, the fractures in gnathodiaphyseal dysplasia heal normally without causing deformity or loss of height.
+Frequency
+The prevalence of gnathodiaphyseal dysplasia is unknown, but it is thought to be a rare disorder. A few affected individuals and families have been described in the medical literature.
+Causes
+Gnathodiaphyseal dysplasia is caused by mutations in the
+ANO5
+gene, which provides instructions for making a protein called anoctamin-5. While the specific function of this protein is not well understood, it belongs to a family of proteins, called anoctamins, that act as chloride channels. Studies suggest that most anoctamin channels are turned on (activated) in the presence of positively charged calcium atoms (calcium ions); these channels are known as calcium-activated chloride channels. The mechanism for this calcium activation is unclear.
+The
+ANO5
+gene mutations that have been identified in people with gnathodiaphyseal dysplasia change single protein building blocks (amino acids) in the anoctamin-5 protein. It is unclear how these protein changes lead to the fragile bones, jaw problems, and other skeletal abnormalities that occur in gnathodiaphyseal dysplasia. Researchers suggest that the mutations may affect the way cells process calcium, an important mineral in bone development and growth.
+Learn more about the gene associated with Gnathodiaphyseal dysplasia
+ANO5
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+GDD
+Gnathodiaphyseal sclerosis
+Levin syndrome 2
+Osteogenesis imperfecta with unusual skeletal lesions
+Osteogenesis imperfecta, Levin type
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Gnathodiaphyseal dysplasia
+Genetic and Rare Diseases Information Center
+Gnathodiaphyseal dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+GNATHODIAPHYSEAL DYSPLASIA; GDD
+Scientific Articles on PubMed
+PubMed
+References
+Ahluwalia J, Ly JQ, Norman E, Costello RF Jr, Beall DP. Gnathodiaphyseal
+dysplasia. Clin Imaging. 2007 Jan-Feb;31(1):67-9. doi:
+10.1016/j.clinimag.2006.07.003.
+Citation on PubMed
+Herman TE, Siegel MJ, Sargar K. Gnathodiaphyseal dysplasia. J Perinatol. 2014
+May;34(5):412-4. doi: 10.1038/jp.2013.178. No abstract available.
+Citation on PubMed
+Marconi C, Brunamonti Binello P, Badiali G, Caci E, Cusano R, Garibaldi J,
+Pippucci T, Merlini A, Marchetti C, Rhoden KJ, Galietta LJ, Lalatta F, Balbi P,
+Seri M. A novel missense mutation in ANO5/TMEM16E is causative for
+gnathodiaphyseal dyplasia in a large Italian pedigree. Eur J Hum Genet. 2013
+Jun;21(6):613-9. doi: 10.1038/ejhg.2012.224. Epub 2012 Oct 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Riminucci M, Collins MT, Corsi A, Boyde A, Murphey MD, Wientroub S, Kuznetsov
+SA, Cherman N, Robey PG, Bianco P. Gnathodiaphyseal dysplasia: a syndrome of
+fibro-osseous lesions of jawbones, bone fragility, and long bone bowing. J Bone
+Miner Res. 2001 Sep;16(9):1710-8. doi: 10.1359/jbmr.2001.16.9.1710.
+Citation on PubMed
+Tsutsumi S, Kamata N, Vokes TJ, Maruoka Y, Nakakuki K, Enomoto S, Omura K,
+Amagasa T, Nagayama M, Saito-Ohara F, Inazawa J, Moritani M, Yamaoka T, Inoue H,
+Itakura M. The novel gene encoding a putative transmembrane protein is mutated in
+gnathodiaphyseal dysplasia (GDD). Am J Hum Genet. 2004 Jun;74(6):1255-61. doi:
+10.1086/421527. Epub 2004 Apr 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Bone Density
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Bone mineral density test
+Bowlegs
+Genetics
+Skeletal limb abnormalities
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

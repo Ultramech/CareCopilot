@@ -1,0 +1,175 @@
+Renal tubular acidosis with deafness: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Renal tubular acidosis with deafness
+URL of this page: https://medlineplus.gov/genetics/condition/renal-tubular-acidosis-with-deafness/
+Renal tubular acidosis with deafness
+Description
+Renal tubular acidosis with deafness is a disorder characterized by kidney (renal) problems and hearing loss. The kidneys normally
+filter fluid and waste products
+from the body and remove them in urine; however, in people with this disorder, the kidneys do not remove enough acidic compounds from the body. Instead, the acids are absorbed back into the bloodstream, and the blood becomes too acidic. This chemical imbalance, called metabolic acidosis, can result in a range of signs and symptoms that vary in severity. Metabolic acidosis often causes nausea, vomiting, and dehydration; affected infants tend to have problems feeding and gaining weight (failure to thrive). Most children and adults with renal tubular acidosis with deafness have short stature, and many develop
+kidney stones
+.
+The metabolic acidosis that occurs in renal tubular acidosis with deafness may also lead to
+softening and weakening of the bones
+, called rickets in children and osteomalacia in adults. This bone disorder is characterized by bone pain, bowed legs, and difficulty walking. Rarely, people with renal tubular acidosis with deafness have episodes of hypokalemic paralysis, a condition that causes extreme muscle weakness associated with low levels of potassium in the blood (hypokalemia).
+In people with renal tubular acidosis with deafness, hearing loss caused by changes in the
+inner ear
+(sensorineural hearing loss) usually begins between childhood and young adulthood, and gradually gets worse. An inner ear abnormality affecting both ears occurs in most people with this disorder. This feature, which is called enlarged vestibular aqueduct, can be seen with medical imaging. The vestibular aqueduct is a bony canal that runs from the inner ear into the temporal bone of the skull and toward the brain. The relationship between enlarged vestibular aqueduct and hearing loss is unclear. In renal tubular acidosis with deafness, enlarged vestibular aqueduct typically occurs in individuals whose hearing loss begins in childhood.
+Frequency
+Renal tubular acidosis with deafness is a rare disorder; its prevalence is unknown.
+Causes
+Renal tubular acidosis with deafness is caused by mutations in the
+ATP6V1B1
+or
+ATP6V0A4
+gene. These genes provide instructions for making proteins that are parts (subunits) of a large protein complex known as vacuolar H
++
+-ATPase (V-ATPase). V-ATPases are a group of similar complexes that act as pumps to move positively charged hydrogen atoms (protons) across membranes. Because acids are substances that can "donate" protons to other molecules, this movement of protons helps regulate the relative acidity (pH) of cells and their surrounding environment. Tight control of pH is necessary for most biological reactions to proceed properly.
+The V-ATPase that includes subunits produced from the
+ATP6V1B1
+and
+ATP6V0A4
+genes is found in the
+inner ear
+and in
+nephrons
+, which are the functional structures within the kidneys. Each nephron consists of two parts: a renal corpuscle (also known as a glomerulus) that filters the blood, and a renal tubule that reabsorbs substances that are needed and eliminates unneeded substances in urine. The V-ATPase is involved in regulating the amount of acid that is removed from the blood into the urine, and also in maintaining the proper pH of the fluid in the inner ear (endolymph).
+Mutations in the
+ATP6V1B1
+or
+ATP6V0A4
+gene impair the function of the V-ATPase complex and reduce the body's capability to control the pH of the blood and the fluid in the inner ear, resulting in the signs and symptoms of renal tubular acidosis with deafness.
+Learn more about the genes associated with Renal tubular acidosis with deafness
+ATP6V0A4
+ATP6V1B1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+AR dRTA with deafness
+AR dRTA with hearing loss
+Autosomal recessive distal renal tubular acidosis with deafness
+Renal tubular acidosis type 1b
+Renal tubular acidosis with progressive nerve deafness
+Renal tubular acidosis, autosomal recessive, with progressive nerve deafness
+Renal tubular acidosis, distal, with progressive nerve deafness
+RTA with progressive nerve deafness
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Renal tubular acidosis with progressive nerve deafness
+Genetic and Rare Diseases Information Center
+Autosomal recessive distal renal tubular acidosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+RENAL TUBULAR ACIDOSIS, DISTAL, 2, WITH PROGRESSIVE SENSORINEURAL HEARING LOSS; DRTA2
+Scientific Articles on PubMed
+PubMed
+References
+Alper SL. Familial renal tubular acidosis. J Nephrol. 2010 Nov-Dec;23 Suppl
+16:S57-76.
+Citation on PubMed
+Andreucci E, Bianchi B, Carboni I, Lavoratti G, Mortilla M, Fonda C, Bigozzi
+M, Genuardi M, Giglio S, Pela I. Inner ear abnormalities in four patients with
+dRTA and SNHL: clinical and genetic heterogeneity. Pediatr Nephrol. 2009
+Nov;24(11):2147-53. doi: 10.1007/s00467-009-1261-3. Epub 2009 Jul 29.
+Citation on PubMed
+Batlle D, Haque SK. Genetic causes and mechanisms of distal renal tubular
+acidosis. Nephrol Dial Transplant. 2012 Oct;27(10):3691-704. doi:
+10.1093/ndt/gfs442.
+Citation on PubMed
+Gil H, Santos F, Garcia E, Alvarez MV, Ordonez FA, Malaga S, Coto E. Distal
+RTA with nerve deafness: clinical spectrum and mutational analysis in five
+children. Pediatr Nephrol. 2007 Jun;22(6):825-8. doi: 10.1007/s00467-006-0417-7.
+Epub 2007 Jan 11.
+Citation on PubMed
+Li X, Chai Y, Tao Z, Li L, Huang Z, Li Y, Wu H, Yang T. Novel mutations in
+ATP6V0A4 are associated with atypical progressive sensorineural hearing loss in a
+Chinese patient with distal renal tubular acidosis. Int J Pediatr
+Otorhinolaryngol. 2012 Jan;76(1):152-4. doi: 10.1016/j.ijporl.2011.10.017. Epub
+2011 Nov 16.
+Citation on PubMed
+Mohebbi N, Vargas-Poussou R, Hegemann SC, Schuknecht B, Kistler AD, Wuthrich
+RP, Wagner CA. Homozygous and compound heterozygous mutations in the ATP6V1B1
+gene in patients with renal tubular acidosis and sensorineural hearing loss. Clin
+Genet. 2013 Mar;83(3):274-8. doi: 10.1111/j.1399-0004.2012.01891.x. Epub 2012 May
+11.
+Citation on PubMed
+Nikali K, Vanegas JJ, Burley MW, Martinez J, Lopez LM, Bedoya G, Wrong OM,
+Povey S, Unwin RJ, Ruiz-Linares A. Extensive founder effect for distal renal
+tubular acidosis (dRTA) with sensorineural deafness in an isolated South American
+population. Am J Med Genet A. 2008 Oct 15;146A(20):2709-12. doi:
+10.1002/ajmg.a.32495. No abstract available.
+Citation on PubMed
+Sethi SK, Singh N, Gil H, Bagga A. Genetic studies in a family with distal
+renal tubular acidosis and sensorineural deafness. Indian Pediatr. 2009
+May;46(5):425-7.
+Citation on PubMed
+Stover EH, Borthwick KJ, Bavalia C, Eady N, Fritz DM, Rungroj N, Giersch AB,
+Morton CC, Axon PR, Akil I, Al-Sabban EA, Baguley DM, Bianca S, Bakkaloglu A,
+Bircan Z, Chauveau D, Clermont MJ, Guala A, Hulton SA, Kroes H, Li Volti G, Mir
+S, Mocan H, Nayir A, Ozen S, Rodriguez Soriano J, Sanjad SA, Tasic V, Taylor CM,
+Topaloglu R, Smith AN, Karet FE. Novel ATP6V1B1 and ATP6V0A4 mutations in
+autosomal recessive distal renal tubular acidosis with new evidence for hearing
+loss. J Med Genet. 2002 Nov;39(11):796-803. doi: 10.1136/jmg.39.11.796.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vargas-Poussou R, Houillier P, Le Pottier N, Strompf L, Loirat C, Baudouin V,
+Macher MA, Dechaux M, Ulinski T, Nobili F, Eckart P, Novo R, Cailliez M, Salomon
+R, Nivet H, Cochat P, Tack I, Fargeot A, Bouissou F, Kesler GR, Lorotte S,
+Godefroid N, Layet V, Morin G, Jeunemaitre X, Blanchard A. Genetic investigation
+of autosomal recessive distal renal tubular acidosis: evidence for early
+sensorineural hearing loss associated with mutations in the ATP6V0A4 gene. J Am
+Soc Nephrol. 2006 May;17(5):1437-43. doi: 10.1681/ASN.2005121305. Epub 2006 Apr
+12.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Hearing Disorders and Deafness
+Hearing Problems in Children
+Kidney Diseases
+MEDICAL ENCYCLOPEDIA
+Audiometry
+Distal renal tubular acidosis
+Genetics
+Hearing loss
+Kidney function tests
+Metabolic acidosis
+Sensorineural deafness
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

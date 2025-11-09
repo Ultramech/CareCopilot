@@ -1,0 +1,169 @@
+Malignant hyperthermia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Malignant hyperthermia
+URL of this page: https://medlineplus.gov/genetics/condition/malignant-hyperthermia/
+Malignant hyperthermia
+Description
+Malignant hyperthermia is a severe reaction to particular anesthetic drugs that are often used during surgery and other invasive procedures. Specifically, this reaction occurs in response to some anesthetic gases, which are used to block the sensation of pain, either given alone or in combination with a muscle relaxant that is used to temporarily paralyze a person during a surgical procedure. If given these drugs, people at risk of malignant hyperthermia may experience a rapid increase in heart rate and body temperature (hyperthermia), abnormally fast breathing, muscle rigidity, breakdown of
+muscle fibers
+(rhabdomyolysis), and increased acid levels in the blood and other tissues (acidosis). Without prompt treatment and cessation of the drugs, the body's reaction can cause multiple organs to be unable to function, including the heart (cardiac arrest) and kidneys (renal failure), and it can cause a blood clotting abnormality called disseminated intravascular coagulation. These complications may be life-threatening. (In medicine, the term malignant refers to conditions that are dangerous to one's health.)
+People at increased risk of this disorder are said to have malignant hyperthermia susceptibility. Affected individuals may never know they have the condition unless they have a severe reaction to anesthesia during a surgical procedure or they undergo testing (for instance, if susceptibility is suspected because a family member had a severe reaction). Malignant hyperthermia may not occur every time anesthesia is used. Many individuals who develop a severe reaction have previously been exposed to a triggering drug and not had a reaction.
+Affected individuals may be at increased risk for "awake" malignant hyperthermia, in which the severe reaction occurs in response to physical activity, often while sick, rather than in reaction to exposure to a triggering drug.
+While malignant hyperthermia often occurs in people without other serious medical problems, certain inherited muscle diseases (including
+central core disease
+,
+multiminicore disease
+, and
+STAC3 disorder
+) are associated with malignant hyperthermia susceptibility.
+Frequency
+Malignant hyperthermia occurs in 1 in 5,000 to 50,000 instances in which people are given anesthetic gases. Susceptibility to malignant hyperthermia is probably more frequent, because many people with an increased risk of this condition are never exposed to drugs that would trigger a reaction and bring them to medical attention.
+Causes
+Certain variations of the
+RYR1
+and
+CACNA1S
+genes increase the risk of developing malignant hyperthermia. Mutations in the
+RYR1
+gene account for most cases of malignant hyperthermia susceptibility, while mutations in the
+CACNA1S
+gene cause less than 1 percent of all cases of malignant hyperthermia susceptibility.
+The
+RYR1
+and
+CACNA1S
+genes provide instructions for making proteins that play essential roles in muscles used for movement (
+skeletal muscles
+). For the body to move normally, these muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of certain charged atoms (ions) in muscle cells. The proteins produced from the
+RYR1
+and
+CACNA1S
+genes are involved in the movement of calcium ions within muscle cells. In response to certain signals, the CACNA1S protein helps turn on (activate) the RYR1 channel. When the RYR1 channel is active, it releases calcium ions from storage into the fluid-filled space inside muscle cells. The resulting increase in calcium ion concentration inside the cells stimulates muscles to contract.
+Mutations in the
+RYR1
+or
+CACNA1S
+gene cause the RYR1 channel to open more easily and close more slowly in response to certain drugs. As a result, abnormally large amounts of calcium ions are released from storage within muscle cells. The abnormal increase in calcium ion concentration within muscle cells activates processes that generate heat (leading to increased body temperature) and produce excess acid (leading to acidosis). An overabundance of calcium ions also causes skeletal muscles to contract, which leads to muscle rigidity.
+Up to half of people with malignant hyperthermia susceptibility do not have a mutation in one of the known genes. The causes of these cases are still under study.
+Learn more about the genes associated with Malignant hyperthermia
+CACNA1S
+RYR1
+Inheritance
+Malignant hyperthermia susceptibility is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to increase the risk of a severe reaction to certain drugs used during surgery. In most cases, an affected person inherits the altered gene from a parent who is also at risk for the condition.
+Other Names for This Condition
+Anesthesia related hyperthermia
+Hyperpyrexia, malignant
+Hyperthermia, malignant
+Malignant hyperpyrexia
+MHS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Malignant hyperthermia, susceptibility to, 1
+Genetic Testing Registry: Malignant hyperthermia, susceptibility to, 4
+Genetic Testing Registry: Malignant hyperthermia, susceptibility to, 5
+Genetic Testing Registry: Malignant hyperthermia, susceptibility to, 6
+Genetic and Rare Diseases Information Center
+King-Denborough syndrome
+Malignant hyperthermia of anesthesia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 1; MHS1
+MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 2
+MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 3
+MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 5; MHS5
+MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 6
+MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 4
+Scientific Articles on PubMed
+PubMed
+References
+Ellinas H, Albrecht MA. Malignant Hyperthermia Update. Anesthesiol Clin. 2020
+Mar;38(1):165-181. doi: 10.1016/j.anclin.2019.10.010.
+Citation on PubMed
+Kraeva N, Sapa A, Dowling JJ, Riazi S. Malignant hyperthermia susceptibility
+in patients with exertional rhabdomyolysis: a retrospective cohort study and
+updated systematic review. Can J Anaesth. 2017 Jul;64(7):736-743. doi:
+10.1007/s12630-017-0865-5. Epub 2017 Mar 21.
+Citation on PubMed
+Litman RS, Rosenberg H. Malignant hyperthermia: update on susceptibility
+testing. JAMA. 2005 Jun 15;293(23):2918-24. doi: 10.1001/jama.293.23.2918.
+Citation on PubMed
+Riazi S, Biesecker LG, Rosenberg H, Dirksen RT. Nonsyndromic Malignant
+Hyperthermia Susceptibility. 2003 Dec 19 [updated 2025 Aug 7]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1146/
+Citation on PubMed
+Riazi S, Kraeva N, Hopkins PM. Malignant Hyperthermia in the Post-Genomics
+Era: New Perspectives on an Old Concept. Anesthesiology. 2018 Jan;128(1):168-180.
+doi: 10.1097/ALN.0000000000001878.
+Citation on PubMed
+or
+Free article on PubMed Central
+Riazi S, Kraeva N, Hopkins PM. Updated guide for the management of malignant
+hyperthermia. Can J Anaesth. 2018 Jun;65(6):709-721. doi:
+10.1007/s12630-018-1108-0. Epub 2018 Mar 29.
+Citation on PubMed
+Treves S, Anderson AA, Ducreux S, Divet A, Bleunven C, Grasso C, Paesante S,
+Zorzato F. Ryanodine receptor 1 mutations, dysregulation of calcium homeostasis
+and neuromuscular disorders. Neuromuscul Disord. 2005 Oct;15(9-10):577-87. doi:
+10.1016/j.nmd.2005.06.008.
+Citation on PubMed
+Zaharieva IT, Sarkozy A, Munot P, Manzur A, O'Grady G, Rendu J, Malfatti E,
+Amthor H, Servais L, Urtizberea JA, Neto OA, Zanoteli E, Donkervoort S, Taylor J,
+Dixon J, Poke G, Foley AR, Holmes C, Williams G, Holder M, Yum S, Medne L,
+Quijano-Roy S, Romero NB, Faure J, Feng L, Bastaki L, Davis MR, Phadke R, Sewry
+CA, Bonnemann CG, Jungbluth H, Bachmann C, Treves S, Muntoni F. STAC3 variants
+cause a congenital myopathy with distinctive dysmorphic features and malignant
+hyperthermia susceptibility. Hum Mutat. 2018 Dec;39(12):1980-1994. doi:
+10.1002/humu.23635. Epub 2018 Oct 11.
+Citation on PubMed
+Zvaritch E, Gillies R, Kraeva N, Richer M, Jungbluth H, Riazi S. Fatal awake
+malignant hyperthermia episodes in a family with malignant hyperthermia
+susceptibility: a case series. Can J Anaesth. 2019 May;66(5):540-545. doi:
+10.1007/s12630-019-01320-z. Epub 2019 Feb 19.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Malignant hyperthermia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

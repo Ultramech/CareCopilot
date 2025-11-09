@@ -1,0 +1,179 @@
+Continuous Glucose Monitoring (CGM): What It Is
+Home
+/
+Health Library
+/
+Articles
+/
+Continuous Glucose Monitoring (CGM)
+Advertisement
+Advertisement
+Continuous Glucose Monitoring (CGM)
+Continuous glucose monitoring (CGM) devices help you manage diabetes with fewer fingerstick checks. A sensor just under your skin measures your glucose levels 24 hours a day. A transmitter sends results to a wearable device or cell phone so you can track changes to your glucose level in real time. Learning how to use a CGM takes time, but it can help you more easily manage your health.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Diabetes Care
+Make an Appointment
+Contents
+Arrow Down
+Overview
+Additional Common Questions
+Overview
+CGM systems have different options for viewing your CGM data.
+What is continuous glucose monitoring (CGM)?
+Continuous glucose monitoring (CGM) is wearable technology that tracks your glucose (sugar) levels over time. It measures the glucose level in the interstitial fluid just under your skin 24 hours a day while you’re wearing the device. People also call it a continuous glucose monitor (a CGM).
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+A CGM device is mainly a tool for people with
+diabetes
+. Managing diabetes involves
+managing your blood sugar
+levels. A CGM gives you real-time information on how your glucose levels are changing. This is especially important because several factors affect blood sugar levels — some of which you can’t predict.
+There are several types of CGM devices on the market, and the technology is rapidly evolving. Some CGMs connect with
+insulin pumps
+to offer automated insulin delivery systems. Talk to your healthcare provider if you’re interested in learning more about CGMs.
+What is interstitial fluid?
+Interstitial fluid is the fluid in the spaces around your cells. It comes from substances that leak out of your blood
+capillaries
+. One of these substances is glucose (sugar).
+The sensor in a CGM goes just under your skin where this fluid is — not in a
+blood vessel
+. It measures the glucose in your interstitial fluid.
+Glucose hits your bloodstream first and then leaks into your interstitial fluid. So, there’s a lag between your blood glucose level and interstitial glucose level. This means there may be a few minutes delay in your CGM sensor glucose readings compared with fingerstick (manual) blood glucose readings.
+How does a continuous glucose monitor (CGM) work?
+You can choose among a handful of CGM devices available today. Each works pretty much the same way. The main differences are in a device’s features, look and feel.
+Advertisement
+But all CGMs have three basic components:
+Sensor
+: The sensor is a tiny piece of material that measures real-time glucose levels in your interstitial fluid. You’ll insert the sensor under your skin with an applicator. It uses a needle to pierce your skin. You remove the needle, and it leaves the sensor in place. Sensors typically last seven to 15 days, depending on the brand. The implantable CGM system lasts for months. It’s a small pellet (about 18 millimeters long) that a healthcare provider inserts under the skin of your upper arm.
+Transmitter
+: All CGM systems use a transmitter to wirelessly send the glucose data from the sensor to a device where you can view it. For some CGM systems, the transmitter is reusable and attaches to each new sensor. For other CGM systems, the transmitter is part of the disposable sensor.
+Smartphone app, receiver or insulin pump
+: This technology displays your real-time glucose level and shows a graph of the history of your levels. It can also show whether your glucose level is trending up or down — and how drastically. Most CGMs offer smartphone apps for viewing data. Some offer handheld devices if you don’t use a smartphone. Some CGM devices can also send the glucose information to a compatible insulin pump.
+In general, here’s how a CGM works:
+You insert a small sensor just under your skin, usually on your belly or arm. An applicator makes this part quick and easy to do. Adhesive tape holds the sensor in place.
+You’ll either connect the CGM transmitter to the sensor or the sensor and transmitter will already be connected when you insert it. You must charge some transmitters before connecting them to the sensor. You may also want to place additional adhesive over the transmitter and sensor to keep it in place on your skin.
+Depending on the type of CGM, there’ll be a “warm-up” time before the sensor will share data. This typically ranges from 30 minutes to two hours.
+Most CGMs start sharing glucose data automatically after the warm-up. Some require a fingerstick blood glucose calibration before they start sharing data.
+You’ll then see your current glucose level on your smartphone app, receiver or insulin pump for as long as the sensor lasts. You can set certain alarms and settings for your app, receiver or pump to alert you to when your glucose is out of range. These ranges vary from person to person.
+Once the sensor expires (or fails), you’ll start the process over again.
+You can download CGM data (trends and history) to a computer at any time. Some CGM systems will send data continuously. You can also share the information with your healthcare provider.
+Advertisement
+Are CGMs easy to use?
+CGM devices are complex little machines. They do require some upfront time to understand their technical aspects.
+For example, you’ll need to learn how to:
+Insert the sensor properly.
+Calibrate the device with fingerstick blood glucose readings (if necessary).
+Set device alarms.
+Transfer data to a computer (for long-term analysis) or your phone.
+Respond to and make changes to your care plan based on the collected data.
+It takes time and patience to understand how a CGM device works. But you don’t have to do it alone. Once you’ve decided to get a CGM — and have a prescription for it — a qualified professional will help you learn how to use it safely. Your provider may recommend taking a diabetes education class or speaking one-on-one with a
+certified diabetes care and education specialist (CDCES)
+.
+Do I still have to do fingerstick checks while using a CGM?
+Using a CGM should drastically decrease the number of times you need to do a fingerstick. But it’s still important to have a fingerstick meter and unexpired supplies on hand. If your CGM fails or falls off unexpectedly, you can use the fingerstick meter to check your glucose level until you can apply a new sensor.
+Fingerstick checks can also act as a backup tool to confirm CGM results. Like all technology, CGMs can be inaccurate. If your CGM reading seems questionable, it’s always a good idea to do a fingerstick check to be sure. For example, a fingerstick check may give you peace of mind if your CGM device shows rising or falling numbers, but you feel OK. It can also provide answers if you don’t feel well, but the CGM says your glucose levels are in range.
+Advertisement
+You may also need to do fingerstick checks to calibrate (set up or adjust) a CGM device.
+Can people without diabetes use a CGM?
+CGMs are mainly for people with diabetes. But healthcare providers may recommend CGMs for other conditions that impact glucose levels, like:
+Prediabetes
+.
+Obesity
+.
+Certain
+glycogen storage diseases
+, which can cause frequent
+low blood sugar
+episodes.
+Insulinoma
+, a rare tumor that releases excess
+insulin
+and causes severe low blood sugar.
+Talk to your healthcare provider if you think a CGM may benefit your health.
+What are the advantages of using a CGM to manage diabetes?
+Using a CGM device can make it easier to manage diabetes. Several studies show that people with Type 1 and Type 2 diabetes who use a CGM have fewer episodes of low blood sugar and a lower
+A1C
+.
+A CGM device can:
+Show you a bigger picture of how diabetes affects you
+: CGM measures glucose levels every few minutes. That data shows a more complete picture of how your glucose levels change over time. This information can help you and your healthcare provider better understand how things like food, activity, stress and illness impact your glucose levels.
+Lead to more personalized care
+: CGM doesn’t give the whole story of all the ways diabetes affects you. It tells you when glucose goes up or down, not why. But you and your provider can download CGM data from your device and review it for patterns and trends. Together, you and your provider can personalize your care based on what you learn.
+Alert you to highs and lows
+: Most CGM devices send an alert when your glucose levels rise or fall a certain amount. With this information, you can make changes quickly. You may be able to treat or prevent
+high blood sugar
+or low blood sugar episodes before they turn into bigger issues.
+Reduce how many fingerstick checks you need
+: CGMs significantly reduce how many fingerstick checks you’ll need to do each day.
+Advertisement
+Do I need a CGM to manage diabetes?
+You can regularly check your blood glucose levels using a fingerstick with a blood glucose monitor. Many people do just that.
+But fingerstick checks only measure blood glucose at one moment in time. It’s like reading one page of a book. Doing more fingerstick checks gives you more snapshots, which can offer clues to what’s happening with your blood sugar levels.
+The vast majority of diabetes experts recommend the use of a CGM to manage diabetes. It provides significantly more information about blood sugar trends than fingerstick checks alone.
+What are the limitations of CGMs?
+CGMs are extremely helpful tools. But they have some limitations. Like all technology, CGM systems can run into issues, be inaccurate or fail. Your CGM trainer will go over issues to look out for and how to troubleshoot them.
+Certain medications and supplements can also affect the accuracy of certain CGM sensors, including:
+Acetaminophen
+(Tylenol® or Panadol®).
+Hydroxyurea
+, a medication for
+sickle cell anemia
+.
+Vitamin C
+(ascorbic acid).
+These medications and supplements may make your CGM read your glucose level as higher or lower than it actually is. It’s important to check with the manufacturer of your CGM device to see what may affect the accuracy of it.
+What are the drawbacks of CGMs?
+Some things that you may see as drawbacks of CGMs include:
+Cost
+: CGMs and the supplies they require can be expensive compared to just using fingerstick checks. The cost varies based on your healthcare insurance plan.
+Information overload
+: While the extensive information that CGMs provide can be very helpful, it can also be overwhelming. For some, this could worsen diabetes distress or burnout. It may also trigger
+disordered eating
+.
+Alarm fatigue
+: Depending on your settings, you may get several alarms a day from your CGM. This can become distressing and lead to burnout. It may also disrupt your sleep.
+It’s always attached to your body
+: All CGMs are an extra piece of hardware attached to your body. This can take time to get used to. There are many discreet ways to cover them up if you want to.
+Issues with adhesives
+: Some people experience
+allergic reactions
+to the skin adhesives CGM devices use.
+Consider making an appointment with a CDCES if you’re facing any of these challenges. They can teach you tips and tricks to make a CGM easier to use.
+When should I contact my healthcare provider?
+Reach out to your diabetes healthcare provider if you have any questions about how to use a CGM device safely.
+Very high or low blood sugar levels can be dangerous when left untreated for too long. In the most severe cases, this can lead to seizures,
+coma
+or even death. You can avoid these complications by keeping blood sugar levels in a healthy range. Call your provider if you have any symptoms you’re worried about.
+Care at Cleveland Clinic
+Diabetes Care
+Make an Appointment
+Additional Common Questions
+Can you get a CGM without a doctor?
+Currently, there’s one CGM that’s available over the counter (OTC). That means you don’t need a healthcare provider or prescription to get it. Other CGM manufacturers are also in the process of making OTC CGMs.
+OTC CGMs may not be suitable for people who use insulin to manage diabetes or who experience significant low blood sugar episodes. Make sure you understand the capabilities and limitations of OTC CGMs before using them.
+A note from Cleveland Clinic
+Managing diabetes can feel like trying to hit the bullseye of a moving target — it’s very difficult to begin with. With just fingerstick checks, it’s as if you’re blindfolded until the second before you’re able to throw the dart. With a CGM, it’s as if you can watch the target moving — its direction and how fast or slow it’s moving — before you throw the dart. CGMs are a very powerful tool to have in your diabetes management toolbelt. Talk to your healthcare provider if you want to learn more about using one.
+Care at Cleveland Clinic
+Whether you’ve been living with diabetes for years or you’re newly diagnosed, you want experts you can trust. Our team at Cleveland Clinic is here to help.
+Diabetes Care
+Make an Appointment
+Medically Reviewed
+Last reviewed on 05/24/2024.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointments
+216.444.6568
+Appointments & Locations
+Request an Appointment
+Virtual Visits for Diabetes

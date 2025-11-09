@@ -1,0 +1,130 @@
+COG5-congenital disorder of glycosylation: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+COG5-congenital disorder of glycosylation
+URL of this page: https://medlineplus.gov/genetics/condition/cog5-congenital-disorder-of-glycosylation/
+COG5-congenital disorder of glycosylation
+Description
+COG5
+-congenital disorder of glycosylation (
+COG5
+-CDG, formerly known as congenital disorder of glycosylation type IIi) is an inherited condition that causes neurological problems and other abnormalities. The pattern and severity of this disorder's signs and symptoms vary among affected individuals.
+Individuals with
+COG5
+-CDG typically develop signs and symptoms of the condition during infancy. These individuals often have weak muscle tone (hypotonia) and delayed development. Other neurological features include moderate to severe intellectual disability, poor coordination, and difficulty walking. Some affected individuals never learn to speak. Other features of
+COG5
+-CDG include short stature, an unusually small head size (
+microcephaly
+), and distinctive facial features, which can include ears that are set low and rotated backward, a short neck with a low hairline in the back, and a prominent nose. Less commonly, affected individuals can have hearing loss caused by changes in the inner ear (sensorineural hearing loss), vision impairment, damage to the nerves that control bladder function (a condition called neurogenic bladder), liver disease, and joint deformities (contractures).
+Frequency
+COG5
+-CDG is a very rare disorder; fewer than 10 cases have been described in the medical literature.
+Causes
+COG5
+-CDG is caused by mutations in the
+COG5
+gene, which provides instructions for making one piece of a group of proteins known as the conserved oligomeric Golgi (COG) complex. This complex functions in the
+Golgi apparatus
+, which is a cellular structure in which newly produced proteins are modified. One process that occurs in the Golgi apparatus is glycosylation, by which sugar molecules (oligosaccharides) are attached to proteins and fats. Glycosylation modifies proteins so they can perform a wider variety of functions.
+The COG complex takes part in the transport of proteins, including those that perform glycosylation, in the Golgi apparatus.
+COG5
+gene mutations reduce the amount of COG5 protein or eliminate it completely, which disrupts protein transport. This disruption results in abnormal protein glycosylation, which can affect numerous body systems, leading to the signs and symptoms of
+COG5
+-CDG. The severity of
+COG5
+-CDG is related to the amount of COG5 protein that remains in cells.
+Learn more about the gene associated with COG5-congenital disorder of glycosylation
+COG5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Carbohydrate deficient glycoprotein syndrome type IIi
+CDG IIi
+CDG2I
+CDGIIi
+COG5-CDG
+Congenital disorder of glycosylation type IIi
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: COG5-congenital disorder of glycosylation
+Genetic and Rare Diseases Information Center
+COG5-CDG
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIi; CDG2I
+Scientific Articles on PubMed
+PubMed
+References
+Fung CW, Matthijs G, Sturiale L, Garozzo D, Wong KY, Wong R, Wong V, Jaeken J.
+COG5-CDG with a Mild Neurohepatic Presentation. JIMD Rep. 2012;3:67-70. doi:
+10.1007/8904_2011_61. Epub 2011 Sep 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Miller VJ, Sharma P, Kudlyk TA, Frost L, Rofe AP, Watson IJ, Duden R, Lowe M,
+Lupashin VV, Ungar D. Molecular insights into vesicle tethering at the Golgi by
+the conserved oligomeric Golgi (COG) complex and the golgin TATA element
+modulatory factor (TMF). J Biol Chem. 2013 Feb 8;288(6):4229-40. doi:
+10.1074/jbc.M112.426767. Epub 2012 Dec 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Paesold-Burda P, Maag C, Troxler H, Foulquier F, Kleinert P, Schnabel S,
+Baumgartner M, Hennet T. Deficiency in COG5 causes a moderate form of congenital
+disorders of glycosylation. Hum Mol Genet. 2009 Nov 15;18(22):4350-6. doi:
+10.1093/hmg/ddp389. Epub 2009 Aug 18.
+Citation on PubMed
+Rymen D, Keldermans L, Race V, Regal L, Deconinck N, Dionisi-Vici C, Fung CW,
+Sturiale L, Rosnoblet C, Foulquier F, Matthijs G, Jaeken J. COG5-CDG: expanding
+the clinical spectrum. Orphanet J Rare Dis. 2012 Dec 10;7:94. doi:
+10.1186/1750-1172-7-94.
+Citation on PubMed
+or
+Free article on PubMed Central
+Smith RD, Lupashin VV. Role of the conserved oligomeric Golgi (COG) complex in
+protein glycosylation. Carbohydr Res. 2008 Aug 11;343(12):2024-31. doi:
+10.1016/j.carres.2008.01.034. Epub 2008 Feb 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Metabolic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

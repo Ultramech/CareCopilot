@@ -1,0 +1,188 @@
+Amelogenesis imperfecta: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Amelogenesis imperfecta
+URL of this page: https://medlineplus.gov/genetics/condition/amelogenesis-imperfecta/
+Amelogenesis imperfecta
+Description
+Amelogenesis imperfecta is a disorder of tooth development. This condition causes
+teeth to be unusually small
+, discolored, pitted or grooved, and prone to rapid wear and breakage. Other dental abnormalities are also possible. These defects, which vary among affected individuals, can affect both primary (baby) teeth and permanent (adult) teeth.
+Researchers have described at least 14 forms of amelogenesis imperfecta. These types are distinguished by their specific dental abnormalities and by their pattern of inheritance. Additionally, amelogenesis imperfecta can occur alone without any other signs and symptoms or it can occur as part of a syndrome that affects multiple parts of the body.
+Frequency
+The exact incidence of amelogenesis imperfecta is uncertain. Estimates vary widely, from 1 in 700 people in northern Sweden to 1 in 14,000 people in the United States.
+Causes
+Mutations in the
+AMELX
+,
+ENAM
+,
+MMP20
+, and
+FAM83H
+genes can cause amelogenesis imperfecta. The
+AMELX
+,
+ENAM
+, and
+MMP20
+genes provide instructions for making proteins that are essential for normal tooth development. Most of these proteins are involved in the formation of enamel, which is the hard, calcium-rich material that forms the protective outer layer of each tooth. Although the function of the protein produced from the
+FAM83H
+gene is unknown, it is also believed to be involved in the formation of enamel. Mutations in any of these genes result in altered protein structure or prevent the production of any protein. As a result, tooth enamel is abnormally thin or soft and may have a yellow or brown color. Teeth with defective enamel are weak and easily damaged.
+Mutations in the genes described above account for only about half of all cases of the condition, with
+FAM83H
+gene mutations causing the majority of these cases. In the remaining cases, the genetic cause has not been identified. Researchers are working to find mutations in other genes that are involved in this disorder.
+Learn more about the genes associated with Amelogenesis imperfecta
+AMELX
+ENAM
+FAM83H
+LAMB3
+MMP20
+Additional Information from NCBI Gene:
+ITGB6
+KLK4
+ODAPH
+SLC24A4
+WDR72
+Inheritance
+Amelogenesis imperfecta can have different inheritance patterns depending on the gene that is altered. Many cases are caused by mutations in the
+FAM83H
+gene and are inherited in an
+autosomal dominant pattern
+. This type of inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. Some cases caused by mutations in the
+ENAM
+gene also have an autosomal dominant inheritance pattern.
+Amelogenesis imperfecta can also be inherited in an
+autosomal recessive pattern
+; this form of the disorder can result from mutations in the
+ENAM
+or
+MMP20
+gene. Autosomal recessive inheritance means two copies of the gene in each cell are altered. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+About 5 percent of amelogenesis imperfecta cases are caused by mutations in the
+AMELX
+gene and are inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In most cases, males with X-linked amelogenesis imperfecta experience more severe dental abnormalities than females with this form of this condition.
+Other cases of amelogenesis imperfecta result from new gene mutations and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+AI
+Congenital enamel hypoplasia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Amelogenesis imperfecta - hypoplastic autosomal dominant - local
+Genetic Testing Registry: Amelogenesis imperfecta, hypocalcification type
+Genetic Testing Registry: Amelogenesis imperfecta type 1C
+Genetic Testing Registry: Amelogenesis imperfecta type 1E
+Genetic and Rare Diseases Information Center
+Amelogenesis imperfecta
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+AMELOGENESIS IMPERFECTA, TYPE IB; AI1B
+AMELOGENESIS IMPERFECTA, TYPE IIIA; AI3A
+AMELOGENESIS IMPERFECTA, TYPE IE; AI1E
+AMELOGENESIS IMPERFECTA, TYPE IC; AI1C
+AMELOGENESIS IMPERFECTA, HYPOMATURATION TYPE, IIA2; AI2A2
+Scientific Articles on PubMed
+PubMed
+References
+Aldred MJ, Savarirayan R, Crawford PJ. Amelogenesis imperfecta: a
+classification and catalogue for the 21st century. Oral Dis. 2003 Jan;9(1):19-23.
+doi: 10.1034/j.1601-0825.2003.00843.x.
+Citation on PubMed
+Chan HC, Estrella NM, Milkovich RN, Kim JW, Simmer JP, Hu JC. Target gene
+analyses of 39 amelogenesis imperfecta kindreds. Eur J Oral Sci. 2011 Dec;119
+Suppl 1(Suppl 1):311-23. doi: 10.1111/j.1600-0722.2011.00857.x.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gasse B, Karayigit E, Mathieu E, Jung S, Garret A, Huckert M, Morkmued S,
+Schneider C, Vidal L, Hemmerle J, Sire JY, Bloch-Zupan A. Homozygous and compound
+heterozygous MMP20 mutations in amelogenesis imperfecta. J Dent Res. 2013
+Jul;92(7):598-603. doi: 10.1177/0022034513488393. Epub 2013 Apr 26.
+Citation on PubMed
+Hart TC, Hart PS, Gorry MC, Michalec MD, Ryu OH, Uygur C, Ozdemir D, Firatli
+S, Aren G, Firatli E. Novel ENAM mutation responsible for autosomal recessive
+amelogenesis imperfecta and localised enamel defects. J Med Genet. 2003
+Dec;40(12):900-6. doi: 10.1136/jmg.40.12.900.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hu JC, Chan HC, Simmer SG, Seymen F, Richardson AS, Hu Y, Milkovich RN,
+Estrella NM, Yildirim M, Bayram M, Chen CF, Simmer JP. Amelogenesis imperfecta in
+two families with defined AMELX deletions in ARHGAP6. PLoS One.
+2012;7(12):e52052. doi: 10.1371/journal.pone.0052052. Epub 2012 Dec 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kim JW, Seymen F, Lin BP, Kiziltan B, Gencay K, Simmer JP, Hu JC. ENAM
+mutations in autosomal-dominant amelogenesis imperfecta. J Dent Res. 2005
+Mar;84(3):278-82. doi: 10.1177/154405910508400314.
+Citation on PubMed
+Kim JW, Simmer JP, Hu YY, Lin BP, Boyd C, Wright JT, Yamada CJ, Rayes SK,
+Feigal RJ, Hu JC. Amelogenin p.M1T and p.W4S mutations underlying hypoplastic
+X-linked amelogenesis imperfecta. J Dent Res. 2004 May;83(5):378-83. doi:
+10.1177/154405910408300505.
+Citation on PubMed
+Lee SK, Lee KE, Jeong TS, Hwang YH, Kim S, Hu JC, Simmer JP, Kim JW. FAM83H
+mutations cause ADHCAI and alter intracellular protein localization. J Dent Res.
+2011 Mar;90(3):377-81. doi: 10.1177/0022034510389177. Epub 2010 Nov 30.
+Citation on PubMed
+Nusier M, Yassin O, Hart TC, Samimi A, Wright JT. Phenotypic diversity and
+revision of the nomenclature for autosomal recessive amelogenesis imperfecta.
+Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2004 Feb;97(2):220-30. doi:
+10.1016/j.tripleo.2003.08.007.
+Citation on PubMed
+Wright JT, Torain M, Long K, Seow K, Crawford P, Aldred MJ, Hart PS, Hart TC.
+Amelogenesis imperfecta: genotype-phenotype studies in 71 families. Cells Tissues
+Organs. 2011;194(2-4):279-83. doi: 10.1159/000324339. Epub 2011 May 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wright JT. The molecular etiologies and associated phenotypes of amelogenesis
+imperfecta. Am J Med Genet A. 2006 Dec 1;140(23):2547-55. doi:
+10.1002/ajmg.a.31358.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Tooth Disorders
+MEDICAL ENCYCLOPEDIA
+Amelogenesis imperfecta
+Genetics
+Tooth - abnormal colors
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

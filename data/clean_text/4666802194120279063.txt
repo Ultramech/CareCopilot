@@ -1,0 +1,144 @@
+Abetalipoproteinemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Abetalipoproteinemia
+URL of this page: https://medlineplus.gov/genetics/condition/abetalipoproteinemia/
+Abetalipoproteinemia
+Description
+Abetalipoproteinemia is an inherited disorder that impairs the normal absorption of fats and certain vitamins from the diet. Many of the signs and symptoms of abetalipoproteinemia result from a severe shortage (deficiency) of fat-soluble vitamins (vitamins A, E, and K). The signs and symptoms of this condition primarily affect
+the gastrointestinal system
+, eyes, nervous system, and blood.
+The first signs and symptoms of abetalipoproteinemia appear in infancy. They often include failure to gain weight and grow at the expected rate (failure to thrive); diarrhea; and fatty, foul-smelling stools (steatorrhea).
+As an individual with this condition ages, additional signs and symptoms include disturbances in nerve function that may lead to poor muscle coordination and difficulty with balance and movement (ataxia). They can also experience a loss of certain reflexes, impaired speech (dysarthria), tremors or other involuntary movements (motor tics), a loss of sensation in the extremities (peripheral neuropathy), or muscle weakness. The muscle problems can disrupt skeletal development, leading to an abnormally curved lower back (
+lordosis
+), a rounded upper back that also curves to the side (
+kyphoscoliosis
+), high-arched feet (
+pes cavus
+), or an inward- and upward-turning foot (
+clubfoot
+).
+Individuals with this condition may also develop an eye disorder called
+retinitis pigmentosa
+, in which breakdown of the light-sensitive layer (
+retina
+) at the back of the eye can cause vision loss. In individuals with abetalipoproteinemia, the
+retinitis pigmentosa
+can result in complete vision loss. People with abetalipoproteinemia may also have other eye problems, including involuntary eye movements (nystagmus), eyes that do not look in the same direction (strabismus), and weakness of the external muscles of the eye (ophthalmoplegia).
+Individuals with abetalipoproteinemia usually have a low number of red blood cells (
+anemia
+) with abnormally star-shaped red blood cells (acanthocytosis) and have difficulty forming blood clots, which can cause abnormal bleeding. In some cases, a condition called fatty liver develops, which can cause liver damage.
+Frequency
+Abetalipoproteinemia is a rare disorder. More than 100 cases have been described worldwide.
+Causes
+Abetalipoproteinemia is caused by mutations in the
+MTTP
+gene, which provides instructions for making a protein called microsomal triglyceride transfer protein. This protein is essential for creating molecules called beta-lipoproteins in the
+liver
+and
+intestine
+. Beta-lipoproteins
+transport
+fats, cholesterol, and fat-soluble vitamins from the intestine to the bloodstream so these nutrients can be taken up by tissues throughout the body. Sufficient levels of fats, cholesterol, and vitamins are necessary for normal growth, development, and maintenance of the body's cells and tissues.
+Most
+MTTP
+gene mutations lead to the production of microsomal triglyceride transfer protein with reduced or absent function and unable to help in the formation of beta-lipoproteins. A lack of beta-lipoproteins causes severely reduced absorption (malabsorption) of dietary fats and fat-soluble vitamins from
+the digestive tract
+into the bloodstream. These nutritional deficiencies lead to health problems in people with abetalipoproteinemia.
+Learn more about the gene associated with Abetalipoproteinemia
+MTTP
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Abetalipoproteinaemia
+Abetalipoproteinemia neuropathy
+ABL
+Acanthocytosis
+Apolipoprotein B deficiency
+Bassen-Kornzweig disease
+Bassen-Kornzweig syndrome
+Betalipoprotein deficiency disease
+Congenital betalipoprotein deficiency syndrome
+Microsomal triglyceride transfer protein deficiency disease
+MTP deficiency
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ABETALIPOPROTEINEMIA; ABL
+Scientific Articles on PubMed
+PubMed
+References
+Hooper AJ, van Bockxmeer FM, Burnett JR. Monogenic hypocholesterolaemic lipid
+disorders and apolipoprotein B metabolism. Crit Rev Clin Lab Sci.
+2005;42(5-6):515-45. doi: 10.1080/10408360500295113.
+Citation on PubMed
+Lee J, Hegele RA. Abetalipoproteinemia and homozygous hypobetalipoproteinemia:
+a framework for diagnosis and management. J Inherit Metab Dis. 2014
+May;37(3):333-9. doi: 10.1007/s10545-013-9665-4. Epub 2013 Nov 28.
+Citation on PubMed
+Magnolo L, Najah M, Fancello T, Di Leo E, Pinotti E, Brini I, Gueddiche NM,
+Calandra S, Slimene NM, Tarugi P. Novel mutations in SAR1B and MTTP genes in
+Tunisian children with chylomicron retention disease and abetalipoproteinemia.
+Gene. 2013 Jan 1;512(1):28-34. doi: 10.1016/j.gene.2012.09.117. Epub 2012 Oct 6.
+Citation on PubMed
+Welty FK. Hypobetalipoproteinemia and abetalipoproteinemia. Curr Opin Lipidol.
+2014 Jun;25(3):161-8. doi: 10.1097/MOL.0000000000000072.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zamel R, Khan R, Pollex RL, Hegele RA. Abetalipoproteinemia: two case reports
+and literature review. Orphanet J Rare Dis. 2008 Jul 8;3:19. doi:
+10.1186/1750-1172-3-19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Malabsorption Syndromes
+Metabolic Disorders
+Neurologic Diseases
+MEDICAL ENCYCLOPEDIA
+Bassen-Kornzweig syndrome
+Genetics
+Malabsorption
+Retinitis pigmentosa
+Stools - floating
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

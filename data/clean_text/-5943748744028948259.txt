@@ -1,0 +1,159 @@
+Guanidinoacetate methyltransferase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Guanidinoacetate methyltransferase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/guanidinoacetate-methyltransferase-deficiency/
+Guanidinoacetate methyltransferase deficiency
+Description
+Guanidinoacetate methyltransferase deficiency is an inherited disorder that primarily affects the brain and muscles. Without early treatment, people with this disorder have neurological problems that are usually severe. These problems include intellectual disability, speech development limited to a few words, and recurrent seizures (epilepsy). Affected individuals may also exhibit autistic behaviors that affect communication and social interaction or self-injurious behaviors such as head-banging. Other features of this disorder can include involuntary movements (extrapyramidal dysfunction) such as tremors or facial tics.
+People with guanidinoacetate methyltransferase deficiency may have weak muscle tone and delayed development of motor skills such as sitting or walking. In severe cases they may lose previously acquired skills such as the ability to support their head or to sit unsupported.
+Frequency
+Guanidinoacetate methyltransferase deficiency is a very rare disorder. About 80 affected individuals have been described in the medical literature. Of these, approximately one-third are of Portuguese origin.
+Causes
+Mutations in the
+GAMT
+gene cause guanidinoacetate methyltransferase deficiency. The
+GAMT
+gene provides instructions for making the enzyme guanidinoacetate methyltransferase. This enzyme participates in the two-step production (synthesis) of the compound creatine from the protein building blocks (
+amino acids
+) glycine, arginine, and methionine. Specifically, guanidinoacetate methyltransferase controls the second step of this process. In this step, creatine is produced from another compound called guanidinoacetate. Creatine is needed for the body to store and use energy properly.
+GAMT
+gene mutations impair the ability of the guanidinoacetate methyltransferase enzyme to participate in creatine synthesis, resulting in a shortage of creatine. The effects of guanidinoacetate methyltransferase deficiency are most severe in organs and tissues that require large amounts of energy, especially the brain.
+Learn more about the gene associated with Guanidinoacetate methyltransferase deficiency
+GAMT
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Creatine deficiency syndrome due to GAMT deficiency
+Deficiency of guanidinoacetate methyltransferase
+GAMT deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deficiency of guanidinoacetate methyltransferase
+Genetic and Rare Diseases Information Center
+Guanidinoacetate methyltransferase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CEREBRAL CREATINE DEFICIENCY SYNDROME 2; CCDS2
+Scientific Articles on PubMed
+PubMed
+References
+Almeida LS, Vilarinho L, Darmin PS, Rosenberg EH, Martinez-Munoz C, Jakobs C,
+Salomons GS. A prevalent pathogenic GAMT mutation (c.59G>C) in Portugal. Mol
+Genet Metab. 2007 May;91(1):1-6. doi: 10.1016/j.ymgme.2007.01.005. Epub 2007 Mar
+1.
+Citation on PubMed
+Beard E, Braissant O. Synthesis and transport of creatine in the CNS:
+importance for cerebral functions. J Neurochem. 2010 Oct;115(2):297-313. doi:
+10.1111/j.1471-4159.2010.06935.x. Epub 2010 Aug 25.
+Citation on PubMed
+Braissant O, Henry H, Beard E, Uldry J. Creatine deficiency syndromes and the
+importance of creatine synthesis in the brain. Amino Acids. 2011
+May;40(5):1315-24. doi: 10.1007/s00726-011-0852-z. Epub 2011 Mar 10.
+Citation on PubMed
+Braissant O. GAMT deficiency: 20 years of a treatable inborn error of
+metabolism. Mol Genet Metab. 2014 Jan;111(1):1-3. doi:
+10.1016/j.ymgme.2013.11.002. Epub 2013 Nov 10. No abstract available.
+Citation on PubMed
+Dhar SU, Scaglia F, Li FY, Smith L, Barshop BA, Eng CM, Haas RH, Hunter JV,
+Lotze T, Maranda B, Willis M, Abdenur JE, Chen E, O'Brien W, Wong LJ. Expanded
+clinical and molecular spectrum of guanidinoacetate methyltransferase (GAMT)
+deficiency. Mol Genet Metab. 2009 Jan;96(1):38-43. doi:
+10.1016/j.ymgme.2008.10.008. Epub 2008 Nov 21.
+Citation on PubMed
+El-Gharbawy AH, Goldstein JL, Millington DS, Vaisnins AE, Schlune A, Barshop
+BA, Schulze A, Koeberl DD, Young SP. Elevation of guanidinoacetate in newborn
+dried blood spots and impact of early treatment in GAMT deficiency. Mol Genet
+Metab. 2013 Jun;109(2):215-7. doi: 10.1016/j.ymgme.2013.03.003. Epub 2013 Mar 16.
+Citation on PubMed
+Gordon N. Guanidinoacetate methyltransferase deficiency (GAMT). Brain Dev.
+2010 Feb;32(2):79-81. doi: 10.1016/j.braindev.2009.01.008. Epub 2009 Mar 16.
+Citation on PubMed
+Mercimek-Mahmutoglu S, Ndika J, Kanhai W, de Villemeur TB, Cheillan D,
+Christensen E, Dorison N, Hannig V, Hendriks Y, Hofstede FC, Lion-Francois L,
+Lund AM, Mundy H, Pitelet G, Raspall-Chaure M, Scott-Schwoerer JA, Szakszon K,
+Valayannopoulos V, Williams M, Salomons GS. Thirteen new patients with
+guanidinoacetate methyltransferase deficiency and functional characterization of
+nineteen novel missense variants in the GAMT gene. Hum Mutat. 2014
+Apr;35(4):462-9. doi: 10.1002/humu.22511. Epub 2014 Mar 6.
+Citation on PubMed
+Mercimek-Mahmutoglu S, Sinclair G, van Dooren SJ, Kanhai W, Ashcraft P, Michel
+OJ, Nelson J, Betsalel OT, Sweetman L, Jakobs C, Salomons GS. Guanidinoacetate
+methyltransferase deficiency: first steps to newborn screening for a treatable
+neurometabolic disease. Mol Genet Metab. 2012 Nov;107(3):433-7. doi:
+10.1016/j.ymgme.2012.07.022. Epub 2012 Aug 3.
+Citation on PubMed
+Nasrallah F, Feki M, Kaabachi N. Creatine and creatine deficiency syndromes:
+biochemical and clinical aspects. Pediatr Neurol. 2010 Mar;42(3):163-71. doi:
+10.1016/j.pediatrneurol.2009.07.015.
+Citation on PubMed
+Pasquali M, Schwarz E, Jensen M, Yuzyuk T, DeBiase I, Randall H, Longo N.
+Feasibility of newborn screening for guanidinoacetate methyltransferase (GAMT)
+deficiency. J Inherit Metab Dis. 2014 Mar;37(2):231-6. doi:
+10.1007/s10545-013-9662-7. Epub 2013 Nov 26.
+Citation on PubMed
+Stockler-Ipsiroglu S, van Karnebeek C, Longo N, Korenke GC,
+Mercimek-Mahmutoglu S, Marquart I, Barshop B, Grolik C, Schlune A, Angle B,
+Araujo HC, Coskun T, Diogo L, Geraghty M, Haliloglu G, Konstantopoulou V, Leuzzi
+V, Levtova A, Mackenzie J, Maranda B, Mhanni AA, Mitchell G, Morris A, Newlove T,
+Renaud D, Scaglia F, Valayannopoulos V, van Spronsen FJ, Verbruggen KT, Yuskiv N,
+Nyhan W, Schulze A. Guanidinoacetate methyltransferase (GAMT) deficiency:
+outcomes in 48 individuals and recommendations for diagnosis, treatment and
+monitoring. Mol Genet Metab. 2014 Jan;111(1):16-25. doi:
+10.1016/j.ymgme.2013.10.018. Epub 2013 Nov 7.
+Citation on PubMed
+Stockler-Ipsiroglu S, van Karnebeek CD. Cerebral creatine deficiencies: a
+group of treatable intellectual developmental disorders. Semin Neurol. 2014
+Jul;34(3):350-6. doi: 10.1055/s-0034-1386772. Epub 2014 Sep 5.
+Citation on PubMed
+Viau KS, Ernst SL, Pasquali M, Botto LD, Hedlund G, Longo N. Evidence-based
+treatment of guanidinoacetate methyltransferase (GAMT) deficiency. Mol Genet
+Metab. 2013 Nov;110(3):255-62. doi: 10.1016/j.ymgme.2013.08.020. Epub 2013 Sep 8.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Developmental Disabilities
+Epilepsy
+Genetic Brain Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

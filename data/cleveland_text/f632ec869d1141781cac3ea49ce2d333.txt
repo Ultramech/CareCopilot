@@ -1,0 +1,160 @@
+Antimicrobial Resistance: Definition, Causes & Prevention
+Home
+/
+Health Library
+/
+Articles
+/
+Antimicrobial Resistance
+Advertisement
+Advertisement
+Antimicrobial Resistance
+Antimicrobial resistance happens when microbes (like bacteria and fungi) are able to outsmart medications providers use to treat them. This can happen naturally or when certain medications are used a lot — germs can develop changes (mutations) that allow them to survive common drugs. It’s hard to treat infections caused by antimicrobial-resistant germs.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Find a Primary Care Provider
+Schedule an Appointment
+What is antimicrobial resistance?
+Antimicrobial resistance is when medications stop working to treat certain microbes. Microbes are tiny organisms that can cause infections, like
+bacteria
+, fungi,
+viruses
+or
+parasites
+. Most people just call them “
+germs
+.” Antimicrobial resistance makes it difficult for providers to effectively treat certain infections.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+When germs encounter a certain medication a lot, they know what to expect and can develop ways to avoid its effects. They can develop mutations (changes) that protect them from medications that used to be effective at destroying them or preventing them from replicating. This is called “resistance.” Microbes that are resistant to multiple types of medications are often called
+superbugs
+.
+It’s important to note that antimicrobial resistance is something microbes develop — your body isn’t resistant to medications.
+What are antimicrobials?
+Antimicrobial medications fight
+infectious diseases
+. They include:
+Antibiotics
+.
+Antifungals
+.
+Antiparasitics
+.
+Antivirals
+.
+Antimicrobial drugs can work in many ways to destroy germs or prevent them from reproducing. This might involve entering the organism’s cells and targeting certain parts of them that allow the germ to infect you, or to make more copies of itself.
+For instance, if you were trying to make a recipe and I wanted to stop you, I might get into your kitchen and destroy one of your ingredients or block you from using your oven.
+So, when microbes develop resistance, they might:
+Prevent me from getting into the kitchen.
+Throw me out the kitchen.
+Destroy the tools I’m using to block their cooking.
+Change the items I’m targeting so my tools don’t work on them. For instance, using slightly modified ingredients or changing the oven so I can’t block it.
+Changing the way they make the recipe, like using different ingredients or making a no-bake recipe.
+Advertisement
+How does antimicrobial resistance work?
+Antimicrobial resistance can prevent a drug from working by:
+Preventing it from entering the cell or organism.
+Pushing out drugs that get inside the organism.
+Changing or destroying the medication.
+Changing part of the microbe itself so it can’t be targeted by the medication anymore.
+Developing a new way to survive or replicate that avoids interacting with the medication.
+What are the types of antimicrobial resistance?
+Antimicrobial resistance can either be intrinsic or extrinsic (acquired). Extrinsic resistance is usually what people mean when they talk about drug resistance.
+Intrinsic resistance
+means a drug doesn’t work on a certain germ because of a natural characteristic in that germ. For example, a particular species of bacterium (bacteria, plural) might have a cell wall that can block out certain antibiotics.
+Extrinsic resistance
+means a drug used to work on a particular germ, but the germ has acquired a change that makes the drug ineffective. Microbes can pass on these changes when they reproduce. Bacteria can also pass the change on to other, existing bacteria (horizontal gene transfer).
+What are some examples of antimicrobial resistance?
+Examples of antimicrobial resistance include:
+Antibiotic-resistant
+bacteria, like
+MRSA
+,
+carbapenem-resistant enterobacterales (CREs)
+and
+Pseudomonas aeruginosa
+.
+Antifungal-resistant
+fungi, like
+Candida auris
+and
+Aspergillus fumigatus
+.
+Antiviral-resistant
+versions of certain viruses, like
+HIV
+,
+influenza
+, and
+hepatitis C
+.
+Antiparasitic-resistant versions of certain parasites, like those that cause
+malaria
+,
+leishmaniasis
+and
+trypanosomiasis
+.
+It’s important to remember that there are versions of these germs that are resistant to medications and ones that aren’t. If you get sick with something on this list, it doesn’t necessarily mean you have an antimicrobial-resistant infection.
+What’s the most common cause of antimicrobial resistance?
+Microbes develop drug resistance for many reasons. Sometimes, changes happen naturally that allow them to coexist with other organisms. Other times, they develop defense mechanisms to block or destroy medications. When germs reproduce, they can pass on the changes that allow them to resist drugs.
+In hospitals and other healthcare settings, germs — especially bacteria — can become resistant to medications that providers use frequently. This is where antimicrobial resistance most commonly develops. It can be hard to avoid.
+The use of antimicrobials in agriculture (like using antifungals on crops or feeding livestock antibiotics) also leads to the development of antimicrobial resistance.
+How do you prevent antimicrobial resistance?
+Healthcare providers have guidelines to follow to help prevent antimicrobial resistance. These include:
+Handwashing.
+Disinfecting surfaces.
+Only prescribing antibiotics for
+bacterial infections
+.
+Sterilizing medical devices.
+Screening patients and visitors to healthcare facilities when there’s a suspected outbreak of resistant germs.
+Quarantining (isolating) people with resistant infections so they don’t spread to other people.
+Advertisement
+There are ways that you can do your part, including:
+Taking all medications as prescribed.
+Taking the entire course of prescribed antibiotics, even if you feel better.
+Not taking antibiotics if you don’t need them. Colds and other respiratory infections are most often caused by viruses. Antibiotics won’t help them go away.
+How do you test for antimicrobial resistance?
+If you have an infection that’s not responding to medication, your healthcare provider might think you have a resistant infection. They can sometimes test medications against the germ that’s causing the infection. (They do this by taking a sample of your blood or other body fluids). This can help them find a medication that might work on the infection. But it can also take a long time.
+How do you treat an infection caused by an antimicrobial-resistant germ?
+Antimicrobial-resistant strains of germs are dangerous because they can be difficult to treat. Providers try to find a medication that’s effective against the specific germ causing the infection. You may need a combination of medications, like different types of antibiotics taken together, to fight the infection.
+Who’s at higher risk for an antimicrobial-resistant infection?
+You might be at a higher risk for a resistant infection if you:
+Have a central venous line, breathing tube,
+feeding tube
+, or other tube or device that goes into your body
+. These can make it more likely for germs to get into your body.
+Have been on antibiotics for a long time or use them frequently
+. Longer exposure to antibiotics can give bacteria more opportunities to develop resistance. It also can kill off “good” (non-harmful) bacteria in your body that prevent other microbes from growing out of control and causing an infection.
+Have a weakened immune system from an underlying health condition
+. This includes having HIV, blood cancers or diabetes, or receiving an organ or stem cell transplant. These conditions make it harder for your body to fight off infections.
+Are hospitalized for a long time or in a long-term care facility
+. Germs can more easily develop resistance in healthcare settings.
+Advertisement
+A note from Cleveland Clinic
+Healthcare providers and scientists are working to find solutions to antimicrobial resistance. But we can all do our part. It’s important to take medications as directed by your healthcare provider and only when you need them, especially antibiotics. Be especially cautious if you’re caring for someone who has a weakened immune system or who’s staying in the hospital or a long-term care facility. Small details, like washing your hands, can make a big difference.
+Advertisement
+Care at Cleveland Clinic
+Cleveland Clinic’s primary care providers offer lifelong medical care. From sinus infections and high blood pressure to preventive screening, we’re here for you.
+Find a Primary Care Provider
+Schedule an Appointment
+Medically Reviewed
+Last reviewed on 10/25/2024.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Questions
+216.444.2538
+Appointments & Locations
+Request an Appointment
+Find a Primary Care Provider

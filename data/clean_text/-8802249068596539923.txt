@@ -1,0 +1,144 @@
+MECP2-related severe neonatal encephalopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+MECP2-related severe neonatal encephalopathy
+URL of this page: https://medlineplus.gov/genetics/condition/mecp2-related-severe-neonatal-encephalopathy/
+MECP2-related severe neonatal encephalopathy
+Description
+MECP2
+-related severe neonatal encephalopathy is a neurological disorder that primarily affects males and causes brain dysfunction (encephalopathy). Affected males have a small head size (
+microcephaly
+), poor muscle tone (hypotonia) in infancy, movement disorders, rigidity, and seizures. Infants with this condition appear normal at birth but then develop severe encephalopathy within the first week of life. These babies experience poor feeding, leading to a failure to gain weight and grow at the expected rate (failure to thrive). Individuals with
+MECP2
+-related severe neonatal encephalopathy have severe to profound intellectual disability. Affected males have breathing problems, with some having episodes in which breathing slows or stops for short periods (apnea). As the child ages, the apnea episodes tend to last longer, especially during sleep, and affected babies often require use of a machine to help regulate their breathing (mechanical ventilation). Most males with
+MECP2
+-related severe neonatal encephalopathy do not live past the age of 2 because of respiratory failure.
+MECP2
+-related severe neonatal encephalopathy is the most severe condition in a spectrum of disorders with the same genetic cause. The mildest is
+PPM-X syndrome
+, followed by
+MECP2 duplication syndrome
+, then
+Rett syndrome
+(which exclusively affects females), and finally
+MECP2
+-related severe neonatal encephalopathy.
+Frequency
+MECP2
+-related severe neonatal encephalopathy is likely a rare condition. Twenty to 30 affected males have been reported in the scientific literature.
+Causes
+Mutations in the
+MECP2
+gene cause
+MECP2
+-related severe neonatal encephalopathy. The
+MECP2
+gene provides instructions for making a protein called MeCP2 that is critical for normal brain function. Researchers believe that this protein has several functions, including regulating other genes in the brain by switching them on or off as they are needed. The MeCP2 protein likely plays a role in maintaining the normal function of
+nerve cells
+, which ensures that connections (
+synapses
+) between these cells form properly. The MeCP2 protein may also control the production of different versions of certain proteins in nerve cells. Although mutations in the
+MECP2
+gene disrupt the normal function of nerve cells, it is unclear how these mutations lead to the signs and symptoms of
+MECP2
+-related severe neonatal encephalopathy.
+Learn more about the gene associated with MECP2-related severe neonatal encephalopathy
+MECP2
+Inheritance
+MECP2
+-related severe neonatal encephalopathy has an X-linked pattern of inheritance. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males, who have only one X chromosome, a mutation in the only copy of the gene in each cell is sufficient to cause the condition. In females, who have two X chromosomes, a mutation in one of the two copies of the gene in each cell is usually sufficient to cause the condition. However, females with a mutation in the
+MECP2
+gene do not develop
+MECP2
+-related severe neonatal encephalopathy. Instead, they typically develop Rett syndrome, which has signs and symptoms that include intellectual disability, seizures, and movement problems.
+In some cases, males with
+MECP2
+-related severe neonatal encephalopathy inherit the mutation from a mother with mild neurological problems or from a mother with no features related to the mutation. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Methyl-cytosine phosphate guanine binding protein 2 related severe neonatal encephalopathy
+Severe congenital encephalopathy due to MECP2 mutation
+Severe neonatal encephalopathy due to MECP2 mutations
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Severe neonatal-onset encephalopathy with microcephaly
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ENCEPHALOPATHY, NEONATAL SEVERE, DUE TO MECP2 MUTATIONS
+Scientific Articles on PubMed
+PubMed
+References
+Bianciardi L, Fichera M, Failla P, Di Marco C, Grozeva D, Mencarelli MA, Spiga
+O, Mari F, Meloni I, Raymond L, Renieri A, Romano C, Ariani F. MECP2 missense
+mutations outside the canonical MBD and TRD domains in males with intellectual
+disability. J Hum Genet. 2016 Feb;61(2):95-101. doi: 10.1038/jhg.2015.118. Epub
+2015 Oct 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Francke U. Mechanisms of disease: neurogenetics of MeCP2 deficiency. Nat Clin
+Pract Neurol. 2006 Apr;2(4):212-21. doi: 10.1038/ncpneuro0148.
+Citation on PubMed
+Gonzales ML, LaSalle JM. The role of MeCP2 in brain development and
+neurodevelopmental disorders. Curr Psychiatry Rep. 2010 Apr;12(2):127-34. doi:
+10.1007/s11920-010-0097-7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kankirawatana P, Leonard H, Ellaway C, Scurlock J, Mansour A, Makris CM, Dure
+LS 4th, Friez M, Lane J, Kiraly-Borri C, Fabian V, Davis M, Jackson J,
+Christodoulou J, Kaufmann WE, Ravine D, Percy AK. Early progressive
+encephalopathy in boys and MECP2 mutations. Neurology. 2006 Jul 11;67(1):164-6.
+doi: 10.1212/01.wnl.0000223318.28938.45.
+Citation on PubMed
+Schule B, Armstrong DD, Vogel H, Oviedo A, Francke U. Severe congenital
+encephalopathy caused by MECP2 null mutations in males: central hypoxia and
+reduced neuronal dendritic structure. Clin Genet. 2008 Aug;74(2):116-26. doi:
+10.1111/j.1399-0004.2008.01005.x. Epub 2008 May 8.
+Citation on PubMed
+Villard L. MECP2 mutations in males. J Med Genet. 2007 Jul;44(7):417-23. doi:
+10.1136/jmg.2007.049452. Epub 2007 Mar 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Respiratory Failure
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

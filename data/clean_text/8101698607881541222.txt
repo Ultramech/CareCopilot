@@ -1,0 +1,122 @@
+Channelopathy-associated congenital insensitivity to pain: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Channelopathy-associated congenital insensitivity to pain
+URL of this page: https://medlineplus.gov/genetics/condition/channelopathy-associated-congenital-insensitivity-to-pain/
+Channelopathy-associated congenital insensitivity to pain
+Description
+Channelopathy-associated congenital insensitivity to pain is a condition that inhibits the ability to perceive physical pain. From birth, affected individuals never feel pain in any part of their body when injured. People with this condition can feel the difference between sharp and dull and hot and cold, but they cannot sense, for example, that a hot beverage is burning their tongue. Pain is a vital signal that helps people avoid danger and injuries. People who cannot feel pain experience more injuries and may have shorter life expectancies.
+The first signs of channelopathy-associated congenital insensitivity to pain often occur when an infant shows no response to stimuli such as an injury or medical procedures like vaccines. Young children with this condition may have wounds from biting or burning themselves.
+A lack of pain awareness often leads individuals to develop wounds, bruises, broken bones, and other health issues that may go undetected. Long lasting joint injuries (often occurring alongside broken bones) can lead to joint deformities and often the loss of normal use of that body part. Eye injuries that go unnoticed can lead to vision loss. Many people with channelopathy-associated congenital insensitivity to pain also have a complete loss of
+the sense of smell
+(anosmia).
+Channelopathy-associated congenital insensitivity to pain is considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.
+Frequency
+Channelopathy-associated congenital insensitivity to pain is a rare condition, though its exact prevalence is unknown. It is one of about 10 disorders characterized by a lifelong inability to sense physical pain.
+Causes
+Variants (also called mutations) in the
+SCN9A
+gene cause channelopathy-associated congenital insensitivity to pain. The
+SCN9A
+gene provides instructions for making one part (the alpha subunit) of a
+sodium channel
+called NaV1.7. Sodium channels create an opening in the cell membrane to transport positively charged sodium atoms (sodium ions) into cells. Sodium ion transport play a key role in a cell's ability to generate and transmit electrical signals.
+NaV1.7 sodium channels are found in nerve cells called nociceptors. These cells transmit pain signals to the spinal cord and brain; this pain signaling is known as nociception. The NaV1.7 sodium channel is also found in
+olfactory sensory neurons
+, which are nerve cells in the nasal cavity that transmit smell-related signals to the brain.
+Certain variants in the
+SCN9A
+gene can cause cells to produce alpha subunits that do not work normally. These nonfunctional subunits do not allow NaV1.7 sodium channels to open, preventing the flow of sodium ions into nociceptors. This lack of sodium ions blocks nociceptors from transmitting pain signals from the site of an injury to the brain. The loss of NaV1.7 sodium channel activity in olfactory sensory neurons similarly likely prevents smell-related signals from reaching the brain, leading to anosmia.
+Learn more about the gene associated with Channelopathy-associated congenital insensitivity to pain
+SCN9A
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Asymbolia for pain
+Channelopathy-associated insensitivity to pain
+CIP
+CIP-SCN9A
+Congenital analgesia
+Congenital indifference to pain
+Congenital pain indifference
+Indifference to pain, congenital, autosomal recessive
+Pain insensitivity, congenital
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Channelopathy-associated congenital insensitivity to pain, autosomal recessive
+Genetic and Rare Diseases Information Center
+Congenital insensitivity to pain-anosmia-neuropathic arthropathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INDIFFERENCE TO PAIN, CONGENITAL, AUTOSOMAL RECESSIVE; CIP
+Scientific Articles on PubMed
+PubMed
+References
+Dabby R. Pain disorders and erythromelalgia caused by voltage-gated sodium
+channel mutations. Curr Neurol Neurosci Rep. 2012 Feb;12(1):76-83. doi:
+10.1007/s11910-011-0233-8.
+Citation on PubMed
+Drissi I, Woods WA, Woods CG. Understanding the genetic basis of congenital
+insensitivity to pain. Br Med Bull. 2020 May 15;133(1):65-78. doi:
+10.1093/bmb/ldaa003.
+Citation on PubMed
+Fischer TZ, Waxman SG. Familial pain syndromes from mutations of the NaV1.7
+sodium channel. Ann N Y Acad Sci. 2010 Jan;1184:196-207. doi:
+10.1111/j.1749-6632.2009.05110.x.
+Citation on PubMed
+Lampert A, O'Reilly AO, Reeh P, Leffler A. Sodium channelopathies and pain.
+Pflugers Arch. 2010 Jul;460(2):249-63. doi: 10.1007/s00424-009-0779-3. Epub 2010
+Jan 26.
+Citation on PubMed
+Zufall F, Pyrski M, Weiss J, Leinders-Zufall T. Link between pain and
+olfaction in an inherited sodium channelopathy. Arch Neurol. 2012
+Sep;69(9):1119-23. doi: 10.1001/archneurol.2012.21.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Pain
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Smell - impaired
+Related Medical Tests
+Electromyography (EMG) and Nerve Conduction Studies
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

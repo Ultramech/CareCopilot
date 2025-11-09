@@ -1,0 +1,153 @@
+Miller syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Miller syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/miller-syndrome/
+Miller syndrome
+Description
+Miller syndrome is a rare condition that mainly affects the development of the face, arms, and legs. The severity of this disorder can vary among affected individuals.
+Individuals with Miller syndrome typically have facial differences, which can include underdeveloped cheek bones (malar hypoplasia), a small lower jaw (
+micrognathia
+), and an opening in the roof of the mouth (
+cleft palate
+) with or without a split in the upper lip (
+cleft lip
+). These facial differences can cause feeding problems in infants with Miller syndrome. In some affected individuals, micrognathia may restrict the airway, which can also lead to breathing problems
+.
+Other facial features can include eyes that slant downward, eyelids that turn outward so the inner surface is exposed (
+ectropion
+), and a notch in the lower eyelids called an
+eyelid coloboma
+.
+Many individuals with Miller syndrome also have small,
+cup-shaped ears
+. Some affected individuals have hearing loss caused by defects in the
+middle ear
+(conductive hearing loss), which can lead to a delay in speech development.
+The bones of the arms and legs often develop abnormally in people with Miller syndrome. The most common problem is the absence of the fifth (pinky) fingers and toes. Affected individuals may also have webbed or fused fingers or toes (syndactyly) and underdeveloped bones in the forearms. Another feature of Miller syndrome is the presence of extra nipples. Abnormalities of the heart have also been reported in individuals with this condition.
+Frequency
+Miller syndrome is a rare disorder, although its exact prevalence is unknown. At least 30 cases have been reported in the medical literature.
+Causes
+Variants (also called mutations) in the
+DHODH
+gene cause Miller syndrome. This gene provides instructions for making an enzyme called dihydroorotate dehydrogenase. This enzyme is involved in producing pyrimidines, which are building blocks of DNA and its chemical cousin RNA. Specifically, dihydroorotate dehydrogenase converts a molecule called dihydroorotate to orotate. In subsequent steps, other enzymes modify orotate to produce pyrimidines.
+It is unclear exactly how
+DHODH
+gene variants lead to the signs and symptoms seen in people with Miller syndrome. Miller syndrome appears to disrupt the development of structures called the first and second pharyngeal arches. The pharyngeal arches are paired structures that form on each side of the head and neck during embryonic development. These structures ultimately develop into the bones, nerves, and muscles of the head and neck. Dihydroorotate dehydrogenase appears to be active in the pharyngeal arches during embryonic development.
+DHODH
+gene variants likely cause cells to produce altered versions of the enzyme, but researchers are unsure exactly how these altered versions of dihydroorotate dehydrogenase cause the specific facial features seen in people with Miller syndrome.
+The development of the arms and legs is also affected in people with Miller syndrome. During embryonic development, each limb starts out as a small mound of tissue called a limb bud, which grows outward. Though dihydroorotate dehydrogenase appears to be active in the limb buds during the early stages of development, it is not clear how variants in the
+DHODH
+gene cause the specific bone abnormalities seen in people with Miller syndrome.
+Learn more about the gene associated with Miller syndrome
+DHODH
+Inheritance
+This condition is believed to be inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Acrofacial dysostosis, Genee-Wiedemann type
+Genee-Wiedemann acrofacial dysostosis
+Genee-Wiedemann syndrome
+Mandibulfacial dysostosis with postaxial limb anomalies
+Postaxial acrofacial dysostosis (POADS)
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Miller syndrome
+Genetic and Rare Diseases Information Center
+Postaxial acrofacial dysostosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MILLER SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Biesecker LG. Exome sequencing makes medical genomics a reality. Nat Genet.
+2010 Jan;42(1):13-4. doi: 10.1038/ng0110-13.
+Citation on PubMed
+Brosnan ME, Brosnan JT. Orotic acid excretion and arginine metabolism. J Nutr.
+2007 Jun;137(6 Suppl 2):1656S-1661S. doi: 10.1093/jn/137.6.1656S.
+Citation on PubMed
+Gurrieri F, Kjaer KW, Sangiorgi E, Neri G. Limb anomalies: Developmental and
+evolutionary aspects. Am J Med Genet. 2002 Dec 30;115(4):231-44. doi:
+10.1002/ajmg.10981.
+Citation on PubMed
+Neumann L, Pelz J, Kunze J. A new observation of two cases of acrofacial
+dysostosis type Genee-Wiedemann in a family--remarks on the mode of inheritance:
+report on two sibs. Am J Med Genet. 1996 Sep 6;64(4):556-62. doi:
+10.1002/(SICI)1096-8628(19960906)64:43.0.CO;2-N.
+Citation on PubMed
+Ng SB, Buckingham KJ, Lee C, Bigham AW, Tabor HK, Dent KM, Huff CD, Shannon
+PT, Jabs EW, Nickerson DA, Shendure J, Bamshad MJ. Exome sequencing identifies
+the cause of a mendelian disorder. Nat Genet. 2010 Jan;42(1):30-5. doi:
+10.1038/ng.499. Epub 2009 Nov 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rainger J, Bengani H, Campbell L, Anderson E, Sokhi K, Lam W, Riess A, Ansari
+M, Smithson S, Lees M, Mercer C, McKenzie K, Lengfeld T, Gener Querol B, Branney
+P, McKay S, Morrison H, Medina B, Robertson M, Kohlhase J, Gordon C, Kirk J,
+Wieczorek D, Fitzpatrick DR. Miller (Genee-Wiedemann) syndrome represents a
+clinically and biochemically distinct subgroup of postaxial acrofacial dysostosis
+associated with partial deficiency of DHODH. Hum Mol Genet. 2012 Sep
+15;21(18):3969-83. doi: 10.1093/hmg/dds218. Epub 2012 Jun 12.
+Citation on PubMed
+Roach JC, Glusman G, Smit AF, Huff CD, Hubley R, Shannon PT, Rowen L, Pant KP,
+Goodman N, Bamshad M, Shendure J, Drmanac R, Jorde LB, Hood L, Galas DJ. Analysis
+of genetic inheritance in a family quartet by whole-genome sequencing. Science.
+2010 Apr 30;328(5978):636-9. doi: 10.1126/science.1186802. Epub 2010 Mar 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Van Roey VL, Irvine WFE; All Expert Panel Members of the Facial Dysostosis
+Consensus Statement. Optimal Diagnostic and Treatment Practices for Facial
+Dysostosis Syndromes: A Clinical Consensus Statement Among European Experts. J
+Craniofac Surg. 2024 Jul-Aug 01;35(5):1315-1324. doi:
+10.1097/SCS.0000000000010280. Epub 2024 May 27.
+Citation on PubMed
+Related Health Topics
+Bone Diseases
+Craniofacial Abnormalities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cleft lip and palate
+Ectropion
+Genetics
+Hearing loss - infants
+Micrognathia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

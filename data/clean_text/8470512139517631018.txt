@@ -1,0 +1,137 @@
+Autosomal dominant cerebellar ataxia, deafness, and narcolepsy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Autosomal dominant cerebellar ataxia, deafness, and narcolepsy
+URL of this page: https://medlineplus.gov/genetics/condition/autosomal-dominant-cerebellar-ataxia-deafness-and-narcolepsy/
+Autosomal dominant cerebellar ataxia, deafness, and narcolepsy
+Description
+Autosomal dominant cerebellar ataxia, deafness, and
+narcolepsy
+(ADCADN) is a nervous system disorder with signs and symptoms that usually begin in mid-adulthood and gradually get worse.
+People with ADCADN have difficulty coordinating movements (ataxia) and mild to moderate hearing loss caused by abnormalities of
+the inner ear
+(sensorineural deafness). Most have excessive daytime sleepiness (narcolepsy). Narcolepsy is typically accompanied by cataplexy, which is a sudden brief loss of muscle tone in response to strong emotion (such as excitement, surprise, or anger). These episodes of muscle weakness can cause an affected person to slump over or fall, which occasionally leads to injury. These characteristic signs and symptoms of ADCADN typically begin in a person's thirties.
+Eventually, people with ADCADN also experience a decline of intellectual function (dementia). The cognitive problems often begin with impairment of executive function, which is the ability to plan and implement actions and develop problem-solving strategies. Other features that can occur as the condition worsens include degeneration of the nerves that carry information from
+the eyes
+to the brain (optic atrophy); clouding of the lenses of the eyes (
+cataracts
+); numbness, tingling, or pain in the arms and legs (sensory neuropathy); puffiness or swelling (
+lymphedema
+) of the limbs; an inability to control the bowels or the flow of urine (incontinence);
+depression
+; uncontrollable crying or laughing (pseudobulbar signs); or a distorted view of reality (psychosis). Affected individuals usually survive into their forties or fifties.
+Frequency
+The prevalence of ADCADN is unknown. At least 24 affected individuals have been described in the medical literature.
+Causes
+ADCADN is caused by mutations in the
+DNMT1
+gene, which provides instructions for making an enzyme called DNA methyltransferase 1. This enzyme is involved in DNA methylation, which is the addition of methyl groups, consisting of one carbon atom and three hydrogen atoms, to DNA molecules. In particular, the enzyme helps add methyl groups to DNA building blocks (nucleotides) called cytosines.
+DNA methyltransferase 1 is active in the adult nervous system. Although its specific role in the nervous system is not well understood, the enzyme may help regulate nerve cell (neuron) maturation and specialization (differentiation), the ability of neurons to move (migrate) where needed and connect with each other, and neuron survival.
+DNMT1
+gene mutations that cause ADCADN affect a region of the DNA methyltransferase 1 enzyme that helps target the methylation process to the correct segments of DNA. As a result of these mutations, methylation is abnormal, which affects the expression of multiple genes. Maintenance of the neurons that make up the nervous system is disrupted, leading to the signs and symptoms of ADCADN.
+Learn more about the gene associated with Autosomal dominant cerebellar ataxia, deafness, and narcolepsy
+DNMT1
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In most cases, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+ADCA-DN syndrome
+ADCADN
+Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome
+Cerebellar ataxia, deafness, and narcolepsy, autosomal dominant
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal dominant cerebellar ataxia, deafness and narcolepsy
+Genetic and Rare Diseases Information Center
+Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CEREBELLAR ATAXIA, DEAFNESS, AND NARCOLEPSY, AUTOSOMAL DOMINANT; ADCADN
+Scientific Articles on PubMed
+PubMed
+References
+Baets J, Duan X, Wu Y, Smith G, Seeley WW, Mademan I, McGrath NM, Beadell NC,
+Khoury J, Botuyan MV, Mer G, Worrell GA, Hojo K, DeLeon J, Laura M, Liu YT,
+Senderek J, Weis J, Van den Bergh P, Merrill SL, Reilly MM, Houlden H, Grossman
+M, Scherer SS, De Jonghe P, Dyck PJ, Klein CJ. Defects of mutant DNMT1 are linked
+to a spectrum of neurological disorders. Brain. 2015 Apr;138(Pt 4):845-61. doi:
+10.1093/brain/awv010. Epub 2015 Feb 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kernohan KD, Cigana Schenkel L, Huang L, Smith A, Pare G, Ainsworth P;
+Care4Rare Canada Consortium; Boycott KM, Warman-Chardon J, Sadikovic B.
+Identification of a methylation profile for DNMT1-associated autosomal dominant
+cerebellar ataxia, deafness, and narcolepsy. Clin Epigenetics. 2016 Sep
+5;8(1):91. doi: 10.1186/s13148-016-0254-x. eCollection 2016.
+Citation on PubMed
+or
+Free article on PubMed Central
+Moghadam KK, Pizza F, La Morgia C, Franceschini C, Tonon C, Lodi R, Barboni P,
+Seri M, Ferrari S, Liguori R, Donadio V, Parchi P, Cornelio F, Inzitari D,
+Mignarri A, Capocchi G, Dotti MT, Winkelmann J, Lin L, Mignot E, Carelli V,
+Plazzi G. Narcolepsy is a common phenotype in HSAN IE and ADCA-DN. Brain. 2014
+Jun;137(Pt 6):1643-55. doi: 10.1093/brain/awu069. Epub 2014 Apr 10.
+Citation on PubMed
+Walker LA, Bourque P, Smith AM, Warman Chardon J. Autosomal dominant
+cerebellar ataxia, deafness, and narcolepsy (ADCA-DN) associated with progressive
+cognitive and behavioral deterioration. Neuropsychology. 2017 Mar;31(3):292-303.
+doi: 10.1037/neu0000322. Epub 2016 Nov 21.
+Citation on PubMed
+Winkelmann J, Lin L, Schormair B, Kornum BR, Faraco J, Plazzi G, Melberg A,
+Cornelio F, Urban AE, Pizza F, Poli F, Grubert F, Wieland T, Graf E, Hallmayer J,
+Strom TM, Mignot E. Mutations in DNMT1 cause autosomal dominant cerebellar
+ataxia, deafness and narcolepsy. Hum Mol Genet. 2012 May 15;21(10):2205-10. doi:
+10.1093/hmg/dds035. Epub 2012 Feb 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+Hearing Disorders and Deafness
+Sleep Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Movement - uncoordinated
+Narcolepsy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,136 @@
+CUL3-related neurodevelopmental disorder: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+CUL3-related neurodevelopmental disorder
+URL of this page: https://medlineplus.gov/genetics/condition/cul3-related-neurodevelopmental-disorder/
+CUL3-related neurodevelopmental disorder
+Description
+CUL3
+-related neurodevelopmental disorder is a condition that affects neurological and physical development. Children with
+CUL3
+-related neurodevelopmental disorder may have intellectual disability or specific learning disorders. They may also experience delayed development of speech and motor skills, such as sitting and walking. Some individuals with this condition may have
+autism spectrum disorder
+, a developmental condition that affects communication and social skills.
+Movement abnormalities can also occur in people with
+CUL3
+-related neurodevelopmental disorder. Affected individuals may have weak muscle tone (hypotonia) in childhood. In adulthood, they may develop involuntary muscle tensing (dystonia), rhythmic shaking (tremor), or other uncontrolled movements (spasms).
+People with
+CUL3
+-related neurodevelopmental disorder can have distinctive facial features, including a long, triangular-shaped face; a large forehead; a large, rounded nose; small ears; deep-set eyes; or a pointed chin. Some affected individuals have a larger than normal head (macrocephaly).
+Many people with
+CUL3
+-related neurodevelopmental disorder have hand and foot abnormalities. Hand abnormalities can include small pinky (fifth) fingers that curve inward (clinodactyly), narrow thumbs, underdevelopment of the muscle at the base of the thumb (thenar hypoplasia), or a single crease across the palm of the hand. Foot abnormalities can include high arches of the feet (pes cavus); bunions; fusion of the skin between some toes (cutaneous syndactyly); or joint deformities (contractures) in the ankles, feet, or toes. A few individuals with
+CUL3
+-related neurodevelopmental disorder have an abnormally curved lower back (lordosis) or a spine that curves to the side (scoliosis).
+Some affected infants have a backflow of stomach acids into the esophagus (gastroesophageal reflux disease or GERD), which tends to go away after childhood. Rarely, recurrent seizures (epilepsy), congenital heart abnormalities, or genitourinary abnormalities occur in people with
+CUL3
+-related neurodevelopmental disorder.
+Frequency
+CUL3
+-related neurodevelopmental disorder is a rare disorder, though its exact prevalence is unknown.
+Causes
+CUL3
+-related neurodevelopmental disorder is caused by variants (also called mutations) in the
+CUL3
+gene. This gene provides instructions for making a protein called cullin-3. The cullin-3 protein plays a role in the ubiquitin-proteasome system, which breaks down (degrades) unwanted proteins inside cells.
+The ubiquitin-proteasome system acts as the cell's quality control system by disposing of damaged, misshapen, and excess proteins. By breaking down proteins at the right time, this system regulates the timing of critical cell activities, such as cell growth and division.
+The
+CUL3
+gene variants that cause
+CUL3
+-related neurodevelopmental disorder can lead to the production of nonfunctional cullin-3 proteins, and in some cases, no cullin-3 protein production at all. Without the normal amount of functioning cullin-3 proteins, the breakdown of unwanted proteins by the ubiquitin-proteasome system becomes impaired at key developmental stages. As a result, unnecessary proteins build up and interfere with the normal function of cells. Since cullin-3 is produced in nerve cells throughout the brain, it is likely that the protein's dysfunction damages nerve cells, causing many of the signs and symptoms of
+CUL3
+-related neurodevelopmental disorder.
+Learn more about the gene associated with CUL3-related neurodevelopmental disorder
+CUL3
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases of this condition result from new (de novo) variants in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or in early embryonic development. These affected individuals have no history of the disorder in their family.
+Other Names for This Condition
+NEDAUS
+Neurodevelopmental disorder with or without autism or seizures
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Neurodevelopmental disorder with or without autism or seizures
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+NEURODEVELOPMENTAL DISORDER WITH OR WITHOUT AUTISM OR SEIZURES; NEDAUS
+Scientific Articles on PubMed
+PubMed
+References
+Blackburn PR, Ebstein F, Hsieh TC, Motta M, Radio FC, Herkert JC, Rinne T,
+Thiffault I, Rapp M, Alders M, Maas S, Gerard B, Smol T, Vincent-Delorme C, Cogne
+B, Isidor B, Vincent M, Bachmann-Gagescu R, Rauch A, Joset P, Ferrero GB, Ciolfi
+A, Husson T, Guerrot AM, Bacino C, Macmurdo C, Thompson SS, Rosenfeld JA, Faivre
+L, Mau-Them FT, Deb W, Vignard V, Agrawal PB, Madden JA, Goldenberg A,
+Lecoquierre F, Zech M, Prokisch H, Necpal J, Jech R, Winkelmann J, Koprusakova
+MT, Konstantopoulou V, Younce JR, Shinawi M, Mighton C, Fung C, Morel C, Ellis
+JL, DiTroia S, Barth M, Bonneau D, Krapels I, Stegmann S, van der Schoot V,
+Brunet T, Bussmann C, Mignot C, Courtin T, Ravelli C, Keren B, Ziegler A, Hasadsri
+L, Pichurin PN, Klee EW, Grand K, Sanchez-Lara PA, Kruger E, Bezieau S,
+Klinkhammer H, Krawitz PM, Eichler EE, Tartaglia M, Kury S, Wang T.
+Loss-of-function variants in CUL3 cause a syndromic neurodevelopmental
+disorder. medRxiv [Preprint]. 2023 Jun 16:2023.06.13.23290941. doi:
+10.1101/2023.06.13.23290941.
+Citation on PubMed
+Iwafuchi S, Kikuchi A, Endo W, Inui T, Aihara Y, Satou K, Kaname T, Kure S. A
+novel stop-gain CUL3 mutation in a Japanese patient with autism spectrum
+disorder. Brain Dev. 2021 Feb;43(2):303-307. doi: 10.1016/j.braindev.2020.09.015.
+Epub 2020 Oct 21.
+Citation on PubMed
+Kato K, Miya F, Oka Y, Mizuno S, Saitoh S. A novel missense variant in CUL3
+shows altered binding ability to BTB-adaptor proteins leading to diverse
+phenotypes of CUL3-related disorders. J Hum Genet. 2021 May;66(5):491-498. doi:
+10.1038/s10038-020-00868-9. Epub 2020 Oct 31.
+Citation on PubMed
+Nakashima M, Kato M, Matsukura M, Kira R, Ngu LH, Lichtenbelt KD, van Gassen
+KLI, Mitsuhashi S, Saitsu H, Matsumoto N. De novo variants in CUL3 are associated
+with global developmental delays with or without infantile spasms. J Hum Genet.
+2020 Sep;65(9):727-734. doi: 10.1038/s10038-020-0758-2. Epub 2020 Apr 27.
+Citation on PubMed
+Vincent KM, Bourque DK. A novel splice site CUL3 variant in a patient with
+neurodevelopmental delay. Brain Dev. 2023 Apr;45(4):244-249. doi:
+10.1016/j.braindev.2023.01.003. Epub 2023 Jan 27.
+Citation on PubMed
+Related Health Topics
+Autism Spectrum Disorder
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

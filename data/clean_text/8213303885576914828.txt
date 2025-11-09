@@ -1,0 +1,121 @@
+Succinyl-CoA:3-ketoacid CoA transferase deficiency | MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Succinyl-CoA:3-ketoacid CoA transferase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/succinyl-coa3-ketoacid-coa-transferase-deficiency/
+Succinyl-CoA:3-ketoacid CoA transferase deficiency
+Description
+Succinyl-CoA:3-ketoacid CoA transferase (SCOT) deficiency is an inherited disorder that impairs the body's ability to break down ketones, which are molecules produced in the liver during the breakdown of fats.
+The signs and symptoms of SCOT deficiency typically appear within the first few years of life. Affected individuals experience episodes of extreme tiredness (lethargy), appetite loss, vomiting, rapid breathing, and, occasionally, seizures. These episodes, which are called ketoacidotic attacks, sometimes lead to coma. About half of affected individuals have a ketoacidotic attack within the first 4 days of life. Affected individuals have no symptoms of the disorder between ketoacidotic attacks.
+People with SCOT deficiency usually have a permanently elevated level of ketones in their blood (persistent ketosis). If the level of ketones gets too high, which can be brought on by infections, fevers, or periods without food (fasting), a ketoacidotic attack can occur. The frequency of ketoacidotic attacks varies among affected individuals.
+Frequency
+The prevalence of SCOT deficiency is unknown. More than 20 cases of this condition have been reported in the scientific literature.
+Causes
+Mutations in the
+OXCT1
+gene cause SCOT deficiency. The
+OXCT1
+gene provides instructions for making an enzyme called succinyl-CoA:3-ketoacid CoA transferase (SCOT). The SCOT enzyme is made in the energy-producing centers of cells (
+mitochondria
+). The enzyme plays a role in the breakdown of ketones, which are an important source of energy during fasting or when energy demands are increased, such as during illness or when exercising.
+OXCT1
+gene mutations result in the production of a SCOT enzyme with little or no function. A reduction in the amount of functional enzyme leads to an inability to break down ketones, resulting in decreased energy production and an elevated level of ketones in the blood. If these signs become severe, a ketoacidotic attack can occur. Individuals with mutations that create an enzyme with partial function are still prone to ketoacidotic attacks, but are less likely to have persistent ketosis.
+Learn more about the gene associated with Succinyl-CoA:3-ketoacid CoA transferase deficiency
+OXCT1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+3-oxoacid CoA transferase deficiency
+Ketoacidosis due to SCOT deficiency
+SCOT deficiency
+Succinyl-CoA 3-oxoacid transferase deficiency
+Succinyl-CoA:3-oxoacid CoA transferase deficiency
+Succinyl-CoA:acetoacetate transferase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Succinyl-CoA acetoacetate transferase deficiency
+Genetic and Rare Diseases Information Center
+Succinyl-CoA:3-oxoacid CoA transferase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SUCCINYL-CoA:3-OXOACID-CoA TRANSFERASE DEFICIENCY; SCOTD
+Scientific Articles on PubMed
+PubMed
+References
+Berry GT, Fukao T, Mitchell GA, Mazur A, Ciafre M, Gibson J, Kondo N, Palmieri
+MJ. Neonatal hypoglycaemia in severe succinyl-CoA: 3-oxoacid CoA-transferase
+deficiency. J Inherit Metab Dis. 2001 Oct;24(5):587-95. doi:
+10.1023/a:1012419911789.
+Citation on PubMed
+Fukao T, Ishii T, Amano N, Kursula P, Takayanagi M, Murase K, Sakaguchi N,
+Kondo N, Hasegawa T. A neonatal-onset succinyl-CoA:3-ketoacid CoA transferase
+(SCOT)-deficient patient with T435N and c.658-666dupAACGTGATT p.N220_I222dup
+mutations in the OXCT1 gene. J Inherit Metab Dis. 2010 Dec;33 Suppl 3:S307-13.
+doi: 10.1007/s10545-010-9168-5. Epub 2010 Jul 21.
+Citation on PubMed
+Fukao T, Mitchell GA, Song XQ, Nakamura H, Kassovska-Bratinova S, Orii KE,
+Wraith JE, Besley G, Wanders RJ, Niezen-Koning KE, Berry GT, Palmieri M, Kondo N.
+Succinyl-CoA:3-ketoacid CoA transferase (SCOT): cloning of the human SCOT gene,
+tertiary structural modeling of the human SCOT monomer, and characterization of
+three pathogenic mutations. Genomics. 2000 Sep 1;68(2):144-51. doi:
+10.1006/geno.2000.6282.
+Citation on PubMed
+Fukao T, Sass JO, Kursula P, Thimm E, Wendel U, Ficicioglu C, Monastiri K,
+Guffon N, Baric I, Zabot MT, Kondo N. Clinical and molecular characterization of
+five patients with succinyl-CoA:3-ketoacid CoA transferase (SCOT) deficiency.
+Biochim Biophys Acta. 2011 May;1812(5):619-24. doi: 10.1016/j.bbadis.2011.01.015.
+Epub 2011 Feb 2.
+Citation on PubMed
+Fukao T, Shintaku H, Kusubae R, Zhang GX, Nakamura K, Kondo M, Kondo N.
+Patients homozygous for the T435N mutation of succinyl-CoA:3-ketoacid CoA
+Transferase (SCOT) do not show permanent ketosis. Pediatr Res. 2004
+Dec;56(6):858-63. doi: 10.1203/01.PDR.0000145297.90577.67. Epub 2004 Oct 20.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Mitochondrial Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Ketones blood test
+Ketones urine test
+Related Medical Tests
+Ketones in Blood
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

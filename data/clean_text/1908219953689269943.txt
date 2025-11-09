@@ -1,0 +1,145 @@
+Darier disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Darier disease
+URL of this page: https://medlineplus.gov/genetics/condition/darier-disease/
+Darier disease
+Description
+Darier disease is a skin condition characterized by wart-like blemishes on the body. The blemishes are usually yellowish in color, are hard to the touch, can appear greasy, and can emit a strong odor. The most common sites for blemishes are the scalp, forehead, upper arms, chest, back, knees, elbows, and behind the ears. The mucous membranes can also be affected, with blemishes occurring on the roof of the mouth (palate), tongue, gums, and inside the cheeks and throat. Other features of Darier disease include nail abnormalities, such as red and white streaks in the nails with an irregular texture, and small pits in the palms of the hands and soles of the feet.
+The wart-like blemishes characteristic of Darier disease usually appear in late childhood to early adulthood. The severity of the disease varies over time; affected people experience flare-ups and with periods when they have fewer blemishes. The appearance of the blemishes is influenced by environmental factors. Most people with Darier disease will develop more blemishes during the summer when they are exposed to heat and humidity. The number of blemishes can also increase when an affected person is exposed to ultraviolet light; experiences minor injury or friction, such as rubbing or scratching; or takes certain medications.
+On occasion, people with Darier disease may have neurological disorders such as mild intellectual disabilities, epilepsy, and
+depression
+. Learning and behavior difficulties have also been reported in people with Darier disease. Researchers do not know if these conditions, which are common in the general population, are associated with the genetic changes that cause Darier disease, or if they are coincidental. Some researchers believe that behavioral problems might be linked to the social stigma experienced by people with numerous skin blemishes.
+A form of Darier disease known as the linear or segmental form is characterized by blemishes on localized areas of the skin. The blemishes are not as widespread as they are in typical Darier disease. Some people with the linear form of this condition have the nail abnormalities that are seen in people with classic Darier disease, but these abnormalities occur only on one side of the body.
+Frequency
+The worldwide prevalence of Darier disease is unknown. The prevalence of Darier disease is estimated to be 1 in 30,000 people in Scotland, 1 in 36,000 people in northern England, and 1 in 100,000 people in Denmark.
+Causes
+Variants (also called mutations) in the
+ATP2A2
+gene cause Darier disease.
+The
+ATP2A2
+gene provides instructions for making an enzyme called sarco(endo)plasmic reticulum calcium-ATPase 2 (SERCA2). This enzyme acts as a pump that helps control the level of positively charged calcium atoms (calcium ions) inside cells, particularly in the endoplasmic reticulum and the sarcoplasmic reticulum. The
+endoplasmic reticulum
+is a structure inside the cell that is involved in protein processing and transport. The
+sarcoplasmic reticulum
+is a structure in muscle cells that assists with muscle contraction and relaxation by releasing and storing calcium ions. Calcium ions act as signals for a large number of activities that are important for the normal development and function of cells. SERCA2 allows calcium ions to pass into and out of the cell in response to cell signals.
+ATP2A2
+gene variants result in insufficient amounts of functional SERCA2 enzyme. A lack of functional SERCA2 enzyme reduces calcium levels in the endoplasmic reticulum, causing it to become dysfunctional. SERCA2 is expressed throughout the body; it is not clear why changes in this enzyme affect only the skin. Some researchers note that skin cells are the only cell types that express SERCA2 that do not have a "back-up" enzyme for calcium transport. This dependence on the SERCA2 enzyme may make skin cells particularly vulnerable to changes in this enzyme.
+The linear form of Darier disease is caused by
+ATP2A2
+gene variants that are acquired during a person's lifetime and are present only in certain cells. These changes are called somatic variants and are not inherited. Currently, no cases of people with the linear form of Darier disease passing it on to their children have been reported in the scientific literature.
+Learn more about the gene associated with Darier disease
+ATP2A2
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the variant from
+one affected parent
+. Other cases result from a
+new (de novo) variant
+in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or in early embryonic development. These affected individuals have no history of the disorder in their family.
+The linear form of Darier disease is generally not inherited but arises from a variant in the gene that occurs after conception. This alteration is called a somatic variant.
+Other Names for This Condition
+Darier's disease
+Darier-White disease
+Keratosis follicularis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Keratosis follicularis
+Genetic and Rare Diseases Information Center
+Darier disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+DARIER-WHITE DISEASE; DAR
+Scientific Articles on PubMed
+PubMed
+References
+Amichai B, Karpati M, Goldman B, Peleg L. Novel mutations in two families with
+Darier's disease. Int J Dermatol. 2007 Jan;46(1):64-7. doi:
+10.1111/j.1365-4632.2006.03049.x.
+Citation on PubMed
+Byrne CR. The focal nature of Darier's disease lesions: calcium pumps, stress,
+and mutation? J Invest Dermatol. 2006 Apr;126(4):702-3. doi:
+10.1038/sj.jid.5700141.
+Citation on PubMed
+Dhitavat J, Fairclough RJ, Hovnanian A, Burge SM. Calcium pumps and
+keratinocytes: lessons from Darier's disease and Hailey-Hailey disease. Br J
+Dermatol. 2004 May;150(5):821-8. doi: 10.1111/j.1365-2133.2004.05904.x.
+Citation on PubMed
+Foggia L, Hovnanian A. Calcium pump disorders of the skin. Am J Med Genet C
+Semin Med Genet. 2004 Nov 15;131C(1):20-31. doi: 10.1002/ajmg.c.30031.
+Citation on PubMed
+Korman AM, Milani-Nejad N. Darier Disease. JAMA Dermatol. 2020 Oct
+1;156(10):1125. doi: 10.1001/jamadermatol.2020.2543. No abstract available.
+Citation on PubMed
+Miyauchi Y, Daiho T, Yamasaki K, Takahashi H, Ishida-Yamamoto A, Danko S,
+Suzuki H, Iizuka H. Comprehensive analysis of expression and function of 51
+sarco(endo)plasmic reticulum Ca2+-ATPase mutants associated with Darier disease.
+J Biol Chem. 2006 Aug 11;281(32):22882-95. doi: 10.1074/jbc.M601966200. Epub 2006
+Jun 9.
+Citation on PubMed
+Onozuka T, Sawamura D, Yokota K, Shimizu H. Mutational analysis of the ATP2A2
+gene in two Darier disease families with intrafamilial variability. Br J
+Dermatol. 2004 Apr;150(4):652-7. doi: 10.1111/j.0007-0963.2004.05868.x.
+Citation on PubMed
+Redondo Mateo J. On Darier Disease: A Case Series of 20 Patients and Review of
+the Literature. Actas Dermosifiliogr. 2022 Apr;113(4):442. doi:
+10.1016/j.ad.2021.10.008. Epub 2021 Dec 17. No abstract available. English,
+Spanish.
+Citation on PubMed
+Ringpfeil F, Raus A, DiGiovanna JJ, Korge B, Harth W, Mazzanti C, Uitto J,
+Bale SJ, Richard G. Darier disease--novel mutations in ATP2A2 and
+genotype-phenotype correlation. Exp Dermatol. 2001 Feb;10(1):19-27. doi:
+10.1034/j.1600-0625.2001.100103.x.
+Citation on PubMed
+Rogner DF, Lammer J, Zink A, Hamm H. Darier and Hailey-Hailey disease: update
+2021. J Dtsch Dermatol Ges. 2021 Oct;19(10):1478-1501. doi: 10.1111/ddg.14619.
+Citation on PubMed
+Sehgal VN, Srivastava G. Darier's (Darier-White) disease/keratosis
+follicularis. Int J Dermatol. 2005 Mar;44(3):184-92. doi:
+10.1111/j.1365-4632.2004.02408.x. No abstract available.
+Citation on PubMed
+Szigeti R, Kellermayer R. Autosomal-dominant calcium ATPase disorders. J
+Invest Dermatol. 2006 Nov;126(11):2370-6. doi: 10.1038/sj.jid.5700447. Epub 2006
+Jun 22.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

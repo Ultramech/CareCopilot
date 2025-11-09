@@ -1,0 +1,126 @@
+Osteoporosis-pseudoglioma syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Osteoporosis-pseudoglioma syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/osteoporosis-pseudoglioma-syndrome/
+Osteoporosis-pseudoglioma syndrome
+Description
+Osteoporosis-pseudoglioma syndrome is a rare condition characterized by severe thinning of the bones (osteoporosis) and eye abnormalities that lead to vision loss. In people with this condition, osteoporosis is usually recognized in early childhood. It is caused by a shortage of minerals, such as calcium, in bones (decreased bone mineral density), which makes the bones brittle and prone to fracture. Affected individuals often have multiple bone fractures, including in the bones that form the spine (vertebrae). Multiple fractures can cause collapse of the affected vertebrae (compressed vertebrae), abnormal side-to-side curvature of the spine (
+scoliosis
+), short stature, and limb deformities. Decreased bone mineral density can also cause softening or thinning of the skull (craniotabes).
+Most affected individuals have impaired vision at birth or by early infancy and are blind by young adulthood. Vision problems are usually caused by one of several eye conditions, grouped together as pseudoglioma, that affect the light-sensitive tissue at the back of the eye (
+the retina
+), although other eye conditions have been identified in affected individuals. Pseudogliomas are so named because, on examination, the conditions resemble an eye tumor known as a retinal glioma.
+Rarely, people with osteoporosis-pseudoglioma syndrome have additional signs or symptoms such as mild intellectual disability, weak muscle tone (hypotonia), abnormally flexible joints, or seizures.
+Frequency
+Osteoporosis-pseudoglioma syndrome is a rare disorder that occurs in approximately 1 in 2 million people.
+Causes
+Osteoporosis-pseudoglioma syndrome is caused by mutations in the
+LRP5
+gene. This gene provides instructions for making a protein that participates in a chemical signaling pathway that affects the way cells and tissues develop. In particular, the LRP5 protein helps regulate bone mineral density and plays a critical role in development of the retina.
+LRP5
+gene mutations that cause osteoporosis-pseudoglioma syndrome prevent cells from making any LRP5 protein or lead to a protein that cannot function. Loss of this protein's function disrupts the chemical signaling pathways that are needed for the formation of bone and for normal retinal development, leading to the bone and eye abnormalities characteristic of osteoporosis-pseudoglioma syndrome.
+Learn more about the gene associated with Osteoporosis-pseudoglioma syndrome
+LRP5
+Inheritance
+Osteoporosis-pseudoglioma syndrome is inherited in an
+autosomal recessive pattern
+, which means both copies of the
+LRP5
+gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. However, some carriers may have decreased bone mineral density.
+Other Names for This Condition
+OPPG
+Osteogenesis imperfecta, ocular form
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Osteoporosis with pseudoglioma
+Genetic and Rare Diseases Information Center
+Osteoporosis-pseudoglioma syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+OSTEOPOROSIS-PSEUDOGLIOMA SYNDROME; OPPG
+Scientific Articles on PubMed
+PubMed
+References
+Ai M, Heeger S, Bartels CF, Schelling DK; Osteoporosis-Pseudoglioma
+Collaborative Group. Clinical and molecular findings in osteoporosis-pseudoglioma
+syndrome. Am J Hum Genet. 2005 Nov;77(5):741-53. doi: 10.1086/497706. Epub 2005
+Sep 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gong Y, Slee RB, Fukai N, Rawadi G, Roman-Roman S, Reginato AM, Wang H, Cundy
+T, Glorieux FH, Lev D, Zacharin M, Oexle K, Marcelino J, Suwairi W, Heeger S,
+Sabatakos G, Apte S, Adkins WN, Allgrove J, Arslan-Kirchner M, Batch JA, Beighton
+P, Black GC, Boles RG, Boon LM, Borrone C, Brunner HG, Carle GF, Dallapiccola B,
+De Paepe A, Floege B, Halfhide ML, Hall B, Hennekam RC, Hirose T, Jans A, Juppner
+H, Kim CA, Keppler-Noreuil K, Kohlschuetter A, LaCombe D, Lambert M, Lemyre E,
+Letteboer T, Peltonen L, Ramesar RS, Romanengo M, Somer H, Steichen-Gersdorf E,
+Steinmann B, Sullivan B, Superti-Furga A, Swoboda W, van den Boogaard MJ, Van Hul
+W, Vikkula M, Votruba M, Zabel B, Garcia T, Baron R, Olsen BR, Warman ML;
+Osteoporosis-Pseudoglioma Syndrome Collaborative Group. LDL receptor-related
+protein 5 (LRP5) affects bone accrual and eye development. Cell. 2001 Nov
+16;107(4):513-23. doi: 10.1016/s0092-8674(01)00571-2.
+Citation on PubMed
+Levasseur R, Lacombe D, de Vernejoul MC. LRP5 mutations in
+osteoporosis-pseudoglioma syndrome and high-bone-mass disorders. Joint Bone
+Spine. 2005 May;72(3):207-14. doi: 10.1016/j.jbspin.2004.10.008.
+Citation on PubMed
+Narumi S, Numakura C, Shiihara T, Seiwa C, Nozaki Y, Yamagata T, Momoi MY,
+Watanabe Y, Yoshino M, Matsuishi T, Nishi E, Kawame H, Akahane T, Nishimura G,
+Emi M, Hasegawa T. Various types of LRP5 mutations in four patients with
+osteoporosis-pseudoglioma syndrome: identification of a 7.2-kb microdeletion
+using oligonucleotide tiling microarray. Am J Med Genet A. 2010
+Jan;152A(1):133-40. doi: 10.1002/ajmg.a.33177.
+Citation on PubMed
+Tuysuz B, Bursali A, Alp Z, Suyugul N, Laine CM, Makitie O.
+Osteoporosis-pseudoglioma syndrome: three novel mutations in the LRP5 gene and
+response to bisphosphonate treatment. Horm Res Paediatr. 2012;77(2):115-20. doi:
+10.1159/000336193. Epub 2012 Mar 23.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Density
+Bone Diseases
+Genetic Disorders
+Osteoporosis
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Bone mineral density test
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

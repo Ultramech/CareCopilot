@@ -1,0 +1,163 @@
+Multiple familial trichoepithelioma: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Multiple familial trichoepithelioma
+URL of this page: https://medlineplus.gov/genetics/condition/multiple-familial-trichoepithelioma/
+Multiple familial trichoepithelioma
+Description
+Multiple familial trichoepithelioma is a condition involving multiple skin tumors that develop from structures associated with the skin (skin appendages), such as hair follicles and sweat glands. People with multiple familial trichoepithelioma typically develop large numbers of smooth, round tumors called trichoepitheliomas, which arise from hair follicles. Trichoepitheliomas are generally noncancerous (benign) but occasionally develop into a type of skin cancer called
+basal cell carcinoma
+.
+Individuals with multiple familial trichoepithelioma occasionally also develop other types of tumors, including growths called spiradenomas and cylindromas. Spiradenomas develop in sweat glands. The origin of cylindromas has been unclear; while previously thought to derive from sweat glands, they are now generally believed to begin in hair follicles. Affected individuals are also at increased risk of developing tumors in tissues other than skin appendages, particularly benign or malignant tumors of the salivary glands.
+People with multiple familial trichoepithelioma typically begin developing tumors during childhood or adolescence. The tumors mostly appear on the face, especially in the folds in the skin between the nose and lips (nasolabial folds, sometimes called smile lines), but may also occur on the neck, scalp, or trunk. They may grow larger and increase in number over time.
+In severe cases, the tumors may get in the way of the eyes, ears, nose, or mouth and affect vision, hearing, or other functions. The growths can be disfiguring and may contribute to
+depression
+or other psychological problems. For reasons that are unclear, females with multiple familial trichoepithelioma are often more severely affected than males.
+Frequency
+Multiple familial trichoepithelioma is a rare disorder; its prevalence is unknown.
+Causes
+Multiple familial trichoepithelioma can be caused by mutations in the
+CYLD
+gene. This gene provides instructions for making a protein that helps regulate nuclear factor-kappa-B. Nuclear factor-kappa-B is a group of related proteins that help protect cells from self-destruction (apoptosis) in response to certain signals. In regulating the action of nuclear factor-kappa-B, the CYLD protein allows cells to respond properly to signals to self-destruct when appropriate, such as when the cells become abnormal. By this mechanism, the CYLD protein acts as a tumor suppressor, which means that it helps prevent cells from growing and dividing too fast or in an uncontrolled way.
+People with
+CYLD
+-related multiple familial trichoepithelioma are born with a mutation in one of the two copies of the
+CYLD
+gene in each cell. This mutation prevents the cell from making functional CYLD protein from the altered copy of the gene. However, enough protein is usually produced from the other, normal copy of the gene to regulate cell growth effectively. For tumors to develop, a second mutation or deletion of genetic material involving the other copy of the
+CYLD
+gene must occur in certain cells during a person's lifetime.
+When both copies of the
+CYLD
+gene are mutated in a particular cell, that cell cannot produce any functional CYLD protein. The loss of this protein allows the cell to grow and divide in an uncontrolled way to form a tumor. In people with multiple familial trichoepithelioma, a second
+CYLD
+mutation typically occurs in multiple cells over an affected person's lifetime. The loss of CYLD protein in these cells leads to the growth of skin appendage tumors.
+Some researchers consider multiple familial trichoepithelioma and two related conditions called
+familial cylindromatosis
+and
+Brooke-Spiegler syndrome
+, which are also caused by
+CYLD
+gene mutations, to be different forms of the same disorder. It is unclear why mutations in the
+CYLD
+gene cause different patterns of skin appendage tumors in each of these conditions, or why the tumors are generally confined to the skin in these disorders.
+Some people with multiple familial trichoepithelioma do not have mutations in the
+CYLD
+gene. Scientists are working to identify the genetic cause of the disorder in these individuals.
+Learn more about the gene associated with Multiple familial trichoepithelioma
+CYLD
+Inheritance
+Susceptibility to multiple familial trichoepithelioma has an
+autosomal dominant pattern
+of inheritance, which means one copy of the altered gene in each cell increases the risk of developing this condition. However, a second, non-inherited mutation is required for development of skin appendage tumors in this disorder.
+Other Names for This Condition
+Brooke-Fordyce trichoepitheliomas
+EAC
+Epithelioma adenoides cysticum of Brooke
+Familial multiple trichoepitheliomata
+Hereditary multiple benign cystic epithelioma
+MFT
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial multiple trichoepitheliomata
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+TRICHOEPITHELIOMA, MULTIPLE FAMILIAL, 1; MFT1
+TRICHOEPITHELIOMA, MULTIPLE FAMILIAL, 2
+Scientific Articles on PubMed
+PubMed
+References
+Almeida S, Maillard C, Itin P, Hohl D, Huber M. Five new CYLD mutations in
+skin appendage tumors and evidence that aspartic acid 681 in CYLD is essential
+for deubiquitinase activity. J Invest Dermatol. 2008 Mar;128(3):587-93. doi:
+10.1038/sj.jid.5701045. Epub 2007 Sep 13.
+Citation on PubMed
+Bowen S, Gill M, Lee DA, Fisher G, Geronemus RG, Vazquez ME, Celebi JT.
+Mutations in the CYLD gene in Brooke-Spiegler syndrome, familial cylindromatosis,
+and multiple familial trichoepithelioma: lack of genotype-phenotype correlation.
+J Invest Dermatol. 2005 May;124(5):919-20. doi: 10.1111/j.0022-202X.2005.23688.x.
+Citation on PubMed
+Huang TM, Chao SC, Lee JY. A novel splicing mutation of the CYLD gene in a
+Taiwanese family with multiple familial trichoepithelioma. Clin Exp Dermatol.
+2009 Jan;34(1):77-80. doi: 10.1111/j.1365-2230.2008.02870.x.
+Citation on PubMed
+Kazakov DV, Vanecek T, Zelger B, Carlson JA, Spagnolo DV, Schaller J, Nemcova
+J, Kacerovska D, Vazmitel M, Sangueza M, Emberger M, Belousova I,
+Fernandez-Figueras MT, Kempf W, Meyer DR, Rutten A, Baltaci M, Michal M. Multiple
+(familial) trichoepitheliomas: a clinicopathological and molecular biological
+study, including CYLD and PTCH gene analysis, of a series of 16 patients. Am J
+Dermatopathol. 2011 May;33(3):251-65. doi: 10.1097/DAD.0b013e3181f7d373.
+Citation on PubMed
+Lee DA, Grossman ME, Schneiderman P, Celebi JT. Genetics of skin appendage
+neoplasms and related syndromes. J Med Genet. 2005 Nov;42(11):811-9. doi:
+10.1136/jmg.2004.025577.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lee KH, Kim JE, Cho BK, Kim YC, Park CJ. Malignant transformation of multiple
+familial trichoepithelioma: case report and literature review. Acta Derm
+Venereol. 2008;88(1):43-6. doi: 10.2340/00015555-0322.
+Citation on PubMed
+Saggar S, Chernoff KA, Lodha S, Horev L, Kohl S, Honjo RS, Brandt HR, Hartmann
+K, Celebi JT. CYLD mutations in familial skin appendage tumours. J Med Genet.
+2008 May;45(5):298-302. doi: 10.1136/jmg.2007.056127. Epub 2008 Jan 30.
+Citation on PubMed
+Salhi A, Bornholdt D, Oeffner F, Malik S, Heid E, Happle R, Grzeschik KH.
+Multiple familial trichoepithelioma caused by mutations in the cylindromatosis
+tumor suppressor gene. Cancer Res. 2004 Aug 1;64(15):5113-7. doi:
+10.1158/0008-5472.CAN-04-0307.
+Citation on PubMed
+Young AL, Kellermayer R, Szigeti R, Teszas A, Azmi S, Celebi JT. CYLD
+mutations underlie Brooke-Spiegler, familial cylindromatosis, and multiple
+familial trichoepithelioma syndromes. Clin Genet. 2006 Sep;70(3):246-9. doi:
+10.1111/j.1399-0004.2006.00667.x.
+Citation on PubMed
+Zhang XJ, Liang YH, He PP, Yang S, Wang HY, Chen JJ, Yuan WT, Xu SJ, Cui Y,
+Huang W. Identification of the cylindromatosis tumor-suppressor gene responsible
+for multiple familial trichoepithelioma. J Invest Dermatol. 2004
+Mar;122(3):658-64. doi: 10.1111/j.0022-202X.2004.22321.x.
+Citation on PubMed
+Zheng G, Hu L, Huang W, Chen K, Zhang X, Yang S, Sun J, Jiang Y, Luo G, Kong
+X. CYLD mutation causes multiple familial trichoepithelioma in three Chinese
+families. Hum Mutat. 2004 Apr;23(4):400. doi: 10.1002/humu.9231.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Benign Tumors
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

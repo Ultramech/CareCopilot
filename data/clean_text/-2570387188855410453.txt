@@ -1,0 +1,156 @@
+Hereditary pancreatitis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary pancreatitis
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-pancreatitis/
+Hereditary pancreatitis
+Description
+Hereditary pancreatitis is a genetic condition characterized by recurrent episodes of inflammation of the pancreas (pancreatitis). The pancreas produces enzymes that help digest food, and it also produces
+insulin
+, a hormone that controls levels of blood glucose, also called blood sugar. Episodes of pancreatitis can lead to permanent tissue damage and loss of pancreatic function.
+Signs and symptoms of this condition usually begin in late childhood with an episode of acute pancreatitis. A sudden (acute) attack can cause abdominal pain, fever, nausea, or vomiting. An episode typically lasts from one to three days, although some people may experience severe episodes that last longer. Hereditary pancreatitis progresses to recurrent acute pancreatitis with multiple episodes of acute pancreatitis that recur over a period of at least a year; the number of episodes a person experiences varies. Recurrent acute pancreatitis leads to chronic pancreatitis, which occurs when the pancreas is persistently inflamed. Chronic pancreatitis usually develops by early adulthood in affected individuals. Signs and symptoms of chronic pancreatitis include occasional or frequent abdominal pain of varying severity, flatulence, and bloating. Many individuals with hereditary pancreatitis also develop abnormal calcium deposits in the pancreas (pancreatic calcifications) by early adulthood.
+Years of inflammation damage the pancreas, causing the formation of scar tissue (fibrosis) in place of functioning pancreatic tissue. Pancreatic fibrosis leads to the loss of pancreatic function in many affected individuals. This loss of function can impair the production of digestive enzymes and disrupt normal digestion, leading to fatty stool (steatorrhea), weight loss, and protein and vitamin deficiencies. Because of a decrease in insulin production due to a loss of pancreatic function, about a quarter of individuals with hereditary pancreatitis will develop
+type 1 diabetes
+mellitus by mid-adulthood; the risk of developing diabetes increases with age.
+Chronic pancreatic inflammation and damage to the pancreas increase the risk of developing pancreatic cancer. The risk is particularly high in people with hereditary pancreatitis who also smoke, use alcohol, have type 1 diabetes mellitus, or have a family history of cancer. In affected individuals who develop pancreatic cancer, it is typically diagnosed in mid-adulthood.
+Complications from pancreatic cancer and type 1 diabetes mellitus are the most common causes of death in individuals with hereditary pancreatitis, although individuals with this condition are thought to have a normal life expectancy.
+Frequency
+Hereditary pancreatitis is thought to be a rare condition. In Europe, its prevalence is estimated to be 3 to 6 per million individuals.
+Causes
+Mutations in the
+PRSS1
+gene cause most cases of hereditary pancreatitis. The
+PRSS1
+gene provides instructions for making an enzyme called cationic trypsinogen. This enzyme is produced in the
+pancreas
+and helps with the digestion of food. When cationic trypsinogen is needed, it is released (secreted) from the pancreas and transported to the small intestine, where it is cut (cleaved) into its working or active form called trypsin. When digestion is complete and trypsin is no longer needed, the enzyme is broken down.
+Some
+PRSS1
+gene mutations that cause hereditary pancreatitis result in the production of a cationic trypsinogen enzyme that is prematurely converted to trypsin while it is still in the pancreas. Other mutations prevent trypsin from being broken down. These changes result in elevated levels of trypsin in the pancreas. Trypsin activity in the pancreas can damage pancreatic tissue and can also trigger an immune response, causing inflammation in the pancreas.
+It is estimated that 65 to 80 percent of people with hereditary pancreatitis have mutations in the
+PRSS1
+gene. The remaining cases are caused by mutations in other genes, some of which have not been identified.
+Learn more about the genes associated with Hereditary pancreatitis
+CFTR
+PRSS1
+Additional Information from NCBI Gene:
+CTRC
+SPINK1
+Inheritance
+When hereditary pancreatitis is caused by mutations in the
+PRSS1
+gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the
+PRSS1
+gene mutation from
+one affected parent
+. Other cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+It is estimated that 20 percent of people who have the altered
+PRSS1
+gene never have an episode of pancreatitis. (This situation is known as reduced penetrance.) It is unclear why some people with a mutated gene never develop signs and symptoms of the disease.
+Other Names for This Condition
+Autosomal dominant hereditary pancreatitis
+Familial pancreatitis
+Hereditary chronic pancreatitis
+HP
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary pancreatitis
+Genetic and Rare Diseases Information Center
+Hereditary chronic pancreatitis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PANCREATITIS, HEREDITARY; PCTT
+Scientific Articles on PubMed
+PubMed
+References
+Greer JB, Whitcomb DC. Inflammation and pancreatic cancer: an evidence-based
+review. Curr Opin Pharmacol. 2009 Aug;9(4):411-8. doi:
+10.1016/j.coph.2009.06.011. Epub 2009 Jul 7.
+Citation on PubMed
+Howes N, Lerch MM, Greenhalf W, Stocken DD, Ellis I, Simon P, Truninger K,
+Ammann R, Cavallini G, Charnley RM, Uomo G, Delhaye M, Spicak J, Drumm B, Jansen
+J, Mountford R, Whitcomb DC, Neoptolemos JP; European Registry of Hereditary
+Pancreatitis and Pancreatic Cancer (EUROPAC). Clinical and genetic
+characteristics of hereditary pancreatitis in Europe. Clin Gastroenterol Hepatol.
+2004 Mar;2(3):252-61. doi: 10.1016/s1542-3565(04)00013-8.
+Citation on PubMed
+Joergensen MT, Brusgaard K, Cruger DG, Gerdes AM, Schaffalitzky de Muckadell
+OB. Genetic, epidemiological, and clinical aspects of hereditary pancreatitis: a
+population-based cohort study in Denmark. Am J Gastroenterol. 2010
+Aug;105(8):1876-83. doi: 10.1038/ajg.2010.193. Epub 2010 May 25.
+Citation on PubMed
+Keiles S, Kammesheidt A. Identification of CFTR, PRSS1, and SPINK1 mutations
+in 381 patients with pancreatitis. Pancreas. 2006 Oct;33(3):221-7. doi:
+10.1097/01.mpa.0000232014.94974.75.
+Citation on PubMed
+Lal A, Lal DR. Hereditary pancreatitis. Pediatr Surg Int. 2010
+Dec;26(12):1193-9. doi: 10.1007/s00383-010-2684-4. Epub 2010 Aug 10.
+Citation on PubMed
+Rebours V, Boutron-Ruault MC, Schnee M, Ferec C, Le Marechal C, Hentic O,
+Maire F, Hammel P, Ruszniewski P, Levy P. The natural history of hereditary
+pancreatitis: a national series. Gut. 2009 Jan;58(1):97-103. doi:
+10.1136/gut.2008.149179. Epub 2008 Aug 28.
+Citation on PubMed
+Rebours V, Boutron-Ruault MC, Schnee M, Ferec C, Maire F, Hammel P,
+Ruszniewski P, Levy P. Risk of pancreatic adenocarcinoma in patients with
+hereditary pancreatitis: a national exhaustive series. Am J Gastroenterol. 2008
+Jan;103(1):111-9. doi: 10.1111/j.1572-0241.2007.01597.x.
+Citation on PubMed
+Rebours V, Levy P, Ruszniewski P. An overview of hereditary pancreatitis. Dig
+Liver Dis. 2012 Jan;44(1):8-15. doi: 10.1016/j.dld.2011.08.003. Epub 2011 Sep 9.
+Citation on PubMed
+Solomon S, Whitcomb DC. Genetics of pancreatitis: an update for clinicians and
+genetic counselors. Curr Gastroenterol Rep. 2012 Apr;14(2):112-7. doi:
+10.1007/s11894-012-0240-1.
+Citation on PubMed
+Whitcomb DC, Gorry MC, Preston RA, Furey W, Sossenheimer MJ, Ulrich CD, Martin
+SP, Gates LK Jr, Amann ST, Toskes PP, Liddle R, McGrath K, Uomo G, Post JC,
+Ehrlich GD. Hereditary pancreatitis is caused by a mutation in the cationic
+trypsinogen gene. Nat Genet. 1996 Oct;14(2):141-5. doi: 10.1038/ng1096-141.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Pancreatitis
+MEDICAL ENCYCLOPEDIA
+Acute pancreatitis
+Chronic pancreatitis
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,163 @@
+Pseudoxanthoma elasticum: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pseudoxanthoma elasticum
+URL of this page: https://medlineplus.gov/genetics/condition/pseudoxanthoma-elasticum/
+Pseudoxanthoma elasticum
+Description
+Pseudoxanthoma elasticum (PXE) is a progressive disorder that is characterized by the accumulation of deposits of calcium and other minerals (mineralization) in elastic fibers. Elastic fibers are a component of connective tissue, which provides strength and flexibility to structures throughout the body.
+In PXE, mineralization can affect elastic fibers in the skin, eyes, and blood vessels, and less frequently in other areas such as the digestive tract. People with PXE may have yellowish bumps called papules on their necks, underarms, and other areas of skin that touch when a joint bends (flexor areas). They may also have abnormalities in the eyes, such as a change in the pigmented cells of the
+retina
+(the light-sensitive layer of cells at the back of the eye) known as peau d'orange. Another eye abnormality known as angioid streaks occurs when tiny breaks form in the layer of tissue under the retina called Bruch's membrane. Bleeding and scarring of the retina may also occur, which can cause vision loss.
+Mineralization of the blood vessels that carry blood from the heart to the rest of the body (
+arteries
+) may cause other signs and symptoms of PXE. For example, people with this condition can develop narrowing of the arteries (
+arteriosclerosis
+) or a condition called claudication that is characterized by cramping and pain during exercise due to decreased blood flow to the arms and legs. Rarely, bleeding from blood vessels in the digestive tract may also occur.
+Frequency
+PXE affects approximately 1 in 50,000 people worldwide. For reasons that are unclear, this disorder is diagnosed twice as frequently in females as in males.
+Causes
+Mutations in the
+ABCC6
+gene cause PXE. This gene provides instructions for making a protein called MRP6 (also known as the ABCC6 protein). This protein is found primarily in cells of the liver and kidneys, with small amounts in other tissues, including the skin, stomach, blood vessels, and eyes. MRP6 is thought to transport certain substances across the cell membrane; however, the substances have not been identified. Some studies suggest that the MRP6 protein stimulates the release of a molecule called adenosine triphosphate (ATP) from cells through an unknown mechanism. ATP can be broken down into other molecules, including adenosine monophosphate (AMP) and pyrophosphate. Pyrophosphate helps control deposition of calcium and other minerals in the body. Other studies suggest that a substance transported by MRP6 is involved in the breakdown of ATP. This unidentified substance is thought to help prevent mineralization of tissues.
+Mutations in the
+ABCC6
+gene lead to an absent or nonfunctional MRP6 protein. It is unclear how a lack of properly functioning MRP6 protein leads to PXE. This shortage may impair the release of ATP from cells. As a result, little pyrophosphate is produced, and calcium and other minerals accumulate in elastic fibers of the skin, eyes, blood vessels and other tissues affected by PXE. Alternatively, a lack of functioning MRP6 may impair the transport of a substance that would normally prevent mineralization, leading to the abnormal accumulation of calcium and other minerals characteristic of PXE.
+Learn more about the gene associated with Pseudoxanthoma elasticum
+ABCC6
+Inheritance
+PXE is inherited in an
+autosomal recessive
+manner, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.
+In a few cases, an affected individual has one affected parent and one parent without the signs and symptoms of the disorder. This situation resembles autosomal dominant inheritance, in which one copy of an altered gene in each cell is sufficient to cause a disorder and the mutation is typically inherited from one affected parent. In these cases of PXE, however, the parent without apparent symptoms has an
+ABCC6
+gene mutation. The affected offspring inherits two altered genes, one from each parent. This appearance of autosomal dominant inheritance when the pattern is actually autosomal recessive is called pseudodominance.
+Other Names for This Condition
+Groenblad-Strandberg syndrome
+Gronblad-Strandberg syndrome
+PXE
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pseudoxanthoma elasticum
+Genetic and Rare Diseases Information Center
+Pseudoxanthoma elasticum
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PSEUDOXANTHOMA ELASTICUM, FORME FRUSTE
+PSEUDOXANTHOMA ELASTICUM; PXE
+Scientific Articles on PubMed
+PubMed
+References
+Bercovitch L, Terry P. Pseudoxanthoma elasticum 2004. J Am Acad Dermatol. 2004
+Jul;51(1 Suppl):S13-4. doi: 10.1016/j.jaad.2004.01.015. No abstract available.
+Citation on PubMed
+Chassaing N, Martin L, Calvas P, Le Bert M, Hovnanian A. Pseudoxanthoma
+elasticum: a clinical, pathophysiological and genetic update including 11 novel
+ABCC6 mutations. J Med Genet. 2005 Dec;42(12):881-92. doi:
+10.1136/jmg.2004.030171. Epub 2005 May 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dabisch-Ruthe M, Kuzaj P, Gotting C, Knabbe C, Hendig D. Pyrophosphates as a
+major inhibitor of matrix calcification in Pseudoxanthoma elasticum. J Dermatol
+Sci. 2014 Aug;75(2):109-20. doi: 10.1016/j.jdermsci.2014.04.015. Epub 2014 May
+17.
+Citation on PubMed
+Hu X, Plomp A, Wijnholds J, Ten Brink J, van Soest S, van den Born LI, Leys A,
+Peek R, de Jong PT, Bergen AA. ABCC6/MRP6 mutations: further insight into the
+molecular pathology of pseudoxanthoma elasticum. Eur J Hum Genet. 2003
+Mar;11(3):215-24. doi: 10.1038/sj.ejhg.5200953.
+Citation on PubMed
+Jansen RS, Duijst S, Mahakena S, Sommer D, Szeri F, Varadi A, Plomp A, Bergen
+AA, Oude Elferink RP, Borst P, van de Wetering K. ABCC6-mediated ATP secretion by
+the liver is the main source of the mineralization inhibitor inorganic
+pyrophosphate in the systemic circulation-brief report. Arterioscler Thromb Vasc
+Biol. 2014 Sep;34(9):1985-9. doi: 10.1161/ATVBAHA.114.304017. Epub 2014 Jun 26.
+Citation on PubMed
+Jansen RS, Kucukosmanoglu A, de Haas M, Sapthu S, Otero JA, Hegman IE, Bergen
+AA, Gorgels TG, Borst P, van de Wetering K. ABCC6 prevents ectopic mineralization
+seen in pseudoxanthoma elasticum by inducing cellular nucleotide release. Proc
+Natl Acad Sci U S A. 2013 Dec 10;110(50):20206-11. doi: 10.1073/pnas.1319582110.
+Epub 2013 Nov 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Laube S, Moss C. Pseudoxanthoma elasticum. Arch Dis Child. 2005
+Jul;90(7):754-6. doi: 10.1136/adc.2004.062075.
+Citation on PubMed
+or
+Free article on PubMed Central
+Le Saux O, Beck K, Sachsinger C, Silvestri C, Treiber C, Goring HH, Johnson
+EW, De Paepe A, Pope FM, Pasquali-Ronchetti I, Bercovitch L, Marais AS, Viljoen
+DL, Terry SF, Boyd CD. A spectrum of ABCC6 mutations is responsible for
+pseudoxanthoma elasticum. Am J Hum Genet. 2001 Oct;69(4):749-64. doi:
+10.1086/323704. Epub 2001 Aug 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Miksch S, Lumsden A, Guenther UP, Foernzler D, Christen-Zach S, Daugherty C,
+Ramesar RK, Lebwohl M, Hohl D, Neldner KH, Lindpaintner K, Richards RI, Struk B.
+Molecular genetics of pseudoxanthoma elasticum: type and frequency of mutations
+in ABCC6. Hum Mutat. 2005 Sep;26(3):235-48. doi: 10.1002/humu.20206.
+Citation on PubMed
+Plomp AS, Hu X, de Jong PT, Bergen AA. Does autosomal dominant pseudoxanthoma
+elasticum exist? Am J Med Genet A. 2004 May 1;126A(4):403-12. doi:
+10.1002/ajmg.a.20632.
+Citation on PubMed
+Ringpfeil F, McGuigan K, Fuchsel L, Kozic H, Larralde M, Lebwohl M, Uitto J.
+Pseudoxanthoma elasticum is a recessive disease characterized by compound
+heterozygosity. J Invest Dermatol. 2006 Apr;126(4):782-6. doi:
+10.1038/sj.jid.5700115.
+Citation on PubMed
+Ringpfeil F, Pulkkinen L, Uitto J. Molecular genetics of pseudoxanthoma
+elasticum. Exp Dermatol. 2001 Aug;10(4):221-8. doi:
+10.1034/j.1600-0625.2001.100401.x.
+Citation on PubMed
+Terry SF, Uitto J. Pseudoxanthoma Elasticum. 2001 Jun 5 [updated 2020 Jun 4].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1113/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Connective Tissue Disorders
+Genetic Disorders
+Vascular Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

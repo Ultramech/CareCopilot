@@ -1,0 +1,146 @@
+Lamellar ichthyosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Lamellar ichthyosis
+URL of this page: https://medlineplus.gov/genetics/condition/lamellar-ichthyosis/
+Lamellar ichthyosis
+Description
+Lamellar ichthyosis is a condition that mainly affects the skin. Infants with this condition are typically born with a tight, clear sheath covering their skin called a collodion membrane. This membrane usually dries and peels off during the first few weeks of life, and then it becomes obvious that affected babies have scaly skin, and eyelids and lips that are turned outward. People with lamellar ichthyosis typically have large, dark, plate-like scales covering their skin on most of their body. Infants with lamellar ichthyosis may develop infections, an excessive loss of fluids (dehydration), and respiratory problems. Affected individuals may also have hair loss (alopecia), abnormally formed fingernails and toenails (nail dystrophy), a decreased ability to sweat (hypohidrosis), an increased sensitivity to heat, and a thickening of the skin on the palms of the hands and soles of the feet (keratoderma). Less frequently, affected individuals have reddened skin (erythema) and joint deformities (contractures).
+Frequency
+Lamellar ichthyosis is estimated to affect 1 in 100,000 individuals in the United States. This condition is more common in Norway, where an estimated 1 in 91,000 individuals are affected.
+Causes
+Mutations in one of many genes can cause lamellar ichthyosis. These genes provide instructions for making proteins that are found in the outermost layer of the skin (
+the epidermis
+). The skin abnormalities associated with lamellar ichthyosis disrupt the normal formation of the epidermis, resulting in impaired regulation of body temperature, water retention, and resistance to infections.
+Mutations in the
+TGM1
+gene are responsible for approximately 90 percent of cases of lamellar ichthyosis. The
+TGM1
+gene provides instructions for making an enzyme called transglutaminase 1. This enzyme is involved in the formation of the cornified cell envelope, which is a structure that surrounds skin cells and helps form a protective barrier between the body and its environment.
+TGM1
+gene mutations lead to severely reduced or absent enzyme production, which prevents the formation of the cornified cell envelope.
+Mutations in other genes associated with lamellar ichthyosis are each responsible for only a small percentage of cases. In some people with lamellar ichthyosis, the cause of the disorder is unknown. Researchers have identified multiple chromosome regions that contain genes that may be associated with lamellar ichthyosis, although the specific genes have not been identified.
+Learn more about the genes associated with Lamellar ichthyosis
+ABCA12
+TGM1
+Additional Information from NCBI Gene:
+CYP4F22
+LIPN
+NIPAL4
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Collodion baby
+Collodion baby syndrome
+Ichthyoses, lamellar
+Ichthyosis, lamellar
+LI
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 3
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 4A
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 5
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 8
+Genetic Testing Registry: Congenital ichthyosis of skin
+Genetic and Rare Diseases Information Center
+Lamellar ichthyosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 4A; ARCI4A
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 1; ARCI1
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 5; ARCI5
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 3; ARCI3
+Scientific Articles on PubMed
+PubMed
+References
+Akiyama M. ABCA12 mutations and autosomal recessive congenital ichthyosis: a
+review of genotype/phenotype correlations and of pathogenetic concepts. Hum
+Mutat. 2010 Oct;31(10):1090-6. doi: 10.1002/humu.21326.
+Citation on PubMed
+Farasat S, Wei MH, Herman M, Liewehr DJ, Steinberg SM, Bale SJ, Fleckman P,
+Toro JR. Novel transglutaminase-1 mutations and genotype-phenotype investigations
+of 104 patients with autosomal recessive congenital ichthyosis in the USA. J Med
+Genet. 2009 Feb;46(2):103-11. doi: 10.1136/jmg.2008.060905. Epub 2008 Oct 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Herman ML, Farasat S, Steinbach PJ, Wei MH, Toure O, Fleckman P, Blake P, Bale
+SJ, Toro JR. Transglutaminase-1 gene mutations in autosomal recessive congenital
+ichthyosis: summary of mutations (including 23 novel) and modeling of TGase-1.
+Hum Mutat. 2009 Apr;30(4):537-47. doi: 10.1002/humu.20952.
+Citation on PubMed
+or
+Free article on PubMed Central
+Israeli S, Khamaysi Z, Fuchs-Telem D, Nousbeck J, Bergman R, Sarig O, Sprecher
+E. A mutation in LIPN, encoding epidermal lipase N, causes a late-onset form of
+autosomal-recessive congenital ichthyosis. Am J Hum Genet. 2011 Apr
+8;88(4):482-7. doi: 10.1016/j.ajhg.2011.02.011.
+Citation on PubMed
+or
+Free article on PubMed Central
+Oji V, Tadini G, Akiyama M, Blanchet Bardon C, Bodemer C, Bourrat E, Coudiere
+P, DiGiovanna JJ, Elias P, Fischer J, Fleckman P, Gina M, Harper J, Hashimoto T,
+Hausser I, Hennies HC, Hohl D, Hovnanian A, Ishida-Yamamoto A, Jacyk WK, Leachman
+S, Leigh I, Mazereeuw-Hautier J, Milstone L, Morice-Picard F, Paller AS, Richard
+G, Schmuth M, Shimizu H, Sprecher E, Van Steensel M, Taieb A, Toro JR, Vabres P,
+Vahlquist A, Williams M, Traupe H. Revised nomenclature and classification of
+inherited ichthyoses: results of the First Ichthyosis Consensus Conference in
+Soreze 2009. J Am Acad Dermatol. 2010 Oct;63(4):607-41. doi:
+10.1016/j.jaad.2009.11.020.
+Citation on PubMed
+Rodriguez-Pazos L, Ginarte M, Vega A, Toribio J. Autosomal recessive
+congenital ichthyosis. Actas Dermosifiliogr. 2013 May;104(4):270-84. doi:
+10.1016/j.adengl.2011.11.021. Epub 2013 Apr 3. English, Spanish.
+Citation on PubMed
+Terrinoni A, Serra V, Codispoti A, Talamonti E, Bui L, Palombo R, Sette M,
+Campione E, Didona B, Annicchiarico-Petruzzelli M, Zambruno G, Melino G, Candi E.
+Novel transglutaminase 1 mutations in patients affected by lamellar ichthyosis.
+Cell Death Dis. 2012 Oct 25;3(10):e416. doi: 10.1038/cddis.2012.152.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Lamellar ichthyosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,194 @@
+BAP1 tumor predisposition syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+BAP1 tumor predisposition syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/bap1-tumor-predisposition-syndrome/
+BAP1 tumor predisposition syndrome
+Description
+BAP1
+tumor predisposition syndrome is an inherited disorder that increases the risk of a variety of cancerous (malignant) and noncancerous (benign) tumors, most commonly certain types of tumors that occur in the skin, eyes, kidneys, and the tissue that lines the chest, abdomen, and the outer surface of the internal organs (the mesothelium). Affected individuals can develop one or more types of tumor, and affected members of the same family can have different types.
+Some people with
+BAP1
+tumor predisposition syndrome develop growths in the skin known as atypical Spitz tumors. People with this syndrome may have more than one of these tumors, and they can have dozens. Atypical Spitz tumors are generally considered benign, although it is unclear if they can become cancerous. Skin cancers are also associated with
+BAP1
+tumor predisposition syndrome, including cutaneous
+melanoma
+and
+basal cell carcinoma
+.
+A type of eye cancer called
+uveal melanoma
+is the most common cancerous tumor in
+BAP1
+tumor predisposition syndrome. Although uveal melanoma does not usually cause any symptoms, some people with this type of cancer have blurred vision; small, moving dots (floaters) or flashes of light in their vision; headaches; or a visible dark spot on the eye.
+People with
+BAP1
+tumor predisposition syndrome are at risk of developing
+malignant mesothelioma
+, which is cancer of the mesothelium. When associated with
+BAP1
+tumor predisposition syndrome, malignant mesothelioma most often occurs in the membrane that lines the abdomen and covers the abdominal organs (the peritoneum). It less commonly occurs in the outer covering of the lungs (the pleura).
+A form of kidney cancer called clear cell renal cell carcinoma is also associated with the condition. Researchers are still determining whether other forms of cancer are linked to
+BAP1
+tumor predisposition syndrome.
+When they occur in people with
+BAP1
+tumor predisposition syndrome, cancers tend to arise at a younger age and are often more aggressive than cancers in the general population. The cancerous tumors in
+BAP1
+tumor predisposition syndrome tend to spread (metastasize) to other parts of the body. Survival of affected individuals with this syndrome is usually shorter than in other people who have one of these cancers. However, individuals with malignant mesothelioma as part of the
+BAP1
+tumor predisposition syndrome appear to survive longer than those who have the cancer without the syndrome.
+Frequency
+BAP1
+tumor predisposition syndrome is a rare condition; its prevalence is unknown. More than 70 families with the condition have been described in the medical literature.
+Causes
+BAP1
+tumor predisposition syndrome is caused by mutations in the
+BAP1
+gene. The BAP1 protein acts as a tumor suppressor, which means it helps prevent cells from growing and dividing too rapidly or in an uncontrolled way. Its function is to remove molecules called ubiquitin from certain proteins (deubiquitination), which can affect the activity of the protein and its interactions with other proteins. By removing ubiquitin, BAP1 helps regulate diverse cellular processes. The BAP1 protein is thought to be involved in cell growth and division (proliferation), cell death, repair of damaged DNA, and control of gene activity.
+Mutations in the
+BAP1
+gene lead to production of an altered protein that cannot function normally and may be broken down prematurely. In addition to an inherited (germline) mutation in one copy of the gene, which is found in essentially every cell of the body, a second, non-inherited (somatic) mutation usually occurs in the normal copy of the gene in cells that give rise to tumors. Together, the germline and somatic mutations result in a complete loss of BAP1 protein function in tumor cells. A shortage of this protein's function likely impairs the removal of ubiquitin from certain proteins. Although it is unclear exactly how loss of BAP1 function leads to
+BAP1
+tumor predisposition syndrome, researchers speculate that altered activity of proteins normally regulated by BAP1 deubiquitination may promote cell proliferation or survival, resulting in tumor formation.
+Studies suggest that environmental and lifestyle factors help determine which types of tumor develop in individuals with
+BAP1
+tumor predisposition syndrome. For example, exposure to asbestos likely contributes to the development of malignant mesothelioma. While asbestos increases the risk of malignant mesothelioma in the general population, the risk is even higher in individuals with a
+BAP1
+gene mutation. It is not clear why certain tumor types are particularly associated with
+BAP1
+tumor predisposition syndrome.
+Learn more about the gene associated with BAP1 tumor predisposition syndrome
+BAP1
+Inheritance
+BAP1
+tumor predisposition syndrome is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered
+BAP1
+gene increases the chance of developing one or more tumors. In most cases, an affected person has one parent with the condition.
+People with a mutation in the
+BAP1
+gene inherit an increased risk of tumor formation. Not all people with a gene mutation will develop a tumor.
+Other Names for This Condition
+BAP1-related tumor predisposition syndrome
+BAP1-TPDS
+COMMON syndrome
+Cutaneous/ocular melanoma, atypical melanocytic proliferations, and other internal neoplasms
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: BAP1-related tumor predisposition syndrome
+Genetic and Rare Diseases Information Center
+BAP1-related tumor predisposition syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+TUMOR PREDISPOSITION SYNDROME 1; TPDS1
+Scientific Articles on PubMed
+PubMed
+References
+Baumann F, Flores E, Napolitano A, Kanodia S, Taioli E, Pass H, Yang H,
+Carbone M. Mesothelioma patients with germline BAP1 mutations have 7-fold
+improved long-term survival. Carcinogenesis. 2015 Jan;36(1):76-81. doi:
+10.1093/carcin/bgu227. Epub 2014 Nov 7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Cheung M, Kadariya Y, Talarchek J, Pei J, Ohar JA, Kayaleh OR, Testa JR.
+Germline BAP1 mutation in a family with high incidence of multiple primary
+cancers and a potential gene-environment interaction. Cancer Lett. 2015 Dec
+28;369(2):261-5. doi: 10.1016/j.canlet.2015.09.011. Epub 2015 Sep 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mochel MC, Piris A, Nose V, Hoang MP. Loss of BAP1 Expression in Basal Cell
+Carcinomas in Patients With Germline BAP1 Mutations. Am J Clin Pathol. 2015
+Jun;143(6):901-4. doi: 10.1309/AJCPG8LFJC0DHDQT.
+Citation on PubMed
+Ohar JA, Cheung M, Talarchek J, Howard SE, Howard TD, Hesdorffer M, Peng H,
+Rauscher FJ, Testa JR. Germline BAP1 Mutational Landscape of Asbestos-Exposed
+Malignant Mesothelioma Patients with Family History of Cancer. Cancer Res. 2016
+Jan 15;76(2):206-15. doi: 10.1158/0008-5472.CAN-15-0295. Epub 2015 Dec 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pilarski R, Byrne L, Carlo MI, Hanson H, Cebulla C, Abdel-Rahman M.
+BAP1 Tumor Predisposition Syndrome. 2016 Oct 13 [updated 2024 Dec 5].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK390611/
+Citation on PubMed
+Popova T, Hebert L, Jacquemin V, Gad S, Caux-Moncoutier V, Dubois-d'Enghien C,
+Richaudeau B, Renaudin X, Sellers J, Nicolas A, Sastre-Garau X, Desjardins L,
+Gyapay G, Raynal V, Sinilnikova OM, Andrieu N, Manie E, de Pauw A, Gesta P,
+Bonadona V, Maugard CM, Penet C, Avril MF, Barillot E, Cabaret O, Delattre O,
+Richard S, Caron O, Benfodda M, Hu HH, Soufir N, Bressac-de Paillerets B,
+Stoppa-Lyonnet D, Stern MH. Germline BAP1 mutations predispose to renal cell
+carcinomas. Am J Hum Genet. 2013 Jun 6;92(6):974-80. doi:
+10.1016/j.ajhg.2013.04.012. Epub 2013 May 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rai K, Pilarski R, Boru G, Rehman M, Saqr AH, Massengill JB, Singh A, Marino
+MJ, Davidorf FH, Cebulla CM, H Abdel-Rahman M. Germline BAP1 alterations in
+familial uveal melanoma. Genes Chromosomes Cancer. 2017 Feb;56(2):168-174. doi:
+10.1002/gcc.22424. Epub 2016 Oct 26.
+Citation on PubMed
+Rai K, Pilarski R, Cebulla CM, Abdel-Rahman MH. Comprehensive review of BAP1
+tumor predisposition syndrome with report of two new cases. Clin Genet. 2016
+Mar;89(3):285-94. doi: 10.1111/cge.12630. Epub 2015 Jul 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wiesner T, Obenauf AC, Murali R, Fried I, Griewank KG, Ulz P, Windpassinger C,
+Wackernagel W, Loy S, Wolf I, Viale A, Lash AE, Pirun M, Socci ND, Rutten A,
+Palmedo G, Abramson D, Offit K, Ott A, Becker JC, Cerroni L, Kutzner H, Bastian
+BC, Speicher MR. Germline mutations in BAP1 predispose to melanocytic tumors. Nat
+Genet. 2011 Aug 28;43(10):1018-21. doi: 10.1038/ng.910.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Cancer
+Eye Cancer
+Genetic Disorders
+Kidney Cancer
+Melanoma
+Mesothelioma
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,151 @@
+Troyer syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Troyer syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/troyer-syndrome/
+Troyer syndrome
+Description
+Troyer syndrome is a type of hereditary spastic paraplegia, also called hereditary spastic paraparesis. Hereditary spastic paraplegias are a group of genetic disorders characterized by progressive stiffness (spasticity) and weakness of the leg muscles. The degree of leg weakness in people with hereditary spastic paraplegia can vary. Paraparesis is the term used to describe leg weakness, while paraplegia refers to severe weakness of the leg muscles.
+Hereditary spastic paraplegias are divided into two types: pure and complex (sometimes called uncomplicated and complicated). The pure types of hereditary spastic paraplegia involve the legs and the bladder. Complex hereditary spastic paraplegias may include additional signs and symptoms such as intellectual disabilities, problems with coordination and balance (ataxia), and damage to the nerves that connect
+the brain
+and spinal cord to the rest of the body (peripheral neuropathy). Troyer syndrome is a complex hereditary spastic paraplegia.
+People with Troyer syndrome can experience a variety of signs and symptoms. These health problems typically begin in early childhood and slowly worsen over time. Common features of Troyer syndrome include delays in learning to walk and talk, progressive weakness and spasticity of the leg muscles, muscle wasting in the hands and feet (distal amyotrophy), and short stature. Affected individuals may also have speech difficulties (dysarthria), skeletal (bone) abnormalities, and mood swings.
+Troyer syndrome causes the breakdown (degeneration) and death of muscle cells and motor neurons (specialized nerve cells that control muscle movement) throughout a person's lifetime, leading to a slow decline in muscle and nerve function. Most affected individuals require wheelchair assistance by the time they are in their 50s or 60s. Troyer syndrome generally does not affect a person's life expectancy.
+Frequency
+Around 40 cases of Troyer syndrome have been reported. This condition was first recognized in the Old Order Amish population of Ohio. It has since been found in other populations.
+Causes
+Some variants (also called mutations) in the
+SPART
+gene have been found to cause Troyer syndrome. The
+SPART
+gene provides instructions for producing a protein called spartin. Spartin is found in a number of body tissues, including the brain. Researchers believe that spartin may be involved in regulating the size and number of lipid droplets inside the cell. Specifically, spartin may be involved in delivering lipid droplets to the cell's recycling center. Lipid droplets help cells use and store fats, which are an important energy source.
+Spartin also plays a role in other cell activities. Spartin may play a role in regulating the activity of endosomes, which are structures inside the cell that are involved in sorting, transporting, and recycling proteins and other materials. Spartin may also play a role in mitochondrial function. Mitochondria are the energy-producing centers inside the cell.
+The variants that cause Troyer syndrome reduce the amount of functioning protein inside the cell. Cells that do not have enough normal spartin cannot break down lipid droplets properly, which allows fat molecules to build up inside the cell. Researchers are investigating how variants in the
+SPART
+gene cause the specific signs and symptoms of Troyer syndrome.
+Learn more about the gene associated with Troyer syndrome
+SPART
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Autosomal recessive spastic paraplegia type 20
+Spastic paraparesis, childhood-onset, with distal muscle wasting
+Spastic paraplegia 20, autosomal recessive
+Spastic paraplegia, autosomal recessive, Troyer type
+SPG20
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary spastic paraplegia
+Genetic Testing Registry: Troyer syndrome
+Genetic and Rare Diseases Information Center
+Autosomal recessive spastic paraplegia type 20
+Hereditary spastic paraplegia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPASTIC PARAPLEGIA 20, AUTOSOMAL RECESSIVE; SPG20
+Scientific Articles on PubMed
+PubMed
+References
+Auer-Grumbach M, Fazekas F, Radner H, Irmler A, Strasser-Fuchs S, Hartung HP.
+Troyer syndrome: a combination of central brain abnormality and motor neuron
+disease? J Neurol. 1999 Jul;246(7):556-61. doi: 10.1007/s004150050403.
+Citation on PubMed
+Bakowska JC, Jupille H, Fatheddin P, Puertollano R, Blackstone C. Troyer
+syndrome protein spartin is mono-ubiquitinated and functions in EGF receptor
+trafficking. Mol Biol Cell. 2007 May;18(5):1683-92. doi: 10.1091/mbc.e06-09-0833.
+Epub 2007 Mar 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Baple E, Day J, Newman A, Crosby A. Troyer Syndrome. 2004 Nov 16 [updated 2025
+Aug 14]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1382/
+Citation on PubMed
+Burgunder JM, Hunziker W. Hereditary spastic paraplegia: clues from a rare
+disorder for a common problem? IUBMB Life. 2003 Jun;55(6):347-52. doi:
+10.1080/1521654032000114311.
+Citation on PubMed
+Butler S, Helbig KL, Alcaraz W, Seaver LH, Hsieh DT, Rohena L. Three cases of
+Troyer syndrome in two families of Filipino descent. Am J Med Genet A. 2016
+Jul;170(7):1780-5. doi: 10.1002/ajmg.a.37658. Epub 2016 Apr 26.
+Citation on PubMed
+Chung J, Park J, Lai ZW, Lambert TJ, Richards RC, Zhang J, Walther TC, Farese
+RV Jr. The Troyer syndrome protein spartin mediates selective autophagy of lipid
+droplets. Nat Cell Biol. 2023 Aug;25(8):1101-1110. doi:
+10.1038/s41556-023-01178-w. Epub 2023 Jul 13.
+Citation on PubMed
+Manzini MC, Rajab A, Maynard TM, Mochida GH, Tan WH, Nasir R, Hill RS, Gleason
+D, Al Saffar M, Partlow JN, Barry BJ, Vernon M, LaMantia AS, Walsh CA.
+Developmental and degenerative features in a complicated spastic paraplegia. Ann
+Neurol. 2010 Apr;67(4):516-25. doi: 10.1002/ana.21923.
+Citation on PubMed
+Patel H, Cross H, Proukakis C, Hershberger R, Bork P, Ciccarelli FD, Patton
+MA, McKusick VA, Crosby AH. SPG20 is mutated in Troyer syndrome, an hereditary
+spastic paraplegia. Nat Genet. 2002 Aug;31(4):347-8. doi: 10.1038/ng937. Epub
+2002 Jul 22.
+Citation on PubMed
+Proukakis C, Cross H, Patel H, Patton MA, Valentine A, Crosby AH. Troyer
+syndrome revisited. A clinical and radiological study of a complicated hereditary
+spastic paraplegia. J Neurol. 2004 Sep;251(9):1105-10. doi:
+10.1007/s00415-004-0491-3.
+Citation on PubMed
+Reid E. Science in motion: common molecular pathological themes emerge in the
+hereditary spastic paraplegias. J Med Genet. 2003 Feb;40(2):81-6. doi:
+10.1136/jmg.40.2.81.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wan N, Hong Z, Parson MAH, Korfhage JL, Burke JE, Melia TJ, Reinisch KM.
+Spartin-mediated lipid transfer facilitates lipid droplet turnover. Proc Natl
+Acad Sci U S A. 2024 Jan 16;121(3):e2314093121. doi: 10.1073/pnas.2314093121.
+Epub 2024 Jan 8.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Neurologic Diseases
+Neuromuscular Disorders
+Paralysis
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

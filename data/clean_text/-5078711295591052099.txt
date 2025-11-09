@@ -1,0 +1,151 @@
+Phenylketonuria: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Phenylketonuria
+URL of this page: https://medlineplus.gov/genetics/condition/phenylketonuria/
+Phenylketonuria
+Description
+Phenylketonuria (commonly known as PKU) is an inherited disorder that increases the levels of a substance called phenylalanine in the blood. Phenylalanine is a protein building block (
+an amino acid
+) that is obtained from eating certain foods (such as meat, eggs, nuts, and milk) and in some artificial sweeteners. If PKU is not treated, phenylalanine can build up to harmful levels in the body, causing intellectual disability and other serious health problems.
+The signs and symptoms of PKU vary from mild to severe. The most severe form of this disorder is known as classic PKU. Infants with classic PKU appear normal until they are a few months old. Without treatment, these children develop permanent intellectual disability. Seizures, delayed development, behavioral problems, and psychiatric disorders are also common. Untreated individuals may have a musty or mouse-like odor as a side effect of excess phenylalanine in the body. Children with classic PKU tend to have lighter skin and hair than unaffected family members and are also likely to have skin disorders such as eczema.
+Less severe forms of this condition, sometimes called variant PKU and non-PKU hyperphenylalaninemia, have a smaller risk of brain damage. People with very mild cases may not require treatment.
+PKU can often be managed by following a diet that is low in phenylalanine. Since phenylalanine is found in all proteins, the PKU diet consists of avoiding meat, dairy, nuts, tofu, and other foods that are high in protein. Infants with PKU need to be fed with a low-protein formula. Affected individuals are often limited to certain fruits and vegetables and foods containing fats and sugars (such as butter, jelly, pasta, and potato chips). The artificial sweeter aspartame, which is found in diet soda and many other low-calorie items, should be avoided as it contains high amounts of phenylalanine. The amount of phenylalanine that is safe to consume is different for each person. Affected individuals should work with a health care professional to develop an individualized diet.
+Babies born to mothers who have PKU and are not following a low-phenylalanine diet have a significant risk of intellectual disability because they are exposed to very high levels of phenylalanine before birth. These infants may also have a low birth weight and grow more slowly than other children. They may also have heart defects or other heart problems, an abnormally small head size (
+microcephaly
+), and behavioral problems. Women with PKU who are not following a low-phenylalanine diet (and may have high levels of phenylalanine) also have higher risk of pregnancy loss.
+Frequency
+The occurrence of PKU varies among ethnic groups and across geographic regions worldwide. In the United States, PKU occurs in 1 in 25,000 newborns. Most cases of PKU are detected shortly after birth by newborn screening, and treatment is started promptly. As a result, the severe signs and symptoms of classic PKU are rarely seen.
+Causes
+Variants (also called mutations) in the
+PAH
+gene cause phenylketonuria. The
+PAH
+gene provides instructions for making an enzyme called
+phenylalanine hydroxylase
+. This enzyme converts the
+amino acid
+phenylalanine into other important compounds in the body. PAH gene variants result in the production of altered versions of phenylalanine hydroxylase that cannot process phenylalanine effectively. As a result, this amino acid can build up to toxic levels in the blood and other tissues. Because nerve cells in the brain are particularly sensitive to phenylalanine levels, excessive amounts of this substance can cause brain damage.
+Classic PKU, the most severe form of the disorder, occurs in people who have very low levels of phenylalanine hydroxylase activity or who have no phenylalanine hydroxylase activity at all. People with untreated classic PKU have levels of phenylalanine high enough to cause severe brain damage and other serious health problems. Variants in the
+PAH
+gene that allow the enzyme to retain some activity result in milder versions of this condition, such as variant PKU or non-PKU hyperphenylalaninemia.
+Changes in other genes may influence the severity of PKU, but little is known about these additional genetic factors.
+Learn more about the gene associated with Phenylketonuria
+PAH
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Folling disease
+Folling's disease
+PAH deficiency
+Phenylalanine hydroxylase deficiency
+Phenylalanine hydroxylase deficiency disease
+PKU
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Classical phenylketonuria
+Genetic and Rare Diseases Information Center
+Phenylketonuria
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PHENYLKETONURIA; PKU
+Scientific Articles on PubMed
+PubMed
+References
+Arnold G, Vockley J. Phenylalanine Hydroxylase Deficiency. 2000 Jan 10
+[updated 2025 Mar 13]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1504/
+Citation on PubMed
+Blau N. Genetics of Phenylketonuria: Then and Now. Hum Mutat. 2016
+Jun;37(6):508-15. doi: 10.1002/humu.22980. Epub 2016 Mar 18.
+Citation on PubMed
+Elhawary NA, AlJahdali IA, Abumansour IS, Elhawary EN, Gaboon N, Dandini M,
+Madkhali A, Alosaimi W, Alzahrani A, Aljohani F, Melibary EM, Kensara OA. Genetic
+etiology and clinical challenges of phenylketonuria. Hum Genomics. 2022 Jul
+19;16(1):22. doi: 10.1186/s40246-022-00398-9.
+Citation on PubMed
+Hillert A, Anikster Y, Belanger-Quintana A, Burlina A, Burton BK, Carducci C,
+Chiesa AE, Christodoulou J, Dordevic M, Desviat LR, Eliyahu A, Evers RAF,
+Fajkusova L, Feillet F, Bonfim-Freitas PE, Gizewska M, Gundorova P, Karall D,
+Kneller K, Kutsev SI, Leuzzi V, Levy HL, Lichter-Konecki U, Muntau AC, Namour F,
+Oltarzewski M, Paras A, Perez B, Polak E, Polyakov AV, Porta F, Rohrbach M,
+Scholl-Burgi S, Specola N, Stojiljkovic M, Shen N, Santana-da Silva LC, Skouma A,
+van Spronsen F, Stoppioni V, Thony B, Trefz FK, Vockley J, Yu Y, Zschocke J,
+Hoffmann GF, Garbade SF, Blau N. The Genetic Landscape and Epidemiology of
+Phenylketonuria. Am J Hum Genet. 2020 Aug 6;107(2):234-250. doi:
+10.1016/j.ajhg.2020.06.006. Epub 2020 Jul 14.
+Citation on PubMed
+Lichter-Konecki U, Vockley J. Phenylketonuria: Current Treatments and Future
+Developments. Drugs. 2019 Apr;79(5):495-500. doi: 10.1007/s40265-019-01079-z.
+Citation on PubMed
+MacDonald A, van Wegberg AMJ, Ahring K, Beblo S, Belanger-Quintana A, Burlina
+A, Campistol J, Coskun T, Feillet F, Gizewska M, Huijbregts SC, Leuzzi V, Maillot
+F, Muntau AC, Rocha JC, Romani C, Trefz F, van Spronsen FJ. PKU dietary handbook
+to accompany PKU guidelines. Orphanet J Rare Dis. 2020 Jun 30;15(1):171. doi:
+10.1186/s13023-020-01391-y.
+Citation on PubMed
+Management of Women With Phenylalanine Hydroxylase Deficiency
+(Phenylketonuria): ACOG Committee Opinion, Number 802. Obstet Gynecol. 2020
+Apr;135(4):e167-e170. doi: 10.1097/AOG.0000000000003768.
+Citation on PubMed
+van Spronsen FJ, Blau N, Harding C, Burlina A, Longo N, Bosch AM.
+Phenylketonuria. Nat Rev Dis Primers. 2021 May 20;7(1):36. doi:
+10.1038/s41572-021-00267-0.
+Citation on PubMed
+van Wegberg AMJ, MacDonald A, Ahring K, Belanger-Quintana A, Blau N, Bosch AM,
+Burlina A, Campistol J, Feillet F, Gizewska M, Huijbregts SC, Kearney S, Leuzzi
+V, Maillot F, Muntau AC, van Rijn M, Trefz F, Walter JH, van Spronsen FJ. The
+complete European guidelines on phenylketonuria: diagnosis and treatment.
+Orphanet J Rare Dis. 2017 Oct 12;12(1):162. doi: 10.1186/s13023-017-0685-2.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Newborn Screening
+Phenylketonuria
+MEDICAL ENCYCLOPEDIA
+Genetics
+Phenylketonuria
+Serum phenylalanine screening
+Related Medical Tests
+Phenylketonuria (PKU) Screening
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

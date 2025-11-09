@@ -1,0 +1,126 @@
+N-acetylglutamate synthase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+N-acetylglutamate synthase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/n-acetylglutamate-synthase-deficiency/
+N-acetylglutamate synthase deficiency
+Description
+N-acetylglutamate synthase deficiency is a disorder that causes abnormally high levels of ammonia to accumulate in the blood. Ammonia, which is formed when proteins are broken down in the body, is toxic if the levels become too high. The brain is especially sensitive to the effects of excess ammonia.
+The signs and symptoms of N-acetylglutamate synthase deficiency often become evident in the first few days of life. An infant with this condition may be lacking in energy (lethargic) or unwilling to eat, and have difficulty controlling his or her breathing rate or body temperature. Severely affected babies may experience seizures or unusual body movements, or go into a coma. Complications of N-acetylglutamate synthase deficiency may include developmental delay and intellectual disability.
+In some affected individuals, signs and symptoms of N-acetylglutamate synthase deficiency do not appear until later in life. Some people with this form of the disorder notice that eating high-protein foods, such as meat, affects how they feel, although they may not know why. In many affected adults, illness or other stress can trigger episodes of vomiting, lack of coordination, headaches, confusion, behavioral changes, or coma.
+Frequency
+N-acetylglutamate synthase deficiency is a very rare disorder. It is estimated to affect fewer than 1 in 2 million people worldwide.
+Causes
+Mutations in the
+NAGS
+gene cause N-acetylglutamate synthase deficiency. This condition belongs to a class of genetic diseases called urea cycle disorders because they are caused by problems with a process in the body called the urea cycle. The urea cycle is a sequence of reactions that occurs in
+liver
+cells. This cycle breaks down excess nitrogen, which is made when protein is used by the body, to make a compound called urea. Urea is removed from the body in urine.
+The
+NAGS
+gene provides instructions for making the enzyme N-acetylglutamate synthase, which is integral to the first step of the urea cycle.
+In people with N-acetylglutamate synthase deficiency, N-acetylglutamate synthase is not available in sufficient quantities, or is not present at all. As a result, the urea cycle is impaired, and nitrogen is not broken down efficiently. The excess nitrogen accumulates in the blood in the form of ammonia. This buildup of ammonia damages tissues in the brain and causes neurological problems and other signs and symptoms of N-acetylglutamate synthase deficiency.
+Learn more about the gene associated with N-acetylglutamate synthase deficiency
+NAGS
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Hyperammonemia, type III
+N-acetylglutamate synthetase deficiency
+NAGS deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hyperammonemia, type III
+Genetic and Rare Diseases Information Center
+Hyperammonemia due to N-acetylglutamate synthase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+N-ACETYLGLUTAMATE SYNTHASE DEFICIENCY; NAGSD
+Scientific Articles on PubMed
+PubMed
+References
+Caldovic L, Morizono H, Panglao MG, Cheng SF, Packman S, Tuchman M. Null
+mutations in the N-acetylglutamate synthase gene associated with acute neonatal
+disease and hyperammonemia. Hum Genet. 2003 Apr;112(4):364-8. doi:
+10.1007/s00439-003-0909-5. Epub 2003 Feb 20.
+Citation on PubMed
+Caldovic L, Morizono H, Panglao MG, Lopez GY, Shi D, Summar ML, Tuchman M.
+Late onset N-acetylglutamate synthase deficiency caused by hypomorphic alleles.
+Hum Mutat. 2005 Mar;25(3):293-8. doi: 10.1002/humu.20146.
+Citation on PubMed
+Cavicchi C, Chilleri C, Fioravanti A, Ferri L, Ripandelli F, Costa C,
+Calabresi P, Prontera P, Pochiero F, Pasquini E, Funghini S, la Marca G, Donati
+MA, Morrone A. Late-Onset N-Acetylglutamate Synthase Deficiency: Report of a
+Paradigmatic Adult Case Presenting with Headaches and Review of the Literature.
+Int J Mol Sci. 2018 Jan 24;19(2):345. doi: 10.3390/ijms19020345.
+Citation on PubMed
+or
+Free article on PubMed Central
+Elpeleg O, Shaag A, Ben-Shalom E, Schmid T, Bachmann C. N-acetylglutamate
+synthase deficiency and the treatment of hyperammonemic encephalopathy. Ann
+Neurol. 2002 Dec;52(6):845-9. doi: 10.1002/ana.10406.
+Citation on PubMed
+Haberle J, Schmidt E, Pauli S, Kreuder JG, Plecko B, Galler A, Wermuth B,
+Harms E, Koch HG. Mutation analysis in patients with N-acetylglutamate synthase
+deficiency. Hum Mutat. 2003 Jun;21(6):593-7. doi: 10.1002/humu.10216.
+Citation on PubMed
+Sancho-Vaello E, Marco-Marin C, Gougeard N, Fernandez-Murga L, Rufenacht V,
+Mustedanagic M, Rubio V, Haberle J. Understanding N-Acetyl-L-Glutamate Synthase
+Deficiency: Mutational Spectrum, Impact of Clinical Mutations on Enzyme
+Functionality, and Structural Considerations. Hum Mutat. 2016 Jul;37(7):679-94.
+doi: 10.1002/humu.22995. Epub 2016 May 6.
+Citation on PubMed
+Schmidt E, Nuoffer JM, Haberle J, Pauli S, Guffon N, Vianey-Saban C, Wermuth
+B, Koch HG. Identification of novel mutations of the human N-acetylglutamate
+synthase gene and their functional investigation by expression studies. Biochim
+Biophys Acta. 2005 Apr 15;1740(1):54-9. doi: 10.1016/j.bbadis.2005.02.006. Epub
+2005 Feb 24.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Metabolic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hereditary urea cycle abnormality
+Related Medical Tests
+Ammonia Levels
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

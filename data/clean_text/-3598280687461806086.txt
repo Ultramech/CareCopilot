@@ -1,0 +1,123 @@
+Hailey-Hailey disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hailey-Hailey disease
+URL of this page: https://medlineplus.gov/genetics/condition/hailey-hailey-disease/
+Hailey-Hailey disease
+Description
+Hailey-Hailey disease, also known as benign chronic pemphigus, is a rare skin condition that usually appears in early adulthood. The disorder is characterized by red, raw, and blistered areas of skin that occur most often in skin folds, such as the groin, armpits, neck, and under the breasts. These inflamed areas can become crusty or scaly and may itch and burn. The skin problems tend to worsen with exposure to moisture (such as sweat), friction, and hot weather.
+The severity of Hailey-Hailey disease varies from relatively mild episodes of skin irritation to widespread, persistent areas of raw and blistered skin that interfere with daily activities. Affected skin may become infected with bacteria or fungi, leading to pain and odor. Although the condition is described as "benign" (noncancerous), in rare cases the skin lesions may develop into a form of skin cancer called
+squamous cell carcinoma
+.
+Many affected individuals also have white lines running the length of their fingernails. These lines do not cause any problems, but they can be useful for diagnosing Hailey-Hailey disease.
+Frequency
+Hailey-Hailey disease is a rare condition; its prevalence is unknown.
+Causes
+Hailey-Hailey disease results from mutations in the
+ATP2C1
+gene. This gene provides instructions for producing a protein called hSPCA1, which is found in many types of cells. The hSPCA1 protein helps cells store calcium until it is needed. Calcium has several critical functions in cells, including regulating cell growth and division (proliferation) and helping cells stick to one another (cell adhesion). The hSPCA1 protein appears to be particularly important for the normal function of cells called keratinocytes, which are found in the outer layer of the skin (the epidermis). In addition to proliferation and adhesion, calcium regulation in keratinocytes plays an important role in the barrier function of skin, which helps keep foreign invaders such as bacteria out of the body.
+Mutations in the
+ATP2C1
+gene reduce the amount of functional hSPCA1 protein in cells. This abnormality impairs cells' ability to store calcium normally. For unknown reasons, this abnormal calcium storage affects keratinocytes more than other types of cells. The abnormal regulation of calcium impairs many cell functions, including cell adhesion. As a result, keratinocytes do not stick tightly to one another, which causes the epidermis to become fragile and less resistant to minor trauma. Because the skin is easily damaged, it develops raw, blistered areas, particularly in skin folds where there is moisture and friction. In addition, abnormal calcium regulation disrupts the barrier function of the skin, making it more susceptible to infections. However, it is unclear how a reduction of hSPCA1 protein function affects the skin barrier, and how its impairment is involved in Hailey-Hailey disease.
+Learn more about the gene associated with Hailey-Hailey disease
+ATP2C1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Benign chronic pemphigus
+Benign familial pemphigus
+Familial benign chronic pemphigus
+Pemphigus, benign familial
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial benign pemphigus
+Genetic and Rare Diseases Information Center
+Familial benign chronic pemphigus
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HAILEY-HAILEY DISEASE; HHD
+Scientific Articles on PubMed
+PubMed
+References
+Behne MJ, Tu CL, Aronchik I, Epstein E, Bench G, Bikle DD, Pozzan T, Mauro TM.
+Human keratinocyte ATP2C1 localizes to the Golgi and controls Golgi Ca2+ stores.
+J Invest Dermatol. 2003 Oct;121(4):688-94. doi: 10.1046/j.1523-1747.2003.12528.x.
+Citation on PubMed
+Burge SM. Hailey-Hailey disease: the clinical features, response to treatment
+and prognosis. Br J Dermatol. 1992 Mar;126(3):275-82. doi:
+10.1111/j.1365-2133.1992.tb00658.x.
+Citation on PubMed
+Dobson-Stone C, Fairclough R, Dunne E, Brown J, Dissanayake M, Munro CS,
+Strachan T, Burge S, Sudbrak R, Monaco AP, Hovnanian A. Hailey-Hailey disease:
+molecular and clinical characterization of novel mutations in the ATP2C1 gene. J
+Invest Dermatol. 2002 Feb;118(2):338-43. doi: 10.1046/j.0022-202x.2001.01675.x.
+Citation on PubMed
+Foggia L, Aronchik I, Aberg K, Brown B, Hovnanian A, Mauro TM. Activity of the
+hSPCA1 Golgi Ca2+ pump is essential for Ca2+-mediated Ca2+ response and cell
+viability in Darier disease. J Cell Sci. 2006 Feb 15;119(Pt 4):671-9. doi:
+10.1242/jcs.02781.
+Citation on PubMed
+Hu Z, Bonifas JM, Beech J, Bench G, Shigihara T, Ogawa H, Ikeda S, Mauro T,
+Epstein EH Jr. Mutations in ATP2C1, encoding a calcium pump, cause Hailey-Hailey
+disease. Nat Genet. 2000 Jan;24(1):61-5. doi: 10.1038/71701.
+Citation on PubMed
+Lee SE, Lee SH. Skin Barrier and Calcium. Ann Dermatol. 2018
+Jun;30(3):265-275. doi: 10.5021/ad.2018.30.3.265. Epub 2018 Apr 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Missiaen L, Raeymaekers L, Dode L, Vanoevelen J, Van Baelen K, Parys JB,
+Callewaert G, De Smedt H, Segaert S, Wuytack F. SPCA1 pumps and Hailey-Hailey
+disease. Biochem Biophys Res Commun. 2004 Oct 1;322(4):1204-13. doi:
+10.1016/j.bbrc.2004.07.128.
+Citation on PubMed
+Sudbrak R, Brown J, Dobson-Stone C, Carter S, Ramser J, White J, Healy E,
+Dissanayake M, Larregue M, Perrussel M, Lehrach H, Munro CS, Strachan T, Burge S,
+Hovnanian A, Monaco AP. Hailey-Hailey disease is caused by mutations in ATP2C1
+encoding a novel Ca(2+) pump. Hum Mol Genet. 2000 Apr 12;9(7):1131-40. doi:
+10.1093/hmg/9.7.1131.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Squamous cell skin cancer
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

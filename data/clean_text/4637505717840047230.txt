@@ -1,0 +1,147 @@
+19p13.13 deletion syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+19p13.13 deletion syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/19p1313-deletion-syndrome/
+19p13.13 deletion syndrome
+Description
+19p13.13 deletion syndrome is a condition that results from a chromosomal change in which a small piece of chromosome 19 is
+deleted
+in each cell. The deletion occurs on the short (p) arm of the chromosome at a position designated p13.13.
+Features commonly associated with this chromosomal change include an unusually large head size (
+macrocephaly
+), tall stature, and intellectual disability that is usually moderate in severity. Many affected individuals have significantly delayed development, including speech, and children may speak few or no words. Weak muscle tone (hypotonia) and problems with coordinating muscle movement (ataxia) contribute to delays in gross motor skills (such as sitting and walking) and fine motor skills (such as holding a pencil).
+Other signs and symptoms that can occur with 19p13.13 deletion syndrome include seizures, abnormalities of brain structure, and mild differences in facial features (such as a
+prominent forehead
+). Many affected individuals have problems with feeding and digestion, including constipation, diarrhea, vomiting, and abdominal pain. Eye problems that can impair vision are also common. These include eyes that do not point in the same direction (strabismus) and underdevelopment of the
+optic nerves
+, which carry visual information from the eyes to the brain.
+The signs and symptoms of 19p13.13 deletion syndrome vary among affected individuals. In part, this variation occurs because the size of the deletion, and the number of genes it affects, varies from person to person.
+Frequency
+This condition appears to be rare. About 10 affected individuals have been described in the medical literature.
+Causes
+People with 19p13.13 deletion syndrome are
+missing
+anywhere from about 300,000 DNA building blocks (300 kilobases or 300 kb) to more than 3 million DNA building blocks (3 megabases or 3 Mb) on the short arm of
+chromosome 19
+. The region of the deletion is usually referred to as p13.13, although some publications refer to it as p13.2. The region is the same; only the numbering differs. The exact size of the deletion varies among affected individuals, but it is thought to include at least 16 genes. This deletion affects one of the two copies of chromosome 19 in each cell.
+The signs and symptoms of 19p13.13 deletion syndrome result from the loss of multiple genes in the deleted region. Some of these genes are suspected to have important roles in normal growth and development, and the loss of one copy of each of these genes likely underlies delayed development, intellectual disability, and the other features of this condition. For example, studies suggest that deletion of the
+CACNA1A
+gene may cause seizures in affected individuals. Researchers are working to determine which missing genes contribute to the other specific features of the disorder.
+Learn more about the genes and chromosome associated with 19p13.13 deletion syndrome
+CACNA1A
+CALR
+chromosome 19
+Additional Information from NCBI Gene:
+BEST2
+MAST1
+NFIX
+Inheritance
+19p13.13 deletion syndrome is typically not inherited but results from the
+deletion
+of a chromosomal segment during the formation of reproductive cells (eggs and sperm) or in early fetal development. Most affected people have no history of the disorder in their family.
+Other Names for This Condition
+19p13.13 microdeletion
+19p13.13 microdeletion syndrome
+Chromosome 19p13.13 deletion syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Chromosome 19p13.13 deletion syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CHROMOSOME 19p13.13 DELETION SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Auvin S, Holder-Espinasse M, Lamblin MD, Andrieux J. Array-CGH detection of a
+de novo 0.7-Mb deletion in 19p13.13 including CACNA1A associated with mental
+retardation and epilepsy with infantile spasms. Epilepsia. 2009
+Nov;50(11):2501-3. doi: 10.1111/j.1528-1167.2009.02189.x. No abstract available.
+Citation on PubMed
+Dolan M, Mendelsohn NJ, Pierpont ME, Schimmenti LA, Berry SA, Hirsch B. A
+novel microdeletion/microduplication syndrome of 19p13.13. Genet Med. 2010
+Aug;12(8):503-11. doi: 10.1097/GIM.0b013e3181e59291.
+Citation on PubMed
+Jezela-Stanek A, Kucharczyk M, Falana K, Jurkiewicz D, Mlynek M, Wicher D,
+Rydzanicz M, Kugaudo M, Cieslikowska A, Ciara E, Ploski R, Krajewska-Walasek M.
+Malan syndrome (Sotos syndrome 2) in two patients with 19p13.2 deletion
+encompassing NFIX gene and novel NFIX sequence variant. Biomed Pap Med Fac Univ
+Palacky Olomouc Czech Repub. 2016 Mar;160(1):161-7. doi: 10.5507/bp.2016.006.
+Epub 2016 Feb 29.
+Citation on PubMed
+Jorge R, Silva C, Agueda S, Doria S, Leao M. Intellectual disability and
+overgrowth-A new case of 19p13.13 microdeletion syndrome with digital
+abnormalities. Am J Med Genet A. 2015 Nov;167A(11):2839-43. doi:
+10.1002/ajmg.a.37280. Epub 2015 Sep 4.
+Citation on PubMed
+Lyon SM, Waggoner D, Halbach S, Thorland EC, Khorasani L, Reid RR. Syndromic
+craniosynostosis associated with microdeletion of chromosome 19p13.12-19p13.2.
+Genes Dis. 2015 Dec;2(4):347-352. doi: 10.1016/j.gendis.2015.09.001. Epub 2015
+Sep 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lysy PA, Ravoet M, Wustefeld S, Bernard P, Nassogne MC, Wyns E, Sibille C. A
+new case of syndromic craniosynostosis with cryptic 19p13.2-p13.13 deletion. Am J
+Med Genet A. 2009 Nov;149A(11):2564-8. doi: 10.1002/ajmg.a.33056. No abstract
+available.
+Citation on PubMed
+Malan V, Rajan D, Thomas S, Shaw AC, Louis Dit Picard H, Layet V, Till M, van
+Haeringen A, Mortier G, Nampoothiri S, Puseljic S, Legeai-Mallet L, Carter NP,
+Vekemans M, Munnich A, Hennekam RC, Colleaux L, Cormier-Daire V. Distinct effects
+of allelic NFIX mutations on nonsense-mediated mRNA decay engender either a
+Sotos-like or a Marshall-Smith syndrome. Am J Hum Genet. 2010 Aug
+13;87(2):189-98. doi: 10.1016/j.ajhg.2010.07.001. Epub 2010 Jul 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nimmakayalu M, Horton VK, Darbro B, Patil SR, Alsayouf H, Keppler-Noreuil K,
+Shchelochkov OA. Apparent germline mosaicism for a novel 19p13.13 deletion
+disrupting NFIX and CACNA1A. Am J Med Genet A. 2013 May;161A(5):1105-9. doi:
+10.1002/ajmg.a.35790. Epub 2013 Mar 13.
+Citation on PubMed
+Related Health Topics
+Developmental Disabilities
+Digestive Diseases
+Eye Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Increased head circumference
+Intellectual disability
+Optic nerve atrophy
+Seizures
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

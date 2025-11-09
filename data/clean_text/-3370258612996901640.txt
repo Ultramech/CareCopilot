@@ -1,0 +1,137 @@
+Progressive osseous heteroplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Progressive osseous heteroplasia
+URL of this page: https://medlineplus.gov/genetics/condition/progressive-osseous-heteroplasia/
+Progressive osseous heteroplasia
+Description
+Progressive osseous heteroplasia is a disorder in which bone forms within skin and muscle tissue. Bone that forms outside the skeleton is called heterotopic or ectopic bone. In progressive osseous heteroplasia, ectopic bone formation begins in the deep
+layers of the skin
+(dermis and subcutaneous fat) and gradually moves into other tissues such as
+skeletal muscle
+and tendons. The bony lesions within the skin may be painful and may develop into open sores (ulcers). Over time, joints can become involved, resulting in impaired mobility.
+Signs and symptoms of progressive osseous heteroplasia usually become noticeable during infancy. In some affected individuals, however, the disorder may not become evident until later in childhood or in early adulthood.
+Frequency
+Progressive osseous heteroplasia is a rare condition. Its exact incidence is unknown.
+Causes
+Progressive osseous heteroplasia is caused by a mutation in the
+GNAS
+gene. The
+GNAS
+gene provides instructions for making one part of a protein complex called a guanine nucleotide-binding protein, or a G protein.
+In a process called signal transduction, G proteins trigger a complex network of signaling pathways that ultimately influence many cell functions. The protein produced from the
+GNAS
+gene is believed to play a key role in signaling pathways that help regulate the development of bone (osteogenesis), preventing bony tissue from being produced outside the skeleton.
+The
+GNAS
+gene mutations that cause progressive osseous heteroplasia disrupt the function of the G protein and impair its ability to regulate osteogenesis. As a result, bony tissue grows outside the skeleton and causes the complications associated with this disorder.
+Learn more about the gene associated with Progressive osseous heteroplasia
+GNAS
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+People normally inherit one copy of each gene from their mother and one copy from their father. For most genes, both copies are active, or "turned on," in all cells. For a small subset of genes, however, only one of the two copies is active. For some of these genes, only the copy inherited from a person's father (the paternal copy) is active, while for other genes, only the copy inherited from a person's mother (the maternal copy) is active. These differences in gene activation based on the gene's parent of origin are caused by a phenomenon called genomic imprinting.
+The
+GNAS
+gene has a complex genomic imprinting pattern. In some cells of the body the maternal copy of the gene is active, while in others the paternal copy is active. Progressive osseous heteroplasia occurs when mutations affect the paternal copy of the gene.
+Other Names for This Condition
+Cutaneous ossification
+Ectopic ossification
+Heterotopic ossification
+Myositis ossificans progressiva
+Osteodermia
+Osteoma cutis
+Osteosis cutis
+POH
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Progressive osseous heteroplasia
+Genetic and Rare Diseases Information Center
+Progressive osseous heteroplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+OSSEOUS HETEROPLASIA, PROGRESSIVE; POH
+Scientific Articles on PubMed
+PubMed
+References
+Adegbite NS, Xu M, Kaplan FS, Shore EM, Pignolo RJ. Diagnostic and mutational
+spectrum of progressive osseous heteroplasia (POH) and other forms of GNAS-based
+heterotopic ossification. Am J Med Genet A. 2008 Jul 15;146A(14):1788-96. doi:
+10.1002/ajmg.a.32346.
+Citation on PubMed
+or
+Free article on PubMed Central
+Aynaci O, Mujgan Aynaci F, Cobanoglu U, Alpay K. Progressive osseous
+heteroplasia. A case report and review of the literature. J Pediatr Orthop B.
+2002 Oct;11(4):339-42.
+Citation on PubMed
+Chan I, Hamada T, Hardman C, McGrath JA, Child FJ. Progressive osseous
+heteroplasia resulting from a new mutation in the GNAS1 gene. Clin Exp Dermatol.
+2004 Jan;29(1):77-80. doi: 10.1111/j.1365-2230.2004.01439.x.
+Citation on PubMed
+Pignolo RJ, Ramaswamy G, Fong JT, Shore EM, Kaplan FS. Progressive osseous
+heteroplasia: diagnosis, treatment, and prognosis. Appl Clin Genet. 2015 Jan
+30;8:37-48. doi: 10.2147/TACG.S51064. eCollection 2015.
+Citation on PubMed
+or
+Free article on PubMed Central
+Plagge A, Kelsey G, Germain-Lee EL. Physiological functions of the imprinted
+Gnas locus and its protein variants Galpha(s) and XLalpha(s) in human and mouse.
+J Endocrinol. 2008 Feb;196(2):193-214. doi: 10.1677/JOE-07-0544.
+Citation on PubMed
+Shore EM, Ahn J, Jan de Beur S, Li M, Xu M, Gardner RJ, Zasloff MA, Whyte MP,
+Levine MA, Kaplan FS. Paternally inherited inactivating mutations of the GNAS1
+gene in progressive osseous heteroplasia. N Engl J Med. 2002 Jan
+10;346(2):99-106. doi: 10.1056/NEJMoa011262.
+Citation on PubMed
+Shore EM, Kaplan FS. Inherited human diseases of heterotopic bone formation.
+Nat Rev Rheumatol. 2010 Sep;6(9):518-27. doi: 10.1038/nrrheum.2010.122. Epub 2010
+Aug 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Weinstein LS, Chen M, Liu J. Gs(alpha) mutations and imprinting defects in
+human disease. Ann N Y Acad Sci. 2002 Jun;968:173-97. doi:
+10.1111/j.1749-6632.2002.tb04335.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

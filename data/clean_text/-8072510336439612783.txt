@@ -1,0 +1,129 @@
+Deafness-infertility syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Deafness-infertility syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/deafness-infertility-syndrome/
+Deafness-infertility syndrome
+Description
+Deafness-infertility syndrome is a condition characterized by hearing loss and difficulty conceiving children (a condition called infertility). Affected individuals have moderate to severe sensorineural hearing loss, which is caused by abnormalities in the
+inner ear
+. The hearing loss is typically diagnosed in early childhood and does not worsen over time. Individuals with this condition produce
+sperm
+that have decreased movement (motility). As a result, they cannot conceive without assisted reproductive technologies.
+Frequency
+The prevalence of deafness-infertility syndrome is unknown. It is likely under diagnosed in people with hearing loss.
+Causes
+Deafness-infertility syndrome is caused by a
+deletion of genetic material
+on the long (q) arm of
+chromosome 15
+. The signs and symptoms of deafness-infertility syndrome are related to the loss of multiple genes in this region. The size of the deletion varies among affected individuals. Researchers have determined that the loss of two specific genes on chromosome 15 is responsible for the main features of this condition. The loss of the
+STRC
+gene, which plays a role in the generation of nerve impulses that get interpreted as sound, is responsible for hearing loss. The loss of another gene,
+CATSPER2
+, which plays a role in sperm motility, is responsible for the sperm abnormalities. Researchers are working to determine how the loss of additional genes in the deleted region affects people with deafness-infertility syndrome.
+Learn more about the genes and chromosome associated with Deafness-infertility syndrome
+CATSPER2
+STRC
+chromosome 15
+Inheritance
+Deafness-infertility syndrome is inherited in an
+autosomal recessive pattern
+, which means both copies of chromosome 15 in each cell have a
+deletion
+. The parents of an individual with deafness-infertility syndrome each carry one copy of the chromosome 15 deletion, but they typically do not show symptoms of the condition.
+Males (with one Y chromosome) who have two chromosome 15 deletions in each cell have deafness-infertility syndrome. Females (with two X chromosomes) who have two chromosome 15 deletions in each cell have sensorineural deafness as their only symptom. They do not produce sperm and so are not affected by the
+CATSPER2
+gene deletions.
+Other Names for This Condition
+Chromosome 15q15.3 deletion syndrome
+DIS
+Sensorineural deafness and infertility
+Sensorineural deafness and male infertility
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deafness-infertility syndrome
+Genetic and Rare Diseases Information Center
+Deafness-infertility syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+DEAFNESS-INFERTILITY SYNDROME; DIS
+Scientific Articles on PubMed
+PubMed
+References
+Avidan N, Tamary H, Dgany O, Cattan D, Pariente A, Thulliez M, Borot N, Moati
+L, Barthelme A, Shalmon L, Krasnov T, Ben-Asher E, Olender T, Khen M, Yaniv I,
+Zaizov R, Shalev H, Delaunay J, Fellous M, Lancet D, Beckmann JS. CATSPER2, a
+human autosomal nonsyndromic male infertility gene. Eur J Hum Genet. 2003
+Jul;11(7):497-502. doi: 10.1038/sj.ejhg.5200991.
+Citation on PubMed
+Hildebrand MS, Avenarius MR, Smith RJH. CATSPER-Related Male
+Infertility - RETIRED CHAPTER, FOR HISTORICAL REFERENCE ONLY. 2009 Dec 3 [updated
+2017 Mar 23]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK22925/
+Citation on PubMed
+Nishio SY, Usami SI. Frequency of the STRC-CATSPER2 deletion in
+STRC-associated hearing loss patients. Sci Rep. 2022 Jan 12;12(1):634. doi:
+10.1038/s41598-021-04688-5.
+Citation on PubMed
+Quill TA, Sugden SA, Rossi KL, Doolittle LK, Hammer RE, Garbers DL.
+Hyperactivated sperm motility driven by CatSper2 is required for fertilization.
+Proc Natl Acad Sci U S A. 2003 Dec 9;100(25):14869-74. doi:
+10.1073/pnas.2136654100. Epub 2003 Dec 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zhang Y, Malekpour M, Al-Madani N, Kahrizi K, Zanganeh M, Lohr NJ, Mohseni M,
+Mojahedi F, Daneshi A, Najmabadi H, Smith RJ. Sensorineural deafness and male
+infertility: a contiguous gene deletion syndrome. J Med Genet. 2007
+Apr;44(4):233-40. doi: 10.1136/jmg.2006.045765. Epub 2006 Nov 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Assisted Reproductive Technology
+Genetic Disorders
+Hearing Disorders and Deafness
+Male Infertility
+MEDICAL ENCYCLOPEDIA
+Genetics
+Sensorineural deafness
+Related Medical Tests
+Hearing Tests for Adults
+Hearing Tests for Children
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

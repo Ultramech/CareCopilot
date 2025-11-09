@@ -1,0 +1,165 @@
+Surfactant dysfunction: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Surfactant dysfunction
+URL of this page: https://medlineplus.gov/genetics/condition/surfactant-dysfunction/
+Surfactant dysfunction
+Description
+Surfactant dysfunction is a lung disorder that causes breathing problems. This condition results from abnormalities in the composition or function of surfactant, a mixture of certain fats (called phospholipids) and proteins that lines the lung tissue and makes breathing easy. Without normal surfactant, the tissue surrounding the air sacs in the lungs (the alveoli) sticks together (because of a force called surface tension) after exhalation, causing the alveoli to collapse. As a result, filling the lungs with air on each breath becomes very difficult, and the delivery of oxygen to the body is impaired.
+The signs and symptoms of surfactant dysfunction can vary in severity. The most severe form of this condition causes respiratory distress syndrome in newborns. Affected babies have extreme difficulty breathing and are unable to get enough oxygen. The lack of oxygen can damage the baby's brain and other organs. This syndrome leads to respiratory failure, and most babies with this form of the condition do not survive more than a few months.
+Less severe forms of surfactant dysfunction cause gradual onset of breathing problems in children or adults. Signs and symptoms of these milder forms are abnormally rapid breathing (tachypnea); low concentrations of oxygen in the blood (hypoxemia); and an inability to grow or gain weight at the expected rate (failure to thrive).
+There are several types of surfactant dysfunction, which are identified by the genetic cause of the condition. One type, called SP-B deficiency, causes respiratory distress syndrome in newborns. Other types, known as SP-C dysfunction and ABCA3 deficiency, have signs and symptoms that range from mild to severe.
+Frequency
+One type of surfactant dysfunction, SP-B deficiency, is estimated to occur in 1 in 1 million newborns worldwide. The prevalence of surfactant dysfunction due to other causes is unknown.
+Causes
+Surfactant dysfunction is caused by mutations in one of several genes, including
+SFTPB
+,
+SFTPC
+, and
+ABCA3
+. Each of these genes is involved in the production of surfactant. The production and release of surfactant is a complex process. The phospholipids and proteins that make up surfactant are packaged in cellular structures known as lamellar bodies. These structures are also important for some processing of surfactant proteins, which is necessary for the proteins to mature and become functional. Surfactant is released from the lung cells and spreads across the tissue that surrounds alveoli. This substance lowers surface tension, which keeps the alveoli from collapsing after exhalation and makes breathing easy.
+The
+SFTPB
+and
+SFTPC
+genes provide instructions for making surfactant protein-B (SP-B) and surfactant protein-C (SP-C), respectively, two of the four proteins in surfactant. These two proteins help spread the surfactant across the surface of the lung tissue, aiding in the surface tension-lowering property of surfactant. In addition, SP-B plays a role in the formation of lamellar bodies.
+Mutations in the
+SFTPB
+gene cause a type of surfactant dysfunction sometimes referred to as SP-B deficiency. These mutations lead to a reduction in or absence of mature SP-B. In addition,
+SFTPB
+gene mutations cause abnormal processing of SP-C, resulting in a lack of mature SP-C and a buildup of unprocessed forms of SP-C. These changes lead to abnormal surfactant composition and decreased surfactant function. The loss of functional surfactant raises surface tension in the alveoli, causing severe breathing problems. The combination of SP-B and SP-C dysfunction may explain why the signs and symptoms of SP-B deficiency are so severe.
+Mutations in the
+SFTPC
+gene are involved in a type of surfactant dysfunction sometimes called SP-C dysfunction. These mutations result in a reduction or absence of mature SP-C and the buildup of abnormal forms of SP-C. It is unclear which of these outcomes causes the signs and symptoms of SP-C dysfunction. Lack of mature SP-C can lead to abnormal composition of surfactant and decreased surfactant function. Alternatively, research suggests that abnormally processed SP-C proteins form the wrong three-dimensional shape and accumulate inside the lung cells. These misfolded proteins may trigger a cellular response that results in cell damage and death. This damage may disrupt surfactant production and release.
+The
+ABCA3
+gene provides instructions for making a protein that is found in the membrane that surrounds lamellar bodies. The ABCA3 protein transports phospholipids into lamellar bodies where they form surfactant. The ABCA3 protein also appears to be involved in the formation of lamellar bodies.
+ABCA3
+gene mutations, which cause a type of surfactant dysfunction sometimes referred to as ABCA3 deficiency, lead to reduction or absence of the protein's function. Without ABCA3 protein function, the transport of surfactant phospholipids is decreased. In addition, lamellar body formation is impaired, which causes abnormal processing of SP-B and SP-C.
+ABCA3
+gene mutations result in abnormal surfactant composition and function. It has been suggested that mutations that eliminate ABCA3 protein function cause severe forms of surfactant dysfunction, and mutations that leave some residual ABCA3 activity cause milder forms of the condition.
+Learn more about the genes associated with Surfactant dysfunction
+ABCA3
+SFTPB
+SFTPC
+Additional Information from NCBI Gene:
+CSF2RA
+CSF2RB
+Inheritance
+Surfactant dysfunction can have different inheritance patterns depending on its genetic cause.
+When caused by mutations in the
+SFTPB
+or
+ABCA3
+gene, this condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+When caused by mutations in the
+SFTPC
+gene, this condition has an autosomal dominant inheritance pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In about half of cases caused by changes in the
+SFTPC
+gene, an affected person inherits the mutation from
+one affected parent
+. The remainder result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Interstitial lung disease due to surfactant deficiency
+Pulmonary surfactant metabolism dysfunction
+Surfactant metabolism deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Surfactant metabolism dysfunction, pulmonary, 1
+Genetic Testing Registry: Surfactant metabolism dysfunction, pulmonary, 2
+Genetic Testing Registry: Surfactant metabolism dysfunction, pulmonary, 4
+Genetic Testing Registry: Surfactant metabolism dysfunction, pulmonary, 5
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SURFACTANT METABOLISM DYSFUNCTION, PULMONARY, 4; SMDP4
+SURFACTANT METABOLISM DYSFUNCTION, PULMONARY, 1; SMDP1
+SURFACTANT METABOLISM DYSFUNCTION, PULMONARY, 2; SMDP2
+SURFACTANT METABOLISM DYSFUNCTION, PULMONARY, 5; SMDP5
+Scientific Articles on PubMed
+PubMed
+References
+Doan ML, Guillerman RP, Dishop MK, Nogee LM, Langston C, Mallory GB, Sockrider
+MM, Fan LL. Clinical, radiological and pathological features of ABCA3 mutations
+in children. Thorax. 2008 Apr;63(4):366-73. doi: 10.1136/thx.2007.083766. Epub
+2007 Nov 16.
+Citation on PubMed
+Gower WA, Nogee LM. Surfactant dysfunction. Paediatr Respir Rev. 2011
+Dec;12(4):223-9. doi: 10.1016/j.prrv.2011.01.005. Epub 2011 Mar 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hamvas A, Cole FS, Nogee LM. Genetic disorders of surfactant proteins.
+Neonatology. 2007;91(4):311-7. doi: 10.1159/000101347. Epub 2007 Jun 7.
+Citation on PubMed
+Hamvas A. Inherited surfactant protein-B deficiency and surfactant protein-C
+associated disease: clinical features and evaluation. Semin Perinatol. 2006
+Dec;30(6):316-26. doi: 10.1053/j.semperi.2005.11.002.
+Citation on PubMed
+Nkadi PO, Merritt TA, Pillers DA. An overview of pulmonary surfactant in the
+neonate: genetics, metabolism, and the role of surfactant in health and disease.
+Mol Genet Metab. 2009 Jun;97(2):95-101. doi: 10.1016/j.ymgme.2009.01.015. Epub
+2009 Feb 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Thouvenin G, Abou Taam R, Flamein F, Guillot L, Le Bourgeois M, Reix P, Fayon
+M, Counil F, Depontbriand U, Feldmann D, Pointe HD, de Blic J, Clement A, Epaud
+R. Characteristics of disorders associated with genetic mutations of surfactant
+protein C. Arch Dis Child. 2010 Jun;95(6):449-54. doi: 10.1136/adc.2009.171553.
+Epub 2010 Apr 19.
+Citation on PubMed
+Wambach JA, Casey AM, Fishman MP, Wegner DJ, Wert SE, Cole FS, Hamvas A, Nogee
+LM. Genotype-phenotype correlations for infants and children with ABCA3
+deficiency. Am J Respir Crit Care Med. 2014 Jun 15;189(12):1538-43. doi:
+10.1164/rccm.201402-0342OC.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Interstitial Lung Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Neonatal respiratory distress syndrome
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

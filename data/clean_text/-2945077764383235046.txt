@@ -1,0 +1,100 @@
+Cole disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cole disease
+URL of this page: https://medlineplus.gov/genetics/condition/cole-disease/
+Cole disease
+Description
+Cole disease is a disorder that affects the skin. People with this disorder have areas of unusually light-colored skin (hypopigmentation), typically on the arms and legs, and spots of thickened skin on the palms of the hands and the soles of the feet (punctate palmoplantar keratoderma). These skin features are present at birth or develop in the first year of life.
+In some cases, individuals with Cole disease develop abnormal accumulations of the mineral calcium (calcifications) in the tendons, which can cause pain during movement. Calcifications may also occur in the skin or breast tissue.
+Frequency
+Cole disease is a rare disease; its prevalence is unknown. Only a few affected families have been described in the medical literature.
+Causes
+Cole disease is caused by mutations in the
+ENPP1
+gene. This gene provides instructions for making a protein that helps to prevent minerals, including calcium, from being deposited in body tissues where they do not belong. It also plays a role in controlling
+cell signaling in response to the hormone insulin
+, through interaction between a part of the ENPP1 protein called the SMB2 domain and the insulin receptor. The insulin receptor is a protein that attaches (binds) to insulin and initiates cell signaling.
+Insulin plays many roles in the body, including regulating blood sugar levels by controlling how much sugar (in the form of glucose) is passed from the bloodstream into cells to be used as energy. Cell signaling in response to insulin is also important for the maintenance of the outer layer of skin (the epidermis). It helps control the transport of the pigment melanin from the cells in which it is produced (
+melanocytes
+) to epidermal cells called keratinocytes, and it is also involved in the development of keratinocytes.
+The mutations that cause Cole disease change the structure of the SMB2 domain, which alters its interaction with the insulin receptor and affects cell signaling. The resulting impairment of ENPP1's role in melanin transport and keratinocyte development leads to the hypopigmentation and keratoderma that occurs in Cole disease. The mutations may also impair ENPP1's control of calcification, which likely accounts for the abnormal calcium deposits that occur in some people with this disorder. For reasons that are unclear, the changes in insulin signaling resulting from these
+ENPP1
+gene mutations do not seem to affect blood glucose control.
+Learn more about the gene associated with Cole disease
+ENPP1
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In most cases of this disorder, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Guttate hypopigmentation and punctate palmoplantar keratoderma with or without ectopic calcification
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hypopigmentation-punctate palmoplantar keratoderma syndrome
+Genetic and Rare Diseases Information Center
+Hypopigmentation-punctate palmoplantar keratoderma syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+COLE DISEASE; COLED
+Scientific Articles on PubMed
+PubMed
+References
+Eytan O, Morice-Picard F, Sarig O, Ezzedine K, Isakov O, Li Q, Ishida-Yamamoto
+A, Shomron N, Goldsmith T, Fuchs-Telem D, Adir N, Uitto J, Orlow SJ, Taieb A,
+Sprecher E. Cole Disease Results from Mutations in ENPP1. Am J Hum Genet. 2013
+Oct 3;93(4):752-7. doi: 10.1016/j.ajhg.2013.08.007. Epub 2013 Sep 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Moore MM, Orlow SJ, Kamino H, Wang N, Schaffer JV. Cole disease: guttate
+hypopigmentation and punctate palmoplantar keratoderma. Arch Dermatol. 2009
+Apr;145(4):495-7. doi: 10.1001/archdermatol.2009.54. No abstract available.
+Citation on PubMed
+Vignale R, Yusin A, Panuncio A, Abulafia J, Reyno Z, Vaglio A. Cole disease:
+hypopigmentation with punctate keratosis of the palms and soles. Pediatr
+Dermatol. 2002 Jul-Aug;19(4):302-6. doi: 10.1046/j.1525-1470.2002.00084.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

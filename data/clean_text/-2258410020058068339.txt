@@ -1,0 +1,119 @@
+Hereditary sensory neuropathy type IA: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary sensory neuropathy type IA
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-sensory-neuropathy-type-ia/
+Hereditary sensory neuropathy type IA
+Description
+Hereditary sensory neuropathy type IA is a condition characterized by nerve abnormalities in the legs and feet (peripheral neuropathy). Many people with this condition experience prickling or tingling sensations (paresthesias), numbness, and a reduced ability to feel pain and sense hot and cold. Some affected individuals do not lose sensation, but instead feel shooting pains in their legs and feet. As the disorder progresses, the sensory abnormalities can affect the hands, arms, shoulders, joints, and abdomen. Affected individuals may also experience muscle wasting and weakness as they get older. Weakness in the ankle muscles can make walking difficult. As the condition progresses, some people with hereditary sensory neuropathy type IA require wheelchair assistance.
+Individuals with hereditary sensory neuropathy type IA typically get open sores (ulcers) on their feet or hands or infections of the soft tissue of the fingertips (whitlows) that are slow to heal. Because affected individuals cannot feel the pain of these sores, they may not seek immediate treatment. Without treatment, the ulcers can become infected and may require amputation of the surrounding area or limb.
+Some people with hereditary sensory neuropathy type IA develop hearing loss caused by abnormalities of
+the inner ear
+(sensorineural hearing loss). Hearing loss typically develops in middle to late adulthood.
+The signs and symptoms of hereditary sensory neuropathy type IA can begin anytime between adolescence and late adulthood. While the features of this condition tend to worsen over time, affected individuals have a normal life expectancy if signs and symptoms are properly treated.
+Frequency
+Hereditary sensory neuropathy type IA is a rare condition; its prevalence is estimated to be 1 to 2 per 100,000 individuals.
+Causes
+Mutations in the
+SPTLC1
+gene cause hereditary sensory neuropathy type IA. The
+SPTLC1
+gene provides instructions for making one part (subunit) of an enzyme called serine palmitoyltransferase (SPT). The SPT enzyme is involved in making certain fats called sphingolipids. Sphingolipids are important components of cell membranes and play a role in many cell functions.
+SPTLC1
+gene mutations reduce the amount of functional SPTLC1 subunit that is produced, which results in an SPT enzyme with altered activity. This altered enzyme makes molecules called deoxysphingoid bases, which it does not normally produce. Because of this new function, the SPT enzyme's production of sphingolipid is reduced. Overall, there does not seem to be a decrease in sphingolipid production because the body is able to compensate for the SPT enzyme's reduced production. When accumulated, deoxysphingoid bases are toxic to nerve cells (neurons). The gradual destruction of neurons caused by the buildup of these toxic molecules results in loss of sensation and muscle weakness in people with hereditary sensory neuropathy type IA. Although the SPT enzyme does not produce a normal amount of sphingolipids, the body is able to compensate, and there does not seem to be an overall reduction of these fats in the body.
+Learn more about the gene associated with Hereditary sensory neuropathy type IA
+SPTLC1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Autosomal dominant hereditary sensory radicular neuropathy, type 1A
+Hereditary sensory and autonomic neuropathy, type IA
+HSAN IA
+HSAN1A
+HSN IA
+HSN1A
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary sensory and autonomic neuropathy type 1
+Genetic and Rare Diseases Information Center
+Hereditary sensory and autonomic neuropathy type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE IA; HSAN1A
+Scientific Articles on PubMed
+PubMed
+References
+Bejaoui K, Wu C, Scheffler MD, Haan G, Ashby P, Wu L, de Jong P, Brown RH Jr.
+SPTLC1 is mutated in hereditary sensory neuropathy, type 1. Nat Genet. 2001
+Mar;27(3):261-2. doi: 10.1038/85817.
+Citation on PubMed
+Dawkins JL, Hulme DJ, Brahmbhatt SB, Auer-Grumbach M, Nicholson GA. Mutations
+in SPTLC1, encoding serine palmitoyltransferase, long chain base subunit-1, cause
+hereditary sensory neuropathy type I. Nat Genet. 2001 Mar;27(3):309-12. doi:
+10.1038/85879.
+Citation on PubMed
+Houlden H, King R, Blake J, Groves M, Love S, Woodward C, Hammans S, Nicoll J,
+Lennox G, O'Donovan DG, Gabriel C, Thomas PK, Reilly MM. Clinical, pathological
+and genetic characterization of hereditary sensory and autonomic neuropathy type
+1 (HSAN I). Brain. 2006 Feb;129(Pt 2):411-25. doi: 10.1093/brain/awh712. Epub
+2005 Dec 19.
+Citation on PubMed
+Penno A, Reilly MM, Houlden H, Laura M, Rentsch K, Niederkofler V, Stoeckli
+ET, Nicholson G, Eichler F, Brown RH Jr, von Eckardstein A, Hornemann T.
+Hereditary sensory neuropathy type 1 is caused by the accumulation of two
+neurotoxic sphingolipids. J Biol Chem. 2010 Apr 9;285(15):11178-87. doi:
+10.1074/jbc.M109.092973. Epub 2010 Jan 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rotthier A, Penno A, Rautenstrauss B, Auer-Grumbach M, Stettner GM, Asselbergh
+B, Van Hoof K, Sticht H, Levy N, Timmerman V, Hornemann T, Janssens K.
+Characterization of two mutations in the SPTLC1 subunit of serine
+palmitoyltransferase associated with hereditary sensory and autonomic neuropathy
+type I. Hum Mutat. 2011 Jun;32(6):E2211-25. doi: 10.1002/humu.21481. Epub 2011
+Feb 24.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

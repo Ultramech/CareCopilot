@@ -1,0 +1,163 @@
+Hereditary leiomyomatosis and renal cell cancer: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary leiomyomatosis and renal cell cancer
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-leiomyomatosis-and-renal-cell-cancer/
+Hereditary leiomyomatosis and renal cell cancer
+Description
+Hereditary leiomyomatosis and renal cell cancer (HLRCC) is a disorder in which affected individuals tend to develop benign tumors containing smooth muscle tissue (leiomyomas) in the skin and, in females, the
+uterus
+. This condition also increases the risk of kidney cancer.
+In this disorder
+, growths on the skin (cutaneous leiomyomas) typically develop in the third decade of life. Most of these growths arise from the
+tiny muscles around the hair follicles
+that cause "goosebumps". They appear as bumps or nodules on the trunk, arms, legs, and occasionally on the face. Cutaneous leiomyomas may be the same color as the surrounding skin, or they may be darker. Some affected individuals have no cutaneous leiomyomas or only a few, but the growths tend to increase in size and number over time. Cutaneous leiomyomas are often more sensitive than the surrounding skin to cold or light touch, and may be painful.
+Most women with HLRCC also develop uterine leiomyomas (fibroids). While uterine fibroids are very common in the general population, women with HLRCC tend to have numerous large fibroids that appear earlier than in the general population.
+Approximately 10 percent to 16 percent of people with HLRCC develop a type of
+kidney cancer
+called renal cell cancer. The signs and symptoms of renal cell cancer may include lower back pain, blood in the urine, or a mass in
+the kidney
+that can be felt upon physical examination. Some people with renal cell cancer have no symptoms until the disease is advanced. People with HLRCC are commonly diagnosed with kidney cancer in their forties.
+This disorder, especially if it appears in individuals or families without renal cell cancer, is also sometimes called multiple cutaneous leiomyomatosis (MCL) or multiple cutaneous and uterine leiomyomatosis (MCUL).
+Frequency
+HLRCC is a rare condition that has been reported in approximately 300 families worldwide. Researchers suggest that it may be underdiagnosed.
+Causes
+Mutations in the
+FH
+gene cause HLRCC. The
+FH
+gene provides instructions for making an enzyme called fumarase (also known as fumarate hydratase). This enzyme participates in an important series of reactions known as the citric acid cycle or Krebs cycle, which allows cells to use oxygen and generate energy. Specifically, fumarase helps convert a molecule called fumarate to a molecule called malate.
+People with HLRCC are born with one mutated copy of the
+FH
+gene in each cell. The second copy of the
+FH
+gene in certain cells may also acquire mutations as a result of environmental factors such as ultraviolet radiation from the sun or an error that occurs as DNA copies itself during cell division.
+FH
+gene mutations may interfere with the enzyme's role in the citric acid cycle, resulting in a buildup of fumarate. Researchers believe that the excess fumarate may interfere with the regulation of oxygen levels in the cell. Chronic oxygen deficiency (hypoxia) in cells with two mutated copies of the
+FH
+gene may encourage tumor formation and result in the tendency to develop leiomyomas and renal cell cancer.
+Learn more about the gene associated with Hereditary leiomyomatosis and renal cell cancer
+FH
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In some cases, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+Children born with two mutated copies of the
+FH
+gene in each cell have a different condition called
+fumarase deficiency
+, which is often fatal in infancy. These individuals inherit one mutated copy of the gene from each parent. People with HLRCC can contribute one mutated copy of the gene to a child and are potential carriers of fumarase deficiency, but they do not have signs or symptoms of that condition.
+Other Names for This Condition
+Hereditary leiomyomatosis and renal cell carcinoma
+HLRCC
+Leiomyomatosis and renal cell cancer
+LRCC
+MCL
+MCUL
+Multiple cutaneous and uterine leiomyomata
+Multiple cutaneous leiomyoma
+Reed's syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary leiomyomatosis and renal cell cancer
+Genetic and Rare Diseases Information Center
+Hereditary leiomyomatosis and renal cell cancer
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER; HLRCC
+Scientific Articles on PubMed
+PubMed
+References
+Adamane S, Desai S, Menon S. Hereditary leiomyomatosis and renal cell cancer
+syndrome associated renal cell carcinoma. Indian J Pathol Microbiol. 2017
+Jan-Mar;60(1):108-110. doi: 10.4103/0377-4929.200025.
+Citation on PubMed
+Adams A, Sharpe KK, Peters P, Freeman M. Hereditary leiomyomatosis and renal
+cell cancer (HLRCC): cutaneous and renal manifestations requiring a
+multidisciplinary team approach. BMJ Case Rep. 2017 Apr 11;2017:bcr2016215115.
+doi: 10.1136/bcr-2016-215115.
+Citation on PubMed
+Arenas Valencia C, Rodriguez Lopez ML, Cardona Barreto AY, Garavito Rodriguez
+E, Arteaga Diaz CE. Hereditary leiomyomatosis and renal cell cancer syndrome:
+identification and clinical characterization of a novel mutation in the FH gene
+in a Colombian family. Fam Cancer. 2017 Jan;16(1):117-122. doi:
+10.1007/s10689-016-9922-4.
+Citation on PubMed
+Menko FH, Maher ER, Schmidt LS, Middelton LA, Aittomaki K, Tomlinson I,
+Richard S, Linehan WM. Hereditary leiomyomatosis and renal cell cancer (HLRCC):
+renal cancer risk, surveillance and treatment. Fam Cancer. 2014 Dec;13(4):637-44.
+doi: 10.1007/s10689-014-9735-2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Patel VM, Handler MZ, Schwartz RA, Lambert WC. Hereditary leiomyomatosis and
+renal cell cancer syndrome: An update and review. J Am Acad Dermatol. 2017
+Jul;77(1):149-158. doi: 10.1016/j.jaad.2017.01.023. Epub 2017 Mar 14.
+Citation on PubMed
+Schmidt LS, Linehan WM. Hereditary leiomyomatosis and renal cell carcinoma.
+Int J Nephrol Renovasc Dis. 2014 Jun 20;7:253-60. doi: 10.2147/IJNRD.S42097.
+eCollection 2014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Teh J, Kinnear N, Douglass-Molloy H, Hennessey DB. Hereditary leiomyomatosis
+and renal cell cancer syndrome: a family affair. BMJ Case Rep. 2017 Jan
+25;2017:bcr2016218270. doi: 10.1136/bcr-2016-218270.
+Citation on PubMed
+Vocke CD, Ricketts CJ, Merino MJ, Srinivasan R, Metwalli AR, Middelton LA,
+Peterson J, Yang Y, Linehan WM. Comprehensive genomic and phenotypic
+characterization of germline FH deletion in hereditary leiomyomatosis and renal
+cell carcinoma. Genes Chromosomes Cancer. 2017 Jun;56(6):484-492. doi:
+10.1002/gcc.22452. Epub 2017 Mar 31.
+Citation on PubMed
+Wong MH, Tan CS, Lee SC, Yong Y, Ooi AS, Ngeow J, Tan MH. Potential genetic
+anticipation in hereditary leiomyomatosis-renal cell cancer (HLRCC). Fam Cancer.
+2014 Jun;13(2):281-9. doi: 10.1007/s10689-014-9703-x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Kidney Cancer
+Uterine Fibroids
+MEDICAL ENCYCLOPEDIA
+Genetics
+Renal cell carcinoma
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

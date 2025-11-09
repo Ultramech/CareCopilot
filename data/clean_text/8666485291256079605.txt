@@ -1,0 +1,134 @@
+Lowe syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Lowe syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/lowe-syndrome/
+Lowe syndrome
+Description
+Lowe syndrome is a condition that primarily affects the eyes, brain, and kidneys. This disorder occurs almost exclusively in males.
+Infants with Lowe syndrome are born with thick clouding of the lenses in both eyes (congenital
+cataracts
+), often with other eye abnormalities that can impair vision. About half of affected infants develop an eye disease called infantile
+glaucoma
+, which is characterized by increased pressure within the eyes.
+Many individuals with Lowe syndrome have delayed development, and intellectual ability ranges from normal to severely impaired. Behavioral problems and seizures have also been reported in children with this condition. Most affected children have weak muscle tone from birth (neonatal hypotonia), which can contribute to feeding difficulties, problems with breathing, and delayed development of motor skills such as sitting, standing, and walking.
+Kidney (renal) abnormalities, most commonly a condition known as renal Fanconi syndrome, frequently develop in individuals with Lowe syndrome. The
+kidneys
+play an essential role in maintaining the right amounts of minerals, salts, water, and other substances in the body. In individuals with renal Fanconi syndrome, the kidneys are unable to reabsorb important nutrients into the bloodstream. Instead, the nutrients are excreted in the urine. These kidney problems lead to increased urination, dehydration, and abnormally acidic blood (metabolic acidosis). A loss of salts and nutrients may also impair growth and result in soft, bowed bones (hypophosphatemic
+rickets
+), especially in the legs. Progressive kidney problems in older children and adults with Lowe syndrome can lead to life-threatening renal failure and end-stage renal disease (ESRD).
+Frequency
+Lowe syndrome is an uncommon condition. It has an estimated prevalence of 1 in 500,000 people.
+Causes
+Mutations in the
+OCRL
+gene cause Lowe syndrome. The
+OCRL
+gene provides instructions for making an enzyme that helps modify fat (lipid) molecules called membrane phospholipids. By controlling the levels of specific membrane phospholipids, the OCRL enzyme helps regulate the transport of certain substances to and from the cell membrane. This enzyme is also involved in the regulation of the actin
+cytoskeleton
+, which is a network of fibers that make up the cell's structural framework. The actin cytoskeleton has several critical functions, including determining cell shape and allowing cells to move.
+Some mutations in the
+OCRL
+gene prevent the production of any OCRL enzyme. Other mutations reduce or eliminate the activity of the enzyme or prevent it from interacting with other proteins within the cell. Researchers are working to determine how
+OCRL
+mutations cause the characteristic features of Lowe syndrome. Because the OCRL enzyme is present throughout the body, it is unclear why the medical problems associated with this condition are mostly limited to the brain, kidneys, and eyes. It is possible that other enzymes may be able to compensate for the defective OCRL enzyme in unaffected tissues.
+Learn more about the gene associated with Lowe syndrome
+OCRL
+Inheritance
+This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Most X-linked disorders affect males much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In some cases of Lowe syndrome, an affected male inherits the mutation from a mother who carries one altered copy of the
+OCRL
+gene. Other cases result from new mutations in the gene and occur in males with no history of the disorder in their family.
+Females who carry one mutated copy of the
+OCRL
+gene do not have the characteristic features of Lowe syndrome. Most female carriers, however, have changes in the lens of the eye that can be observed with a thorough eye examination. These changes typically do not impair vision.
+Other Names for This Condition
+Cerebrooculorenal syndrome
+Lowe oculocerebrorenal syndrome
+Oculocerebrorenal syndrome
+Oculocerebrorenal syndrome of Lowe
+Phosphatidylinositol-4,5-bisphosphate-5-phosphatase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Lowe syndrome
+Genetic and Rare Diseases Information Center
+Oculocerebrorenal syndrome of Lowe
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LOWE OCULOCEREBRORENAL SYNDROME; OCRL
+Scientific Articles on PubMed
+PubMed
+References
+Attree O, Olivos IM, Okabe I, Bailey LC, Nelson DL, Lewis RA, McInnes RR,
+Nussbaum RL. The Lowe's oculocerebrorenal syndrome gene encodes a protein highly
+homologous to inositol polyphosphate-5-phosphatase. Nature. 1992 Jul
+16;358(6383):239-42. doi: 10.1038/358239a0.
+Citation on PubMed
+Erdmann KS, Mao Y, McCrea HJ, Zoncu R, Lee S, Paradise S, Modregger J,
+Biemesderfer D, Toomre D, De Camilli P. A role of the Lowe syndrome protein OCRL
+in early steps of the endocytic pathway. Dev Cell. 2007 Sep;13(3):377-90. doi:
+10.1016/j.devcel.2007.08.004.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lewis RA, Nussbaum RL, Brewer ED. Lowe Syndrome. 2001 Jul 24 [updated 2019 Apr
+18]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1480/
+Citation on PubMed
+Loi M. Lowe syndrome. Orphanet J Rare Dis. 2006 May 18;1:16. doi:
+10.1186/1750-1172-1-16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lowe M. Structure and function of the Lowe syndrome protein OCRL1. Traffic.
+2005 Sep;6(9):711-9. doi: 10.1111/j.1600-0854.2005.00311.x.
+Citation on PubMed
+Schurman SJ, Scheinman SJ. Inherited cerebrorenal syndromes. Nat Rev Nephrol.
+2009 Sep;5(9):529-38. doi: 10.1038/nrneph.2009.124.
+Citation on PubMed
+Related Health Topics
+Developmental Disabilities
+Eye Diseases
+Genetic Disorders
+Kidney Diseases
+MEDICAL ENCYCLOPEDIA
+Congenital cataract
+Fanconi syndrome
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

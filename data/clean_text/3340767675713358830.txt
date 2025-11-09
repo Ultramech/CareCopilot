@@ -1,0 +1,118 @@
+Biotin-thiamine-responsive basal ganglia disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Biotin-thiamine-responsive basal ganglia disease
+URL of this page: https://medlineplus.gov/genetics/condition/biotin-thiamine-responsive-basal-ganglia-disease/
+Biotin-thiamine-responsive basal ganglia disease
+Description
+Biotin-thiamine-responsive basal ganglia disease is a disorder that affects the nervous system, including a group of structures in the brain called the basal ganglia, which help control movement. As its name suggests, the condition may improve if the vitamins biotin and thiamine are given as treatment. Without early and lifelong vitamin treatment, people with biotin-thiamine-responsive basal ganglia disease experience a variety of neurological problems that gradually get worse. The occurrence of specific neurological problems and their severity vary even among affected individuals within the same family.
+The signs and symptoms of biotin-thiamine-responsive basal ganglia disease usually begin between the ages of 3 and 10, but the disorder can appear at any age. Many of the neurological problems that can occur in biotin-thiamine-responsive basal ganglia disease affect movement, and can include involuntary tensing of various muscles (dystonia), muscle rigidity, muscle weakness on one or both sides of the body (hemiparesis or quadriparesis), problems coordinating movements (ataxia), and exaggerated reflexes (hyperreflexia). Movement problems can also affect the face, and may include the inability to move facial muscles due to facial nerve paralysis (supranuclear facial palsy), paralysis of the eye muscles (external ophthalmoplegia), difficulty chewing or swallowing (dysphagia), and slurred speech. Affected individuals may also experience confusion, loss of previously learned skills, intellectual disability, and seizures. Severe cases may result in coma and become life-threatening.
+Typically, the neurological symptoms occur as increasingly severe episodes, which may be triggered by fever, injury, or other stresses on the body. Less commonly, the signs and symptoms persist at the same level or slowly increase in severity over time rather than occurring as episodes that come and go. In these individuals, the neurological problems are usually limited to dystonia, seizure disorders, and delay in the development of mental and motor skills (psychomotor delay).
+Frequency
+Biotin-thiamine-responsive basal ganglia disease is a rare disorder; its prevalence is unknown. Approximately 48 cases have been reported in the medical literature; most of these are individuals from Arab populations.
+Causes
+Biotin-thiamine-responsive basal ganglia disease is caused by mutations in the
+SLC19A3
+gene. This gene provides instructions for making a protein called a thiamine transporter, which moves thiamine into cells. Thiamine, also known as vitamin B1, is obtained from the diet and is necessary for proper functioning of the nervous system.
+Mutations in the
+SLC19A3
+gene likely result in a protein with impaired ability to transport thiamine into cells, resulting in decreased absorption of the vitamin and leading to neurological dysfunction. In this disorder, abnormalities affect several parts of the brain. Using medical imaging, generalized swelling as well as specific areas of damage (lesions) in the brain can often be seen, including in the basal ganglia. The relationship between these specific brain abnormalities and the abnormal thiamine transporter is unknown.
+It is unclear how biotin is related to this disorder. Some researchers suggest that the excess biotin given along with thiamine as treatment for the disorder may increase the amount of thiamine transporter that is produced, partially compensating for the impaired efficiency of the abnormal protein. Others propose that biotin transporter proteins may interact with thiamine transporters in such a way that biotin levels influence the course of the disease.
+Learn more about the gene associated with Biotin-thiamine-responsive basal ganglia disease
+SLC19A3
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+BBGD
+Biotin-responsive basal ganglia disease
+BTBGD
+Thiamine metabolism dysfunction syndrome 2
+Thiamine transporter-2 deficiency
+Thiamine-responsive encephalopathy
+THMD2
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Biotin-responsive basal ganglia disease
+Genetic and Rare Diseases Information Center
+Biotin-thiamine-responsive basal ganglia disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+BASAL GANGLIA DISEASE, BIOTIN-THIAMINE RESPONSIVE; BTBGD
+Scientific Articles on PubMed
+PubMed
+References
+Alfadhel M, Almuntashri M, Jadah RH, Bashiri FA, Al Rifai MT, Al Shalaan H, Al
+Balwi M, Al Rumayan A, Eyaid W, Al-Twaijri W. Biotin-responsive basal ganglia
+disease should be renamed biotin-thiamine-responsive basal ganglia disease: a
+retrospective review of the clinical, radiological and molecular findings of 18
+new cases. Orphanet J Rare Dis. 2013 Jun 6;8:83. doi: 10.1186/1750-1172-8-83.
+Citation on PubMed
+or
+Free article on PubMed Central
+Debs R, Depienne C, Rastetter A, Bellanger A, Degos B, Galanaud D, Keren B,
+Lyon-Caen O, Brice A, Sedel F. Biotin-responsive basal ganglia disease in ethnic
+Europeans with novel SLC19A3 mutations. Arch Neurol. 2010 Jan;67(1):126-30. doi:
+10.1001/archneurol.2009.293.
+Citation on PubMed
+El-Hajj TI, Karam PE, Mikati MA. Biotin-responsive basal ganglia disease: case
+report and review of the literature. Neuropediatrics. 2008 Oct;39(5):268-71. doi:
+10.1055/s-0028-1128152. Epub 2009 Mar 17.
+Citation on PubMed
+Tabarki B, Al-Hashem A, Ortigoza-Escobar JD, Alsharhan H, Alfadhel M.
+Biotin-Thiamine-Responsive Basal Ganglia Disease. 2013 Nov 21 [updated 2025 Jan
+9]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK169615/
+Citation on PubMed
+Tabarki B, Al-Shafi S, Al-Shahwan S, Azmat Z, Al-Hashem A, Al-Adwani N, Biary
+N, Al-Zawahmah M, Khan S, Zuccoli G. Biotin-responsive basal ganglia disease
+revisited: clinical, radiologic, and genetic findings. Neurology. 2013 Jan
+15;80(3):261-7. doi: 10.1212/WNL.0b013e31827deb4c. Epub 2012 Dec 26.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+B Vitamins
+Brain Diseases
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Basal ganglia dysfunction
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

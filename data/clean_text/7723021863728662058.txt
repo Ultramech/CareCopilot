@@ -1,0 +1,117 @@
+Autosomal recessive cerebellar ataxia type 1: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Autosomal recessive cerebellar ataxia type 1
+URL of this page: https://medlineplus.gov/genetics/condition/autosomal-recessive-cerebellar-ataxia-type-1/
+Autosomal recessive cerebellar ataxia type 1
+Description
+Autosomal recessive cerebellar ataxia type 1 (ARCA1) is a condition characterized by progressive problems with movement due to a loss (atrophy) of
+nerve cells
+in the part of the brain that coordinates movement (
+the cerebellum
+). Signs and symptoms of the disorder first appear in early to mid-adulthood. People with this condition initially experience impaired speech (dysarthria), problems with coordination and balance (ataxia), or both. They may also have difficulty with movements that involve judging distance or scale (dysmetria). Other features of ARCA1 include abnormal eye movements (nystagmus) and problems following the movements of objects with the eyes. The movement problems are slowly progressive, often resulting in the need for a cane, walker, or wheelchair.
+Frequency
+More than 100 people have been diagnosed with ARCA1. This condition was first discovered in individuals from the Beauce and Bas-Saint-Laurent regions of Quebec, Canada, but it has since been found in populations worldwide.
+Causes
+Mutations in the
+SYNE1
+gene cause ARCA1. The
+SYNE1
+gene provides instructions for making a protein called Syne-1 that is found in many tissues, but it seems to be especially critical in the brain. Within the brain, the Syne-1 protein appears to play a role in the maintenance of
+the cerebellum
+, which is the part of the brain that coordinates movement. The Syne-1 protein is active (expressed) in Purkinje cells, which are located in the cerebellum and are involved in chemical signaling between nerve cells (
+neurons
+).
+SYNE1
+gene mutations that cause ARCA1 result in an abnormally short, dysfunctional version of the Syne-1 protein. The defective protein is thought to impair Purkinje cell function and disrupt signaling between neurons in the cerebellum. The loss of brain cells in the cerebellum causes the movement problems characteristic of ARCA1, but it is unclear how this cell loss is related to impaired Purkinje cell function.
+Learn more about the gene associated with Autosomal recessive cerebellar ataxia type 1
+SYNE1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ARCA1
+Autosomal recessive spinocerebellar ataxia 8
+Recessive ataxia of Beauce
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal recessive ataxia, Beauce type
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 8; SCAR8
+Scientific Articles on PubMed
+PubMed
+References
+Beaudin M, Gamache PL, Gros-Louis F, Dupre N. SYNE1 Deficiency. 2007 Feb 23
+[updated 2018 Dec 6]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1379/
+Citation on PubMed
+Dupre N, Gros-Louis F, Chrestian N, Verreault S, Brunet D, de Verteuil D,
+Brais B, Bouchard JP, Rouleau GA. Clinical and genetic study of autosomal
+recessive cerebellar ataxia type 1. Ann Neurol. 2007 Jul;62(1):93-8. doi:
+10.1002/ana.21143.
+Citation on PubMed
+Gros-Louis F, Dupre N, Dion P, Fox MA, Laurent S, Verreault S, Sanes JR,
+Bouchard JP, Rouleau GA. Mutations in SYNE1 lead to a newly discovered form of
+autosomal recessive cerebellar ataxia. Nat Genet. 2007 Jan;39(1):80-5. doi:
+10.1038/ng1927. Epub 2006 Dec 10.
+Citation on PubMed
+Izumi Y, Miyamoto R, Morino H, Yoshizawa A, Nishinaka K, Udaka F, Kameyama M,
+Maruyama H, Kawakami H. Cerebellar ataxia with SYNE1 mutation accompanying motor
+neuron disease. Neurology. 2013 Feb 5;80(6):600-1. doi:
+10.1212/WNL.0b013e3182815529. Epub 2013 Jan 16. No abstract available.
+Citation on PubMed
+Noreau A, Bourassa CV, Szuto A, Levert A, Dobrzeniecka S, Gauthier J, Forlani
+S, Durr A, Anheim M, Stevanin G, Brice A, Bouchard JP, Dion PA, Dupre N, Rouleau
+GA. SYNE1 mutations in autosomal recessive cerebellar ataxia. JAMA Neurol. 2013
+Oct;70(10):1296-31. doi: 10.1001/jamaneurol.2013.3268.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Balance Problems
+Cerebellar Disorders
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Communicating with someone with dysarthria
+Genetics
+Movement - uncoordinated
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,125 @@
+Ethylmalonic encephalopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Ethylmalonic encephalopathy
+URL of this page: https://medlineplus.gov/genetics/condition/ethylmalonic-encephalopathy/
+Ethylmalonic encephalopathy
+Description
+Ethylmalonic encephalopathy is an inherited disorder that affects several body systems, particularly the nervous system. Neurological signs and symptoms include delayed development and the loss of previously acquired skills (developmental regression), weak muscle tone (hypotonia), seizures, and abnormal movements. The body's network of blood vessels (the vascular system) is also affected. Children with this disorder often develop rashes of tiny red spots (petechiae) caused by bleeding under the skin and blue discoloration in the hands and feet due to reduced oxygen in the blood (acrocyanosis). Chronic diarrhea is another common feature of ethylmalonic encephalopathy.
+The signs and symptoms of ethylmalonic encephalopathy are apparent at birth or begin in the first few months of life. Problems with the nervous system typically worsen over time, and most affected individuals survive only into early childhood.
+Frequency
+About 70 individuals with this condition have been identified worldwide, mostly in Mediterranean and Arab populations. Although ethylmalonic encephalopathy appears to be very rare, researchers suggest that some cases have been misdiagnosed as other neurological disorders.
+Causes
+Ethylmalonic encephalopathy results from mutations in the
+ETHE1
+gene. This gene provides instructions for making an enzyme that is active in
+mitochondria
+, which are the energy-producing centers in cells. The ETHE1 enzyme is part of a pathway that breaks down sulfide (H
+2
+S), a molecule that is critical at very low levels for normal cell functioning but is toxic at high levels. Excess sulfide interferes with numerous cell activities, including mitochondrial energy production.
+Mutations in the
+ETHE1
+gene lead to the production of a nonfunctional version of the enzyme or prevent any enzyme from being made. A shortage of functional ETHE1 enzyme prevents sulfide from being broken down, allowing this molecule to accumulate in cells. The buildup of sulfide interferes with the ability of mitochondria to produce energy and damages tissues and organs throughout the body. Researchers believe that the effects of excess sulfide in the brain, muscles, blood vessels, and lining of the intestines underlie most of the major features of ethylmalonic encephalopathy.
+Learn more about the gene associated with Ethylmalonic encephalopathy
+ETHE1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Encephalopathy, petechiae, and ethylmalonic aciduria
+EPEMA syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Ethylmalonic encephalopathy
+Genetic and Rare Diseases Information Center
+Ethylmalonic encephalopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+ENCEPHALOPATHY, ETHYLMALONIC; EE
+Scientific Articles on PubMed
+PubMed
+References
+Di Meo I, Fagiolari G, Prelle A, Viscomi C, Zeviani M, Tiranti V. Chronic
+exposure to sulfide causes accelerated degradation of cytochrome c oxidase in
+ethylmalonic encephalopathy. Antioxid Redox Signal. 2011 Jul 15;15(2):353-62.
+doi: 10.1089/ars.2010.3520. Epub 2011 Feb 25.
+Citation on PubMed
+Drousiotou A, DiMeo I, Mineri R, Georgiou T, Stylianidou G, Tiranti V.
+Ethylmalonic encephalopathy: application of improved biochemical and molecular
+diagnostic approaches. Clin Genet. 2011 Apr;79(4):385-90. doi:
+10.1111/j.1399-0004.2010.01457.x.
+Citation on PubMed
+Garcia-Silva MT, Ribes A, Campos Y, Garavaglia B, Arenas J. Syndrome of
+encephalopathy, petechiae, and ethylmalonic aciduria. Pediatr Neurol. 1997
+Sep;17(2):165-70. doi: 10.1016/s0887-8994(97)00048-9.
+Citation on PubMed
+Tiranti V, Briem E, Lamantea E, Mineri R, Papaleo E, De Gioia L, Forlani F,
+Rinaldo P, Dickson P, Abu-Libdeh B, Cindro-Heberle L, Owaidha M, Jack RM,
+Christensen E, Burlina A, Zeviani M. ETHE1 mutations are specific to ethylmalonic
+encephalopathy. J Med Genet. 2006 Apr;43(4):340-6. doi: 10.1136/jmg.2005.036210.
+Epub 2005 Sep 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tiranti V, D'Adamo P, Briem E, Ferrari G, Mineri R, Lamantea E, Mandel H,
+Balestri P, Garcia-Silva MT, Vollmer B, Rinaldo P, Hahn SH, Leonard J, Rahman S,
+Dionisi-Vici C, Garavaglia B, Gasparini P, Zeviani M. Ethylmalonic encephalopathy
+is caused by mutations in ETHE1, a gene encoding a mitochondrial matrix protein.
+Am J Hum Genet. 2004 Feb;74(2):239-52. doi: 10.1086/381653. Epub 2004 Jan 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tiranti V, Viscomi C, Hildebrandt T, Di Meo I, Mineri R, Tiveron C, Levitt MD,
+Prelle A, Fagiolari G, Rimoldi M, Zeviani M. Loss of ETHE1, a mitochondrial
+dioxygenase, causes fatal sulfide toxicity in ethylmalonic encephalopathy. Nat
+Med. 2009 Feb;15(2):200-5. doi: 10.1038/nm.1907. Epub 2009 Jan 11.
+Citation on PubMed
+Tiranti V, Zeviani M. Altered sulfide (H(2)S) metabolism in ethylmalonic
+encephalopathy. Cold Spring Harb Perspect Biol. 2013 Jan 1;5(1):a011437. doi:
+10.1101/cshperspect.a011437.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Mitochondrial Diseases
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Blue discoloration of the skin
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

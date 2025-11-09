@@ -1,0 +1,123 @@
+Pearson syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pearson syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/pearson-syndrome/
+Pearson syndrome
+Description
+Pearson syndrome is a severe disorder that usually begins in infancy. It causes problems with the development of blood-forming (hematopoietic) cells in the bone marrow that have the potential to develop into different types of blood cells. For this reason, Pearson syndrome is considered a bone marrow failure disorder. Function of the pancreas and other organs can also be affected.
+Most affected individuals have a shortage of red blood cells (
+anemia
+), which can cause pale skin (pallor), weakness, and fatigue. Some of these individuals also have low numbers of white blood cells (neutropenia) and
+platelets
+(thrombocytopenia). Neutropenia can lead to frequent infections; thrombocytopenia sometimes causes easy bruising and bleeding. When visualized under the microscope, bone marrow cells from affected individuals may appear abnormal. Often, early blood cells (hematopoietic precursors) have multiple fluid-filled pockets called vacuoles. In addition, red blood cells in the bone marrow can have an abnormal buildup of iron that appears as a ring of blue staining in the cell after treatment with certain dyes. These abnormal cells are called ring sideroblasts.
+In people with Pearson syndrome, the pancreas does not work as well as usual.
+The pancreas
+produces and releases enzymes that aid in the digestion of fats and proteins. Reduced function of this organ can lead to high levels of fats in
+the liver
+(liver steatosis). The pancreas also releases insulin, which helps maintain correct levels of blood glucose, also called blood sugar. A small number of individuals with Pearson syndrome develop diabetes, a condition characterized by abnormally high blood glucose levels that can be caused by a shortage of insulin. In addition, affected individuals may have scarring (fibrosis) in the pancreas.
+People with Pearson syndrome have a reduced ability to absorb nutrients from the diet (malabsorption), and most affected infants have an inability to grow and gain weight at the expected rate (failure to thrive). Another common occurrence in people with this condition is buildup in the body of a chemical called lactic acid (lactic acidosis), which can be life-threatening. In addition, liver and kidney problems can develop in people with this condition. Some people with Pearson syndrome have droopy eyelids (ptosis), vision problems, hearing loss, seizures, or movement disorders.
+About half of children with this severe disorder die in infancy or early childhood due to severe lactic acidosis or liver failure. Many of those who survive develop signs and symptoms later in life of a related disorder called
+Kearns-Sayre syndrome
+. This condition causes weakness of muscles around the eyes and other problems.
+Frequency
+Pearson syndrome is a rare condition; its prevalence is unknown.
+Causes
+Pearson syndrome is caused by defects in
+mitochondria
+, which are structures within cells that use oxygen to convert the energy from food into a form cells can use. This process is called
+oxidative phosphorylation
+. Although most DNA is packaged in chromosomes within the nucleus (nuclear DNA), mitochondria also have a small amount of their own DNA, called
+mitochondrial DNA
+(mtDNA). This type of DNA contains many genes essential for normal mitochondrial function.
+Pearson syndrome is caused by single, large deletions of mtDNA, which can range from 1,000 to 10,000 DNA building blocks (nucleotides). The most common deletion, which occurs in about 20 percent of affected individuals, removes 4,997 nucleotides. The mtDNA deletions involved in Pearson syndrome result in the loss of genes that provide instructions for proteins involved in oxidative phosphorylation. These deletions impair oxidative phosphorylation and decrease the energy available to cells.
+It is not clear how loss of mtDNA leads to the specific signs and symptoms of Pearson syndrome, although the features of the condition are likely related to a lack of cellular energy.
+Learn more about the chromosome associated with Pearson syndrome
+mitochondrial dna
+Inheritance
+Pearson syndrome is generally not inherited but arises from new (de novo) mutations that likely occur in early embryonic development.
+Other Names for This Condition
+Pearson marrow-pancreas syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pearson syndrome
+Genetic and Rare Diseases Information Center
+Pearson syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PEARSON MARROW-PANCREAS SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Broomfield A, Sweeney MG, Woodward CE, Fratter C, Morris AM, Leonard JV,
+Abulhoul L, Grunewald S, Clayton PT, Hanna MG, Poulton J, Rahman S. Paediatric
+single mitochondrial DNA deletion disorders: an overlapping spectrum of disease.
+J Inherit Metab Dis. 2015 May;38(3):445-57. doi: 10.1007/s10545-014-9778-4. Epub
+2014 Oct 29.
+Citation on PubMed
+Manea EM, Leverger G, Bellmann F, Stanescu PA, Mircea A, Lebre AS, Rotig A,
+Munnich A. Pearson syndrome in the neonatal period: two case reports and review
+of the literature. J Pediatr Hematol Oncol. 2009 Dec;31(12):947-51. doi:
+10.1097/MPH.0b013e3181bbc4ef.
+Citation on PubMed
+Rotig A, Bourgeron T, Chretien D, Rustin P, Munnich A. Spectrum of
+mitochondrial DNA rearrangements in the Pearson marrow-pancreas syndrome. Hum Mol
+Genet. 1995 Aug;4(8):1327-30. doi: 10.1093/hmg/4.8.1327.
+Citation on PubMed
+Sadikovic B, Wang J, El-Hattab AW, Landsverk M, Douglas G, Brundage EK,
+Craigen WJ, Schmitt ES, Wong LJ. Sequence homology at the breakpoint and clinical
+phenotype of mitochondrial DNA deletion syndromes. PLoS One. 2010 Dec
+20;5(12):e15687. doi: 10.1371/journal.pone.0015687.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tumino M, Meli C, Farruggia P, La Spina M, Faraci M, Castana C, Di Raimondo V,
+Alfano M, Pittala A, Lo Nigro L, Russo G, Di Cataldo A. Clinical manifestations
+and management of four children with Pearson syndrome. Am J Med Genet A. 2011
+Dec;155A(12):3063-6. doi: 10.1002/ajmg.a.34288. Epub 2011 Oct 19.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Marrow Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Lactic acidosis
+Malabsorption
+Pancreas (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

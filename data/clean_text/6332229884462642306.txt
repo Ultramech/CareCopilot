@@ -1,0 +1,128 @@
+Grange syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Grange syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/grange-syndrome/
+Grange syndrome
+Description
+Grange syndrome is a rare condition that primarily affects the blood vessels. It is characterized by narrowing (stenosis) or blockage (occlusion) of arteries that supply blood to various organs and tissues, including the kidneys, brain, and heart. Stenosis or occlusion of the arteries that supply blood to the kidneys (renal arteries) can result in chronic high blood pressure (
+hypertension
+). Blockage of the arteries that carry blood to the brain (cerebral arteries) can cause a
+stroke
+.
+Additional features of Grange syndrome can include short
+fingers
+and
+toes
+(brachydactyly), fusion of some of the
+fingers
+or
+toes
+(syndactyly), fragile bones that are prone to breakage, and learning disabilities. Most people with this disorder also have heart defects that are present from birth.
+Frequency
+Grange syndrome has been reported to affect at least six individuals from three families.
+Causes
+Grange syndrome results from mutations in the
+YY1AP1
+gene. The protein produced from this gene is part of a group of proteins (a complex) that helps regulate several critical functions within cells. These include gene activity (expression), repair of damaged DNA, cell specialization (differentiation), and cell growth and division (proliferation). Researchers believe that this protein complex plays a particularly important role in smooth muscle cells, which line the
+walls of blood vessels
+.
+Mutations in the
+YY1AP1
+gene likely disrupt the function of the complex, which leads to reduced proliferation and differentiation of smooth muscle cells. However, it is unclear how these changes lead to narrowing and blockage of arteries. It is also unknown how
+YY1AP1
+gene mutations are related to other features of Grange syndrome, such as bone abnormalities and learning disabilities.
+Learn more about the gene associated with Grange syndrome
+YY1AP1
+Inheritance
+This condition is thought to be inherited in an
+autosomal recessive pattern
+, which means both copies of the
+YY1AP1
+gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Arterial occlusive disease, progressive, with hypertension, heart defects, bone fragility, and brachysyndactyly
+Grange occlusive arterial syndrome
+GRNG
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Grange syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+GRANGE SYNDROME; GRNG
+Scientific Articles on PubMed
+PubMed
+References
+Grange DK, Balfour IC, Chen SC, Wood EG. Familial syndrome of progressive
+arterial occlusive disease consistent with fibromuscular dysplasia, hypertension,
+congenital cardiac defects, bone fragility, brachysyndactyly, and learning
+disabilities. Am J Med Genet. 1998 Feb 17;75(5):469-80. doi:
+10.1002/(sici)1096-8628(19980217)75:53.0.co;2-i.
+Citation on PubMed
+Guo DC, Duan XY, Regalado ES, Mellor-Crummey L, Kwartler CS, Kim D, Lieberman
+K, de Vries BBA, Pfundt R, Schinzel A, Kotzot D, Shen X, Yang ML; University of
+Washington Center for Mendelian Genomics; Bamshad MJ, Nickerson DA, Gornik HL,
+Ganesh SK, Braverman AC, Grange DK, Milewicz DM. Loss-of-Function Mutations in
+YY1AP1 Lead to Grange Syndrome and a Fibromuscular Dysplasia-Like Vascular
+Disease. Am J Hum Genet. 2017 Jan 5;100(1):21-30. doi:
+10.1016/j.ajhg.2016.11.008. Epub 2016 Dec 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Volonghi I, Frigerio M, Mardighian D, Gasparotti R, Del Zotto E, Giossi A,
+Costa P, Poli L, Jeannin G, Gregorini GA, Padovani A, Pezzini A. Grange syndrome:
+an identifiable cause of stroke in young adults. Am J Med Genet A. 2012
+Nov;158A(11):2894-8. doi: 10.1002/ajmg.a.35593. Epub 2012 Sep 17.
+Citation on PubMed
+Wallerstein R, Augustyn AM, Wallerstein D, Elton L, Tejeiro B, Johnson V,
+Lieberman K. A new case of Grange syndrome without cardiac findings. Am J Med
+Genet A. 2006 Jun 15;140(12):1316-20. doi: 10.1002/ajmg.a.31125.
+Citation on PubMed
+Weymann S, Yonekawa Y, Khan N, Martin E, Heppner FL, Schinzel A, Kotzot D.
+Severe arterial occlusive disorder and brachysyndactyly in a boy: a further case
+of Grange syndrome? Am J Med Genet. 2001 Mar 15;99(3):190-5. doi:
+10.1002/1096-8628(2001)9999:99993.0.co;2-r.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Congenital Heart Defects
+Genetic Disorders
+High Blood Pressure
+Stroke
+Vascular Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

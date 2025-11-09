@@ -1,0 +1,244 @@
+Autosomal dominant sleep-related hypermotor epilepsy : MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Autosomal dominant sleep-related hypermotor epilepsy
+URL of this page: https://medlineplus.gov/genetics/condition/autosomal-dominant-sleep-related-hypermotor-epilepsy/
+Autosomal dominant sleep-related hypermotor epilepsy
+Description
+Sleep-related hypermotor epilepsy (SHE) is a form of epilepsy that is characterized by seizures that typically begin while a person is sleeping. The seizures often appear during childhood or adolescence and involve varying degrees of muscle (motor) activity, which can include large, complex, and repetitive movements (hyperkinetic seizures). Autosomal dominant sleep-related hypermotor epilepsy (ADSHE) is a form of SHE that runs in families. The specific features of ADSHE can vary, even among members of the same family.
+People with ADSHE typically have seizures that start in a specific region of the brain (focal seizures). The seizures often occur in clusters during a phase of sleep called nonrapid eye movement (non-REM) sleep. They typically begin and end abruptly, with each seizure lasting no more than 2 minutes. Some seizures are characterized by minor motor activity that may simply wake a person from sleep, while others are more complex and include repetitive motor activity, such as flinging or throwing motions of the arms and bicycling movements of the legs. Seizures may also include muscle stiffness or abnormal body positions. Some affected individuals may get out of bed and wander around during a seizure, which can be mistaken for sleepwalking. Rapid breathing (hyperventilation); a sense of breathlessness; and vocalizations, such as moaning or crying, can also occur.
+In some types of epilepsy, a pattern of unusual feelings or sensations (aura) occurs before the seizure. Upon waking from sleep, people with ADSHE may experience an aura that warns them of an oncoming seizure. Auras in people with ADSHE can be associated with a feeling of numbness, shivering, a sense of fear, dizziness (vertigo), and a feeling of falling or being pushed.
+People with ADSHE typically develop seizures before the age of 20 years. The episodes tend to become milder and less frequent over time. Although many people with ADSHE have seizures that can be effectively managed with medication, approximately 30 percent of affected individuals have seizures that become resistant to medication.
+Psychiatric disorders, behavioral problems, and intellectual disabilities have been reported in some individuals with ADSHE. It is unclear whether these additional features are directly related to the seizures or to the underlying genetic cause.
+Frequency
+SHE is an uncommon form of epilepsy, affecting about 1.8 out of every 100,000 individuals. More than 100 families with ADSHE have been reported in the medical literature.
+Causes
+Genetic changes that cause disease or that increase the risk of disease are sometimes called mutations or pathogenic variants. Pathogenic variants in one of several different genes can cause ADSHE.
+Pathogenic variants in the
+CHRNA2
+,
+CHRNA4
+, and
+CHRNB2
+genes cause some cases of ADSHE. These genes provide instructions for making different parts (subunits) of a larger protein complex called a nicotinic acetylcholine receptor (nAChR). The nAChR complex acts as a channel, allowing charged atoms (ions), including calcium, sodium, and potassium, to cross the cell membrane. The nAChR channels play an important role in chemical signaling between nerve cells (neurons) in the brain.
+Researchers believe that some pathogenic variants in the nAChR genes can cause cells to produce subunits that make the channels more sensitive, which allows them to open more easily than usual. The increased flow of ions across the cell membrane changes how neurons communicate with each other. Specifically, the increased ion flow alters the release of chemical messengers that relay signals from one neuron to another. As a result, it is likely that certain neurons become more active than usual, which triggers the abnormal brain activity associated with seizures. Pathogenic variants in the
+CHRNA4
+gene are more common in people with ADSHE than pathogenic variants in the
+CHRNA2
+or
+CHRNB2
+genes. Approximately 6 percent of people with ADSHE have a pathogenic variant in the
+CHRNA4
+gene.
+Pathogenic variants in the
+DEPDC5
+,
+NPRL2,
+and
+NPRL3
+genes can also cause ADSHE. These genes provide instructions for the proteins that make up the GATOR1 complex. The GATOR1 complex is a group of proteins that is found in cells throughout the body. GATOR1 regulates an important signaling pathway, called the mTOR pathway, that is involved in cell metabolism, cell growth, and cell division. Specifically, GATOR1 turns off the mTOR pathway when it is not needed.
+The pathogenic variants in the GATOR1 genes that are associated with ADSHE result in the production of proteins that disrupt the function of GATOR1, causing the mTOR pathway to be more active than usual. Research suggests that increased signaling in the brain changes the connections between nerve cells (synapses) and increases nerve cell activation (excitation), which can lead to seizures. Variants in the
+DEPDC5,
+NPRL2, and NPRL3
+genes each account for approximately 5 to 7 percent of ADSHE cases.
+The
+KCNT1
+gene belongs to a family of genes that provide instructions for making potassium channels. These channels play a key role in the cell’s ability to generate and transmit electrical signals. The pathogenic variants in the
+KCNT1
+gene that are associated with ADSHE typically increase the flow of ions across potassium channels, which contributes to the excitation of neurons and the seizures seen in people with ADSHE. Approximately 1 percent of people with ADSHE have a variant in the
+KCNT1
+gene.
+Pathogenic variants in other genes cause a small percentage of ADSHE cases. A genetic cause of ADSHE can be identified in approximately 19 percent of people with the condition. In most people with ADSHE, the cause of the condition is unknown. Researchers are investigating other possible genetic causes for this condition.
+Learn more about the genes associated with Autosomal dominant sleep-related hypermotor epilepsy
+CHRNA2
+CHRNA4
+CHRNB2
+DEPDC5
+KCNT1
+NPRL2
+NPRL3
+Additional Information from NCBI Gene:
+CABP4
+CRH
+Inheritance
+ADSHE is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, only 60 to 80 percent of people who inherit a pathogenic variant that is associated with ADSHE develop the signs and symptoms of the disorder. This situation is called reduced penetrance. It is not clear why some people with an ADSHE gene variant develop signs and symptoms of the disorder while others do not.
+In most cases, people with ADSHE have an affected parent. Other cases are described as sporadic, which means an affected person has no family history of the disorder. Sporadic cases may result from new (de novo) variants in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development.
+Other Names for This Condition
+ADNFLE
+ADSHE
+Autosomal dominant nocturnal frontal lobe epilepsy
+Autosomal dominant sleep-related hypermotor (hyperkinetic) epilepsy
+ENFL
+Nocturnal frontal lobe epilepsy
+Sleep-related hypermotor epilepsy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal dominant nocturnal frontal lobe epilepsy 1
+Genetic Testing Registry: Autosomal dominant nocturnal frontal lobe epilepsy 2
+Genetic Testing Registry: Autosomal dominant nocturnal frontal lobe epilepsy 3
+Genetic Testing Registry: Autosomal dominant nocturnal frontal lobe epilepsy 4
+Genetic and Rare Diseases Information Center
+Autosomal dominant nocturnal frontal lobe epilepsy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+EPILEPSY, NOCTURNAL FRONTAL LOBE, 1; ENFL1
+EPILEPSY, NOCTURNAL FRONTAL LOBE, 2; ENFL2
+EPILEPSY, NOCTURNAL FRONTAL LOBE, 3; ENFL3
+EPILEPSY, NOCTURNAL FRONTAL LOBE, 4; ENFL4
+Scientific Articles on PubMed
+PubMed
+References
+Chen ZH, Wang C, Zhuo MQ, Zhai QX, Chen Q, Guo YX, Zhang YX, Gui J, Tang ZH,
+Zeng XL. Exome sequencing identified a novel missense mutation c.464G>A
+(p.G155D) in Ca2+-binding protein 4 (CABP4) in a Chinese
+pedigree with autosomal dominant nocturnal frontal lobe epilepsy. Oncotarget.
+2017 Sep 5;8(45):78940-78947. doi: 10.18632/oncotarget.20694. eCollection 2017
+Oct 3.
+Citation on PubMed
+Combi R, Ferini-Strambi L, Tenchini ML. Compound heterozygosity with dominance
+in the Corticotropin Releasing Hormone (CRH) promoter in a case of nocturnal
+frontal lobe epilepsy. J Sleep Res. 2008 Sep;17(3):361-2. doi:
+10.1111/j.1365-2869.2008.00674.x. No abstract available.
+Citation on PubMed
+De Marco EV, Gambardella A, Annesi F, Labate A, Carrideo S, Forabosco P,
+Civitelli D, Candiano IC, Tarantino P, Annesi G, Quattrone A. Further evidence of
+genetic heterogeneity in families with autosomal dominant nocturnal frontal lobe
+epilepsy. Epilepsy Res. 2007 Apr;74(1):70-3. doi:
+10.1016/j.eplepsyres.2006.12.006. Epub 2007 Feb 26.
+Citation on PubMed
+di Corcia G, Blasetti A, De Simone M, Verrotti A, Chiarelli F. Recent advances
+on autosomal dominant nocturnal frontal lobe epilepsy: "understanding the
+nicotinic acetylcholine receptor (nAChR)". Eur J Paediatr Neurol.
+2005;9(2):59-66. doi: 10.1016/j.ejpn.2004.12.006.
+Citation on PubMed
+Hayman M, Scheffer IE, Chinvarun Y, Berlangieri SU, Berkovic SF. Autosomal
+dominant nocturnal frontal lobe epilepsy: demonstration of focal frontal onset
+and intrafamilial variation. Neurology. 1997 Oct;49(4):969-75. doi:
+10.1212/wnl.49.4.969.
+Citation on PubMed
+Heron SE, Smith KR, Bahlo M, Nobili L, Kahana E, Licchetta L, Oliver KL,
+Mazarib A, Afawi Z, Korczyn A, Plazzi G, Petrou S, Berkovic SF, Scheffer IE,
+Dibbens LM. Missense mutations in the sodium-gated potassium channel gene KCNT1
+cause severe autosomal dominant nocturnal frontal lobe epilepsy. Nat Genet. 2012
+Nov;44(11):1188-90. doi: 10.1038/ng.2440. Epub 2012 Oct 21.
+Citation on PubMed
+Hildebrand MS, Tankard R, Gazina EV, Damiano JA, Lawrence KM, Dahl HH, Regan
+BM, Shearer AE, Smith RJ, Marini C, Guerrini R, Labate A, Gambardella A, Tinuper
+P, Lichetta L, Baldassari S, Bisulli F, Pippucci T, Scheffer IE, Reid CA, Petrou
+S, Bahlo M, Berkovic SF. PRIMA1 mutation: a new cause of nocturnal frontal lobe
+epilepsy. Ann Clin Transl Neurol. 2015 Aug;2(8):821-30. doi: 10.1002/acn3.224.
+Epub 2015 Jul 3.
+Citation on PubMed
+Ishida S, Picard F, Rudolf G, Noe E, Achaz G, Thomas P, Genton P, Mundwiller
+E, Wolff M, Marescaux C, Miles R, Baulac M, Hirsch E, Leguern E, Baulac S.
+Mutations of DEPDC5 cause autosomal dominant focal epilepsies. Nat Genet. 2013
+May;45(5):552-5. doi: 10.1038/ng.2601. Epub 2013 Mar 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kurahashi H, Hirose S. Autosomal Dominant Sleep-Related Hypermotor
+(Hyperkinetic) Epilepsy. 2002 May 16 [updated 2023 Mar 23]. In: Adam MP, Feldman
+J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK1169/
+Citation on PubMed
+Licchetta L, Bisulli F, Vignatelli L, Zenesini C, Di Vito L, Mostacci B,
+Rinaldi C, Trippi I, Naldi I, Plazzi G, Provini F, Tinuper P. Sleep-related
+hypermotor epilepsy: Long-term outcome in a large cohort. Neurology. 2017 Jan
+3;88(1):70-77. doi: 10.1212/WNL.0000000000003459. Epub 2016 Nov 23.
+Citation on PubMed
+Licchetta L, Pippucci T, Baldassari S, Minardi R, Provini F, Mostacci B,
+Plazzi G, Tinuper P, Bisulli F; Collaborative Group of Italian League Against
+Epilepsy (LICE) Genetic Study Group on SHE. Sleep-related hypermotor epilepsy
+(SHE): Contribution of known genes in 103 patients. Seizure. 2020 Jan;74:60-64.
+doi: 10.1016/j.seizure.2019.11.009. Epub 2019 Nov 23.
+Citation on PubMed
+Licchetta L, Poda R, Vignatelli L, Pippucci T, Zenesini C, Menghi V, Mostacci
+B, Baldassari S, Provini F, Tinuper P, Bisulli F. Profile of neuropsychological
+impairment in Sleep-related Hypermotor Epilepsy. Sleep Med. 2018 Aug;48:8-15.
+doi: 10.1016/j.sleep.2018.03.027. Epub 2018 Apr 30.
+Citation on PubMed
+Marini C, Guerrini R. The role of the nicotinic acetylcholine receptors in
+sleep-related epilepsy. Biochem Pharmacol. 2007 Oct 15;74(8):1308-14. doi:
+10.1016/j.bcp.2007.06.030. Epub 2007 Jun 23.
+Citation on PubMed
+Riney K, Bogacz A, Somerville E, Hirsch E, Nabbout R, Scheffer IE, Zuberi SM,
+Alsaadi T, Jain S, French J, Specchio N, Trinka E, Wiebe S, Auvin S, Cabral-Lim
+L, Naidoo A, Perucca E, Moshe SL, Wirrell EC, Tinuper P. International League
+Against Epilepsy classification and definition of epilepsy syndromes with onset
+at a variable age: position statement by the ILAE Task Force on Nosology and
+Definitions. Epilepsia. 2022 Jun;63(6):1443-1474. doi: 10.1111/epi.17240. Epub
+2022 May 3.
+Citation on PubMed
+Scheffer IE, Bhatia KP, Lopes-Cendes I, Fish DR, Marsden CD, Andermann E,
+Andermann F, Desbiens R, Keene D, Cendes F, et al. Autosomal dominant nocturnal
+frontal lobe epilepsy. A distinctive clinical disorder. Brain. 1995 Feb;118 ( Pt
+1):61-73. doi: 10.1093/brain/118.1.61.
+Citation on PubMed
+Steinlein OK, Mulley JC, Propping P, Wallace RH, Phillips HA, Sutherland GR,
+Scheffer IE, Berkovic SF. A missense mutation in the neuronal nicotinic
+acetylcholine receptor alpha 4 subunit is associated with autosomal dominant
+nocturnal frontal lobe epilepsy. Nat Genet. 1995 Oct;11(2):201-3. doi:
+10.1038/ng1095-201.
+Citation on PubMed
+Tinuper P, Bisulli F, Cross JH, Hesdorffer D, Kahane P, Nobili L, Provini F,
+Scheffer IE, Tassi L, Vignatelli L, Bassetti C, Cirignotta F, Derry C,
+Gambardella A, Guerrini R, Halasz P, Licchetta L, Mahowald M, Manni R, Marini C,
+Mostacci B, Naldi I, Parrino L, Picard F, Pugliatti M, Ryvlin P, Vigevano F,
+Zucconi M, Berkovic S, Ottman R. Definition and diagnostic criteria of
+sleep-related hypermotor epilepsy. Neurology. 2016 May 10;86(19):1834-42. doi:
+10.1212/WNL.0000000000002666. Epub 2016 Apr 15.
+Citation on PubMed
+Vignatelli L, Bisulli F, Provini F, Naldi I, Pittau F, Zaniboni A, Montagna P,
+Tinuper P. Interobserver reliability of video recording in the diagnosis of
+nocturnal frontal lobe seizures. Epilepsia. 2007 Aug;48(8):1506-11. doi:
+10.1111/j.1528-1167.2007.01121.x. Epub 2007 May 1.
+Citation on PubMed
+Yang Y, Tuo J, Zhang J, Xu Z, Luo Z. Pathogenic genes implicated in
+sleep-related hypermotor epilepsy: a research progress update. Front Neurol. 2024
+Jun 20;15:1416648. doi: 10.3389/fneur.2024.1416648. eCollection 2024.
+Citation on PubMed
+Related Health Topics
+Epilepsy
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Epilepsy
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

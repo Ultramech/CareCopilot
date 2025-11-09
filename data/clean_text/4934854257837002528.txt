@@ -1,0 +1,137 @@
+Hyperferritinemia-cataract syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hyperferritinemia-cataract syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/hyperferritinemia-cataract-syndrome/
+Hyperferritinemia-cataract syndrome
+Description
+Hyperferritinemia-cataract syndrome is a disorder characterized by an excess of an iron storage protein called
+ferritin
+in the blood (hyperferritinemia) and tissues of the body. A buildup of this protein begins early in life, leading to clouding of the lenses of the eyes (cataracts). In affected individuals, cataracts usually develop in infancy, rather than after age 60 as typically occurs in the general population. Cataracts that are not removed surgically cause progressive dimming and blurriness of vision because the clouded lenses reduce and distort incoming light.
+Although the hyperferritinemia in this disorder does not usually cause any health problems other than cataracts, the elevated ferritin levels in the blood can be mistaken for a sign of certain liver disorders. These conditions result in excess iron in the body and may be treated by blood-drawing. However, individuals with hyperferritinemia-cataract syndrome do not have an excess of iron, and with repeated blood draws will develop reduced iron levels leading to a low number of red blood cells (
+anemia
+). Therefore, correct diagnosis of hyperferritinemia-cataract syndrome is important to avoid unnecessary treatments or invasive test procedures such as liver biopsies.
+Frequency
+Hyperferritinemia-cataract syndrome has been estimated to occur in 1 in 200,000 individuals.
+Causes
+Hyperferritinemia-cataract syndrome is caused by mutations in the
+FTL
+gene. This gene provides instructions for making the ferritin light chain, which is one part (subunit) of the protein
+ferritin
+. Ferritin is made up of 24 subunits formed into a hollow spherical molecule. The 24 subunits consist of varying numbers of the ferritin light chain and another subunit called the ferritin heavy chain, which is produced from another gene. The proportion of the two subunits varies in different tissues.
+Ferritin stores and releases iron in cells. Each ferritin molecule can hold as many as 4,500 iron atoms inside its spherical structure. This storage capacity allows ferritin to regulate the amount of iron in cells and tissues.
+The mutations that cause hyperferritinemia-cataract syndrome are found in a segment of the gene called the iron responsive element (IRE). The IRE normally can attach (bind) to a protein called the iron regulatory protein (IRP). When this binding occurs, the activity (expression) of the
+FTL
+gene is stopped to prevent too much ferritin light chain from being produced. This normally occurs when iron levels are low, because under those circumstances less ferritin is needed to store the iron. Mutations in the IRE segment of the
+FTL
+gene prevent it from binding with IRP, interfering with the mechanism by which ferritin production is matched to iron levels and resulting in excess ferritin being formed.
+Learn more about the gene associated with Hyperferritinemia-cataract syndrome
+FTL
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Bonneau-Beaumont syndrome
+Hereditary hyperferritinemia with congenital cataracts
+Hereditary hyperferritinemia-cataract syndrome
+HHCS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary hyperferritinemia with congenital cataracts
+Genetic and Rare Diseases Information Center
+Hereditary hyperferritinemia-cataract syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+HYPERFERRITINEMIA WITH OR WITHOUT CATARACT; HRFTC
+Scientific Articles on PubMed
+PubMed
+References
+Aguilar-Martinez P, Schved JF, Brissot P. The evaluation of hyperferritinemia:
+an updated strategy based on advances in detecting genetic abnormalities. Am J
+Gastroenterol. 2005 May;100(5):1185-94. doi: 10.1111/j.1572-0241.2005.40998.x.
+Citation on PubMed
+Brooks DG, Manova-Todorova K, Farmer J, Lobmayr L, Wilson RB, Eagle RC Jr, St
+Pierre TG, Stambolian D. Ferritin crystal cataracts in hereditary
+hyperferritinemia cataract syndrome. Invest Ophthalmol Vis Sci. 2002
+Apr;43(4):1121-6.
+Citation on PubMed
+Cazzola M. Hereditary hyperferritinaemia/ cataract syndrome. Best Pract Res
+Clin Haematol. 2002 Jun;15(2):385-98. doi: 10.1016/s1521-6926(02)90204-5.
+Citation on PubMed
+Cazzola M. Role of ferritin and ferroportin genes in unexplained
+hyperferritinaemia. Best Pract Res Clin Haematol. 2005 Jun;18(2):251-63. doi:
+10.1016/j.beha.2004.08.025.
+Citation on PubMed
+Christiansen G, Mohney BG. Hereditary hyperferritinemia-cataract syndrome. J
+AAPOS. 2007 Jun;11(3):294-6. doi: 10.1016/j.jaapos.2007.01.126.
+Citation on PubMed
+Ferrante M, Geubel AP, Fevery J, Marogy G, Horsmans Y, Nevens F. Hereditary
+hyperferritinaemia-cataract syndrome: a challenging diagnosis for the
+hepatogastroenterologist. Eur J Gastroenterol Hepatol. 2005 Nov;17(11):1247-53.
+doi: 10.1097/00042737-200511000-00016.
+Citation on PubMed
+Ismail AR, Lachlan KL, Mumford AD, Temple IK, Hodgkins PR. Hereditary
+hyperferritinemia cataract syndrome: ocular, genetic, and biochemical findings.
+Eur J Ophthalmol. 2006 Jan-Feb;16(1):153-60. doi: 10.1177/112067210601600125.
+Citation on PubMed
+Kato J, Niitsu Y. Recent advance in molecular iron metabolism: translational
+disorders of ferritin. Int J Hematol. 2002 Oct;76(3):208-12. doi:
+10.1007/BF02982789.
+Citation on PubMed
+Millonig G, Muckenthaler MU, Mueller S. Hyperferritinaemia-cataract syndrome:
+worldwide mutations and phenotype of an increasingly diagnosed genetic disorder.
+Hum Genomics. 2010 Apr;4(4):250-62. doi: 10.1186/1479-7364-4-4-250.
+Citation on PubMed
+or
+Free article on PubMed Central
+Roetto A, Bosio S, Gramaglia E, Barilaro MR, Zecchina G, Camaschella C.
+Pathogenesis of hyperferritinemia cataract syndrome. Blood Cells Mol Dis. 2002
+Nov-Dec;29(3):532-5. doi: 10.1006/bcmd.2002.0590.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cataract
+Genetic Disorders
+Iron
+MEDICAL ENCYCLOPEDIA
+Cataract removal
+Congenital cataract
+Ferritin blood test
+Genetics
+Related Medical Tests
+Ferritin Blood Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,127 @@
+Medium-chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Medium-chain acyl-CoA dehydrogenase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/medium-chain-acyl-coa-dehydrogenase-deficiency/
+Medium-chain acyl-CoA dehydrogenase deficiency
+Description
+Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency is a condition that prevents the body from converting certain fats to energy, particularly during periods without food (fasting).
+Signs and symptoms of MCAD deficiency typically appear during infancy or early childhood and can include vomiting, lack of energy (lethargy), and low blood glucose (hypoglycemia). In rare cases, symptoms of this disorder are not recognized early in life, and the condition is not diagnosed until adulthood. People with MCAD deficiency are at risk of serious complications such as seizures, breathing difficulties, liver problems, brain damage, coma, and sudden death.
+Problems related to MCAD deficiency can be triggered by periods of fasting or by illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe disorder that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.
+Frequency
+In the United States, the estimated incidence of MCAD deficiency is 1 in 17,000 people. The condition is more common in people of northern European ancestry than in other ethnic groups.
+Causes
+Mutations in the
+ACADM
+gene cause MCAD deficiency. This gene provides instructions for making an enzyme called medium-chain acyl-CoA dehydrogenase, which is required to break down (metabolize) a group of fats called medium-chain fatty acids. These fatty acids are found in foods and the body's fat tissues. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.
+Mutations in the
+ACADM
+gene lead to a shortage (deficiency) of the MCAD enzyme within cells. Without sufficient amounts of this enzyme, medium-chain fatty acids are not metabolized properly. As a result, these fats are not converted to energy, which can lead to the characteristic signs and symptoms of this disorder such as lethargy and hypoglycemia. Medium-chain fatty acids or partially metabolized fatty acids may also build up in tissues and damage the liver and brain. This abnormal buildup causes the other signs and symptoms of MCAD deficiency.
+Learn more about the gene associated with Medium-chain acyl-CoA dehydrogenase deficiency
+ACADM
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ACADM deficiency
+MCAD deficiency
+MCADD
+MCADH deficiency
+Medium chain acyl-CoA dehydrogenase deficiency
+Medium-chain acyl-coenzyme A dehydrogenase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Medium-chain acyl-coenzyme A dehydrogenase deficiency
+Genetic and Rare Diseases Information Center
+Medium chain acyl-CoA dehydrogenase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ACYL-CoA DEHYDROGENASE, MEDIUM-CHAIN, DEFICIENCY OF; ACADMD
+Scientific Articles on PubMed
+PubMed
+References
+Chang IJ, Lam C, Vockley J. Medium-Chain Acyl-Coenzyme A Dehydrogenase
+Deficiency. 2000 Apr 20 [updated 2024 Sep 26]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1424/
+Citation on PubMed
+Derks TG, Reijngoud DJ, Waterham HR, Gerver WJ, van den Berg MP, Sauer PJ,
+Smit GP. The natural history of medium-chain acyl CoA dehydrogenase deficiency in
+the Netherlands: clinical presentation and outcome. J Pediatr. 2006
+May;148(5):665-670. doi: 10.1016/j.jpeds.2005.12.028.
+Citation on PubMed
+Dezateux C. Newborn screening for medium chain acyl-CoA dehydrogenase
+deficiency: evaluating the effects on outcome. Eur J Pediatr. 2003 Dec;162 Suppl
+1:S25-8. doi: 10.1007/s00431-003-1346-0. Epub 2003 Nov 20.
+Citation on PubMed
+Grosse SD, Khoury MJ, Greene CL, Crider KS, Pollitt RJ. The epidemiology of
+medium chain acyl-CoA dehydrogenase deficiency: an update. Genet Med. 2006
+Apr;8(4):205-12. doi: 10.1097/01.gim.0000204472.25153.8d.
+Citation on PubMed
+Hsu HW, Zytkovicz TH, Comeau AM, Strauss AW, Marsden D, Shih VE, Grady GF,
+Eaton RB. Spectrum of medium-chain acyl-CoA dehydrogenase deficiency detected by
+newborn screening. Pediatrics. 2008 May;121(5):e1108-14. doi:
+10.1542/peds.2007-1993.
+Citation on PubMed
+Joy P, Black C, Rocca A, Haas M, Wilcken B. Neuropsychological functioning in
+children with medium chain acyl coenzyme a dehydrogenase deficiency (MCADD): the
+impact of early diagnosis and screening on outcome. Child Neuropsychol. 2009
+Jan;15(1):8-20. doi: 10.1080/09297040701864570.
+Citation on PubMed
+Lang TF. Adult presentations of medium-chain acyl-CoA dehydrogenase deficiency
+(MCADD). J Inherit Metab Dis. 2009 Dec;32(6):675-683. doi:
+10.1007/s10545-009-1202-0. Epub 2009 Oct 11.
+Citation on PubMed
+Touw CM, Smit GP, de Vries M, de Klerk JB, Bosch AM, Visser G, Mulder MF,
+Rubio-Gozalbo ME, Elvers B, Niezen-Koning KE, Wanders RJ, Waterham HR, Reijngoud
+DJ, Derks TG. Risk stratification by residual enzyme activity after newborn
+screening for medium-chain acyl-CoA dehyrogenase deficiency: data from a cohort
+study. Orphanet J Rare Dis. 2012 May 25;7:30. doi: 10.1186/1750-1172-7-30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Lipid Metabolism Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Newborn screening tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

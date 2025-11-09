@@ -1,0 +1,130 @@
+Leptin receptor deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Leptin receptor deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/leptin-receptor-deficiency/
+Leptin receptor deficiency
+Description
+Leptin receptor deficiency is a condition that causes severe obesity beginning in the first few months of life. Affected individuals are of normal weight at birth, but they are constantly hungry and quickly gain weight. The extreme hunger leads to chronic excessive eating (hyperphagia) and obesity. Beginning in early childhood, affected individuals develop abnormal eating behaviors such as fighting with other children over food, hoarding food, and eating in secret.
+People with leptin receptor deficiency also have hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development. Affected individuals experience delayed puberty or do not go through puberty, and they may be unable to conceive children (infertile).
+Frequency
+Leptin receptor deficiency is a rare cause of obesity. Its prevalence is unknown.
+Causes
+Leptin receptor deficiency is caused by mutations in the
+LEPR
+gene. This gene provides instructions for making a protein called the leptin receptor, which is involved in the regulation of body weight. The leptin receptor protein is found on the surface of cells in many organs and tissues of the body including a part of the brain called the
+hypothalamus
+. The hypothalamus controls hunger and thirst as well as other functions such as sleep, moods, and body temperature. It also regulates the release of many hormones that have functions throughout the body.
+The leptin receptor is turned on (activated) by a hormone called leptin that attaches (binds) to the receptor, fitting into it like a key into a lock. Normally, the body's fat cells release
+leptin
+in proportion to their size. As fat cells become larger, they produce more leptin. This rise in leptin indicates that fat stores are increasing. In the hypothalamus, the binding of leptin to its receptor triggers a series of chemical signals that affect hunger and help produce a feeling of fullness (satiety).
+LEPR
+gene mutations that cause leptin receptor deficiency prevent the receptor from responding to leptin, leading to the excessive hunger and weight gain associated with this disorder. Because hypogonadotropic hypogonadism occurs in leptin receptor deficiency, researchers suggest that leptin receptor signaling is also involved in regulating the body's response to hormones that control sexual development, and that this response is affected by
+LEPR
+gene mutations. However, the mechanism of this effect is unknown.
+Learn more about the gene associated with Leptin receptor deficiency
+LEPR
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital deficiency of the leptin receptor
+Leptin receptor-related monogenic obesity
+Obesity due to leptin receptor gene deficiency
+Obesity, morbid, due to leptin receptor deficiency
+Obesity, morbid, nonsyndromic 2
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Obesity due to leptin receptor gene deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LEPTIN RECEPTOR DEFICIENCY; LEPRD
+Scientific Articles on PubMed
+PubMed
+References
+Andiran N, Celik N, Andiran F. Homozygosity for two missense mutations in the
+leptin receptor gene (P316:W646C) in a Turkmenian girl with severe early-onset
+obesity. J Pediatr Endocrinol Metab. 2011;24(11-12):1043-5.
+Citation on PubMed
+Clement K, Vaisse C, Lahlou N, Cabrol S, Pelloux V, Cassuto D, Gourmelen M,
+Dina C, Chambaz J, Lacorte JM, Basdevant A, Bougneres P, Lebouc Y, Froguel P,
+Guy-Grand B. A mutation in the human leptin receptor gene causes obesity and
+pituitary dysfunction. Nature. 1998 Mar 26;392(6674):398-401. doi: 10.1038/32911.
+Citation on PubMed
+Dubern B, Clement K. Leptin and leptin receptor-related monogenic obesity.
+Biochimie. 2012 Oct;94(10):2111-5. doi: 10.1016/j.biochi.2012.05.010. Epub 2012
+May 22.
+Citation on PubMed
+Farooqi IS, Wangensteen T, Collins S, Kimber W, Matarese G, Keogh JM, Lank E,
+Bottomley B, Lopez-Fernandez J, Ferraz-Amaro I, Dattani MT, Ercan O, Myhre AG,
+Retterstol L, Stanhope R, Edge JA, McKenzie S, Lessan N, Ghodsi M, De Rosa V,
+Perna F, Fontana S, Barroso I, Undlien DE, O'Rahilly S. Clinical and molecular
+genetic spectrum of congenital deficiency of the leptin receptor. N Engl J Med.
+2007 Jan 18;356(3):237-47. doi: 10.1056/NEJMoa063988.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kimber W, Peelman F, Prieur X, Wangensteen T, O'Rahilly S, Tavernier J,
+Farooqi IS. Functional characterization of naturally occurring pathogenic
+mutations in the human leptin receptor. Endocrinology. 2008 Dec;149(12):6043-52.
+doi: 10.1210/en.2008-0544. Epub 2008 Aug 14.
+Citation on PubMed
+Lee YS. The role of leptin-melanocortin system and human weight regulation:
+lessons from experiments of nature. Ann Acad Med Singap. 2009 Jan;38(1):34-11.
+Citation on PubMed
+Mazen I, El-Gammal M, Abdel-Hamid M, Farooqi IS, Amr K. Homozygosity for a
+novel missense mutation in the leptin receptor gene (P316T) in two Egyptian
+cousins with severe early onset obesity. Mol Genet Metab. 2011 Apr;102(4):461-4.
+doi: 10.1016/j.ymgme.2010.12.013. Epub 2010 Dec 31.
+Citation on PubMed
+Wasim M, Awan FR, Najam SS, Khan AR, Khan HN. Role of Leptin Deficiency,
+Inefficiency, and Leptin Receptors in Obesity. Biochem Genet. 2016
+Oct;54(5):565-72. doi: 10.1007/s10528-016-9751-z. Epub 2016 Jun 16.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Obesity
+MEDICAL ENCYCLOPEDIA
+Appetite - increased
+Genetics
+Hypogonadotropic hypogonadism
+Hypothalamus
+Related Medical Tests
+Obesity Screening
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,218 @@
+Stickler syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Stickler syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/stickler-syndrome/
+Stickler syndrome
+Description
+Stickler syndrome is a group of hereditary conditions that are characterized by a distinctive facial appearance, eye abnormalities, hearing loss, and joint problems. These signs and symptoms vary widely among affected individuals, even among members of the same family.
+A characteristic feature of Stickler syndrome is a flattened facial appearance that results from underdeveloped bones in the middle of the face. A particular group of physical features called Pierre Robin sequence is also common in people with Stickler syndrome. Pierre Robin sequence includes an opening in the roof of the mouth (a
+cleft palate
+), a tongue that is placed further back than normal (glossoptosis), and a small lower jaw (
+micrognathia
+). This combination of features can lead to feeding problems and difficulty breathing after birth.
+Many individuals with Stickler syndrome have severe
+nearsightedness
+(high
+myopia
+), which means they have trouble seeing things that are far away. In some cases, the clear gel that fills the eyeball (the
+vitreous
+) has an abnormal appearance, which is noticeable during an eye examination. Other eye problems are also common in people with Stickler syndrome, including increased pressure within the eye (
+glaucoma
+), clouding of the lens of the eyes (
+cataracts
+), and tearing of the light-sensitive tissue at the back of the eye (
+retinal detachment
+). These eye abnormalities can impair vision and may lead to blindness.
+Hearing loss is also common in people with Stickler syndrome. In affected individuals, the degree of hearing loss can vary and may worsen over time. People with Stickler syndrome typically have sensorineural hearing loss (caused by changes in the
+inner ear
+) with or without conductive hearing loss (caused by changes in the middle ear).
+Most people with Stickler syndrome have joint abnormalities. Arthritis often develops early in life and may cause joint pain or stiffness. People with severe joint disease may need surgery to replace damaged joints in their 20s or 30s. Affected individuals may also have abnormal curvature of the spine (
+scoliosis or kyphosis
+) that causes back pain.
+Researchers have described several types of Stickler syndrome, which are distinguished by their genetic causes, features, and patterns of inheritance. In particular, the eye abnormalities and severity of hearing loss vary among the different types. Some types of Stickler syndrome are very rare and have been diagnosed in only a few individuals.
+Frequency
+Stickler syndrome affects an estimated 1 in 7,500 to 9,000 newborns.
+Causes
+Variants (also called mutations) in several genes cause the different types of Stickler syndrome. Approximately 80 percent of people with Stickler syndrome have a variant in the
+COL2A1
+gene. Variants in the
+COL11A1
+gene are the next most common cause of Stickler syndrome.
+The most common genes associated with Stickler syndrome are called collagen genes because they provide instructions for making components of collagens. Collagens are complex molecules that give structure and strength to the
+connective tissues
+that support the body's joints and organs. Variants in the collagen genes impair the production, processing, or assembly of collagen molecules. Altered collagen molecules or reduced amounts of collagen impair the development of connective tissues in many different parts of the body, leading to the varied features of Stickler syndrome.
+In rare cases, individuals with signs and symptoms similar to those seen in people with Stickler syndrome have been found to have variants in genes that are not involved in collagen production. Researchers are working to learn more about these genes and their possible association with Stickler syndrome.
+Learn more about the genes associated with Stickler syndrome
+COL11A1
+COL11A2
+COL2A1
+COL9A1
+COL9A2
+COL9A3
+Inheritance
+Most often, Stickler syndrome is inherited inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. This includes cases of Stickler syndrome that are caused by variants in the
+COL2A1
+,
+COL11A1
+, and
+COL11A2
+genes. Sometimes, Stickler syndrome is the result of a new (de novo) variant in the gene that occurs during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals have no history of the disorder in their family.
+When Stickler syndrome is caused by variants in other genes, it can be inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Arthroophthalmopathy
+Hereditary arthro-ophthalmo-dystrophy
+Hereditary arthro-ophthalmopathy
+Stickler dysplasia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Otospondylomegaepiphyseal dysplasia, autosomal dominant
+Genetic Testing Registry: Marshall syndrome
+Genetic Testing Registry: Stickler syndrome
+Genetic Testing Registry: Stickler syndrome type 1
+Genetic Testing Registry: Stickler syndrome type 2
+Genetic Testing Registry: Stickler syndrome, type 4
+Genetic Testing Registry: Stickler syndrome, type 5
+Genetic and Rare Diseases Information Center
+Stickler syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+STICKLER SYNDROME, TYPE I; STL1
+OTOSPONDYLOMEGAEPIPHYSEAL DYSPLASIA, AUTOSOMAL DOMINANT; OSMEDA
+STICKLER SYNDROME, TYPE II; STL2
+STICKLER SYNDROME, TYPE I, NONSYNDROMIC OCULAR
+STICKLER SYNDROME, TYPE V; STL5
+STICKLER SYNDROME, TYPE IV; STL4
+Scientific Articles on PubMed
+PubMed
+References
+Acke FR, Dhooge IJ, Malfait F, De Leenheer EM. Hearing impairment in Stickler
+syndrome: a systematic review. Orphanet J Rare Dis. 2012 Oct 30;7:84. doi:
+10.1186/1750-1172-7-84.
+Citation on PubMed
+or
+Free article on PubMed Central
+Annunen S, Korkko J, Czarny M, Warman ML, Brunner HG, Kaariainen H, Mulliken
+JB, Tranebjaerg L, Brooks DG, Cox GF, Cruysberg JR, Curtis MA, Davenport SL,
+Friedrich CA, Kaitila I, Krawczynski MR, Latos-Bielenska A, Mukai S, Olsen BR,
+Shinno N, Somer M, Vikkula M, Zlotogora J, Prockop DJ, Ala-Kokko L. Splicing
+mutations of 54-bp exons in the COL11A1 gene cause Marshall syndrome, but other
+mutations cause overlapping Marshall/Stickler phenotypes. Am J Hum Genet. 1999
+Oct;65(4):974-83. doi: 10.1086/302585.
+Citation on PubMed
+or
+Free article on PubMed Central
+Baker S, Booth C, Fillman C, Shapiro M, Blair MP, Hyland JC, Ala-Kokko L. A
+loss of function mutation in the COL9A2 gene causes autosomal recessive Stickler
+syndrome. Am J Med Genet A. 2011 Jul;155A(7):1668-72. doi: 10.1002/ajmg.a.34071.
+Epub 2011 Jun 10.
+Citation on PubMed
+Boothe M, Morris R, Robin N. Stickler Syndrome: A Review of Clinical
+Manifestations and the Genetics Evaluation. J Pers Med. 2020 Aug 27;10(3):105.
+doi: 10.3390/jpm10030105.
+Citation on PubMed
+Faletra F, D'Adamo AP, Bruno I, Athanasakis E, Biskup S, Esposito L, Gasparini
+P. Autosomal recessive Stickler syndrome due to a loss of function mutation in
+the COL9A3 gene. Am J Med Genet A. 2014 Jan;164A(1):42-7. doi:
+10.1002/ajmg.a.36165. Epub 2013 Nov 22.
+Citation on PubMed
+Hoornaert KP, Vereecke I, Dewinter C, Rosenberg T, Beemer FA, Leroy JG, Bendix
+L, Bjorck E, Bonduelle M, Boute O, Cormier-Daire V, De Die-Smulders C,
+Dieux-Coeslier A, Dollfus H, Elting M, Green A, Guerci VI, Hennekam RC,
+Hilhorts-Hofstee Y, Holder M, Hoyng C, Jones KJ, Josifova D, Kaitila I,
+Kjaergaard S, Kroes YH, Lagerstedt K, Lees M, Lemerrer M, Magnani C, Marcelis C,
+Martorell L, Mathieu M, McEntagart M, Mendicino A, Morton J, Orazio G, Paquis V,
+Reish O, Simola KO, Smithson SF, Temple KI, Van Aken E, Van Bever Y, van den Ende
+J, Van Hagen JM, Zelante L, Zordania R, De Paepe A, Leroy BP, De Buyzere M,
+Coucke PJ, Mortier GR. Stickler syndrome caused by COL2A1 mutations:
+genotype-phenotype correlation in a series of 100 patients. Eur J Hum Genet. 2010
+Aug;18(8):872-80. doi: 10.1038/ejhg.2010.23. Epub 2010 Feb 24.
+Citation on PubMed
+Khalifa O, Imtiaz F, Ramzan K, Allam R, Hemidan AA, Faqeih E, Abuharb G,
+Balobaid A, Sakati N, Owain MA. Marshall syndrome: further evidence of a distinct
+phenotypic entity and report of new findings. Am J Med Genet A. 2014
+Oct;164A(10):2601-6. doi: 10.1002/ajmg.a.36681. Epub 2014 Jul 29.
+Citation on PubMed
+Liberfarb RM, Levy HP, Rose PS, Wilkin DJ, Davis J, Balog JZ, Griffith AJ,
+Szymko-Bennett YM, Johnston JJ, Francomano CA, Tsilou E, Rubin BI. The Stickler
+syndrome: genotype/phenotype correlation in 10 families with Stickler syndrome
+resulting from seven mutations in the type II collagen gene locus COL2A1. Genet
+Med. 2003 Jan-Feb;5(1):21-7. doi: 10.1097/00125817-200301000-00004.
+Citation on PubMed
+Mortier G. Stickler Syndrome. 2000 Jun 9 [updated 2023 Sep 7]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1302/
+Citation on PubMed
+Nixon TRW, Richards A, Towns LK, Fuller G, Abbs S, Alexander P, McNinch A,
+Sandford RN, Snead MP. Bone morphogenetic protein 4 (BMP4) loss-of-function
+variant associated with autosomal dominant Stickler syndrome and renal dysplasia.
+Eur J Hum Genet. 2019 Mar;27(3):369-377. doi: 10.1038/s41431-018-0316-y. Epub
+2018 Dec 19.
+Citation on PubMed
+Nixon TRW, Richards AJ, Martin H, Alexander P, Snead MP. Autosomal Recessive
+Stickler Syndrome. Genes (Basel). 2022 Jun 24;13(7):1135. doi:
+10.3390/genes13071135.
+Citation on PubMed
+Unger S, Ferreira CR, Mortier GR, Ali H, Bertola DR, Calder A, Cohn DH,
+Cormier-Daire V, Girisha KM, Hall C, Krakow D, Makitie O, Mundlos S, Nishimura G,
+Robertson SP, Savarirayan R, Sillence D, Simon M, Sutton VR, Warman ML,
+Superti-Furga A. Nosology of genetic skeletal disorders: 2023 revision. Am J Med
+Genet A. 2023 May;191(5):1164-1209. doi: 10.1002/ajmg.a.63132. Epub 2023 Feb 13.
+Citation on PubMed
+Van Camp G, Snoeckx RL, Hilgert N, van den Ende J, Fukuoka H, Wagatsuma M,
+Suzuki H, Smets RM, Vanhoenacker F, Declau F, Van de Heyning P, Usami S. A new
+autosomal recessive form of Stickler syndrome is caused by a mutation in the
+COL9A1 gene. Am J Hum Genet. 2006 Sep;79(3):449-57. doi: 10.1086/506478. Epub
+2006 Jun 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Cleft Lip and Palate
+Connective Tissue Disorders
+Genetic Disorders
+Hearing Disorders and Deafness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Pierre Robin sequence
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

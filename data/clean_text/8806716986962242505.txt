@@ -1,0 +1,151 @@
+Short QT syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Short QT syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/short-qt-syndrome/
+Short QT syndrome
+Description
+Short QT syndrome is a condition that can cause a disruption of the heart's normal rhythm (arrhythmia). In people with this condition, the heart (cardiac) muscle takes less time than usual to recharge between beats. The term "short QT" refers to a specific pattern of heart activity that is detected with an electrocardiogram (EKG), which is a test used to measure the electrical activity of the heart. In people with this condition, the part of the heartbeat known as the
+QT interval
+is abnormally short.
+If untreated, the arrhythmia associated with short QT syndrome can lead to a variety of signs and symptoms, from dizziness and fainting (syncope) to cardiac arrest and sudden death. These signs and symptoms can occur any time from early infancy to old age. This condition may explain some cases of sudden infant death syndrome (SIDS), which is a major cause of unexplained death in babies younger than 1 year. However, some people with short QT syndrome never experience any health problems associated with the condition.
+Frequency
+Short QT syndrome appears to be rare. At least 70 cases have been identified worldwide since the condition was discovered in 2000. However, the condition may be underdiagnosed because some affected individuals never experience symptoms.
+Causes
+Mutations in the
+KCNH2
+,
+KCNJ2
+, and
+KCNQ1
+genes can cause short QT syndrome. These genes provide instructions for making
+channels
+that transport positively charged atoms (ions) of potassium out of cells. In cardiac muscle, these ion channels play critical roles in maintaining the heart's normal rhythm. Mutations in the
+KCNH2
+,
+KCNJ2
+, or
+KCNQ1
+gene increase the activity of the channels, which enhances the flow of potassium ions across the membrane of cardiac muscle cells. This change in ion transport alters the electrical activity of the heart and can lead to the abnormal heart rhythms characteristic of short QT syndrome.
+Some affected individuals do not have an identified mutation in the
+KCNH2
+,
+KCNJ2
+, or
+KCNQ1
+gene. Changes in other genes that have not been identified may cause the disorder in these cases.
+Learn more about the genes associated with Short QT syndrome
+CACNA1C
+KCNH2
+KCNJ2
+KCNQ1
+Inheritance
+Short QT syndrome appears to have an
+autosomal dominant pattern
+of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Some affected individuals have a family history of short QT syndrome or related heart problems and sudden cardiac death. Other cases of short QT syndrome are classified as sporadic and occur in people with no apparent family history of related heart problems.
+Other Names for This Condition
+SQTS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Short QT syndrome type 1
+Genetic Testing Registry: Short QT syndrome type 2
+Genetic Testing Registry: Short QT syndrome type 3
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SHORT QT SYNDROME 1; SQT1
+SHORT QT SYNDROME 2; SQT2
+SHORT QT SYNDROME 3; SQT3
+Scientific Articles on PubMed
+PubMed
+References
+Bjerregaard P, Gussak I. Short QT syndrome. Ann Noninvasive Electrocardiol.
+2005 Oct;10(4):436-40. doi: 10.1111/j.1542-474X.2005.00064.x.
+Citation on PubMed
+Borggrefe M, Wolpert C, Antzelevitch C, Veltmann C, Giustetto C, Gaita F,
+Schimpf R. Short QT syndrome. Genotype-phenotype correlations. J Electrocardiol.
+2005 Oct;38(4 Suppl):75-80. doi: 10.1016/j.jelectrocard.2005.06.009.
+Citation on PubMed
+or
+Free article on PubMed Central
+Brugada R, Hong K, Cordeiro JM, Dumaine R. Short QT syndrome. CMAJ. 2005 Nov
+22;173(11):1349-54. doi: 10.1503/cmaj.050596.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gaita F, Giustetto C, Bianchi F, Wolpert C, Schimpf R, Riccardi R, Grossi S,
+Richiardi E, Borggrefe M. Short QT Syndrome: a familial cause of sudden death.
+Circulation. 2003 Aug 26;108(8):965-70. doi: 10.1161/01.CIR.0000085071.28695.C4.
+Epub 2003 Aug 18.
+Citation on PubMed
+Giustetto C, Schimpf R, Mazzanti A, Scrocco C, Maury P, Anttonen O, Probst V,
+Blanc JJ, Sbragia P, Dalmasso P, Borggrefe M, Gaita F. Long-term follow-up of
+patients with short QT syndrome. J Am Coll Cardiol. 2011 Aug 2;58(6):587-95. doi:
+10.1016/j.jacc.2011.03.038.
+Citation on PubMed
+Gollob MH, Redpath CJ, Roberts JD. The short QT syndrome: proposed diagnostic
+criteria. J Am Coll Cardiol. 2011 Feb 15;57(7):802-12. doi:
+10.1016/j.jacc.2010.09.048.
+Citation on PubMed
+Gussak I, Bjerregaard P. Short QT syndrome--5 years of progress. J
+Electrocardiol. 2005 Oct;38(4):375-7. doi: 10.1016/j.jelectrocard.2005.06.012. No
+abstract available.
+Citation on PubMed
+Maluli HA, Meshkov AB. A short story of the short QT syndrome. Cleve Clin J
+Med. 2013 Jan;80(1):41-7. doi: 10.3949/ccjm.80a.12029.
+Citation on PubMed
+Patel U, Pavri BB. Short QT syndrome: a review. Cardiol Rev. 2009
+Nov-Dec;17(6):300-3. doi: 10.1097/CRD.0b013e3181c07592.
+Citation on PubMed
+Schimpf R, Wolpert C, Gaita F, Giustetto C, Borggrefe M. Short QT syndrome.
+Cardiovasc Res. 2005 Aug 15;67(3):357-66. doi: 10.1016/j.cardiores.2005.03.026.
+Citation on PubMed
+Wolpert C, Schimpf R, Veltmann C, Giustetto C, Gaita F, Borggrefe M. Clinical
+characteristics and treatment of short QT syndrome. Expert Rev Cardiovasc Ther.
+2005 Jul;3(4):611-7. doi: 10.1586/14779072.3.4.611.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Arrhythmia
+Congenital Heart Defects
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Arrhythmias
+Genetics
+Related Medical Tests
+Electrocardiogram
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,138 @@
+Pitt-Hopkins syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pitt-Hopkins syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/pitt-hopkins-syndrome/
+Pitt-Hopkins syndrome
+Description
+Pitt-Hopkins syndrome is a condition characterized by intellectual disability and developmental delay, breathing problems, recurrent seizures (epilepsy), and distinctive facial features.
+People with Pitt-Hopkins syndrome have moderate to severe intellectual disability. Most affected individuals have delayed development of mental and motor skills (psychomotor delay). They are delayed in learning to walk and developing fine motor skills such as picking up small items with their fingers. People with Pitt-Hopkins syndrome typically do not develop speech; some may learn to say a few words. Many affected individuals exhibit features of autistic spectrum disorders, which are characterized by impaired communication and socialization skills.
+Breathing problems in individuals with Pitt-Hopkins syndrome are characterized by episodes of rapid breathing (hyperventilation) followed by periods in which breathing slows or stops (apnea). These episodes can cause a lack of oxygen in the blood, leading to a bluish appearance of the skin or lips (cyanosis). In some cases, the lack of oxygen can cause loss of consciousness. Some older individuals with Pitt-Hopkins syndrome develop widened and rounded tips of the fingers and toes (clubbing) because of recurrent episodes of decreased oxygen in the blood. The breathing problems occur only when the person is awake and typically first appear in mid-childhood, but they can begin as early as infancy. Episodes of hyperventilation and apnea can be triggered by emotions such as excitement or anxiety or by extreme tiredness (fatigue).
+Epilepsy occurs in most people with Pitt-Hopkins syndrome and usually begins during childhood, although it can be present from birth.
+Individuals with Pitt-Hopkins syndrome have
+distinctive facial features
+that include thin eyebrows, sunken eyes, a prominent nose with a high nasal bridge, a pronounced double curve of the upper lip (
+Cupid's bow
+), a wide mouth with full lips, and widely spaced teeth. The ears are usually thick and cup-shaped.
+Children with Pitt-Hopkins syndrome
+typically have a happy, excitable demeanor with frequent smiling, laughter, and hand-flapping movements. However, they can also experience anxiety and behavioral problems.
+Other features of Pitt-Hopkins syndrome may include constipation and other gastrointestinal problems, an unusually small head (
+microcephaly
+),
+nearsightedness
+(
+myopia
+), eyes that do not look in the same direction (strabismus), short stature, and minor brain abnormalities. Affected individuals may also have small hands and feet,
+a single crease across the palms of the hands
+, flat feet (
+pes planus
+), or unusually fleshy pads at the tips of the fingers and toes. Males with Pitt-Hopkins syndrome may have undescended testes (cryptorchidism).
+Frequency
+Pitt-Hopkins syndrome is thought to be a very rare condition. Approximately 500 affected individuals have been reported worldwide.
+Causes
+Mutations in the
+TCF4
+gene cause Pitt-Hopkins syndrome. This gene provides instructions for making a protein that attaches (binds) to other proteins and then binds to specific regions of DNA to help control the activity of many other genes. On the basis of its DNA binding and gene controlling activities, the TCF4 protein is known as a transcription factor. The TCF4 protein plays a role in the maturation of cells to carry out specific functions (cell differentiation) and the self-destruction of cells (
+apoptosis
+).
+TCF4
+gene mutations disrupt the protein's ability to bind to DNA and control the activity of certain genes. These disruptions, particularly the inability of the TCF4 protein to control the activity of genes involved in nervous system development and function, contribute to the signs and symptoms of Pitt-Hopkins syndrome. Furthermore, additional proteins interact with the TCF4 protein to carry out specific functions. When the TCF4 protein is nonfunctional, these other proteins are also unable to function normally. It is also likely that the loss of the normal proteins that are attached to the nonfunctional TCF4 proteins contribute to the features of this condition. The loss of one protein in particular, the ASCL1 protein, is thought to be associated with breathing problems in people with Pitt-Hopkins syndrome.
+Learn more about the gene associated with Pitt-Hopkins syndrome
+TCF4
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+PHS
+PTHS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pitt-Hopkins syndrome
+Genetic and Rare Diseases Information Center
+Pitt-Hopkins syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PITT-HOPKINS SYNDROME; PTHS
+Scientific Articles on PubMed
+PubMed
+References
+Amiel J, Rio M, de Pontual L, Redon R, Malan V, Boddaert N, Plouin P, Carter
+NP, Lyonnet S, Munnich A, Colleaux L. Mutations in TCF4, encoding a class I basic
+helix-loop-helix transcription factor, are responsible for Pitt-Hopkins syndrome,
+a severe epileptic encephalopathy associated with autonomic dysfunction. Am J Hum
+Genet. 2007 May;80(5):988-93. doi: 10.1086/515582. Epub 2007 Mar 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Brockschmidt A, Todt U, Ryu S, Hoischen A, Landwehr C, Birnbaum S, Frenck W,
+Radlwimmer B, Lichter P, Engels H, Driever W, Kubisch C, Weber RG. Severe mental
+retardation with breathing abnormalities (Pitt-Hopkins syndrome) is caused by
+haploinsufficiency of the neuronal bHLH transcription factor TCF4. Hum Mol Genet.
+2007 Jun 15;16(12):1488-94. doi: 10.1093/hmg/ddm099. Epub 2007 May 3.
+Citation on PubMed
+Forrest M, Chapman RM, Doyle AM, Tinsley CL, Waite A, Blake DJ. Functional
+analysis of TCF4 missense mutations that cause Pitt-Hopkins syndrome. Hum Mutat.
+2012 Dec;33(12):1676-86. doi: 10.1002/humu.22160. Epub 2012 Jul 27.
+Citation on PubMed
+Sweatt JD. Pitt-Hopkins Syndrome: intellectual disability due to loss of
+TCF4-regulated gene transcription. Exp Mol Med. 2013 May 3;45(5):e21. doi:
+10.1038/emm.2013.32.
+Citation on PubMed
+or
+Free article on PubMed Central
+Van Balkom ID, Vuijk PJ, Franssens M, Hoek HW, Hennekam RC. Development,
+cognition, and behaviour in Pitt-Hopkins syndrome. Dev Med Child Neurol. 2012
+Oct;54(10):925-31. doi: 10.1111/j.1469-8749.2012.04339.x. Epub 2012 Jun 19.
+Citation on PubMed
+Zweier C, Sticht H, Bijlsma EK, Clayton-Smith J, Boonen SE, Fryer A, Greally
+MT, Hoffmann L, den Hollander NS, Jongmans M, Kant SG, King MD, Lynch SA, McKee
+S, Midro AT, Park SM, Ricotti V, Tarantino E, Wessels M, Peippo M, Rauch A.
+Further delineation of Pitt-Hopkins syndrome: phenotypic and genotypic
+description of 16 novel patients. J Med Genet. 2008 Nov;45(11):738-44. doi:
+10.1136/jmg.2008.060129. Epub 2008 Aug 26.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Breathing - slowed or stopped
+Genetics
+Hyperventilation
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

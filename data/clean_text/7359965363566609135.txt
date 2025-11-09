@@ -1,0 +1,165 @@
+Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/megalencephaly-polymicrogyria-polydactyly-hydrocephalus-syndrome/
+Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
+Description
+Megalencephaly-
+polymicrogyria
+-polydactyly-hydrocephalus (MPPH) syndrome is a rare disorder that primarily affects the development of the brain. Affected individuals are born with an unusually large brain and head size (megalencephaly). The head and brain continue to grow rapidly during the first 2 years of life. MPPH syndrome is also associated with a brain abnormality called bilateral perisylvian polymicrogyria (BPP). The surface of the brain normally has many ridges or folds, called gyri. In people with BPP, an area of the brain called the perisylvian region develops too many gyri, and the folds are irregular and unusually small. Other brain abnormalities, including a buildup of fluid in the brain (hydrocephalus), have also been reported in people with MPPH syndrome.
+The problems with brain development cause a variety of neurological signs and symptoms. People with MPPH syndrome have delayed development and intellectual disability that ranges from mild to severe. About half of affected individuals develop recurrent seizures (epilepsy) beginning early in childhood. People with MPPH syndrome also have difficulty coordinating movements of the mouth and tongue (known as oromotor dysfunction), which leads to drooling, difficulty swallowing (dysphagia), and a delay in the production of speech (expressive language).
+About half of people with MPPH syndrome have an
+extra finger
+or
+toe
+on one or more of their hands or feet (polydactyly). The polydactyly is described as postaxial because it occurs on the same side of the hand or foot as the pinky finger or little toe.
+The brain abnormalities characteristic of MPPH syndrome are also found in a closely related condition called
+megalencephaly-capillary malformation syndrome
+(MCAP). However, MCAP includes abnormalities of small blood vessels in the skin (
+capillary
+malformations) and several other features that are not usually part of MPPH syndrome.
+Frequency
+MPPH syndrome appears to be a rare disease. About 60 affected individuals have been described in the medical literature.
+Causes
+MPPH syndrome can be caused by mutations in the
+AKT3
+,
+CCND2
+, or
+PIK3R2
+gene. The proteins produced from all three genes are involved in a chemical signaling pathway called the PI3K-AKT-mTOR pathway. This signaling influences many critical cell functions, including the creation (synthesis) of new proteins, cell growth and division (proliferation), and the survival of cells. The PI3K-AKT-mTOR pathway is essential for the normal development of many parts of the body, including the brain.
+Mutations in the
+AKT3
+,
+CCND2
+, or
+PIK3R2
+gene increase the activity of their respective proteins or prevent the proteins from being broken down when they should. As a result, chemical signaling through the PI3K-AKT-mTOR pathway is enhanced, which increases cell growth and division. In the brain, the increased number of cells leads to rapid and abnormal brain growth starting before birth. The rapid growth disrupts the structure and function of the developing brain. It is less clear how increased PI3K-AKT-mTOR signaling contributes to polydactyly, although the extra digits are probably related to abnormal cell proliferation in the developing hands and feet.
+CCND2
+and
+PIK3R2
+gene mutations are more likely to cause polydactyly than are
+AKT3
+gene mutations.
+Learn more about the genes associated with Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
+AKT3
+CCND2
+PIK3R2
+Inheritance
+This condition is considered
+autosomal dominant
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Almost all cases of this condition result from new (
+de novo
+) gene mutations that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+In a small number of cases, people with MPPH syndrome have inherited the altered gene from an unaffected parent who has a mutation only in their sperm or egg cells. This phenomenon is called germline mosaicism.
+Rarely, the condition can also result from
+somatic mosaicism
+, in which some of an affected person's cells have a gene mutation and others do not. The genetic changes, which are called somatic mutations, arise randomly in one cell during embryonic development. As cells continue to divide, only cells arising from the first abnormal cell will have the mutation.
+Other Names for This Condition
+MEG-PMG-POLY-HYD
+Megalencephaly-postaxial polydactyly-polymicrogyria-hydrocephalus syndrome
+MPPH
+MPPH syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1
+Genetic Testing Registry: Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2
+Genetic Testing Registry: Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3
+Genetic and Rare Diseases Information Center
+Megalencephaly-polymicrogyria-postaxial polydactyly-hydrocephalus syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME 1; MPPH1
+MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME 2; MPPH2
+MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME 3; MPPH3
+Scientific Articles on PubMed
+PubMed
+References
+Mirzaa G, Dodge NN, Glass I, Day C, Gripp K, Nicholson L, Straub V, Voit T,
+Dobyns WB. Megalencephaly and perisylvian polymicrogyria with postaxial
+polydactyly and hydrocephalus: a rare brain malformation syndrome associated with
+mental retardation and seizures. Neuropediatrics. 2004 Dec;35(6):353-9. doi:
+10.1055/s-2004-830497.
+Citation on PubMed
+Mirzaa G, Parry DA, Fry AE, Giamanco KA, Schwartzentruber J, Vanstone M, Logan
+CV, Roberts N, Johnson CA, Singh S, Kholmanskikh SS, Adams C, Hodge RD, Hevner
+RF, Bonthron DT, Braun KPJ, Faivre L, Riviere JB, St-Onge J, Gripp KW, Mancini
+GM, Pang K, Sweeney E, van Esch H, Verbeek N, Wieczorek D, Steinraths M, Majewski
+J; FORGE Canada Consortium; Boycot KM, Pilz DT, Ross ME, Dobyns WB, Sheridan EG.
+De novo CCND2 mutations leading to stabilization of cyclin D2 cause
+megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome. Nat Genet. 2014
+May;46(5):510-515. doi: 10.1038/ng.2948. Epub 2014 Apr 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mirzaa GM, Conway RL, Gripp KW, Lerman-Sagie T, Siegel DH, deVries LS, Lev D,
+Kramer N, Hopkins E, Graham JM Jr, Dobyns WB. Megalencephaly-capillary
+malformation (MCAP) and megalencephaly-polydactyly-polymicrogyria-hydrocephalus
+(MPPH) syndromes: two closely related disorders of brain overgrowth and abnormal
+brain and body morphogenesis. Am J Med Genet A. 2012 Feb;158A(2):269-91. doi:
+10.1002/ajmg.a.34402. Epub 2012 Jan 6.
+Citation on PubMed
+Mirzaa GM, Riviere JB, Dobyns WB. Megalencephaly syndromes and activating
+mutations in the PI3K-AKT pathway: MPPH and MCAP. Am J Med Genet C Semin Med
+Genet. 2013 May;163C(2):122-30. doi: 10.1002/ajmg.c.31361. Epub 2013 Apr 16.
+Citation on PubMed
+Riviere JB, Mirzaa GM, O'Roak BJ, Beddaoui M, Alcantara D, Conway RL, St-Onge
+J, Schwartzentruber JA, Gripp KW, Nikkel SM, Worthylake T, Sullivan CT, Ward TR,
+Butler HE, Kramer NA, Albrecht B, Armour CM, Armstrong L, Caluseriu O, Cytrynbaum
+C, Drolet BA, Innes AM, Lauzon JL, Lin AE, Mancini GM, Meschino WS, Reggin JD,
+Saggar AK, Lerman-Sagie T, Uyanik G, Weksberg R, Zirn B, Beaulieu CL; Finding of
+Rare Disease Genes (FORGE) Canada Consortium; Majewski J, Bulman DE, O'Driscoll
+M, Shendure J, Graham JM Jr, Boycott KM, Dobyns WB. De novo germline and
+postzygotic mutations in AKT3, PIK3R2 and PIK3CA cause a spectrum of related
+megalencephaly syndromes. Nat Genet. 2012 Jun 24;44(8):934-40. doi:
+10.1038/ng.2331.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+Hydrocephalus
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hydrocephalus
+Increased head circumference
+Intellectual disability
+Polydactyly
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

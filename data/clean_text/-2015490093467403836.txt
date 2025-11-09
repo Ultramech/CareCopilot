@@ -1,0 +1,107 @@
+Potassium-aggravated myotonia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Potassium-aggravated myotonia
+URL of this page: https://medlineplus.gov/genetics/condition/potassium-aggravated-myotonia/
+Potassium-aggravated myotonia
+Description
+Potassium-aggravated myotonia is a disorder that affects muscles used for movement (skeletal muscles). Beginning in childhood or adolescence, people with this condition experience episodes of sustained muscle tensing (myotonia) that prevent muscles from relaxing. Myotonia causes muscle stiffness that worsens after exercise. In this disorder, episodes of myotonia may also be triggered (aggravated) by eating foods that are high in the mineral potassium, such as bananas and potatoes. During these episodes, stiffness occurs in skeletal muscles throughout the body.
+Potassium-aggravated myotonia ranges in severity from mild episodes of muscle stiffness (myotonia fluctuans) to severe, disabling disease with frequent attacks (myotonia permanen). Unlike some other forms of myotonia, potassium-aggravated myotonia is not associated with episodes of muscle weakness.
+Frequency
+This condition appears to be rare; it has been reported in a small number of individuals and families worldwide.
+Causes
+Potassium-aggravated myotonia is caused by variants (also known as mutations) in the
+SCN4A
+gene. The
+SCN4A
+gene provides instructions for making a protein that is critical for the normal function of skeletal muscle cells. For the body to move, skeletal muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of positively charged atoms (ions), including sodium, into skeletal muscle cells. The SCN4A protein forms channels that control the flow of sodium ions into these cells.
+Variants in the
+SCN4A
+gene alter the usual structure and function of sodium channels. The altered channels cannot properly regulate ion flow, increasing the movement of sodium ions into skeletal muscle cells. When excess potassium is present in the body, which occurs after eating potassium-rich foods, even more sodium ions flow into skeletal muscle cells in order to maintain a proper balance of calcium and potassium. The influx of extra sodium ions triggers prolonged muscle contractions, which are characteristic of myotonia.
+Learn more about the gene associated with Potassium-aggravated myotonia
+SCN4A
+Inheritance
+Potassium-aggravated myotonia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits a variant in the
+SCN4A
+gene from
+one affected parent
+. Other cases result from
+new variants in the gene
+. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+PAM
+Sodium channel myotonia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Potassium-aggravated myotonia
+Genetic and Rare Diseases Information Center
+Potassium-aggravated myotonia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MYOTONIA, POTASSIUM-AGGRAVATED
+Scientific Articles on PubMed
+PubMed
+References
+Desaphy JF, Carbonara R, D'Amico A, Modoni A, Roussel J, Imbrici P, Pagliarani
+S, Lucchiari S, Lo Monaco M, Conte Camerino D. Translational approach to address
+therapy in myotonia permanens due to a new SCN4A mutation. Neurology. 2016 May
+31;86(22):2100-8. doi: 10.1212/WNL.0000000000002721. Epub 2016 Apr 29.
+Citation on PubMed
+Lehmann-Horn F, Orth M, Kuhn M, Jurkat-Rott K. A novel N440K sodium channel
+mutation causes myotonia with exercise-induced weakness--exclusion of CLCN1 exon
+deletion/duplication by MLPA. Acta Myol. 2011 Oct;30(2):133-7.
+Citation on PubMed
+Stunnenberg BC, LoRusso S, Arnold WD, Barohn RJ, Cannon SC, Fontaine B, Griggs
+RC, Hanna MG, Matthews E, Meola G, Sansone VA, Trivedi JR, van Engelen BGM,
+Vicart S, Statland JM. Guidelines on clinical presentation and management of
+nondystrophic myotonias. Muscle Nerve. 2020 Oct;62(4):430-444. doi:
+10.1002/mus.26887. Epub 2020 May 27.
+Citation on PubMed
+Torbergsen T, Jurkat-Rott K, Stalberg EV, Loseth S, Hodneo A, Lehmann-Horn F.
+Painful cramps and giant myotonic discharges in a family with the Nav1.4-G1306A
+mutation. Muscle Nerve. 2015 Oct;52(4):680-3. doi: 10.1002/mus.24672. Epub 2015
+Jun 30.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Potassium in diet
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

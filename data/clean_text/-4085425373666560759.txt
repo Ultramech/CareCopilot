@@ -1,0 +1,168 @@
+Carnitine palmitoyltransferase II deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Carnitine palmitoyltransferase II deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/carnitine-palmitoyltransferase-ii-deficiency/
+Carnitine palmitoyltransferase II deficiency
+Description
+Carnitine palmitoyltransferase II (CPT II) deficiency is a condition that prevents the body from using certain fats for energy, particularly during periods of fasting. There are three main types of CPT II deficiency that vary in severity and the age at which symptoms first appear: a lethal neonatal form, a severe infantile hepatocardiomuscular form, and a myopathic form.
+The lethal neonatal form of CPT II deficiency becomes apparent soon after birth. Infants with this form of the disorder develop respiratory failure, liver failure, a weakened heart muscle (cardiomyopathy), and an irregular heartbeat (arrhythmia). In many cases, the brain and kidneys are also structurally abnormal. Affected individuals have low levels of glucose in the blood and low levels of ketones, which are produced during the breakdown of fats and used for energy. Together, these signs are called hypoketotic hypoglycemia. If affected individuals fast for long periods of time, they can experience seizures or coma. Because of these serious health complications, infants with the lethal neonatal form of CPT II deficiency usually live for only a few days to a few months.
+The severe infantile hepatocardiomuscular form of CPT II deficiency affects the liver, heart, and muscles. Signs and symptoms usually appear within the first year of life. This form involves recurring episodes of hypoketotic hypoglycemia, seizures, liver dysfunction, cardiomyopathy, arrhythmia, and muscle weakness (myopathy) in the arms and legs. Signs and symptoms of this form of CPT II deficiency can be triggered by fasting or by illnesses such as viral infections. Individuals with the severe infantile hepatocardiomuscular form of CPT II deficiency are at risk for liver failure, nervous system damage, coma, and sudden death.
+The myopathic form is the least severe type of CPT II deficiency. This form is characterized by recurrent episodes of muscle pain (myalgia) and occasional weakness that is associated with the breakdown of muscle tissue (rhabdomyolysis). The destruction of muscle tissue releases a protein called myoglobin. This excess myoglobin may cause urine to be red or brown (myoglobinuria). Episodes of myalgia and rhabdomyolysis may be triggered by exercise, stress, exposure to extreme temperatures, infections, or fasting. The first episode of myalgia usually occurs during childhood or adolescence. The severity and frequency of episodes varies among affected individuals. Most people with the myopathic form of CPT II deficiency have no signs or symptoms of the disorder between episodes.
+People with CPT II deficiency are often encouraged to avoid triggers such as long periods of fasting and intensive exercise to limit the occurrence of serious health problems.
+CPT II deficiency is often detected shortly after birth by newborn screening, which identifies abnormal levels of certain compounds in the blood. In individuals with CPT II deficiency, the blood levels of certain fats are elevated.
+Frequency
+CPT II deficiency is a rare disorder. The lethal neonatal form has been described in at least 20 families, while the severe infantile hepatocardiomuscular form has been identified in approximately 30 families. The myopathic form is the most common form, with more than 300 reported cases.
+Causes
+Variants (also called mutations) in the
+CPT2
+gene cause CPT II deficiency. This gene provides instructions for making an enzyme called carnitine palmitoyltransferase 2.
+This enzyme is essential for fatty acid oxidation, which is the multistep process that breaks down (metabolizes) fats and converts them into energy. During periods of fasting, fats are an important energy source for
+the liver
+and other tissues. Fatty acid oxidation takes place within
+mitochondria
+, which are the energy-producing centers. Before they can enter mitochondria, groups of fats called long-chain fatty acids must first be attached to a compound called carnitine. Once these fatty acids are inside mitochondria, carnitine palmitoyltransferase 2 removes the carnitine and prepares them for fatty acid oxidation.
+Variants in the
+CPT2
+gene reduce the activity of carnitine palmitoyltransferase 2. As a result, there are not enough enzymes available to remove carnitine from long-chain fatty acids. With carnitine still attached, these fatty acids (known as long-chain acylcarnitines) cannot be broken down and used for energy. Reduced energy production can lead to some of the features of CPT II deficiency, such as hypoketotic hypoglycemia, myalgia, and muscle weakness. Long-chain acylcarnitines, which are detected in newborn screening tests, may also build up in cells and damage the liver, heart, and muscles. This abnormal buildup causes the other signs and symptoms of CPT II deficiency.
+Learn more about the gene associated with Carnitine palmitoyltransferase II deficiency
+CPT2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition. Rarely, people with only one variant in the
+CPT2
+gene (known as carriers) have shown symptoms of the myopathic form of CPT II deficiency after strenuous activity, such as running long distances. More research is needed to determine how frequently carriers of
+CPT2
+gene variants have health problems and under what circumstances.
+Other Names for This Condition
+Carnitine palmitoyltransferase 2 deficiency
+CPT II deficiency
+CPT2 deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Carnitine palmitoyltransferase II deficiency
+Genetic Testing Registry: Carnitine palmitoyl transferase II deficiency, myopathic form
+Genetic Testing Registry: Carnitine palmitoyl transferase II deficiency, neonatal form
+Genetic Testing Registry: Carnitine palmitoyl transferase II deficiency, severe infantile form
+Genetic and Rare Diseases Information Center
+Carnitine palmitoyltransferase II deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, INFANTILE
+CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, MYOPATHIC, STRESS-INDUCED
+CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LETHAL NEONATAL
+Scientific Articles on PubMed
+PubMed
+References
+Anichini A, Fanin M, Vianey-Saban C, Cassandrini D, Fiorillo C, Bruno C,
+Angelini C. Genotype-phenotype correlations in a large series of patients with
+muscle type CPT II deficiency. Neurol Res. 2011 Jan;33(1):24-32. doi:
+10.1179/016164110X12767786356390. Epub 2010 Aug 31.
+Citation on PubMed
+Corti S, Bordoni A, Ronchi D, Musumeci O, Aguennouz M, Toscano A, Lamperti C,
+Bresolin N, Comi GP. Clinical features and new molecular findings in Carnitine
+Palmitoyltransferase II (CPT II) deficiency. J Neurol Sci. 2008 Mar
+15;266(1-2):97-103. doi: 10.1016/j.jns.2007.09.015. Epub 2007 Oct 23.
+Citation on PubMed
+Fanin M, Anichini A, Cassandrini D, Fiorillo C, Scapolan S, Minetti C,
+Cassanello M, Donati MA, Siciliano G, D'Amico A, Lilliu F, Bruno C, Angelini C.
+Allelic and phenotypic heterogeneity in 49 Italian patients with the muscle form
+of CPT-II deficiency. Clin Genet. 2012 Sep;82(3):232-9. doi:
+10.1111/j.1399-0004.2011.01786.x. Epub 2011 Oct 12.
+Citation on PubMed
+Illsinger S, Lucke T, Peter M, Ruiter JP, Wanders RJ, Deschauer M, Handig I,
+Wuyts W, Das AM. Carnitine-palmitoyltransferase 2 deficiency: novel mutations and
+relevance of newborn screening. Am J Med Genet A. 2008 Nov 15;146A(22):2925-8.
+doi: 10.1002/ajmg.a.32545.
+Citation on PubMed
+Isackson PJ, Bennett MJ, Lichter-Konecki U, Willis M, Nyhan WL, Sutton VR,
+Tein I, Vladutiu GD. CPT2 gene mutations resulting in lethal neonatal or severe
+infantile carnitine palmitoyltransferase II deficiency. Mol Genet Metab. 2008
+Aug;94(4):422-427. doi: 10.1016/j.ymgme.2008.05.002. Epub 2008 Jun 11.
+Citation on PubMed
+Joshi PR, Zierz S. Muscle Carnitine Palmitoyltransferase II (CPT II)
+Deficiency: A Conceptual Approach. Molecules. 2020 Apr 13;25(8):1784. doi:
+10.3390/molecules25081784.
+Citation on PubMed
+Lehmann D, Motlagh L, Robaa D, Zierz S. Muscle Carnitine Palmitoyltransferase
+II Deficiency: A Review of Enzymatic Controversy and Clinical Features. Int J Mol
+Sci. 2017 Jan 3;18(1):82. doi: 10.3390/ijms18010082.
+Citation on PubMed
+Longo N, Amat di San Filippo C, Pasquali M. Disorders of carnitine transport
+and the carnitine cycle. Am J Med Genet C Semin Med Genet. 2006 May
+15;142C(2):77-85. doi: 10.1002/ajmg.c.30087.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lorenzoni PJ, Kay CSK, Ducci RD, Fustes OJH, Rodrigues PRDVP, Arndt RC, Scola
+RH, Werneck LC. Myopathy due to carnitine palmitoyltransferase II deficiency:
+updating genetic aspects of the first publication in Brazil. Arq Neuropsiquiatr.
+2024 Feb;82(2):1-4. doi: 10.1055/s-0044-1779508. Epub 2024 Feb 23.
+Citation on PubMed
+Olpin SE, Afifi A, Clark S, Manning NJ, Bonham JR, Dalton A, Leonard JV, Land
+JM, Andresen BS, Morris AA, Muntoni F, Turnbull D, Pourfarzam M, Rahman S,
+Pollitt RJ. Mutation and biochemical analysis in carnitine palmitoyltransferase
+type II (CPT II) deficiency. J Inherit Metab Dis. 2003;26(6):543-57. doi:
+10.1023/a:1025947930752.
+Citation on PubMed
+Orngreen MC, Duno M, Ejstrup R, Christensen E, Schwartz M, Sacchetti M,
+Vissing J. Fuel utilization in subjects with carnitine palmitoyltransferase 2
+gene mutations. Ann Neurol. 2005 Jan;57(1):60-6. doi: 10.1002/ana.20320.
+Citation on PubMed
+Wieser T. Carnitine Palmitoyltransferase II Deficiency. 2004 Aug 27 [updated
+2019 Jan 3]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1253/
+Citation on PubMed
+Yazici H, Ak G, Celik MY, Erdem F, Yanbolu AY, Er E, Bozaci AE, Guvenc MS,
+Aykut A, Durmaz A, Canda E, Ucar SK, Coker M. Experience with carnitine
+palmitoyltransferase II deficiency: diagnostic challenges in the myopathic form.
+J Pediatr Endocrinol Metab. 2023 Nov 7;37(1):33-41. doi: 10.1515/jpem-2023-0298.
+Print 2024 Jan 29.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Lipid Metabolism Disorders
+Mitochondrial Diseases
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

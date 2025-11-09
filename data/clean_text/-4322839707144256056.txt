@@ -1,0 +1,185 @@
+Juvenile idiopathic arthritis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Juvenile idiopathic arthritis
+URL of this page: https://medlineplus.gov/genetics/condition/juvenile-idiopathic-arthritis/
+Juvenile idiopathic arthritis
+Description
+Juvenile idiopathic arthritis refers to a group of conditions involving joint inflammation (
+arthritis
+) that first appears before the age of 16. This condition is an autoimmune disorder, which means that the immune system malfunctions and attacks the body's organs and tissues, in this case the joints.
+Researchers have described seven types of juvenile idiopathic arthritis. The types are distinguished by their signs and symptoms, the number of joints affected, the results of laboratory tests, and the family history.
+Systemic juvenile idiopathic arthritis causes inflammation in one or more joints. A high daily fever that lasts at least 2 weeks either precedes or accompanies the arthritis. Individuals with systemic arthritis may also have a skin rash or enlargement of
+the lymph nodes
+(lymphadenopathy), liver (hepatomegaly), or spleen (splenomegaly).
+Oligoarticular juvenile idiopathic arthritis (also known as oligoarthritis) is marked by the occurrence of arthritis in four or fewer joints in the first 6 months of the disease. It is divided into two subtypes depending on the course of disease. If the arthritis is confined to four or fewer joints after 6 months, then the condition is classified as persistent oligoarthritis. If more than four joints are affected after 6 months, this condition is classified as extended oligoarthritis. Individuals with oligoarthritis are at increased risk of developing inflammation of the eye (uveitis).
+Rheumatoid factor positive polyarticular juvenile idiopathic arthritis (also known as polyarthritis, rheumatoid factor positive) causes inflammation in five or more joints within the first 6 months of the disease. Individuals with this condition also have a positive blood test for proteins called rheumatoid factors. This type of arthritis closely resembles
+rheumatoid arthritis
+as seen in adults.
+Rheumatoid factor negative polyarticular juvenile idiopathic arthritis (also known as polyarthritis, rheumatoid factor negative) is also characterized by arthritis in five or more joints within the first 6 months of the disease. Individuals with this type, however, test negative for rheumatoid factor in the blood.
+Psoriatic juvenile idiopathic arthritis involves arthritis that usually occurs in combination with a skin disorder called
+psoriasis
+. Psoriasis is a condition characterized by patches of red, irritated skin that are often covered by flaky white scales. Some affected individuals develop psoriasis before arthritis while others first develop arthritis. Other features of
+psoriatic arthritis
+include abnormalities of the fingers and nails or eye problems.
+Enthesitis-related juvenile idiopathic arthritis is characterized by tenderness where the bone meets a tendon, ligament, or other connective tissue. The most commonly affected places are the hips, knees, and feet. This tenderness, known as enthesitis, accompanies the joint inflammation of arthritis. Enthesitis-related arthritis may also involve inflammation in parts of the body other than the joints.
+The last type of juvenile idiopathic arthritis is called undifferentiated arthritis. This classification is given to affected individuals who do not fit into any of the above types or who fulfill the criteria for more than one type of juvenile idiopathic arthritis.
+Frequency
+The incidence of juvenile idiopathic arthritis in North America and Europe is estimated to be 4 to 16 in 10,000 children. Approximately 294,000 children in the United States are affected. The most common type of juvenile idiopathic arthritis in the United States is oligoarticular juvenile idiopathic arthritis, which accounts for about half of all cases. For reasons that are unclear, females seem to be affected with juvenile idiopathic arthritis somewhat more frequently than males. However, in enthesitis-related juvenile idiopathic arthritis males are affected more often than females. The incidence of juvenile idiopathic arthritis varies across different populations and ethnic groups.
+Causes
+Juvenile idiopathic arthritis is thought to arise from a combination of genetic and environmental factors. The term "idiopathic" indicates that the specific cause of the disorder is unknown. Its signs and symptoms result from
+excessive inflammation in and around the joints
+. Inflammation occurs when the immune system sends signaling molecules and white blood cells to a
+site of injury or disease
+to fight microbial invaders and facilitate tissue repair. Normally, the body stops the inflammatory response after healing is complete to prevent damage to its own cells and tissues. In people with juvenile idiopathic arthritis, the inflammatory response is prolonged, particularly during joint movement. The reasons for this excessive inflammatory response are unclear.
+Researchers have identified changes in several genes that may influence the risk of developing juvenile idiopathic arthritis. Some of these genes belong to a family of genes that provide instructions for making a group of related proteins called the
+human leukocyte antigen (HLA) complex
+. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person's immune system to react to a wide range of foreign proteins. Certain normal variations of several HLA genes seem to affect the risk of developing juvenile idiopathic arthritis, and the specific type of the condition that a person may have.
+Normal variations in several other genes have also been associated with juvenile idiopathic arthritis. Many of these genes are thought to play roles in immune system function. Additional unknown genetic influences and environmental factors, such as infection and other issues that affect immune health, are also likely to influence a person's chances of developing this complex disorder.
+Learn more about the genes associated with Juvenile idiopathic arthritis
+CCN6
+FAS
+HLA-B
+HLA-DPB1
+HLA-DQA1
+HLA-DQB1
+HLA-DRB1
+PTPN22
+RUNX1
+STAT4
+Additional Information from NCBI Gene:
+ANKRD55
+CD247
+CTLA4
+HLA-A
+HLA-G
+IL2RA
+IL2RB
+IL6
+LACC1
+MIF
+PTPN2
+SLC11A1
+TNF
+TNFAIP3
+TRAF1
+TYK2
+UBE2L3
+ZFP36L1
+Inheritance
+Most cases of juvenile idiopathic arthritis are sporadic, which means they occur in people with no history of the disorder in their family. A small percentage of cases of juvenile idiopathic arthritis have been reported to run in families, although the inheritance pattern of the condition is unclear. A sibling of a person with juvenile idiopathic arthritis has an estimated risk of developing the condition that is about 12 times that of the general population.
+Other Names for This Condition
+Arthritis, juvenile rheumatoid
+JIA
+JRA
+Juvenile chronic arthritis
+Juvenile RA
+Juvenile rheumatoid arthritis
+Systemic juvenile rheumatoid arthritis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Systemic-onset juvenile idiopathic arthritis
+Genetic and Rare Diseases Information Center
+Enthesitis-related juvenile idiopathic arthritis
+Oligoarticular juvenile idiopathic arthritis
+Psoriasis-related juvenile idiopathic arthritis
+Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis
+Systemic-onset juvenile idiopathic arthritis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+RHEUMATOID ARTHRITIS, SYSTEMIC JUVENILE
+Scientific Articles on PubMed
+PubMed
+References
+Cobb JE, Hinks A, Thomson W. The genetics of juvenile idiopathic arthritis:
+current understanding and future prospects. Rheumatology (Oxford). 2014
+Apr;53(4):592-9. doi: 10.1093/rheumatology/ket314. Epub 2013 Sep 18.
+Citation on PubMed
+Eisenstein EM, Berkun Y. Diagnosis and classification of juvenile idiopathic
+arthritis. J Autoimmun. 2014 Feb-Mar;48-49:31-3. doi: 10.1016/j.jaut.2014.01.009.
+Epub 2014 Jan 21.
+Citation on PubMed
+Ellis JA, Munro JE, Ponsonby AL. Possible environmental determinants of
+juvenile idiopathic arthritis. Rheumatology (Oxford). 2010 Mar;49(3):411-25. doi:
+10.1093/rheumatology/kep383. Epub 2009 Dec 4.
+Citation on PubMed
+Hersh AO, Prahalad S. Genetics of Juvenile Idiopathic Arthritis. Rheum Dis
+Clin North Am. 2017 Aug;43(3):435-448. doi: 10.1016/j.rdc.2017.04.007.
+Citation on PubMed
+Palman J, Shoop-Worrall S, Hyrich K, McDonagh JE. Update on the epidemiology,
+risk factors and disease outcomes of Juvenile idiopathic arthritis. Best Pract
+Res Clin Rheumatol. 2018 Apr;32(2):206-222. doi: 10.1016/j.berh.2018.10.004. Epub
+2018 Nov 19.
+Citation on PubMed
+Petty RE, Southwood TR, Manners P, Baum J, Glass DN, Goldenberg J, He X,
+Maldonado-Cocco J, Orozco-Alcala J, Prieur AM, Suarez-Almazor ME, Woo P;
+International League of Associations for Rheumatology. International League of
+Associations for Rheumatology classification of juvenile idiopathic arthritis:
+second revision, Edmonton, 2001. J Rheumatol. 2004 Feb;31(2):390-2. No abstract
+available.
+Citation on PubMed
+Prahalad S, Glass DN. A comprehensive review of the genetics of juvenile
+idiopathic arthritis. Pediatr Rheumatol Online J. 2008 Jul 21;6:11. doi:
+10.1186/1546-0096-6-11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vastert S, Prakken B. Update on research and clinical translation on specific
+clinical areas: From bench to bedside: How insight in immune pathogenesis can
+lead to precision medicine of severe juvenile idiopathic arthritis. Best Pract
+Res Clin Rheumatol. 2014 Apr;28(2):229-46. doi: 10.1016/j.berh.2014.05.002.
+Citation on PubMed
+Wakil SM, Monies DM, Abouelhoda M, Al-Tassan N, Al-Dusery H, Naim EA,
+Al-Younes B, Shinwari J, Al-Mohanna FA, Meyer BF, Al-Mayouf S. Association of a
+mutation in LACC1 with a monogenic form of systemic juvenile idiopathic
+arthritis. Arthritis Rheumatol. 2015 Jan;67(1):288-95. doi: 10.1002/art.38877.
+Citation on PubMed
+Woo P, Colbert RA. An overview of genetics of paediatric rheumatic diseases.
+Best Pract Res Clin Rheumatol. 2009 Oct;23(5):589-97. doi:
+10.1016/j.berh.2009.08.001.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Juvenile Arthritis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Rheumatoid Factor (RF) Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

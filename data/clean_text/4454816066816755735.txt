@@ -1,0 +1,193 @@
+Shingles: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Shingles
+URL of this page: https://medlineplus.gov/genetics/condition/shingles/
+Shingles
+Description
+Shingles (also known as herpes zoster) results from infection by the varicella zoster virus. This common virus causes chickenpox (also known as varicella), which is characterized by itchy spots on the skin that cover the whole body and usually occurs in childhood or adolescence. After the body fights the initial infection, the varicella zoster virus remains in nerve cells for the rest of a person's life. Because the virus is controlled by immune system cells called
+T cells
+, it is generally inactive (latent) and typically causes no health problems. However, in some people, the virus becomes active again (reactivates) and causes shingles. Shingles can occur at any age, although it is rare in childhood and becomes more common after age 50.
+Shingles is characterized by a severely painful, itchy, or tingling rash, most commonly on one side of the torso, although it can occur anywhere on the body. Reactivation of the virus usually occurs in a single nerve, leading to the symptoms of shingles in just the region of skin connected to that nerve. When the nerve connected to the eye and the skin surrounding it is affected, the condition is called herpes zoster ophthalmicus. This form of shingles, which accounts for about 20 percent of cases, can cause permanent vision impairment.
+Some individuals with shingles feel throbbing or tingling in the affected region shortly before the rash appears. Blisters form in the rash area, break open, and scab over in a few days. Healing usually takes 2 to 4 weeks. Most people have only one episode of shingles, although it can recur in rare cases.
+In 5 to 20 percent of people with shingles, severe pain continues in the affected region after healing of the rash, which is known as postherpetic neuralgia (PHN). PHN is the most common complication of shingles. It can also involve severe itchiness or an overactive pain response to things that do not usually cause pain (allodynia), such as a light touch. PHN can last weeks, months, or even years. The likelihood of developing PHN after shingles and its severity increase with age. The pain caused by shingles and PHN can disrupt day-to-day activities and reduce a person's quality of life.
+Frequency
+Because everyone infected with the varicella zoster virus is at risk of developing shingles, the condition is relatively common, particularly in older adults. Shingles occurs in 20 to 30 percent of people at some point in their lives, and about half of people over age 80 have had shingles.
+The risk of shingles varies by ethnic background. The condition is more common in people of non-Hispanic white ancestry than those of African American ancestry. For unknown reasons, women are more prone to develop shingles than men.
+A vaccine to prevent chickenpox was introduced in the United States in 1995. Since then, the incidence of chickenpox has been reduced by 76 to 85 percent. Doctors suspect the reduction of varicella zoster virus infections will reduce the incidence of shingles as the vaccinated children grow into adulthood; however, it is too early to tell. Vaccines for adults to protect against shingles and subsequent PHN have been used since 2006 and are also expected to reduce the incidence of shingles and its complications.
+Causes
+The causes of shingles are complex. Development of the condition is influenced by a combination of factors, including age, health, and genetics.
+The strongest risk factor for shingles is age. The varicella zoster virus is controlled by the immune system, particularly
+T cells
+that keep the virus from infecting other cells. As people age, growth and division (proliferation) of T cells are diminished, reducing the immune system's ability to control the virus, which can allow its reactivation. Health factors that impair T cells can also trigger reactivation of the varicella zoster virus. For example certain drugs, such as chemotherapies used to treat blood cancers like
+multiple myeloma
+or drugs that prevent rejection of a transplanted organ, impair the immune system and can lead to virus reactivation. Infection with human immunodeficiency virus (HIV), which infects and kills T cells, can also allow the virus to become active again. In addition, some studies suggest that emotional stress or physical trauma may be involved in virus reactivation.
+The role of genetics in shingles is not clear. Several studies indicate that having a family member who developed the condition increases a person's risk, suggesting a shared genetic risk factor, although other studies did not find such a link. Genes that help regulate the immune system have been found in some studies to be associated with the development of shingles or of PHN after shingles. In particular, the risk of developing PHN appears to be increased by certain variants of genes that belong to a family of genes called the
+human leukocyte antigen (HLA) complex
+. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders such as viruses and bacteria. It is unclear if certain HLA variations also play a role in the development of shingles.
+Learn more about the genes associated with Shingles
+HLA-B
+POLR3A
+STAT1
+STAT3
+Additional Information from NCBI Gene:
+HLA-A
+IL10
+POLR3C
+Inheritance
+The inheritance pattern of shingles is unclear. Having a
+first-degree relative
+(such as a parent or sibling) who developed shingles appears to slightly increase the risk of developing the condition. However, shingles is relatively common in the general population, particularly among older adults, and so it would not be surprising to see more than one case in a family just by chance.
+Other Names for This Condition
+Herpes zoster
+Zoster
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Ramsay Hunt syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Scientific Articles on PubMed
+PubMed
+References
+Canadian Pain Society Study Day participants. Safety and effectiveness of the
+herpes zoster vaccine to prevent postherpetic neuralgia: 2014 Update and
+consensus statement from the Canadian Pain Society. Pain Res Manag. 2015
+Jan-Feb;20(1):46-7. doi: 10.1155/2015/438597.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chen N, Li Q, Yang J, Zhou M, Zhou D, He L. Antiviral treatment for preventing
+postherpetic neuralgia. Cochrane Database Syst Rev. 2014 Feb 6;2014(2):CD006866.
+doi: 10.1002/14651858.CD006866.pub3.
+Citation on PubMed
+Cho JW, Shin DH, Lee KS. Polymorphism of the IL-10 gene is associated with
+susceptibility to herpes zoster in Korea. J Dermatol Sci. 2007 Mar;45(3):213-5.
+doi: 10.1016/j.jdermsci.2006.11.004. Epub 2007 Jan 3. No abstract available.
+Citation on PubMed
+Crosslin DR, Carrell DS, Burt A, Kim DS, Underwood JG, Hanna DS, Comstock BA,
+Baldwin E, de Andrade M, Kullo IJ, Tromp G, Kuivaniemi H, Borthwick KM, McCarty
+CA, Peissig PL, Doheny KF, Pugh E, Kho A, Pacheco J, Hayes MG, Ritchie MD, Verma
+SS, Armstrong G, Stallings S, Denny JC, Carroll RJ, Crawford DC, Crane PK,
+Mukherjee S, Bottinger E, Li R, Keating B, Mirel DB, Carlson CS, Harley JB,
+Larson EB, Jarvik GP. Genetic variation in the HLA region is associated with
+susceptibility to herpes zoster. Genes Immun. 2015 Jan-Feb;16(1):1-7. doi:
+10.1038/gene.2014.51. Epub 2014 Oct 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gagliardi AM, Andriolo BN, Torloni MR, Soares BG, de Oliveira Gomes J,
+Andriolo RB, Canteiro Cruz E. Vaccines for preventing herpes zoster in older
+adults. Cochrane Database Syst Rev. 2019 Nov 7;2019(11):CD008858. doi:
+10.1002/14651858.CD008858.pub4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gatti A, Pica F, Boccia MT, De Antoni F, Sabato AF, Volpi A. No evidence of
+family history as a risk factor for herpes zoster in patients with post-herpetic
+neuralgia. J Med Virol. 2010 May;82(6):1007-11. doi: 10.1002/jmv.21748.
+Citation on PubMed
+Haanpaa M, Nurmikko T, Hurme M. Polymorphism of the IL-10 gene is associated
+with susceptibility to herpes zoster. Scand J Infect Dis. 2002;34(2):112-4. doi:
+10.1080/00365540110077218.
+Citation on PubMed
+Hernandez PO, Javed S, Mendoza N, Lapolla W, Hicks LD, Tyring SK. Family
+history and herpes zoster risk in the era of shingles vaccination. J Clin Virol.
+2011 Dec;52(4):344-8. doi: 10.1016/j.jcv.2011.08.014. Epub 2011 Sep 15.
+Citation on PubMed
+Kawai K, Yawn BP. Risk Factors for Herpes Zoster: A Systematic Review and
+Meta-analysis. Mayo Clin Proc. 2017 Dec;92(12):1806-1821. doi:
+10.1016/j.mayocp.2017.10.009.
+Citation on PubMed
+Meysman P, De Neuter N, Bartholomeus E, Elias G, Van den Bergh J, Emonds MP,
+Haasnoot GW, Heynderickx S, Wens J, Michels NR, Lambert J, Lion E, Claas FHJ,
+Goossens H, Smits E, Van Damme P, Van Tendeloo V, Beutels P, Suls A, Mortier G,
+Laukens K, Ogunjimi B. Increased herpes zoster risk associated with poor HLA-A
+immediate early 62 protein (IE62) affinity. Immunogenetics. 2018
+Jun;70(6):363-372. doi: 10.1007/s00251-017-1047-x. Epub 2017 Dec 1.
+Citation on PubMed
+Meysman P, Ogunjimi B, Naulaerts S, Beutels P, Van Tendeloo V, Laukens K.
+Varicella-zoster virus-derived major histocompatibility complex class
+I-restricted peptide affinity is a determining factor in the HLA risk profile for
+the development of postherpetic neuralgia. J Virol. 2015 Jan 15;89(2):962-9. doi:
+10.1128/JVI.02500-14. Epub 2014 Oct 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ogunjimi B, Zhang SY, Sorensen KB, Skipper KA, Carter-Timofte M, Kerner G,
+Luecke S, Prabakaran T, Cai Y, Meester J, Bartholomeus E, Bolar NA, Vandeweyer G,
+Claes C, Sillis Y, Lorenzo L, Fiorenza RA, Boucherit S, Dielman C, Heynderickx S,
+Elias G, Kurotova A, Auwera AV, Verstraete L, Lagae L, Verhelst H, Jansen A,
+Ramet J, Suls A, Smits E, Ceulemans B, Van Laer L, Plat Wilson G, Kreth J, Picard
+C, Von Bernuth H, Fluss J, Chabrier S, Abel L, Mortier G, Fribourg S, Mikkelsen
+JG, Casanova JL, Paludan SR, Mogensen TH. Inborn errors in RNA polymerase III
+underlie severe varicella zoster virus infections. J Clin Invest. 2017 Sep
+1;127(9):3543-3556. doi: 10.1172/JCI92280. Epub 2017 Aug 7.
+Citation on PubMed
+Siegel AM, Heimall J, Freeman AF, Hsu AP, Brittain E, Brenchley JM, Douek DC,
+Fahle GH, Cohen JI, Holland SM, Milner JD. A critical role for STAT3
+transcription factor signaling in the development and maintenance of human T cell
+memory. Immunity. 2011 Nov 23;35(5):806-18. doi: 10.1016/j.immuni.2011.09.016.
+Citation on PubMed
+or
+Free article on PubMed Central
+Toubiana J, Okada S, Hiller J, Oleastro M, Lagos Gomez M, Aldave Becerra JC,
+Ouachee-Chardin M, Fouyssac F, Girisha KM, Etzioni A, Van Montfrans J, Camcioglu
+Y, Kerns LA, Belohradsky B, Blanche S, Bousfiha A, Rodriguez-Gallego C, Meyts I,
+Kisand K, Reichenbach J, Renner ED, Rosenzweig S, Grimbacher B, van de Veerdonk
+FL, Traidl-Hoffmann C, Picard C, Marodi L, Morio T, Kobayashi M, Lilic D, Milner
+JD, Holland S, Casanova JL, Puel A; International STAT1 Gain-of-Function Study
+Group. Heterozygous STAT1 gain-of-function mutations underlie an unexpectedly
+broad clinical phenotype. Blood. 2016 Jun 23;127(25):3154-64. doi:
+10.1182/blood-2015-11-679902. Epub 2016 Apr 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Warren-Gash C, Forbes H, Breuer J. Varicella and herpes zoster vaccine
+development: lessons learned. Expert Rev Vaccines. 2017 Dec;16(12):1191-1201.
+doi: 10.1080/14760584.2017.1394843. Epub 2017 Oct 30.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Shingles
+MEDICAL ENCYCLOPEDIA
+Chickenpox
+Genetics
+Postherpetic neuralgia - aftercare
+Shingles
+Related Medical Tests
+Chickenpox and Shingles Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

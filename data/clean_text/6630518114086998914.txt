@@ -1,0 +1,115 @@
+Iron-refractory iron deficiency anemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Iron-refractory iron deficiency anemia
+URL of this page: https://medlineplus.gov/genetics/condition/iron-refractory-iron-deficiency-anemia/
+Iron-refractory iron deficiency anemia
+Description
+Iron-refractory iron deficiency anemia is one of many types of
+anemia
+, which is a group of conditions characterized by a shortage of healthy red blood cells. This shortage prevents the blood from carrying an adequate supply of oxygen to the body's tissues.
+Iron-refractory iron deficiency anemia results from an inadequate amount (deficiency) of iron in the bloodstream. It is described as "iron-refractory" because the condition is totally resistant (refractory) to treatment with iron given orally and partially resistant to iron given in other ways, such as intravenously (by IV). In people with this form of anemia, red blood cells are abnormally small (microcytic) and pale (hypochromic). The symptoms of iron-refractory iron deficiency anemia can include tiredness (fatigue), weakness, pale skin, and other complications. These symptoms are most pronounced during childhood, although they tend to be mild. Affected individuals usually have normal growth and development.
+Frequency
+Although iron deficiency anemia is relatively common, the prevalence of the iron-refractory form of the disease is unknown. At least 50 cases have been described in the medical literature. Researchers suspect that iron-refractory iron deficiency anemia is underdiagnosed because affected individuals with very mild symptoms may never come to medical attention.
+Causes
+Mutations in the
+TMPRSS6
+gene cause iron-refractory iron deficiency anemia. This gene provides instructions for making a protein called matriptase-2, which helps regulate iron levels in the body.
+TMPRSS6
+gene mutations reduce or eliminate functional matriptase-2, which disrupts iron regulation and leads to a shortage of iron in the bloodstream. Iron is an essential component of
+hemoglobin
+, which is the molecule in red blood cells that carries oxygen. When not enough iron is available in the bloodstream, less hemoglobin is produced, causing red blood cells to be abnormally small and pale. The abnormal cells cannot carry oxygen effectively to the body's cells and tissues, which leads to fatigue, weakness, and other
+symptoms of anemia
+.
+Learn more about the gene associated with Iron-refractory iron deficiency anemia
+TMPRSS6
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Anemia, hypochromic microcytic, with defect in iron metabolism
+IRIDA
+IRIDA syndrome
+Iron-handling disorder, hereditary
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Iron-refractory iron deficiency anemia
+Genetic and Rare Diseases Information Center
+IRIDA syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+IRON-REFRACTORY IRON DEFICIENCY ANEMIA; IRIDA
+Scientific Articles on PubMed
+PubMed
+References
+Brissot P, Bardou-Jacquet E, Jouanolle AM, Loreal O. Iron disorders of genetic
+origin: a changing world. Trends Mol Med. 2011 Dec;17(12):707-13. doi:
+10.1016/j.molmed.2011.07.004. Epub 2011 Aug 20.
+Citation on PubMed
+De Falco L, Sanchez M, Silvestri L, Kannengiesser C, Muckenthaler MU, Iolascon
+A, Gouya L, Camaschella C, Beaumont C. Iron refractory iron deficiency anemia.
+Haematologica. 2013 Jun;98(6):845-53. doi: 10.3324/haematol.2012.075515.
+Citation on PubMed
+or
+Free article on PubMed Central
+De Falco L, Totaro F, Nai A, Pagani A, Girelli D, Silvestri L, Piscopo C,
+Campostrini N, Dufour C, Al Manjomi F, Minkov M, Van Vuurden DG, Feliu A,
+Kattamis A, Camaschella C, Iolascon A. Novel TMPRSS6 mutations associated with
+iron-refractory iron deficiency anemia (IRIDA). Hum Mutat. 2010
+May;31(5):E1390-405. doi: 10.1002/humu.21243.
+Citation on PubMed
+Finberg KE, Heeney MM, Campagna DR, Aydinok Y, Pearson HA, Hartman KR, Mayo
+MM, Samuel SM, Strouse JJ, Markianos K, Andrews NC, Fleming MD. Mutations in
+TMPRSS6 cause iron-refractory iron deficiency anemia (IRIDA). Nat Genet. 2008
+May;40(5):569-71. doi: 10.1038/ng.130. Epub 2008 Apr 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Anemia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Anemia
+Genetics
+Hypochromia
+Iron deficiency anemia
+Related Medical Tests
+Iron Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

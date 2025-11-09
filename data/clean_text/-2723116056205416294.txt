@@ -1,0 +1,134 @@
+Obstructive sleep apnea: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Obstructive sleep apnea
+URL of this page: https://medlineplus.gov/genetics/condition/obstructive-sleep-apnea/
+Obstructive sleep apnea
+Description
+Obstructive sleep apnea is a condition in which individuals experience pauses in breathing (apnea) during sleep, which are associated with partial or complete closure of the throat (pper airway). Complete closure can lead to apnea while partial closure allows breathing but decrease the intake of oxygen (hypopnea).
+Individuals with obstructive sleep apnea may experience interrupted sleep with frequent awakenings and loud snoring. Repeated pauses in breathing lead to episodes of lower-than-normal oxygen levels (hypoxemia) and a buildup of carbon dioxide (hypercapnia) in the bloodstream. Interrupted and poor quality sleep can lead to daytime sleepiness and fatigue, impaired attention and memory, headaches,
+depression
+, and sexual dysfunction. Daytime sleepiness leads to a higher risk of motor vehicle accidents in individuals with obstructive sleep apnea. Obstructive sleep apnea is also associated with an increased risk of developing insulin resistance, which is an inability to regulate blood sugar (glucose) levels effectively; high blood pressure (
+hypertension
+); heart disease; and stroke.
+Frequency
+Obstructive sleep apnea is a common condition. It is estimated to affect 2 to 4 percent of children and at least 10 percent of adults worldwide. Malea are twice as likely as females to have obstructive sleep apnea.
+Causes
+The causes of obstructive sleep apnea are often complex. This condition results from a combination of genetic, health, and lifestyle factors, many of which have not been identified. Studies suggest that variations in multiple genes, each with a small effect, combine to increase the risk of developing the condition. However, it is unclear what contribution each of these genetic changes makes to disease risk. Most of the variations have been identified in single studies, and subsequent research has not verified them.
+Genes thought to be associated with the development of obstructive sleep apnea are involved in many body processes. These include communication between nerve cells, breathing regulation, control of inflammatory responses by the immune system, development of tissues in the head and face (craniofacial development), the sleep-wake cycle, and appetite control.
+Obesity is a major risk factor for obstructive sleep apnea as 60 to 70 percent of individuals with this condition have obesity. It is thought that excess fatty tissue in the head and neck constricts airways and abdominal fat may prevent the chest and lungs from fully expanding and relaxing. Other risk factors for obstructive sleep apnea include alcohol use; frequent nasal congestion; and blockages of
+the airways
+, such as by enlarged tonsils.
+Obstructive sleep apnea often occurs on its own, without signs and symptoms affecting other parts of the body. However, it can also occur as part of a syndrome, such as
+mucopolysaccharidosis type I
+or
+polycystic ovary syndrome
+.
+Inheritance
+The inheritance pattern of obstructive sleep apnea is unclear. Overall, the risk of developing this condition is about 50 percent greater for
+first-degree relatives
+(such as siblings or children) of affected individuals as compared to the general public.
+Other Names for This Condition
+Apnea, obstructive
+Obstructive apnea
+Obstructive sleep apnea syndrome
+OSA
+OSAHS
+OSAS
+SAHS
+Sleep apnea hypopnea syndrome
+Sleep apnea syndrome, obstructive
+Sleep apnea, obstructive
+Sleep apnea/hypopnea syndrome
+Upper airway resistance sleep apnea syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Obstructive sleep apnea syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+APNEA, OBSTRUCTIVE SLEEP
+Scientific Articles on PubMed
+PubMed
+References
+de Lima FF, Mazzotti DR, Tufik S, Bittencourt L. The role inflammatory
+response genes in obstructive sleep apnea syndrome: a review. Sleep Breath. 2016
+Mar;20(1):331-8. doi: 10.1007/s11325-015-1226-7. Epub 2015 Jul 23.
+Citation on PubMed
+Feliciano A, Torres VM, Vaz F, Carvalho AS, Matthiesen R, Pinto P, Malhotra A,
+Barbara C, Penque D. Overview of proteomics studies in obstructive sleep apnea.
+Sleep Med. 2015 Apr;16(4):437-45. doi: 10.1016/j.sleep.2014.11.014. Epub 2015 Feb
+14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Larkin EK, Patel SR, Goodloe RJ, Li Y, Zhu X, Gray-McGuire C, Adams MD,
+Redline S. A candidate gene study of obstructive sleep apnea in European
+Americans and African Americans. Am J Respir Crit Care Med. 2010 Oct
+1;182(7):947-53. doi: 10.1164/rccm.201002-0192OC. Epub 2010 Jun 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Parish JM. Genetic and immunologic aspects of sleep and sleep disorders.
+Chest. 2013 May;143(5):1489-1499. doi: 10.1378/chest.12-1219.
+Citation on PubMed
+or
+Free article on PubMed Central
+Patel SR, Goodloe R, De G, Kowgier M, Weng J, Buxbaum SG, Cade B, Fulop T,
+Gharib SA, Gottlieb DJ, Hillman D, Larkin EK, Lauderdale DS, Li L, Mukherjee S,
+Palmer L, Zee P, Zhu X, Redline S. Association of genetic loci with sleep apnea
+in European Americans and African-Americans: the Candidate Gene Association
+Resource (CARe). PLoS One. 2012;7(11):e48836. doi: 10.1371/journal.pone.0048836.
+Epub 2012 Nov 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Xu H, Guan J, Yi H, Yin S. A systematic review and meta-analysis of the
+association between serotonergic gene polymorphisms and obstructive sleep apnea
+syndrome. PLoS One. 2014 Jan 27;9(1):e86460. doi: 10.1371/journal.pone.0086460.
+eCollection 2014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Sleep Apnea
+MEDICAL ENCYCLOPEDIA
+Genetics
+Obstructive sleep apnea - adults
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,143 @@
+Cantú syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cantú syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/cantu-syndrome/
+Cantú syndrome
+Description
+Cantú syndrome is a rare condition characterized by excess hair growth (hypertrichosis), a distinctive facial appearance, heart defects, and several other abnormalities. The features of the disorder vary among affected individuals.
+People with Cantú syndrome have thick scalp hair that extends onto the forehead and grows down onto the cheeks in front of the ears. They also have increased body hair, especially on the back, arms, and legs. Most affected individuals have a large head (
+macrocephaly
+) and distinctive facial features that are described as "coarse." These include a broad nasal bridge, skin folds covering the inner corner of the eyes (
+epicanthal folds
+), and a wide mouth with full lips. As affected individuals get older, the face lengthens, the chin becomes more prominent, and the eyes become deep-set.
+Many infants with Cantú syndrome are born with a heart defect such as an enlarged heart (cardiomegaly) or patent ductus arteriosus (PDA). The ductus arteriosus is a connection between two major arteries, the
+aorta
+and the pulmonary artery. This connection is open during fetal development and normally closes shortly after birth. However, the ductus arteriosus remains open, or patent, in babies with PDA. Other heart problems have also been found in people with Cantú syndrome, including an abnormal buildup of fluid around the heart (
+pericardial effusion
+) and high blood pressure in the blood vessels that carry blood from the heart to the lungs (pulmonary hypertension).
+Additional features of this condition include distinctive skeletal abnormalities, a large body size (macrosomia) at birth, a reduced amount of fat under the skin (subcutaneous fat) beginning in childhood, deep horizontal creases in the palms of the hands and soles of the feet, and an increased susceptibility to respiratory infections. Other signs and symptoms that have been reported include abnormal swelling in the body's tissues (
+lymphedema
+), side-to-side curvature of the spine (
+scoliosis
+), and reduced bone density (osteopenia). Some affected children have weak muscle tone (hypotonia) that delays the development of motor skills such as sitting, standing, and walking. Most have mildly delayed speech, and some affected children have mild intellectual disability or learning problems.
+Frequency
+Cantú syndrome is a rare condition. About three dozen affected individuals have been reported in the medical literature.
+Causes
+Cantú syndrome results from mutations in the
+ABCC9
+gene. This gene provides instructions for making one part (subunit) of a
+channel
+that transports charged potassium atoms (potassium ions) across cell membranes. Mutations in the
+ABCC9
+gene alter the structure of the potassium channel, which causes the channel to open when it should be closed. It is unknown how this problem with potassium channel function leads to excess hair growth, heart defects, and the other features of Cantú syndrome.
+Learn more about the gene associated with Cantú syndrome
+ABCC9
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered
+ABCC9
+gene in each cell is sufficient to cause the disorder.
+Most cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family. In a few reported cases, an affected person has inherited the mutation from
+one affected parent
+.
+Other Names for This Condition
+Cantu syndrome
+Hypertrichosis-osteochondrodysplasia-cardiomegaly syndrome
+Hypertrichotic osteochondrodysplasia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hypertrichotic osteochondrodysplasia Cantu type
+Genetic and Rare Diseases Information Center
+Cantú syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CANTU SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Garcia-Cruz D, Sanchez-Corona J, Nazara Z, Garcia-Cruz MO, Figuera LE,
+Castaneda V, Cantu JM. Congenital hypertrichosis, osteochondrodysplasia, and
+cardiomegaly: further delineation of a new genetic syndrome. Am J Med Genet. 1997
+Mar 17;69(2):138-51. doi:
+10.1002/(sici)1096-8628(19970317)69:23.0.co;2-l.
+Citation on PubMed
+Grange DK, Lorch SM, Cole PL, Singh GK. Cantu syndrome in a woman and her two
+daughters: Further confirmation of autosomal dominant inheritance and review of
+the cardiac manifestations. Am J Med Genet A. 2006 Aug 1;140(15):1673-80. doi:
+10.1002/ajmg.a.31348.
+Citation on PubMed
+Harakalova M, van Harssel JJ, Terhal PA, van Lieshout S, Duran K, Renkens I,
+Amor DJ, Wilson LC, Kirk EP, Turner CL, Shears D, Garcia-Minaur S, Lees MM, Ross
+A, Venselaar H, Vriend G, Takanari H, Rook MB, van der Heyden MA, Asselbergs FW,
+Breur HM, Swinkels ME, Scurr IJ, Smithson SF, Knoers NV, van der Smagt JJ, Nijman
+IJ, Kloosterman WP, van Haelst MM, van Haaften G, Cuppen E. Dominant missense
+mutations in ABCC9 cause Cantu syndrome. Nat Genet. 2012 May 18;44(7):793-6. doi:
+10.1038/ng.2324.
+Citation on PubMed
+Lazalde B, Sanchez-Urbina R, Nuno-Arana I, Bitar WE, de Lourdes Ramirez-Duenas
+M. Autosomal dominant inheritance in Cantu syndrome (congenital hypertrichosis,
+osteochondrodysplasia, and cardiomegaly). Am J Med Genet. 2000 Oct
+23;94(5):421-7. doi: 10.1002/1096-8628(20001023)94:53.0.co;2-9.
+Citation on PubMed
+Robertson SP, Kirk E, Bernier F, Brereton J, Turner A, Bankier A. Congenital
+hypertrichosis, osteochondrodysplasia, and cardiomegaly: Cantu syndrome. Am J Med
+Genet. 1999 Aug 6;85(4):395-402.
+Citation on PubMed
+Scurr I, Wilson L, Lees M, Robertson S, Kirk E, Turner A, Morton J, Kidd A,
+Shashi V, Stanley C, Berry M, Irvine AD, Goudie D, Turner C, Brewer C, Smithson
+S. Cantu syndrome: report of nine new cases and expansion of the clinical
+phenotype. Am J Med Genet A. 2011 Mar;155A(3):508-18. doi: 10.1002/ajmg.a.33885.
+Epub 2011 Feb 22.
+Citation on PubMed
+van Bon BW, Gilissen C, Grange DK, Hennekam RC, Kayserili H, Engels H, Reutter
+H, Ostergaard JR, Morava E, Tsiakas K, Isidor B, Le Merrer M, Eser M, Wieskamp N,
+de Vries P, Steehouwer M, Veltman JA, Robertson SP, Brunner HG, de Vries BB,
+Hoischen A. Cantu syndrome is caused by mutations in ABCC9. Am J Hum Genet. 2012
+Jun 8;90(6):1094-101. doi: 10.1016/j.ajhg.2012.04.014. Epub 2012 May 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Bone Diseases
+Congenital Heart Defects
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Patent ductus arteriosus
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

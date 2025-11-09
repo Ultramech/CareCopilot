@@ -1,0 +1,158 @@
+Peutz-Jeghers syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Peutz-Jeghers syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/peutz-jeghers-syndrome/
+Peutz-Jeghers syndrome
+Description
+Peutz-Jeghers syndrome is characterized by the development of noncancerous growths called hamartomatous polyps in
+the gastrointestinal tract
+(particularly the stomach and intestines) and a greatly increased risk of developing certain types of cancer.
+Children with Peutz-Jeghers syndrome often develop small, dark-colored spots
+on the lips
+,
+around and inside the mouth
+, near the eyes and nostrils, and around the anus. These spots may also occur on the hands and feet. They appear during childhood and often fade as the person gets older. In addition, most people with Peutz-Jeghers syndrome develop multiple polyps in the stomach and intestines during childhood or adolescence. Polyps can cause health problems such as recurrent bowel obstructions, chronic bleeding, and abdominal pain.
+People with Peutz-Jeghers syndrome have a high risk of developing
+cancer
+during their lifetimes. Cancers of the gastrointestinal tract, pancreas, cervix, ovary, and breast are among the most commonly reported tumors.
+Frequency
+The prevalence of this condition is uncertain; estimates range from 1 in 25,000 to 300,000 individuals.
+Causes
+Mutations in the
+STK11
+gene (also known as
+LKB1
+) cause most cases of Peutz-Jeghers syndrome. The
+STK11
+gene is a tumor suppressor gene, which means that it normally prevents cells from
+growing and dividing too rapidly or in an uncontrolled way
+. A mutation in this gene alters the structure or function of the STK11 protein, disrupting its ability to restrain
+cell division
+. The resulting uncontrolled cell growth leads to the formation of noncancerous polyps and cancerous tumors in people with Peutz-Jeghers syndrome.
+A small percentage of people with Peutz-Jeghers syndrome do not have mutations in the
+STK11
+gene. In these cases, the cause of the disorder is unknown.
+Learn more about the gene associated with Peutz-Jeghers syndrome
+STK11
+Inheritance
+Peutz-Jeghers syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase the risk of developing noncancerous polyps and cancerous tumors. In about half of all cases, an affected person inherits a mutation in the
+STK11
+gene from
+one affected parent
+. The remaining cases occur in people with no history of Peutz-Jeghers syndrome in their family. These cases appear to result from
+new (de novo) mutations
+in the
+STK11
+gene.
+Other Names for This Condition
+Intestinal polyposis-cutaneous pigmentation syndrome
+Lentiginosis, perioral
+Periorificial lentiginosis syndrome
+Peutz-Jeghers polyposis
+PJS
+Polyposis, hamartomatous intestinal
+Polyposis, intestinal, II
+Polyps-and-spots syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Peutz-Jeghers syndrome
+Genetic and Rare Diseases Information Center
+Peutz-Jeghers syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PEUTZ-JEGHERS SYNDROME; PJS
+Scientific Articles on PubMed
+PubMed
+References
+Beggs AD, Latchford AR, Vasen HF, Moslein G, Alonso A, Aretz S, Bertario L,
+Blanco I, Bulow S, Burn J, Capella G, Colas C, Friedl W, Moller P, Hes FJ,
+Jarvinen H, Mecklin JP, Nagengast FM, Parc Y, Phillips RK, Hyer W, Ponz de Leon
+M, Renkonen-Sinisalo L, Sampson JR, Stormorken A, Tejpar S, Thomas HJ, Wijnen JT,
+Clark SK, Hodgson SV. Peutz-Jeghers syndrome: a systematic review and
+recommendations for management. Gut. 2010 Jul;59(7):975-86. doi:
+10.1136/gut.2009.198499.
+Citation on PubMed
+Brinster DR, Raper SE. Synchronous colon and pancreatic cancers in a patient
+with Peutz-Jeghers syndrome: report of a case and review of the literature.
+Surgery. 2004 Mar;135(3):352-4. doi: 10.1016/s0039-6060(03)00379-9. No abstract
+available.
+Citation on PubMed
+Hearle N, Schumacher V, Menko FH, Olschwang S, Boardman LA, Gille JJ, Keller
+JJ, Westerman AM, Scott RJ, Lim W, Trimbath JD, Giardiello FM, Gruber SB,
+Offerhaus GJ, de Rooij FW, Wilson JH, Hansmann A, Moslein G, Royer-Pokora B,
+Vogel T, Phillips RK, Spigelman AD, Houlston RS. Frequency and spectrum of
+cancers in the Peutz-Jeghers syndrome. Clin Cancer Res. 2006 May
+15;12(10):3209-15. doi: 10.1158/1078-0432.CCR-06-0083.
+Citation on PubMed
+Hernan I, Roig I, Martin B, Gamundi MJ, Martinez-Gimeno M, Carballo M. De novo
+germline mutation in the serine-threonine kinase STK11/LKB1 gene associated with
+Peutz-Jeghers syndrome. Clin Genet. 2004 Jul;66(1):58-62. doi:
+10.1111/j.0009-9163.2004.00266.x.
+Citation on PubMed
+Latchford AR, Phillips RK. Gastrointestinal polyps and cancer in Peutz-Jeghers
+syndrome: clinical aspects. Fam Cancer. 2011 Sep;10(3):455-61. doi:
+10.1007/s10689-011-9442-1.
+Citation on PubMed
+McGarrity TJ, Amos CI, Baker MJ. Peutz-Jeghers Syndrome. 2001 Feb 23 [updated
+2021 Sep 2]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1266/
+Citation on PubMed
+McGarrity TJ, Kulin HE, Zaino RJ. Peutz-Jeghers syndrome. Am J Gastroenterol.
+2000 Mar;95(3):596-604. doi: 10.1111/j.1572-0241.2000.01831.x.
+Citation on PubMed
+Merg A, Lynch HT, Lynch JF, Howe JR. Hereditary colorectal cancer-part II.
+Curr Probl Surg. 2005 May;42(5):267-333. doi: 10.1067/j.cpsurg.2005.02.003. No
+abstract available.
+Citation on PubMed
+van Lier MG, Wagner A, Mathus-Vliegen EM, Kuipers EJ, Steyerberg EW, van
+Leerdam ME. High cancer risk in Peutz-Jeghers syndrome: a systematic review and
+surveillance recommendations. Am J Gastroenterol. 2010 Jun;105(6):1258-64; author
+reply 1265. doi: 10.1038/ajg.2009.725. Epub 2010 Jan 5.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cancer
+Colonic Polyps
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Peutz-Jeghers syndrome
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,177 @@
+Jacobsen syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Jacobsen syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/jacobsen-syndrome/
+Jacobsen syndrome
+Description
+Jacobsen syndrome is a condition caused by a loss (deletion) of genetic material from chromosome 11. Because this
+deletion
+most commonly occurs at the end (terminus) of the long (q) arm of chromosome 11, Jacobsen syndrome is also known as 11q terminal deletion disorder.
+The signs and symptoms of Jacobsen syndrome vary considerably. Most affected individuals experience delayed development of certain skills, including speech and motor skills (such as sitting, standing, and walking). Most also have cognitive impairment and learning difficulties. Behavioral problems have been reported, including compulsive behavior (such as shredding paper), a short attention span, and easy distractibility. Many people with Jacobsen syndrome have been diagnosed with
+attention-deficit/hyperactivity disorder
+(ADHD). Jacobsen syndrome is also associated with an increased likelihood of
+autism spectrum disorder
+, which is characterized by impaired communication and socialization skills.
+Jacobsen syndrome is also characterized by distinctive facial features. These include small and low-set ears, widely set eyes (
+hypertelorism
+) with droopy eyelids (
+ptosis
+), skin folds covering the inner corner of the eyes (
+epicanthal folds
+),
+a broad nasal bridge
+,
+downturned corners of the mouth
+,
+a thin upper lip
+, and
+a small lower jaw
+. Affected individuals often have a large head size (
+macrocephaly
+) and a skull abnormality called
+trigonocephaly
+, which gives the forehead a pointed appearance.
+More than 90 percent of people with Jacobsen syndrome have a bleeding disorder called Paris-Trousseau syndrome. This condition causes a lifelong risk of abnormal bleeding and easy bruising. Paris-Trousseau syndrome is a disorder of platelets, which are blood cells that are necessary for
+blood clotting
+.
+Other features of Jacobsen syndrome can include heart defects, such as underdevelopment of the left side of the heart (hypoplastic left heart syndrome); feeding difficulties in infancy; short stature; frequent ear and sinus infections; and skeletal abnormalities. The disorder can also affect the digestive system, kidneys, and genitalia.
+The life expectancy of people with Jacobsen syndrome is unknown, although affected individuals have lived into adulthood. Complex heart defects are a leading cause of death in people with Jacobsen syndrome. Bleeding episodes and infections can also be life-threatening in people with Jacobsen syndrome.
+Frequency
+Jacobsen syndrome occurs in about 1 in 100,000 newborns. More than 200 affected individuals have been reported.
+Causes
+Jacobsen syndrome is caused by a
+deletion of genetic material
+from
+chromosome 11
+. Usually, the deletion occurs at the end of the long arm of the chromosome. Less commonly, the deletion occurs within the long arm of the chromosome, which is known as an interstitial deletion. The size of the deletion varies among affected individuals, with most affected people missing 5 million to 16 million DNA building blocks (base pairs). Larger deletions tend to cause more severe signs and symptoms than smaller deletions.
+The features of Jacobsen syndrome are likely related to the loss of multiple genes on chromosome 11. The deleted region can contain from about 170 to more than 340 genes. Genes in this region appear to be critical for the normal development of many parts of the body, including the brain, facial features, and heart. Only a few genes have been studied as possible contributors to the specific features of Jacobsen syndrome; researchers are working to determine which additional genes may be associated with this condition.
+Learn more about the gene and chromosome associated with Jacobsen syndrome
+FLI1
+chromosome 11
+Additional Information from NCBI Gene:
+ARHGAP32
+BSX
+ETS1
+NRGN
+Inheritance
+Most cases of Jacobsen syndrome are not inherited. They result from
+a chromosomal deletion
+that occurs as a random event during the formation of reproductive cells (eggs or sperm) or in early fetal development. Affected people typically have no history of the disorder in their family, although they can pass the chromosome deletion to their children.
+Between 5 and 10 percent of people with Jacobsen syndrome inherit the chromosome abnormality from an unaffected parent. In these cases, the parent carries a chromosomal rearrangement called
+a balanced translocation
+, in which a segment from chromosome 11 has traded places with a segment from another chromosome. In a balanced translocation, no genetic material is gained or lost. Balanced translocations usually do not cause any health problems; however, they can become unbalanced as they are passed to the next generation.
+Children who inherit
+an unbalanced translocation
+can have a chromosomal rearrangement with some missing genetic material and some extra genetic material. Individuals with Jacobsen syndrome who inherit an unbalanced translocation are missing genetic material from the end of the long arm of chromosome 11 and have extra genetic material from another chromosome. These chromosomal changes result in the health problems that are characteristic of this disorder.
+Other Names for This Condition
+11q deletion disorder
+11q deletion syndrome
+11q terminal deletion disorder
+11q- deletion syndrome
+11q23 deletion disorder
+Jacobsen thrombocytopenia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: 11q partial monosomy syndrome
+Genetic and Rare Diseases Information Center
+Jacobsen syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+JACOBSEN SYNDROME; JBS
+Scientific Articles on PubMed
+PubMed
+References
+Akshoomoff N, Mattson SN, Grossfeld PD. Evidence for autism spectrum disorder
+in Jacobsen syndrome: identification of a candidate gene in distal 11q. Genet
+Med. 2015 Feb;17(2):143-8. doi: 10.1038/gim.2014.86. Epub 2014 Jul 24.
+Citation on PubMed
+Coldren CD, Lai Z, Shragg P, Rossi E, Glidewell SC, Zuffardi O, Mattina T, Ivy
+DD, Curfs LM, Mattson SN, Riley EP, Treier M, Grossfeld PD. Chromosomal
+microarray mapping suggests a role for BSX and Neurogranin in neurocognitive and
+behavioral defects in the 11q terminal deletion disorder (Jacobsen syndrome).
+Neurogenetics. 2009 Apr;10(2):89-95. doi: 10.1007/s10048-008-0157-x. Epub 2008
+Oct 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Favier R, Akshoomoff N, Mattson S, Grossfeld P. Jacobsen syndrome: Advances in
+our knowledge of phenotype and genotype. Am J Med Genet C Semin Med Genet. 2015
+Sep;169(3):239-50. doi: 10.1002/ajmg.c.31448. Epub 2015 Aug 18.
+Citation on PubMed
+Grossfeld PD, Mattina T, Lai Z, Favier R, Jones KL, Cotter F, Jones C. The 11q
+terminal deletion disorder: a prospective study of 110 cases. Am J Med Genet A.
+2004 Aug 15;129A(1):51-61. doi: 10.1002/ajmg.a.30090.
+Citation on PubMed
+Lin L, Pinto A, Wang L, Fukatsu K, Yin Y, Bamforth SD, Bronner ME, Evans SM,
+Nie S, Anderson RH, Terskikh AV, Grossfeld PD. ETS1 loss in mice impairs cardiac
+outflow tract septation via a cell migration defect autonomous to the neural
+crest. Hum Mol Genet. 2022 Dec 16;31(24):4217-4227. doi: 10.1093/hmg/ddac174.
+Citation on PubMed
+Mattina T, Perrotta CS, Grossfeld P. Jacobsen syndrome. Orphanet J Rare Dis.
+2009 Mar 7;4:9. doi: 10.1186/1750-1172-4-9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Penny LA, Dell'Aquila M, Jones MC, Bergoffen J, Cunniff C, Fryns JP, Grace E,
+Graham JM Jr, Kousseff B, Mattina T, et al. Clinical and molecular
+characterization of patients with distal 11q deletions. Am J Hum Genet. 1995
+Mar;56(3):676-83.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tyson C, Qiao Y, Harvard C, Liu X, Bernier FP, McGillivray B, Farrell SA,
+Arbour L, Chudley AE, Clarke L, Gibson W, Dyack S, McLeod R, Costa T, Vanallen
+MI, Yong SL, Graham GE, Macleod P, Patel MS, Hurlburt J, Holden JJ, Lewis SM,
+Rajcan-Separovic E. Submicroscopic deletions of 11q24-25 in individuals without
+Jacobsen syndrome: re-examination of the critical region by high-resolution
+array-CGH. Mol Cytogenet. 2008 Nov 11;1:23. doi: 10.1186/1755-8166-1-23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wang L, Lin L, Qi H, Chen J, Grossfeld P. Endothelial Loss of ETS1 Impairs
+Coronary Vascular Development and Leads to Ventricular Non-Compaction. Circ Res.
+2022 Aug 19;131(5):371-387. doi: 10.1161/CIRCRESAHA.121.319955. Epub 2022 Jul 27.
+Citation on PubMed
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+Platelet Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

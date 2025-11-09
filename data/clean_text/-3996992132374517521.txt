@@ -1,0 +1,145 @@
+Primary carnitine deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Primary carnitine deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/primary-carnitine-deficiency/
+Primary carnitine deficiency
+Description
+Primary carnitine deficiency is a condition that prevents the body from using certain fats for energy, particularly during periods without food (fasting). Carnitine, a natural substance acquired mostly through food, is used by cells to process fats and produce energy.
+Signs and symptoms of primary carnitine deficiency typically appear during infancy or early childhood and can include severe brain dysfunction (encephalopathy), a weakened and enlarged heart (cardiomyopathy), vomiting, muscle weakness, and low blood glucose (hypoglycemia). The severity of this condition varies among affected individuals. Some people with primary carnitine deficiency are asymptomatic, which means they do not have any signs or symptoms of the condition. All individuals with this disorder are at risk for sudden death.
+Problems related to primary carnitine deficiency can be triggered by periods of fasting or by illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe disorder that may develop in children who appear to be recovering from viral infections such as chickenpox or flu.
+Frequency
+Primary carnitine deficiency occurs in approximately 1 in 100,000 newborns worldwide. In Japan, this disorder affects 1 in every 40,000 newborns.
+Causes
+Variants (also called mutations) in the
+SLC22A5
+gene cause primary carnitine deficiency. This gene provides instructions for making a protein called OCTN2 that transports carnitine into cells. Cells need carnitine to bring certain types of fats (fatty acids) into
+mitochondria
+, which are the energy-producing centers within cells. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids become the most important energy source for the heart and other muscles.
+Variants in the
+SLC22A5
+gene result in an absent or dysfunctional OCTN2 protein. As a result, there is a shortage (deficiency) of carnitine within cells. Without carnitine, fatty acids cannot enter mitochondria and be used to make energy. Reduced energy production can lead to some of the features of primary carnitine deficiency, such as muscle weakness and hypoglycemia. Fatty acids can also build up in cells and damage the liver, heart, and muscles. This abnormal buildup causes the other signs and symptoms of the disorder.
+Learn more about the gene associated with Primary carnitine deficiency
+SLC22A5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Carnitine transporter deficiency
+Carnitine uptake defect
+Carnitine uptake deficiency
+CUD
+Renal carnitine transport defect
+Systemic carnitine deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Renal carnitine transport defect
+Genetic and Rare Diseases Information Center
+Systemic primary carnitine deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CARNITINE DEFICIENCY, SYSTEMIC PRIMARY; CDSP
+Scientific Articles on PubMed
+PubMed
+References
+Amat di San Filippo C, Pasquali M, Longo N. Pharmacological rescue of
+carnitine transport in primary carnitine deficiency. Hum Mutat. 2006
+Jun;27(6):513-23. doi: 10.1002/humu.20314.
+Citation on PubMed
+El-Hattab AW, Li FY, Shen J, Powell BR, Bawle EV, Adams DJ, Wahl E, Kobori JA,
+Graham B, Scaglia F, Wong LJ. Maternal systemic primary carnitine deficiency
+uncovered by newborn screening: clinical, biochemical, and molecular aspects.
+Genet Med. 2010 Jan;12(1):19-24. doi: 10.1097/GIM.0b013e3181c5e6f7.
+Citation on PubMed
+Lahjouji K, Mitchell GA, Qureshi IA. Carnitine transport by organic cation
+transporters and systemic carnitine deficiency. Mol Genet Metab. 2001
+Aug;73(4):287-97. doi: 10.1006/mgme.2001.3207.
+Citation on PubMed
+Lamhonwah AM, Olpin SE, Pollitt RJ, Vianey-Saban C, Divry P, Guffon N, Besley
+GT, Onizuka R, De Meirleir LJ, Cvitanovic-Sojat L, Baric I, Dionisi-Vici C, Fumic
+K, Maradin M, Tein I. Novel OCTN2 mutations: no genotype-phenotype correlations:
+early carnitine therapy prevents cardiomyopathy. Am J Med Genet. 2002 Aug
+15;111(3):271-84. doi: 10.1002/ajmg.10585.
+Citation on PubMed
+Li FY, El-Hattab AW, Bawle EV, Boles RG, Schmitt ES, Scaglia F, Wong LJ.
+Molecular spectrum of SLC22A5 (OCTN2) gene mutations detected in 143 subjects
+evaluated for systemic carnitine deficiency. Hum Mutat. 2010 Aug;31(8):E1632-51.
+doi: 10.1002/humu.21311.
+Citation on PubMed
+Longo N, Amat di San Filippo C, Pasquali M. Disorders of carnitine transport
+and the carnitine cycle. Am J Med Genet C Semin Med Genet. 2006 May
+15;142C(2):77-85. doi: 10.1002/ajmg.c.30087.
+Citation on PubMed
+or
+Free article on PubMed Central
+Magoulas PL, El-Hattab AW. Systemic primary carnitine deficiency: an overview
+of clinical manifestations, diagnosis, and management. Orphanet J Rare Dis. 2012
+Sep 18;7:68. doi: 10.1186/1750-1172-7-68.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schimmenti LA, Crombez EA, Schwahn BC, Heese BA, Wood TC, Schroer RJ, Bentler
+K, Cederbaum S, Sarafoglou K, McCann M, Rinaldo P, Matern D, di San Filippo CA,
+Pasquali M, Berry SA, Longo N. Expanded newborn screening identifies maternal
+primary carnitine deficiency. Mol Genet Metab. 2007 Apr;90(4):441-5. doi:
+10.1016/j.ymgme.2006.10.003. Epub 2006 Nov 28.
+Citation on PubMed
+Shibbani K, Fahed AC, Al-Shaar L, Arabi M, Nemer G, Bitar F, Majdalani M.
+Primary carnitine deficiency: novel mutations and insights into the cardiac
+phenotype. Clin Genet. 2014 Feb;85(2):127-37. doi: 10.1111/cge.12112. Epub 2013
+Mar 12.
+Citation on PubMed
+Stanley CA. Carnitine deficiency disorders in children. Ann N Y Acad Sci. 2004
+Nov;1033:42-51. doi: 10.1196/annals.1320.004.
+Citation on PubMed
+Tein I. Carnitine transport: pathophysiology and metabolism of known molecular
+defects. J Inherit Metab Dis. 2003;26(2-3):147-69. doi: 10.1023/a:1024481016187.
+Citation on PubMed
+Wang Y, Korman SH, Ye J, Gargus JJ, Gutman A, Taroni F, Garavaglia B, Longo N.
+Phenotype and genotype variation in primary carnitine deficiency. Genet Med. 2001
+Nov-Dec;3(6):387-92. doi: 10.1097/00125817-200111000-00002.
+Citation on PubMed
+Related Health Topics
+Cardiomyopathy
+Genetic Disorders
+Lipid Metabolism Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

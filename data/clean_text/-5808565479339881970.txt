@@ -1,0 +1,155 @@
+Lactose intolerance: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Lactose intolerance
+URL of this page: https://medlineplus.gov/genetics/condition/lactose-intolerance/
+Lactose intolerance
+Description
+Lactose intolerance is a condition that makes it difficult to digest lactose, a sugar found in milk and several other dairy products. Lactose is normally broken down by an enzyme called lactase, which is produced by cells in the lining of the small intestine. Lack or loss of lactase has both genetic and non-genetic causes.
+Congenital lactase deficiency, also called congenital alactasia, is a disorder in which infants are unable to break down the lactose in breast milk or formula. This form of lactose intolerance results in very severe diarrhea. If affected infants are not given a lactose-free infant formula, they may experience severe dehydration and weight loss.
+Lactose intolerance in adulthood can be caused by the reduced production of lactase after infancy (lactase nonpersistence). If individuals with lactose intolerance consume lactose-containing dairy products, they may experience abdominal pain, bloating, flatulence, nausea, and diarrhea beginning 30 minutes to 2 hours later.
+Most people with lactase nonpersistence retain some lactase activity and can include varying amounts of lactose in their diets without experiencing symptoms. Often, affected individuals have difficulty digesting fresh milk but can eat certain dairy products such as cheese or yogurt without discomfort. These foods are made using fermentation processes that break down much of the lactose in milk.
+Frequency
+Congenital lactase deficiency is a rare disorder, though its exact incidence is unknown. This condition is most common in Finland, where it affects an estimated 1 in 60,000 newborns.
+Approximately 65 percent of the human population has a reduced ability to digest lactose after infancy. Lactase nonpersistence is most prevalent in people of East Asian descent, with 70 to 100 percent of people affected in these communities. Lactase nonpersistence is also very common in people of West African, Arab, Jewish, Greek, and Italian descent.
+The prevalence of lactose intolerance is lowest in populations with a long history of dependence on unfermented milk products as an important food source. For example, only about 5 percent of people of Northern European descent are lactase nonpersistent.
+Causes
+Congenital lactase deficiency is caused by variants (also called mutations) in the
+LCT
+gene. The
+LCT
+gene provides instructions for making the lactase enzyme. Variants in the
+LCT
+gene that cause congenital lactase deficiency are believed to interfere with the processing and function of lactase, causing affected infants to have a severely impaired ability to digest the lactose in breast milk or formula.
+Lactase nonpersistence in adulthood is caused by the gradually decreasing activity (expression) of the
+LCT
+gene after infancy, which occurs in most humans.
+LCT
+gene expression is controlled by a DNA sequence called a regulatory element, which is located within a nearby gene called
+MCM6
+. Some individuals have inherited changes in this element that lead to sustained lactase production in the small intestine and the ability to digest lactose throughout life. People without these changes have a reduced ability to digest lactose as they get older, resulting in the signs and symptoms of lactase nonpersistence.
+Learn more about the genes associated with Lactose intolerance
+LCT
+MCM6
+Inheritance
+Congenital lactase deficiency is inherited in an
+autosomal recessive pattern
+, which means both copies of the
+LCT
+gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+The ability to digest lactose into adulthood depends on which variants in the regulatory element within the
+MCM6
+gene individuals have inherited from their parents. The variants that promote continued lactase production are considered
+autosomal dominant
+, which means one copy of the altered regulatory element in each cell is sufficient to sustain lactase production. People who have not inherited these variants from either parent are lactase nonpersistent and will have some degree of lactose intolerance.
+Other Names for This Condition
+Alactasia
+Hypolactasia
+Lactose malabsorption
+Milk sugar intolerance
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital lactase deficiency
+Genetic Testing Registry: Nonpersistence of intestinal lactase
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LACTASE DEFICIENCY, CONGENITAL
+LACTOSE INTOLERANCE, ADULT TYPE
+Scientific Articles on PubMed
+PubMed
+References
+Harrington LK, Mayberry JF. A re-appraisal of lactose intolerance. Int J Clin
+Pract. 2008 Oct;62(10):1541-6. doi: 10.1111/j.1742-1241.2008.01834.x.
+Citation on PubMed
+He T, Venema K, Priebe MG, Welling GW, Brummer RJ, Vonk RJ. The role of
+colonic metabolism in lactose intolerance. Eur J Clin Invest. 2008
+Aug;38(8):541-7. doi: 10.1111/j.1365-2362.2008.01966.x.
+Citation on PubMed
+Heine RG, AlRefaee F, Bachina P, De Leon JC, Geng L, Gong S, Madrazo JA,
+Ngamphaiboon J, Ong C, Rogacion JM. Lactose intolerance and gastrointestinal
+cow's milk allergy in infants and children - common misconceptions revisited.
+World Allergy Organ J. 2017 Dec 12;10(1):41. doi: 10.1186/s40413-017-0173-0.
+eCollection 2017.
+Citation on PubMed
+Heyman MB; Committee on Nutrition. Lactose intolerance in infants, children,
+and adolescents. Pediatrics. 2006 Sep;118(3):1279-86. doi:
+10.1542/peds.2006-1721.
+Citation on PubMed
+Ingram CJ, Mulcare CA, Itan Y, Thomas MG, Swallow DM. Lactose digestion and
+the evolutionary genetics of lactase persistence. Hum Genet. 2009
+Jan;124(6):579-91. doi: 10.1007/s00439-008-0593-6. Epub 2008 Nov 26.
+Citation on PubMed
+Jarvela IE. Molecular genetics of adult-type hypolactasia. Ann Med.
+2005;37(3):179-85. doi: 10.1080/07853890510007359.
+Citation on PubMed
+Lomer MC, Parkes GC, Sanderson JD. Review article: lactose intolerance in
+clinical practice--myths and realities. Aliment Pharmacol Ther. 2008 Jan
+15;27(2):93-103. doi: 10.1111/j.1365-2036.2007.03557.x. Epub 2007 Oct 23.
+Citation on PubMed
+Robayo-Torres CC, Nichols BL. Molecular differentiation of congenital lactase
+deficiency from adult-type hypolactasia. Nutr Rev. 2007 Feb;65(2):95-8. doi:
+10.1111/j.1753-4887.2007.tb00286.x.
+Citation on PubMed
+Segurel L, Bon C. On the Evolution of Lactase Persistence in Humans. Annu Rev
+Genomics Hum Genet. 2017 Aug 31;18:297-319. doi:
+10.1146/annurev-genom-091416-035340. Epub 2017 Apr 19.
+Citation on PubMed
+Storhaug CL, Fosse SK, Fadnes LT. Country, regional, and global estimates for
+lactose malabsorption in adults: a systematic review and meta-analysis. Lancet
+Gastroenterol Hepatol. 2017 Oct;2(10):738-746. doi:
+10.1016/S2468-1253(17)30154-1. Epub 2017 Jul 7.
+Citation on PubMed
+Torniainen S, Freddara R, Routi T, Gijsbers C, Catassi C, Hoglund P, Savilahti
+E, Jarvela I. Four novel mutations in the lactase gene (LCT) underlying
+congenital lactase deficiency (CLD). BMC Gastroenterol. 2009 Jan 22;9:8. doi:
+10.1186/1471-230X-9-8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Lactose Intolerance
+Malabsorption Syndromes
+MEDICAL ENCYCLOPEDIA
+Genetics
+Lactose intolerance
+Lactose tolerance tests
+Related Medical Tests
+Lactose Tolerance Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

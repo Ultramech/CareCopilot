@@ -1,0 +1,183 @@
+Familial glucocorticoid deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial glucocorticoid deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/familial-glucocorticoid-deficiency/
+Familial glucocorticoid deficiency
+Description
+Familial glucocorticoid deficiency is a condition that occurs when the adrenal glands, which are hormone-producing glands located on top of each kidney, do not produce certain hormones called
+glucocorticoids
+. These hormones, which include
+cortisol
+and corticosterone, aid in immune system function, play a role in maintaining normal blood sugar (glucose) levels, help trigger nerve cell signaling in the brain, and serve many other purposes in the body.
+A shortage of adrenal hormones (adrenal insufficiency) causes the signs and symptoms of familial glucocorticoid deficiency. These signs and symptoms often begin in infancy or early childhood. Most affected children first develop low blood glucose (hypoglycemia). These hypoglycemic children can fail to grow and gain weight at the expected rate (failure to thrive). If left untreated, hypoglycemia can lead to seizures, learning difficulties, and other neurological problems. Hypoglycemia that is left untreated for prolonged periods can lead to neurological damage and death. Other features of familial glucocorticoid deficiency can include recurrent infections and skin coloring darker than that of other family members (hyperpigmentation).
+There are multiple types of familial glucocorticoid deficiency, which are distinguished by their genetic cause.
+Frequency
+The prevalence of familial glucocorticoid deficiency is unknown.
+Causes
+Mutations in the
+MC2R
+,
+MRAP
+, and
+NNT
+genes account for the majority of cases of familial glucocorticoid deficiency; mutations in other genes, some known and some unidentified, can also cause this condition.
+The
+MC2R
+gene provides instructions for making a protein called adrenocorticotropic hormone (ACTH) receptor, which is found primarily in the adrenal glands. The protein produced from the
+MRAP
+gene transports the ACTH receptor from the interior of the cell to the cell membrane. When the ACTH receptor is embedded within the cell membrane, it is turned on (activated) by the MRAP protein. Activated ACTH receptor can then attach (bind) to ACTH, and this binding triggers the adrenal glands to produce
+glucocorticoids
+.
+MC2R
+gene mutations lead to the production of a receptor that cannot be transported to the cell membrane or, if it does get to the cell membrane, cannot bind to ACTH.
+MRAP
+gene mutations impair the transport of the ACTH receptor to the cell membrane. Without the binding of the ACTH receptor to its hormone, there is no signal to trigger the adrenal glands to produce glucocorticoids.
+The
+NNT
+gene provides instructions for making an enzyme called nicotinamide nucleotide transhydrogenase. This enzyme is found embedded in the inner membrane of structures called
+mitochondria
+, which are the energy-producing centers of cells. This enzyme helps produce a substance called NADPH, which is involved in removing potentially toxic molecules called reactive oxygen species that can damage DNA, proteins, and cell membranes.
+NNT
+gene mutations impair the enzyme's ability to produce NADPH, leading to an increase in reactive oxygen species in adrenal gland tissues. Over time, these toxic molecules can impair the function of adrenal gland cells and lead to their death (
+apoptosis
+), diminishing the production of glucocorticoids.
+Learn more about the genes associated with Familial glucocorticoid deficiency
+MC2R
+MRAP
+NNT
+Additional Information from NCBI Gene:
+MCM4
+TXNRD2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ACTH resistance
+Adrenal unresponsiveness to ACTH
+Glucocorticoid deficiency
+Hereditary unresponsiveness to adrenocorticotropic hormone
+Isolated glucocorticoid deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Glucocorticoid deficiency 1
+Genetic Testing Registry: Glucocorticoid deficiency 4
+Genetic Testing Registry: Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency
+Genetic Testing Registry: Glucocorticoid deficiency 2
+Genetic and Rare Diseases Information Center
+Familial glucocorticoid deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+GLUCOCORTICOID DEFICIENCY 1; GCCD1
+GLUCOCORTICOID DEFICIENCY 2; GCCD2
+GLUCOCORTICOID DEFICIENCY 3; GCCD3
+IMMUNODEFICIENCY 54; IMD54
+GLUCOCORTICOID DEFICIENCY 4 WITH OR WITHOUT MINERALOCORTICOID DEFICIENCY; GCCD4
+Scientific Articles on PubMed
+PubMed
+References
+Chung TT, Chan LF, Metherell LA, Clark AJ. Phenotypic characteristics of
+familial glucocorticoid deficiency (FGD) type 1 and 2. Clin Endocrinol (Oxf).
+2010 May;72(5):589-94. doi: 10.1111/j.1365-2265.2009.03663.x. Epub 2009 Jun 24.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chung TT, Webb TR, Chan LF, Cooray SN, Metherell LA, King PJ, Chapple JP,
+Clark AJ. The majority of adrenocorticotropin receptor (melanocortin 2 receptor)
+mutations found in familial glucocorticoid deficiency type 1 lead to defective
+trafficking of the receptor to the cell surface. J Clin Endocrinol Metab. 2008
+Dec;93(12):4948-54. doi: 10.1210/jc.2008-1744. Epub 2008 Oct 7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Clark AJ, McLoughlin L, Grossman A. Familial glucocorticoid deficiency
+associated with point mutation in the adrenocorticotropin receptor. Lancet. 1993
+Feb 20;341(8843):461-2. doi: 10.1016/0140-6736(93)90208-x.
+Citation on PubMed
+Hughes CR, Chung TT, Habeb AM, Kelestimur F, Clark AJ, Metherell LA. Missense
+mutations in the melanocortin 2 receptor accessory protein that lead to late
+onset familial glucocorticoid deficiency type 2. J Clin Endocrinol Metab. 2010
+Jul;95(7):3497-501. doi: 10.1210/jc.2009-2731. Epub 2010 Apr 28.
+Citation on PubMed
+Hughes CR, Guasti L, Meimaridou E, Chuang CH, Schimenti JC, King PJ, Costigan
+C, Clark AJ, Metherell LA. MCM4 mutation causes adrenal failure, short stature,
+and natural killer cell deficiency in humans. J Clin Invest. 2012
+Mar;122(3):814-20. doi: 10.1172/JCI60224. Epub 2012 Feb 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Meimaridou E, Hughes CR, Kowalczyk J, Chan LF, Clark AJ, Metherell LA. ACTH
+resistance: genes and mechanisms. Endocr Dev. 2013;24:57-66. doi:
+10.1159/000342504. Epub 2013 Feb 1.
+Citation on PubMed
+Meimaridou E, Hughes CR, Kowalczyk J, Guasti L, Chapple JP, King PJ, Chan LF,
+Clark AJ, Metherell LA. Familial glucocorticoid deficiency: New genes and
+mechanisms. Mol Cell Endocrinol. 2013 May 22;371(1-2):195-200. doi:
+10.1016/j.mce.2012.12.010. Epub 2012 Dec 29.
+Citation on PubMed
+Meimaridou E, Kowalczyk J, Guasti L, Hughes CR, Wagner F, Frommolt P, Nurnberg
+P, Mann NP, Banerjee R, Saka HN, Chapple JP, King PJ, Clark AJ, Metherell LA.
+Mutations in NNT encoding nicotinamide nucleotide transhydrogenase cause familial
+glucocorticoid deficiency. Nat Genet. 2012 May 27;44(7):740-2. doi:
+10.1038/ng.2299.
+Citation on PubMed
+or
+Free article on PubMed Central
+Metherell LA, Chapple JP, Cooray S, David A, Becker C, Ruschendorf F, Naville
+D, Begeot M, Khoo B, Nurnberg P, Huebner A, Cheetham ME, Clark AJ. Mutations in
+MRAP, encoding a new interacting partner of the ACTH receptor, cause familial
+glucocorticoid deficiency type 2. Nat Genet. 2005 Feb;37(2):166-70. doi:
+10.1038/ng1501. Epub 2005 Jan 16.
+Citation on PubMed
+Prasad R, Chan LF, Hughes CR, Kaski JP, Kowalczyk JC, Savage MO, Peters CJ,
+Nathwani N, Clark AJ, Storr HL, Metherell LA. Thioredoxin Reductase 2 (TXNRD2)
+mutation associated with familial glucocorticoid deficiency (FGD). J Clin
+Endocrinol Metab. 2014 Aug;99(8):E1556-63. doi: 10.1210/jc.2013-3844. Epub 2014
+Mar 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Hypoglycemia
+MEDICAL ENCYCLOPEDIA
+Adrenal glands
+Genetics
+Related Medical Tests
+Adrenocorticotropic Hormone (ACTH)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

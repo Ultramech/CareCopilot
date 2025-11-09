@@ -1,0 +1,135 @@
+REN-related kidney disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+REN-related kidney disease
+URL of this page: https://medlineplus.gov/genetics/condition/ren-related-kidney-disease/
+REN-related kidney disease
+Description
+REN
+-related kidney disease is an inherited condition that affects kidney function. This condition causes slowly progressive kidney disease that usually becomes apparent during childhood. As this condition progresses, the kidneys become less able to
+filter fluids and waste
+products from the body, resulting in kidney failure. Individuals with
+REN
+-related kidney disease typically require dialysis (to remove wastes from the blood) or a kidney transplant between ages 40 and 70.
+People with
+REN
+-related kidney disease sometimes have low blood pressure. They may also have mildly increased levels of potassium in their blood (hyperkalemia). In childhood, people with
+REN
+-related kidney disease develop a shortage of red blood cells (
+anemia
+), which can cause pale skin, weakness, and fatigue. In this disorder, anemia is usually mild and begins to improve during adolescence.
+Many individuals with this condition develop high blood levels of a waste product called uric acid. Normally, the kidneys remove uric acid from the blood and transfer it to urine so it can be excreted from the body. In
+REN
+-related kidney disease, the kidneys are unable to remove uric acid from the blood effectively. A buildup of uric acid can cause
+gout
+, which is a form of arthritis resulting from uric acid crystals in the joints. Individuals with
+REN
+-related kidney disease may begin to experience the signs and symptoms of gout during their twenties.
+Frequency
+REN
+-related kidney disease is a rare condition. At least three families with this condition have been identified.
+Causes
+Mutations in the
+REN
+gene cause
+REN
+-related kidney disease. This gene provides instructions for making a protein called renin that is produced in the kidneys. Renin plays an important role in regulating blood pressure and water levels in the body.
+Mutations in the
+REN
+gene that cause
+REN
+-related kidney disease result in the production of an abnormal protein that is toxic to the cells that normally produce renin. These kidney cells gradually die off, which causes progressive kidney disease.
+Learn more about the gene associated with REN-related kidney disease
+REN
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Familial juvenile hyperuricemic nephropathy 2
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial juvenile hyperuricemic nephropathy type 2
+Genetic and Rare Diseases Information Center
+REN-related autosomal dominant tubulointerstitial kidney disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+TUBULOINTERSTITIAL KIDNEY DISEASE, AUTOSOMAL DOMINANT 4; ADTKD4
+Scientific Articles on PubMed
+PubMed
+References
+Beck BB, Trachtman H, Gitman M, Miller I, Sayer JA, Pannes A, Baasner A,
+Hildebrandt F, Wolf MT. Autosomal dominant mutation in the signal peptide of
+renin in a kindred with anemia, hyperuricemia, and CKD. Am J Kidney Dis. 2011
+Nov;58(5):821-5. doi: 10.1053/j.ajkd.2011.06.029. Epub 2011 Sep 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bleyer AJ, Zivna M, Hulkova H, Hodanova K, Vyletal P, Sikora J, Zivny J,
+Sovova J, Hart TC, Adams JN, Elleder M, Kapp K, Haws R, Cornell LD, Kmoch S, Hart
+PS. Clinical and molecular characterization of a family with a dominant renin
+gene mutation and response to treatment with fludrocortisone. Clin Nephrol. 2010
+Dec;74(6):411-22. doi: 10.5414/cnp74411.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zivna M, Hulkova H, Matignon M, Hodanova K, Vylet'al P, Kalbacova M, Baresova
+V, Sikora J, Blazkova H, Zivny J, Ivanek R, Stranecky V, Sovova J, Claes K, Lerut
+E, Fryns JP, Hart PS, Hart TC, Adams JN, Pawtowski A, Clemessy M, Gasc JM, Gubler
+MC, Antignac C, Elleder M, Kapp K, Grimbert P, Bleyer AJ, Kmoch S. Dominant renin
+gene mutations associated with early-onset hyperuricemia, anemia, and chronic
+kidney failure. Am J Hum Genet. 2009 Aug;85(2):204-13. doi:
+10.1016/j.ajhg.2009.07.010. Epub 2009 Aug 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zivna M, Kidd K, Kmoch S, Bleyer AJ. Autosomal Dominant Tubulointerstitial
+Kidney Disease - REN. 2011 Apr 5 [updated 2020 Dec 10]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK53700/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Anemia
+Genetic Disorders
+Gout
+Kidney Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+High potassium level
+Renin blood test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

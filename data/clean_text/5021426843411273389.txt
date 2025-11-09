@@ -1,0 +1,116 @@
+Arginase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Arginase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/arginase-deficiency/
+Arginase deficiency
+Description
+Arginase deficiency is an inherited disorder that causes the amino acid arginine (a building block of proteins) and ammonia to accumulate gradually in the blood. Ammonia, which is formed when proteins are broken down in the body, is toxic if levels become too high. The nervous system is especially sensitive to the effects of excess ammonia.
+Arginase deficiency usually becomes evident by about the age of 3. It most often appears as stiffness, especially in the legs, caused by abnormal tensing of the muscles (spasticity). Other symptoms may include slower than normal growth, developmental delays and eventual loss of developmental milestones, intellectual disabilities, seizures, tremors, and difficulty with balance and coordination (ataxia). Occasionally, high-protein meals or stress caused by illness or periods without food (fasting) may cause ammonia to accumulate more quickly in the blood. This rapid increase in ammonia may lead to episodes of irritability, refusal to eat, and vomiting.
+In some affected individuals, the signs and symptoms of arginase deficiency may be less severe and may not appear until later in life.
+Frequency
+Arginase deficiency is a very rare disorder; it has been estimated to occur once in every 300,000 to 1,000,000 individuals.
+Causes
+Arginase deficiency is caused by variants (also called mutations) in the
+ARG1
+gene. This gene provides instructions for making an enzyme called arginase.
+Arginase deficiency belongs to a class of genetic diseases called urea cycle disorders. The urea cycle is a sequence of reactions that occurs in
+liver
+cells. This cycle processes excess nitrogen, generated when protein is used by the body, to make a compound called urea that is excreted by
+the kidneys
+.
+The arginase enzyme facilitates the final step of the urea cycle, which produces urea by removing nitrogen from arginine. In people with arginase deficiency, arginase is damaged or missing, and arginine is not broken down properly. As a result, urea cannot be produced normally, and excess nitrogen accumulates in the blood in the form of ammonia. The accumulation of ammonia and arginine are believed to cause the neurological problems and other signs and symptoms of arginase deficiency.
+Learn more about the gene associated with Arginase deficiency
+ARG1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ARG1 deficiency
+Arginase deficiency disease
+Argininemia
+Hyperargininemia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Arginase deficiency
+Genetic and Rare Diseases Information Center
+Argininemia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ARGININEMIA
+Scientific Articles on PubMed
+PubMed
+References
+Crombez EA, Cederbaum SD. Hyperargininemia due to liver arginase deficiency.
+Mol Genet Metab. 2005 Mar;84(3):243-51. doi: 10.1016/j.ymgme.2004.11.004. Epub
+2004 Dec 19.
+Citation on PubMed
+Endo F, Matsuura T, Yanagita K, Matsuda I. Clinical manifestations of inborn
+errors of the urea cycle and related metabolic disorders during childhood. J
+Nutr. 2004 Jun;134(6 Suppl):1605S-1609S; discussion 1630S-1632S, 1667S-1672S.
+doi: 10.1093/jn/134.6.1605S.
+Citation on PubMed
+Scaglia F, Brunetti-Pierri N, Kleppe S, Marini J, Carter S, Garlick P, Jahoor
+F, O'Brien W, Lee B. Clinical consequences of urea cycle enzyme deficiencies and
+potential links to arginine and nitric oxide metabolism. J Nutr. 2004 Oct;134(10
+Suppl):2775S-2782S; discussion 2796S-2797S. doi: 10.1093/jn/134.10.2775S.
+Citation on PubMed
+Simpson KL, MacLeod EL, Kakajiwala A, Gropman AL, Ah Mew N. Urea Cycle
+Disorders Overview. 2003 Apr 29 [updated 2025 Jul 3]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK1217/
+Citation on PubMed
+Sun A, Crombez EA, Wong D. Arginase Deficiency. 2004 Oct 21 [updated 2020 May
+28]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1159/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hereditary urea cycle abnormality
+Related Medical Tests
+Ammonia Levels
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

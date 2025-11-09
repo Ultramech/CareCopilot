@@ -1,0 +1,183 @@
+Time in Range (TIR) for Diabetes: What It Is & Target
+Home
+/
+Health Library
+/
+Articles
+/
+Time in Range (TIR) for Diabetes
+Advertisement
+Advertisement
+Time in Range (TIR) for Diabetes
+Time in range (TIR) is a measurement people with diabetes and healthcare providers use to assess their diabetes management. It’s most efficient to calculate your TIR with the use of a CGM. There are general guidelines for TIR goals, but you may have different goals based on your unique situation.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Diabetes Care
+Make an Appointment
+Time in range (TIR) is the amount of time a person with diabetes spends in a target glucose (sugar) range.
+What is time in range (TIR)?
+Time in range (TIR) is the amount of time a person with
+diabetes
+spends in a target
+glucose (sugar)
+range. For most — but not all — adults with
+Type 1
+or
+Type 2 diabetes
+, that’s between 70 and 180 mg/dL. TIR is measured as a percentage. Healthcare providers typically recommend aiming to have a TIR above 70% (at least 17 hours of a 24-hour day).
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+It’s easiest — and most accurate — to calculate your time in range using a
+continuous glucose monitor (CGM)
+. A CGM is a wearable technology that tracks your glucose levels over time. It measures the glucose level in the interstitial fluid just under your skin 24 hours a day while you’re wearing the device. CGMs allow you to download glucose data with software or an app to learn your time in range for a given period.
+You can also use manual finger prick checks to calculate your TIR. But you’d have to
+check your blood sugar
+several times a day to get a more accurate picture of your TIR. A CGM provides more glucose data than manual finger pricks.
+With CGMs, more and more people with diabetes — and their healthcare providers — are using TIR to better assess how their diabetes management is going. Looking at TIR data can help you and your provider set goals and make changes to your management plan.
+What does a time in range report look like?
+Software programs for CGMs most often present time in range information as a color-coded vertical bar. The bar will show the percentage of time you’re in various ranges. The in-range section is typically green, and other ranges may be different shades of yellow, orange or red. From bottom to top, here are the ranges most standard CGM reports use:
+Advertisement
+Less than (<) 54 mg/dL — very low (below-range).
+54 to 69 mg/dL — low (below-range).
+70 to 180 mg/dL — in-range.
+181 to 250 mg/dL — high (above-range).
+Greater than (>) 250 mg/dL — very high (above-range).
+CGM reports may show these data in other ways. Talk to your healthcare provider if you have questions about interpreting the information.
+What should my time in range be?
+If you have diabetes, your target range for glucose levels is unique to you. Together, you and your healthcare provider will decide the target range that’s ideal for you and what percentage of time you should aim to be in-range. This will likely change throughout your life.
+Glucose targets vary based on:
+How long you’ve had diabetes.
+Your age and life expectancy.
+Certain conditions you may have that affect blood sugar, like kidney dysfunction or
+gastroparesis
+.
+If you have
+cardiovascular disease
+.
+If you have
+hypoglycemia
+unawareness (not experiencing symptoms of low blood sugar).
+If you’re
+pregnant
+or trying to get pregnant.
+In general, TIR goals for most adults with Type 1 or Type 2 diabetes are:
+At least 70% of time from 70 to 180 mg/dL (in-range).
+Less than 1% of time below 54 mg/dL.
+Less than 4% of time from 54 to 69 mg/dL.
+Less than 25% of time from 181 to 250 mg/dL.
+Less than 5% of time above 250 mg/dL.
+In general, TIR goals for people who are at a higher-than-average risk for hypoglycemia (low blood sugar)
+a
+re:
+At least 50% of time from 70 to 180 mg/dl (in-range).
+Less than 1% of time below 70 mg/dl.
+Less than 10% of time above 250 mg/dl.
+In general, TIR goals for adults with Type 1 diabetes in pregnancy are:
+At least 70% of time from 63 to 140 mg/dl (in-range).
+Less than 4% of time below 63 mg/dl.
+Less than 25% of time above 140 mg/dl.
+Guidelines for
+gestational diabetes
+and Type 2 diabetes during pregnancy may be different. Again, it’s important to discuss the most beneficial — and realistic — glucose goals for you with your healthcare provider. These are just general guidelines.
+What is the relationship between A1C and TIR?
+Time in range (TIR) measures your range of glucose levels over a period of hours to days. It depends on how long and frequently you wear your CGM and what period of time you want to check. In comparison,
+A1C
+(a laboratory
+blood test
+) measures your average glucose over the past eight to 12 weeks. An A1C test can’t give you information on blood sugar fluctuations. In general, researchers have found that as your TIR increases, your A1C typically decreases. But it isn’t an exact science.
+You can think of A1C as reading a summary of a chapter of a book. In comparison, using a CGM and reviewing TIR is like reading the entire chapter — you have a more nuanced understanding of it.
+Advertisement
+Since the 1960s, healthcare providers and people with diabetes have relied on A1C as the main way to gauge how well their overall management is going. More recently, with the invention of CGM devices, providers and people with diabetes have found time in range to be a more helpful and accurate representation of diabetes management.
+For people with Type 1 diabetes in particular, blood sugar levels can fluctuate significantly throughout the days, weeks and months. Because of this, A1C isn’t always an accurate measurement of management since it’s based on an average.
+For example, a person who has frequent blood sugar fluctuations between significantly low and high episodes may have an A1C of 7%. A person who has blood sugar levels that stay more consistently around 154 mg/dL may also have an A1C of 7%. The TIR between these two people would be different.
+In addition, A1C can be inaccurate in people with:
+Anemia
+.
+Hemoglobin
+variants.
+Iron deficiency
+.
+Pregnancy
+.
+Liver disease
+.
+The accuracy can vary among different racial and ethnic groups, as well.
+At this point in time, TIR likely won’t replace the need or use for A1C tests. Countless studies over the decades have shown that A1C benchmarks can help predict your likelihood of developing or avoiding diabetes complications. Instead, providers use TIR and A1C tests together to see a more informed picture of glucose management.
+Advertisement
+Why is time in range important?
+Time in range gives you a more accurate look at the glucose fluctuations that come with diabetes. Countless factors can affect blood sugar levels — from food and physical activity to medications and your
+stress
+level. Reviewing your TIR data (and using a CGM) offers better insight into how certain factors directly affect your glucose levels.
+For example, you may notice that your TIR was lower when you were sick with the
+flu
+for a week. Given that insight, you may want to ask your healthcare provider how to be more prepared to manage diabetes the next time you get sick.
+Time in range and diabetes complications
+Research is ongoing, but studies so far are finding links between lower time in range and an increased risk of diabetes-related complications.
+Studies show that large glucose fluctuations (glycemic variability) may increase
+oxidative stress
+and
+inflammation
+. These issues may cause cell damage. Several studies so far have linked large glucose fluctuations with:
+Increased risk of low blood sugar (hypoglycemia) episodes.
+Increased risk of cardiovascular disease.
+Decline in cognitive (mental) function.
+Decreased quality of life.
+In addition,
+one study
+revealed that people with Type 2 diabetes with a lower TIR and higher glycemic variability had more advanced
+diabetes-related retinopathy
+.
+Another study
+found that lower TIR was significantly associated with more severe cardiovascular autonomic
+neuropathy
+.
+Advertisement
+So far, these studies reflect the importance of optimizing your time in range. As researchers gather more information, diabetes experts may adjust time in range goals in the future.
+How can I improve my time in range?
+The main strategy behind improving your time in range involves pinpointing what’s affecting your glucose levels. This can take time. In fact, it may feel like a never-ending science experiment. Because of this, it’s important to focus on one factor at a time — and to be kind to yourself. If you notice your glucose level is elevated — or low — consistently at a certain time of day, focus in on your habits and activities during that time frame.
+For example, you may notice that your glucose level consistently spikes (goes out of range) after breakfast. Examples of things to consider that may be causing these spikes include:
+Timing of diabetes medication (like
+insulin
+).
+Dose of diabetes medication.
+The type of foods you’re eating and their balance of
+macronutrients
+(
+carbohydrates
+, fat and
+protein
+).
+Taking other medications in the morning.
+Consuming
+caffeine
+in the morning.
+This is just one example. Diabetes is a very complex condition, and there are several strategies that may help you improve your time in range. As always, it’s best to work with a healthcare provider who specializes in diabetes, like an
+endocrinologist
+or a
+certified diabetes care and education specialist (CDCES)
+, when you want to make changes to your management plan.
+A note from Cleveland Clinic
+Time in range is the newest metric for gauging glucose management for people with diabetes. It can be overwhelming trying to take in and interpret TIR information and your glucose data. Know that your healthcare provider will be by your side to help you understand and use TIR to your advantage. Together, you can monitor how your TIR changes over time and adjust your management strategy along the way.
+Care at Cleveland Clinic
+Whether you’ve been living with diabetes for years or you’re newly diagnosed, you want experts you can trust. Our team at Cleveland Clinic is here to help.
+Diabetes Care
+Make an Appointment
+Medically Reviewed
+Last reviewed on 07/09/2024.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointments
+216.444.6568
+Appointments & Locations
+Request an Appointment
+Virtual Visits for Diabetes

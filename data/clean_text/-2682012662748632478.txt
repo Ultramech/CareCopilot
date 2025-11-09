@@ -1,0 +1,151 @@
+Congenital bilateral absence of the vas deferens: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital bilateral absence of the vas deferens
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-bilateral-absence-of-the-vas-deferens/
+Congenital bilateral absence of the vas deferens
+Description
+Congenital bilateral absence of the vas deferens occurs in males when the tubes that carry sperm out of the testes (the vas deferens) fail to develop properly. Although the testes usually develop and function normally, sperm cannot be transported through the vas deferens to become part of semen. As a result, men with this condition are unable to father children (infertile) unless they use assisted reproductive technologies. This condition has not been reported to affect sex drive or sexual performance.
+This condition can occur alone or as a sign of
+cystic fibrosis
+, an inherited disease of the mucus glands. Cystic fibrosis causes progressive damage to the respiratory system and chronic digestive system problems. Many men with congenital bilateral absence of the vas deferens do not have the other characteristic features of cystic fibrosis; however, some men with this condition may experience mild respiratory or digestive problems.
+Frequency
+This condition is responsible for 1 percent to 2 percent of all infertility in men.
+Causes
+Mutations in the
+CFTR
+gene cause congenital bilateral absence of the vas deferens.
+More than half of all men with this condition have mutations in the
+CFTR
+gene. Mutations in this gene also cause cystic fibrosis. When congenital bilateral absence of the vas deferens occurs with
+CFTR
+mutations and without other features of cystic fibrosis, the condition is considered a form of atypical cystic fibrosis.
+The protein made from the
+CFTR
+gene forms a channel that transports negatively charged particles called chloride ions into and out of cells. The flow of chloride ions helps control the movement of water in tissues, which is necessary for the production of thin, freely flowing mucus. Mucus is a slippery substance that lubricates and protects the linings of the airways, digestive system, reproductive system, and other organs and tissues.
+Mutations in the
+CFTR
+gene disrupt the function of the chloride channels, preventing them from regulating the flow of chloride ions and water across cell membranes. As a result, cells in the male genital tract produce mucus that is abnormally thick and sticky. This mucus clogs the vas deferens as they are forming, causing them to deteriorate before birth.
+In instances of congenital bilateral absence of the vas deferens without a mutation in the
+CFTR
+gene, the cause of this condition is often unknown. Some cases are associated with other structural problems of the urinary tract.
+Learn more about the gene associated with Congenital bilateral absence of the vas deferens
+CFTR
+Inheritance
+When this condition is caused by mutations in the
+CFTR
+gene, it is inherited in an
+autosomal recessive pattern
+. This pattern of inheritance means that both copies of the gene in each cell have a mutation. Men with this condition who choose to father children through assisted reproduction have an increased risk of having a child with cystic fibrosis. If congenital absence of the vas deferens is not caused by mutations in
+CFTR
+, the risk of having children with cystic fibrosis is not increased.
+Other Names for This Condition
+Absence of vas deferens
+Absent vasa
+CAVD
+CBAVD
+Congenital absence of vas deferens
+Congenital aplasia of vas deferens
+Congenital bilateral absence of vas deferens
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital bilateral aplasia of vas deferens from CFTR mutation
+Genetic and Rare Diseases Information Center
+Congenital bilateral absence of vas deferens
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+VAS DEFERENS, CONGENITAL BILATERAL APLASIA OF; CBAVD
+Scientific Articles on PubMed
+PubMed
+References
+Cuppens H, Cassiman JJ. CFTR mutations and polymorphisms in male infertility.
+Int J Androl. 2004 Oct;27(5):251-6. doi: 10.1111/j.1365-2605.2004.00485.x.
+Citation on PubMed
+Daudin M, Bieth E, Bujan L, Massat G, Pontonnier F, Mieusset R. Congenital
+bilateral absence of the vas deferens: clinical characteristics, biological
+parameters, cystic fibrosis transmembrane conductance regulator gene mutations,
+and implications for genetic counseling. Fertil Steril. 2000 Dec;74(6):1164-74.
+doi: 10.1016/s0015-0282(00)01625-3.
+Citation on PubMed
+de Souza DAS, Faucz FR, Pereira-Ferrari L, Sotomaior VS, Raskin S. Congenital
+bilateral absence of the vas deferens as an atypical form of cystic fibrosis:
+reproductive implications and genetic counseling. Andrology. 2018
+Jan;6(1):127-135. doi: 10.1111/andr.12450. Epub 2017 Dec 7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gilljam M, Moltyaner Y, Downey GP, Devlin R, Durie P, Cantin AM, Zielenski J,
+Tullis DE. Airway inflammation and infection in congenital bilateral absence of
+the vas deferens. Am J Respir Crit Care Med. 2004 Jan 15;169(2):174-9. doi:
+10.1164/rccm.200304-558OC. Epub 2003 Oct 9.
+Citation on PubMed
+Jarzabek K, Zbucka M, Pepinski W, Szamatowicz J, Domitrz J, Janica J,
+Wolczynski S, Szamatowicz M. Cystic fibrosis as a cause of infertility. Reprod
+Biol. 2004 Jul;4(2):119-29.
+Citation on PubMed
+Nick JA, Rodman DM. Manifestations of cystic fibrosis diagnosed in adulthood.
+Curr Opin Pulm Med. 2005 Nov;11(6):513-8. doi:
+10.1097/01.mcp.0000183052.56728.76.
+Citation on PubMed
+Noone PG, Knowles MR. 'CFTR-opathies': disease phenotypes associated with
+cystic fibrosis transmembrane regulator gene mutations. Respir Res.
+2001;2(6):328-32. doi: 10.1186/rr82. Epub 2001 Aug 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Samli H, Samli MM, Yilmaz E, Imirzalioglu N. Clinical, andrological and
+genetic characteristics of patients with congenital bilateral absence of vas
+deferens (CBAVD). Arch Androl. 2006 Nov-Dec;52(6):471-7. doi:
+10.1080/01485010600691993.
+Citation on PubMed
+Savant A, Lyman B, Bojanowski C, Upadia J. Cystic Fibrosis. 2001 Mar 26
+[updated 2024 Aug 8]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1250/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Assisted Reproductive Technology
+Genetic Disorders
+Male Infertility
+MEDICAL ENCYCLOPEDIA
+Genetics
+Infertility
+Pathway of sperm (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

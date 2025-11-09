@@ -1,0 +1,125 @@
+Intranuclear rod myopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Intranuclear rod myopathy
+URL of this page: https://medlineplus.gov/genetics/condition/intranuclear-rod-myopathy/
+Intranuclear rod myopathy
+Description
+Intranuclear rod myopathy is a disorder that primarily affects skeletal muscles, which are muscles that the body uses for movement. People with intranuclear rod myopathy have severe muscle weakness (myopathy) and poor muscle tone (hypotonia) throughout the body. Signs and symptoms of this condition are apparent in infancy and include feeding and swallowing difficulties, a weak cry, and difficulty with controlling head movements. Affected babies are sometimes described as "floppy" and may be unable to move on their own.
+The severe muscle weakness that occurs in intranuclear rod myopathy also affects the muscles used for breathing. Individuals with this disorder may take shallow breaths (hypoventilate), especially during sleep, resulting in a shortage of oxygen and a buildup of carbon dioxide in the blood. Frequent respiratory infections and life-threatening breathing difficulties can occur. Because of the respiratory problems, most affected individuals do not survive past infancy. Those who do survive have delayed development of motor skills such as sitting, crawling, standing, and walking.
+The name intranuclear rod myopathy comes from characteristic abnormal rod-shaped structures that can be seen in the
+nucleus of muscle cells
+when muscle tissue is viewed under a microscope.
+Frequency
+Intranuclear rod myopathy is a rare disorder that has been identified in only a small number of individuals. Its exact prevalence is unknown.
+Causes
+Intranuclear rod myopathy is caused by a mutation in the
+ACTA1
+gene. This gene provides instructions for making a protein called skeletal alpha (α)-actin, which is part of the
+actin
+protein family. Actin proteins are important for cell movement and the tensing of muscle fibers (muscle contraction). Thin filaments made up of actin molecules and thick filaments made up of another protein called myosin are the primary components of
+muscle fibers
+and are important for muscle contraction. Attachment (binding) and release of the overlapping thick and thin filaments allows them to move relative to each other so that the muscles can contract.
+ACTA1
+gene mutations that cause intranuclear rod myopathy result in the accumulation of rods of skeletal α-actin in the
+nucleus
+of muscle cells. Normally, most actin is found in the fluid surrounding the nucleus (the
+cytoplasm
+), with small amounts in the nucleus itself. Researchers suggest that the
+ACTA1
+gene mutations that cause intranuclear rod myopathy may interfere with the normal transport of actin between the nucleus and the cytoplasm, resulting in the accumulation of actin in the nucleus and the formation of intranuclear rods. Abnormal accumulation of actin in the nucleus of muscle cells and a corresponding reduction of available actin in muscle fibers may impair muscle contraction and lead to the muscle weakness seen in intranuclear rod myopathy.
+In some people with intranuclear rod myopathy, no
+ACTA1
+gene mutations have been identified. The cause of the disorder in these individuals is unknown.
+Learn more about the gene associated with Intranuclear rod myopathy
+ACTA1
+Inheritance
+Intranuclear rod myopathy is an
+autosomal dominant
+condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases are not inherited; they result from new mutations in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Intranuclear nemaline rod myopathy
+Nemaline myopathy with exclusively intranuclear rods
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Actin accumulation myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CONGENITAL MYOPATHY 2A, TYPICAL, AUTOSOMAL DOMINANT; CMYO2A
+Scientific Articles on PubMed
+PubMed
+References
+Feng JJ, Marston S. Genotype-phenotype correlations in ACTA1 mutations that
+cause congenital myopathies. Neuromuscul Disord. 2009 Jan;19(1):6-16. doi:
+10.1016/j.nmd.2008.09.005. Epub 2008 Oct 30.
+Citation on PubMed
+Kaimaktchiev V, Goebel H, Laing N, Narus M, Weeks D, Nixon R. Intranuclear
+nemaline rod myopathy. Muscle Nerve. 2006 Sep;34(3):369-72. doi:
+10.1002/mus.20521.
+Citation on PubMed
+Koy A, Ilkovski B, Laing N, North K, Weis J, Neuen-Jacob E, Mayatepek E, Voit
+T. Nemaline myopathy with exclusively intranuclear rods and a novel mutation in
+ACTA1 (Q139H). Neuropediatrics. 2007 Dec;38(6):282-6. doi:
+10.1055/s-2008-1065356.
+Citation on PubMed
+Laing NG, Dye DE, Wallgren-Pettersson C, Richard G, Monnier N, Lillis S,
+Winder TL, Lochmuller H, Graziano C, Mitrani-Rosenbaum S, Twomey D, Sparrow JC,
+Beggs AH, Nowak KJ. Mutations and polymorphisms of the skeletal muscle
+alpha-actin gene (ACTA1). Hum Mutat. 2009 Sep;30(9):1267-77. doi:
+10.1002/humu.21059.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ochala J. Thin filament proteins mutations associated with skeletal
+myopathies: defective regulation of muscle contraction. J Mol Med (Berl). 2008
+Nov;86(11):1197-204. doi: 10.1007/s00109-008-0380-9. Epub 2008 Jun 24.
+Citation on PubMed
+Sparrow JC, Nowak KJ, Durling HJ, Beggs AH, Wallgren-Pettersson C, Romero N,
+Nonaka I, Laing NG. Muscle disease caused by mutations in the skeletal muscle
+alpha-actin gene (ACTA1). Neuromuscul Disord. 2003 Sep;13(7-8):519-31. doi:
+10.1016/s0960-8966(03)00101-9.
+Citation on PubMed
+Weeks DA, Nixon RR, Kaimaktchiev V, Mierau GW. Intranuclear rod myopathy, a
+rare and morphologically striking variant of nemaline rod myopathy. Ultrastruct
+Pathol. 2003 May-Jun;27(3):151-4. doi: 10.1080/01913120309933.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

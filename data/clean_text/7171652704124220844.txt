@@ -1,0 +1,148 @@
+Tourette syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Tourette syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/tourette-syndrome/
+Tourette syndrome
+Description
+Tourette syndrome is a complex disorder characterized by repetitive, sudden, and involuntary movements or noises called tics. Tics usually appear in childhood, and their severity varies over time. In most cases, tics become milder and less frequent in late adolescence and adulthood.
+Tourette syndrome involves both motor tics, which are uncontrolled body movements, and
+vocal or phonic tics
+, which are outbursts of sound. Some motor tics are simple and involve only one muscle group. Simple motor tics, such as
+rapid eye blinking
+, shoulder shrugging, or nose twitching, are usually the first signs of Tourette syndrome. Motor tics also can be complex (involving multiple muscle groups), such as jumping, kicking, hopping, or spinning.
+Vocal tics, which generally appear later than motor tics, also can be simple or complex. Simple vocal tics include grunting, sniffing, and throat-clearing. More complex vocalizations include repeating the words of others (echolalia) or repeating one's own words (palilalia). The involuntary use of inappropriate or obscene language (coprolalia) is possible, but uncommon, among people with Tourette syndrome.
+In addition to frequent tics, people with Tourette syndrome are at risk for associated problems including
+attention-deficit/hyperactivity disorder
+(ADHD),
+obsessive-compulsive disorder
+(OCD), anxiety,
+depression
+, and problems with sleep.
+Frequency
+Although the exact incidence of Tourette syndrome is uncertain, it is estimated to affect 1 to 10 in 1,000 children. This disorder occurs in populations and ethnic groups worldwide, and it is more common in males than in females.
+Causes
+A variety of genetic and environmental factors likely play a role in causing Tourette syndrome. Most of these factors are unknown, and researchers are studying risk factors before and after birth that may contribute to this complex disorder. Scientists believe that tics may result from changes in brain chemicals (
+neurotransmitters
+) that are responsible for producing and controlling voluntary movements.
+Variants (also called mutations) involving the
+SLITRK1
+gene have been identified in a small number of people with Tourette syndrome. This gene provides instructions for making a protein that is active in the brain. The SLITRK1 protein probably plays a role in the development of nerve cells, including the growth of specialized extensions (
+axons and dendrites
+) that allow each nerve cell to communicate with nearby cells. It is unclear how variants in the
+SLITRK1
+gene can lead to this disorder.
+Most people with Tourette syndrome do not have a variant in the
+SLITRK1
+gene. Because variants have been reported in so few people with this condition, the association of the
+SLITRK1
+gene with this disorder has not been confirmed. Researchers suspect that changes in other genes, which have not been identified, are also associated with Tourette syndrome.
+Learn more about the gene associated with Tourette syndrome
+SLITRK1
+Inheritance
+The inheritance pattern of Tourette syndrome is unclear. Although the features of this condition can cluster in families, many genetic and environmental factors are likely to be involved. Among family members of an affected person, it is difficult to predict who else may be at risk of developing the condition.
+Tourette syndrome was previously thought to have an
+autosomal dominant pattern of inheritance
+, which suggests that one altered copy of a gene in each cell would be sufficient to cause the condition. Several decades of research have shown that this is not the case. Almost all cases of Tourette syndrome probably result from a variety of genetic and environmental factors, not changes in a single gene.
+Other Names for This Condition
+Chronic motor and vocal tic disorder
+Gilles de la Tourette syndrome
+Gilles de la Tourette's syndrome
+GTS
+TD
+Tourette disorder
+Tourette's disease
+TS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Tourette Syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GILLES DE LA TOURETTE SYNDROME; GTS
+Scientific Articles on PubMed
+PubMed
+References
+Abelson JF, Kwan KY, O'Roak BJ, Baek DY, Stillman AA, Morgan TM, Mathews CA,
+Pauls DL, Rasin MR, Gunel M, Davis NR, Ercan-Sencicek AG, Guez DH, Spertus JA,
+Leckman JF, Dure LS 4th, Kurlan R, Singer HS, Gilbert DL, Farhi A, Louvi A,
+Lifton RP, Sestan N, State MW. Sequence variants in SLITRK1 are associated with
+Tourette's syndrome. Science. 2005 Oct 14;310(5746):317-20. doi:
+10.1126/science.1116502.
+Citation on PubMed
+Albin RL, Mink JW. Recent advances in Tourette syndrome research. Trends
+Neurosci. 2006 Mar;29(3):175-82. doi: 10.1016/j.tins.2006.01.001. Epub 2006 Jan
+23.
+Citation on PubMed
+Berardelli A, Curra A, Fabbrini G, Gilio F, Manfredi M. Pathophysiology of
+tics and Tourette syndrome. J Neurol. 2003 Jul;250(7):781-7. doi:
+10.1007/s00415-003-1102-4.
+Citation on PubMed
+Hoekstra PJ, Anderson GM, Limburg PC, Korf J, Kallenberg CG, Minderaa RB.
+Neurobiology and neuroimmunology of Tourette's syndrome: an update. Cell Mol Life
+Sci. 2004 Apr;61(7-8):886-98. doi: 10.1007/s00018-003-3320-4.
+Citation on PubMed
+Jankovic J. Tourette's syndrome. N Engl J Med. 2001 Oct 18;345(16):1184-92.
+doi: 10.1056/NEJMra010032. No abstract available.
+Citation on PubMed
+Keen-Kim D, Freimer NB. Genetics and epidemiology of Tourette syndrome. J
+Child Neurol. 2006 Aug;21(8):665-71. doi: 10.1177/08830738060210081101.
+Citation on PubMed
+Leckman JF, Bloch MH, Scahill L, King RA. Tourette syndrome: the self under
+siege. J Child Neurol. 2006 Aug;21(8):642-9. doi: 10.1177/08830738060210081001.
+Citation on PubMed
+Leckman JF. Tourette's syndrome. Lancet. 2002 Nov 16;360(9345):1577-86. doi:
+10.1016/S0140-6736(02)11526-1.
+Citation on PubMed
+Robertson MM. Tourette syndrome, associated conditions and the complexities of
+treatment. Brain. 2000 Mar;123 Pt 3:425-62. doi: 10.1093/brain/123.3.425.
+Citation on PubMed
+Singer HS. Tourette's syndrome: from behaviour to biology. Lancet Neurol. 2005
+Mar;4(3):149-59. doi: 10.1016/S1474-4422(05)01012-4.
+Citation on PubMed
+Swain JE, Scahill L, Lombroso PJ, King RA, Leckman JF. Tourette syndrome and
+tic disorders: a decade of progress. J Am Acad Child Adolesc Psychiatry. 2007
+Aug;46(8):947-968. doi: 10.1097/chi.0b013e318068fbcc.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Tourette Syndrome
+MEDICAL ENCYCLOPEDIA
+Genetics
+Tourette syndrome
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

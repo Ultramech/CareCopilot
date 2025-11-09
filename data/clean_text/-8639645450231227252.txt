@@ -1,0 +1,150 @@
+Short-chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Short-chain acyl-CoA dehydrogenase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/short-chain-acyl-coa-dehydrogenase-deficiency/
+Short-chain acyl-CoA dehydrogenase deficiency
+Description
+Short-chain acyl-CoA dehydrogenase (SCAD) deficiency is a condition that prevents the body from converting certain fats into energy, especially during periods without food (fasting).
+Signs and symptoms of SCAD deficiency may appear during infancy or early childhood and can include vomiting, low blood glucose (hypoglycemia), a lack of energy (lethargy), poor feeding, and failure to gain weight and grow at the expected rate (failure to thrive). Other features of this disorder may include poor muscle tone (hypotonia), seizures, developmental delay, and a small head size (
+microcephaly
+).
+The symptoms of SCAD deficiency may be triggered by fasting or illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe condition that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.
+In some people with SCAD deficiency, signs and symptoms do not appear until adulthood. These individuals are more likely to have problems related to muscle weakness and wasting.
+The severity of this condition varies widely, even among members of the same family. Some individuals are diagnosed with SCAD deficiency based on laboratory testing but never develop any symptoms of the condition.
+Frequency
+This disorder is thought to affect approximately 1 in 35,000 to 50,000 newborns.
+Causes
+Mutations in the
+ACADS
+gene cause SCAD deficiency. This gene provides instructions for making an enzyme called short-chain acyl-CoA dehydrogenase, which is required to break down (metabolize) a group of fats called short-chain fatty acids. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.
+Mutations in the
+ACADS
+gene lead to a shortage (deficiency) of the SCAD enzyme within cells. Without sufficient amounts of this enzyme, short-chain fatty acids are not metabolized properly. As a result, these fats are not converted into energy, which can lead to the signs and symptoms of this disorder, such as lethargy, hypoglycemia, and muscle weakness. It remains unclear why some people with SCAD deficiency never develop any symptoms.
+Learn more about the gene associated with Short-chain acyl-CoA dehydrogenase deficiency
+ACADS
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ACADS deficiency
+Deficiency of butyryl-CoA dehydrogenase
+Lipid-storage myopathy secondary to short-chain acyl-coa dehydrogenase deficiency
+SCAD deficiency
+SCADH deficiency
+Short-chain acyl-coenzyme A dehydrogenase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deficiency of butyryl-CoA dehydrogenase
+Genetic and Rare Diseases Information Center
+Short chain acyl-CoA dehydrogenase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+ACYL-CoA DEHYDROGENASE, SHORT-CHAIN, DEFICIENCY OF; ACADSD
+Scientific Articles on PubMed
+PubMed
+References
+Gallant NM, Leydiker K, Tang H, Feuchtbaum L, Lorey F, Puckett R, Deignan JL,
+Neidich J, Dorrani N, Chang E, Barshop BA, Cederbaum SD, Abdenur JE, Wang RY.
+Biochemical, molecular, and clinical characteristics of children with short chain
+acyl-CoA dehydrogenase deficiency detected by newborn screening in California.
+Mol Genet Metab. 2012 May;106(1):55-61. doi: 10.1016/j.ymgme.2012.02.007. Epub
+2012 Feb 9.
+Citation on PubMed
+Gregersen N, Andresen BS, Pedersen CB, Olsen RK, Corydon TJ, Bross P.
+Mitochondrial fatty acid oxidation defects--remaining challenges. J Inherit Metab
+Dis. 2008 Oct;31(5):643-57. doi: 10.1007/s10545-008-0990-y. Epub 2008 Oct 7.
+Citation on PubMed
+Jethva R, Bennett MJ, Vockley J. Short-chain acyl-coenzyme A dehydrogenase
+deficiency. Mol Genet Metab. 2008 Dec;95(4):195-200. doi:
+10.1016/j.ymgme.2008.09.007. Epub 2008 Nov 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Koeberl DD, Young SP, Gregersen NS, Vockley J, Smith WE, Benjamin DK Jr, An Y,
+Weavil SD, Chaing SH, Bali D, McDonald MT, Kishnani PS, Chen YT, Millington DS.
+Rare disorders of metabolism with elevated butyryl- and isobutyryl-carnitine
+detected by tandem mass spectrometry newborn screening. Pediatr Res. 2003
+Aug;54(2):219-23. doi: 10.1203/01.PDR.0000074972.36356.89. Epub 2003 May 7.
+Citation on PubMed
+Nagan N, Kruckeberg KE, Tauscher AL, Bailey KS, Rinaldo P, Matern D. The
+frequency of short-chain acyl-CoA dehydrogenase gene variants in the US
+population and correlation with the C(4)-acylcarnitine concentration in newborn
+blood spots. Mol Genet Metab. 2003 Apr;78(4):239-46. doi:
+10.1016/s1096-7192(03)00034-9.
+Citation on PubMed
+Pedersen CB, Kolvraa S, Kolvraa A, Stenbroen V, Kjeldsen M, Ensenauer R, Tein
+I, Matern D, Rinaldo P, Vianey-Saban C, Ribes A, Lehnert W, Christensen E,
+Corydon TJ, Andresen BS, Vang S, Bolund L, Vockley J, Bross P, Gregersen N. The
+ACADS gene variation spectrum in 114 patients with short-chain acyl-CoA
+dehydrogenase (SCAD) deficiency is dominated by missense variations leading to
+protein misfolding at the cellular level. Hum Genet. 2008 Aug;124(1):43-56. doi:
+10.1007/s00439-008-0521-9. Epub 2008 Jun 4.
+Citation on PubMed
+Pena L, Angle B, Burton B, Charrow J. Follow-up of patients with short-chain
+acyl-CoA dehydrogenase and isobutyryl-CoA dehydrogenase deficiencies identified
+through newborn screening: one center's experience. Genet Med. 2012
+Mar;14(3):342-7. doi: 10.1038/gim.2011.9. Epub 2012 Jan 5.
+Citation on PubMed
+van Maldegem BT, Kloosterman SF, Janssen WJ, Augustijn PB, van der Lee JH,
+Ijlst L, Waterham HR, Duran R, Wanders RJ, Wijburg FA. High prevalence of
+short-chain acyl-CoA dehydrogenase deficiency in the Netherlands, but no
+association with epilepsy of unknown origin in childhood. Neuropediatrics. 2011
+Feb;42(1):13-7. doi: 10.1055/s-0031-1275342. Epub 2011 Apr 15.
+Citation on PubMed
+van Maldegem BT, Wanders RJ, Wijburg FA. Clinical aspects of short-chain
+acyl-CoA dehydrogenase deficiency. J Inherit Metab Dis. 2010 Oct;33(5):507-11.
+doi: 10.1007/s10545-010-9080-z. Epub 2010 Apr 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Waisbren SE, Levy HL, Noble M, Matern D, Gregersen N, Pasley K, Marsden D.
+Short-chain acyl-CoA dehydrogenase (SCAD) deficiency: an examination of the
+medical and neurodevelopmental characteristics of 14 cases identified through
+newborn screening or clinical symptoms. Mol Genet Metab. 2008
+Sep-Oct;95(1-2):39-45. doi: 10.1016/j.ymgme.2008.06.002. Epub 2008 Aug 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Lipid Metabolism Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Newborn screening tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

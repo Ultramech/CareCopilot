@@ -1,0 +1,152 @@
+Kaufman oculocerebrofacial syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Kaufman oculocerebrofacial syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/kaufman-oculocerebrofacial-syndrome/
+Kaufman oculocerebrofacial syndrome
+Description
+Kaufman oculocerebrofacial syndrome is a disorder characterized by eye problems (oculo-), intellectual disability (-cerebro-), and a distinctive pattern of facial features (-facial).
+Most individuals with Kaufman oculocerebrofacial syndrome have an unusually small head size (
+microcephaly
+), and some have structural abnormalities of the
+brain
+. Affected individuals have weak muscle tone (hypotonia), and are delayed in developing motor skills such as walking. Intellectual disability is severe or profound. Most affected individuals never acquire the ability to speak.
+Eye abnormalities and their effect on vision vary among people with Kaufman oculocerebrofacial syndrome. Some people with this disorder have abnormally small or poorly developed eyes (
+microphthalmia
+); microcornea, in which the clear front covering of the eye (cornea) is small and abnormally curved; missing pieces of tissue in structures that form the eye (
+coloboma
+); or underdevelopment of the nerves that carry signals between the eyes and the brain (
+optic nerve
+hypoplasia). Eyes that do not look in the same direction (strabismus),
+nearsightedness
+(
+myopia
+) or
+farsightedness
+(
+hyperopia
+), or an inward turning of the lower eyelid (
+entropion
+) can also occur.
+Individuals with Kaufman oculocerebrofacial syndrome typically have a characteristic pattern of facial features. These include
+highly arched eyebrows
+, an increased distance between the inner corners of the eyes (
+telecanthus
+), a narrowing of the eye opening (
+blepharophimosis
+), skin folds covering the inner corner of the eyes (
+epicanthal folds
+), droopy eyelids (ptosis), and outside corners of the eyes that point upward (upslanting palpebral fissures). Ear abnormalities include low-set ears with small lobes and growths of skin (skin tags) in front of the ear (preauricular tags). The nose has a narrow bridge, a wide base, and nostrils that open to the front rather than downward (
+anteverted nares
+). Affected individuals may also have
+flat cheeks
+; a space between the nose and upper lip (philtrum) that is unusually
+long
+and
+smooth
+; a narrow mouth; and an unusually small jaw (micrognathia).
+Other signs and symptoms that can occur in people with this disorder include short stature; hearing loss; and abnormalities of the heart, respiratory tract, gastrointestinal tract, kidneys, genitals, or skeleton. Affected individuals can live into adulthood; however, their average life expectancy is unknown because of the small number of people who have been diagnosed with this disorder.
+Frequency
+The prevalence of Kaufman oculocerebrofacial syndrome is unknown. At least 14 affected individuals have been described in the medical literature.
+Causes
+Kaufman oculocerebrofacial syndrome is caused by mutations in the
+UBE3B
+gene. This gene provides instructions for making a protein that plays a role in the ubiquitin-proteasome system, which is the cell machinery that breaks down (degrades) unwanted proteins. The specific proteins that the UBE3B protein helps break down are unknown, but research suggests that UBE3B functions in the nervous system, digestive tract, respiratory system, and other organs and tissues, from before birth into adulthood
+The
+UBE3B
+gene mutations that cause Kaufman oculocerebrofacial syndrome are thought to result in an abnormal UBE3B protein that cannot function properly or that is unstable and is rapidly broken down. Loss of this protein's function likely prevents cells from eliminating certain unnecessary proteins, resulting in problems with development and function of the brain, eyes, and other parts of the body.
+Learn more about the gene associated with Kaufman oculocerebrofacial syndrome
+UBE3B
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Blepharophimosis-ptosis-intellectual disability syndrome
+BPIDS
+KOS
+Oculocerebrofacial syndrome, Kaufman type
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Oculocerebrofacial syndrome, Kaufman type
+Genetic and Rare Diseases Information Center
+Oculocerebrofacial syndrome, Kaufman type
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+KAUFMAN OCULOCEREBROFACIAL SYNDROME; KOS
+Scientific Articles on PubMed
+PubMed
+References
+Basel-Vanagaite L, Dallapiccola B, Ramirez-Solis R, Segref A, Thiele H,
+Edwards A, Arends MJ, Miro X, White JK, Desir J, Abramowicz M, Dentici ML, Lepri
+F, Hofmann K, Har-Zahav A, Ryder E, Karp NA, Estabel J, Gerdin AK, Podrini C,
+Ingham NJ, Altmuller J, Nurnberg G, Frommolt P, Abdelhak S, Pasmanik-Chor M,
+Konen O, Kelley RI, Shohat M, Nurnberg P, Flint J, Steel KP, Hoppe T, Kubisch C,
+Adams DJ, Borck G. Deficiency for the ubiquitin ligase UBE3B in a
+blepharophimosis-ptosis-intellectual-disability syndrome. Am J Hum Genet. 2012
+Dec 7;91(6):998-1010. doi: 10.1016/j.ajhg.2012.10.011. Epub 2012 Nov 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Basel-Vanagaite L, Yilmaz R, Tang S, Reuter MS, Rahner N, Grange DK, Mortenson
+M, Koty P, Feenstra H, Farwell Gonzalez KD, Sticht H, Boddaert N, Desir J,
+Anyane-Yeboa K, Zweier C, Reis A, Kubisch C, Jewett T, Zeng W, Borck G. Expanding
+the clinical and mutational spectrum of Kaufman oculocerebrofacial syndrome with
+biallelic UBE3B mutations. Hum Genet. 2014 Jul;133(7):939-49. doi:
+10.1007/s00439-014-1436-2. Epub 2014 Mar 11.
+Citation on PubMed
+Flex E, Ciolfi A, Caputo V, Fodale V, Leoni C, Melis D, Bedeschi MF, Mazzanti
+L, Pizzuti A, Tartaglia M, Zampino G. Loss of function of the E3
+ubiquitin-protein ligase UBE3B causes Kaufman oculocerebrofacial syndrome. J Med
+Genet. 2013 Aug;50(8):493-9. doi: 10.1136/jmedgenet-2012-101405. Epub 2013 May
+17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pedurupillay CR, Baroy T, Holmgren A, Blomhoff A, Vigeland MD, Sheng Y,
+Frengen E, Stromme P, Misceo D. Kaufman oculocerebrofacial syndrome in sisters
+with novel compound heterozygous mutation in UBE3B. Am J Med Genet A. 2015
+Mar;167A(3):657-63. doi: 10.1002/ajmg.a.36944.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Craniofacial Abnormalities
+Developmental Disabilities
+Genetic Disorders
+Optic Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

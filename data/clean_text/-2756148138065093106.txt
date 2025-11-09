@@ -1,0 +1,164 @@
+Metachromatic leukodystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Metachromatic leukodystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/metachromatic-leukodystrophy/
+Metachromatic leukodystrophy
+Description
+Metachromatic leukodystrophy is an inherited disorder characterized by the accumulation of fats called sulfatides in cells. This accumulation especially affects cells in the nervous system that produce myelin, the substance that insulates and protects nerves. Nerve cells covered by myelin make up a tissue called white matter. Sulfatide accumulation in myelin-producing cells causes progressive destruction of white matter (leukodystrophy) throughout the nervous system, including in the brain and spinal cord (the central nervous system) and the nerves connecting the brain and spinal cord to muscles and sensory cells that detect sensations such as touch, pain, heat, and sound (the peripheral nervous system).
+In people with metachromatic leukodystrophy, white matter damage causes progressive deterioration of intellectual functions and motor skills, such as the ability to walk. Affected individuals also develop loss of sensation in the extremities (peripheral neuropathy), incontinence, seizures, paralysis, an inability to speak, blindness, and hearing loss. Eventually they lose awareness of their surroundings and become unresponsive. While neurological problems are the primary feature of metachromatic leukodystrophy, effects of sulfatide accumulation on other organs and tissues have been reported, most often involving the
+gallbladder
+.
+The most common form of metachromatic leukodystrophy, affecting about 50 to 60 percent of all individuals with this disorder, is called the late infantile form. This form of the disorder usually appears in the second year of life. Affected children lose any speech they have developed, become weak, and develop problems with walking (gait disturbance). As the disorder worsens, muscle tone generally first decreases, and then increases to the point of rigidity. Individuals with the late infantile form of metachromatic leukodystrophy typically do not survive past childhood.
+In 20 to 30 percent of individuals with metachromatic leukodystrophy, onset occurs between the age of 4 and adolescence. In this juvenile form, the first signs of the disorder may be behavioral problems and increasing difficulty with schoolwork. Progression of the disorder is slower than in the late infantile form, and affected individuals may survive for about 20 years after diagnosis.
+The adult form of metachromatic leukodystrophy affects approximately 15 to 20 percent of individuals with the disorder. In this form, the first symptoms appear during the teenage years or later. Often behavioral problems such as
+alcohol use disorder
+, drug abuse, or difficulties at school or work are the first symptoms to appear. The affected individual may experience psychiatric symptoms such as delusions or hallucinations. People with the adult form of metachromatic leukodystrophy may survive for 20 to 30 years after diagnosis. During this time there may be some periods of relative stability and other periods of more rapid decline.
+Metachromatic leukodystrophy gets its name from the way cells with an accumulation of sulfatides appear when viewed under a microscope. The sulfatides form granules that are described as metachromatic, which means they pick up color differently than surrounding cellular material when stained for examination.
+Frequency
+Metachromatic leukodystrophy is reported to occur in 1 in 40,000 to 160,000 individuals worldwide. The condition is more common in certain genetically isolated populations: 1 in 75 in a small group of Jews who immigrated to Israel from southern Arabia (Habbanites), 1 in 2,500 in the western portion of the Navajo Nation, and 1 in 8,000 among Arab groups in Israel.
+Causes
+Most individuals with metachromatic leukodystrophy have mutations in the
+ARSA
+gene, which provides instructions for making the enzyme arylsulfatase A. This enzyme is located in cellular structures called
+lysosomes
+, which are the cell's recycling centers. Within lysosomes, arylsulfatase A helps break down sulfatides.
+A few individuals with metachromatic leukodystrophy have mutations in the
+PSAP
+gene. This gene provides instructions for making a protein that is broken up (cleaved) into smaller proteins that assist enzymes in breaking down various fats. One of these smaller proteins is called saposin B; this protein works with arylsulfatase A to break down sulfatides.
+Mutations in the
+ARSA
+or
+PSAP
+genes result in a decreased ability to break down sulfatides, resulting in the accumulation of these substances in cells. Excess sulfatides are toxic to the nervous system. The accumulation gradually destroys myelin-producing cells, leading to the impairment of nervous system function that occurs in metachromatic leukodystrophy.
+In some cases, individuals with very low arylsulfatase A activity show no symptoms of metachromatic leukodystrophy. This condition is called pseudoarylsulfatase deficiency.
+Learn more about the genes associated with Metachromatic leukodystrophy
+ARSA
+PSAP
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ARSA deficiency
+Arylsulfatase A deficiency disease
+Cerebral sclerosis, diffuse, metachromatic form
+Cerebroside sulphatase deficiency disease
+Greenfield disease
+Metachromatic leukoencephalopathy
+MLD
+Sulfatide lipidosis
+Sulfatidosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Metachromatic leukodystrophy
+Genetic Testing Registry: Sphingolipid activator protein 1 deficiency
+Genetic and Rare Diseases Information Center
+Metachromatic leukodystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+METACHROMATIC LEUKODYSTROPHY DUE TO SAPOSIN B DEFICIENCY; MLDSAPB
+METACHROMATIC LEUKODYSTROPHY; MLD
+Scientific Articles on PubMed
+PubMed
+References
+Al-Hassnan ZN, Al Dhalaan H, Patay Z, Faqeih E, Al-Owain M, Al-Duraihem A,
+Faiyaz-Ul-Haque M. Sphingolipid activator protein B deficiency: report of 9 Saudi
+patients and review of the literature. J Child Neurol. 2009 Dec;24(12):1513-9.
+doi: 10.1177/0883073809341269.
+Citation on PubMed
+Artigalas O, Lagranha VL, Saraiva-Pereira ML, Burin MG, Lourenco CM, van der
+Linden H Jr, Santos ML, Rosemberg S, Steiner CE, Kok F, de Souza CF, Jardim LB,
+Giugliani R, Schwartz IV. Clinical and biochemical study of 29 Brazilian patients
+with metachromatic leukodystrophy. J Inherit Metab Dis. 2010 Dec;33 Suppl
+3:S257-62. doi: 10.1007/s10545-010-9140-4. Epub 2010 Jul 2.
+Citation on PubMed
+Deconinck N, Messaaoui A, Ziereisen F, Kadhim H, Sznajer Y, Pelc K, Nassogne
+MC, Vanier MT, Dan B. Metachromatic leukodystrophy without arylsulfatase A
+deficiency: a new case of saposin-B deficiency. Eur J Paediatr Neurol. 2008
+Jan;12(1):46-50. doi: 10.1016/j.ejpn.2007.05.004. Epub 2007 Jul 5.
+Citation on PubMed
+Gieselmann V, Krageloh-Mann I. Metachromatic leukodystrophy--an update.
+Neuropediatrics. 2010 Feb;41(1):1-6. doi: 10.1055/s-0030-1253412. Epub 2010 Jun
+22.
+Citation on PubMed
+Gomez-Ospina N. Arylsulfatase A Deficiency. 2006 May 30 [updated 2024 Apr 25].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1130/
+Citation on PubMed
+Grossi S, Regis S, Rosano C, Corsolini F, Uziel G, Sessa M, Di Rocco M,
+Parenti G, Deodato F, Leuzzi V, Biancheri R, Filocamo M. Molecular analysis of
+ARSA and PSAP genes in twenty-one Italian patients with metachromatic
+leukodystrophy: identification and functional characterization of 11 novel ARSA
+alleles. Hum Mutat. 2008 Nov;29(11):E220-30. doi: 10.1002/humu.20851.
+Citation on PubMed
+Mahmood A, Berry J, Wenger DA, Escolar M, Sobeih M, Raymond G, Eichler FS.
+Metachromatic leukodystrophy: a case of triplets with the late infantile variant
+and a systematic review of the literature. J Child Neurol. 2010 May;25(5):572-80.
+doi: 10.1177/0883073809341669. Epub 2009 Dec 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Poeppel P, Habetha M, Marcao A, Bussow H, Berna L, Gieselmann V. Missense
+mutations as a cause of metachromatic leukodystrophy. Degradation of
+arylsulfatase A in the endoplasmic reticulum. FEBS J. 2005 Mar;272(5):1179-88.
+doi: 10.1111/j.1742-4658.2005.04553.x.
+Citation on PubMed
+Rauschka H, Colsch B, Baumann N, Wevers R, Schmidbauer M, Krammer M, Turpin
+JC, Lefevre M, Olivier C, Tardieu S, Krivit W, Moser H, Moser A, Gieselmann V,
+Zalc B, Cox T, Reuner U, Tylki-Szymanska A, Aboul-Enein F, LeGuern E, Bernheimer
+H, Berger J. Late-onset metachromatic leukodystrophy: genotype strongly
+influences phenotype. Neurology. 2006 Sep 12;67(5):859-63. doi:
+10.1212/01.wnl.0000234129.97727.4d.
+Citation on PubMed
+Rodriguez-Waitkus PM, Byrd R, Hicks J. Metachromatic leukodystrophy and its
+effects on the gallbladder: a case report. Ultrastruct Pathol. 2011
+Dec;35(6):271-6. doi: 10.3109/01913123.2011.620730.
+Citation on PubMed
+van Rappard DF, Boelens JJ, Wolf NI. Metachromatic leukodystrophy: Disease
+spectrum and approaches for treatment. Best Pract Res Clin Endocrinol Metab. 2015
+Mar;29(2):261-73. doi: 10.1016/j.beem.2014.10.001. Epub 2014 Oct 16.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Leukodystrophies
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

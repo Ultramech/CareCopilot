@@ -1,0 +1,292 @@
+Vaccines: Inoculation, Immunization, Safety & Schedule
+Home
+/
+Health Library
+/
+Medical Treatments
+/
+Vaccines
+Advertisement
+Advertisement
+Vaccines
+Vaccines help prevent illness from viruses and bacteria. They train your body to fight harmful invaders by causing an immune response. They work by using live or dead pathogens, part of a pathogen or mRNA. Vaccines go through an extensive series of safety testing before being released to the public. Versions of vaccines have been used for centuries.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Find a Primary Care Provider
+Schedule an Appointment
+Contents
+Arrow Down
+Overview
+Treatment Details
+Risks / Benefits
+When To Call the Doctor
+Additional Common Questions
+Overview
+What are vaccines?
+Vaccines train your body to fight off harmful invaders that make you sick. These harmful invaders are called pathogens (or germs) and include viruses and bacteria. Vaccines can prevent you from getting sick with a serious illness and help stop the spread of disease.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+What does vaccine mean?
+Vaccine comes from the word “vacca,” which means “cow.” Edward Jenner created the term from his use of cowpox to prevent smallpox. Today, a vaccine is anything that causes the immune system to recognize a harmful substance in the body and attack it.
+What do vaccines treat?
+Vaccines are mostly used to prevent you from getting sick from viruses and bacteria. Some immunotherapies used to treat cancer are also called vaccines.
+What’s the difference between vaccination and immunization?
+Vaccination and immunization are sometimes used to mean the same thing, but they’re slightly different. Vaccination is when you actually get a vaccine. Immunization is the process that happens in your body that protects you from getting the illness you were vaccinated for.
+How do vaccines work?
+Vaccines work by training your immune system to recognize and destroy harmful invaders (pathogens) quickly, before they can make you sick. In some cases, they teach your immune system to recognize something already in your body that it didn’t know was harmful (like cancer cells) and destroy it.
+Primary immune response
+Vaccines trigger your primary immune response. When bacteria, a virus or other pathogen gets into your body for the first time, your immune system has to recognize the threat and find the right tools to fight it off.
+Your body first looks in its toolbox for a B-cell. Each B-cell is unique and fits a pathogen like a lock and key. The B-cell with the right “key” then makes a bunch of
+antibodies
+(immune system chemicals) that also have the key to that specific pathogen. Antibodies can use that key to grab onto harmful invaders so your immune system can destroy them. This is your primary immune response. While your immune system is mounting that response, you can get very sick.
+Advertisement
+Once your body has seen a pathogen, your body adds special immune cells (memory cells) to its toolbox that keep a lookout for the pathogen. The memory cells keep a kind of “wanted poster” of a harmful invader and know which tools (antibodies) to call in to fight off a future infection. Memory cells are very specific to the virus or bacteria they identify and destroy, which is why vaccines only give you protection against one specific illness.
+Secondary immune response
+The secondary immune response, or the second time your body sees the same invader, is much quicker. Your memory cells patrol your blood and are able to quickly respond to a repeat offender with a flood of antibodies. The invader is destroyed before it can make more copies of itself and make you sick.
+Vaccines aim to trigger your primary immune response and generate memory cells without making you sick.
+What are the types of vaccines?
+There are several ways that vaccines train your immune system to fight off harmful invaders. These include using a weakened pathogen, an inactive pathogen or parts of the virus or bacteria.
+Live-attenuated vaccines
+Live-attenuated vaccines use a weakened form of the entire bacterium or virus (whole agent). As it’s the closest to an actual infection, it causes the strongest response of all types of vaccines. You should only need one or two doses to have full protection for a lifetime.
+Most people shouldn’t get sick from a weakened version of a bacterium or virus. But if you’re living with a condition that weakens your immune system, you should ask your healthcare provider before getting vaccinated with a live virus.
+Examples of live-attenuated vaccines include:
+MMR (measles, mumps and rubella) vaccine
+.
+Rotavirus vaccine
+.
+Chickenpox (varicella) vaccine
+.
+Inactivated vaccines
+Inactivated vaccines contain dead bacteria or viruses. You can’t get sick from an inactivated pathogen. They’re safe for people with weakened immune systems, but don’t provide protection that’s as strong as a live vaccine does. You may need to get additional vaccinations over time to remain protected.
+Examples of inactivated vaccines include:
+Polio shot
+(oral polio vaccines are live).
+Hepatitis A vaccine
+.
+Rabies vaccine
+.
+Flu shot
+(intranasal flu vaccines are live).
+Subunit vaccines
+Subunit vaccines use only part of a virus or bacterium. Similar to inactivated vaccines, subunit vaccines are safe for people with weakened immune systems but might require additional doses to keep you protected.
+Subunit vaccines can take longer for scientists to create because they need to find the part of the pathogen that makes the most effective vaccine.
+Advertisement
+You might hear some subunit vaccines called recombinant vaccines. This describes how scientists made more copies of the part of the pathogen used in the vaccine.
+Types of subunit vaccines include:
+Protein subunit vaccines
+The immune response to protein subunit vaccines is caused by specific proteins taken from a pathogen. Examples include:
+Shingles vaccine
+.
+Hepatitis B vaccine
+.
+HPV vaccine
+.
+Polysaccharide vaccines
+The immune response to polysaccharide vaccines is caused by chains of sugar molecules (polysaccharides) from a bacterium. Some
+pneumococcal vaccines
+are polysaccharide vaccines.
+Conjugate vaccines
+The immune response to conjugate vaccines is caused by a combination of a polysaccharide with a protein, like a toxoid (makes a stronger immune response). The
+Haemophilus influenzae type B (Hib) vaccine
+is a conjugate vaccine.
+Toxoid vaccines
+Toxoid vaccines don’t use any part of the pathogen to make the vaccine, but instead, use a weakened form of the toxin (toxoid) that some bacteria produce. Your body has an immune response to the toxin rather than the bacterium itself. You need booster shots to stay protected over time.
+Diphtheria
+and
+tetanus
+vaccines are examples of toxoid vaccines.
+Nucleic acid vaccines
+Nucleic acid vaccines use your own cells to make part of a virus or bacteria. They can use
+DNA
+or messenger RNA (mRNA) to do this, but current vaccines use mRNA. The vaccine contains the instructions that your body uses to make
+antigens
+(the unique part of the pathogen that your body recognizes as an invader). Your body has an immune response to the antigen and will remember how to attack it if it tries to infect you in the future. Just like the mRNA your body produces for its own instructions, the mRNA from the vaccines breaks down in your body in a few days. We have
+mRNA vaccines
+for COVID-19.
+Advertisement
+Now that scientists have the technology to create mRNA vaccines, they can be made for new pathogens fairly quickly — this is how the COVID-19 vaccines were made so fast. This is a huge advantage over vaccines that contain all or part of a pathogen.
+Viral vector vaccines
+Vector vaccines use a harmless virus (vector) to deliver the pathogen you want to be vaccinated against. Ebola vaccines and some COVID-19 vaccines are vector-based.
+Cancer vaccines
+Not all vaccines are used to prevent disease. Cancer vaccines, a form of
+immunotherapy
+, train your immune system to recognize and attack cancer that’s already in your body. As cancer cells often hide from your immune system, vaccines could be a way to get your immune system to notice them again and destroy them.
+What is a vaccine made of?
+Vaccines are made of the active ingredient (which causes the immune response that gives you protection), ingredients that help the vaccine work well and ingredients that prevent contamination and make the vaccine last longer. Sometimes, they’ll also have small amounts of products that were used to make the vaccine.
+Vaccines can include:
+Antigen/active ingredient.
+These are usually a whole virus or bacterium (or part of it) or a weakened form of toxins made by a bacterium. Some vaccines use instructions (mRNA) for your body to make antigens themselves.
+Adjuvants.
+Adjuvants are substances that help the vaccine work well. The most common adjuvant is aluminum salts.
+Preservatives.
+Preservatives, like thimerosal, keep vaccines in multidose vials from getting contaminated. Most vaccines are preservative-free because they only have one dose in a container.
+Stabilizers.
+Stabilizers are used to make sure the active ingredient doesn’t break down or change during manufacturing and storage. Gelatin is a commonly used stabilizer.
+Products used to make the vaccine.
+Vaccines can contain small amounts of products used to grow a bacteria or virus, kill pathogens or toxins and keep vaccines from getting contaminated during production. Egg proteins and formaldehyde are both used to make some vaccines.
+Advertisement
+What vaccines do we use today?
+Today the most commonly used vaccines include those against:
+Measles
+,
+mumps
+and
+rubella
+(MMR).
+Rotavirus
+.
+Polio
+.
+The flu
+.
+Meningococcal disease
+.
+Pneumococcal disease.
+Tetanus
+,
+diphtheria
+and
+pertussis
+(
+Tdap
+or
+Dtap
+).
+Chickenpox
+(varicella).
+Shingles
+.
+Haemophilus influenzae
+type b (Hib).
+Hepatitis A
+.
+Hepatitis B
+.
+HPV
+.
+COVID-19
+.
+Treatment Details
+Who should get vaccinated?
+Almost everyone should get vaccinated against vaccine-preventable illnesses, unless you have a weakened immune system or your healthcare provider recommends that you don’t. If you have a weakened immune system, live vaccines can be dangerous. If you’re pregnant, live vaccines could pose a risk to the fetus. Ask your healthcare provider if it’s safe for you to get vaccines.
+You usually get vaccines:
+During infancy and childhood.
+To maintain previous vaccinations (“boosters”).
+Seasonally, to protect against the flu.
+Over the age of 50, when you’re more likely to get certain diseases.
+When traveling to an area where certain illnesses are more common.
+You can find out what vaccines are recommended for you based on age and risk factors from the Centers for Disease Control and Prevention/CDC (in the U.S.), the National Health Service/NHS (in the U.K.) or your local public health authority.
+How do you get a vaccine?
+Vaccines are often given as shots, but there are also oral and nasal vaccines.
+Injected vaccines.
+Your healthcare provider will clean your skin with an alcohol swab. They’ll give you a shot (inoculation) in your muscle, under your skin or, rarely, in between the layers of your skin. Most vaccines are intramuscular shots because some immune cells live in your muscle. They’re given in your arm because it’s close to
+lymph nodes
+, a key part of your immune system, in your armpit.
+Oral vaccines.
+Your healthcare provider gives you a liquid vaccine from a dropper in your mouth and you swallow it. Oral vaccines are useful for easily giving vaccines to large numbers of people, including those who are afraid of needles. They’re especially effective for diseases that infect your gut. But they’re difficult to make because they have to survive your stomach acid to cause a strong immune response.
+Intranasal vaccines.
+Your healthcare provider sprays a mist up your nose to deliver an intranasal vaccine. Intranasal vaccines cause an immune response in your entire body just like other vaccines, but can also give you extra protection with an immune response in the lining of your nose and airways. The only intranasal vaccine available in the U.S. is for the flu.
+What’s a booster and why do I need it?
+Some vaccines require more than one dose to be effective. This can be because:
+You need several doses, spread out by days or weeks, to reach full immunity.
+Some vaccines are very effective, but only for a limited time (usually a few years).
+Vaccines have been updated to be more effective.
+You have to get a flu shot every year because it’s made to prevent what experts think will be the most common type (strain) that year.
+What is an immunization schedule?
+An immunization schedule is a recommendation on when you should get vaccinated for each vaccine-preventable illness, usually based on age. You can find immunization schedules through the CDC (in the U.S.), the NHS (in the U.K.) or your local public health authority. The schedule will tell you how many doses you need and how far apart to get the doses.
+Care at Cleveland Clinic
+Find a Primary Care Provider
+Schedule an Appointment
+Risks / Benefits
+Why do we get vaccinated?
+Most people get vaccinated so they won’t get sick with an
+infectious disease
+. Viruses and bacteria can not only make you feel terrible, but they can also cause serious complications, which can be life-threatening or long-lasting. But vaccines can also help protect the people around you — your loved ones, people in your community and around the world — by stopping the spread of an illness.
+What are the benefits of vaccination?
+There are personal, community and global benefits of vaccination. Vaccines:
+Protect you from infectious diseases.
+Infectious diseases can be mild or cause serious complications. Some are life-threatening.
+Protect others from infectious diseases.
+Some people, like infants and people with certain conditions, can’t get vaccinated against some diseases. They can get very sick if they get an infectious disease. If those of us that can get vaccinated, do, we can stop the spread of diseases and keep our loved ones and neighbors from getting sick.
+Protect you from serious illness.
+Sometimes, vaccines don’t keep you from getting sick altogether, but your immune system still mounts a quick response, keeping you from getting seriously ill.
+Reduce hospitalization.
+When many people get very sick all at once (an outbreak), hospitals can become overwhelmed with patients. That can mean that people who need medical treatment — for any reason — might not be able to get it. Vaccination reduces the number of people who get sick, spread illness and need to be treated in a hospital.
+Eliminate disease.
+If enough people are vaccinated or have had an infectious disease, it can’t spread and eventually won’t be able to find anyone to infect. This is called
+herd immunity
+. Even people who aren’t immune are protected by herd immunity. After a period of high vaccination, eventually, the disease won’t spread in an area or an entire country (though, you can still get the disease if you’re not vaccinated and travel to a place where it still spreads). This is called disease elimination. Polio, measles and rubella are considered eliminated in the U.S., but they’re still spread in other parts of the world. While a disease still spreads in any part of the world, you still need to be vaccinated so it won’t come back to areas where it’s been eliminated.
+How do I help other people by getting vaccinated?
+Infants and people with weakened immune systems are particularly vulnerable to getting seriously ill with infectious diseases. But they aren’t yet vaccinated or can’t get vaccinated against them. The more people close to them and in their community who are vaccinated, the less likely it is they’ll get infected.
+How does vaccination help get rid of disease?
+If enough people are vaccinated, a disease will stop spreading and eventually no one will get sick with it anymore. When there aren’t any more cases of a specific illness in an area, it’s considered eliminated. But as long as there are some cases still in the world, if enough people stop getting vaccinated, the disease can come back.
+When there aren’t any more cases of a specific illness in the entire world, it’s considered eradicated. Smallpox is an example of a human disease that’s been eradicated through vaccination.
+What are the risks of vaccination?
+For people without underlying health issues, the main risks of getting vaccinated are side effects or an allergic reaction.
+Side effects
+of most vaccines include fever or redness, swelling or soreness where they gave you a shot. Some vaccines can have rare but serious side effects, including seizures, swelling of an entire arm or leg and
+Guillain-Barré syndrome (GBS)
+.
+Allergic reactions
+can happen if you’re allergic to any of the ingredients in a vaccine, but the most common allergic reaction is to eggs. If you’re allergic to eggs or other ingredients in vaccines, check with your healthcare provider to see what vaccines you should get.
+If you have a weakened immune system or underlying health issues, live vaccines could make you sick. Ask your healthcare provider before getting vaccinated.
+Are vaccines safe?
+Like every medication, vaccines go through a series of safety tests. Thousands of volunteers receive a vaccine before it’s released to the public. Different doses are tested to find the right balance between how well it works and how serious the side effects are. Vaccines don’t get approved if they don’t work without causing serious reactions.
+No matter which type of vaccine is used, the active ingredients are broken down in your body or destroyed by your immune system within a few days. This means vaccines can’t cause long-lasting health effects.
+Are ingredients in vaccines safe?
+Vaccine ingredients are tested to make sure that the amount of the ingredient you receive is safe. Most vaccines contain ingredients already found in your body or things you eat. For instance, aluminum salts, used as an adjuvant, are in drinking water and some medicines like antacids. Formaldehyde, used in making some vaccines, exists in small amounts in your body naturally (and even smaller amounts in any vaccine). Gelatin, used as a stabilizer, is in many foods.
+Thimerosal, the ingredient most people worry about, has been studied extensively for safety. Studies show no evidence that thimerosal is harmful to humans. Thimerosal doesn’t contain the same kind of mercury that causes poisoning and it’s cleared from your body quickly. In the U.S., it’s currently only used in multidose vials of flu vaccine.
+Do vaccines cause autism?
+No, vaccines don’t cause
+autism spectrum disorder (ASD)
+. A small study done in the late 1990s that linked the MMR vaccine to ASD has since been discredited. Numerous studies done around the world since then have found that vaccines don’t cause autism. These studies have compared hundreds of thousands of people based on whether or not they were vaccinated and whether or not they had a diagnosis of ASD. Even those at the highest risk of ASD are no more likely to be diagnosed after getting an MMR vaccine than those who aren’t vaccinated.
+Can vaccines alter your DNA?
+No, vaccines can’t alter your
+DNA
+. Viruses and bacteria used in vaccines are destroyed by your immune system, which gives you protection against future infections. DNA and mRNA in vaccines don’t interact with your DNA and can’t do anything to change it.
+Can you get a disease from a vaccine?
+If you have a healthy immune system, you can’t get a disease from a vaccine. If you have a compromised immune system, there’s a risk that you could get sick from a live vaccine. Inactivated vaccines, subunit vaccines and mRNA vaccines don’t have anything in them that could actually infect you. Live vaccines use a weakened form of a virus or bacteria that can’t make healthy people sick. The side effects you experience from vaccines are reactions from your immune system making antibodies.
+When To Call the Doctor
+When should I see my healthcare provider?
+Talk to your healthcare provider about what vaccines they recommend for you. If you’re pregnant, are being treated for an ongoing health condition or have a weakened immune system, ask your provider which vaccines are safe for you.
+Contact your provider if you have any serious side effects after getting vaccinated.
+Additional Common Questions
+Why do I have to get vaccinated against uncommon diseases?
+If you’ve never known anyone who’s had a particular disease, you might wonder why you should bother getting vaccinated for it. But think of it this way: The disease is uncommon
+because
+so many people have gotten vaccinated against it.
+When enough people stop getting vaccinated or stop getting their kids vaccinated because they think they can’t get sick, the disease can begin spreading again. For instance, if someone who’s not vaccinated travels to a place where the disease still exists, they can bring it back to their community and cause an outbreak. Large outbreaks can overwhelm hospitals and put infants, older adults and people with weakened immune systems at risk for life-threatening illnesses. Instances of polio and measles in the U.S. in recent years are examples of how outbreaks of disease can still happen if not enough people are vaccinated.
+I got vaccinated and still got sick — why didn’t the vaccine work?
+Vaccines don’t always fully prevent you from getting sick, but that doesn’t mean they didn’t work. Some reasons you might still get sick with a disease you were vaccinated for include:
+Some vaccines are very good at completely preventing disease. Others reduce the severity of illness instead. Studies done before a vaccine is widely available will tell us which one it’s more useful for.
+Pathogens can change (mutate) after you’ve been vaccinated. This makes it harder for your immune system to recognize and fight off.
+Some people’s immune systems don’t develop a strong or long-lasting response to certain vaccines. Either they don’t make antibodies to a pathogen or they only have antibodies for a short period of time. People around you getting vaccinated helps protect you if your immune system doesn’t respond to vaccination.
+How long does it take to make a vaccine?
+Vaccines can take decades to go from a theory in a lab to testing in humans. Once they get to human testing, it can take months or years to get approved. Vaccines go through the same testing that other drugs do. Several trials are required to find the safest dose of the vaccine, how effective it is and whether there are serious side effects.
+What was the first vaccine?
+There’s evidence that people have been inoculating against diseases since as early as the 10th century, but the first modern version of a vaccine was for smallpox. Back in the 1700s, people started noticing that people who had cowpox didn’t get smallpox. They found ways to infect people with the pus from cowpox to prevent them from getting smallpox, a much more serious illness. From there, Edward Jenner created the first vaccines for smallpox. Smallpox no longer exists (it’s eradicated) because of vaccinations.
+A note from Cleveland Clinic
+Vaccines have rid the world of smallpox and greatly reduced the threat of polio, measles and other diseases. Vaccines have saved millions of lives — from your friends and neighbors to people around the world.
+The science of today’s vaccines may seem complex and even a little scary. But it’s based on knowledge we’ve had for centuries about how our bodies fight disease. Vaccines show your body the tools it needs to stop the battle before it starts.
+Care at Cleveland Clinic
+Cleveland Clinic’s primary care providers offer lifelong medical care. From sinus infections and high blood pressure to preventive screening, we’re here for you.
+Find a Primary Care Provider
+Schedule an Appointment
+Medically Reviewed
+Last reviewed on 09/07/2022.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointments
+216.444.6503
+Appointments & Locations
+Request an Appointment

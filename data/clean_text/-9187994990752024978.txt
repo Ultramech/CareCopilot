@@ -1,0 +1,130 @@
+Adenosine deaminase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Adenosine deaminase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/adenosine-deaminase-deficiency/
+Adenosine deaminase deficiency
+Description
+Adenosine deaminase (ADA) deficiency is a disorder that affects the immune system. Specifically, ADA deficiency impairs the development and function of immune cells called lymphocytes. Lymphocytes are white blood cells that help the body fight infections. As a result, people with ADA deficiency often develop pneumonia, chronic diarrhea, and widespread skin rashes. Additional signs and symptoms of ADA deficiency include slow growth and developmental delays.
+About 80 percent of individuals with ADA deficiency also have severe combined immunodeficiency (SCID). People with SCID lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be serious or life-threatening. These infections are often caused by "opportunistic" organisms that ordinarily do not cause illness in people with a normal immune system. People with ADA deficiency with SCID (ADA-SCID) typically develop health problems within the first 6 months of life. Without treatment, these babies usually do not survive past age 2.
+About 15 to 20 percent of people with ADA deficiency develop health problems that begin between 1 and 10 years of age (delayed onset) or in adulthood (late onset). In people with this form of ADA deficiency (known as delayed or late-onset combined immunodeficiency or ADA-CID), the immune deficiency tends to be less severe than in people with ADA-SCID. People with ADA-CID typically have recurrent upper respiratory and ear infections. Over time, affected individuals may develop chronic lung damage, malnutrition, and other health problems.
+In some individuals, ADA deficiency only impacts red blood cells. Since white blood cells are not affected, these individuals have normal immune systems. This form of the condition is known as partial ADA deficiency. Individuals with this form do not have any health problems related to the condition. They often only find out they have ADA deficiency when they undergo testing because of an affected relative or during a normal health screening.
+Frequency
+Adenosine deaminase deficiency is very rare. It is estimated to occur in approximately 1 in 500,000 newborns worldwide. Approximately 15 percent of people with SCID have ADA deficiency.
+Causes
+Adenosine deaminase deficiency is caused by variants (also called mutations) in the
+ADA
+gene. This gene provides instructions for producing the enzyme adenosine deaminase. This enzyme is found throughout the body but is most active in lymphocytes. These cells protect the body against foreign invaders, such as bacteria and viruses. Lymphocytes are produced in specialized lymphoid tissues throughout the body, including in a gland located behind the breastbone called the thymus and in the lymph nodes.
+The adenosine deaminase enzyme works to get rid of a molecule called deoxyadenosine, which is generated when DNA is broken down. A buildup of deoxyadenosine in cells can lead to early cell death. Adenosine deaminase converts deoxyadenosine to another molecule called deoxyinosine, which is not harmful. Variants in the
+ADA
+gene reduce or eliminate the activity of adenosine deaminase and allow deoxyadenosine to build up in cells. The severity of ADA deficiency generally depends on how much working enzyme is available. Individuals with ADA-SCID have no enzyme activity. Those with ADA-CID have greatly reduced enzyme activity, and people with partial ADA deficiency have somewhat reduced enzyme activity.
+Immature lymphocytes in the thymus are particularly vulnerable to a toxic buildup of deoxyadenosine. These cells die before they can mature and help fight infection. The number of lymphocytes in other lymphoid tissues is also greatly reduced. The loss of infection-fighting cells results in the signs and symptoms of ADA deficiency.
+Learn more about the gene associated with Adenosine deaminase deficiency
+ADA
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ADA deficiency
+ADA-Related Immune Deficiency, Adenosine Deaminase 1 Deficiency
+ADA-SCID
+ADA1 Deficiency
+Adenosine deaminase deficient severe combined immunodeficiency
+SCID due to ADA deficiency
+Severe combined immunodeficiency due to ADA deficiency
+Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency
+Genetic and Rare Diseases Information Center
+Severe combined immunodeficiency due to adenosine deaminase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SEVERE COMBINED IMMUNODEFICIENCY, AUTOSOMAL RECESSIVE, T CELL-NEGATIVE, B CELL-NEGATIVE, NK CELL-NEGATIVE, DUE TO ADENOSINE DEAMINASE DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Blackburn MR, Thompson LF. Adenosine deaminase deficiency: unanticipated
+benefits from the study of a rare immunodeficiency. J Immunol. 2012 Feb
+1;188(3):933-5. doi: 10.4049/jimmunol.1103519. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dabrowska-Leonik N, Piatosa B, Slominska E, Bohynikova N, Bernat-Sitarz K,
+Bernatowska E, Wolska-Kusnierz B, Kalwak K, Koltan S, Dabrowska A, Gozdzik J,
+Ussowicz M, Pac M. National experience with adenosine deaminase deficiency
+related SCID in Polish children. Front Immunol. 2023 Jan 6;13:1058623. doi:
+10.3389/fimmu.2022.1058623. eCollection 2022.
+Citation on PubMed
+Grunebaum E, Booth C, Cuvelier GDE, Loves R, Aiuti A, Kohn DB. Updated
+Management Guidelines for Adenosine Deaminase Deficiency. J Allergy Clin Immunol
+Pract. 2023 Jun;11(6):1665-1675. doi: 10.1016/j.jaip.2023.01.032. Epub 2023 Feb
+1.
+Citation on PubMed
+Hershfield M, Tarrant T. Adenosine Deaminase Deficiency. 2006 Oct 3 [updated
+2024 Mar 7]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1483/
+Citation on PubMed
+Hershfield MS. Genotype is an important determinant of phenotype in adenosine
+deaminase deficiency. Curr Opin Immunol. 2003 Oct;15(5):571-7. doi:
+10.1016/s0952-7915(03)00104-3.
+Citation on PubMed
+Hershfield MS. New insights into adenosine-receptor-mediated immunosuppression
+and the role of adenosine in causing the immunodeficiency associated with
+adenosine deaminase deficiency. Eur J Immunol. 2005 Jan;35(1):25-30. doi:
+10.1002/eji.200425738.
+Citation on PubMed
+Nofech-Mozes Y, Blaser SI, Kobayashi J, Grunebaum E, Roifman CM. Neurologic
+abnormalities in patients with adenosine deaminase deficiency. Pediatr Neurol.
+2007 Sep;37(3):218-21. doi: 10.1016/j.pediatrneurol.2007.03.011.
+Citation on PubMed
+Nyhan WL. Disorders of purine and pyrimidine metabolism. Mol Genet Metab. 2005
+Sep-Oct;86(1-2):25-33. doi: 10.1016/j.ymgme.2005.07.027.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Immune System and Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Immunodeficiency disorders
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

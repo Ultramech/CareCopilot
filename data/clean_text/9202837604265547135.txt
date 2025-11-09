@@ -1,0 +1,174 @@
+Hajdu-Cheney syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hajdu-Cheney syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/hajdu-cheney-syndrome/
+Hajdu-Cheney syndrome
+Description
+Hajdu-Cheney syndrome is a rare disorder that can affect many parts of the body, particularly the bones. Loss of bone tissue from the hands and feet (acro-osteolysis) is a characteristic feature of the condition. The fingers and toes are short and broad, and they may become shorter over time as bone at the tips continues to break down. Bone loss in the fingers can interfere with fine motor skills, such as picking up small objects.
+Bone abnormalities throughout the body are common in Hajdu-Cheney syndrome. Affected individuals develop
+osteoporosis
+, which causes the bones to be brittle and prone to fracture. Many affected individuals experience breakage (compression fractures) of the spinal bones (vertebrae). Some also develop abnormal curvature of the spine (
+scoliosis or kyphosis
+). Hajdu-Cheney syndrome also affects the shape and strength of the long bones in the arms and legs. The abnormalities associated with this condition lead to short stature.
+Hajdu-Cheney syndrome also causes abnormalities of the skull bones, including the bones of the face. The shape of the skull is often described as
+dolichocephalic
+, which means it is elongated from back to front. In many affected individuals, the bone at the back of the skull bulges outward, causing a bump called a
+prominent occiput
+. Distinctive facial features associated with this condition include
+widely spaced
+and
+downward-slanting
+eyes, eyebrows that grow together in the middle (
+synophrys
+), low-set ears, a sunken appearance of the middle of the face (
+midface hypoplasia
+), and a large space between the nose and upper lip (a
+long philtrum
+). Some affected children are born with an opening in the roof of the mouth called a
+cleft palate
+or with a high arched palate. In affected adults, the facial features are often described as "
+coarse
+."
+Other features of Hajdu-Cheney syndrome found in some affected individuals include joint abnormalities, particularly an unusually large range of joint movement (hypermobility); dental problems; hearing loss; a deep, gravelly voice; excess body hair; recurrent infections in childhood; heart defects; and kidney abnormalities such as the growth of multiple fluid-filled cysts (
+polycystic kidneys
+). Some people with this condition have delayed development in childhood, but the delays are usually mild.
+The most serious complications of Hajdu-Cheney syndrome, which occur in about half of all affected individuals, are abnormalities known as platybasia and basilar invagination. Platybasia is a flattening of the base of the skull caused by thinning and softening of the skull bones. Basilar invagination occurs when the softened bones allow part of the spine to protrude abnormally through the opening at the bottom of the skull, pushing into the lower parts of the brain. These abnormalities can lead to severe neurological problems, including headaches, abnormal vision and balance, a buildup of fluid in the brain (hydrocephalus), abnormal breathing, and sudden death.
+The signs and symptoms of Hajdu-Cheney syndrome vary greatly among affected individuals, even among members of the same family. Many of the disorder's features, such as acro-osteolysis and some of the characteristic facial features, are not present at birth but become apparent in childhood or later. The risk of developing platybasia and basilar invagination also increases over time.
+The features of Hajdu-Cheney syndrome overlap significantly with those of a condition called serpentine fibula-polycystic kidney syndrome (SFPKS). Although they used to be considered separate disorders, researchers discovered that the two conditions are associated with mutations in the same gene. Based on these similarities, many researchers now consider Hajdu-Cheney syndrome and SFPKS to be variants of the same condition.
+Frequency
+Hajdu-Cheney syndrome is a rare disease; its prevalence is unknown. Fewer than 100 affected individuals have been described in the medical literature.
+Causes
+Hajdu-Cheney syndrome is associated with mutations in the
+NOTCH2
+gene. This gene provides instructions for making a receptor called Notch2. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. When a ligand binds to the Notch2 receptor, it triggers signals that are important for the normal development and function of many different types of cells. Studies suggest that signaling through the Notch2 receptor is important for the early development of bones and later for bone remodeling, a normal process in which old bone is removed and new bone is created to replace it. Notch2 signaling also appears to be involved in the development of the heart, kidneys, teeth, and other parts of the body.
+Mutations in a specific area near the end of the
+NOTCH2
+gene are associated with Hajdu-Cheney syndrome. These mutations lead to a version of the Notch2 receptor that cannot be broken down normally. As a result, the receptor continues to be active even after signaling should stop. Researchers are unsure how excessive Notch2 signaling is related to the varied features of Hajdu-Cheney syndrome. They suspect that the skeletal features of the disorder, including acro-osteolysis,
+osteoporosis
+, and distinctive facial features, likely result from abnormal bone development and remodeling. Excess signaling through the overactive Notch2 receptor may increase the removal of old bone, reduce the formation of new bone, or both. It is less clear how the overactive receptor contributes to the other signs and symptoms of this condition.
+Learn more about the gene associated with Hajdu-Cheney syndrome
+NOTCH2
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered
+NOTCH2
+gene in each cell is sufficient to cause the disorder. Most cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family. Less commonly, an affected person inherits the mutation from
+one affected parent
+.
+Other Names for This Condition
+Acroosteolysis dominant type
+Acroosteolysis with osteoporosis and changes in skull and mandible
+Arthro-dento-osteo dysplasia
+Arthrodentoosteodysplasia
+Cheney syndrome
+Cranioskeletal dysplasia with acro-osteolysis
+Familial osteodysplasia
+Hereditary osteodysplasia with acro-osteolysis
+HJCYS
+Serpentine fibula-polycystic kidney syndrome
+SFPKS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hajdu-Cheney syndrome
+Genetic and Rare Diseases Information Center
+Hajdu-Cheney syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HAJDU-CHENEY SYNDROME; HJCYS
+Scientific Articles on PubMed
+PubMed
+References
+Brennan AM, Pauli RM. Hajdu--Cheney syndrome: evolution of phenotype and
+clinical problems. Am J Med Genet. 2001 May 15;100(4):292-310. doi:
+10.1002/1096-8628(20010515)100:43.0.co;2-4.
+Citation on PubMed
+Canalis E, Zanotti S. Hajdu-Cheney syndrome: a review. Orphanet J Rare Dis.
+2014 Dec 10;9:200. doi: 10.1186/s13023-014-0200-y.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gray MJ, Kim CA, Bertola DR, Arantes PR, Stewart H, Simpson MA, Irving MD,
+Robertson SP. Serpentine fibula polycystic kidney syndrome is part of the
+phenotypic spectrum of Hajdu-Cheney syndrome. Eur J Hum Genet. 2012
+Jan;20(1):122-4. doi: 10.1038/ejhg.2011.125. Epub 2011 Jun 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Isidor B, Lindenbaum P, Pichon O, Bezieau S, Dina C, Jacquemont S,
+Martin-Coignard D, Thauvin-Robinet C, Le Merrer M, Mandel JL, David A, Faivre L,
+Cormier-Daire V, Redon R, Le Caignec C. Truncating mutations in the last exon of
+NOTCH2 cause a rare skeletal disorder with osteoporosis. Nat Genet. 2011 Mar
+6;43(4):306-8. doi: 10.1038/ng.778.
+Citation on PubMed
+Majewski J, Schwartzentruber JA, Caqueret A, Patry L, Marcadier J, Fryns JP,
+Boycott KM, Ste-Marie LG, McKiernan FE, Marik I, Van Esch H; FORGE Canada
+Consortium; Michaud JL, Samuels ME. Mutations in NOTCH2 in families with
+Hajdu-Cheney syndrome. Hum Mutat. 2011 Oct;32(10):1114-7. doi:
+10.1002/humu.21546. Epub 2011 Sep 9.
+Citation on PubMed
+Narumi Y, Min BJ, Shimizu K, Kazukawa I, Sameshima K, Nakamura K, Kosho T,
+Rhee Y, Chung YS, Kim OH, Fukushima Y, Park WY, Nishimura G. Clinical
+consequences in truncating mutations in exon 34 of NOTCH2: report of six patients
+with Hajdu-Cheney syndrome and a patient with serpentine fibula polycystic kidney
+syndrome. Am J Med Genet A. 2013 Mar;161A(3):518-26. doi: 10.1002/ajmg.a.35772.
+Epub 2013 Feb 7.
+Citation on PubMed
+Simpson MA, Irving MD, Asilmaz E, Gray MJ, Dafou D, Elmslie FV, Mansour S,
+Holder SE, Brain CE, Burton BK, Kim KH, Pauli RM, Aftimos S, Stewart H, Kim CA,
+Holder-Espinasse M, Robertson SP, Drake WM, Trembath RC. Mutations in NOTCH2
+cause Hajdu-Cheney syndrome, a disorder of severe and progressive bone loss. Nat
+Genet. 2011 Mar 6;43(4):303-5. doi: 10.1038/ng.779.
+Citation on PubMed
+Zhao W, Petit E, Gafni RI, Collins MT, Robey PG, Seton M, Miller KK, Mannstadt
+M. Mutations in NOTCH2 in patients with Hajdu-Cheney syndrome. Osteoporos Int.
+2013 Aug;24(8):2275-81. doi: 10.1007/s00198-013-2298-5. Epub 2013 Feb 7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+Osteoporosis
+MEDICAL ENCYCLOPEDIA
+Compression fractures of the back
+Genetics
+Kyphosis
+Scoliosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

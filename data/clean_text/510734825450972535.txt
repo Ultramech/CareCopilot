@@ -1,0 +1,140 @@
+GABA-transaminase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+GABA-transaminase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/gaba-transaminase-deficiency/
+GABA-transaminase deficiency
+Description
+GABA-transaminase deficiency is a brain disease (encephalopathy) that begins in infancy. Babies with this disorder have recurrent
+seizures
+(epilepsy), uncontrolled limb movements (choreoathetosis), exaggerated reflexes (hyperreflexia), weak muscle tone (hypotonia), and excessive sleepiness (hypersomnolence). Affected babies may grow faster in length than usual (accelerated linear growth), even though they have feeding problems and may not gain weight as quickly as expected (failure to thrive).
+Children with GABA-transaminase deficiency have profoundly impaired development. Most do not achieve normal developmental milestones of infancy such as following others' movement with their eyes or sitting unassisted. Individuals with this disorder usually do not survive past the first 2 years of life, but some live longer into childhood.
+Frequency
+GABA-transaminase deficiency is a very rare disorder. Only a small number of affected individuals have been described in the medical literature.
+Causes
+GABA-transaminase deficiency is caused by mutations in the
+ABAT
+gene, which provides instructions for making the GABA-transaminase enzyme. This enzyme helps break down a brain chemical (neurotransmitter) called GABA when it is not needed. GABA normally helps slow down (inhibit) brain cell activity when necessary, to prevent the brain from being overloaded with too many signals. For this reason, GABA is called an inhibitory neurotransmitter.
+Mutations in the
+ABAT
+gene lead to a shortage (deficiency) of functional GABA-transaminase enzyme. As a result, GABA is not properly broken down, so this neurotransmitter and another molecule called beta-alanine accumulate abnormally in brain cells. This accumulation alters the balance between the brain's neurotransmitters, leading to the neurological problems characteristic of GABA-transaminase deficiency. Excess GABA also leads to abnormal release of a protein that is necessary for growth of the body's bones and tissues (
+growth hormone
+), resulting in the accelerated linear growth that sometimes occurs in this disorder.
+Learn more about the gene associated with GABA-transaminase deficiency
+ABAT
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+4 alpha aminobutyrate transaminase deficiency
+ABAT deficiency
+GABA transaminase deficiency
+GABA transferase deficiency
+GABA-T deficiency
+Gamma aminobutyrate transaminase deficiency
+Gamma aminobutyric acid transaminase deficiency
+Gamma-aminobutyrate transaminase deficiency
+Gamma-aminobutyric acid transaminase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Gamma-aminobutyric acid transaminase deficiency
+Genetic and Rare Diseases Information Center
+Gamma-aminobutyric acid transaminase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+GABA-TRANSAMINASE DEFICIENCY; GABATD
+Scientific Articles on PubMed
+PubMed
+References
+Besse A, Petersen AK, Hunter JV, Appadurai V, Lalani SR, Bonnen PE.
+Personalized medicine approach confirms a milder case of ABAT deficiency. Mol
+Brain. 2016 Dec 1;9(1):93. doi: 10.1186/s13041-016-0273-8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Koenig MK, Hodgeman R, Riviello JJ, Chung W, Bain J, Chiriboga CA, Ichikawa K,
+Osaka H, Tsuji M, Gibson KM, Bonnen PE, Pearl PL. Phenotype of GABA-transaminase
+deficiency. Neurology. 2017 May 16;88(20):1919-1924. doi:
+10.1212/WNL.0000000000003936. Epub 2017 Apr 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Louro P, Ramos L, Robalo C, Cancelinha C, Dinis A, Veiga R, Pina R, Rebelo O,
+Pop A, Diogo L, Salomons GS, Garcia P. Phenotyping GABA transaminase deficiency:
+a case description and literature review. J Inherit Metab Dis. 2016
+Sep;39(5):743-747. doi: 10.1007/s10545-016-9951-z. Epub 2016 Jul 4.
+Citation on PubMed
+Medina-Kauwe LK, Tobin AJ, De Meirleir L, Jaeken J, Jakobs C, Nyhan WL, Gibson
+KM. 4-Aminobutyrate aminotransferase (GABA-transaminase) deficiency. J Inherit
+Metab Dis. 1999 Jun;22(4):414-27. doi: 10.1023/a:1005500122231.
+Citation on PubMed
+Nagappa M, Bindu PS, Chiplunkar S, Govindaraj P, Narayanappa G, Krishnan A,
+Bharath MM, Swaminathan A, Saini J, Arvinda HR, Sinha S, Mathuranath PS, Taly AB.
+Hypersomnolence-hyperkinetic movement disorder in a child with compound
+heterozygous mutation in 4-aminobutyrate aminotransferase (ABAT) gene. Brain Dev.
+2017 Feb;39(2):161-165. doi: 10.1016/j.braindev.2016.08.005. Epub 2016 Sep 3.
+Citation on PubMed
+Pearl PL, Gibson KM. Clinical aspects of the disorders of GABA metabolism in
+children. Curr Opin Neurol. 2004 Apr;17(2):107-13. doi:
+10.1097/00019052-200404000-00005.
+Citation on PubMed
+Pearl PL, Taylor JL, Trzcinski S, Sokohl A. The pediatric neurotransmitter
+disorders. J Child Neurol. 2007 May;22(5):606-16. doi: 10.1177/0883073807302619.
+Citation on PubMed
+Pearl PL, Wallis DD, Gibson KM. Pediatric neurotransmitter diseases. Curr
+Neurol Neurosci Rep. 2004 Mar;4(2):147-52. doi: 10.1007/s11910-004-0029-1.
+Citation on PubMed
+Tsuji M, Aida N, Obata T, Tomiyasu M, Furuya N, Kurosawa K, Errami A, Gibson
+KM, Salomons GS, Jakobs C, Osaka H. A new case of GABA transaminase deficiency
+facilitated by proton MR spectroscopy. J Inherit Metab Dis. 2010 Feb;33(1):85-90.
+doi: 10.1007/s10545-009-9022-9. Epub 2010 Jan 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Developmental Disabilities
+Epilepsy
+Genetic Brain Disorders
+Genetic Disorders
+Movement Disorders
+Seizures
+MEDICAL ENCYCLOPEDIA
+Epilepsy in children
+Genetics
+Movement - uncontrolled or slow
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,114 @@
+Ovarian-Adnexal Reporting & Data System (O-RADS): What It Is
+Home
+/
+Health Library
+/
+Articles
+/
+O-RADS (Ovarian-Adnexal Reporting & Data System)
+Advertisement
+Advertisement
+O-RADS (Ovarian-Adnexal Reporting & Data System)
+O-RADS is an acronym for Ovarian-Adnexal Reporting & Data System. It’s a system healthcare providers use to classify ovarian and adnexal lesions on ultrasound and MRI images. O-RADS helps providers across the U.S. interpret test results more reliably and consistently. It also reduces the risk of false ovarian cancer diagnoses.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+What is O-RADS?
+O-RADS™ is an acronym for Ovarian-Adnexal Reporting and Data System. It’s a tool healthcare providers use to classify ovarian and adnexal lesions that they find on imaging tests. (“Adnexal” refers to the ovaries, fallopian tubes and ligaments that hold the female reproductive organs in place. “Lesion” is a damaged area in an organ or tissue.)
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+O-RADS categorizes ovarian and adnexal lesions on a scale of 0 to 5. The higher the number, the higher the cancer risk:
+O-RADS Score
+Risk Category
+0
+Incomplete evaluation
+1
+Normal ovary
+2
+Almost certainly benign
+3
+Low-risk malignancy
+4
+Intermediate risk
+5
+High-risk
+O-RADS Score
+0
+Risk Category
+Incomplete evaluation
+1
+Risk Category
+Normal ovary
+2
+Risk Category
+Almost certainly benign
+3
+Risk Category
+Low-risk malignancy
+4
+Risk Category
+Intermediate risk
+5
+Risk Category
+High-risk
+But O-RADS is more than a classification system. The committee who developed it (sponsored by the American College of Radiology) also created a specialized dictionary of relevant terms (called a “lexicon”) and treatment recommendations for people in each risk category.
+Your healthcare provider might use O-RADS if they’re trying to diagnose and classify:
+Ovarian cysts
+: Lesions on your ovaries.
+Adnexal masses
+: Lesions on your fallopian tubes or ligaments that hold the female reproductive organs in place.
+Types of O-RADS
+There are two “arms” of O-RADS depending on the type of imaging used, including:
+O-RADS ultrasound (US)
+. Pelvic imaging using abdominal or
+transvaginal ultrasound
+is the main method used in O-RADS.
+Ultrasound
+technology can show most ovarian and adnexal lesions.
+O-RADS MRI
+.
+Magnetic resonance imaging (MRI)
+can show additional details of soft tissues. Healthcare providers may use this approach if they need more information for a diagnosis, or to rule out malignancy (
+cancer
+).
+What does O-RADS do?
+The purpose of O-RADS is to:
+Provide consistent interpretations
+. O-RADS ensures that every healthcare provider in the United States uses the same classification process for ovarian and adnexal lesions. This means results would be the same no matter where you receive care.
+Increase diagnostic accuracy
+. O-RADS reduces the likelihood of false positives for malignancy (cancer) in ovarian and adnexal lesions. It also reduces the number of surgeries done on benign (noncancerous) disease.
+Provide treatment recommendations for each category
+. The O-RADS system gives healthcare providers standardized treatment recommendations for each risk category. For example, it can tell your provider whether you need follow-up imaging or a specialist referral.
+Advertisement
+Benefits of O-RADS
+Research shows that
+ovarian cancer
+screening done with transvaginal ultrasound and
+tumor marker
+CA-125 can produce a false positive result. This means you receive a cancer diagnosis, but later find out you never had cancer to begin with.
+In some cases, people have surgery when they don’t need it. And most significantly, undergoing surgery for benign (noncancerous) lesions carries a 17.8% complication rate. In other words, 17.8% of people who have unnecessary surgery develop an associated health condition after their procedures.
+O-RADS takes several factors into account, including the lesion characteristics (like size, location and appearance) and whether you’ve transitioned to
+menopause
+. For people with noncancerous lesions, the goal is to reduce the number of unnecessary surgeries. For those with suspicious or cancerous lesions, the goal is to refer them to the most appropriate specialist (like a gynecologic
+oncologist
+, for example).
+Who created O-RADS?
+In 2018, the American College of Radiology sponsored a committee of international healthcare providers from a range of specialties to develop O-RADS. The O-RADS US (ultrasound) committee made an update to the lexicon in November 2022.
+A note from Cleveland Clinic
+Finding out there’s something suspicious on your imaging test can stop your world from spinning. And if you need more tests to confirm or rule out a diagnosis, your anxiety can grow more intense by the day. O-RADS decreases your chance of false-positive test results. In turn, it also reduces your rate of unnecessary surgery. O-RADS helps you get the answers you need faster.
+Advertisement
+Medically Reviewed
+Last reviewed on 03/07/2024.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointment Center
+216.445.7050
+Appointments & Locations

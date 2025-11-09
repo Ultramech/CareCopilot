@@ -1,0 +1,150 @@
+BI-RADS (Breast Imaging-Reporting & Data System): What It Is
+Home
+/
+Health Library
+/
+Articles
+/
+BI-RADS
+Advertisement
+Advertisement
+BI-RADS
+BI-RADS stands for breast imaging reporting and data system. It’s given in a score of 0 to 6. A radiologist uses BI-RADS to describe your test results in a standardized way. It can also help you understand your breast cancer risk and the next steps.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Breast Cancer Treatment
+Find a Doctor and Specialists
+Make an Appointment
+What is BI-RADS?
+BI-RADS stands for “breast imaging-reporting and data system.” It’s a system that
+radiologists
+use to describe results from
+breast
+imaging tests like
+ultrasound
+,
+mammography
+and
+MRI
+. They also use it to help determine next steps after an imaging test.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+The system was developed to:
+Standardize how radiologists report findings from breast imaging tests so it’s consistent across providers.
+Communicate your risk of
+breast cancer
+in an easy-to-understand way.
+While you may not see your BI-RADS score in your electronic medical record, your healthcare provider always includes it in their report. You can ask your healthcare provider what your score is and what it means.
+BI-RADS categories
+BI-RADS categories are numbered from 0 to 6:
+Category
+Definition
+Explanation
+0
+Incomplete.
+This result means the radiologist may have seen a possible abnormal area, but they need further images to evaluate it, like a diagnostic mammogram or an ultrasound. This result may also mean that the radiologist wants to compare your most recent breast imaging examination with older ones to see if there’ve been changes in the area over time.
+1
+Negative.
+This result means the radiologist didn’t find a significant abnormality on the images.
+2
+Benign (noncancerous) finding.
+This result means that the radiologist found a benign (noncancerous) area in your breast, like benign cysts, lymph nodes or fibroadenomas. The radiologist records this finding to help when comparing it to future breast imaging tests.
+3
+Probably benign finding.
+The findings in this category have a greater than 98% chance of being benign (noncancerous). But as it’s not proven to be benign, the radiologist wants to monitor it to be sure it doesn’t change over time. You’ll likely need additional imaging (like mammogram, ultrasound or MRI) in six months.
+4
+Suspicious abnormality.
+This result means a finding(s) isn’t normal and has suspicious features suggesting it could be cancer. The radiologist will recommend a breast biopsy to get more information. The findings in this category can have a 2% to 95% chance of being a cancer.
+5
+Highly suggestive of malignancy.
+The term “malignancy” refers to the presence of cancerous cells. This result means the findings look like cancer and have at least a 95% chance of being cancer. The radiologist will strongly recommend a breast biopsy of these findings.
+6
+Known biopsy-proven malignancy.
+Radiologists use this result for findings on a mammogram or MRI that’ve previously been biopsied and are a known cancer. Healthcare providers use breast imaging examinations in this instance to see the extent of the cancer and/or how well it’s responding to treatment.
+Category
+0
+Definition
+Incomplete.
+Explanation
+This result means the radiologist may have seen a possible abnormal area, but they need further images to evaluate it, like a diagnostic mammogram or an ultrasound. This result may also mean that the radiologist wants to compare your most recent breast imaging examination with older ones to see if there’ve been changes in the area over time.
+1
+Definition
+Negative.
+Explanation
+This result means the radiologist didn’t find a significant abnormality on the images.
+2
+Definition
+Benign (noncancerous) finding.
+Explanation
+This result means that the radiologist found a benign (noncancerous) area in your breast, like benign cysts, lymph nodes or fibroadenomas. The radiologist records this finding to help when comparing it to future breast imaging tests.
+3
+Definition
+Probably benign finding.
+Explanation
+The findings in this category have a greater than 98% chance of being benign (noncancerous). But as it’s not proven to be benign, the radiologist wants to monitor it to be sure it doesn’t change over time. You’ll likely need additional imaging (like mammogram, ultrasound or MRI) in six months.
+4
+Definition
+Suspicious abnormality.
+Explanation
+This result means a finding(s) isn’t normal and has suspicious features suggesting it could be cancer. The radiologist will recommend a breast biopsy to get more information. The findings in this category can have a 2% to 95% chance of being a cancer.
+5
+Definition
+Highly suggestive of malignancy.
+Explanation
+The term “malignancy” refers to the presence of cancerous cells. This result means the findings look like cancer and have at least a 95% chance of being cancer. The radiologist will strongly recommend a breast biopsy of these findings.
+6
+Definition
+Known biopsy-proven malignancy.
+Explanation
+Radiologists use this result for findings on a mammogram or MRI that’ve previously been biopsied and are a known cancer. Healthcare providers use breast imaging examinations in this instance to see the extent of the cancer and/or how well it’s responding to treatment.
+While any breast imaging test result uses this system, the follow-up care could vary depending on which type of test you have. For example, if you have a mammogram and receive a BI-RADS score, your follow-up may include an additional mammogram, ultrasound, MRI or biopsy.
+The American College of Radiology (ACR) created this system in 1993 to standardize mammography findings and results. It was adapted for use with MRI and ultrasound later. This means radiologists everywhere use the same terminologies to talk about breast imaging tests.
+Benefits of BI-RADS
+There are several major benefits of this system:
+Standardization
+: Radiologists all use the same terms in the same way to communicate findings. This consistency is valuable to quality control and reduces the risk of misunderstandings.
+Risk assessment
+: BI-RADS estimates your risk level for breast cancer, which can be helpful in planning how urgent follow-up tests are.
+Efficiency
+: Being able to fit test results into a category helps with efficiency because radiologists don’t have to explain clinical findings differently every time.
+Advertisement
+Shortcomings of BI-RADS
+While a valuable tool, some of the limitations of BI-RADS are:
+Subjectivity
+: There is still some subjectivity in reading the results and assigning a category.
+False results
+: There is a chance you can get false positives or false negatives. This could cause unnecessary anxiety or delay a cancer diagnosis. This is rare.
+Unspecific
+: While it outlines how to categorize test results, it doesn’t give additional information about the suspicious finding(s).
+How is cancer classified in BI-RADS?
+Cancer isn’t classified or
+staged
+in BI-RADS. But the different categories in BI-RADS indicate a likelihood of cancer being present. For example, a BI-RADS 3 means the finding wasn’t suspicious, but your provider should schedule a follow-up in six to 12 months.
+A BI-RADS 6 is the only exception because it means there is a known malignancy (cancer). This result typically only comes after a breast biopsy.
+Does BI-RADS 4 mean cancer?
+No, it doesn’t mean you have cancer. A category 4 means your imaging results are abnormal and a biopsy is recommended. Your chance of having breast cancer ranges from 2% to 95%.
+A note from Cleveland Clinic
+An abnormal test result can leave your head spinning. It can also leave you with tons of questions, especially when it’s hard to interpret your test results. BI-RADS can help with this because it standardizes the terms on your breast imaging report. It provides a clearer way to understand what your radiologist determines about your test results. If you have any type of breast imaging test, ask your healthcare provider about your BI-RADS score and what it means based on your situation.
+Advertisement
+Care at Cleveland Clinic
+A breast cancer diagnosis can turn your world upside down. At Cleveland Clinic, we offer expertise, compassion and personalized treatment plans.
+Breast Cancer Treatment
+Find a Doctor and Specialists
+Make an Appointment
+Medically Reviewed
+Last reviewed on 10/23/2024.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointment Center
+216.445.7050
+Appointments & Locations

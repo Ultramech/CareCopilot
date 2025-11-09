@@ -1,0 +1,148 @@
+Early-onset isolated dystonia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Early-onset isolated dystonia
+URL of this page: https://medlineplus.gov/genetics/condition/early-onset-isolated-dystonia/
+Early-onset isolated dystonia
+Description
+Early-onset isolated dystonia is one of many forms of dystonia, which is a group of conditions characterized by involuntary tensing of the muscles (muscle contractions), twisting of specific body parts such as an arm or a leg, rhythmic shaking (tremors), and other uncontrolled movements. An isolated dystonia is one that occurs without other abnormal movements or other neurological symptoms, such as seizures, a loss of intellectual function, or developmental or intellectual delay. Early-onset isolated dystonia does not affect a person's intelligence.
+The signs and symptoms of early-onset isolated dystonia tend to occur in mid-childhood or adolescence. Abnormal muscle spasms in an arm or a leg are usually the first sign. These unusual movements initially occur while a person is doing a specific action, such as writing or walking. In some affected people, dystonia later spreads to other parts of the body and the movements may become persistent and present when at rest and not doing an activity. The abnormal movements persist throughout life, but they do not usually cause pain.
+The signs and symptoms of early-onset isolated dystonia vary from person to person, even among affected members of the same family. The mildest cases affect only a single part of the body, causing isolated problems such as abnormal posture and spasms of the hand while attempting to write (writer's cramp). Severe cases involve abnormal movements affecting many parts of the body.
+Frequency
+Early-onset isolated dystonia is among the most common forms of childhood dystonia. This disorder occurs most frequently in people of Ashkenazi (central and eastern European) Jewish heritage, affecting 1 in 3,000 to 9,000 people in this population. The condition is less common among people with other backgrounds. It is estimated to affect 1 in 10,000 to 30,000 non-Jewish people worldwide.
+Causes
+A particular variant (also called a mutation) in the
+TOR1A
+gene (also known as
+DYT1
+) is responsible for most cases of early-onset isolated dystonia. Variants in other genes cause other forms of dystonia, such as
+dystonia 6.
+The
+TOR1A
+gene provides instructions for making a protein called torsinA. Although little is known about its function, this protein may help process and transport other proteins within cells. It appears to be critical for the normal development and function of nerve cells in the brain.
+A variant in the
+TOR1A
+gene alters the structure of torsinA. The altered protein's effect on the function of nerve cells in the brain is unclear. People with early-onset isolated dystonia do not have a loss of nerve cells or obvious changes in the structure of the brain that would explain the abnormal muscle contractions. Instead, the altered torsinA protein may have subtle effects on the
+connections between nerve cells
+and likely disrupts chemical signaling between
+nerve cells that control movement
+. Researchers are working to determine how a change in this protein leads to the characteristic features of this disorder.
+Learn more about the gene associated with Early-onset isolated dystonia
+TOR1A
+Inheritance
+Variants in the
+TOR1A
+gene are inherited in an
+autosomal dominant pattern
+, which means one of the two copies of the gene is altered in each cell. Many people who have a variant in this gene are not affected by the disorder and may never know they have the altered gene. Only 30 to 40 percent of people who inherit a
+TOR1A
+gene variant will ever develop signs and symptoms of early-onset isolated dystonia.
+The vast majority of those who have been diagnosed with early-onset isolated dystonia have inherited a
+TOR1A
+variant from one parent. The parent may or may not have signs and symptoms of the condition, and other family members may or may not be affected.
+In very rare cases, early-onset isolated dystonia is inherited in an
+autosomal recessive pattern
+, which means that both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Dystonia musculorum deformans 1
+DYT1
+Early-onset generalized torsion dystonia
+Early-onset primary dystonia
+Oppenheim dystonia
+Oppenheim's dystonia
+Primary torsion dystonia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Early-onset generalized limb-onset dystonia
+Genetic and Rare Diseases Information Center
+Early-onset generalized limb-onset dystonia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+DYSTONIA 1, TORSION, AUTOSOMAL DOMINANT; DYT1
+Scientific Articles on PubMed
+PubMed
+References
+Albanese A, Bhatia K, Bressman SB, Delong MR, Fahn S, Fung VS, Hallett M,
+Jankovic J, Jinnah HA, Klein C, Lang AE, Mink JW, Teller JK. Phenomenology and
+classification of dystonia: a consensus update. Mov Disord. 2013 Jun
+15;28(7):863-73. doi: 10.1002/mds.25475. Epub 2013 May 6.
+Citation on PubMed
+Artusi CA, Dwivedi A, Romagnolo A, Bortolani S, Marsili L, Imbalzano G,
+Sturchio A, Keeling EG, Zibetti M, Contarino MF, Fasano A, Tagliati M, Okun MS,
+Espay AJ, Lopiano L, Merola A. Differential response to pallidal deep brain
+stimulation among monogenic dystonias: systematic review and meta-analysis. J
+Neurol Neurosurg Psychiatry. 2020 Apr;91(4):426-433. doi:
+10.1136/jnnp-2019-322169. Epub 2020 Feb 20.
+Citation on PubMed
+Balint B, Mencacci NE, Valente EM, Pisani A, Rothwell J, Jankovic J, Vidailhet
+M, Bhatia KP. Dystonia. Nat Rev Dis Primers. 2018 Sep 20;4(1):25. doi:
+10.1038/s41572-018-0023-6.
+Citation on PubMed
+Bragg DC, Armata IA, Nery FC, Breakefield XO, Sharma N. Molecular pathways in
+dystonia. Neurobiol Dis. 2011 May;42(2):136-47. doi: 10.1016/j.nbd.2010.11.015.
+Epub 2010 Dec 4.
+Citation on PubMed
+Bragg DC, Slater DJ, Breakefield XO. TorsinA and early-onset torsion dystonia.
+Adv Neurol. 2004;94:87-93. No abstract available.
+Citation on PubMed
+Breakefield XO, Blood AJ, Li Y, Hallett M, Hanson PI, Standaert DG. The
+pathophysiological basis of dystonias. Nat Rev Neurosci. 2008 Mar;9(3):222-34.
+doi: 10.1038/nrn2337.
+Citation on PubMed
+Bressman SB. Dystonia genotypes, phenotypes, and classification. Adv Neurol.
+2004;94:101-7. No abstract available.
+Citation on PubMed
+Fasano A, Nardocci N, Elia AE, Zorzi G, Bentivoglio AR, Albanese A. Non-DYT1
+early-onset primary torsion dystonia: comparison with DYT1 phenotype and review
+of the literature. Mov Disord. 2006 Sep;21(9):1411-8. doi: 10.1002/mds.21000.
+Citation on PubMed
+Ozelius L, Lubarr N. DYT1 Early-Onset Isolated Dystonia. 1999 Apr 14 [updated
+2016 Nov 17]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1492/
+Citation on PubMed
+Ozelius LJ, Bressman SB. Genetic and clinical features of primary torsion
+dystonia. Neurobiol Dis. 2011 May;42(2):127-35. doi: 10.1016/j.nbd.2010.12.012.
+Epub 2010 Dec 17.
+Citation on PubMed
+Related Health Topics
+Dystonia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Movement - uncontrolled or slow
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

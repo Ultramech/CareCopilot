@@ -1,0 +1,143 @@
+Beare-Stevenson cutis gyrata syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Beare-Stevenson cutis gyrata syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/beare-stevenson-cutis-gyrata-syndrome/
+Beare-Stevenson cutis gyrata syndrome
+Description
+Beare-Stevenson cutis gyrata syndrome is a genetic disorder that typically features skin abnormalities and the premature fusion of certain bones of the skull (craniosynostosis). This early fusion prevents the skull from growing normally and affects the shape of the head and face.
+Many of the characteristic facial features of Beare-Stevenson cutis gyrata syndrome result from the premature fusion of the skull bones. The head is unable to grow normally, which leads to a
+cloverleaf-shaped skull
+,
+wide-set
+and
+bulging eyes
+, ear abnormalities, and an underdeveloped upper jaw. Early fusion of the skull bones also affects the growth of the brain, causing delayed development and intellectual disability.
+A skin abnormality called cutis gyrata is also characteristic of this disorder. The skin has a furrowed and wrinkled appearance, particularly on the face, near the ears, and on the palms and soles of the feet. Additionally, thick, dark, velvety areas of skin (acanthosis nigricans) are sometimes found on the hands and feet and in the genital region.
+Additional signs and symptoms of Beare-Stevenson cutis gyrata syndrome can include a blockage of the nasal passages (choanal atresia), a malformation of the airways (tracheal cartilaginous sleeve), overgrowth of the umbilical stump (tissue that normally falls off shortly after birth, leaving the belly button), and abnormalities of the genitalia and anus. The medical complications associated with this condition are often life-threatening in infancy or early childhood.
+Frequency
+Beare-Stevenson cutis gyrata syndrome is a rare genetic disorder; its incidence is unknown. Approximately 25 people with this condition have been reported worldwide.
+Causes
+Mutations in the
+FGFR2
+gene cause Beare-Stevenson cutis gyrata syndrome. This gene produces a protein called fibroblast growth factor receptor 2, which plays an important role in signaling a cell to respond to its environment, perhaps by dividing or maturing. A mutation in the
+FGFR2
+gene alters the protein and promotes prolonged signaling, which is thought to interfere with skeletal and skin development.
+Some individuals with Beare-Stevenson cutis gyrata syndrome do not have identified mutations in the
+FGFR2
+gene. In these cases, the cause of the condition is unknown.
+Learn more about the gene associated with Beare-Stevenson cutis gyrata syndrome
+FGFR2
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. All reported cases have resulted from new mutations in the gene, and occurred in people with no history of the disorder in their family.
+Other Names for This Condition
+Cutis gyrata syndrome of Beare and Stevenson
+Cutis gyrata syndrome of Beare-Stevenson
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Beare-Stevenson cutis gyrata syndrome
+Genetic and Rare Diseases Information Center
+Cutis gyrata-acanthosis nigricans-craniosynostosis syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+BEARE-STEVENSON CUTIS GYRATA SYNDROME; BSTVS
+Scientific Articles on PubMed
+PubMed
+References
+Chen L, Deng CX. Roles of FGF signaling in skeletal development and human
+genetic diseases. Front Biosci. 2005 May 1;10:1961-76. doi: 10.2741/1671.
+Citation on PubMed
+Eun SH, Ha KS, Je BK, Lee ES, Choi BM, Lee JH, Eun BL, Yoo KH. The first
+Korean case of Beare-Stevenson syndrome with a Tyr375Cys mutation in the
+fibroblast growth factor receptor 2 gene. J Korean Med Sci. 2007 Apr;22(2):352-6.
+doi: 10.3346/jkms.2007.22.2.352.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hall BD, Cadle RG, Golabi M, Morris CA, Cohen MM Jr. Beare-Stevenson cutis
+gyrata syndrome. Am J Med Genet. 1992 Sep 1;44(1):82-9. doi:
+10.1002/ajmg.1320440120.
+Citation on PubMed
+Izakovic J, Leitner S, Schachner LA. What syndrome is this? Beare-Stevenson
+cutis gyrata syndrome. Pediatr Dermatol. 2003 Jul-Aug;20(4):358-60. doi:
+10.1046/j.1525-1470.2003.20419.x. No abstract available.
+Citation on PubMed
+McGaughran J, Sinnott S, Susman R, Buckley MF, Elakis G, Cox T, Roscioli T. A
+case of Beare-Stevenson syndrome with a broad spectrum of features and a review
+of the FGFR2 Y375C mutation phenotype. Clin Dysmorphol. 2006 Apr;15(2):89-93.
+doi: 10.1097/01.mcd.0000194407.92676.9d.
+Citation on PubMed
+Przylepa KA, Paznekas W, Zhang M, Golabi M, Bias W, Bamshad MJ, Carey JC, Hall
+BD, Stevenson R, Orlow S, Cohen MM Jr, Jabs EW. Fibroblast growth factor receptor
+2 mutations in Beare-Stevenson cutis gyrata syndrome. Nat Genet. 1996
+Aug;13(4):492-4. doi: 10.1038/ng0896-492.
+Citation on PubMed
+Ron N, Leung S, Carney E, Gerber A, David KL. A Case of Beare-Stevenson
+Syndrome with Unusual Manifestations. Am J Case Rep. 2016 Apr 15;17:254-8. doi:
+10.12659/ajcr.897177.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vargas RA, Maegawa GH, Taucher SC, Leite JC, Sanz P, Cifuentes J, Parra M,
+Munoz H, Maranduba CM, Passos-Bueno MR. Beare-Stevenson syndrome: Two South
+American patients with FGFR2 analysis. Am J Med Genet A. 2003 Aug
+15;121A(1):41-6. doi: 10.1002/ajmg.a.20101.
+Citation on PubMed
+Wang TJ, Huang CB, Tsai FJ, Wu JY, Lai RB, Hsiao M. Mutation in the FGFR2 gene
+in a Taiwanese patient with Beare-Stevenson cutis gyrata syndrome. Clin Genet.
+2002 Mar;61(3):218-21. doi: 10.1034/j.1399-0004.2002.610309.x.
+Citation on PubMed
+Wenger T, Miller D, Evans K. FGFR Craniosynostosis Syndromes
+Overview. 1998 Oct 20 [updated 2020 Apr 30]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1455/
+Citation on PubMed
+Wenger TL, Bhoj EJ, Wetmore RF, Mennuti MT, Bartlett SP, Mollen TJ,
+McDonald-McGinn DM, Zackai EH. Beare-Stevenson syndrome: two new patients,
+including a novel finding of tracheal cartilaginous sleeve. Am J Med Genet A.
+2015 Apr;167A(4):852-7. doi: 10.1002/ajmg.a.36985. Epub 2015 Feb 23.
+Citation on PubMed
+Related Health Topics
+Craniofacial Abnormalities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Acanthosis nigricans
+Craniosynostosis
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

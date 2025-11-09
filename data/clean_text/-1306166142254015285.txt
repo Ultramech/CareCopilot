@@ -1,0 +1,140 @@
+Cushing disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cushing disease
+URL of this page: https://medlineplus.gov/genetics/condition/cushing-disease/
+Cushing disease
+Description
+Cushing disease is caused by elevated levels of a hormone called
+cortisol
+, which leads to a wide variety of signs and symptoms. This condition usually occurs in adults between the ages of 20 and 50; however, children may also be affected. The first sign of this condition is usually weight gain around the trunk and in the face. Affected individuals may get stretch marks (striae) on their thighs and abdomen and bruise easily. Individuals with Cushing disease can develop a hump on their upper back caused by abnormal deposits of fat. People with this condition can have muscle weakness, severe tiredness, and progressively thin and brittle bones that are prone to fracture (
+osteoporosis
+). They also have a weakened immune system and are at an increased risk of infections. Cushing disease can cause mood disorders such as anxiety, irritability, and
+depression
+. This condition can also affect a person's concentration and memory. People with Cushing disease have an increased chance of developing high blood pressure (
+hypertension
+) and diabetes. Women with Cushing disease may experience irregular menstruation and have excessive hair growth (hirsutism) on their face, abdomen, and legs. Men with Cushing disease may have erectile dysfunction. Children with Cushing disease typically experience slow growth.
+Frequency
+Cushing disease is estimated to occur in 10 to 15 per million people worldwide. For reasons that are unclear, Cushing disease affects females more often than males.
+Causes
+The genetic cause of Cushing disease is often unknown. In only a few instances, mutations in certain genes have been found to lead to Cushing disease. These genetic changes are called somatic mutations. They are acquired during a person's lifetime and are present only in certain cells. The genes involved often play a role in regulating the activity of hormones.
+Cushing disease is caused by an increase in the hormone
+cortisol
+, which helps maintain blood sugar (glucose) levels, protects the body from stress, and stops (suppresses) inflammation. Cortisol is produced by the
+adrenal glands
+, which are small glands located at the top of each kidney. The production of cortisol is triggered by the release of a hormone called adrenocorticotropic hormone (ACTH) from
+the pituitary gland
+, located at the base of the brain. The adrenal and pituitary glands are part of the hormone-producing (
+endocrine
+) system in the body that regulates development, metabolism, mood, and many other processes.
+Cushing disease occurs when a noncancerous (benign) tumor called an adenoma forms in the pituitary gland, causing excessive release of ACTH and, subsequently, elevated production of cortisol. Prolonged exposure to increased cortisol levels results in the signs and symptoms of Cushing disease: changes to the amount and distribution of body fat, decreased muscle mass leading to weakness and reduced stamina, thinning skin causing stretch marks and easy bruising, thinning of the bones resulting in osteoporosis, increased blood pressure, impaired regulation of blood glucose leading to diabetes, a weakened immune system, neurological problems, irregular menstruation in women, and slow growth in children. The overactive adrenal glands that produce cortisol may also produce increased amounts of male sex hormones (androgens), leading to hirsutism in females. The effect of the excess androgens on males is unclear.
+Most often, Cushing disease occurs alone, but rarely, it appears as a symptom of genetic syndromes that have pituitary adenomas as a feature, such as
+multiple endocrine neoplasia
+type 1 (MEN1) or
+familial isolated pituitary adenoma
+(FIPA).
+Cushing disease is a subset of a larger condition called Cushing syndrome, which results when cortisol levels are increased by one of a number of possible causes. Sometimes adenomas that occur in organs or tissues other than the pituitary gland, such as
+adrenal gland adenomas
+, can also increase cortisol production, causing Cushing syndrome. Certain prescription drugs can result in an increase in cortisol production and lead to Cushing syndrome. Sometimes prolonged periods of stress or depression can cause an increase in cortisol levels; when this occurs, the condition is known as pseudo-Cushing syndrome. Not accounting for increases in cortisol due to prescription drugs, pituitary adenomas cause the vast majority of Cushing syndrome in adults and children.
+Inheritance
+Most cases of Cushing disease are sporadic, which means they occur in people with no history of the disorder in their family. Rarely, the condition has been reported to run in families; however, it does not have a clear pattern of inheritance.
+The various syndromes that have Cushing disease as a feature can have different inheritance patterns. Most of these disorders are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Hypercortisolism
+Pituitary ACTH hypersecretion
+Pituitary Cushing syndrome
+Pituitary-dependant Cushing syndrome
+Pituitary-dependant hypercortisolism
+Pituitary-dependant hypercortisolism disorder
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pituitary dependent hypercortisolism
+Genetic and Rare Diseases Information Center
+Cushing syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PITUITARY ADENOMA 4, ACTH-SECRETING; PITA4
+Scientific Articles on PubMed
+PubMed
+References
+Drouin J, Bilodeau S, Vallette S. Of old and new diseases: genetics of
+pituitary ACTH excess (Cushing) and deficiency. Clin Genet. 2007
+Sep;72(3):175-82. doi: 10.1111/j.1399-0004.2007.00877.x.
+Citation on PubMed
+Dworakowska D, Grossman AB. The molecular pathogenesis of corticotroph
+tumours. Eur J Clin Invest. 2012 Jun;42(6):665-76. doi:
+10.1111/j.1365-2362.2011.02621.x. Epub 2011 Nov 19.
+Citation on PubMed
+Guaraldi F, Salvatori R. Cushing syndrome: maybe not so uncommon of an
+endocrine disease. J Am Board Fam Med. 2012 Mar-Apr;25(2):199-208. doi:
+10.3122/jabfm.2012.02.110227.
+Citation on PubMed
+Guignat L, Bertherat J. The diagnosis of Cushing's syndrome: an Endocrine
+Society Clinical Practice Guideline: commentary from a European perspective. Eur
+J Endocrinol. 2010 Jul;163(1):9-13. doi: 10.1530/EJE-09-0627. Epub 2010 Apr 7.
+Citation on PubMed
+Pluta RM, Burke AE, Golub RM. JAMA patient page. Cushing syndrome and Cushing
+disease. JAMA. 2011 Dec 28;306(24):2742. doi: 10.1001/jama.2011.1694. No abstract
+available.
+Citation on PubMed
+Stratakis CA, Tichomirowa MA, Boikos S, Azevedo MF, Lodish M, Martari M, Verma
+S, Daly AF, Raygada M, Keil MF, Papademetriou J, Drori-Herishanu L, Horvath A,
+Tsang KM, Nesterova M, Franklin S, Vanbellinghen JF, Bours V, Salvatori R,
+Beckers A. The role of germline AIP, MEN1, PRKAR1A, CDKN1B and CDKN2C mutations
+in causing pituitary adenomas in a large cohort of children, adolescents, and
+patients with genetic syndromes. Clin Genet. 2010 Nov;78(5):457-63. doi:
+10.1111/j.1399-0004.2010.01406.x.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yaneva M, Vandeva S, Zacharieva S, Daly AF, Beckers A. Genetics of Cushing's
+syndrome. Neuroendocrinology. 2010;92 Suppl 1:6-10. doi: 10.1159/000314215. Epub
+2010 Sep 10.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cushing's Syndrome
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cortisol blood test
+Cushing disease
+Genetics
+Related Medical Tests
+Adrenocorticotropic Hormone (ACTH)
+Cortisol Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

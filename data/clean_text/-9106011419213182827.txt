@@ -1,0 +1,140 @@
+Subcortical band heterotopia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Subcortical band heterotopia
+URL of this page: https://medlineplus.gov/genetics/condition/subcortical-band-heterotopia/
+Subcortical band heterotopia
+Description
+Subcortical band heterotopia is a condition in which nerve cells (neurons) do not move (migrate) to their proper locations in the fetal brain during early development. (Heterotopia means "out of place.") Normally, the neurons that make up the outer surface of the brain (cerebral cortex) are distributed in a well-organized and multi-layered way. In people with subcortical band heterotopia, some neurons that should be part of the cerebral cortex do not reach it. These neurons stop their migration process in areas of the brain where they are not supposed to be and form band-like clusters of tissue. Since these bands are located beneath the cerebral cortex, they are said to be subcortical. In most cases, the bands are symmetric, which means they occur in the same places on the right and left sides of the brain.
+The abnormal brain development causes neurological problems in people with subcortical band heterotopia. The signs and symptoms of the condition depend on the size of the bands and the lack of development of the cerebral cortex. The signs and symptoms can vary from severe intellectual disability and seizures that begin early in life and affect both sides of the brain (
+generalized seizures
+) to normal intelligence with seizures occurring later in life and affecting only one side of the brain (focal seizures). Some affected individuals also have weak muscle tone (hypotonia), loss of fine motor skills such as using utensils, or behavioral problems. Subcortical band heterotopia is typically found when brain imaging is done following the onset of seizures, usually in adolescence or early adulthood.
+Frequency
+More than 200 cases of subcortical band heterotopia have been reported in the scientific literature. Most affected individuals are female.
+Causes
+Mutations in the
+DCX
+or
+PAFAH1B1
+gene cause subcortical band heterotopia. Both genes provide instructions for making proteins that are involved in the movement of neurons to their proper locations in the developing brain, a process called neuronal migration. Neuronal migration is essential for normal brain development and function.
+Most individuals with subcortical band heterotopia have
+DCX
+gene mutations. These mutations impair the protein's function or alter the protein's structure or stability.
+PAFAH1B1
+gene mutations are less common. Mutations in this gene reduce the protein's function.
+Altered structure or function of the proteins produced by the
+DCX
+or
+PAFAH1B1
+gene impairs important interactions that are needed for neuronal migration. Without proper neuronal migration, neurons in the developing brain can be misplaced, forming abnormal bands of tissue beneath the cerebral cortex.
+Learn more about the genes associated with Subcortical band heterotopia
+DCX
+PAFAH1B1
+Inheritance
+The inheritance pattern of subcortical band heterotopia depends on its genetic cause.
+When subcortical band heterotopia is caused by mutations in the
+DCX
+gene, it is inherited in an X-linked pattern. The
+DCX
+gene is located on the X chromosome, which is one of the two sex chromosomes. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell can lead to the condition, sometimes with less severe symptoms than affected males. In males, who have only one X chromosome, a mutation in the only copy of the gene in each cell usually causes a more severe condition called
+isolated lissencephaly sequence
+(ILS). Most males with subcortical band heterotopia have a
+DCX
+gene mutation that is not inherited and is present in only some of the body's cells, a situation known as mosaicism. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+When subcortical band heterotopia is caused by a
+PAFAH1B1
+gene mutation, it is generally not inherited but arises from a mutation in the body's cells that occurs after conception, which leads to mosaicism. This alteration is called a somatic mutation.
+PAFAH1B1
+gene mutations that occur in all of the body's cells (germline mutations) usually cause ILS.
+Other Names for This Condition
+DC syndrome
+Double cortex syndrome
+Heterotopia, subcortical band
+SBH
+SCLH
+Subcortical laminar heterotopia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Subcortical band heterotopia
+Genetic and Rare Diseases Information Center
+Subcortical band heterotopia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LISSENCEPHALY, X-LINKED, 1; LISX1
+LISSENCEPHALY 1; LIS1
+Scientific Articles on PubMed
+PubMed
+References
+Bahi-Buisson N, Souville I, Fourniol FJ, Toussaint A, Moores CA, Houdusse A,
+Lemaitre JY, Poirier K, Khalaf-Nazzal R, Hully M, Leger PL, Elie C, Boddaert N,
+Beldjord C, Chelly J, Francis F; SBH-LIS European Consortium. New insights into
+genotype-phenotype correlations for the doublecortin-related lissencephaly
+spectrum. Brain. 2013 Jan;136(Pt 1):223-44. doi: 10.1093/brain/aws323.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fry AE, Cushion TD, Pilz DT. The genetics of lissencephaly. Am J Med Genet C
+Semin Med Genet. 2014 Jun;166C(2):198-210. doi: 10.1002/ajmg.c.31402. Epub 2014
+May 23.
+Citation on PubMed
+Gonzalez-Moron D, Vishnopolska S, Consalvo D, Medina N, Marti M, Cordoba M,
+Vazquez-Dusefante C, Claverie S, Rodriguez-Quiroga SA, Vega P, Silva W, Kochen S,
+Kauffman MA. Germline and somatic mutations in cortical malformations: Molecular
+defects in Argentinean patients with neuronal migration disorders. PLoS One. 2017
+Sep 27;12(9):e0185103. doi: 10.1371/journal.pone.0185103. eCollection 2017.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ito K, Nakata Y, Matsuda H, Sugai K, Watanabe M, Kamiya K, Kimura Y, Shigemoto
+Y, Okazaki M, Sasaki M, Sato N. Evaluation of FDG-PET and ECD-SPECT in patients
+with subcortical band heterotopia. Brain Dev. 2014 Aug;36(7):578-84. doi:
+10.1016/j.braindev.2013.07.017. Epub 2013 Aug 16.
+Citation on PubMed
+Parrini E, Conti V, Dobyns WB, Guerrini R. Genetic Basis of Brain
+Malformations. Mol Syndromol. 2016 Sep;7(4):220-233. doi: 10.1159/000448639. Epub
+2016 Aug 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

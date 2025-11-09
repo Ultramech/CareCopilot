@@ -1,0 +1,127 @@
+Lyme disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Lyme disease
+URL of this page: https://medlineplus.gov/genetics/condition/lyme-disease/
+Lyme disease
+Description
+Lyme disease is an infectious disease caused by
+Borrelia burgdorferi
+bacteria. The bacteria are transferred to humans by tick bite, specifically by blacklegged ticks (commonly known as deer ticks). The condition is named for the location in which it was first described, the town of Lyme, Connecticut.
+If not treated with antibiotics, Lyme disease follows three stages: early localized, early disseminated, and late disseminated infection. A small percentage of individuals have symptoms that persist months or years after treatment, which is called post-treatment Lyme disease syndrome.
+A characteristic feature of Lyme disease, and the key feature of early localized infection, is a slowly expanding red rash on the skin (called erythema migrans) at the site of the tick bite; the rash is often bull's-eye shaped. Flu-like symptoms and enlarged lymph nodes (lymphadenopathy) are also early signs of infection. Most people who are treated at this stage never develop further symptoms.
+The early disseminated stage of Lyme disease occurs as the bacteria is carried throughout the body in the bloodstream. This stage occurs a few weeks after the tick bite. Signs and symptoms can include additional rashes on other parts of the body, flu-like symptoms, and lymphadenopathy. Some affected individuals develop neurologic problems (referred to as neuroborreliosis), such as paralyzed muscles in the face (facial palsy); pain, numbness, or weakness in the hands or feet; difficulty concentrating; or memory problems. Rarely, the heart is affected (Lyme carditis), causing a sensation of fluttering or pounding in the chest (palpitations) or an irregular heartbeat.
+The late disseminated stage of Lyme disease can occur months to years after the tick bite. The most common feature of this stage, Lyme arthritis, is characterized by episodes of joint pain and swelling, usually affecting the knees. In rare cases, the late disseminated stage also involves neurological problems.
+Individuals with post-treatment Lyme disease syndrome report ongoing exhaustion (fatigue), muscle and joint achiness, headache, or difficulty concentrating even after treatment with antibiotics, when there is no evidence of the bacteria in the body. Very rarely, individuals have joint pain and swelling for months or years after successful antibiotic treatment. This complication is called antibiotic-refractory Lyme arthritis.
+Frequency
+Lyme disease is the most common tick-borne illness in the United States. An estimated 300,000 new cases occur every year. Lyme disease occurs in areas in which blacklegged ticks are found, primarily the northeastern states (from Virginia to Maine), the upper Midwest (Wisconsin, Minnesota, and Michigan), and parts of California and Oregon. In these regions of the United States, the incidence of Lyme disease is 10 to 100 cases per 100,000 people each year.
+Lyme disease is also common in Europe, China, and Japan.
+Causes
+Lyme disease is caused by infection with bacteria rather than by genetic changes. The risk of developing Lyme disease is influenced by a variety of lifestyle and environmental factors that reflect how likely a person is to get bitten by an infected tick, such as where a person lives, how much time is spent outdoors, and the time of year. While there is no evidence that genetic factors play a role in susceptibility to Lyme disease, such factors may affect the severity of the disease, particularly whether antibiotic-refractory Lyme arthritis develops.
+The signs and symptoms of Lyme disease result from the body's immune response to the bacteria. When the body recognizes foreign invaders, such as bacteria, it stimulates inflammation to help fight the infection. This inflammation causes the skin irritation; flu-like symptoms; and neurological, cardiac, and joint problems that characterize Lyme disease.
+Certain genes that help mediate the body's immune response have been associated with the development of antibiotic-refractory Lyme arthritis. Particular variants in these genes are found more often in people with this complication than in those who do not develop it.
+Some of the genes thought to be associated with the development of antibiotic-refractory Lyme arthritis provide instructions for making proteins called Toll-like receptors. As one of the first lines of defense against infection, Toll-like receptors recognize patterns that are common to many foreign invaders, rather than recognizing a specific invader, and stimulate a quick immune response that triggers inflammation. Some variants of certain Toll-like receptor genes are thought to overstimulate the body's immune response to the Lyme disease bacteria, contributing to the joint inflammation of antibiotic-resistant Lyme arthritis.
+Other genes thought to be associated with antibiotic-resistant Lyme arthritis belong to a gene family called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders. Each HLA gene has many different variations, allowing each person's immune system to react to a wide range of proteins. The proteins produced from HLA genes attach to protein fragments and display them to the immune system. If the immune system recognizes the fragment as foreign or abnormal, it triggers an immune response. Some evidence suggests that certain variations of HLA genes contribute to an inappropriate immune response that causes the body to react to one of its own normal proteins. The resulting inflammation may contribute to development of antibiotic-refractory Lyme arthritis.
+Learn more about the gene associated with Lyme disease
+HLA-DRB1
+Additional Information from NCBI Gene:
+TLR1
+Inheritance
+Lyme disease cannot be inherited. The risk of certain complications of the condition may be influenced by inherited genetic factors, but the inheritance pattern is unknown.
+Other Names for This Condition
+B. burgdorferi infection
+Borrelia burgdorferi infection
+Borreliosis, Lyme
+Infection by Borrelia burgdorferi
+Infection due to Borrelia burgdorferi sensu lato
+Lyme borreliosis
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Scientific Articles on PubMed
+PubMed
+References
+Bush LM, Vazquez-Pertejo MT. Tick borne illness-Lyme disease. Dis Mon. 2018
+May;64(5):195-212. doi: 10.1016/j.disamonth.2018.01.007.
+Citation on PubMed
+Drouin EE, Seward RJ, Strle K, McHugh G, Katchar K, Londono D, Yao C, Costello
+CE, Steere AC. A novel human autoantigen, endothelial cell growth factor, is a
+target of T and B cell responses in patients with Lyme disease. Arthritis Rheum.
+2013 Jan;65(1):186-96. doi: 10.1002/art.37732.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rahman S, Shering M, Ogden NH, Lindsay R, Badawi A. Toll-like receptor cascade
+and gene polymorphism in host-pathogen interaction in Lyme disease. J Inflamm
+Res. 2016 May 31;9:91-102. doi: 10.2147/JIR.S104790. eCollection 2016.
+Citation on PubMed
+or
+Free article on PubMed Central
+Steere AC, Dwyer E, Winchester R. Association of chronic Lyme arthritis with
+HLA-DR4 and HLA-DR2 alleles. N Engl J Med. 1990 Jul 26;323(4):219-23. doi:
+10.1056/NEJM199007263230402.
+Citation on PubMed
+Steere AC, Klitz W, Drouin EE, Falk BA, Kwok WW, Nepom GT, Baxter-Lowe LA.
+Antibiotic-refractory Lyme arthritis is associated with HLA-DR molecules that
+bind a Borrelia burgdorferi peptide. J Exp Med. 2006 Apr 17;203(4):961-71. doi:
+10.1084/jem.20052471. Epub 2006 Apr 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Steere AC, Strle F, Wormser GP, Hu LT, Branda JA, Hovius JW, Li X, Mead PS.
+Lyme borreliosis. Nat Rev Dis Primers. 2016 Dec 15;2:16090. doi:
+10.1038/nrdp.2016.90.
+Citation on PubMed
+or
+Free article on PubMed Central
+Strle K, Shin JJ, Glickstein LJ, Steere AC. Association of a Toll-like
+receptor 1 polymorphism with heightened Th1 inflammatory responses and
+antibiotic-refractory Lyme arthritis. Arthritis Rheum. 2012 May;64(5):1497-507.
+doi: 10.1002/art.34383.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Lyme Disease
+MEDICAL ENCYCLOPEDIA
+Genetics
+Lyme disease
+Lyme disease blood test
+Related Medical Tests
+Lyme Disease Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

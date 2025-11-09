@@ -1,0 +1,140 @@
+Tibial muscular dystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Tibial muscular dystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/tibial-muscular-dystrophy/
+Tibial muscular dystrophy
+Description
+Tibial muscular dystrophy is a condition that affects the muscles at the front of the lower leg. The signs and symptoms of this condition typically appear after age 35. The first sign is usually weakness and wasting (atrophy) of a muscle in the lower leg called the tibialis anterior. This muscle helps control up-and-down movement of the foot. Weakness in the tibialis anterior muscle makes it difficult or impossible to walk on the heels, but it usually does not interfere significantly with regular walking.
+Muscle weakness worsens very slowly in people with tibial muscular dystrophy. Ten to 20 years after the onset of symptoms, weakness may develop in muscles that help extend the toes (long-toe extensors). Weakness in these muscles makes it difficult to lift the toes while walking, a condition known as foot drop. Later in life, about one third of people with tibial muscular dystrophy experience mild to moderate difficulty with walking because of weakness in other leg muscles. However, most affected individuals remain able to walk throughout their lives.
+A small percentage of people with tibial muscular dystrophy have a somewhat different pattern of signs and symptoms than those described above. Starting in childhood, these individuals may have generalized muscle weakness, weakness and atrophy of the thigh muscles (quadriceps) or other muscles in the legs, and
+weakness affecting muscles in the arms
+.
+Frequency
+Tibial muscular dystrophy is most common in Finland, where it is estimated to affect at least 10 per 100,000 people. This condition has also been found in people of Finnish descent living in other countries.
+Additionally, tibial muscular dystrophy has been identified in several European families without Finnish ancestry.
+Causes
+Mutations in the
+TTN
+gene cause tibial muscular dystrophy. This gene provides instructions for making a protein called titin. Titin plays an important role in muscles the body uses for movement (
+skeletal muscles
+) and in heart (cardiac) muscle.
+Within muscle cells, titin is an essential component of structures called
+sarcomeres
+. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract. Titin has several functions within sarcomeres. One of its most important jobs is to provide structure, flexibility, and stability to these cell structures. Titin also plays a role in chemical signaling and in assembling new sarcomeres.
+Mutations in the
+TTN
+gene alter the structure and function of titin. Researchers suspect that these changes may disrupt titin's interactions with other proteins within sarcomeres. Mutations may also interfere with the protein's role in chemical signaling. The altered titin protein disrupts normal muscle contraction, which causes muscles to weaken and waste away over time. It is unclear why these effects are usually limited to muscles in the lower legs.
+Learn more about the gene associated with Tibial muscular dystrophy
+TTN
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Tardive tibial muscular dystrophy
+TMD
+Udd distal myopathy
+Udd myopathy
+Udd-Markesbery muscular dystrophy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Tibial muscular dystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+TIBIAL MUSCULAR DYSTROPHY, TARDIVE; TMD
+Scientific Articles on PubMed
+PubMed
+References
+de Seze J, Udd B, Haravuori H, Sablonniere B, Maurage CA, Hurtevent JF, Boutry
+N, Stojkovic T, Schraen S, Petit H, Vermersch P. The first European family with
+tibial muscular dystrophy outside the Finnish population. Neurology. 1998
+Dec;51(6):1746-8. doi: 10.1212/wnl.51.6.1746.
+Citation on PubMed
+Hackman JP, Vihola AK, Udd AB. The role of titin in muscular disorders. Ann
+Med. 2003;35(6):434-41. doi: 10.1080/07853890310012797.
+Citation on PubMed
+Hackman P, Marchand S, Sarparanta J, Vihola A, Penisson-Besnier I, Eymard B,
+Pardal-Fernandez JM, Hammouda el-H, Richard I, Illa I, Udd B. Truncating
+mutations in C-terminal titin may cause more severe tibial muscular dystrophy
+(TMD). Neuromuscul Disord. 2008 Dec;18(12):922-8. doi: 10.1016/j.nmd.2008.07.010.
+Epub 2008 Oct 22.
+Citation on PubMed
+Hackman P, Vihola A, Haravuori H, Marchand S, Sarparanta J, De Seze J, Labeit
+S, Witt C, Peltonen L, Richard I, Udd B. Tibial muscular dystrophy is a
+titinopathy caused by mutations in TTN, the gene encoding the giant
+skeletal-muscle protein titin. Am J Hum Genet. 2002 Sep;71(3):492-500. doi:
+10.1086/342380. Epub 2002 Jul 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pollazzon M, Suominen T, Penttila S, Malandrini A, Carluccio MA, Mondelli M,
+Marozza A, Federico A, Renieri A, Hackman P, Dotti MT, Udd B. The first Italian
+family with tibial muscular dystrophy caused by a novel titin mutation. J Neurol.
+2010 Apr;257(4):575-9. doi: 10.1007/s00415-009-5372-3. Epub 2009 Nov 13.
+Citation on PubMed
+Udd B, Hackman P. Udd Distal Myopathy - Tibial Muscular Dystrophy. 2005 Feb 17
+[updated 2020 Jan 2]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1323/
+Citation on PubMed
+Udd B, Haravuori H, Kalimo H, Partanen J, Pulkkinen L, Paetau A, Peltonen L,
+Somer H. Tibial muscular dystrophy--from clinical description to linkage on
+chromosome 2q31. Neuromuscul Disord. 1998 Jun;8(5):327-32. doi:
+10.1016/s0960-8966(98)00024-8.
+Citation on PubMed
+Udd B, Partanen J, Halonen P, Falck B, Hakamies L, Heikkila H, Ingo S, Kalimo
+H, Kaariainen H, Laulumaa V, et al. Tibial muscular dystrophy. Late adult-onset
+distal myopathy in 66 Finnish patients. Arch Neurol. 1993 Jun;50(6):604-8. doi:
+10.1001/archneur.1993.00540060044015.
+Citation on PubMed
+Udd B. Distal myopathies. Handb Clin Neurol. 2007;86:215-41. doi:
+10.1016/S0072-9752(07)86011-8. No abstract available.
+Citation on PubMed
+Van den Bergh PY, Bouquiaux O, Verellen C, Marchand S, Richard I, Hackman P,
+Udd B. Tibial muscular dystrophy in a Belgian family. Ann Neurol. 2003
+Aug;54(2):248-51. doi: 10.1002/ana.10647.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Muscular Dystrophy
+MEDICAL ENCYCLOPEDIA
+Genetics
+Lower Leg Muscles (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

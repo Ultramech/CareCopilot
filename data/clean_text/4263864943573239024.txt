@@ -1,0 +1,160 @@
+STAC3 disorder: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+STAC3 disorder
+URL of this page: https://medlineplus.gov/genetics/condition/stac3-disorder/
+STAC3 disorder
+Description
+STAC3 disorder (formerly known as Native American myopathy) is a condition that primarily affects skeletal muscles, which are muscles that the body uses for movement. People with STAC3 disorder have muscle weakness (myopathy) and poor muscle tone (hypotonia) throughout the body that typically begins at birth.
+Muscle weakness underlies many of the characteristic features of STAC3 disorder. Affected individuals may have feeding and swallowing difficulties in infancy. They usually have delayed development of motor skills such as sitting, crawling, standing, and walking. Many have facial features described as "myopathic facies", which include drooping eyelids (
+ptosis
+), sunken cheeks, and a mouth often held in an open position and with the corners turned downward. Other distinctive facial features in people with STAC3 disorder can include a small lower jaw (
+micrognathia
+), an opening in the roof of the mouth (
+cleft palate
+), low-set ears that slant backward, eye openings that are shorter than average or that point downward (short or downslanting palpebral fissures), or an increased distance between the inner corners of the eyes (
+ocular telecanthus
+).
+Individuals with STAC3 disorder may also be born with joint deformities that restrict movement (contractures) or develop an abnormal side-to-side or back-to-front curvature of the spine (
+scoliosis or kyphosis
+, often called kyphoscoliosis when they occur together). Affected individuals tend to be shorter than their peers and others in their family.
+People with STAC3 disorder also have an increased risk of developing a severe reaction to certain drugs used during surgery and other invasive procedures. This reaction is called
+malignant hyperthermia
+. Malignant hyperthermia occurs in response to some anesthetic drugs, which are used to block the sensation of pain, either given alone or in combination with a particular type of muscle relaxant. If given these drugs, people at risk of malignant hyperthermia may experience muscle rigidity, breakdown of muscle fibers (rhabdomyolysis), a high fever (hyperthermia), increased acid levels in the blood and other tissues (acidosis), and a rapid heart rate. The complications of malignant hyperthermia can be life-threatening unless the drugs are stopped and the symptoms are treated promptly.
+Frequency
+STAC3 disorder was first found in individuals from the Lumbee Native American Tribe in North Carolina. The condition affects an estimated 1 in 5,000 people in this population. STAC3 disorder has since been found in other populations worldwide, though its prevalence is not known.
+Causes
+STAC3 disorder is caused by mutations in the
+STAC3
+gene. This gene provides instructions for making a protein that plays a role in the tensing (contraction) of skeletal muscles. Muscle contractions are triggered by changes in the concentration of certain charged atoms (ions) in muscle cells. The STAC3 protein aids in the process that triggers the release of calcium ions within muscle cells to start (initiate) muscle contraction.
+The STAC3 protein interacts with two structures in muscle cells that are critical for calcium ion flow, dihydropyridine receptor (DHPR) and ryanodine receptor 1 (RYR1). However, STAC3's role in this formation is unclear. RYR1 forms a channel (the RYR1 channel) through which calcium ions can flow. In response to certain signals, DHPR turns on (activates) the RYR1 channel, and the activated RYR1 channel releases calcium ions stored in structures inside muscle cells. The resulting increase in the calcium ion concentration within muscle cells stimulates muscles to contract, allowing the body to move.
+STAC3
+gene mutations reduce the amount or impair the function of the STAC3 protein. Although the mechanism is unclear, studies show that a shortage of functioning STAC3 protein prevents the release of stored calcium ions by RYR1 channels. A disruption in calcium ion release prevents muscles from contracting normally, leading to the muscle weakness characteristic of STAC3 disorder.
+It is unclear how these
+STAC3
+gene mutations lead to malignant hyperthermia in susceptible individuals. Mutations in other genes related to malignant hyperthermia activate the RYR1 channel improperly in response to certain drugs. As a result, large amounts of calcium ions are released from storage within muscle cells, causing skeletal muscles to contract abnormally. An increase in calcium ion concentration also activates processes that generate heat (leading to hyperthermia) and produce excess acid (leading to acidosis). It is unknown if
+STAC3
+gene mutations have a similar effect on RYR1 channel activity.
+Learn more about the gene associated with STAC3 disorder
+STAC3
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Myopathy, congenital, Bailey-Bloch
+Myopathy, congenital, with myopathic facies, scoliosis, and malignant hyperthermia
+NAM
+Native American myopathy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Bailey-Bloch congenital myopathy
+Genetic and Rare Diseases Information Center
+Native American myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CONGENITAL MYOPATHY 13; CMYO13
+Scientific Articles on PubMed
+PubMed
+References
+Campiglio M, Flucher BE. STAC3 stably interacts through its C1 domain with
+CaV1.1 in skeletal muscle triads. Sci Rep. 2017 Jan 23;7:41003. doi:
+10.1038/srep41003.
+Citation on PubMed
+or
+Free article on PubMed Central
+Campiglio M, Kaplan MM, Flucher BE. STAC3 incorporation into skeletal muscle
+triads occurs independent of the dihydropyridine receptor. J Cell Physiol. 2018
+Dec;233(12):9045-9051. doi: 10.1002/jcp.26767. Epub 2018 Aug 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grzybowski M, Schanzer A, Pepler A, Heller C, Neubauer BA, Hahn A. Novel STAC3
+Mutations in the First Non-Amerindian Patient with Native American Myopathy.
+Neuropediatrics. 2017 Dec;48(6):451-455. doi: 10.1055/s-0037-1601868. Epub 2017
+Apr 15.
+Citation on PubMed
+Horstick EJ, Linsley JW, Dowling JJ, Hauser MA, McDonald KK, Ashley-Koch A,
+Saint-Amant L, Satish A, Cui WW, Zhou W, Sprague SM, Stamm DS, Powell CM, Speer
+MC, Franzini-Armstrong C, Hirata H, Kuwada JY. Stac3 is a component of the
+excitation-contraction coupling machinery and mutated in Native American
+myopathy. Nat Commun. 2013;4:1952. doi: 10.1038/ncomms2952.
+Citation on PubMed
+or
+Free article on PubMed Central
+Linsley JW, Hsu IU, Groom L, Yarotskyy V, Lavorato M, Horstick EJ, Linsley D,
+Wang W, Franzini-Armstrong C, Dirksen RT, Kuwada JY. Congenital myopathy results
+from misregulation of a muscle Ca2+ channel by mutant Stac3. Proc Natl Acad Sci U
+S A. 2017 Jan 10;114(2):E228-E236. doi: 10.1073/pnas.1619238114. Epub 2016 Dec
+21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Polster A, Nelson BR, Olson EN, Beam KG. Stac3 has a direct role in skeletal
+muscle-type excitation-contraction coupling that is disrupted by a
+myopathy-causing mutation. Proc Natl Acad Sci U S A. 2016 Sep
+27;113(39):10986-91. doi: 10.1073/pnas.1612441113. Epub 2016 Sep 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Polster A, Perni S, Bichraoui H, Beam KG. Stac adaptor proteins regulate
+trafficking and function of muscle and neuronal L-type Ca2+ channels. Proc Natl
+Acad Sci U S A. 2015 Jan 13;112(2):602-6. doi: 10.1073/pnas.1423113112. Epub 2014
+Dec 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Webb BD, Manoli I, Jabs EW. STAC3 Disorder. 2019 Jun 20. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK542808/
+Citation on PubMed
+Zaharieva IT, Sarkozy A, Munot P, Manzur A, O'Grady G, Rendu J, Malfatti E,
+Amthor H, Servais L, Urtizberea JA, Neto OA, Zanoteli E, Donkervoort S, Taylor J,
+Dixon J, Poke G, Foley AR, Holmes C, Williams G, Holder M, Yum S, Medne L,
+Quijano-Roy S, Romero NB, Faure J, Feng L, Bastaki L, Davis MR, Phadke R, Sewry
+CA, Bonnemann CG, Jungbluth H, Bachmann C, Treves S, Muntoni F. STAC3 variants
+cause a congenital myopathy with distinctive dysmorphic features and malignant
+hyperthermia susceptibility. Hum Mutat. 2018 Dec;39(12):1980-1994. doi:
+10.1002/humu.23635. Epub 2018 Oct 11.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

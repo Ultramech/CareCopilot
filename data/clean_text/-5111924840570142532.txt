@@ -1,0 +1,184 @@
+Neuroblastoma: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Neuroblastoma
+URL of this page: https://medlineplus.gov/genetics/condition/neuroblastoma/
+Neuroblastoma
+Description
+Neuroblastoma is a type of cancer that most often affects children. Neuroblastoma occurs when immature nerve cells called neuroblasts become abnormal and multiply uncontrollably to form a tumor. Most commonly, the tumor originates in the nerve tissue of the
+adrenal gland
+located above each kidney. Other common sites for tumors to form include the nerve tissue in the abdomen, chest, neck, or pelvis. Neuroblastoma can spread (
+metastasize
+) to other parts of the body such as the bones, liver, or skin.
+Individuals with neuroblastoma may develop general signs and symptoms such as irritability, fever, tiredness (fatigue), pain, loss of appetite, weight loss, or diarrhea. More specific signs and symptoms depend on the location of the tumor and where it has spread. A tumor in the abdomen can cause abdominal swelling. A tumor in the chest may lead to difficulty breathing. A tumor in the neck can cause nerve damage known as
+Horner syndrome
+, which leads to drooping eyelids, small pupils, decreased sweating, and red skin. Tumor metastasis to the bone can cause bone pain, bruises, pale skin, or dark circles around the eyes. Tumors in the backbone can press on the spinal cord and cause weakness, numbness, or paralysis in the arms or legs. A rash of bluish or purplish bumps that look like blueberries indicates that the neuroblastoma has spread to the skin.
+In addition, neuroblastoma tumors can release hormones that may cause other signs and symptoms such as high blood pressure, rapid heartbeat, flushing of the skin, and sweating. In rare instances, individuals with neuroblastoma may develop opsoclonus myoclonus syndrome, which causes rapid eye movements and jerky muscle motions. This condition occurs when the immune system malfunctions and attacks nerve tissue.
+Neuroblastoma occurs most often in children before age 5 and rarely occurs in adults.
+Frequency
+Neuroblastoma is the most common cancer in infants younger than 1 year. It occurs in 1 in 100,000 children and is diagnosed in about 650 children each year in the United States.
+Causes
+Neuroblastoma and other cancers occur when a buildup of genetic mutations in critical genes—those that control cell growth and division (proliferation) or maturation (differentiation)—allow cells to grow and divide uncontrollably to form a tumor. In most cases, these genetic changes are acquired during a person's lifetime and are called somatic mutations. Somatic mutations are present only in certain cells and are not inherited. When neuroblastoma is associated with somatic mutations, it is called sporadic neuroblastoma. It is thought that somatic mutations in at least two genes are required to cause sporadic neuroblastoma. Less commonly, gene mutations that increase the risk of developing cancer can be inherited from a parent. When the mutation associated with neuroblastoma is inherited, the condition is called familial neuroblastoma. Mutations in the
+ALK
+and
+PHOX2B
+genes have been shown to increase the risk of developing sporadic and familial neuroblastoma. It is likely that there are other genes involved in the formation of neuroblastoma.
+Several mutations in the
+ALK
+gene are involved in the development of sporadic and familial neuroblastoma. The
+ALK
+gene provides instructions for making a protein called ALK receptor tyrosine kinase. Although the specific function of this protein is unknown, it appears to play an important role in cell proliferation. Mutations in the
+ALK
+gene result in an abnormal version of ALK receptor tyrosine kinase that is constantly turned on (constitutively activated). Constitutively active ALK receptor tyrosine kinase may induce abnormal proliferation of immature nerve cells and lead to neuroblastoma.
+Several mutations in the
+PHOX2B
+gene have been identified in sporadic and familial neuroblastoma. The
+PHOX2B
+gene is important for the formation and differentiation of nerve cells. Mutations in this gene are believed to interfere with the PHOX2B protein's role in promoting nerve cell differentiation. This disruption of differentiation results in an excess of immature nerve cells and leads to neuroblastoma.
+Deletion of certain regions of
+chromosome 1
+and
+chromosome 11
+are associated with neuroblastoma. Researchers believe the deleted regions in these chromosomes could contain a gene that keeps cells from growing and dividing too quickly or in an uncontrolled way, called a tumor suppressor gene. When a tumor suppressor gene is deleted, cancer can occur. The
+KIF1B
+gene is a tumor suppressor gene located in the deleted region of chromosome 1, and mutations in this gene have been identified in some people with familial neuroblastoma, indicating it is involved in neuroblastoma development or progression. There are several other possible tumor suppressor genes in the deleted region of chromosome 1. No tumor suppressor genes have been identified in the deleted region of chromosome 11.
+Another genetic change found in neuroblastoma is associated with the severity of the disease but not thought to cause it. About 25 percent of people with neuroblastoma have extra copies of the
+MYCN
+gene, a phenomenon called gene amplification. It is unknown how amplification of this gene contributes to the aggressive nature of neuroblastoma.
+Learn more about the genes and chromosomes associated with Neuroblastoma
+ALK
+KIF1B
+MYCN
+PHOX2B
+chromosome 1
+chromosome 11
+Additional Information from NCBI Gene:
+BARD1
+ERBB2
+LMO1
+Inheritance
+Most people with neuroblastoma have sporadic neuroblastoma, meaning the condition arose from somatic mutations in the body's cells and was not inherited.
+About 1 to 2 percent of affected individuals have familial neuroblastoma. This form of the condition has an
+autosomal dominant inheritance pattern
+, which means one copy of the altered gene in each cell increases the risk of developing the disorder. However, the inheritance is considered to have incomplete penetrance because not everyone who inherits the altered gene from a parent develops neuroblastoma. Having the altered gene predisposes an individual to develop neuroblastoma, but an additional somatic mutation is probably needed to cause the condition.
+Other Names for This Condition
+NB
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Neuroblastoma, susceptibility to, 2
+Genetic Testing Registry: Neuroblastoma, susceptibility to, 3
+Genetic and Rare Diseases Information Center
+Neuroblastoma
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NEUROBLASTOMA, SUSCEPTIBILITY TO, 1; NBLST1
+NEUROBLASTOMA, SUSCEPTIBILITY TO, 2; NBLST2
+NEUROBLASTOMA, SUSCEPTIBILITY TO, 3; NBLST3
+Scientific Articles on PubMed
+PubMed
+References
+Ardini E, Magnaghi P, Orsini P, Galvani A, Menichincheri M. Anaplastic
+Lymphoma Kinase: role in specific tumours, and development of small molecule
+inhibitors for cancer therapy. Cancer Lett. 2010 Dec 28;299(2):81-94. doi:
+10.1016/j.canlet.2010.09.001. Epub 2010 Oct 8.
+Citation on PubMed
+Attiyeh EF, London WB, Mosse YP, Wang Q, Winter C, Khazi D, McGrady PW, Seeger
+RC, Look AT, Shimada H, Brodeur GM, Cohn SL, Matthay KK, Maris JM; Children's
+Oncology Group. Chromosome 1p and 11q deletions and outcome in neuroblastoma. N
+Engl J Med. 2005 Nov 24;353(21):2243-53. doi: 10.1056/NEJMoa052399.
+Citation on PubMed
+Janoueix-Lerosey I, Lequin D, Brugieres L, Ribeiro A, de Pontual L, Combaret
+V, Raynal V, Puisieux A, Schleiermacher G, Pierron G, Valteau-Couanet D, Frebourg
+T, Michon J, Lyonnet S, Amiel J, Delattre O. Somatic and germline activating
+mutations of the ALK kinase receptor in neuroblastoma. Nature. 2008 Oct
+16;455(7215):967-70. doi: 10.1038/nature07398.
+Citation on PubMed
+Maris JM. Recent advances in neuroblastoma. N Engl J Med. 2010 Jun
+10;362(23):2202-11. doi: 10.1056/NEJMra0804577. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mosse YP, Laudenslager M, Longo L, Cole KA, Wood A, Attiyeh EF, Laquaglia MJ,
+Sennett R, Lynch JE, Perri P, Laureys G, Speleman F, Kim C, Hou C, Hakonarson H,
+Torkamani A, Schork NJ, Brodeur GM, Tonini GP, Rappaport E, Devoto M, Maris JM.
+Identification of ALK as a major familial neuroblastoma predisposition gene.
+Nature. 2008 Oct 16;455(7215):930-5. doi: 10.1038/nature07261. Epub 2008 Aug 24.
+Citation on PubMed
+or
+Free article on PubMed Central
+Munirajan AK, Ando K, Mukai A, Takahashi M, Suenaga Y, Ohira M, Koda T, Hirota
+T, Ozaki T, Nakagawara A. KIF1Bbeta functions as a haploinsufficient tumor
+suppressor gene mapped to chromosome 1p36.2 by inducing apoptotic cell death. J
+Biol Chem. 2008 Sep 5;283(36):24426-34. doi: 10.1074/jbc.M802316200. Epub 2008
+Jul 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Raabe EH, Laudenslager M, Winter C, Wasserman N, Cole K, LaQuaglia M, Maris
+DJ, Mosse YP, Maris JM. Prevalence and functional consequence of PHOX2B mutations
+in neuroblastoma. Oncogene. 2008 Jan 17;27(4):469-76. doi:
+10.1038/sj.onc.1210659. Epub 2007 Jul 16.
+Citation on PubMed
+Reiff T, Tsarovina K, Majdazari A, Schmidt M, del Pino I, Rohrer H.
+Neuroblastoma phox2b variants stimulate proliferation and dedifferentiation of
+immature sympathetic neurons. J Neurosci. 2010 Jan 20;30(3):905-15. doi:
+10.1523/JNEUROSCI.5368-09.2010.
+Citation on PubMed
+Schlisio S, Kenchappa RS, Vredeveld LC, George RE, Stewart R, Greulich H,
+Shahriari K, Nguyen NV, Pigny P, Dahia PL, Pomeroy SL, Maris JM, Look AT,
+Meyerson M, Peeper DS, Carter BD, Kaelin WG Jr. The kinesin KIF1Bbeta acts
+downstream from EglN3 to induce apoptosis and is a potential 1p36 tumor
+suppressor. Genes Dev. 2008 Apr 1;22(7):884-93. doi: 10.1101/gad.1648608. Epub
+2008 Mar 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+White PS, Thompson PM, Gotoh T, Okawa ER, Igarashi J, Kok M, Winter C, Gregory
+SG, Hogarty MD, Maris JM, Brodeur GM. Definition and characterization of a region
+of 1p36.3 consistently deleted in neuroblastoma. Oncogene. 2005 Apr
+14;24(16):2684-94. doi: 10.1038/sj.onc.1208306.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Neuroblastoma
+MEDICAL ENCYCLOPEDIA
+Genetics
+Horner syndrome
+Neuroblastoma
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

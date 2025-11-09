@@ -1,0 +1,165 @@
+Shprintzen-Goldberg syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Shprintzen-Goldberg syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/shprintzen-goldberg-syndrome/
+Shprintzen-Goldberg syndrome
+Description
+Shprintzen-Goldberg syndrome is a disorder that affects many parts of the body. Affected individuals have a combination of distinctive facial features and skeletal and neurological abnormalities.
+A common feature in people with Shprintzen-Goldberg syndrome is craniosynostosis, which is the premature fusion of certain skull bones. This early fusion prevents the skull from growing normally. Affected individuals can also have distinctive facial features, including a long, narrow head; widely spaced eyes (
+hypertelorism
+); protruding eyes (
+exophthalmos
+); outside corners of the eyes that point downward (downslanting palpebral fissures); a high,
+narrow palate
+; a small lower jaw (
+micrognathia
+); and low-set ears that are rotated backward.
+People with Shprintzen-Goldberg syndrome are often said to have a marfanoid habitus, because their bodies resemble those of people with a genetic condition called
+Marfan syndrome
+. For example, they may have long, slender fingers (
+arachnodactyly
+), unusually long limbs, a sunken chest (pectus excavatum) or protruding chest (
+pectus carinatum
+), and an abnormal side-to-side curvature of the spine (
+scoliosis
+). People with Shprintzen-Goldberg syndrome can have other skeletal abnormalities, such as one or more fingers that are permanently bent (
+camptodactyly
+) and an unusually large range of joint movement (hypermobility).
+People with Shprintzen-Goldberg syndrome often have delayed development and mild to moderate intellectual disability.
+Other common features of Shprintzen-Goldberg syndrome include heart or brain abnormalities, weak muscle tone (hypotonia) in infancy, and a soft out-pouching around the belly-button (umbilical
+hernia
+) or lower abdomen (inguinal hernia).
+Shprintzen-Goldberg syndrome has signs and symptoms similar to those of Marfan syndrome and another genetic condition called
+Loeys-Dietz syndrome
+. However, intellectual disability is more likely to occur in Shprintzen-Goldberg syndrome than in the other two conditions. In addition, heart abnormalities are more common and usually more severe in Marfan syndrome and Loeys-Dietz syndrome.
+Frequency
+Shprintzen-Goldberg syndrome is a rare condition, although its prevalence is unknown. It is difficult to identify the number of affected individuals, because some cases diagnosed as Shprintzen-Goldberg syndrome may instead be Marfan syndrome or Loeys-Dietz syndrome, which have overlapping signs and symptoms.
+Causes
+Shprintzen-Goldberg syndrome is often caused by mutations in the
+SKI
+gene. This gene provides instructions for making a protein that regulates the transforming growth factor beta (TGF-β) signaling pathway. The TGF-β pathway regulates many processes, including cell growth and division (proliferation), the process by which cells mature to carry out special functions (differentiation), cell movement (motility), and the self-destruction of cells (
+apoptosis
+). By attaching to certain proteins in the pathway, the SKI protein blocks TGF-β signaling. The SKI protein is found in many cell types throughout the body and appears to play a role in the development of many tissues, including the skull, other bones, skin, and brain.
+SKI
+gene mutations involved in Shprintzen-Goldberg syndrome alter the SKI protein. The altered protein is no longer able to attach to proteins in the TGF-β pathway and block signaling. As a result, the pathway is abnormally active. Excess TGF-β signaling changes the regulation of gene activity and likely disrupts development of many body systems, including the bones and brain, resulting in the wide range of signs and symptoms of Shprintzen-Goldberg syndrome.
+Not all cases of Shprintzen-Goldberg syndrome are caused by mutations in the
+SKI
+gene. Other genes may be involved in this condition, and in some cases, the genetic cause is unknown.
+Learn more about the genes associated with Shprintzen-Goldberg syndrome
+FBN1
+SKI
+Inheritance
+Shprintzen-Goldberg syndrome is described as autosomal dominant, which means one copy of the altered gene in each cell is sufficient to cause the disorder. The condition almost always results from new (
+de novo
+) gene mutations and occurs in people with no history of the disorder in their family. Very rarely, people with Shprintzen-Goldberg syndrome have inherited the altered gene from an unaffected parent who has a gene mutation only in their sperm or egg cells. When a mutation is present only in reproductive cells, it is known as germline mosaicism.
+Other Names for This Condition
+Marfanoid-craniosynostosis syndrome
+Shprintzen-Goldberg craniosynostosis syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Shprintzen-Goldberg syndrome
+Genetic and Rare Diseases Information Center
+Shprintzen-Goldberg syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SHPRINTZEN-GOLDBERG CRANIOSYNOSTOSIS SYNDROME; SGS
+Scientific Articles on PubMed
+PubMed
+References
+Carmignac V, Thevenon J, Ades L, Callewaert B, Julia S, Thauvin-Robinet C,
+Gueneau L, Courcet JB, Lopez E, Holman K, Renard M, Plauchu H, Plessis G, De
+Backer J, Child A, Arno G, Duplomb L, Callier P, Aral B, Vabres P, Gigot N,
+Arbustini E, Grasso M, Robinson PN, Goizet C, Baumann C, Di Rocco M, Sanchez Del
+Pozo J, Huet F, Jondeau G, Collod-Beroud G, Beroud C, Amiel J, Cormier-Daire V,
+Riviere JB, Boileau C, De Paepe A, Faivre L. In-frame mutations in exon 1 of SKI
+cause dominant Shprintzen-Goldberg syndrome. Am J Hum Genet. 2012 Nov
+2;91(5):950-7. doi: 10.1016/j.ajhg.2012.10.002. Epub 2012 Oct 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Doyle AJ, Doyle JJ, Bessling SL, Maragh S, Lindsay ME, Schepers D, Gillis E,
+Mortier G, Homfray T, Sauls K, Norris RA, Huso ND, Leahy D, Mohr DW, Caulfield
+MJ, Scott AF, Destree A, Hennekam RC, Arn PH, Curry CJ, Van Laer L, McCallion AS,
+Loeys BL, Dietz HC. Mutations in the TGF-beta repressor SKI cause
+Shprintzen-Goldberg syndrome with aortic aneurysm. Nat Genet. 2012
+Nov;44(11):1249-54. doi: 10.1038/ng.2421. Epub 2012 Sep 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Greally MT. Shprintzen-Goldberg Syndrome. 2006 Jan 13 [updated 2020 Apr 9].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1277/
+Citation on PubMed
+Kosaki K, Takahashi D, Udaka T, Kosaki R, Matsumoto M, Ibe S, Isobe T, Tanaka
+Y, Takahashi T. Molecular pathology of Shprintzen-Goldberg syndrome. Am J Med
+Genet A. 2006 Jan 1;140(1):104-8; author reply 109-10. doi: 10.1002/ajmg.a.31006.
+No abstract available.
+Citation on PubMed
+Robinson PN, Neumann LM, Demuth S, Enders H, Jung U, Konig R, Mitulla B,
+Muller D, Muschke P, Pfeiffer L, Prager B, Somer M, Tinschert S.
+Shprintzen-Goldberg syndrome: fourteen new patients and a clinical analysis. Am J
+Med Genet A. 2005 Jun 15;135(3):251-62. doi: 10.1002/ajmg.a.30431.
+Citation on PubMed
+Schepers D, Doyle AJ, Oswald G, Sparks E, Myers L, Willems PJ, Mansour S,
+Simpson MA, Frysira H, Maat-Kievit A, Van Minkelen R, Hoogeboom JM, Mortier GR,
+Titheradge H, Brueton L, Starr L, Stark Z, Ockeloen C, Lourenco CM, Blair E,
+Hobson E, Hurst J, Maystadt I, Destree A, Girisha KM, Miller M, Dietz HC, Loeys
+B, Van Laer L. The SMAD-binding domain of SKI: a hotspot for de novo mutations
+causing Shprintzen-Goldberg syndrome. Eur J Hum Genet. 2015 Feb;23(2):224-8. doi:
+10.1038/ejhg.2014.61. Epub 2014 Apr 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Shanske AL, Goodrich JT, Ala-Kokko L, Baker S, Frederick B, Levy B. Germline
+mosacism in Shprintzen-Goldberg syndrome. Am J Med Genet A. 2012
+Jul;158A(7):1574-8. doi: 10.1002/ajmg.a.35388. Epub 2012 May 25.
+Citation on PubMed
+Sood S, Eldadah ZA, Krause WL, McIntosh I, Dietz HC. Mutation in fibrillin-1
+and the Marfanoid-craniosynostosis (Shprintzen-Goldberg) syndrome. Nat Genet.
+1996 Feb;12(2):209-11. doi: 10.1038/ng0296-209.
+Citation on PubMed
+Related Health Topics
+Connective Tissue Disorders
+Craniofacial Abnormalities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Craniosynostosis
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

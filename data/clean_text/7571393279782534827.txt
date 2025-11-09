@@ -1,0 +1,128 @@
+Granulomatosis with polyangiitis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Granulomatosis with polyangiitis
+URL of this page: https://medlineplus.gov/genetics/condition/granulomatosis-with-polyangiitis/
+Granulomatosis with polyangiitis
+Description
+Granulomatosis with polyangiitis (GPA) is a condition that causes inflammation that primarily affects the respiratory tract (including the lungs and airways) and the kidneys. This disorder is formerly known as Wegener granulomatosis. A characteristic feature of GPA is inflammation of blood vessels (vasculitis), particularly the small- and medium-sized blood vessels in the lungs, nose, sinuses, windpipe, and kidneys, although vessels in any organ can be involved. Polyangiitis refers to the inflammation of multiple types of vessels, such as small
+arteries
+and veins. Vasculitis causes scarring and tissue death in the vessels and impedes blood flow to tissues and organs.
+Another characteristic feature of GPA is the formation of granulomas, which are small areas of inflammation composed of immune cells that aid in the inflammatory reaction. The granulomas usually occur in the lungs or airways of people with this condition, although they can occur in the eyes or other organs. As granulomas grow, they can invade surrounding areas, causing tissue damage.
+The signs and symptoms of GPA vary based on the tissues and organs affected by vasculitis. Many people with this condition experience a vague feeling of discomfort (malaise), fever, weight loss, or other general symptoms of the body's immune reaction. In most people with GPA, inflammation begins in the vessels of the respiratory tract, leading to nasal congestion, frequent nosebleeds, shortness of breath, or coughing. Severe inflammation in the nose can lead to a hole in the tissue that separates the two nostrils (nasal septum perforation) or a collapse of the septum, causing a
+sunken bridge of the nose
+(saddle nose).
+The
+kidneys
+are commonly affected in people with GPA. Tissue damage caused by vasculitis in the kidneys can lead to decreased kidney function, which may cause increased blood pressure or blood in the urine, and life-threatening kidney failure. Inflammation can also occur in other regions of the body, including the eyes,
+middle and inner ear structures
+, skin, joints, nerves, heart, and brain. Depending on which systems are involved, additional symptoms can include skin rashes, inner ear pain, swollen and painful joints, and numbness or tingling in the limbs.
+GPA is most common in middle-aged adults, although it can occur at any age. If untreated, the condition is usually fatal within 2 years of diagnosis. Even after treatment, vasculitis can return.
+Frequency
+GPA is a rare disorder that affects an estimated 3 in 100,000 people in the United States.
+Causes
+The genetic basis of GPA is not well understood. Having a particular version of the
+HLA-DPB1
+gene is the strongest genetic risk factor for developing this condition, although several other genes, some of which have not been identified, may be involved. It is likely that a combination of genetic and environmental factors lead to GPA.
+GPA is an autoimmune disorder. Such disorders occur when the immune system malfunctions and attacks the body's own tissues and organs. Approximately 90 percent of people with GPA have an abnormal immune protein called an anti-neutrophil cytoplasmic antibody (ANCA) in their blood. Antibodies normally bind to specific foreign particles and germs, marking them for destruction, but ANCAs attack normal human proteins. Most people with GPA have an ANCA that attacks the human protein proteinase 3 (PR3). A few affected individuals have an ANCA that attacks a protein called myeloperoxidase (MPO). When these antibodies attach to the protein they recognize, they trigger inflammation, which contributes to the signs and symptoms of GPA.
+The
+HLA-DPB1
+gene belongs to a family of genes called the
+human leukocyte antigen (HLA) complex
+. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person's immune system to react to a wide range of foreign proteins. A particular variant of the
+HLA-DPB1
+gene called
+HLA-DPB1*0401
+has been found more frequently in people with GPA, especially those with ANCAs, than in people without the condition.
+Because the
+HLA-DPB1
+gene is involved in the immune system, changes in it might be related to the autoimmune response and inflammation in the respiratory tract and kidneys characteristic of GPA. However, it is unclear what specific role the
+HLA-DPB1*0401
+gene variant plays in development of this condition.
+Learn more about the gene associated with Granulomatosis with polyangiitis
+HLA-DPB1
+Inheritance
+The inheritance pattern of GPA is unknown. Most instances are sporadic and occur in individuals with no history of the disorder in their family. Only rarely is more than one member of the same family affected by the disorder.
+Other Names for This Condition
+GPA
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Granulomatosis with polyangiitis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GRANULOMATOSIS WITH POLYANGIITIS; GPA
+Scientific Articles on PubMed
+PubMed
+References
+Lamprecht P, Wieczorek S, Epplen JT, Ambrosch P, Kallenberg CG. Granuloma
+formation in ANCA-associated vasculitides. APMIS Suppl. 2009 Jun;(127):32-6. doi:
+10.1111/j.1600-0463.2009.02474.x.
+Citation on PubMed
+Lyons PA, Rayner TF, Trivedi S, Holle JU, Watts RA, Jayne DR, Baslund B,
+Brenchley P, Bruchfeld A, Chaudhry AN, Cohen Tervaert JW, Deloukas P, Feighery C,
+Gross WL, Guillevin L, Gunnarsson I, Harper L, Hruskova Z, Little MA, Martorana
+D, Neumann T, Ohlsson S, Padmanabhan S, Pusey CD, Salama AD, Sanders JS, Savage
+CO, Segelmark M, Stegeman CA, Tesar V, Vaglio A, Wieczorek S, Wilde B, Zwerina J,
+Rees AJ, Clayton DG, Smith KG. Genetically distinct subsets within
+ANCA-associated vasculitis. N Engl J Med. 2012 Jul 19;367(3):214-23. doi:
+10.1056/NEJMoa1108735.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mahr AD, Neogi T, Merkel PA. Epidemiology of Wegener's granulomatosis: Lessons
+from descriptive studies and analyses of genetic and environmental risk
+determinants. Clin Exp Rheumatol. 2006 Mar-Apr;24(2 Suppl 41):S82-91.
+Citation on PubMed
+Schilder AM. Wegener's Granulomatosis vasculitis and granuloma. Autoimmun Rev.
+2010 May;9(7):483-7. doi: 10.1016/j.autrev.2010.02.006. Epub 2010 Feb 13.
+Citation on PubMed
+Wieczorek S, Holle JU, Epplen JT. Recent progress in the genetics of Wegener's
+granulomatosis and Churg-Strauss syndrome. Curr Opin Rheumatol. 2010
+Jan;22(1):8-14. doi: 10.1097/BOR.0b013e3283331151.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Autoimmune Diseases
+Genetic Disorders
+Granulomatosis with Polyangiitis
+Vasculitis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Granulomatosis with polyangiitis
+Necrotizing granuloma
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

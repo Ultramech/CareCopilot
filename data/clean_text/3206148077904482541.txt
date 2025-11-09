@@ -1,0 +1,135 @@
+Sandhoff disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Sandhoff disease
+URL of this page: https://medlineplus.gov/genetics/condition/sandhoff-disease/
+Sandhoff disease
+Description
+Sandhoff disease is a rare inherited disorder that progressively destroys nerve cells (
+neurons
+) in the brain and spinal cord (central nervous system). This condition is classified into three major types based on the age at which signs and symptoms first appear: infantile, juvenile, and adult.
+The infantile form of Sandhoff disease is the most common and severe form and becomes apparent in infancy. Infants with this disorder typically appear normal until the age of 3 to 6 months, when their development slows and muscles used for movement weaken. Affected infants lose motor skills such as turning over, sitting, and crawling. They also develop an exaggerated startle reaction to loud noises. As the disease progresses, children with Sandhoff disease experience seizures, vision and hearing loss, and intellectual disability. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. Some affected children also have distinctive facial features, enlarged organs (organomegaly), or bone abnormalities. Children with the infantile form of Sandhoff disease usually live only into early childhood.
+The juvenile and adult forms of Sandhoff disease are very rare. Signs and symptoms are usually milder than those seen with the infantile form, although they vary widely. The juvenile form can begin between ages 2 and 10. Characteristic features include speech difficulties, loss of cognitive function (dementia), seizures, and loss of muscle coordination (ataxia). Adult Sandhoff disease is characterized by problems with movement and psychiatric problems.
+Frequency
+Sandhoff disease is a rare disorder; its frequency varies among populations. This condition appears to be more common in the Creole population of northern Argentina; the Metis Indians in Saskatchewan, Canada; and people from Lebanon.
+Causes
+Sandhoff disease is caused by variants (also known as mutations) in the
+HEXB
+gene. The
+HEXB
+gene provides instructions for making a protein that is part of two critical enzymes in the nervous system, beta-hexosaminidase A and beta-hexosaminidase B. These enzymes are located in
+lysosomes
+, which are structures in cells that break down toxic substances and act as recycling centers. Within lysosomes, these two enzymes break down fatty substances, complex sugars, and molecules that are linked to sugars. In particular, beta-hexosaminidase A helps break down a fatty substance called GM2 ganglioside.
+Variants in the
+HEXB
+gene disrupt the activity of beta-hexosaminidase A and beta-hexosaminidase B, which prevents these enzymes from breaking down certain molecules, including GM2 ganglioside. As a result, these compounds can accumulate to toxic levels, particularly in neurons of the brain and spinal cord. In particular, a buildup of GM2 ganglioside leads to the progressive destruction of these neurons, which causes many of the signs and symptoms of Sandhoff disease. The severity of the shortage (deficiency) of the beta-hexosaminidase A and B enzymes typically determines the age at which the features occur and the form of Sandhoff disease that develops.
+Because Sandhoff disease impairs the function of lysosomal enzymes and involves the buildup of GM2 ganglioside, this condition is sometimes referred to as a lysosomal storage disorder or a GM2-gangliosidosis.
+Sandhoff disease is one of three conditions caused by a buildup of GM2 ganglioside. The other two conditions are called
+Tay-Sachs disease
+and
+GM2-gangliosidosis, AB variant
+, which are caused by variants in other genes.
+Learn more about the gene associated with Sandhoff disease
+HEXB
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Beta-hexosaminidase-beta-subunit deficiency
+GM2 gangliosidosis, type 2
+GM2 gangliosidosis, type II
+Hexosaminidase A and B deficiency disease
+Sandhoff-Jatzkewitz-Pilz disease
+Total hexosaminidase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Sandhoff disease
+Genetic and Rare Diseases Information Center
+Sandhoff disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SANDHOFF DISEASE
+Scientific Articles on PubMed
+PubMed
+References
+Hendriksz CJ, Corry PC, Wraith JE, Besley GT, Cooper A, Ferrie CD. Juvenile
+Sandhoff disease--nine new cases and a review of the literature. J Inherit Metab
+Dis. 2004;27(2):241-9. doi: 10.1023/B:BOLI.0000028777.38551.5a.
+Citation on PubMed
+Liu M, Huang D, Wang H, Zhao L, Wang Q, Chen X. Clinical and Molecular
+Characteristics of Two Chinese Children with Infantile Sandhoff Disease and
+Review of the Literature. J Mol Neurosci. 2020 Apr;70(4):481-487. doi:
+10.1007/s12031-019-01409-6. Epub 2020 Jan 9.
+Citation on PubMed
+Lyn N, Pulikottil-Jacob R, Rochmann C, Krupnick R, Gwaltney C, Stephens N,
+Kissell J, Cox GF, Fischer T, Hamed A. Patient and caregiver perspectives on
+burden of disease manifestations in late-onset Tay-Sachs and Sandhoff diseases.
+Orphanet J Rare Dis. 2020 Apr 15;15(1):92. doi: 10.1186/s13023-020-01354-3.
+Citation on PubMed
+Shibuya M, Uneoka S, Onuma A, Kodama K, Endo W, Okubo Y, Inui T, Togashi N,
+Nakashima I, Hino-Fukuyo N, Ida H, Miyatake S, Matsumoto N, Haginoya K. A 23-year
+follow-up report of juvenile-onset Sandhoff disease presenting with a motor
+neuron disease phenotype and a novel variant. Brain Dev. 2021
+Nov;43(10):1029-1032. doi: 10.1016/j.braindev.2021.06.007. Epub 2021 Jul 1.
+Citation on PubMed
+Tavasoli AR, Parvaneh N, Ashrafi MR, Rezaei Z, Zschocke J, Rostami P. Clinical
+presentation and outcome in infantile Sandhoff disease: a case series of 25
+patients from Iranian neurometabolic bioregistry with five novel mutations.
+Orphanet J Rare Dis. 2018 Aug 3;13(1):130. doi: 10.1186/s13023-018-0876-5.
+Citation on PubMed
+Tim-Aroon T, Wichajarn K, Katanyuwong K, Tanpaiboon P, Vatanavicharn N,
+Sakpichaisakul K, Kongkrapan A, Eu-Ahsunthornwattana J, Thongpradit S, Moolsuwan
+K, Satproedprai N, Mahasirimongkol S, Lerksuthirat T, Suktitipat B, Jinawath N,
+Wattanasirichaigoon D. Infantile onset Sandhoff disease: clinical manifestation
+and a novel common mutation in Thai patients. BMC Pediatr. 2021 Jan 7;21(1):22.
+doi: 10.1186/s12887-020-02481-3.
+Citation on PubMed
+Xiao C, Tifft C, Toro C. Sandhoff Disease. 2022 Apr 14. In: Adam MP, Feldman
+J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK579484/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+Tay-Sachs Disease
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

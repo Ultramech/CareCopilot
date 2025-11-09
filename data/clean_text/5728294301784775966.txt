@@ -1,0 +1,179 @@
+Osteopetrosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Osteopetrosis
+URL of this page: https://medlineplus.gov/genetics/condition/osteopetrosis/
+Osteopetrosis
+Description
+Osteopetrosis is a bone disease that makes bone tissue abnormally compact and dense and also prone to breakage (fracture). Researchers have described several major types of osteopetrosis, which are usually distinguished by their pattern of inheritance: autosomal dominant or autosomal recessive. The different types of the disorder can also be distinguished by the severity of their signs and symptoms.
+Autosomal dominant osteopetrosis (ADO), which is also called Albers-Schönberg disease, is typically the mildest type of the disorder. Some affected individuals have no symptoms. In affected people with no symptoms, the unusually dense bones may be discovered by accident when an x-ray is done for another reason.
+In individuals with ADO who develop signs and symptoms, the major features of the condition include multiple bone fractures after minor injury, abnormal side-to-side curvature of the spine (
+scoliosis
+) or other spinal abnormalities, arthritis in the hips, and a bone infection called osteomyelitis. These problems usually become apparent in late childhood or adolescence.
+Autosomal recessive osteopetrosis (ARO) is a more severe form of the disorder that becomes apparent in early infancy. Affected individuals have a high risk of bone fracture resulting from seemingly minor bumps and falls. Their abnormally dense skull bones pinch nerves in the head and face (
+cranial nerves
+), often resulting in vision loss, hearing loss, and paralysis of facial muscles. Dense bones can also impair the function of bone marrow, preventing it from producing new blood cells and immune system cells. As a result, people with severe osteopetrosis are at risk of abnormal bleeding, a shortage of red blood cells (
+anemia
+), and recurrent infections. In the most severe cases, these bone marrow abnormalities can be life-threatening in infancy or early childhood.
+Other features of autosomal recessive osteopetrosis can include slow growth and short stature, dental abnormalities, and an enlarged liver and spleen (hepatosplenomegaly). Depending on the genetic changes involved, people with severe osteopetrosis can also have brain abnormalities, intellectual disability, or recurrent seizures (epilepsy).
+A few individuals have been diagnosed with intermediate autosomal osteopetrosis (IAO), a form of the disorder that can have either an autosomal dominant or an autosomal recessive pattern of inheritance. The signs and symptoms of this condition become noticeable in childhood and include an increased risk of bone fracture and anemia. People with this form of the disorder typically do not have life-threatening bone marrow abnormalities. However, some affected individuals have had abnormal calcium deposits (calcifications) in the brain, intellectual disability, and a form of kidney disease called renal tubular acidosis.
+Frequency
+Autosomal dominant osteopetrosis is the most common form of the disorder, affecting about 1 in 20,000 people. Autosomal recessive osteopetrosis is rarer, occurring in an estimated 1 in 250,000 people.
+Causes
+Variants (also called mutations) in at least eight genes cause the various types of osteopetrosis. Variants in the
+CLCN7
+gene are responsible for about 75 percent of cases of autosomal dominant osteopetrosis, 10 to 15 percent of cases of autosomal recessive osteopetrosis, and all known cases of intermediate autosomal osteopetrosis.
+TCIRG1
+gene variants cause about 50 percent of cases of autosomal recessive osteopetrosis. Variants in other genes are less common causes of autosomal dominant and autosomal recessive forms of the disorder. In about 30 percent of all cases of osteopetrosis, the cause of the condition is unknown.
+The genes associated with osteopetrosis are involved in the formation, development, and function of specialized cells called osteoclasts. These cells break down bone tissue during bone remodeling, a normal process in which old bone is removed and new bone is created to replace it. Bones are constantly being remodeled, and the process is carefully controlled to ensure that bones stay strong and healthy.
+Variants in any of the genes associated with osteopetrosis lead to abnormal or missing osteoclasts. Without functional osteoclasts, old bone is not broken down as new bone is formed. As a result, bones throughout the skeleton become unusually dense. The bones are also structurally abnormal, making them prone to fracture. These problems with bone remodeling underlie all of the major features of osteopetrosis.
+Learn more about the genes associated with Osteopetrosis
+CLCN7
+ITGB3
+TCIRG1
+TNFRSF11A
+Additional Information from NCBI Gene:
+CA2
+OSTM1
+PLEKHM1
+TNFSF11
+Inheritance
+Osteopetrosis can have several different patterns of inheritance. Most commonly, the disorder has an
+autosomal dominant inheritance pattern
+, which means one copy of an altered gene in each cell is sufficient to cause the disorder. Most people with autosomal dominant osteopetrosis inherit the condition from an affected parent.
+Osteopetrosis can also be inherited in an
+autosomal recessive pattern
+, which means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital osteopetrosis
+Marble bone disease
+Osteopetroses
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal dominant osteopetrosis 1
+Genetic Testing Registry: Autosomal dominant osteopetrosis 2
+Genetic Testing Registry: Autosomal recessive osteopetrosis 1
+Genetic Testing Registry: Autosomal recessive osteopetrosis 2
+Genetic Testing Registry: Autosomal recessive osteopetrosis 4
+Genetic Testing Registry: Autosomal recessive osteopetrosis 6
+Genetic Testing Registry: Autosomal recessive osteopetrosis 7
+Genetic Testing Registry: Autosomal recessive osteopetrosis 5
+Genetic Testing Registry: Osteopetrosis with renal tubular acidosis
+Genetic and Rare Diseases Information Center
+Osteopetrosis and related disorders
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+OSTEOPETROSIS, AUTOSOMAL DOMINANT 2; OPTA2
+OSTEOPETROSIS AND INFANTILE NEUROAXONAL DYSTROPHY
+OSTEOPETROSIS, AUTOSOMAL RECESSIVE 1; OPTB1
+OSTEOPETROSIS, AUTOSOMAL RECESSIVE 2; OPTB2
+OSTEOPETROSIS, AUTOSOMAL RECESSIVE 5; OPTB5
+OSTEOPETROSIS, AUTOSOMAL RECESSIVE 3; OPTB3
+OSTEOPETROSIS, AUTOSOMAL RECESSIVE 6; OPTB6
+OSTEOPETROSIS, AUTOSOMAL RECESSIVE 7; OPTB7
+OSTEOPETROSIS, AUTOSOMAL RECESSIVE 4; OPTB4
+Scientific Articles on PubMed
+PubMed
+References
+Balemans W, Van Wesenbeeck L, Van Hul W. A clinical and molecular overview of
+the human osteopetroses. Calcif Tissue Int. 2005 Nov;77(5):263-74. doi:
+10.1007/s00223-005-0027-6. Epub 2005 Nov 16.
+Citation on PubMed
+Del Fattore A, Cappariello A, Teti A. Genetics, pathogenesis and complications
+of osteopetrosis. Bone. 2008 Jan;42(1):19-29. doi: 10.1016/j.bone.2007.08.029.
+Epub 2007 Aug 30.
+Citation on PubMed
+Del Fattore A, Peruzzi B, Rucci N, Recchia I, Cappariello A, Longo M,
+Fortunati D, Ballanti P, Iacobini M, Luciani M, Devito R, Pinto R, Caniglia M,
+Lanino E, Messina C, Cesaro S, Letizia C, Bianchini G, Fryssira H, Grabowski P,
+Shaw N, Bishop N, Hughes D, Kapur RP, Datta HK, Taranta A, Fornari R, Migliaccio
+S, Teti A. Clinical, genetic, and cellular analysis of 49 osteopetrotic patients:
+implications for diagnosis and treatment. J Med Genet. 2006 Apr;43(4):315-25.
+doi: 10.1136/jmg.2005.036673. Epub 2005 Aug 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Huybrechts Y, Van Hul W. Osteopetrosis associated with PLEKHM1 and SNX10
+genes, both involved in osteoclast vesicular trafficking. Bone. 2022
+Nov;164:116520. doi: 10.1016/j.bone.2022.116520. Epub 2022 Aug 15.
+Citation on PubMed
+Meira T, Soares-Fernandes JP. Autosomal Dominant Osteopetrosis. N Engl J Med.
+2022 Sep 29;387(13):e27. doi: 10.1056/NEJMicm2202055. Epub 2022 Sep 24. No
+abstract available.
+Citation on PubMed
+Sobacchi C, Abinun M. Osteoclast-poor osteopetrosis. Bone. 2022
+Nov;164:116541. doi: 10.1016/j.bone.2022.116541. Epub 2022 Aug 27.
+Citation on PubMed
+Sobacchi C, Frattini A, Orchard P, Porras O, Tezcan I, Andolina M, Babul-Hirji
+R, Baric I, Canham N, Chitayat D, Dupuis-Girod S, Ellis I, Etzioni A, Fasth A,
+Fisher A, Gerritsen B, Gulino V, Horwitz E, Klamroth V, Lanino E, Mirolo M, Musio
+A, Matthijs G, Nonomaya S, Notarangelo LD, Ochs HD, Superti Furga A, Valiaho J,
+van Hove JL, Vihinen M, Vujic D, Vezzoni P, Villa A. The mutational spectrum of
+human malignant autosomal recessive osteopetrosis. Hum Mol Genet. 2001 Aug
+15;10(17):1767-73. doi: 10.1093/hmg/10.17.1767.
+Citation on PubMed
+Sobacchi C, Villa A, Schulz A, Kornak U. CLCN7-Related Osteopetrosis.
+2007 Feb 12 [updated 2022 Jan 20]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA,
+Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1127/
+Citation on PubMed
+Stark Z, Savarirayan R. Osteopetrosis. Orphanet J Rare Dis. 2009 Feb 20;4:5.
+doi: 10.1186/1750-1172-4-5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tolar J, Teitelbaum SL, Orchard PJ. Osteopetrosis. N Engl J Med. 2004 Dec
+30;351(27):2839-49. doi: 10.1056/NEJMra040952. No abstract available.
+Citation on PubMed
+Villa A, Guerrini MM, Cassani B, Pangrazio A, Sobacchi C. Infantile malignant,
+autosomal recessive osteopetrosis: the rich and the poor. Calcif Tissue Int. 2009
+Jan;84(1):1-12. doi: 10.1007/s00223-008-9196-4. Epub 2008 Dec 12.
+Citation on PubMed
+Wang Z, Li X, Wang Y, Fu W, Liu Y, Zhang Z, Wang C. Natural History of Type II
+Autosomal Dominant Osteopetrosis: A Single Center Retrospective Study. Front
+Endocrinol (Lausanne). 2022 Mar 17;13:819641. doi: 10.3389/fendo.2022.819641.
+eCollection 2022.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

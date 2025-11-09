@@ -1,0 +1,131 @@
+Hartnup disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hartnup disease
+URL of this page: https://medlineplus.gov/genetics/condition/hartnup-disease/
+Hartnup disease
+Description
+Hartnup disease is a condition caused by the body's inability to absorb certain protein building blocks (amino acids) from the diet. As a result, affected individuals are not able to use these amino acids to produce other substances, such as vitamins and proteins. Most people with Hartnup disease are able to get the vitamins and other substances they need with a well-balanced diet.
+People with Hartnup disease have high levels of various amino acids in their urine (aminoaciduria). For most affected individuals, this is the only sign of the condition. However, some people with Hartnup disease have episodes during which they exhibit other signs, which can include skin rashes; difficulty coordinating movements (
+cerebellar ataxia
+); and psychiatric symptoms, such as
+depression
+or psychosis. These episodes are typically temporary and are often triggered by illness, stress, nutrient-poor diet, or fever. These features tend to go away once the trigger is remedied, although the aminoaciduria remains. In affected individuals, signs and symptoms most commonly occur in childhood.
+Frequency
+Hartnup disease is estimated to affect 1 in 30,000 individuals.
+Causes
+Hartnup disease is caused by mutations in the
+SLC6A19
+gene. This gene provides instructions for making a protein called B
+0
+AT1, which is primarily found embedded in the membrane of
+intestine
+and
+kidney
+cells. The function of this protein is to transport certain amino acids into cells. In the intestines, amino acids from food are transported into intestinal cells then released into the bloodstream so the body can use them. In the kidneys, amino acids are
+reabsorbed into the bloodstream
+instead of being removed from the body in urine. In the body, these amino acids are used in the production of many other substances, including vitamins and proteins. One particular amino acid transported by B
+0
+AT1, tryptophan, is needed to produce vitamin B3 (also known as niacin).
+SLC6A19
+gene mutations result in the production of a B
+0
+AT1 protein with reduced activity. As a result, specific amino acids cannot be taken in by cells and are instead removed from the body as waste. Because these amino acids are removed from the body without being used, people with this condition may be lacking (deficient) in certain amino acids and vitamins. However, individuals who are nutrient-deficient due to their diet, illness, stress, or a variety of other reasons, can develop serious signs and symptoms of this condition including rashes,
+cerebellar ataxia
+, and psychiatric symptoms. Researchers believe that many of these features are related to a deficiency of tryptophan and niacin, specifically.
+Learn more about the gene associated with Hartnup disease
+SLC6A19
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Hartnup disorder
+Hartnup's disease
+Neutral amino acid transport defect
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Neutral 1 amino acid transport defect
+Genetic and Rare Diseases Information Center
+Hartnup disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HARTNUP DISORDER; HND
+Scientific Articles on PubMed
+PubMed
+References
+Azmanov DN, Kowalczuk S, Rodgers H, Auray-Blais C, Giguere R, Rasko JE, Broer
+S, Cavanaugh JA. Further evidence for allelic heterogeneity in Hartnup disorder.
+Hum Mutat. 2008 Oct;29(10):1217-21. doi: 10.1002/humu.20777.
+Citation on PubMed
+Azmanov DN, Rodgers H, Auray-Blais C, Giguere R, Bailey C, Broer S, Rasko JE,
+Cavanaugh JA. Persistence of the common Hartnup disease D173N allele in
+populations of European origin. Ann Hum Genet. 2007 Nov;71(Pt 6):755-61. doi:
+10.1111/j.1469-1809.2007.00375.x. Epub 2007 Jun 7.
+Citation on PubMed
+Broer S. The role of the neutral amino acid transporter B0AT1 (SLC6A19) in
+Hartnup disorder and protein nutrition. IUBMB Life. 2009 Jun;61(6):591-9. doi:
+10.1002/iub.210.
+Citation on PubMed
+Camargo SM, Singer D, Makrides V, Huggel K, Pos KM, Wagner CA, Kuba K,
+Danilczyk U, Skovby F, Kleta R, Penninger JM, Verrey F. Tissue-specific amino
+acid transporter partners ACE2 and collectrin differentially interact with
+hartnup mutations. Gastroenterology. 2009 Mar;136(3):872-82. doi:
+10.1053/j.gastro.2008.10.055. Epub 2008 Oct 29.
+Citation on PubMed
+Kleta R, Romeo E, Ristic Z, Ohura T, Stuart C, Arcos-Burgos M, Dave MH, Wagner
+CA, Camargo SR, Inoue S, Matsuura N, Helip-Wooley A, Bockenhauer D, Warth R,
+Bernardini I, Visser G, Eggermann T, Lee P, Chairoungdua A, Jutabha P, Babu E,
+Nilwarangkoon S, Anzai N, Kanai Y, Verrey F, Gahl WA, Koizumi A. Mutations in
+SLC6A19, encoding B0AT1, cause Hartnup disorder. Nat Genet. 2004
+Sep;36(9):999-1002. doi: 10.1038/ng1405. Epub 2004 Aug 1.
+Citation on PubMed
+Seow HF, Broer S, Broer A, Bailey CG, Potter SJ, Cavanaugh JA, Rasko JE.
+Hartnup disorder is caused by mutations in the gene encoding the neutral amino
+acid transporter SLC6A19. Nat Genet. 2004 Sep;36(9):1003-7. doi: 10.1038/ng1406.
+Epub 2004 Aug 1.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Aminoaciduria
+Genetics
+Hartnup disorder
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

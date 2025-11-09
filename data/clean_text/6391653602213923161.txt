@@ -1,0 +1,137 @@
+Corticosterone methyloxidase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Corticosterone methyloxidase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/corticosterone-methyloxidase-deficiency/
+Corticosterone methyloxidase deficiency
+Description
+Corticosterone methyloxidase deficiency, also known as aldosterone synthase deficiency, is a disorder characterized by excessive amounts of sodium released in the urine (salt wasting), along with insufficient release of potassium in the urine, usually beginning in the first few weeks of life. This imbalance leads to low levels of sodium and high levels of potassium in the blood (hyponatremia and hyperkalemia, respectively). Individuals with corticosterone methyloxidase deficiency can also have high levels of acid in the blood (metabolic acidosis).
+The hyponatremia, hyperkalemia, and metabolic acidosis associated with corticosterone methyloxidase deficiency can cause nausea, vomiting, dehydration, low blood pressure, extreme tiredness (fatigue), and muscle weakness. Affected infants often experience failure to thrive, which means they do not gain weight and grow at the expected rate. Severe cases of corticosterone methyloxidase deficiency can result in seizures and coma and can be life-threatening. However, affected individuals who survive infancy generally have a normal life expectancy, and the signs and symptoms of the disorder typically become milder or disappear by adulthood.
+Frequency
+Corticosterone methyloxidase deficiency is a rare disorder; its prevalence is unknown. Researchers have described two types of the condition: Type I is more common in the Amish population of Lancaster, Pennsylvania, while type II is more common in people of Iranian Jewish ancestry. The two types have similar signs and symptoms but can be distinguished by laboratory testing.
+Causes
+Mutations in the
+CYP11B2
+gene cause corticosterone methyloxidase deficiency. This gene provides instructions for making an enzyme called aldosterone synthase. The aldosterone synthase enzyme is found in the adrenal glands, which are located on top of the kidneys.
+Aldosterone synthase helps produce a hormone called aldosterone. Aldosterone regulates blood pressure by maintaining proper salt and fluid levels in the body. The aldosterone synthase enzyme is involved in a series of three chemical reactions that produce aldosterone from other (precursor) molecules: the conversion of 11-deoxycorticosterone to corticosterone, the conversion of corticosterone to 18-hydroxycorticosterone, and the conversion of 18-hydroxycorticosterone to aldosterone.
+The
+CYP11B2
+gene mutations that cause corticosterone methyloxidase deficiency lead to insufficient production of aldosterone, which impairs the kidneys' ability to reabsorb salt (sodium chloride or NaCl) into the blood and release potassium in the urine. As a result, excessive amounts of salt in the form of charged atoms (ions) of sodium (Na
++
+) and chlorine (Cl
+-
+) leave the body in the urine, while not enough potassium is released. The resulting imbalance of ions in the body underlies the signs and symptoms of corticosterone methyloxidase deficiency.
+Learn more about the gene associated with Corticosterone methyloxidase deficiency
+CYP11B2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+18-hydroxylase deficiency
+18-oxidase deficiency
+Aldosterone deficiency
+Aldosterone deficiency due to deficiency of steroid 18-hydroxylase
+Aldosterone deficiency due to deficiency of steroid 18-oxidase
+Aldosterone synthase deficiency
+CMO deficiency
+Congenital hypoaldosteronism
+Corticosterone 18-monooxygenase deficiency
+Corticosterone methyl oxidase deficiency
+Familial hyperreninemic hypoaldosteronism
+Steroid 18-hydroxylase deficiency
+Steroid 18-oxidase deficiency
+Visser-Cost syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Corticosterone methyloxidase type 2 deficiency
+Genetic Testing Registry: Corticosterone 18-monooxygenase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CORTICOSTERONE METHYLOXIDASE TYPE I DEFICIENCY
+CORTICOSTERONE METHYLOXIDASE TYPE II DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Leshinsky-Silver E, Landau Z, Unlubay S, Bistrizer T, Zung A,
+Tenenbaum-Rakover Y, Devries L, Lev D, Hanukoglu A. Congenital hyperreninemic
+hypoaldosteronism in Israel: sequence analysis of CYP11B2 gene. Horm Res.
+2006;66(2):73-8. doi: 10.1159/000093583. Epub 2006 May 29.
+Citation on PubMed
+Lopez-Siguero JP, Garcia-Garcia E, Peter M, Sippell WG. Aldosterone synthase
+deficiency type I: hormonal and genetic analyses of two cases. Horm Res.
+1999;52(6):298-300. doi: 10.1159/000023500.
+Citation on PubMed
+Nguyen HH, Hannemann F, Hartmann MF, Malunowicz EM, Wudy SA, Bernhardt R. Five
+novel mutations in CYP11B2 gene detected in patients with aldosterone synthase
+deficiency type I: Functional characterization and structural analyses. Mol Genet
+Metab. 2010 Aug;100(4):357-64. doi: 10.1016/j.ymgme.2010.04.016. Epub 2010 May
+21.
+Citation on PubMed
+Peter M, Dubuis JM, Sippell WG. Disorders of the aldosterone synthase and
+steroid 11beta-hydroxylase deficiencies. Horm Res. 1999;51(5):211-22. doi:
+10.1159/000023374.
+Citation on PubMed
+Peter M, Fawaz L, Drop SL, Visser HK, Sippell WG. Hereditary defect in
+biosynthesis of aldosterone: aldosterone synthase deficiency 1964-1997. J Clin
+Endocrinol Metab. 1997 Nov;82(11):3525-8. doi: 10.1210/jcem.82.11.4399.
+Citation on PubMed
+Peter M. Congenital hyperreninemic hypoaldosteronism: are there different
+forms? Horm Res. 2006;66(2):79-80. doi: 10.1159/000093584. Epub 2006 May 29. No
+abstract available.
+Citation on PubMed
+Rosler A, White PC. Mutations in human 11 beta-hydroxylase genes: 11
+beta-hydroxylase deficiency in Jews of Morocco and corticosterone methyl-oxidase
+II deficiency in Jews of Iran. J Steroid Biochem Mol Biol. 1993
+Apr;45(1-3):99-106. doi: 10.1016/0960-0760(93)90128-j.
+Citation on PubMed
+White PC. Aldosterone synthase deficiency and related disorders. Mol Cell
+Endocrinol. 2004 Mar 31;217(1-2):81-7. doi: 10.1016/j.mce.2003.10.013.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Adrenal Gland Disorders
+Fluid and Electrolyte Balance
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Aldosterone blood test
+Genetics
+High potassium level
+Low blood sodium
+Potassium test
+Related Medical Tests
+Aldosterone Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

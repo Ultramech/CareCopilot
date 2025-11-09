@@ -1,0 +1,111 @@
+Heart Rate Reserve: How to Calculate It & What It Means
+Home
+/
+Health Library
+/
+Articles
+/
+Heart Rate Reserve
+Advertisement
+Advertisement
+Heart Rate Reserve
+Heart rate reserve is a fitness indicator and a more accurate way to find your target heart rate. It’s easy to calculate using your maximum heart rate and resting heart rate. A higher heart rate reserve is best, but you can improve your number with exercise.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Cardiology Care
+Cardiology Care for Children
+Make an Appointment
+What is heart rate reserve?
+Heart rate reserve is the difference between your maximum (peak) heart rate and your resting heart rate. Your maximum heart rate is the number of beats per minute your heart can reach during exercise. Your resting heart rate is the number of beats per minute when you’re not exercising.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Heart rate reserve is one way to measure cardiovascular fitness.
+Your
+heart rate
+is the number of times your heart beats in one minute. Your heart rate plays a major role in determining your
+cardiac output
+. Your heart’s job is to make sure all the cells in your body get the oxygen and nutrients they need. Day or night, whether you’re asleep or running, your heart must adapt to supply your working cells, muscles and tissues with blood.
+Every time your heart contracts to pump blood, it’s a heartbeat. The number of heartbeats per minute (or heart rate) you have throughout the day varies.
+Factors that influence your heart rate
+These factors affect your heart rate:
+Your activity level and oxygen intake
+. Your oxygen intake and heart rate go up when you exercise.
+Use of tobacco products
+. Tobacco use can increase your resting heart rate.
+How much alcohol you drink
+.
+Alcohol
+can temporarily raise your heart rate.
+Your age
+. As you age, your heart rate gets lower and doesn’t go up as much during exercise as it did when you were younger.
+Medical conditions you have
+. Heart disease,
+cardiomyopathy
+or other heart conditions can raise your heart rate. Hypothyroidism, certain infections and other conditions can lower your heart rate.
+What you’re feeling at the time
+. Anger and fear increase your heart rate. Calm emotions do the opposite.
+Medicines you take
+.
+Beta-blockers
+, depressants,
+narcotics
+and other prescription drugs can lower your heart rate. Medicines to treat colds or
+asthma
+can increase your heart rate.
+Advertisement
+How do you calculate your heart rate reserve?
+The heart rate reserve formula is maximum heart rate minus resting heart rate. Another name for the heart rate reserve formula is the Karvonen method.
+Maximum heart rate
+is 220 minus your age. Because this method can be off by 10 to 12 beats per minute, researchers have proposed an alternate way to figure maximum heart rate. You can take 0.7, multiply it by your age and then subtract this total from 207 to get your maximum heart rate.
+Resting heart rate
+is how many times your heart beats each minute when you’re not exerting yourself. You can get a good measurement of this when you’re not drinking coffee, feeling stressed or moving around. Most people have a resting heart rate of 60 to 100 beats a minute. Athletes can have a resting heart rate as low as 40 beats per minute because of their fitness level.
+How to measure your heart rate
+If you have a
+wearable fitness tracker
+, it should tell you your current heart rate.
+You can also
+measure your heart rate yourself
+. To do this, put two fingertips against your wrist (on the same side as the palm of your hand). Count the number of heartbeats you have for one minute. You can also count for 30 seconds and then double that number to equal the number of beats in one minute.
+What does heart rate reserve tell you?
+Heart rate reserve is one way to tell how fit you are. The calculation comes from subtracting your resting heart rate from your maximum heart rate. The more fit you are, the lower your resting heart rate will be. When you have a low resting heart rate, your heart rate reserve is high.
+When do people calculate heart rate reserve?
+Cardiac rehab
+programs use heart rate reserve to figure out the best intensity level for your workouts. In one study, people doing cardiac rehab aimed for a heart rate of 60% to 80% of heart rate reserve plus resting heart rate.
+You can use this formula to figure out your target heart rate for your workouts, too. Just replace the 40% to 80% with the training zone percentage you want. You may warm up at a target heart rate of 50% to 60% and work your way up to higher numbers, depending on the sport and your goals.
+Using heart rate reserve may be more accurate than the simpler method, which is to aim for a percentage of your maximum heart rate when working out. For moderate intensity, aim for 64% to 76% of your maximum heart rate. For higher-intensity workouts, shoot for 77% to 93% of your maximum heart rate.
+Why is heart rate reserve important?
+A study of
+males
+found that the risk of
+sudden cardiac death
+over a time frame of 30+ years was highest for those with low heart rate reserve during exercise. In that study, males with a heart rate reserve of 17 to 85 beats per minute were at a much higher risk of sudden cardiac death than those with a heart rate reserve higher than 85 beats per minute.
+Advertisement
+What is a good number for heart rate reserve?
+A good heart rate reserve number is different for everyone. However, a higher number is better. Exercise can improve your heart rate reserve, no matter what age you are.
+A note from Cleveland Clinic
+Heart rate reserve can help you measure your fitness level and find your target heart rate zone. But if you don’t want to do the math, there’s an easier way to estimate the intensity of an activity. If you can still talk while exercising, you’re at moderate intensity. When you can’t talk much, you’re exercising at vigorous intensity. Both of these levels are in your target heart rate zone.
+Advertisement
+Care at Cleveland Clinic
+When your heart needs some help, the cardiology experts at Cleveland Clinic are here for you. We diagnose and treat the full spectrum of cardiovascular diseases.
+Cardiology Care
+Cardiology Care for Children
+Make an Appointment
+Medically Reviewed
+Last reviewed on 01/25/2023.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointments
+800.659.7822
+Appointments & Locations
+Talk to a Heart Nurse
+Request an Appointment

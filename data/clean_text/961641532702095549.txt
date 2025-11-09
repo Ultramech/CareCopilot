@@ -1,0 +1,167 @@
+Vitamin D-dependent rickets: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Vitamin D-dependent rickets
+URL of this page: https://medlineplus.gov/genetics/condition/vitamin-d-dependent-rickets/
+Vitamin D-dependent rickets
+Description
+Vitamin D-dependent rickets is a disorder of bone development that leads to softening and weakening of the bones (rickets). There are several forms of the condition that are distinguished primarily by their genetic causes: type 1A (VDDR1A), type 1B (VDDR1B), and type 2A (VDDR2A). There is also evidence of a very rare form of the condition, called type 2B (VDDR2B), although not much is known about this form.
+The signs and symptoms of vitamin D-dependent rickets begin within months after birth, and most are the same for all types of the condition. The weak bones often cause bone pain and delayed growth and have a tendency to fracture. When affected children begin to walk, they may develop abnormally curved (bowed) legs because the bones are too weak to bear weight. Impaired bone development also results in widening of the areas near the ends of bones where new bone forms (metaphyses), especially in the knees, wrists, and ribs. Some people with vitamin D-dependent rickets have dental abnormalities such as thin tooth enamel and frequent cavities. Poor muscle tone (hypotonia) and muscle weakness are also common in this condition, and some affected individuals develop seizures.
+In vitamin D-dependent rickets, there is an imbalance of certain substances in the blood. An early sign in all types of the condition is low levels of the mineral calcium (hypocalcemia), which is essential for the normal formation of bones and teeth. Affected individuals also develop high levels of a hormone involved in regulating calcium levels called parathyroid hormone (PTH), which leads to a condition called secondary hyperparathyroidism. Low levels of a mineral called phosphate (hypophosphatemia) also occur in affected individuals. Vitamin D-dependent rickets types 1 and 2 can be grouped by blood levels of a hormone called calcitriol, which is the active form of vitamin D; individuals with VDDR1A and VDDR1B have abnormally low levels of calcitriol and individuals with VDDR2A and VDDR2B have abnormally high levels.
+Hair loss (
+alopecia
+) can occur in VDDR2A, although not everyone with this form of the condition has alopecia. Affected individuals can have sparse or patchy hair or no hair at all on their heads. Some affected individuals are missing body hair as well.
+Frequency
+Rickets affects an estimated 1 in 200,000 children. The condition is most often caused by a lack of vitamin D in the diet or insufficient sun exposure rather than genetic mutations. Genetic forms of rickets, including vitamin D-dependent rickets, are much less common. The prevalence of the different types of vitamin D-dependent rickets is unknown. VDDR1A is more common in the French Canadian population than in other populations.
+Causes
+Each type of vitamin D-dependent rickets has a different genetic cause: VDDR1A is caused by
+CYP27B1
+gene mutations, VDDR1B is caused by
+CYP2R1
+gene mutations, and VDDR2A is caused by
+VDR
+gene mutations. The genetic cause of VDDR2B is unknown. These genes are involved in the body's response to vitamin D, an important vitamin that can be acquired from foods in the diet or made by the body with the help of sunlight exposure. Vitamin D helps maintain the proper balance of several minerals in the body, including calcium and phosphate. These minerals are needed for many functions, including the breakdown of substances (metabolic processes), signaling between cells, and the deposition of minerals in developing bones (bone mineralization). One of vitamin D's major roles is to control the absorption of calcium and phosphate from the intestines into the bloodstream.
+The
+CYP2R1
+gene provides instructions for making an enzyme called 25-hydroxylase, and the
+CYP27B1
+gene provides instructions for making an enzyme called 1-alpha-hydroxylase (1α-hydroxylase). These enzymes carry out the reactions that convert vitamin D to its active form, calcitriol. Once converted, calcitriol attaches (binds) to a protein called vitamin D receptor (VDR), which is produced from the
+VDR
+gene. The resulting calcitriol-VDR complex then binds to particular regions of DNA and regulates the activity of vitamin D-responsive genes. By turning these genes on or off, the calcitriol-VDR complex helps control the absorption of calcium and phosphate and other processes that regulate calcium levels in the body. The VDR protein is also involved in hair growth through a process that does not require calcitriol binding.
+Mutations in any of these genes prevent the body from responding to vitamin D.
+CYP2R1
+and
+CYP27B1
+gene mutations reduce or eliminate the activity of the respective enzyme, which means vitamin D is not converted to its active form. The absence of calcitriol means vitamin D-responsive genes are not turned on (activated).
+VDR
+gene mutations alter the vitamin D receptor, often preventing the receptor from interacting with calcitriol or with DNA. As a result VDR cannot regulate gene activity, even with normal amounts of calcitriol in the body.
+Without activation of vitamin D-responsive genes, absorption of calcium and phosphate falls, leading to hypocalcemia and hypophosphatemia. The lack of calcium and phosphate slows bone mineralization, which leads to soft, weak bones and other features of vitamin D-dependent rickets. Low levels of calcium stimulate production of PTH, resulting in secondary hyperparathyroidism. Hypocalcemia can also cause muscle weakness and seizures in individuals with vitamin D-dependent rickets. Certain abnormalities in the VDR protein also impair hair growth, causing alopecia in some people with VDDR2A.
+Learn more about the genes associated with Vitamin D-dependent rickets
+CYP27B1
+CYP2R1
+VDR
+Inheritance
+Vitamin D-dependent rickets is almost always inherited in an
+autosomal recessive pattern
+, which means both copies of the respective gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+In at least one family with VDDR1B, individuals with a mutation in one copy of the
+CYP2R1
+gene had mild symptoms of vitamin D-dependent rickets, and those with a mutation in both copies had the typical signs and symptoms of the condition. This inheritance pattern is referred to as incomplete autosomal dominance.
+In very rare cases, VDDR2A may be inherited in an
+autosomal dominant pattern
+. Autosomal dominant inheritance means one copy of the altered
+VDR
+gene in each cell is sufficient to cause the disorder. In these cases, an affected person has one parent with the condition.
+Other Names for This Condition
+VDDR
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Vitamin D-dependent rickets type II with alopecia
+Genetic Testing Registry: Vitamin D-dependent rickets, type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+VITAMIN D HYDROXYLATION-DEFICIENT RICKETS, TYPE 1B; VDDR1B
+VITAMIN D-DEPENDENT RICKETS, TYPE 2A; VDDR2A
+VITAMIN D-DEPENDENT RICKETS, TYPE 2B, WITH NORMAL VITAMIN D RECEPTOR; VDDR2B
+VITAMIN D HYDROXYLATION-DEFICIENT RICKETS, TYPE 1A; VDDR1A
+Scientific Articles on PubMed
+PubMed
+References
+Chen H, Hewison M, Hu B, Adams JS. Heterogeneous nuclear ribonucleoprotein
+(hnRNP) binding to hormone response elements: a cause of vitamin D resistance.
+Proc Natl Acad Sci U S A. 2003 May 13;100(10):6109-14. doi:
+10.1073/pnas.1031395100. Epub 2003 Apr 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Durmaz E, Zou M, Al-Rijjal RA, Bircan I, Akcurin S, Meyer B, Shi Y. Clinical
+and genetic analysis of patients with vitamin D-dependent rickets type 1A. Clin
+Endocrinol (Oxf). 2012 Sep;77(3):363-9. doi: 10.1111/j.1365-2265.2012.04394.x.
+Citation on PubMed
+Feldman D, J Malloy P. Mutations in the vitamin D receptor and hereditary
+vitamin D-resistant rickets. Bonekey Rep. 2014 Mar 5;3:510. doi:
+10.1038/bonekey.2014.5. eCollection 2014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Malloy PJ, Feldman D. Genetic disorders and defects in vitamin d action.
+Endocrinol Metab Clin North Am. 2010 Jun;39(2):333-46, table of contents. doi:
+10.1016/j.ecl.2010.02.004.
+Citation on PubMed
+or
+Free article on PubMed Central
+Malloy PJ, Feldman D. The role of vitamin D receptor mutations in the
+development of alopecia. Mol Cell Endocrinol. 2011 Dec 5;347(1-2):90-6. doi:
+10.1016/j.mce.2011.05.045. Epub 2011 Jun 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Malloy PJ, Tasic V, Taha D, Tutunculer F, Ying GS, Yin LK, Wang J, Feldman D.
+Vitamin D receptor mutations in patients with hereditary 1,25-dihydroxyvitamin
+D-resistant rickets. Mol Genet Metab. 2014 Jan;111(1):33-40. doi:
+10.1016/j.ymgme.2013.10.014. Epub 2013 Nov 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Molin A, Wiedemann A, Demers N, Kaufmann M, Do Cao J, Mainard L, Dousset B,
+Journeau P, Abeguile G, Coudray N, Mittre H, Richard N, Weryha G, Sorlin A, Jones
+G, Kottler ML, Feillet F. Vitamin D-Dependent Rickets Type 1B (25-Hydroxylase
+Deficiency): A Rare Condition or a Misdiagnosed Condition? J Bone Miner Res. 2017
+Sep;32(9):1893-1899. doi: 10.1002/jbmr.3181. Epub 2017 Jul 13.
+Citation on PubMed
+Ryan JW, Anderson PH, Turner AG, Morris HA. Vitamin D activities and metabolic
+bone disease. Clin Chim Acta. 2013 Oct 21;425:148-52. doi:
+10.1016/j.cca.2013.07.024. Epub 2013 Jul 30.
+Citation on PubMed
+Thacher TD, Fischer PR, Singh RJ, Roizen J, Levine MA. CYP2R1 Mutations Impair
+Generation of 25-hydroxyvitamin D and Cause an Atypical Form of Vitamin D
+Deficiency. J Clin Endocrinol Metab. 2015 Jul;100(7):E1005-13. doi:
+10.1210/jc.2015-1746. Epub 2015 May 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+Rickets
+MEDICAL ENCYCLOPEDIA
+Bowlegs
+Genetics
+Rickets
+Related Medical Tests
+Vitamin D Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

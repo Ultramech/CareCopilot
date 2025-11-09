@@ -1,0 +1,127 @@
+Juvenile Paget disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Juvenile Paget disease
+URL of this page: https://medlineplus.gov/genetics/condition/juvenile-paget-disease/
+Juvenile Paget disease
+Description
+Juvenile Paget disease is a disorder that affects bone growth. This disease causes bones to be abnormally large, misshapen, and easily broken (fractured).
+The signs of juvenile Paget disease appear in infancy or early childhood. As bones grow, they become progressively weaker and more deformed. These abnormalities usually become more severe during the adolescent growth spurt, when bones grow very quickly.
+Juvenile Paget disease affects the entire skeleton, resulting in widespread bone and joint pain. The bones of the skull tend to grow unusually large and thick, which can lead to hearing loss. The disease also affects bones of the spine (
+vertebrae
+). The deformed vertebrae can collapse, leading to
+abnormal curvature of the spine
+. Additionally, weight-bearing long bones in the legs tend to bow and fracture easily, which can interfere with standing and walking.
+Frequency
+Juvenile Paget disease is rare; about 50 affected individuals have been identified worldwide.
+Causes
+Juvenile Paget disease is caused by mutations in the
+TNFRSF11B
+gene. This gene provides instructions for making a protein that is involved in bone remodeling, a normal process in which old bone is broken down and new bone is created to replace it.
+Bones are constantly being remodeled, and the process is carefully controlled to ensure that bones stay strong and healthy. Mutations in the
+TNFRSF11B
+gene lead to a much faster rate of bone remodeling starting early in life. Bone tissue is broken down more quickly than usual, and when new bone tissue grows it is larger, weaker, and less organized than normal bone. This abnormally fast bone remodeling underlies the problems with bone growth characteristic of juvenile Paget disease.
+Learn more about the gene associated with Juvenile Paget disease
+TNFRSF11B
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Chronic congenital idiopathic hyperphosphatasemia
+Familial idiopathic hyperphosphatasemia
+Familial osteoectasia
+Hyperostosis corticalis deformans juvenilis
+Hyperphosphatasemia with bone disease
+Hyperphosphatasia, familial idiopathic
+Idiopathic hyperphosphatasia
+JPD
+Juvenile Paget's disease
+Osteochalasia desmalis familiaris
+Osteoectasia with hyperphosphatasia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hyperphosphatasemia with bone disease
+Genetic and Rare Diseases Information Center
+Juvenile Paget disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PAGET DISEASE OF BONE 5, JUVENILE-ONSET; PDB5
+Scientific Articles on PubMed
+PubMed
+References
+Chong B, Hegde M, Fawkner M, Simonet S, Cassinelli H, Coker M, Kanis J, Seidel
+J, Tau C, Tuysuz B, Yuksel B, Love D; International Hyperphosphatasia
+Collaborative Group. Idiopathic hyperphosphatasia and TNFRSF11B mutations:
+relationships between phenotype and genotype. J Bone Miner Res. 2003
+Dec;18(12):2095-104. doi: 10.1359/jbmr.2003.18.12.2095.
+Citation on PubMed
+Cundy T, Hegde M, Naot D, Chong B, King A, Wallace R, Mulley J, Love DR,
+Seidel J, Fawkner M, Banovic T, Callon KE, Grey AB, Reid IR, Middleton-Hardie CA,
+Cornish J. A mutation in the gene TNFRSF11B encoding osteoprotegerin causes an
+idiopathic hyperphosphatasia phenotype. Hum Mol Genet. 2002 Sep 1;11(18):2119-27.
+doi: 10.1093/hmg/11.18.2119.
+Citation on PubMed
+Cundy T. Idiopathic hyperphosphatasia. Semin Musculoskelet Radiol. 2002
+Dec;6(4):307-12. doi: 10.1055/s-2002-36729.
+Citation on PubMed
+Daroszewska A, Ralston SH. Mechanisms of disease: genetics of Paget's disease
+of bone and related disorders. Nat Clin Pract Rheumatol. 2006 May;2(5):270-7.
+doi: 10.1038/ncprheum0172.
+Citation on PubMed
+Janssens K, de Vernejoul MC, de Freitas F, Vanhoenacker F, Van Hul W. An
+intermediate form of juvenile Paget's disease caused by a truncating TNFRSF11B
+mutation. Bone. 2005 Mar;36(3):542-8. doi: 10.1016/j.bone.2004.12.004.
+Citation on PubMed
+Lucas GJ, Daroszewska A, Ralston SH. Contribution of genetic factors to the
+pathogenesis of Paget's disease of bone and related disorders. J Bone Miner Res.
+2006 Dec;21 Suppl 2:P31-7. doi: 10.1359/jbmr.06s206.
+Citation on PubMed
+Ralston SH. Juvenile Paget's disease, familial expansile osteolysis and other
+genetic osteolytic disorders. Best Pract Res Clin Rheumatol. 2008
+Mar;22(1):101-11. doi: 10.1016/j.berh.2007.11.005.
+Citation on PubMed
+Whyte MP, Obrecht SE, Finnegan PM, Jones JL, Podgornik MN, McAlister WH, Mumm
+S. Osteoprotegerin deficiency and juvenile Paget's disease. N Engl J Med. 2002
+Jul 18;347(3):175-84. doi: 10.1056/NEJMoa013096.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

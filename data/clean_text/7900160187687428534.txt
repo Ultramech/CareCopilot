@@ -1,0 +1,145 @@
+Hereditary folate malabsorption: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary folate malabsorption
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-folate-malabsorption/
+Hereditary folate malabsorption
+Description
+Hereditary folate malabsorption is a disorder that interferes with the body's ability to use certain vitamins from food. During digestion, the body cannot take in (absorb) certain B vitamins called folates. Folates are important for cell growth and function and blood cell formation.
+Infants with hereditary folate malabsorption are born with normal amounts of folates in their body because they get these vitamins through the placenta before birth. Affected babies generally begin to show signs and symptoms of the disorder within the first few months of life when they cannot use the folates they get from food.
+Infants with hereditary folate malabsorption often experience feeding difficulties, diarrhea, and swelling or irritation on the inside of the mouth (oral mucositis). These babies also do not gain weight and grow at the expected rate (failure to thrive). Affected individuals usually develop a blood disorder called megaloblastic anemia. Megaloblastic anemia occurs when a person has a low number of red blood cells (
+anemia
+), and the remaining red blood cells are larger than normal (
+megaloblastic
+). People with hereditary folate malabsorption may also have fewer white blood cells (leukopenia), making them more susceptible to infections. In addition, some affected individuals have fewer platelets (thrombocytopenia), which means they can bruise easily.
+Without treatment, affected individuals may develop neurological problems such as developmental delays, intellectual disabilities, seizures, and difficulty coordinating movements (ataxia). Abnormal deposits of calcium (calcification) in the brain may also occur.
+Pregnant women with hereditary folate malabsorption who are receiving treatment for the vitamin deficiency do not appear to have an increased risk of having children with birth defects caused by folate deficiency, such as
+spina bifida
+or
+anencephaly
+.
+Frequency
+The prevalence of hereditary folate malabsorption is unknown. About 60 affected individuals have been reported worldwide. Researchers believe this disorder may not be identified or treated in some infants, particularly in areas where advanced medical care is not available.
+Causes
+Hereditary folate malabsorption is caused by variants (also called mutations) in the
+SLC46A1
+gene. The
+SLC46A1
+gene provides instructions for making a protein called the proton-coupled folate transporter (PCFT). This protein is found within the membrane of cells, where it helps transport folate into the inside the cell. PCFT is primarily found in cells that line the walls of the small intestine. PCFT transports folate that is absorbed from food into cells of the small intestine so it can be used by the body. PCFT is also found in the brain, where it is involved in the transport of folates between the brain and the surrounding fluid (
+cerebrospinal fluid
+).
+Variants in the
+SLC46A1
+gene result in a PCFT protein that has little or no activity. In some cases, the altered protein is missing from the cell membranes where it is needed to perform its function. Without functional PCFT, cells in the small intestine cannot absorb folates from food and cells in the brain cannot transport folate to the cerebrospinal fluid. These folate deficiencies result in the digestive issues, neurological problems, and other signs and symptoms of hereditary folate malabsorption.
+Learn more about the gene associated with Hereditary folate malabsorption
+SLC46A1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital defect of folate absorption
+Congenital folate malabsorption
+Folic acid transport defect
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital defect of folate absorption
+Genetic and Rare Diseases Information Center
+Hereditary folate malabsorption
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+FOLATE MALABSORPTION, HEREDITARY
+Scientific Articles on PubMed
+PubMed
+References
+Goldman ID. Hereditary Folate Malabsorption. 2008 Jun 17 [updated 2024 Feb
+15]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1673/
+Citation on PubMed
+Lasry I, Berman B, Straussberg R, Sofer Y, Bessler H, Sharkia M, Glaser F,
+Jansen G, Drori S, Assaraf YG. A novel loss-of-function mutation in the
+proton-coupled folate transporter from a patient with hereditary folate
+malabsorption reveals that Arg 113 is crucial for function. Blood. 2008 Sep
+1;112(5):2055-61. doi: 10.1182/blood-2008-04-150276. Epub 2008 Jun 17.
+Citation on PubMed
+Qiu A, Jansen M, Sakaris A, Min SH, Chattopadhyay S, Tsai E, Sandoval C, Zhao
+R, Akabas MH, Goldman ID. Identification of an intestinal folate transporter and
+the molecular basis for hereditary folate malabsorption. Cell. 2006 Dec
+1;127(5):917-28. doi: 10.1016/j.cell.2006.09.041.
+Citation on PubMed
+Shulpekova Y, Nechaev V, Kardasheva S, Sedova A, Kurbatova A, Bueverova E,
+Kopylov A, Malsagova K, Dlamini JC, Ivashkin V. The Concept of Folic Acid in
+Health and Disease. Molecules. 2021 Jun 18;26(12):3731. doi:
+10.3390/molecules26123731.
+Citation on PubMed
+Wolf G. Identification of proton-coupled high-affinity human intestinal folate
+transporter mutated in human hereditary familial folate malabsorption. Nutr Rev.
+2007 Dec;65(12 Pt 1):554-7. doi: 10.1301/nr.2007.dec.554-557.
+Citation on PubMed
+Zhao R, Aluri S, Goldman ID. The proton-coupled folate transporter
+(PCFT-SLC46A1) and the syndrome of systemic and cerebral folate deficiency of
+infancy: Hereditary folate malabsorption. Mol Aspects Med. 2017 Feb;53:57-72.
+doi: 10.1016/j.mam.2016.09.002. Epub 2016 Sep 21.
+Citation on PubMed
+Zhao R, Matherly LH, Goldman ID. Membrane transporters and folate homeostasis:
+intestinal absorption and transport into systemic compartments and tissues.
+Expert Rev Mol Med. 2009 Jan 28;11:e4. doi: 10.1017/S1462399409000969.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zhao R, Min SH, Qiu A, Sakaris A, Goldberg GL, Sandoval C, Malatack JJ,
+Rosenblatt DS, Goldman ID. The spectrum of mutations in the PCFT gene, coding for
+an intestinal folate transporter, that are the basis for hereditary folate
+malabsorption. Blood. 2007 Aug 15;110(4):1147-52. doi:
+10.1182/blood-2007-02-077099. Epub 2007 Apr 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Anemia
+Folic Acid
+Genetic Disorders
+Malabsorption Syndromes
+MEDICAL ENCYCLOPEDIA
+Folate deficiency
+Folate-deficiency anemia
+Folic acid in diet
+Genetics
+Malabsorption
+Megaloblastic Anemia (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

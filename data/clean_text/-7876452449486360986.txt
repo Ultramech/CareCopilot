@@ -1,0 +1,112 @@
+Tarsal-carpal coalition syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Tarsal-carpal coalition syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/tarsal-carpal-coalition-syndrome/
+Tarsal-carpal coalition syndrome
+Description
+Tarsal-carpal coalition syndrome is a rare, inherited bone disorder that affects primarily the hands and feet. Several individual bones make up each wrist (carpal bones) and ankle (tarsal bones). In tarsal-carpal coalition syndrome, the carpal bones fuse together, as do the tarsal bones, which causes stiffness and immobility of the hands and feet. Symptoms of the condition can become apparent in infancy, and they worsen with age. The severity of the symptoms can vary, even among members of the same family.
+In this condition, fusion at the joints between the bones that make up each finger and toe (symphalangism) can also occur. Consequently, the fingers and toes become stiff and difficult to bend. Stiffness of the pinky fingers and toes (fifth digits) is usually noticeable first. The joints at the base of the pinky fingers and toes fuse first, and slowly, the other joints along the length of these digits may also be affected. Progressively, the bones in the fourth, third, and second digits (the ring finger, middle finger, and forefinger, and the corresponding toes) become fused. The thumb and big toe are usually not involved. Affected individuals have increasing trouble forming a fist, and walking often becomes painful and difficult. Occasionally, there is also fusion of bones in the upper and lower arm at the elbow joint (humeroradial fusion). Less common features of tarsal-carpal coalition syndrome include short stature or the development of hearing loss.
+Frequency
+This condition is very rare; however, the exact prevalence is unknown.
+Causes
+Tarsal-carpal coalition syndrome is caused by mutations in the
+NOG
+gene, which provides instructions for making a protein called noggin. This protein plays an important role in proper bone and joint development by blocking (inhibiting) signals that stimulate bone formation. The noggin protein attaches (binds) to proteins called bone morphogenetic proteins (BMPs), which keeps the BMPs from triggering signals for the development of bone.
+NOG
+gene mutations that cause tarsal-carpal coalition syndrome reduce the amount of functional noggin protein. With decreased noggin function, BMPs abnormally stimulate bone formation in joint areas, where there should be no bone, causing the bone fusions seen in people with tarsal-carpal coalition syndrome.
+Mutations in the
+NOG
+gene are involved in several disorders with overlapping signs and symptoms. Because of a shared genetic cause and overlapping features, researchers have suggested that these conditions, including tarsal-carpal coalition syndrome, represent a spectrum of related conditions referred to as
+NOG
+-related-symphalangism spectrum disorder (
+NOG
+-SSD).
+Learn more about the gene associated with Tarsal-carpal coalition syndrome
+NOG
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+NOG-related-symphalangism spectrum disorder
+TCC
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Tarsal-carpal coalition syndrome
+Genetic and Rare Diseases Information Center
+Tarsal-carpal coalition syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+TARSAL-CARPAL COALITION SYNDROME; TCC
+Scientific Articles on PubMed
+PubMed
+References
+Dixon ME, Armstrong P, Stevens DB, Bamshad M. Identical mutations in NOG can
+cause either tarsal/carpal coalition syndrome or proximal symphalangism. Genet
+Med. 2001 Sep-Oct;3(5):349-53. doi: 10.1097/00125817-200109000-00004.
+Citation on PubMed
+Drawbert JP, Stevens DB, Cadle RG, Hall BD. Tarsal and carpal coalition and
+symphalangism of the Fuhrmann type. Report of a family. J Bone Joint Surg Am.
+1985 Jul;67(6):884-9.
+Citation on PubMed
+Groppe J, Greenwald J, Wiater E, Rodriguez-Leon J, Economides AN, Kwiatkowski
+W, Affolter M, Vale WW, Izpisua Belmonte JC, Choe S. Structural basis of BMP
+signalling inhibition by the cystine knot protein Noggin. Nature. 2002 Dec
+12;420(6916):636-42. doi: 10.1038/nature01245.
+Citation on PubMed
+Marcelino J, Sciortino CM, Romero MF, Ulatowski LM, Ballock RT, Economides AN,
+Eimon PM, Harland RM, Warman ML. Human disease-causing NOG missense mutations:
+effects on noggin secretion, dimer formation, and bone morphogenetic protein
+binding. Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11353-8. doi:
+10.1073/pnas.201367598. Epub 2001 Sep 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Potti TA, Petty EM, Lesperance MM. A comprehensive review of reported
+heritable noggin-associated syndromes and proposed clinical utility of one
+broadly inclusive diagnostic term: NOG-related-symphalangism spectrum disorder
+(NOG-SSD). Hum Mutat. 2011 Aug;32(8):877-86. doi: 10.1002/humu.21515. Epub 2011
+Jun 21.
+Citation on PubMed
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

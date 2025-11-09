@@ -1,0 +1,214 @@
+Kallmann syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Kallmann syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/kallmann-syndrome/
+Kallmann syndrome
+Description
+Kallmann syndrome is a condition characterized by delayed or absent puberty and an impaired sense of smell.
+This disorder is a form of hypogonadotropic hypogonadism, which is a condition resulting from a lack of production of certain hormones that direct sexual development. These hormones are normally made in a part of the brain called the hypothalamus. Males born with hypogonadotropic hypogonadism often have an unusually small penis (micropenis) and undescended testes (cryptorchidism). At puberty, most affected individuals do not develop secondary sex characteristics, such as the growth of facial hair and deepening of the voice in males, the start of monthly periods (menstruation) and breast development in females, and a growth spurt in both sexes. Without treatment, most affected men and women are unable to have biological children (infertile).
+In Kallmann syndrome, the sense of smell is either diminished (hyposmia) or completely absent (anosmia). This feature distinguishes Kallmann syndrome from most other forms of hypogonadotropic hypogonadism, which do not affect the sense of smell. Many people with Kallmann syndrome are not aware that they are unable to detect odors until the impairment is discovered through testing.
+Kallmann syndrome can have a wide variety of additional signs and symptoms. These include a failure of one kidney to develop (unilateral renal agenesis), abnormalities of bones in the fingers or toes, a
+cleft lip
+with or without an opening in the roof of the mouth (
+a cleft palate
+), abnormal eye movements, hearing loss, and abnormalities of tooth development. Some affected individuals have a feature called bimanual synkinesis, in which the movements of one hand are mirrored by the other hand. Bimanual synkinesis can make it difficult to do tasks that require the hands to move separately, such as playing a musical instrument.
+Frequency
+Kallmann syndrome occurs more often in males than in females, with an estimated prevalence of 1 in 30,000 males and 1 in 120,000 females.
+Causes
+Changes in more than 20 genes have been associated with Kallmann syndrome. Among the most common causes of the condition are mutations in the
+ANOS1
+,
+CHD7
+,
+FGF8
+,
+FGFR1
+,
+PROK2
+, or
+PROKR2
+gene. In some cases, affected individuals have mutations in more than one of these genes. Additionally, researchers have identified mutations in other genes that may contribute to the development and features of Kallmann syndrome, but are unlikely to cause the disease on their own.
+The genes associated with Kallmann syndrome play roles in the development of certain areas of the brain before birth. Although some of their specific functions are unclear, these genes appear to be involved in the formation and movement (migration) of a group of nerve cells that are specialized to process the sense of smell (olfactory neurons). These nerve cells originate in the developing nose and then migrate together to a structure in the front of the brain called the olfactory bulb, which is critical for the perception of odors. Studies suggest that the genes associated with Kallmann syndrome are also involved in the migration of neurons that produce a hormone called gonadotropin-releasing hormone (GnRH). Like olfactory neurons, GnRH-producing neurons migrate from the developing nose to the front of the brain. GnRH controls the production of several hormones that direct sexual development before birth and during puberty. These hormones are important for the normal function of the ovaries in women and testes in men.
+Studies suggest that mutations in genes associated with Kallmann syndrome disrupt the migration of olfactory nerve cells and GnRH-producing nerve cells in the developing brain. If olfactory nerve cells do not extend to the olfactory bulb, a person's sense of smell will be impaired or absent. Misplacement of GnRH-producing neurons in the brain prevents the production of other sex hormones, which interferes with normal sexual development and causes the characteristic features of hypogonadotropic hypogonadism. It is unclear how gene mutations lead to the other signs and symptoms that can occur in Kallmann syndrome. Because the features of this condition vary among individuals, additional genetic and environmental factors likely contribute to this disease.
+Together, mutations in known genes account for about 30 percent of all cases of Kallmann syndrome. In cases without a mutation in one of the identified genes, the cause of the condition is unknown. Researchers are looking for additional genetic changes that can cause this disorder.
+Learn more about the genes associated with Kallmann syndrome
+ANOS1
+CHD7
+FGF8
+FGFR1
+PROK2
+PROKR2
+SOX10
+Additional Information from NCBI Gene:
+AXL
+CCDC141
+DUSP6
+FEZF1
+FGF17
+FLRT3
+HS6ST1
+IL17RD
+NSMF
+SEMA3A
+SEMA7A
+SPRY4
+WDR11
+Inheritance
+When Kallmann syndrome is caused by
+ANOS1
+gene mutations, the condition has an
+X-linked recessive pattern
+of inheritance. The
+ANOS1
+gene is located on the X chromosome, which is one of the two
+sex chromosomes
+. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to be present in both copies of the gene to cause the disorder. No females with two
+ANOS1
+gene mutations have been reported in the medical literature. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Most of the time, people with Kallmann syndrome resulting from an
+ANOS1
+gene mutation inherit the mutation from their mothers, who carry a single altered copy of the gene in each cell (and generally do not have any signs or symptoms of the condition). Other people have Kallmann syndrome as a result of a new mutation in the
+ANOS1
+gene.
+When Kallmann syndrome results from mutations in other genes, it often has an autosomal dominant pattern of inheritance, which means one copy of an altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from
+an affected mother or father
+. Other cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+In several families, Kallmann syndrome has shown an
+autosomal recessive pattern
+of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Anosmic hypogonadism
+Anosmic idiopathic hypogonadotropic hypogonadism
+Hypogonadism with anosmia
+Hypogonadotropic hypogonadism and anosmia
+Hypogonadotropic hypogonadism-anosmia syndrome
+Kallman's syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hypogonadotropic hypogonadism 3 with or without anosmia
+Genetic Testing Registry: Hypogonadism with anosmia
+Genetic Testing Registry: Hypogonadotropic hypogonadism 1 with or without anosmia
+Genetic Testing Registry: Hypogonadotropic hypogonadism 2 with or without anosmia
+Genetic Testing Registry: Hypogonadotropic hypogonadism 4 with or without anosmia
+Genetic Testing Registry: Hypogonadotropic hypogonadism 5 with or without anosmia
+Genetic Testing Registry: Hypogonadotropic hypogonadism 6 with or without anosmia
+Genetic and Rare Diseases Information Center
+Hypogonadotropic hypogonadism 1 with or without anosmia
+Hypogonadotropic hypogonadism 2 with or without anosmia
+Hypogonadotropic hypogonadism 3 with or without anosmia
+Hypogonadotropic hypogonadism 4 with or without anosmia
+Hypogonadotropic hypogonadism 5 with or without anosmia
+Hypogonadotropic hypogonadism 6 with or without anosmia
+Kallmann syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HYPOGONADOTROPIC HYPOGONADISM 2 WITH OR WITHOUT ANOSMIA; HH2
+HYPOGONADOTROPIC HYPOGONADISM 1 WITH OR WITHOUT ANOSMIA; HH1
+KALLMANN SYNDROME WITH SPASTIC PARAPLEGIA
+HYPOGONADOTROPIC HYPOGONADISM 3 WITH OR WITHOUT ANOSMIA; HH3
+HYPOGONADOTROPIC HYPOGONADISM 4 WITH OR WITHOUT ANOSMIA; HH4
+Scientific Articles on PubMed
+PubMed
+References
+Balasubramanian R, Crowley WF Jr. Isolated Gonadotropin-Releasing Hormone
+(GnRH) Deficiency. 2007 May 23 [updated 2022 May 12]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK1334/
+Citation on PubMed
+Boehm U, Bouloux PM, Dattani MT, de Roux N, Dode C, Dunkel L, Dwyer AA,
+Giacobini P, Hardelin JP, Juul A, Maghnie M, Pitteloud N, Prevot V, Raivio T,
+Tena-Sempere M, Quinton R, Young J. Expert consensus document: European Consensus
+Statement on congenital hypogonadotropic hypogonadism--pathogenesis, diagnosis
+and treatment. Nat Rev Endocrinol. 2015 Sep;11(9):547-64. doi:
+10.1038/nrendo.2015.112. Epub 2015 Jul 21.
+Citation on PubMed
+Costa-Barbosa FA, Balasubramanian R, Keefe KW, Shaw ND, Al-Tassan N, Plummer
+L, Dwyer AA, Buck CL, Choi JH, Seminara SB, Quinton R, Monies D, Meyer B, Hall
+JE, Pitteloud N, Crowley WF Jr. Prioritizing genetic testing in patients with
+Kallmann syndrome using clinical phenotypes. J Clin Endocrinol Metab. 2013
+May;98(5):E943-53. doi: 10.1210/jc.2012-4116. Epub 2013 Mar 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dode C, Levilliers J, Dupont JM, De Paepe A, Le Du N, Soussi-Yanicostas N,
+Coimbra RS, Delmaghani S, Compain-Nouaille S, Baverel F, Pecheux C, Le Tessier D,
+Cruaud C, Delpech M, Speleman F, Vermeulen S, Amalfitano A, Bachelot Y, Bouchard
+P, Cabrol S, Carel JC, Delemarre-van de Waal H, Goulet-Salmon B, Kottler ML,
+Richard O, Sanchez-Franco F, Saura R, Young J, Petit C, Hardelin JP.
+Loss-of-function mutations in FGFR1 cause autosomal dominant Kallmann syndrome.
+Nat Genet. 2003 Apr;33(4):463-5. doi: 10.1038/ng1122. Epub 2003 Mar 10.
+Citation on PubMed
+Dode C, Teixeira L, Levilliers J, Fouveaut C, Bouchard P, Kottler ML,
+Lespinasse J, Lienhardt-Roussie A, Mathieu M, Moerman A, Morgan G, Murat A,
+Toublanc JE, Wolczynski S, Delpech M, Petit C, Young J, Hardelin JP. Kallmann
+syndrome: mutations in the genes encoding prokineticin-2 and prokineticin
+receptor-2. PLoS Genet. 2006 Oct 20;2(10):e175. doi:
+10.1371/journal.pgen.0020175. Epub 2006 Sep 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kim SH. Congenital Hypogonadotropic Hypogonadism and Kallmann Syndrome: Past,
+Present, and Future. Endocrinol Metab (Seoul). 2015 Dec;30(4):456-66. doi:
+10.3803/EnM.2015.30.4.456.
+Citation on PubMed
+or
+Free article on PubMed Central
+Topaloglu AK, Kotan LD. Genetics of Hypogonadotropic Hypogonadism. Endocr Dev.
+2016;29:36-49. doi: 10.1159/000438841. Epub 2015 Dec 17.
+Citation on PubMed
+Valdes-Socin H, Rubio Almanza M, Tome Fernandez-Ladreda M, Debray FG, Bours V,
+Beckers A. Reproduction, smell, and neurodevelopmental disorders: genetic defects
+in different hypogonadotropic hypogonadal syndromes. Front Endocrinol (Lausanne).
+2014 Jul 9;5:109. doi: 10.3389/fendo.2014.00109. eCollection 2014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Endocrine Diseases
+Genetic Disorders
+Taste and Smell Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hypogonadotropic hypogonadism
+Smell - impaired
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

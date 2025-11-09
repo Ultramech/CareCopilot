@@ -1,0 +1,117 @@
+Transcobalamin deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Transcobalamin deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/transcobalamin-deficiency/
+Transcobalamin deficiency
+Description
+Transcobalamin deficiency is a disorder that impairs the transport of cobalamin (also known as vitamin B12) within the body. Cobalamin is obtained from the diet; this vitamin is found in animal products such as meat, eggs, and shellfish. An inability to transport cobalamin within the body results in cells that lack cobalamin, which they need for many functions including cell growth and division (proliferation) and DNA production. The absence of cobalamin leads to impaired growth, a shortage of blood cells, and many other signs and symptoms that usually become apparent within the first weeks or months of life.
+The first signs of transcobalamin deficiency are typically a failure to gain weight and grow at the expected rate (failure to thrive), vomiting, diarrhea, and open sores (ulcers) on the mucous membranes such as the lining inside the mouth. Neurological function is impaired in affected individuals, and they can experience progressive stiffness and weakness in their legs (paraparesis), muscle twitches (myoclonus), or intellectual disability.
+People with transcobalamin deficiency often develop a blood disorder called
+megaloblastic anemia
+. Megaloblastic anemia results in a shortage of red blood cells, and the remaining red blood cells are abnormally large. Individuals with transcobalamin deficiency may also have a shortage of white blood cells (neutropenia), which can lead to reduced immune system function. Decreased cellular cobalamin can lead to a buildup of certain compounds in the body, resulting in metabolic conditions known as methylmalonic aciduria or
+homocystinuria
+.
+Frequency
+The prevalence of transcobalamin deficiency is unknown. At least 45 affected individuals have been described in the medical literature.
+Causes
+Mutations in the
+TCN2
+gene cause transcobalamin deficiency. The
+TCN2
+gene provides instructions for making a protein called transcobalamin. This protein attaches (binds) to cobalamin and transports the vitamin to cells throughout the body. Within cells, cobalamin helps certain enzymes carry out chemical reactions. Cobalamin plays a role in the processes that produce the building blocks of DNA (
+nucleotides
+) and break down various compounds such as fatty acids; these processes are needed for cell proliferation and the production of cellular energy.
+Most
+TCN2
+gene mutations that cause transcobalamin deficiency lead to a complete or near-complete lack (deficiency) of transcobalamin. Other
+TCN2
+gene mutations result in a transcobalamin protein that cannot transport cobalamin to cells. The resulting lack of cobalamin within cells interferes with the functioning of certain enzymes, which impacts many cell activities. As a result, a wide range of signs and symptoms can develop including impaired growth, blood cell shortages, and neurological problems.
+Learn more about the gene associated with Transcobalamin deficiency
+TCN2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+TC deficiency
+TC II deficiency
+TCN2 deficiency
+Transcobalamin II deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Transcobalamin II deficiency
+Genetic and Rare Diseases Information Center
+Transcobalamin deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+TRANSCOBALAMIN II DEFICIENCY; TCN2D
+Scientific Articles on PubMed
+PubMed
+References
+Haberle J, Pauli S, Berning C, Koch HG, Linnebank M. TC II deficiency:
+avoidance of false-negative molecular genetics by RNA-based investigations. J Hum
+Genet. 2009 Jun;54(6):331-4. doi: 10.1038/jhg.2009.34. Epub 2009 Apr 17.
+Citation on PubMed
+Nissen PH, Nordwall M, Hoffmann-Lucke E, Sorensen BS, Nexo E. Transcobalamin
+deficiency caused by compound heterozygosity for two novel mutations in the TCN2
+gene: a study of two affected siblings, their brother, and their parents. J
+Inherit Metab Dis. 2010 Dec;33 Suppl 3:S269-74. doi: 10.1007/s10545-010-9145-z.
+Epub 2010 Jul 6.
+Citation on PubMed
+Prasad C, Rosenblatt DS, Corley K, Cairney AE, Rupar CA. Transcobalamin (TC)
+deficiency--potential cause of bone marrow failure in childhood. J Inherit Metab
+Dis. 2008 Dec;31 Suppl 2:S287-92. doi: 10.1007/s10545-008-0864-3. Epub 2008 Oct
+29.
+Citation on PubMed
+Ratschmann R, Minkov M, Kis A, Hung C, Rupar T, Muhl A, Fowler B, Nexo E,
+Bodamer OA. Transcobalamin II deficiency at birth. Mol Genet Metab. 2009
+Nov;98(3):285-8. doi: 10.1016/j.ymgme.2009.06.003. Epub 2009 Jun 6.
+Citation on PubMed
+Unal S, Tezol O, Oztas Y. A novel mutation of the transcobalamin II gene in an
+infant presenting with hemophagocytic lymphohistiocytosis. Int J Hematol.
+2014;99(5):659-62. doi: 10.1007/s12185-014-1545-7. Epub 2014 Feb 22.
+Citation on PubMed
+Related Health Topics
+B Vitamins
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Vitamin B12 deficiency anemia
+Vitamin B12 level
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

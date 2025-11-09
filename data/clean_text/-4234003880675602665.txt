@@ -1,0 +1,128 @@
+Hyperkalemic periodic paralysis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hyperkalemic periodic paralysis
+URL of this page: https://medlineplus.gov/genetics/condition/hyperkalemic-periodic-paralysis/
+Hyperkalemic periodic paralysis
+Description
+Hyperkalemic periodic paralysis is a condition that causes episodes of extreme muscle weakness or paralysis, usually beginning in infancy or early childhood. Most often, these episodes involve a temporary inability to move muscles in the arms and legs. Episodes tend to increase in frequency until mid-adulthood, after which they occur less frequently in many people with the condition. Factors that can trigger attacks include rest after exercise, potassium-rich foods such as bananas and potatoes, stress, fatigue, alcohol, pregnancy, exposure to hot or cold temperatures, certain medications, and periods without food (fasting). Muscle strength usually returns to normal between attacks, although many affected people continue to experience mild stiffness (myotonia), particularly in muscles of the face and hands.
+Most people with hyperkalemic periodic paralysis have increased levels of potassium in their blood (hyperkalemia) during attacks. Hyperkalemia results when the weak or paralyzed muscles release potassium ions into the bloodstream. In other cases, attacks are associated with normal blood potassium levels (normokalemia). Ingesting potassium can trigger attacks in affected individuals, even if blood potassium levels do not go up.
+Frequency
+Hyperkalemic periodic paralysis affects an estimated 1 in 200,000 people.
+Causes
+Mutations in the
+SCN4A
+gene can cause hyperkalemic periodic paralysis. The
+SCN4A
+gene provides instructions for making a protein that plays an essential role in muscles used for movement (skeletal muscles). For the body to move normally, these muscles must tense (contract) and relax in a coordinated way. One of the changes that helps trigger muscle contractions is the flow of positively charged atoms (ions), including sodium, into muscle cells. The SCN4A protein forms
+channels
+that control the flow of sodium ions into these cells.
+Mutations in the
+SCN4A
+gene alter the usual structure and function of sodium channels. The altered channels stay open too long or do not stay closed long enough, allowing more sodium ions to flow into muscle cells. This increase in sodium ions triggers the release of potassium from muscle cells, which causes more sodium channels to open and stimulates the flow of even more sodium ions into these cells. These changes in ion transport reduce the ability of skeletal muscles to contract, leading to episodes of muscle weakness or paralysis.
+In 30 to 40 percent of cases, the cause of hyperkalemic periodic paralysis is unknown. Changes in other genes, which have not been identified, likely cause the disorder in these cases.
+Learn more about the gene associated with Hyperkalemic periodic paralysis
+SCN4A
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Adynamia episodica hereditaria
+Familial hyperkalemic periodic paralysis
+Gamstorp disease
+Gamstorp episodic adynamy
+HyperKPP
+HyperPP
+Primary hyperkalemic periodic paralysis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hyperkalemic periodic paralysis
+Genetic and Rare Diseases Information Center
+Hyperkalemic periodic paralysis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HYPERKALEMIC PERIODIC PARALYSIS; HYPP
+Scientific Articles on PubMed
+PubMed
+References
+Cannon SC. An expanding view for the molecular basis of familial periodic
+paralysis. Neuromuscul Disord. 2002 Aug;12(6):533-43. doi:
+10.1016/s0960-8966(02)00007-x.
+Citation on PubMed
+Fontaine B. Periodic paralysis. Adv Genet. 2008;63:3-23. doi:
+10.1016/S0065-2660(08)01001-8.
+Citation on PubMed
+Jurkat-Rott K, Holzherr B, Fauler M, Lehmann-Horn F. Sodium channelopathies of
+skeletal muscle result from gain or loss of function. Pflugers Arch. 2010
+Jul;460(2):239-48. doi: 10.1007/s00424-010-0814-4. Epub 2010 Mar 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jurkat-Rott K, Lehmann-Horn F. Genotype-phenotype correlation and therapeutic
+rationale in hyperkalemic periodic paralysis. Neurotherapeutics. 2007
+Apr;4(2):216-24. doi: 10.1016/j.nurt.2007.02.001.
+Citation on PubMed
+Jurkat-Rott K, Lehmann-Horn F. Paroxysmal muscle weakness: the familial
+periodic paralyses. J Neurol. 2006 Nov;253(11):1391-8. doi:
+10.1007/s00415-006-0339-0. Epub 2006 Nov 30.
+Citation on PubMed
+Miller TM, Dias da Silva MR, Miller HA, Kwiecinski H, Mendell JR, Tawil R,
+McManis P, Griggs RC, Angelini C, Servidei S, Petajan J, Dalakas MC, Ranum LP, Fu
+YH, Ptacek LJ. Correlating phenotype and genotype in the periodic paralyses.
+Neurology. 2004 Nov 9;63(9):1647-55. doi: 10.1212/01.wnl.0000143383.91137.00.
+Citation on PubMed
+Venance SL, Cannon SC, Fialho D, Fontaine B, Hanna MG, Ptacek LJ,
+Tristani-Firouzi M, Tawil R, Griggs RC; CINCH investigators. The primary periodic
+paralyses: diagnosis, pathogenesis and treatment. Brain. 2006 Jan;129(Pt 1):8-17.
+doi: 10.1093/brain/awh639. Epub 2005 Sep 29.
+Citation on PubMed
+Weber F. Hyperkalemic Periodic Paralysis. 2003 Jul 18 [updated 2021 Jul 1].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1496/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+Paralysis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hyperkalemic periodic paralysis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

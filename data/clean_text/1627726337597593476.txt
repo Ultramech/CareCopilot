@@ -1,0 +1,113 @@
+Hystrix-like ichthyosis with deafness: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hystrix-like ichthyosis with deafness
+URL of this page: https://medlineplus.gov/genetics/condition/hystrix-like-ichthyosis-with-deafness/
+Hystrix-like ichthyosis with deafness
+Description
+Hystrix-like ichthyosis with deafness (HID) is a disorder characterized by dry, scaly skin (ichthyosis) and hearing loss that is usually profound. Hystrix-like means resembling a porcupine; in this type of ichthyosis, the scales may be thick and spiky, giving the appearance of porcupine quills.
+Newborns with HID typically develop reddened skin. The skin abnormalities worsen over time, and the ichthyosis eventually covers most of the body, although the palms of the hands and soles of the feet are usually only mildly affected. Breaks in the skin may occur and in severe cases can lead to life-threatening infections. Affected individuals have an increased risk of developing a type of skin cancer called
+squamous cell carcinoma
+, which can also affect mucous membranes such as the inner lining of the mouth. People with HID may also have patchy hair loss caused by scarring on particular areas of skin.
+Frequency
+HID is a rare disorder. Its prevalence is unknown.
+Causes
+HID is caused by mutations in the
+GJB2
+gene. This gene provides instructions for making a protein called gap junction beta 2, more commonly known as connexin 26. Connexin 26 is a member of the connexin protein family. Connexin proteins form channels called gap junctions that permit the transport of nutrients, charged atoms (ions), and signaling molecules between neighboring cells that are in contact with each other. Gap junctions made with connexin 26 transport potassium ions and certain small molecules.
+Connexin 26 is found in cells throughout the body, including the inner ear and the skin. In the inner ear, channels made from connexin 26 are found in a snail-shaped structure called the
+cochlea
+. These channels may help to maintain the proper level of potassium ions required for the conversion of sound waves to electrical nerve impulses. This conversion is essential for normal hearing. In addition, connexin 26 may be involved in the maturation of certain cells in the cochlea. Connexin 26 also plays a role in the growth and maturation of the outermost layer of skin (the epidermis).
+At least one
+GJB2
+gene mutation has been identified in people with HID. This mutation changes a single protein building block (
+amino acid
+) in connexin 26. The mutation is thought to result in channels that constantly leak ions, which impairs the health of the cells and increases cell death. Death of cells in the skin and the inner ear may underlie the signs and symptoms of HID.
+Because the
+GJB2
+gene mutation identified in people with HID also occurs in
+keratitis-ichthyosis-deafness syndrome
+(KID syndrome), a disorder with similar features and the addition of eye abnormalities, many researchers categorize KID syndrome and HID as a single disorder, which they call KID/HID. It is not known why some people with this mutation have eye problems while others do not.
+Learn more about the gene associated with Hystrix-like ichthyosis with deafness
+GJB2
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In some cases, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+HID syndrome
+Ichthyosis, hystrix-like, with deafness
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Ichthyosis, hystrix-like, with hearing loss
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+ICHTHYOSIS, HYSTRIX-LIKE, WITH DEAFNESS
+Scientific Articles on PubMed
+PubMed
+References
+Lee JR, White TW. Connexin-26 mutations in deafness and skin disease. Expert
+Rev Mol Med. 2009 Nov 19;11:e35. doi: 10.1017/S1462399409001276.
+Citation on PubMed
+Todt I, Hennies HC, Kuster W, Smolle J, Rademacher G, Mutze S, Basta D,
+Eisenschenk A, Ernst A. Neurotological and neuroanatomical changes in the
+connexin-26-related HID/KID syndrome. Audiol Neurootol. 2006;11(4):242-8. doi:
+10.1159/000093110. Epub 2006 May 4.
+Citation on PubMed
+van Geel M, van Steensel MA, Kuster W, Hennies HC, Happle R, Steijlen PM,
+Konig A. HID and KID syndromes are associated with the same connexin 26 mutation.
+Br J Dermatol. 2002 Jun;146(6):938-42. doi: 10.1046/j.1365-2133.2002.04893.x.
+Citation on PubMed
+van Steensel MA. Gap junction diseases of the skin. Am J Med Genet C Semin Med
+Genet. 2004 Nov 15;131C(1):12-9. doi: 10.1002/ajmg.c.30030.
+Citation on PubMed
+Xu J, Nicholson BJ. The role of connexins in ear and skin physiology -
+functional insights from disease-associated mutations. Biochim Biophys Acta. 2013
+Jan;1828(1):167-78. doi: 10.1016/j.bbamem.2012.06.024. Epub 2012 Jul 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Hearing Disorders and Deafness
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,202 @@
+Silver-Russell syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Silver-Russell syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/silver-russell-syndrome/
+Silver-Russell syndrome
+Description
+Silver-Russell syndrome is a rare disorder that is characterized by slow growth before and after birth. Babies with this condition typically have a low birth weight and often do not grow and gain weight at the expected rate (failure to thrive). Head growth is normal, however, so the head may appear large compared to the rest of the body. In some affected individuals, one side of the body may be bigger than the other.
+Affected children often have difficulty feeding. Some children develop recurrent episodes of low blood glucose (hypoglycemia). Gastrointestinal problems, such as vomiting and a backflow of stomach acid into the esophagus (called gastroesophageal reflux or GERD), are also common.
+Adults with Silver-Russell syndrome are typically shorter than average and may have an increased risk of developing metabolic problems such as
+type 2 diabetes
+(the most common form of diabetes). Affected individuals often have asymmetric or uneven growth of certain parts of the body, such as the arms and legs. Additional skeletal features may include an unusual curving of the fifth finger (
+clinodactyly
+), short fingers (
+brachydactyly
+), and abnormal curvature of the spine (
+scoliosis
+).
+Many people with Silver-Russell syndrome have a small,
+triangular face
+with distinctive features, including a
+prominent forehead
+, a
+narrow chin
+, a
+small jaw
+, and
+downturned corners of the mouth
+.
+Other features can include the delayed development of motor skills, speech and language problems, and learning disabilities.
+Frequency
+It is estimated that 1 in 30,000 to 1 in 100,000 people in the world have Silver-Russell syndrome.
+Causes
+The genetic causes of Silver-Russell syndrome are complex. The disorder is often the result of the abnormal regulation of genes that control growth. These genes are located in particular regions of
+chromosome 7
+and
+chromosome 11
+.
+Most cases of Silver-Russell syndrome are caused by changes in chromosome 11 that affect the regulation of specific genes. The genes that are thought to play the most significant role in Silver-Russell syndrome are the
+H19
+and
+IGF2
+genes. Disruption of the activity of these genes leads to slow growth and the other characteristic features of Silver-Russell syndrome.
+When Silver-Russell syndrome is caused by problems that involve chromosome 7, it is primarily due to issues with the inheritance of the chromosome. Specifically, Silver-Russell syndrome can occur when both copies of chromosome 7 are derived from the egg cell. Normally, this does not affect gene activity, but some genes only work when they are derived from the egg cell or from the sperm cell. When both copies of chromosome 7 are derived from the egg cell, affected individuals may have two active copies of some genes and no active copies of other genes. This dysregulation of gene activity results in the signs and symptoms of Silver-Russell syndrome.
+Rarely, variants (also called mutations) in a single gene cause Silver-Russell syndrome. These genes include the
+CDKN1C
+,
+IGF2
+, HMGA2,
+and
+PLAG-1
+genes.
+In 30 to 40 percent of people with Silver-Russell syndrome, the cause of the condition is unknown. Researchers are working to identify additional genetic changes that cause this disorder.
+Learn more about the genes and chromosomes associated with Silver-Russell syndrome
+CDKN1C
+H19
+IGF2
+chromosome 11
+chromosome 7
+Additional Information from NCBI Gene:
+HMGA2
+PLAG1
+Inheritance
+Most cases of Silver-Russell syndrome result from a new (de novo) event that occurs during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals typically have no history of the disorder in their family.
+Rarely, Silver-Russell syndrome can run in families. In some affected families, the condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, the pattern of inheritance in a specific family depends on the exact genetic change and whether the change came from the egg cell or the sperm cell.
+Other Names for This Condition
+RSS
+Russell-Silver syndrome
+Silver-Russell dwarfism
+SRS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Silver-Russell syndrome 1
+Genetic Testing Registry: Silver-russell syndrome 2
+Genetic Testing Registry: Silver-Russell syndrome 3
+Genetic Testing Registry: Silver-russell syndrome 4
+Genetic Testing Registry: Silver-Russell syndrome 5
+Genetic Testing Registry: Silver-Russell syndrome due to 11p15 microduplication
+Genetic Testing Registry: Silver-Russell syndrome due to 7p11.2p13 microduplication
+Genetic Testing Registry: Silver-Russell syndrome due to a point mutation
+Genetic Testing Registry: Silver-Russell syndrome due to an imprinting defect of 11p15
+Genetic Testing Registry: Silver-Russell syndrome due to maternal uniparental disomy of chromosome 11
+Genetic Testing Registry: Silver-Russell syndrome due to maternal uniparental disomy of chromosome 7
+Genetic and Rare Diseases Information Center
+Silver-Russell syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SILVER-RUSSELL SYNDROME 1; SRS1
+SILVER-RUSSELL SYNDROME 3; SRS3
+SILVER-RUSSELL SYNDROME 2; SRS2
+SILVER-RUSSELL SYNDROME 4; SRS4
+SILVER-RUSSELL SYNDROME 5; SRS5
+Scientific Articles on PubMed
+PubMed
+References
+Abu-Amero S, Monk D, Frost J, Preece M, Stanier P, Moore GE. The genetic
+aetiology of Silver-Russell syndrome. J Med Genet. 2008 Apr;45(4):193-9. doi:
+10.1136/jmg.2007.053017. Epub 2007 Dec 21.
+Citation on PubMed
+Binder G, Ziegler J, Schweizer R, Habhab W, Haack TB, Heinrich T, Eggermann T.
+Novel mutation points to a hot spot in CDKN1C causing Silver-Russell syndrome.
+Clin Epigenetics. 2020 Oct 19;12(1):152. doi: 10.1186/s13148-020-00945-y.
+Citation on PubMed
+Eggermann T, Spengler S, Gogiel M, Begemann M, Elbracht M. Epigenetic and
+genetic diagnosis of Silver-Russell syndrome. Expert Rev Mol Diagn. 2012
+Jun;12(5):459-71. doi: 10.1586/erm.12.43.
+Citation on PubMed
+Eggermann T. Russell-Silver syndrome. Am J Med Genet C Semin Med Genet. 2010
+Aug 15;154C(3):355-64. doi: 10.1002/ajmg.c.30274.
+Citation on PubMed
+Gicquel C, Rossignol S, Cabrol S, Houang M, Steunou V, Barbu V, Danton F,
+Thibaud N, Le Merrer M, Burglen L, Bertrand AM, Netchine I, Le Bouc Y.
+Epimutation of the telomeric imprinting center region on chromosome 11p15 in
+Silver-Russell syndrome. Nat Genet. 2005 Sep;37(9):1003-7. doi: 10.1038/ng1629.
+Epub 2005 Aug 7.
+Citation on PubMed
+Inoue T, Nakamura A, Iwahashi-Odano M, Tanase-Nakao K, Matsubara K, Nishioka
+J, Maruo Y, Hasegawa Y, Suzumura H, Sato S, Kobayashi Y, Murakami N, Nakabayashi
+K, Yamazawa K, Fuke T, Narumi S, Oka A, Ogata T, Fukami M, Kagami M. Contribution
+of gene mutations to Silver-Russell syndrome phenotype: multigene sequencing
+analysis in 92 etiology-unknown patients. Clin Epigenetics. 2020 Jun 16;12(1):86.
+doi: 10.1186/s13148-020-00865-x.
+Citation on PubMed
+Inoue T, Yagasaki H, Nishioka J, Nakamura A, Matsubara K, Narumi S,
+Nakabayashi K, Yamazawa K, Fuke T, Oka A, Ogata T, Fukami M, Kagami M. Molecular
+and clinical analyses of two patients with UPD(16)mat detected by screening 94
+patients with Silver-Russell syndrome phenotype of unknown aetiology. J Med
+Genet. 2019 Jun;56(6):413-418. doi: 10.1136/jmedgenet-2018-105463. Epub 2018 Sep
+21.
+Citation on PubMed
+Lokulo-Sodipe O, Ballard L, Child J, Inskip HM, Byrne CD, Ishida M, Moore GE,
+Wakeling EL, Fenwick A, Mackay DJG, Davies JH, Temple IK. Phenotype of
+genetically confirmed Silver-Russell syndrome beyond childhood. J Med Genet. 2020
+Oct;57(10):683-691. doi: 10.1136/jmedgenet-2019-106561. Epub 2020 Feb 13.
+Citation on PubMed
+Lokulo-Sodipe O, Inskip HM, Byrne CD, Child J, Wakeling EL, Mackay DJG, Temple
+IK, Davies JH. Body Composition and Metabolism in Adults With Molecularly
+Confirmed Silver-Russell Syndrome. J Clin Endocrinol Metab. 2024 Oct
+15;109(11):e2001-e2008. doi: 10.1210/clinem/dgae074.
+Citation on PubMed
+Saal HM, Harbison MD, Netchine I. Silver-Russell Syndrome. 2002 Nov 2 [updated
+2025 Jan 9]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1324/
+Citation on PubMed
+Wakeling EL, Brioude F, Lokulo-Sodipe O, O'Connell SM, Salem J, Bliek J,
+Canton AP, Chrzanowska KH, Davies JH, Dias RP, Dubern B, Elbracht M, Giabicani E,
+Grimberg A, Gronskov K, Hokken-Koelega AC, Jorge AA, Kagami M, Linglart A,
+Maghnie M, Mohnike K, Monk D, Moore GE, Murray PG, Ogata T, Petit IO, Russo S,
+Said E, Toumba M, Tumer Z, Binder G, Eggermann T, Harbison MD, Temple IK, Mackay
+DJ, Netchine I. Diagnosis and management of Silver-Russell syndrome: first
+international consensus statement. Nat Rev Endocrinol. 2017 Feb;13(2):105-124.
+doi: 10.1038/nrendo.2016.138. Epub 2016 Sep 2.
+Citation on PubMed
+Wakeling EL. Silver-Russell syndrome. Arch Dis Child. 2011 Dec;96(12):1156-61.
+doi: 10.1136/adc.2010.190165. Epub 2011 Feb 24.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Growth Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Silver-Russell syndrome
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,172 @@
+LMNA-related congenital muscular dystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+LMNA-related congenital muscular dystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/lmna-related-congenital-muscular-dystrophy/
+LMNA-related congenital muscular dystrophy
+Description
+LMNA
+-related congenital muscular dystrophy (L-CMD) is a condition that primarily affects muscles used for movement (skeletal muscles). It is part of a group of genetic conditions called congenital muscular dystrophies, which cause weak muscle tone (hypotonia) and muscle wasting (
+atrophy
+) beginning very early in life.
+In people with L-CMD, muscle weakness becomes apparent in infancy or early childhood and can worsen quickly. The most severely affected infants develop few motor skills, and they are never able to hold up their heads, roll over, or sit. Less severely affected children may learn to sit, stand, and walk before muscle weakness becomes apparent. First the neck muscles weaken, causing the head to fall forward (dropped-head syndrome). As other skeletal muscles become weaker, these children may ultimately lose the ability to sit, stand, and walk unassisted.
+Other features of L-CMD often include spinal rigidity and abnormal curvature of the spine (
+scoliosis
+and
+lordosis
+); joint deformities (contractures) that restrict movement, particularly in the hips and legs; and an inward-turning foot. People with L-CMD also have an increased risk of heart rhythm abnormalities (arrhythmias).
+Over time, muscle weakness causes most infants and children with L-CMD to have trouble eating and breathing. The breathing problems result from restrictive respiratory insufficiency, which occurs when muscles in the chest are weakened and the ribcage becomes increasingly rigid. This problem can be life-threatening, and many affected children require support with a machine to help them breathe (mechanical ventilation).
+Frequency
+L-CMD is a rare disorder. Only about 50 affected individuals have been described in the medical literature.
+Causes
+L-CMD is caused by mutations in the
+LMNA
+gene. This gene provides instructions for making very similar proteins called lamins. These proteins play an important role in determining the shape of the nucleus within cells. Lamins are an essential supporting (scaffolding) component of the nuclear envelope, which is the membrane that surrounds the nucleus. The nuclear envelope regulates the movement of molecules into and out of the nucleus, and researchers believe it may play a role in regulating the activity of certain genes.
+Mutations in the
+LMNA
+gene lead to the production of abnormal lamins. These malfunctioning proteins alter the structure of the nuclear envelope in ways that are not well understood. Researchers are working to determine how these changes affect muscle cells and lead to muscle weakness and atrophy in people with L-CMD.
+Learn more about the gene associated with LMNA-related congenital muscular dystrophy
+LMNA
+Inheritance
+L-CMD is considered an
+autosomal dominant
+disorder, which means one copy of the altered gene in each cell is sufficient to cause the condition. All known cases of L-CMD have resulted from new (
+de novo
+) mutations in the gene. These mutations occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. Affected individuals have no history of the disorder in their family.
+Other Names for This Condition
+L-CMD
+LMNA-related CMD
+MDCL
+Muscular dystrophy, congenital, LMNA-related
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital muscular dystrophy due to LMNA mutation
+Genetic and Rare Diseases Information Center
+Congenital muscular dystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MUSCULAR DYSTROPHY, CONGENITAL, LMNA-RELATED
+Scientific Articles on PubMed
+PubMed
+References
+Azibani F, Brull A, Arandel L, Beuvin M, Nelson I, Jollet A, Ziat E, Prudhon
+B, Benkhelifa-Ziyyat S, Bitoun M, Lorain S, Bonne G, Bertrand AT. Gene Therapy
+via Trans-Splicing for LMNA-Related Congenital Muscular Dystrophy. Mol Ther
+Nucleic Acids. 2018 Mar 2;10:376-386. doi: 10.1016/j.omtn.2017.12.012. Epub 2017
+Dec 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Barateau A, Vadrot N, Vicart P, Ferreiro A, Mayer M, Heron D, Vigouroux C,
+Buendia B. A Novel Lamin A Mutant Responsible for Congenital Muscular Dystrophy
+Causes Distinct Abnormalities of the Cell Nucleus. PLoS One. 2017 Jan
+26;12(1):e0169189. doi: 10.1371/journal.pone.0169189. eCollection 2017.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bonati U, Bechtel N, Heinimann K, Rutz E, Schneider J, Frank S, Weber P,
+Fischer D. Congenital muscular dystrophy with dropped head phenotype and
+cognitive impairment due to a novel mutation in the LMNA gene. Neuromuscul
+Disord. 2014 Jun;24(6):529-32. doi: 10.1016/j.nmd.2014.02.004. Epub 2014 Feb 15.
+Citation on PubMed
+D'Amico A, Haliloglu G, Richard P, Talim B, Maugenre S, Ferreiro A, Guicheney
+P, Menditto I, Benedetti S, Bertini E, Bonne G, Topaloglu H. Two patients with
+'Dropped head syndrome' due to mutations in LMNA or SEPN1 genes. Neuromuscul
+Disord. 2005 Aug;15(8):521-4. doi: 10.1016/j.nmd.2005.03.006.
+Citation on PubMed
+Hattori A, Komaki H, Kawatani M, Sakuma H, Saito Y, Nakagawa E, Sugai K,
+Sasaki M, Hayashi YK, Nonaka I, Nishino I. A novel mutation in the LMNA gene
+causes congenital muscular dystrophy with dropped head and brain involvement.
+Neuromuscul Disord. 2012 Feb;22(2):149-51. doi: 10.1016/j.nmd.2011.08.009. Epub
+2012 Jan 11.
+Citation on PubMed
+Heller F, Dabaj I, Mah JK, Bergounioux J, Essid A, Bonnemann CG, Rutkowski A,
+Bonne G, Quijano-Roy S, Wahbi K. Cardiac manifestations of congenital
+LMNA-related muscular dystrophy in children: three case reports and
+recommendations for care. Cardiol Young. 2017 Aug;27(6):1076-1082. doi:
+10.1017/S1047951116002079. Epub 2016 Dec 12.
+Citation on PubMed
+Karaoglu P, Quizon N, Pergande M, Wang H, Polat AI, Ersen A, Ozer E, Willkomm
+L, Hiz Kurul S, Heredia R, Yis U, Selcen D, Cirak S. Dropped head congenital
+muscular dystrophy caused by de novo mutations in LMNA. Brain Dev. 2017
+Apr;39(4):361-364. doi: 10.1016/j.braindev.2016.11.002. Epub 2016 Nov 19.
+Citation on PubMed
+Menezes MP, Waddell LB, Evesson FJ, Cooper S, Webster R, Jones K, Mowat D,
+Kiernan MC, Johnston HM, Corbett A, Harbord M, North KN, Clarke NF. Importance
+and challenge of making an early diagnosis in LMNA-related muscular dystrophy.
+Neurology. 2012 Apr 17;78(16):1258-63. doi: 10.1212/WNL.0b013e318250d839. Epub
+2012 Apr 4.
+Citation on PubMed
+Pasqualin LM, Reed UC, Costa TV, Quedas E, Albuquerque MA, Resende MB,
+Rutkowski A, Chadi G, Zanoteli E. Congenital muscular dystrophy with dropped head
+linked to the LMNA gene in a Brazilian cohort. Pediatr Neurol. 2014
+Apr;50(4):400-6. doi: 10.1016/j.pediatrneurol.2013.11.010. Epub 2013 Nov 21.
+Citation on PubMed
+Prigogine C, Richard P, Van den Bergh P, Groswasser J, Deconinck N. Novel LMNA
+mutation presenting as severe congenital muscular dystrophy. Pediatr Neurol. 2010
+Oct;43(4):283-6. doi: 10.1016/j.pediatrneurol.2010.05.016.
+Citation on PubMed
+Quijano-Roy S, Mbieleu B, Bonnemann CG, Jeannet PY, Colomer J, Clarke NF,
+Cuisset JM, Roper H, De Meirleir L, D'Amico A, Ben Yaou R, Nascimento A, Barois
+A, Demay L, Bertini E, Ferreiro A, Sewry CA, Romero NB, Ryan M, Muntoni F,
+Guicheney P, Richard P, Bonne G, Estournet B. De novo LMNA mutations cause a new
+form of congenital muscular dystrophy. Ann Neurol. 2008 Aug;64(2):177-86. doi:
+10.1002/ana.21417.
+Citation on PubMed
+Wang CH, Bonnemann CG, Rutkowski A, Sejersen T, Bellini J, Battista V,
+Florence JM, Schara U, Schuler PM, Wahbi K, Aloysius A, Bash RO, Beroud C,
+Bertini E, Bushby K, Cohn RD, Connolly AM, Deconinck N, Desguerre I, Eagle M,
+Estournet-Mathiaud B, Ferreiro A, Fujak A, Goemans N, Iannaccone ST, Jouinot P,
+Main M, Melacini P, Mueller-Felber W, Muntoni F, Nelson LL, Rahbek J, Quijano-Roy
+S, Sewry C, Storhaug K, Simonds A, Tseng B, Vajsar J, Vianello A, Zeller R;
+International Standard of Care Committee for Congenital Muscular Dystrophy.
+Consensus statement on standard of care for congenital muscular dystrophies. J
+Child Neurol. 2010 Dec;25(12):1559-81. doi: 10.1177/0883073810381924. Epub 2010
+Nov 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscular Dystrophy
+MEDICAL ENCYCLOPEDIA
+Genetics
+Learning about ventilators
+Muscular dystrophy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

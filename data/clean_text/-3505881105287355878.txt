@@ -1,0 +1,112 @@
+Lattice corneal dystrophy type II: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Lattice corneal dystrophy type II
+URL of this page: https://medlineplus.gov/genetics/condition/lattice-corneal-dystrophy-type-ii/
+Lattice corneal dystrophy type II
+Description
+Lattice corneal dystrophy type II is characterized by an accumulation of protein clumps called amyloid deposits in tissues throughout the body. The deposits frequently occur in blood vessel walls and basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. Amyloid deposits lead to characteristic signs and symptoms involving the eyes, nerves, and skin that worsen with age.
+The earliest sign of this condition, which is usually identified in a person's twenties, is accumulation of amyloid deposits in the cornea (lattice corneal dystrophy). The cornea is the clear, outer covering of the eye. It is made up of several layers of tissue, and in lattice corneal dystrophy type II, the amyloid deposits form in the stromal layer. The amyloid deposits form as delicate, branching fibers that create a lattice pattern. Because these protein deposits cloud the cornea, they often lead to vision impairment. In addition, affected individuals can have recurrent corneal erosions, which are caused by separation of particular layers of the cornea from one another. Corneal erosions are very painful and can cause sensitivity to bright light (photophobia). Amyloid deposits and corneal erosions are usually bilateral, which means they affect both eyes.
+As lattice corneal dystrophy type II progresses, the nerves become involved, typically starting in a person's forties. It is thought that the amyloid deposits disrupt nerve function. Dysfunction of the nerves in the head and face (
+cranial nerves
+) can cause paralysis of facial muscles (facial palsy); decreased sensations in the face (facial hypoesthesia); and difficulty speaking, chewing, and swallowing. Dysfunction of the nerves that connect the brain and spinal cord to muscles and to sensory cells that detect sensations such as touch, pain, and heat (peripheral nerves) can cause loss of sensation and weakness in the limbs (peripheral neuropathy). Peripheral neuropathy usually occurs in the lower legs and arms, leading to muscle weakness, clumsiness, and difficulty sensing vibrations.
+The skin is also commonly affected in people with lattice corneal dystrophy type II, typically beginning in a person's forties. People with this condition may have thickened, sagging skin, especially on the scalp and forehead, and a condition called
+cutis laxa
+, which is characterized by loose skin that lacks elasticity. The skin can also be dry and itchy. Because of loose skin and muscle paralysis in the face, individuals with lattice corneal dystrophy type II can have a facial expression that appears sad.
+Frequency
+Lattice corneal dystrophy type II is a rare condition; however, the prevalence is unknown. While this condition can be found in populations worldwide, it was first described in Finland and is more common there.
+Causes
+Lattice corneal dystrophy type II is caused by mutations in the
+GSN
+gene. This gene provides instructions for making a protein called gelsolin. This protein is found throughout the body and helps regulate the formation of the network of protein filaments that gives structure to cells (the cytoskeleton). Mutations that cause lattice corneal dystrophy type II change a single protein building block (amino acid) in the gelsolin protein. The altered gelsolin protein is broken down differently than the normal protein, which results in an abnormal gelsolin protein fragment that is released from the cell. These protein fragments clump together and form amyloid deposits, which lead to the signs and symptoms of lattice corneal dystrophy type II.
+Learn more about the gene associated with Lattice corneal dystrophy type II
+GSN
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Although a mutation in one copy of the gene can cause the disorder, people with mutations in both copies of the gene have more severe signs and symptoms.
+Other Names for This Condition
+Amyloid cranial neuropathy with lattice corneal dystrophy
+Amyloidosis due to mutant gelsolin
+Amyloidosis V
+Amyloidosis, Finnish type
+Amyloidosis, Meretoja type
+Familial amyloid polyneuropathy type IV
+Familial amyloidosis, Finnish type
+Gelsolin-related amyloidosis
+Kymenlaakso syndrome
+Lattice corneal dystrophy, gelsolin type
+Meretoja syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Finnish type amyloidosis
+Genetic and Rare Diseases Information Center
+AGel amyloidosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+AMYLOIDOSIS, FINNISH TYPE
+Scientific Articles on PubMed
+PubMed
+References
+Carrwik C, Stenevi U. Lattice corneal dystrophy, gelsolin type (Meretoja's
+syndrome). Acta Ophthalmol. 2009 Nov;87(8):813-9. doi:
+10.1111/j.1755-3768.2009.01686.x.
+Citation on PubMed
+Klintworth GK. Corneal dystrophies. Orphanet J Rare Dis. 2009 Feb 23;4:7. doi:
+10.1186/1750-1172-4-7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Levy E, Haltia M, Fernandez-Madrid I, Koivunen O, Ghiso J, Prelli F, Frangione
+B. Mutation in gelsolin gene in Finnish hereditary amyloidosis. J Exp Med. 1990
+Dec 1;172(6):1865-7. doi: 10.1084/jem.172.6.1865.
+Citation on PubMed
+or
+Free article on PubMed Central
+Paunio T, Kangas H, Kalkkinen N, Haltia M, Palo J, Peltonen L. Toward
+understanding the pathogenic mechanisms in gelsolin-related amyloidosis: in vitro
+expression reveals an abnormal gelsolin fragment. Hum Mol Genet. 1994
+Dec;3(12):2223-9. doi: 10.1093/hmg/3.12.2223.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amyloidosis
+Corneal Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Facial paralysis
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,277 @@
+Age-related macular degeneration: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Age-related macular degeneration
+URL of this page: https://medlineplus.gov/genetics/condition/age-related-macular-degeneration/
+Age-related macular degeneration
+Description
+Age-related macular degeneration is an eye disease that is a leading cause of vision loss in older people in developed countries. Subtle abnormalities indicating changes in vision may occur in a person's forties or fifties. Distorted vision and vision loss usually become noticeable in a person's sixties or seventies and tend to worsen over time.
+Age-related macular degeneration
+mainly affects central vision
+, which is needed for detailed tasks such as reading, driving, and recognizing faces. The vision loss in this condition results from a gradual deterioration of light-sensing cells in the tissue at the back of the eye that detects light and color (
+the retina
+). Specifically, age-related macular degeneration affects a
+small area near the center of the retina
+, called the
+macula
+, which is responsible for central vision. Side (peripheral) vision and night vision are generally not affected, but slow adjustment of vision to darkness (dark adaptation) and reduced dim light (scotopic) vision often occur in the early stages of the disease.
+Researchers have described two major types of age-related macular degeneration, known as the dry form and the wet form. The dry form is much more common, accounting for 85 to 90 percent of all cases of age-related macular degeneration. It is characterized by a buildup of yellowish deposits called drusen beneath the retina and vision loss that worsens slowly over time. The most advanced stage of dry age-related macular degeneration is known as geographic atrophy, in which areas of the macula waste away (atrophy), resulting in severe vision loss. Dry age-related macular degeneration typically affects vision in both eyes, although vision loss often occurs in one eye before the other.
+In 10 to 15 percent of affected individuals, the dry form progresses to the wet form of age-related macular degeneration. The wet form is characterized by the growth of abnormal, fragile blood vessels underneath the macula. These vessels leak blood and fluid, which damages the macula and makes central vision appear blurry and distorted. The wet form of age-related macular degeneration is associated with severe vision loss that can worsen rapidly.
+Frequency
+It is estimated that 8 percent of people around the world have signs of age-related macular degeneration. The condition currently affects about 11 million Americans and 170 million people worldwide, and the prevalence is expected to increase over the coming decades as the proportion of older people in the population increases.
+For reasons that are unclear, age-related macular degeneration affects individuals of European descent more frequently than African Americans in the United States.
+Causes
+Age-related macular degeneration results from a combination of genetic and environmental factors. Many of these factors have been identified, but some remain unknown.
+Researchers have considered changes in many genes as possible risk factors for age-related macular degeneration. The best-studied of these genes are involved in a part of the body's immune response known as the complement system. This system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues. Genetic changes in and around several complement system genes, including the
+CFH
+gene, contribute to a person's risk of developing age-related macular degeneration. It is unclear how these genetic changes are related to the retinal damage and vision loss characteristic of this condition.
+Changes on the long (q) arm of chromosome 10 in a region known as 10q26 are also associated with an increased risk of age-related macular degeneration. The 10q26 region contains two genes of interest,
+ARMS2
+and
+HTRA1
+. Changes in both genes have been studied as possible risk factors for the disease. However, because the two genes are so close together, it is difficult to tell which gene is associated with age-related macular degeneration risk, or whether increased risk results from variations in both genes.
+Other genes that are associated with age-related macular degeneration include genes involved in transporting and processing high-density lipoproteins (HDL, also known as "good" cholesterol) and genes that have been associated with other forms of macular disease.
+Researchers have also examined nongenetic factors that contribute to the risk of age-related macular degeneration. Age appears to be the most important risk factor; the chance of developing the condition increases significantly as a person gets older. Smoking is another established risk factor for age-related macular degeneration. Other factors that may increase the risk of this condition include high blood pressure; heart disease; a diet that is high in fat, high in easily digested foods (high glycemic index), or low in certain nutrients (such as antioxidants and zinc); obesity; and exposure to ultraviolet (UV) rays from sunlight. However, it is unclear how these factors influence the risk of developing age-related macular degeneration.
+Learn more about the genes associated with Age-related macular degeneration
+ABCA4
+APOE
+ARMS2
+ASPM
+BEST1
+C2
+C3
+CFH
+CFHR5
+CFI
+CST3
+ELOVL4
+ERCC6
+F13B
+FBLN5
+HTRA1
+LIPC
+Additional Information from NCBI Gene:
+C9
+CETP
+CFB
+CFHR1
+CFHR2
+CFHR3
+CFHR4
+COL10A1
+COL8A1
+CX3CR1
+FILIP1L
+FRK
+HMCN1
+MAP2
+TIMP3
+TNFRSF10A
+VEGFA
+Inheritance
+Age-related macular degeneration usually does not have a clear-cut pattern of inheritance, although the condition appears to run in families in some cases. An estimated 15 to 20 percent of people with age-related macular degeneration have at least one
+first-degree relative
+(such as a sibling or parent) with the condition.
+Other Names for This Condition
+Age-related maculopathy
+AMD
+ARMD
+Macular degeneration, age-related
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Age-related macular degeneration
+Genetic Testing Registry: Age related macular degeneration 1
+Genetic Testing Registry: Age related macular degeneration 10
+Genetic Testing Registry: Age related macular degeneration 11
+Genetic Testing Registry: Age related macular degeneration 12
+Genetic Testing Registry: Age related macular degeneration 13
+Genetic Testing Registry: Age related macular degeneration 14
+Genetic Testing Registry: Age related macular degeneration 15
+Genetic Testing Registry: Age related macular degeneration 2
+Genetic Testing Registry: Age related macular degeneration 4
+Genetic Testing Registry: Age related macular degeneration 5
+Genetic Testing Registry: Age related macular degeneration 6
+Genetic Testing Registry: Age related macular degeneration 7
+Genetic Testing Registry: Age related macular degeneration 8
+Genetic Testing Registry: Age related macular degeneration 9
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MACULAR DEGENERATION, AGE-RELATED, 2; ARMD2
+MACULAR DEGENERATION, AGE-RELATED, 1; ARMD1
+MACULAR DEGENERATION, AGE-RELATED, 3; ARMD3
+MACULAR DEGENERATION, AGE-RELATED, 7; ARMD7
+MACULAR DEGENERATION, AGE-RELATED, 4; ARMD4
+MACULAR DEGENERATION, AGE-RELATED, 11; ARMD11
+MACULAR DEGENERATION, AGE-RELATED, 10; ARMD10
+MACULAR DEGENERATION, AGE-RELATED, 9; ARMD9
+MACULAR DEGENERATION, AGE-RELATED, 15; ARMD15
+MACULAR DEGENERATION, AGE-RELATED, 6; ARMD6
+MACULAR DEGENERATION, AGE-RELATED, 5; ARMD5
+MACULAR DEGENERATION, AGE-RELATED, 8; ARMD8
+MACULAR DEGENERATION, AGE-RELATED, 12; ARMD12
+MACULAR DEGENERATION, AGE-RELATED, 13; ARMD13
+MACULAR DEGENERATION, AGE-RELATED, 14; ARMD14
+Scientific Articles on PubMed
+PubMed
+References
+Chen W, Stambolian D, Edwards AO, Branham KE, Othman M, Jakobsdottir J,
+Tosakulwong N, Pericak-Vance MA, Campochiaro PA, Klein ML, Tan PL, Conley YP,
+Kanda A, Kopplin L, Li Y, Augustaitis KJ, Karoukis AJ, Scott WK, Agarwal A,
+Kovach JL, Schwartz SG, Postel EA, Brooks M, Baratz KH, Brown WL; Complications
+of Age-Related Macular Degeneration Prevention Trial Research Group; Brucker AJ,
+Orlin A, Brown G, Ho A, Regillo C, Donoso L, Tian L, Kaderli B, Hadley D,
+Hagstrom SA, Peachey NS, Klein R, Klein BE, Gotoh N, Yamashiro K, Ferris Iii F,
+Fagerness JA, Reynolds R, Farrer LA, Kim IK, Miller JW, Corton M, Carracedo A,
+Sanchez-Salorio M, Pugh EW, Doheny KF, Brion M, Deangelis MM, Weeks DE, Zack DJ,
+Chew EY, Heckenlively JR, Yoshimura N, Iyengar SK, Francis PJ, Katsanis N, Seddon
+JM, Haines JL, Gorin MB, Abecasis GR, Swaroop A. Genetic variants near TIMP3 and
+high-density lipoprotein-associated loci influence susceptibility to age-related
+macular degeneration. Proc Natl Acad Sci U S A. 2010 Apr 20;107(16):7401-6. doi:
+10.1073/pnas.0912702107. Epub 2010 Apr 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Coleman HR, Chan CC, Ferris FL 3rd, Chew EY. Age-related macular degeneration.
+Lancet. 2008 Nov 22;372(9652):1835-45. doi: 10.1016/S0140-6736(08)61759-6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Curcio CA, Owsley C, Jackson GR. Spare the rods, save the cones in aging and
+age-related maculopathy. Invest Ophthalmol Vis Sci. 2000 Jul;41(8):2015-8. No
+abstract available.
+Citation on PubMed
+den Hollander AI, de Jong EK. Highly penetrant alleles in age-related macular
+degeneration. Cold Spring Harb Perspect Med. 2014 Nov 6;5(3):a017202. doi:
+10.1101/cshperspect.a017202.
+Citation on PubMed
+Fritsche LG, Chen W, Schu M, Yaspan BL, Yu Y, Thorleifsson G, Zack DJ, Arakawa
+S, Cipriani V, Ripke S, Igo RP Jr, Buitendijk GH, Sim X, Weeks DE, Guymer RH,
+Merriam JE, Francis PJ, Hannum G, Agarwal A, Armbrecht AM, Audo I, Aung T, Barile
+GR, Benchaboune M, Bird AC, Bishop PN, Branham KE, Brooks M, Brucker AJ, Cade WH,
+Cain MS, Campochiaro PA, Chan CC, Cheng CY, Chew EY, Chin KA, Chowers I, Clayton
+DG, Cojocaru R, Conley YP, Cornes BK, Daly MJ, Dhillon B, Edwards AO, Evangelou
+E, Fagerness J, Ferreyra HA, Friedman JS, Geirsdottir A, George RJ, Gieger C,
+Gupta N, Hagstrom SA, Harding SP, Haritoglou C, Heckenlively JR, Holz FG, Hughes
+G, Ioannidis JP, Ishibashi T, Joseph P, Jun G, Kamatani Y, Katsanis N, N
+Keilhauer C, Khan JC, Kim IK, Kiyohara Y, Klein BE, Klein R, Kovach JL, Kozak I,
+Lee CJ, Lee KE, Lichtner P, Lotery AJ, Meitinger T, Mitchell P, Mohand-Said S,
+Moore AT, Morgan DJ, Morrison MA, Myers CE, Naj AC, Nakamura Y, Okada Y, Orlin A,
+Ortube MC, Othman MI, Pappas C, Park KH, Pauer GJ, Peachey NS, Poch O, Priya RR,
+Reynolds R, Richardson AJ, Ripp R, Rudolph G, Ryu E, Sahel JA, Schaumberg DA,
+Scholl HP, Schwartz SG, Scott WK, Shahid H, Sigurdsson H, Silvestri G,
+Sivakumaran TA, Smith RT, Sobrin L, Souied EH, Stambolian DE, Stefansson H,
+Sturgill-Short GM, Takahashi A, Tosakulwong N, Truitt BJ, Tsironi EE,
+Uitterlinden AG, van Duijn CM, Vijaya L, Vingerling JR, Vithana EN, Webster AR,
+Wichmann HE, Winkler TW, Wong TY, Wright AF, Zelenika D, Zhang M, Zhao L, Zhang
+K, Klein ML, Hageman GS, Lathrop GM, Stefansson K, Allikmets R, Baird PN, Gorin
+MB, Wang JJ, Klaver CC, Seddon JM, Pericak-Vance MA, Iyengar SK, Yates JR,
+Swaroop A, Weber BH, Kubo M, Deangelis MM, Leveillard T, Thorsteinsdottir U,
+Haines JL, Farrer LA, Heid IM, Abecasis GR; AMD Gene Consortium. Seven new loci
+associated with age-related macular degeneration. Nat Genet. 2013
+Apr;45(4):433-9, 439e1-2. doi: 10.1038/ng.2578. Epub 2013 Mar 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hampton T. Genetic research provides insights into age-related macular
+degeneration. JAMA. 2010 Oct 13;304(14):1541-3. doi: 10.1001/jama.2010.1411. No
+abstract available.
+Citation on PubMed
+Jackson GR, Scott IU, Kim IK, Quillen DA, Iannaccone A, Edwards JG. Diagnostic
+sensitivity and specificity of dark adaptometry for detection of age-related
+macular degeneration. Invest Ophthalmol Vis Sci. 2014 Mar 10;55(3):1427-31. doi:
+10.1167/iovs.13-13745.
+Citation on PubMed
+or
+Free article on PubMed Central
+Neale BM, Fagerness J, Reynolds R, Sobrin L, Parker M, Raychaudhuri S, Tan PL,
+Oh EC, Merriam JE, Souied E, Bernstein PS, Li B, Frederick JM, Zhang K, Brantley
+MA Jr, Lee AY, Zack DJ, Campochiaro B, Campochiaro P, Ripke S, Smith RT, Barile
+GR, Katsanis N, Allikmets R, Daly MJ, Seddon JM. Genome-wide association study of
+advanced age-related macular degeneration identifies a role of the hepatic lipase
+gene (LIPC). Proc Natl Acad Sci U S A. 2010 Apr 20;107(16):7395-400. doi:
+10.1073/pnas.0912019107. Epub 2010 Apr 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Owsley C, McGwin G Jr, Clark ME, Jackson GR, Callahan MA, Kline LB,
+Witherspoon CD, Curcio CA. Delayed Rod-Mediated Dark Adaptation Is a Functional
+Biomarker for Incident Early Age-Related Macular Degeneration. Ophthalmology.
+2016 Feb;123(2):344-351. doi: 10.1016/j.ophtha.2015.09.041. Epub 2015 Oct 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ratnapriya R, Chew EY. Age-related macular degeneration-clinical review and
+genetics update. Clin Genet. 2013 Aug;84(2):160-6. doi: 10.1111/cge.12206.
+Citation on PubMed
+or
+Free article on PubMed Central
+Seddon JM, Silver RE, Kwong M, Rosner B. Risk Prediction for Progression of
+Macular Degeneration: 10 Common and Rare Genetic Variants, Demographic,
+Environmental, and Macular Covariates. Invest Ophthalmol Vis Sci. 2015
+Apr;56(4):2192-202. doi: 10.1167/iovs.14-15841.
+Citation on PubMed
+or
+Free article on PubMed Central
+Swaroop A, Chew EY, Rickman CB, Abecasis GR. Unraveling a multifactorial
+late-onset disease: from genetic susceptibility to disease mechanisms for
+age-related macular degeneration. Annu Rev Genomics Hum Genet. 2009;10:19-43.
+doi: 10.1146/annurev.genom.9.081307.164350.
+Citation on PubMed
+or
+Free article on PubMed Central
+Thakkinstian A, McEvoy M, Chakravarthy U, Chakrabarti S, McKay GJ, Ryu E,
+Silvestri G, Kaur I, Francis P, Iwata T, Akahori M, Arning A, Edwards AO, Seddon
+JM, Attia J. The association between complement component 2/complement factor B
+polymorphisms and age-related macular degeneration: a HuGE review and
+meta-analysis. Am J Epidemiol. 2012 Sep 1;176(5):361-72. doi: 10.1093/aje/kws031.
+Epub 2012 Aug 5.
+Citation on PubMed
+Wong WL, Su X, Li X, Cheung CM, Klein R, Cheng CY, Wong TY. Global prevalence
+of age-related macular degeneration and disease burden projection for 2020 and
+2040: a systematic review and meta-analysis. Lancet Glob Health. 2014
+Feb;2(2):e106-16. doi: 10.1016/S2214-109X(13)70145-1. Epub 2014 Jan 3.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Macular Degeneration
+MEDICAL ENCYCLOPEDIA
+Age-related macular degeneration
+Genetics
+Macular Degeneration (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

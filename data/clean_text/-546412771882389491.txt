@@ -1,0 +1,140 @@
+Polycythemia vera: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Polycythemia vera
+URL of this page: https://medlineplus.gov/genetics/condition/polycythemia-vera/
+Polycythemia vera
+Description
+Polycythemia vera is a condition characterized by an increased number of red blood cells in the bloodstream. Affected individuals may also have excess white blood cells and
+blood clotting
+cells called platelets. These extra cells and platelets cause the blood to be thicker than normal. As a result, abnormal blood clots are more likely to form and block the flow of blood through arteries and veins. Individuals with polycythemia vera have an increased risk of
+deep vein thrombosis
+(DVT), a type of blood clot that occurs in the deep veins of the arms or legs. If a DVT travels through the bloodstream and lodges in the lungs, it can cause a life-threatening clot known as a pulmonary embolism (PE). Affected individuals also have an increased risk of heart attack and
+stroke
+caused by blood clots in the heart and brain.
+Polycythemia vera typically develops in adulthood, around age 60, although in rare cases it occurs in children and young adults. This condition may not cause any symptoms in its early stages. Some people with polycythemia vera experience headaches, dizziness, ringing in the ears (tinnitus), impaired vision, or itchy skin. Affected individuals frequently have reddened skin because of the extra red blood cells. Other complications of polycythemia vera include an enlarged spleen (splenomegaly), stomach ulcers,
+gout
+(a form of arthritis caused by a buildup of uric acid in the joints), heart disease, and cancer of blood-forming cells (leukemia).
+Frequency
+The prevalence of polycythemia vera varies worldwide. The condition affects an estimated 44 to 57 per 100,000 individuals in the United States. For unknown reasons, men develop polycythemia vera more frequently than women.
+Causes
+Mutations in the
+JAK2
+and
+TET2
+genes are associated with polycythemia vera. Although it remains unclear exactly what initiates polycythemia vera, researchers believe that it begins when mutations occur in the DNA of a
+hematopoietic stem cell
+. These stem cells are located in the bone marrow and have the potential to develop into red blood cells, white blood cells, and platelets.
+JAK2
+gene mutations seem to be particularly important for the development of polycythemia vera, as nearly all affected individuals have a mutation in this gene. The
+JAK2
+gene provides instructions for making a protein that promotes the growth and division (proliferation) of cells. The JAK2 protein is especially important for controlling the production of blood cells from hematopoietic stem cells.
+JAK2
+gene mutations result in the production of a JAK2 protein that is constantly turned on (constitutively activated), which increases production of blood cells and prolongs their survival. With so many extra cells in the bloodstream, abnormal blood clots are more likely to form. Thicker blood also flows more slowly throughout the body, which prevents organs from receiving enough oxygen. Many of the signs and symptoms of polycythemia vera are related to a shortage of oxygen in body tissues.
+The function of the
+TET2
+gene is unknown. Although mutations in the
+TET2
+gene have been found in approximately 16 percent of people with polycythemia vera, it is unclear what role these mutations play in the development of the condition.
+Learn more about the genes associated with Polycythemia vera
+JAK2
+TET2
+Inheritance
+Most cases of polycythemia vera are not inherited. This condition is associated with genetic changes that are somatic, which means they are acquired during a person's lifetime and are present only in certain cells.
+In rare instances, polycythemia vera has been found to run in families. In some of these families, the risk of developing polycythemia vera appears to have an
+autosomal dominant pattern of inheritance
+. Autosomal dominant inheritance means that one copy of an altered gene in each cell is sufficient to increase the risk of developing polycythemia vera, although the cause of this condition in familial cases is unknown. In these families, people seem to inherit an increased risk of polycythemia vera, not the disease itself.
+Other Names for This Condition
+Osler-Vaquez disease
+Polycythemia ruba vera
+Primary polycythemia
+PRV
+PV
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Acquired polycythemia vera
+Genetic and Rare Diseases Information Center
+Polycythemia vera
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+POLYCYTHEMIA VERA; PV
+Scientific Articles on PubMed
+PubMed
+References
+Cario H, McMullin MF, Pahl HL. Clinical and hematological presentation of
+children and adolescents with polycythemia vera. Ann Hematol. 2009
+Aug;88(8):713-9. doi: 10.1007/s00277-009-0758-y. Epub 2009 May 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Delhommeau F, Jeziorowska D, Marzac C, Casadevall N. Molecular aspects of
+myeloproliferative neoplasms. Int J Hematol. 2010 Mar;91(2):165-73. doi:
+10.1007/s12185-010-0530-z. Epub 2010 Feb 27.
+Citation on PubMed
+Gangat N, Strand J, Lasho TL, Finke CM, Knudson RA, Pardanani A, Li CY,
+Ketterling RP, Tefferi A. Cytogenetic studies at diagnosis in polycythemia vera:
+clinical and JAK2V617F allele burden correlates. Eur J Haematol. 2008
+Mar;80(3):197-200. doi: 10.1111/j.1600-0609.2007.01003.x. Epub 2007 Dec 7.
+Citation on PubMed
+Landolfi R, Nicolazzi MA, Porfidia A, Di Gennaro L. Polycythemia vera. Intern
+Emerg Med. 2010 Oct;5(5):375-84. doi: 10.1007/s11739-010-0369-6. Epub 2010 Mar
+16.
+Citation on PubMed
+Mehta J, Wang H, Iqbal SU, Mesa R. Epidemiology of myeloproliferative
+neoplasms in the United States. Leuk Lymphoma. 2014 Mar;55(3):595-600. doi:
+10.3109/10428194.2013.813500. Epub 2013 Jul 29.
+Citation on PubMed
+Tefferi A. Novel mutations and their functional and clinical relevance in
+myeloproliferative neoplasms: JAK2, MPL, TET2, ASXL1, CBL, IDH and IKZF1.
+Leukemia. 2010 Jun;24(6):1128-38. doi: 10.1038/leu.2010.69. Epub 2010 Apr 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Thiele J, Kvasnicka HM. The 2008 WHO diagnostic criteria for polycythemia
+vera, essential thrombocythemia, and primary myelofibrosis. Curr Hematol Malig
+Rep. 2009 Jan;4(1):33-40. doi: 10.1007/s11899-009-0005-6.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Blood Disorders
+Bone Marrow Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Polycythemia vera
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

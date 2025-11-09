@@ -1,0 +1,153 @@
+Familial hemiplegic migraine: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial hemiplegic migraine
+URL of this page: https://medlineplus.gov/genetics/condition/familial-hemiplegic-migraine/
+Familial hemiplegic migraine
+Description
+Familial hemiplegic migraine is a form of
+migraine
+headache that runs in families. Migraines usually cause intense, throbbing pain in one area of the head, often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. These recurrent headaches typically begin in childhood or adolescence and can be triggered by certain foods, emotional stress, and minor head trauma. Each headache may last from a few hours to a few days.
+In some types of migraine, including familial hemiplegic migraine, a pattern of neurological symptoms called an aura precedes the headache. The most common symptoms associated with an aura are temporary visual changes such as blind spots (scotomas), flashing lights, zig-zagging lines, and double vision. In people with familial hemiplegic migraine, auras are also characterized by temporary numbness or weakness, often affecting one side of the body (hemiparesis). Additional features of an aura can include difficulty with speech, confusion, and drowsiness. An aura typically develops gradually over a few minutes and lasts about an hour.
+Unusually severe migraine episodes have been reported in some people with familial hemiplegic migraine. These episodes have included fever, seizures, prolonged weakness, coma, and, rarely, death. Although most people with familial hemiplegic migraine recover completely between episodes, neurological symptoms such as memory loss and problems with attention can last for weeks or months. About 20 percent of people with this condition develop mild but permanent difficulty coordinating movements (ataxia), which may worsen with time, and rapid, involuntary eye movements called nystagmus.
+Frequency
+The worldwide prevalence of familial hemiplegic migraine is unknown. Studies suggest that in Denmark about 1 in 10,000 people have hemiplegic migraine and that the condition occurs equally in families with multiple affected individuals (familial hemiplegic migraine) and in individuals with no family history of the condition (
+sporadic hemiplegic migraine
+). Like other forms of migraine, familial hemiplegic migraine affects females more often than males.
+Causes
+Mutations in the
+CACNA1A
+,
+ATP1A2
+,
+SCN1A
+, and
+PRRT2
+genes have been found to cause familial hemiplegic migraine. The first three genes provide instructions for making proteins that are involved in the transport of charged atoms (ions) across cell membranes. The movement of these ions is critical for normal signaling between nerve cells (neurons) in the brain and other parts of the nervous system. The function of the protein produced from the
+PRRT2
+gene is unknown, although studies suggest it interacts with a protein that helps control signaling between neurons.
+Communication between neurons depends on chemicals called
+neurotransmitters
+, which are released from one neuron and taken up by neighboring neurons. Researchers believe that mutations in the
+CACNA1A
+,
+ATP1A2
+, and
+SCN1A
+genes can upset the balance of ions in neurons, which disrupts the normal release and uptake of certain neurotransmitters in the brain. Although the mechanism is unknown, researchers speculate that mutations in the
+PRRT2
+gene, which reduce the amount of PRRT2 protein, also disrupt normal control of neurotransmitter release. The resulting changes in signaling between neurons lead people with familial hemiplegic migraine to develop these severe headaches.
+There is little evidence that mutations in the
+CACNA1A
+,
+ATP1A2
+,
+SCN1A
+, and
+PRRT2
+genes play a role in common migraines, which affect millions of people each year. Researchers are searching for additional genetic changes that may underlie rare types of migraine, such as familial hemiplegic migraine, as well as the more common forms of migraine.
+Learn more about the genes associated with Familial hemiplegic migraine
+ATP1A2
+CACNA1A
+PRRT2
+SCN1A
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, affected individuals have one affected parent. However, some people who inherit an altered gene never develop features of familial hemiplegic migraine. (This situation is known as reduced penetrance.) A related condition, sporadic hemiplegic migraine, has identical signs and symptoms but occurs in individuals with no history of the disorder in their family.
+Other Names for This Condition
+Hemiplegic migraine, familial
+Hemiplegic-ophthalmoplegic migraine
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial hemiplegic migraine
+Genetic Testing Registry: Migraine, familial hemiplegic, 2
+Genetic Testing Registry: Migraine, familial hemiplegic, 3
+Genetic and Rare Diseases Information Center
+Familial hemiplegic migraine
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MIGRAINE, FAMILIAL HEMIPLEGIC, 1; FHM1
+MIGRAINE, FAMILIAL HEMIPLEGIC, 2; FHM2
+MIGRAINE, FAMILIAL HEMIPLEGIC, 3; FHM3
+Scientific Articles on PubMed
+PubMed
+References
+Black DF. Sporadic and familial hemiplegic migraine: diagnosis and treatment.
+Semin Neurol. 2006 Apr;26(2):208-16. doi: 10.1055/s-2006-939921.
+Citation on PubMed
+Colson NJ, Fernandez F, Lea RA, Griffiths LR. The search for migraine genes:
+an overview of current knowledge. Cell Mol Life Sci. 2007 Feb;64(3):331-44. doi:
+10.1007/s00018-006-5592-y.
+Citation on PubMed
+Dale RC, Gardiner A, Antony J, Houlden H. Familial PRRT2 mutation with
+heterogeneous paroxysmal disorders including paroxysmal torticollis and
+hemiplegic migraine. Dev Med Child Neurol. 2012 Oct;54(10):958-60. doi:
+10.1111/j.1469-8749.2012.04394.x. Epub 2012 Jul 31.
+Citation on PubMed
+Jen JC. Familial Hemiplegic Migraine. 2001 Jul 17 [updated 2024 Jul 4]. In:
+Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1388/
+Citation on PubMed
+Pietrobon D. Familial hemiplegic migraine. Neurotherapeutics. 2007
+Apr;4(2):274-84. doi: 10.1016/j.nurt.2007.01.008.
+Citation on PubMed
+Ramagopalan SV, Ramscar NE, Cader MZ. Molecular mechanisms of migraine? J
+Neurol. 2007 Dec;254(12):1629-35. doi: 10.1007/s00415-007-0641-5. Epub 2007 Nov
+7.
+Citation on PubMed
+Riant F, Roze E, Barbance C, Meneret A, Guyant-Marechal L, Lucas C, Sabouraud
+P, Trebuchon A, Depienne C, Tournier-Lasserve E. PRRT2 mutations cause hemiplegic
+migraine. Neurology. 2012 Nov 20;79(21):2122-4. doi:
+10.1212/WNL.0b013e3182752cb8. Epub 2012 Oct 17.
+Citation on PubMed
+van de Ven RC, Kaja S, Plomp JJ, Frants RR, van den Maagdenberg AM, Ferrari
+MD. Genetic models of migraine. Arch Neurol. 2007 May;64(5):643-6. doi:
+10.1001/archneur.64.5.643.
+Citation on PubMed
+van den Maagdenberg AM, Haan J, Terwindt GM, Ferrari MD. Migraine: gene
+mutations and functional consequences. Curr Opin Neurol. 2007 Jun;20(3):299-305.
+doi: 10.1097/WCO.0b013e3281338d1f.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Migraine
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

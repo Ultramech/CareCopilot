@@ -1,0 +1,139 @@
+Complete plasminogen activator inhibitor 1 deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Complete plasminogen activator inhibitor 1 deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/complete-plasminogen-activator-inhibitor-1-deficiency/
+Complete plasminogen activator inhibitor 1 deficiency
+Description
+Complete plasminogen activator inhibitor 1 deficiency (complete PAI-1 deficiency) is a disorder that causes abnormal bleeding. In people with this disorder, bleeding associated with injury can be excessive and last longer than usual.
+Individuals with complete PAI-1 deficiency may experience prolonged nosebleeds, excessive bleeding after medical or dental procedures, easy bruising, and significant bleeding into the joints or soft tissues after even a minor injury. Internal bleeding after an injury, especially bleeding around the brain (intracranial hemorrhage), can be life-threatening. Affected females may have excessive bleeding associated with menstruation (menorrhagia) and abnormal bleeding in pregnancy and childbirth.
+In addition to bleeding problems, some people with complete PAI-1 deficiency develop scar tissue in the heart (cardiac fibrosis), which can lead to heart failure.
+Frequency
+Complete PAI-1 deficiency is a rare disorder; its prevalence is unknown. It has been well studied in a large family belonging to the Old Order Amish population of eastern and southern Indiana. Additional cases in North America, Europe, and Asia have been described in the medical literature.
+Complete PAI-1 deficiency is inherited equally by both sexes, but tends to be diagnosed earlier and more frequently in females because of its effects on menstruation, pregnancy, and childbirth.
+Causes
+Complete PAI-1 deficiency is caused by mutations in the
+SERPINE1
+gene. This gene provides instructions for making a protein called plasminogen activator inhibitor 1 (PAI-1). PAI-1 is involved in normal blood clotting (
+hemostasis
+). After an injury, clots protect the body by sealing off damaged blood vessels and preventing further blood loss.
+The PAI-1 protein blocks (inhibits) the action of other proteins called plasminogen activators. These proteins promote the dissolution of clots (fibrinolysis). By inhibiting plasminogen activators, the PAI-1 protein helps ensure that clots remain intact until they are no longer needed to stop bleeding.
+The
+SERPINE1
+gene mutations that cause complete PAI-1 deficiency result in the production of a PAI-1 protein that is nonfunctional or that is unstable and quickly broken down. Absence of functional PAI-1 protein allows plasminogen activators to dissolve blood clots prematurely, resulting in the abnormal bleeding associated with this disorder.
+Learn more about the gene associated with Complete plasminogen activator inhibitor 1 deficiency
+SERPINE1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Complete PAI-1 deficiency
+Congenital plasminogen activator inhibitor type 1 deficiency
+Homozygous PAI-1 deficiency
+Hyperfibrinolysis due to PAI1 deficiency
+PAI-1 deficiency
+PAI-1D
+PAI1 deficiency
+Plasminogen activator inhibitor type 1 deficiency
+Plasminogen inhibitor-1 deficiency
+Quantitative PAI-1 deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital plasminogen activator inhibitor type 1 deficiency
+Genetic and Rare Diseases Information Center
+Congenital plasminogen activator inhibitor type 1 deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PLASMINOGEN ACTIVATOR INHIBITOR-1 DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Fay WP, Parker AC, Condrey LR, Shapiro AD. Human plasminogen activator
+inhibitor-1 (PAI-1) deficiency: characterization of a large kindred with a null
+mutation in the PAI-1 gene. Blood. 1997 Jul 1;90(1):204-8.
+Citation on PubMed
+Flevaris P, Vaughan D. The Role of Plasminogen Activator Inhibitor Type-1 in
+Fibrosis. Semin Thromb Hemost. 2017 Mar;43(2):169-177. doi:
+10.1055/s-0036-1586228. Epub 2016 Aug 24.
+Citation on PubMed
+Heiman M, Gupta S, Lewandowska M, Shapiro AD. Complete Plasminogen Activator
+Inhibitor 1 Deficiency. 2017 Aug 3 [updated 2023 Feb 23]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK447152/
+Citation on PubMed
+Heiman M, Gupta S, Shapiro AD. The obstetric, gynaecological and fertility
+implications of homozygous PAI-1 deficiency: single-centre experience.
+Haemophilia. 2014 May;20(3):407-12. doi: 10.1111/hae.12313. Epub 2013 Nov 22.
+Citation on PubMed
+Jankun J, Skrzypczak-Jankun E. Plasminogen activator inhibitor with very long
+half-life (VLHL PAI-1) can reduce bleeding in PAI-1-deficient patients.
+Cardiovasc Hematol Disord Drug Targets. 2013 Aug;13(2):144-50. doi:
+10.2174/1871529x11313020007.
+Citation on PubMed
+Mehta R, Shapiro AD. Plasminogen activator inhibitor type 1 deficiency.
+Haemophilia. 2008 Nov;14(6):1255-60. doi: 10.1111/j.1365-2516.2008.01834.x.
+Citation on PubMed
+Minowa H, Takahashi Y, Tanaka T, Naganuma K, Ida S, Maki I, Yoshioka A. Four
+cases of bleeding diathesis in children due to congenital plasminogen activator
+inhibitor-1 deficiency. Haemostasis. 1999;29(5):286-91. doi: 10.1159/000022514.
+Citation on PubMed
+Takahashi Y, Tanaka T, Minowa H, Ookubo Y, Sugimoto M, Nakajima M, Miyauchi Y,
+Yoshioka A. Hereditary partial deficiency of plasminogen activator inhibitor-1
+associated with a lifelong bleeding tendency. Int J Hematol. 1996 Jul;64(1):61-8.
+doi: 10.1016/0925-5710(96)00460-4.
+Citation on PubMed
+Yasar Yildiz S, Kuru P, Toksoy Oner E, Agirbasli M. Functional stability of
+plasminogen activator inhibitor-1. ScientificWorldJournal. 2014;2014:858293. doi:
+10.1155/2014/858293. Epub 2014 Oct 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zhang ZY, Wang ZY, Dong NZ, Bai X, Zhang W, Ruan CG. A case of deficiency of
+plasma plasminogen activator inhibitor-1 related to Ala15Thr mutation in its
+signal peptide. Blood Coagul Fibrinolysis. 2005 Jan;16(1):79-84. doi:
+10.1097/00001721-200501000-00013.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bleeding Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Bleeding disorders
+Bleeding time
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

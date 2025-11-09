@@ -1,0 +1,142 @@
+Milroy disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Milroy disease
+URL of this page: https://medlineplus.gov/genetics/condition/milroy-disease/
+Milroy disease
+Description
+Milroy disease is a condition that affects the normal function of the lymphatic system. The lymphatic system produces and transports fluids and immune cells throughout the body. Impaired transport with accumulation of lymph fluid can cause swelling (
+lymphedema
+). Individuals with Milroy disease typically have lymphedema in their lower legs and feet at birth or develop it in infancy. The lymphedema typically occurs on both sides of the body and may worsen over time.
+Milroy disease is associated with other features in addition to lymphedema. Males with Milroy disease are sometimes born with an accumulation of fluid in the scrotum (hydrocele). Males and females may have upslanting toenails, deep creases in the toes, wart-like growths (papillomas), and prominent leg veins. Some individuals develop non-contagious skin infections called cellulitis that can damage the thin tubes that carry lymph fluid (lymphatic vessels). Episodes of cellulitis can cause further swelling in the lower limbs.
+Frequency
+Milroy disease is a rare disorder; its incidence is unknown.
+Causes
+Mutations in the
+FLT4
+gene cause some cases of Milroy disease. The
+FLT4
+gene provides instructions for producing a protein called vascular endothelial growth factor receptor 3 (VEGFR-3), which regulates the development and maintenance of
+the lymphatic system
+. Mutations in the
+FLT4
+gene interfere with the growth, movement, and survival of cells that line the lymphatic vessels (lymphatic endothelial cells). These mutations lead to the development of small or absent lymphatic vessels. If lymph fluid is not properly transported, it builds up in the body's tissues and causes
+lymphedema
+. It is not known how mutations in the
+FLT4
+gene lead to the other features of this disorder.
+Many individuals with Milroy disease do not have a mutation in the
+FLT4
+gene. In these individuals, the cause of the disorder is unknown.
+Learn more about the gene associated with Milroy disease
+FLT4
+Inheritance
+Milroy disease is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person inherits the mutation from
+one affected parent
+. Other cases may result from
+new mutations
+in the
+FLT4
+gene. These cases occur in people with no history of the disorder in their family. About 10 percent to 15 percent of people with a mutation in the
+FLT4
+gene do not develop the features of Milroy disease.
+Other Names for This Condition
+Congenital familial lymphedema
+Hereditary lymphedema type I
+Milroy's disease
+Nonne-Milroy lymphedema
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary lymphedema type I
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LYMPHATIC MALFORMATION 1; LMPHM1
+Scientific Articles on PubMed
+PubMed
+References
+Brice G, Child AH, Evans A, Bell R, Mansour S, Burnand K, Sarfarazi M, Jeffery
+S, Mortimer P. Milroy disease and the VEGFR-3 mutation phenotype. J Med Genet.
+2005 Feb;42(2):98-102. doi: 10.1136/jmg.2004.024802.
+Citation on PubMed
+or
+Free article on PubMed Central
+Butler MG, Dagenais SL, Rockson SG, Glover TW. A novel VEGFR3 mutation causes
+Milroy disease. Am J Med Genet A. 2007 Jun 1;143A(11):1212-7. doi:
+10.1002/ajmg.a.31703.
+Citation on PubMed
+Evans AL, Bell R, Brice G, Comeglio P, Lipede C, Jeffery S, Mortimer P,
+Sarfarazi M, Child AH. Identification of eight novel VEGFR-3 mutations in
+families with primary congenital lymphoedema. J Med Genet. 2003
+Sep;40(9):697-703. doi: 10.1136/jmg.40.9.697. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ghalamkarpour A, Morlot S, Raas-Rothschild A, Utkus A, Mulliken JB, Boon LM,
+Vikkula M. Hereditary lymphedema type I associated with VEGFR3 mutation: the
+first de novo case and atypical presentations. Clin Genet. 2006 Oct;70(4):330-5.
+doi: 10.1111/j.1399-0004.2006.00687.x.
+Citation on PubMed
+Irrthum A, Karkkainen MJ, Devriendt K, Alitalo K, Vikkula M. Congenital
+hereditary lymphedema caused by a mutation that inactivates VEGFR3 tyrosine
+kinase. Am J Hum Genet. 2000 Aug;67(2):295-301. doi: 10.1086/303019. Epub 2000
+Jun 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Karkkainen MJ, Ferrell RE, Lawrence EC, Kimak MA, Levinson KL, McTigue MA,
+Alitalo K, Finegold DN. Missense mutations interfere with VEGFR-3 signalling in
+primary lymphoedema. Nat Genet. 2000 Jun;25(2):153-9. doi: 10.1038/75997.
+Citation on PubMed
+Levinson KL, Feingold E, Ferrell RE, Glover TW, Traboulsi EI, Finegold DN. Age
+of onset in hereditary lymphedema. J Pediatr. 2003 Jun;142(6):704-8. doi:
+10.1067/mpd.2003.235.
+Citation on PubMed
+Van Zanten M, Mansour S, Ostergaard P, Mortimer P, Gordon K. Milroy Disease.
+2006 Apr 27 [updated 2021 Feb 18]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA,
+Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1239/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Lymphatic Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Lymphatic obstruction
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

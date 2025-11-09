@@ -1,0 +1,161 @@
+3-methylcrotonyl-CoA carboxylase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+3-methylcrotonyl-CoA carboxylase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/3-methylcrotonyl-coa-carboxylase-deficiency/
+3-methylcrotonyl-CoA carboxylase deficiency
+Description
+3-methylcrotonyl-CoA carboxylase deficiency (also called MCC deficiency) is an inherited disorder in which the body is unable to process certain proteins. People with this disorder have a shortage of an enzyme that helps break down proteins that contain a particular building block (amino acid) called leucine.
+The signs and symptoms of
+MCC deficiency
+can vary among individuals, even among individuals in the same family. Some people with the genetic changes that cause MCC deficiency will not develop symptoms until adulthood, while many will never develop signs or symptoms.
+Some affected individuals develop signs and symptoms in infancy or early childhood after an event such as an infection, a long period without food, or the introduction of a high-protein diet. Features of MCC deficiency may include feeding difficulties, delayed development, vomiting, excessive tiredness (lethargy), and weak muscle tone (hypotonia). If untreated, MCC deficiency can lead to seizures; breathing difficulties; and comas, which can be life-threatening.
+Frequency
+As many as 1 in 36,000 newborns may receive a diagnosis of
+MCC deficiency
+.
+Causes
+Variants (also called mutations) in the
+MCCC1
+or
+MCCC2
+gene cause
+3-methylcrotonyl-CoA carboxylase deficiency
+. The condition is sometimes referred to as 3-methylcrotonyl-CoA carboxylase 1 deficiency or 3-methylcrotonyl-CoA carboxylase 2 deficiency depending on the specific gene that is affected. These two genes provide instructions for making different parts (subunits) of an enzyme called 3-methylcrotonyl-CoA carboxylase (MCC). This enzyme plays a critical role in breaking down proteins obtained from food. Specifically, MCC is responsible for the fourth step in the breakdown of leucine, an
+amino acid
+that is part of many proteins.
+Variants in the
+MCCC1
+or
+MCCC2
+gene reduce or eliminate the activity of MCC, preventing the body from processing leucine properly. In some people, these variants do not cause signs or symptoms. In others, toxic byproducts of leucine processing build up to harmful levels, which can damage the
+brain
+. This damage underlies the signs and symptoms of MCC deficiency.
+Learn more about the genes associated with 3-methylcrotonyl-CoA carboxylase deficiency
+MCCC1
+MCCC2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of either the
+MCCC1
+gene or the
+MCCC2
+gene in each cell must have a variant to cause the disorder. These gene variants increase the risk of developing the signs and symptoms of MCC deficiency. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+3-MCC deficiency
+3-methylcrotonylglycinuria
+BMCC deficiency
+Deficiency of methylcrotonoyl-CoA carboxylase
+MCC deficiency
+MCCD
+Methylcrotonyl-CoA carboxylase deficiency
+Methylcrotonyl-coenzyme A carboxylase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: 3-methylcrotonyl-CoA carboxylase 1 deficiency
+Genetic Testing Registry: 3-methylcrotonyl-CoA carboxylase 2 deficiency
+Genetic and Rare Diseases Information Center
+3-methylcrotonyl-CoA carboxylase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+3-METHYLCROTONYL-CoA CARBOXYLASE 1 DEFICIENCY; MCC1D
+3-METHYLCROTONYL-CoA CARBOXYLASE 2 DEFICIENCY; MCC2D
+Scientific Articles on PubMed
+PubMed
+References
+Arnold GL, Koeberl DD, Matern D, Barshop B, Braverman N, Burton B, Cederbaum
+S, Fiegenbaum A, Garganta C, Gibson J, Goodman SI, Harding C, Kahler S, Kronn D,
+Longo N. A Delphi-based consensus clinical practice protocol for the diagnosis
+and management of 3-methylcrotonyl CoA carboxylase deficiency. Mol Genet Metab.
+2008 Apr;93(4):363-70. doi: 10.1016/j.ymgme.2007.11.002. Epub 2007 Dec 21.
+Citation on PubMed
+Baumgartner MR, Almashanu S, Suormala T, Obie C, Cole RN, Packman S,
+Baumgartner ER, Valle D. The molecular basis of human 3-methylcrotonyl-CoA
+carboxylase deficiency. J Clin Invest. 2001 Feb;107(4):495-504. doi:
+10.1172/JCI11948.
+Citation on PubMed
+or
+Free article on PubMed Central
+Forsyth R, Vockley CW, Edick MJ, Cameron CA, Hiner SJ, Berry SA, Vockley J,
+Arnold GL; Inborn Errors of Metabolism Collaborative. Outcomes of cases with
+3-methylcrotonyl-CoA carboxylase (3-MCC) deficiency - Report from the Inborn
+Errors of Metabolism Information System. Mol Genet Metab. 2016 May;118(1):15-20.
+doi: 10.1016/j.ymgme.2016.02.002. Epub 2016 Feb 15.
+Citation on PubMed
+Gallardo ME, Desviat LR, Rodriguez JM, Esparza-Gordillo J, Perez-Cerda C,
+Perez B, Rodriguez-Pombo P, Criado O, Sanz R, Morton DH, Gibson KM, Le TP, Ribes
+A, de Cordoba SR, Ugarte M, Penalva MA. The molecular basis of
+3-methylcrotonylglycinuria, a disorder of leucine catabolism. Am J Hum Genet.
+2001 Feb;68(2):334-46. doi: 10.1086/318202. Epub 2001 Jan 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grunert SC, Stucki M, Morscher RJ, Suormala T, Burer C, Burda P, Christensen
+E, Ficicioglu C, Herwig J, Kolker S, Moslinger D, Pasquini E, Santer R, Schwab
+KO, Wilcken B, Fowler B, Yue WW, Baumgartner MR. 3-methylcrotonyl-CoA carboxylase
+deficiency: clinical, biochemical, enzymatic and molecular studies in 88
+individuals. Orphanet J Rare Dis. 2012 May 29;7:31. doi: 10.1186/1750-1172-7-31.
+Citation on PubMed
+Holzinger A, Roschinger W, Lagler F, Mayerhofer PU, Lichtner P, Kattenfeld T,
+Thuy LP, Nyhan WL, Koch HG, Muntau AC, Roscher AA. Cloning of the human MCCA and
+MCCB genes and mutations therein reveal the molecular cause of
+3-methylcrotonyl-CoA: carboxylase deficiency. Hum Mol Genet. 2001 Jun
+1;10(12):1299-306. doi: 10.1093/hmg/10.12.1299.
+Citation on PubMed
+Shepard PJ, Barshop BA, Baumgartner MR, Hansen JB, Jepsen K, Smith EN, Frazer
+KA. Consanguinity and rare mutations outside of MCCC genes underlie nonspecific
+phenotypes of MCCD. Genet Med. 2015 Aug;17(8):660-7. doi: 10.1038/gim.2014.157.
+Epub 2014 Nov 6.
+Citation on PubMed
+Stadler SC, Polanetz R, Maier EM, Heidenreich SC, Niederer B, Mayerhofer PU,
+Lagler F, Koch HG, Santer R, Fletcher JM, Ranieri E, Das AM, Spiekerkotter U,
+Schwab KO, Potzsch S, Marquardt I, Hennermann JB, Knerr I, Mercimek-Mahmutoglu S,
+Kohlschmidt N, Liebl B, Fingerhut R, Olgemoller B, Muntau AC, Roscher AA,
+Roschinger W. Newborn screening for 3-methylcrotonyl-CoA carboxylase deficiency:
+population heterogeneity of MCCA and MCCB mutations and impact on risk
+assessment. Hum Mutat. 2006 Aug;27(8):748-59. doi: 10.1002/humu.20349.
+Citation on PubMed
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

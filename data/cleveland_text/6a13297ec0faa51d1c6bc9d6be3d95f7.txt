@@ -1,0 +1,217 @@
+What Is Pharmacogenomics (Pharmacogenetics)?
+Home
+/
+Health Library
+/
+Articles
+/
+Pharmacogenomics
+Advertisement
+Advertisement
+Pharmacogenomics
+Pharmacogenomics is a field of medicine that investigates how a person’s genetic makeup may affect how their body processes certain medications. It involves genetic testing that looks for changes in specific genes. Pharmacogenomics is a rapidly growing field.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Schedule Genetic Counseling
+Find a Doctor and Specialists
+Make an Appointment
+What is pharmacogenomics?
+Pharmacogenomics (also known as pharmacogenetics) is the study of how our
+genes
+affect the way we respond to medications. The word “pharmacogenomics” comes from the words “pharmacology” (the study of the uses and effects of medications) and “genomics” (the study of genes and their functions).
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Pharmacogenomics is part of the field of precision medicine. This is treatment that’s personalized based on your genes, environment and lifestyle. Pharmacogenomics can help your healthcare provider prescribe a medication that leads to fewer side effects or that may work better for you.
+Currently, providers only use pharmacogenomics for a limited number of health conditions and medications. Examples include some medications for
+HIV
+, certain
+cancers
+,
+depression
+and
+heart disease
+. But this field of medicine is rapidly changing and advancing. Researchers are hopeful that pharmacogenomics will soon be able to help providers choose better medications to manage many common conditions.
+How do genes affect how medications work?
+Your genes give instructions to your body’s cells. Genes help build protein molecules known as
+enzymes
+. Enzymes have countless functions, including the breakdown (
+metabolism
+) of medications. People who don’t respond to medications as expected may have genetic differences that change the amount of enzyme made or how well it works.
+If your body breaks down a medication too quickly, too slowly or not at all, then a typical dose of it won’t work as intended. The medication could result in significant side effects, or it may have little to no effect on treating the condition at hand.
+Advertisement
+What is a pharmacogenomic test?
+A pharmacogenomic test is a
+genetic test
+that may look at one gene or several genes for specific changes that impact medication breakdown.
+Providers typically use a blood sample or cheek (buccal) swab for pharmacogenomic testing. A provider sends your sample to a laboratory where a technician checks your DNA for specific changes. Which gene or genes they check depends on which test your provider has ordered, which condition(s) they’re trying to treat and which medications they’re considering.
+When might I need pharmacogenomic testing?
+Pharmacogenomic testing may be available if you’re receiving medications for specific conditions. Here are some (but not all) examples of reasons your healthcare provider may recommend pharmacogenomic testing:
+High cholesterol
+Variants of the
+SLCO1B1
+gene can lead to
+muscle pain
+and weakness if you take certain
+statins
+for
+high cholesterol
+. These statins may include:
+Atorvastatin
+(Lipitor®).
+Fluvastatin
+(Lescol®).
+Lovastatin
+(Altoprev®).
+Pitavastatin
+(Livalo®).
+Pravastatin
+(Pravachol®).
+Rosuvastatin
+(Crestor®).
+Simvastatin
+(Zocor®).
+Depression
+Variations in the genes
+CYP2D6
+and
+CYP2C19
+can affect how quickly your body breaks down certain
+antidepressants
+. These may include:
+Amitriptyline
+(Elavil®), a
+tricyclic antidepressant
+.
+SSRIs
+, including
+citalopram
+(Celexa®),
+escitalopram
+(Lexapro®),
+sertraline
+(Zoloft®),
+paroxetine
+(Paxil®) and
+fluvoxamine
+(Luvox®).
+Venlafaxine
+(Effexor®), an
+SNRI
+.
+Cancers
+If you’re taking medications for specific types of cancers, you may benefit from pharmacogenomic testing, including:
+Breast cancer
+:
+Trastuzumab
+(Herceptin®) only works for people with HER2-positive breast cancer. The tumors have a genetic profile that leads to the overproduction of the HER2 protein.
+Acute lymphoblastic leukemia (ALL)
+: Normal dosing of
+mercaptopurine
+(Purinethol®) for people with low levels of the thiopurine methyltransferase (TPMT) enzyme can cause severe side effects and increase the risk of infection.
+Colon cancer
+: People with a shortage of the UGT1A1 enzyme can experience severe
+diarrhea
+and an increased infection risk if they take
+irinotecan
+(Camptosar®).
+Normal dosing of the chemotherapy medication
+fluorouracil, 5-FU
+(Adrucil®) for people with lower levels of the dihydropyrimidine dehydrogenase (DPD) enzyme can cause serious side effects. Providers may recommend this medication for
+colorectal
+, breast,
+stomach
+and
+pancreatic
+cancers.
+Blood clot prevention
+People with certain genetic variants require lower doses of
+warfarin
+(Coumidan®), an
+anticoagulant
+.
+A change in the CYP2C19 enzyme in your liver can lead to
+clopidogrel
+(Plavix®) not working. This is an
+antiplatelet
+medication.
+Advertisement
+HIV
+A variation in the
+HLA-B
+gene can cause a severe skin reaction to
+Abacavir
+(Ziagen®).
+A variation in the
+CYP2B6
+gene can cause an increased risk of side effects to
+efavirenz
+(Sustiva®), such as neurological changes.
+Immune system issues
+You may benefit from pharmacogenomic testing if you’re taking an
+immunosuppressant
+:
+Changes in the proteins TPMT and NUDT15 can suppress
+bone marrow
+activity if you take
+azathioprine
+(Imuran®) for a
+kidney transplant
+and
+immune system
+-related conditions, like
+multiple sclerosis
+.
+Changes in the CYP3A5 enzyme can increase your risk of
+organ transplant rejection
+if you take
+tacrolimus
+(Prograf®) after an organ transplant.
+What are the potential benefits of pharmacogenomics?
+As researchers and healthcare providers continue to study and use pharmacogenomics, it may bring many benefits, including:
+Improving safety
+: Healthcare providers may be able to avoid prescribing medications that cause harmful side effects and/or overdose in certain people.
+Improving efficiency and healthcare costs
+: Knowing which medications a person may or may not respond to upfront can allow providers to prescribe the most beneficial medication first.
+Targeted drug development
+: Some conditions are caused by specific changes (variants) in a gene. Pharmacogenomics can help researchers discover new medications that directly target the gene change.
+Advertisement
+What are the potential limitations of pharmacogenomics?
+While your genetic makeup is important in determining the best treatment for many conditions, it doesn’t completely explain how your body processes medications. Healthcare providers still need to consider other factors when choosing an appropriate medication therapy, such as:
+Other medications
+: Your current medications may affect the breakdown of other medications.
+Other health conditions
+: Some health conditions can influence the way your body processes medications.
+Lifestyle
+: Your lifestyle, including what you eat, how often you exercise, and tobacco and alcohol consumption can affect medication breakdown.
+Other challenges in the development and use of pharmacogenomics include:
+Cost
+: The cost of pharmacogenomic testing is decreasing but the expense or out-of-pocket costs for each person often vary depending on insurance coverage.
+Access
+: You may have limited access to certain genetic tests depending on where you live or the types of providers caring for you.
+A note from Cleveland Clinic
+Currently, healthcare providers can only use pharmacogenomic testing for a few conditions and medications. But this fascinating field of precision medicine is rapidly growing. Talk to your provider about how pharmacogenomics may affect — and benefit — your health. You may also consider asking about clinical trials for this field of medicine.
+Advertisement
+Care at Cleveland Clinic
+Do certain health conditions seem to run in your family? Are you ready to find out if you’re at risk? Cleveland Clinic’s genetics team can help.
+Schedule Genetic Counseling
+Find a Doctor and Specialists
+Make an Appointment
+Medically Reviewed
+Last reviewed on 10/04/2023.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Questions
+216.444.2538
+Appointments & Locations
+Request an Appointment
+Find a Primary Care Provider

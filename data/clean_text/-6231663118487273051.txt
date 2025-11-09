@@ -1,0 +1,158 @@
+Senior-Løken syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Senior-Løken syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/senior-loken-syndrome/
+Senior-Løken syndrome
+Description
+Senior-Løken syndrome is a rare disorder characterized by the combination of two specific features: a kidney condition called
+nephronophthisis
+and an eye condition known as
+Leber congenital amaurosis
+.
+Nephronophthisis causes fluid-filled cysts to develop in the kidneys beginning in childhood. These cysts impair kidney function, initially causing increased urine production (polyuria), excessive thirst (polydipsia), general weakness, and extreme tiredness (fatigue). Nephronophthisis leads to end-stage renal disease (ESRD) later in childhood or in adolescence. ESRD is a life-threatening failure of kidney function that occurs when the kidneys are no longer able to
+filter fluids and waste products
+from the body effectively.
+Leber congenital amaurosis primarily affects the retina, which is the specialized tissue at the back of
+the eye
+that detects light and color. This condition causes vision problems, including an increased sensitivity to light (photophobia), involuntary movements of the eyes (nystagmus), and extreme
+farsightedness
+(
+hyperopia
+). Some people with Senior-Løken syndrome develop the signs of Leber congenital amaurosis within the first few years of life, while others do not develop vision problems until later in childhood.
+Frequency
+Senior-Løken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
+Causes
+Senior-Løken syndrome can be caused by mutations in one of at least five genes. The proteins produced from these genes are known or suspected to play roles in cell structures called
+cilia
+. Cilia are microscopic, finger-like projections that stick out from the surface of cells; they are involved in signaling pathways that transmit information between cells. Cilia are important for the structure and function of many types of cells, including certain cells in the kidneys. They are also necessary for the perception of sensory input (such as vision, hearing, and smell).
+Mutations in the genes associated with Senior-Løken syndrome likely lead to problems with the structure and function of cilia. Defects in these cell structures probably disrupt important chemical signaling pathways within cells. Although researchers believe that defective cilia are responsible for the features of this disorder, it remains unclear how they lead specifically to nephronophthisis and Leber congenital amaurosis.
+Some people with Senior-Løken syndrome do not have identified mutations in one of the five genes known to be associated with the condition. In these cases, the genetic cause of the disorder is unknown.
+Learn more about the genes associated with Senior-Løken syndrome
+CEP290
+NPHP1
+WDR19
+Additional Information from NCBI Gene:
+IQCB1
+NPHP4
+SDCCAG8
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Loken-Senior syndrome
+Renal dysplasia and retinal aplasia
+Renal-retinal syndrome
+Senior-Loken syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Senior-Loken syndrome 1
+Genetic Testing Registry: Senior-Loken syndrome 3
+Genetic Testing Registry: Senior-Loken syndrome 4
+Genetic Testing Registry: Senior-Loken syndrome 5
+Genetic Testing Registry: Senior-Loken syndrome 6
+Genetic Testing Registry: Senior-Loken syndrome 7
+Genetic and Rare Diseases Information Center
+Senior-Loken syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SENIOR-LOKEN SYNDROME 1; SLSN1
+SENIOR-LOKEN SYNDROME 3; SLSN3
+SENIOR-LOKEN SYNDROME 4; SLSN4
+SENIOR-LOKEN SYNDROME 6; SLSN6
+SENIOR-LOKEN SYNDROME 5; SLSN5
+SENIOR-LOKEN SYNDROME 7; SLSN7
+Scientific Articles on PubMed
+PubMed
+References
+Caridi G, Murer L, Bellantuono R, Sorino P, Caringella DA, Gusmano R, Ghiggeri
+GM. Renal-retinal syndromes: association of retinal anomalies and recessive
+nephronophthisis in patients with homozygous deletion of the NPH1 locus. Am J
+Kidney Dis. 1998 Dec;32(6):1059-62. doi: 10.1016/s0272-6386(98)70083-6.
+Citation on PubMed
+Otto E, Hoefele J, Ruf R, Mueller AM, Hiller KS, Wolf MT, Schuermann MJ,
+Becker A, Birkenhager R, Sudbrak R, Hennies HC, Nurnberg P, Hildebrandt F. A gene
+mutated in nephronophthisis and retinitis pigmentosa encodes a novel protein,
+nephroretinin, conserved in evolution. Am J Hum Genet. 2002 Nov;71(5):1161-7.
+doi: 10.1086/344395. Epub 2002 Aug 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Otto EA, Hurd TW, Airik R, Chaki M, Zhou W, Stoetzel C, Patil SB, Levy S,
+Ghosh AK, Murga-Zamalloa CA, van Reeuwijk J, Letteboer SJ, Sang L, Giles RH, Liu
+Q, Coene KL, Estrada-Cuzcano A, Collin RW, McLaughlin HM, Held S, Kasanuki JM,
+Ramaswami G, Conte J, Lopez I, Washburn J, Macdonald J, Hu J, Yamashita Y, Maher
+ER, Guay-Woodford LM, Neumann HP, Obermuller N, Koenekoop RK, Bergmann C, Bei X,
+Lewis RA, Katsanis N, Lopes V, Williams DS, Lyons RH, Dang CV, Brito DA, Dias MB,
+Zhang X, Cavalcoli JD, Nurnberg G, Nurnberg P, Pierce EA, Jackson PK, Antignac C,
+Saunier S, Roepman R, Dollfus H, Khanna H, Hildebrandt F. Candidate exome capture
+identifies mutation of SDCCAG8 as the cause of a retinal-renal ciliopathy. Nat
+Genet. 2010 Oct;42(10):840-50. doi: 10.1038/ng.662. Epub 2010 Sep 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Otto EA, Loeys B, Khanna H, Hellemans J, Sudbrak R, Fan S, Muerb U, O'Toole
+JF, Helou J, Attanasio M, Utsch B, Sayer JA, Lillo C, Jimeno D, Coucke P, De
+Paepe A, Reinhardt R, Klages S, Tsuda M, Kawakami I, Kusakabe T, Omran H, Imm A,
+Tippens M, Raymond PA, Hill J, Beales P, He S, Kispert A, Margolis B, Williams
+DS, Swaroop A, Hildebrandt F. Nephrocystin-5, a ciliary IQ domain protein, is
+mutated in Senior-Loken syndrome and interacts with RPGR and calmodulin. Nat
+Genet. 2005 Mar;37(3):282-8. doi: 10.1038/ng1520. Epub 2005 Feb 20.
+Citation on PubMed
+Stone EM, Cideciyan AV, Aleman TS, Scheetz TE, Sumaroka A, Ehlinger MA,
+Schwartz SB, Fishman GA, Traboulsi EI, Lam BL, Fulton AB, Mullins RF, Sheffield
+VC, Jacobson SG. Variations in NPHP5 in patients with nonsyndromic leber
+congenital amaurosis and Senior-Loken syndrome. Arch Ophthalmol. 2011
+Jan;129(1):81-7. doi: 10.1001/archophthalmol.2010.330.
+Citation on PubMed
+or
+Free article on PubMed Central
+Warady BA, Cibis G, Alon U, Blowey D, Hellerstein S. Senior-Loken syndrome:
+revisited. Pediatrics. 1994 Jul;94(1):111-2. No abstract available.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Kidney Diseases
+Retinal Disorders
+MEDICAL ENCYCLOPEDIA
+Autosomal dominant tubulointerstitial kidney disease
+End-stage kidney disease
+Genetics
+Nystagmus
+Photophobia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

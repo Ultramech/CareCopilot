@@ -1,0 +1,118 @@
+Spondylothoracic dysostosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Spondylothoracic dysostosis
+URL of this page: https://medlineplus.gov/genetics/condition/spondylothoracic-dysostosis/
+Spondylothoracic dysostosis
+Description
+Spondylothoracic dysostosis is a condition characterized by malformation of the bones of the spine and ribs. The bones of the spine (vertebrae) do not develop properly, which causes them to be misshapen and abnormally joined together (fused). The ribs are also fused at the part nearest the spine (posteriorly), which gives the rib cage its characteristic fan-like or "crab" appearance in x-rays. Affected individuals have short, rigid necks and short torsos because of the bone malformations. As a result, people with spondylothoracic dysostosis have short bodies but normal-length arms and legs, called short-trunk dwarfism.
+The spine and rib abnormalities, which are present from birth, cause other signs and symptoms of spondylothoracic dysostosis. Infants with this condition have small chests that cannot expand adequately, often leading to life-threatening breathing problems. As the lungs expand in the narrow chest, the muscle that separates the abdomen from the chest cavity (the diaphragm) is forced down and the abdomen is pushed out. The increased pressure in the abdomen can cause a soft out-pouching around the lower abdomen (inguinal
+hernia
+) or belly-button (umbilical hernia).
+Breathing problems can be fatal early in life; however, some affected individuals live into adulthood.
+Spondylothoracic dysostosis is sometimes called
+spondylocostal dysostosis
+, a similar condition with abnormalities of the spine and ribs. The two conditions have been grouped in the past, and both are sometimes referred to as Jarcho-Levin syndrome; however, they are now considered distinct conditions.
+Frequency
+Spondylothoracic dysostosis affects about one in 200,000 people worldwide. However, it is much more common in people of Puerto Rican ancestry, affecting approximately one in 12,000 people.
+Causes
+The
+MESP2
+gene provides instructions for a protein that plays a critical role in the development of vertebrae. Specifically, it is involved in separating vertebrae and ribs from one another during early development, a process called somite segmentation. Mutations in the
+MESP2
+gene prevent the production of any protein or lead to the production of an abnormally short, nonfunctional protein. When the MESP2 protein is nonfunctional or absent, somite segmentation does not occur properly, which results in malformation and fusion of the bones of the spine and ribs seen in spondylothoracic dysostosis.
+Learn more about the gene associated with Spondylothoracic dysostosis
+MESP2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Jarcho-Levin syndrome
+STD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Spondylocostal dysostosis
+Genetic and Rare Diseases Information Center
+Autosomal recessive spondylocostal dysostosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPONDYLOCOSTAL DYSOSTOSIS 1, AUTOSOMAL RECESSIVE; SCDO1
+SPONDYLOCOSTAL DYSOSTOSIS 2, AUTOSOMAL RECESSIVE; SCDO2
+Scientific Articles on PubMed
+PubMed
+References
+Berdon WE, Lampl BS, Cornier AS, Ramirez N, Turnpenny PD, Vitale MG, Seimon
+LP, Cowles RA. Clinical and radiological distinction between spondylothoracic
+dysostosis (Lavy-Moseley syndrome) and spondylocostal dysostosis (Jarcho-Levin
+syndrome). Pediatr Radiol. 2011 Mar;41(3):384-8. doi: 10.1007/s00247-010-1928-8.
+Epub 2010 Dec 22.
+Citation on PubMed
+Cornier AS, Ramirez N, Arroyo S, Acevedo J, Garcia L, Carlo S, Korf B.
+Phenotype characterization and natural history of spondylothoracic dysplasia
+syndrome: a series of 27 new cases. Am J Med Genet A. 2004 Jul 15;128A(2):120-6.
+doi: 10.1002/ajmg.a.30011.
+Citation on PubMed
+Cornier AS, Staehling-Hampton K, Delventhal KM, Saga Y, Caubet JF, Sasaki N,
+Ellard S, Young E, Ramirez N, Carlo SE, Torres J, Emans JB, Turnpenny PD,
+Pourquie O. Mutations in the MESP2 gene cause spondylothoracic
+dysostosis/Jarcho-Levin syndrome. Am J Hum Genet. 2008 Jun;82(6):1334-41. doi:
+10.1016/j.ajhg.2008.04.014. Epub 2008 May 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Karnes PS, Day D, Berry SA, Pierpont ME. Jarcho-Levin syndrome: four new cases
+and classification of subtypes. Am J Med Genet. 1991 Sep 1;40(3):264-70. doi:
+10.1002/ajmg.1320400304.
+Citation on PubMed
+Morimoto M, Takahashi Y, Endo M, Saga Y. The Mesp2 transcription factor
+establishes segmental borders by suppressing Notch activity. Nature. 2005 May
+19;435(7040):354-9. doi: 10.1038/nature03591.
+Citation on PubMed
+Sasaki N, Kiso M, Kitagawa M, Saga Y. The repression of Notch signaling occurs
+via the destabilization of mastermind-like 1 by Mesp2 and is essential for
+somitogenesis. Development. 2011 Jan;138(1):55-64. doi: 10.1242/dev.055533. Epub
+2010 Nov 23.
+Citation on PubMed
+Related Health Topics
+Dwarfism
+Genetic Disorders
+Spine Injuries and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

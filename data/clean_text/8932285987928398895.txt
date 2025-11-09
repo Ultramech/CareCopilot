@@ -1,0 +1,159 @@
+Progressive familial intrahepatic cholestasis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Progressive familial intrahepatic cholestasis
+URL of this page: https://medlineplus.gov/genetics/condition/progressive-familial-intrahepatic-cholestasis/
+Progressive familial intrahepatic cholestasis
+Description
+Progressive familial intrahepatic cholestasis (PFIC) is a disorder that causes progressive
+liver
+disease, which typically leads to liver failure. In people with PFIC, liver cells are less able to secrete a digestive fluid called bile. The buildup of bile in liver cells causes liver disease in affected individuals.
+Signs and symptoms of PFIC typically begin in infancy and are related to bile buildup and liver disease. Specifically, affected individuals experience severe itching, yellowing of the skin and whites of the eyes (jaundice), failure to gain weight and grow at the expected rate (failure to thrive), high blood pressure in the vein that supplies blood to the liver (portal hypertension), and an enlarged liver and spleen (hepatosplenomegaly).
+There are three known types of PFIC: PFIC1, PFIC2, and PFIC3. The types are also sometimes described as shortages of particular proteins needed for normal liver function. Each type has a different genetic cause.
+In addition to signs and symptoms related to liver disease, people with PFIC1 may have short stature, deafness, diarrhea, inflammation of the pancreas (pancreatitis), and low levels of fat-soluble vitamins (vitamins A, D, E, and K) in the blood. Affected individuals typically develop liver failure before adulthood.
+The signs and symptoms of PFIC2 are typically related to liver disease only; however, these signs and symptoms tend to be more severe than those experienced by people with PFIC1. People with PFIC2 often develop liver failure within the first few years of life. Additionally, affected individuals are at increased risk of developing a type of liver cancer called hepatocellular carcinoma.
+Most people with PFIC3 have signs and symptoms related to liver disease only. Signs and symptoms of PFIC3 usually do not appear until later in infancy or early childhood; rarely, people are diagnosed in early adulthood. Liver failure can occur in childhood or adulthood in people with PFIC3.
+Frequency
+PFIC is estimated to affect 1 in 50,000 to 100,000 people worldwide. PFIC type 1 is much more common in the Inuit population of Greenland and the Old Order Amish population of the United States.
+Causes
+Mutations in the
+ATP8B1
+,
+ABCB11
+, and
+ABCB4
+genes can cause PFIC.
+ATP8B1
+gene mutations cause PFIC1. The
+ATP8B1
+gene provides instructions for making a protein that helps to maintain an appropriate balance of bile acids, a component of bile. This process, known as bile acid homeostasis, is critical for the normal secretion of bile and the proper functioning of liver cells. In its role in maintaining bile acid homeostasis, some researchers believe that the ATP8B1 protein is involved in moving certain fats across cell membranes. Mutations in the
+ATP8B1
+gene result in the buildup of bile acids in liver cells, damaging these cells and causing liver disease. The ATP8B1 protein is found throughout the body, but it is unclear how a lack of this protein causes short stature, deafness, and other signs and symptoms of PFIC1.
+Mutations in the
+ABCB11
+gene are responsible for PFIC2. The
+ABCB11
+gene provides instructions for making a protein called the bile salt export pump (BSEP). This protein is found in the liver, and its main role is to move bile salts (a component of bile) out of liver cells. Mutations in the
+ABCB11
+gene result in the buildup of bile salts in liver cells, damaging these cells and causing liver disease.
+ABCB4
+gene mutations cause PFIC3. The
+ABCB4
+gene provides instructions for making a protein that moves certain fats called phospholipids across cell membranes. Outside liver cells, phospholipids attach (bind) to bile acids. Large amounts of bile acids can be toxic when they are not bound to phospholipids. Mutations in the
+ABCB4
+gene lead to a lack of phospholipids available to bind to bile acids. A buildup of free bile acids damages liver cells and leads to liver disease.
+Some people with PFIC do not have a mutation in the
+ATP8B1
+,
+ABCB11
+, or
+ABCB4
+gene. In these cases, the cause of the condition is unknown.
+Learn more about the genes associated with Progressive familial intrahepatic cholestasis
+ABCB11
+ABCB4
+ATP8B1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ABCB11-related intrahepatic cholestasis
+ABCB4-related intrahepatic cholestasis
+ATP8B1-related intrahepatic cholestasis
+BSEP deficiency
+Byler disease
+Byler syndrome
+FIC1 deficiency
+Low γ-GT familial intrahepatic cholestasis
+MDR3 deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Progressive familial intrahepatic cholestasis type 2
+Genetic Testing Registry: Progressive familial intrahepatic cholestasis type 3
+Genetic Testing Registry: Progressive familial intrahepatic cholestasis
+Genetic and Rare Diseases Information Center
+Progressive familial intrahepatic cholestasis type 2
+Progressive familial intrahepatic cholestasis type 3
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CHOLESTASIS, PROGRESSIVE FAMILIAL INTRAHEPATIC, 2; PFIC2
+CHOLESTASIS, PROGRESSIVE FAMILIAL INTRAHEPATIC, 1; PFIC1
+CHOLESTASIS, PROGRESSIVE FAMILIAL INTRAHEPATIC, 3; PFIC3
+Scientific Articles on PubMed
+PubMed
+References
+Alissa FT, Jaffe R, Shneider BL. Update on progressive familial intrahepatic
+cholestasis. J Pediatr Gastroenterol Nutr. 2008 Mar;46(3):241-52. doi:
+10.1097/MPG.0b013e3181596060.
+Citation on PubMed
+Bull LN, Morotti R, Squires JE. ATP8B1 Deficiency. 2001 Oct 15 [updated 2021
+Sep 9]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1297/
+Citation on PubMed
+Davit-Spraul A, Gonzales E, Baussan C, Jacquemin E. Progressive familial
+intrahepatic cholestasis. Orphanet J Rare Dis. 2009 Jan 8;4:1. doi:
+10.1186/1750-1172-4-1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Harris MJ, Le Couteur DG, Arias IM. Progressive familial intrahepatic
+cholestasis: genetic disorders of biliary transporters. J Gastroenterol Hepatol.
+2005 Jun;20(6):807-17. doi: 10.1111/j.1440-1746.2005.03743.x.
+Citation on PubMed
+Jansen PL, Sturm E. Genetic cholestasis, causes and consequences for
+hepatobiliary transport. Liver Int. 2003 Oct;23(5):315-22. doi:
+10.1034/j.1478-3231.2003.00856.x.
+Citation on PubMed
+Pauli-Magnus C, Stieger B, Meier Y, Kullak-Ublick GA, Meier PJ. Enterohepatic
+transport of bile salts and genetics of cholestasis. J Hepatol. 2005
+Aug;43(2):342-57. doi: 10.1016/j.jhep.2005.03.017. No abstract available.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bile Duct Diseases
+Genetic Disorders
+Jaundice
+Liver Diseases
+MEDICAL ENCYCLOPEDIA
+Cholestasis
+Genetics
+Liver cancer - hepatocellular carcinoma
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

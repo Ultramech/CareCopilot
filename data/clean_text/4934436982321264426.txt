@@ -1,0 +1,138 @@
+CLCN2-related leukoencephalopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+CLCN2-related leukoencephalopathy
+URL of this page: https://medlineplus.gov/genetics/condition/clcn2-related-leukoencephalopathy/
+CLCN2-related leukoencephalopathy
+Description
+CLCN2
+-related leukoencephalopathy is a disorder that affects the brain. People with this condition have neurological problems that become apparent anytime from childhood to adulthood; the problems generally do not worsen much over time. Most affected individuals have difficulty with coordination and balance (ataxia) but can walk without support, and many have frequent headaches. Individuals diagnosed in childhood usually also have learning disabilities, while those whose symptoms begin in adulthood typically also have vision problems. These vision problems are due to breakdown of the light-sensing tissue at the back of the eyes (retinopathy) or degeneration (atrophy) of
+the optic nerves
+, which carry information from the eyes to the brain. Some affected individuals have mild muscle stiffness (spasticity). Affected males are unable to father children (infertile).
+Rarely, affected individuals have dizziness (vertigo), ringing in the ears (tinnitus), hearing loss, episodes of abnormal movements (paroxysmal kinesigenic dyskinesia), or psychiatric disorders. However, it is unclear whether these are features of
+CLCN2
+-related leukoencephalopathy or coincidental findings.
+The neurological problems in
+CLCN2
+-related leukoencephalopathy are caused by abnormalities in the brain. People with this condition have leukoencephalopathy, an abnormality of the brain's white matter that can be detected with medical imaging. White matter consists of nerve fibers covered by a fatty substance called
+myelin
+. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses. In affected individuals, the myelin becomes fluid-filled (edematous), impairing nerve impulse transmission.
+Frequency
+The prevalence of
+CLCN2
+-related leukoencephalopathy is unknown. At least 16 cases have been reported in the scientific literature.
+Causes
+As its name suggests,
+CLCN2
+-related leukoencephalopathy is caused by mutations in the
+CLCN2
+gene. The
+CLCN2
+gene provides instructions for making a
+chloride channel
+called ClC-2. This channel transports negatively charged chlorine atoms (chloride ions) across cell membranes and plays a key role in a cell's ability to generate and transmit electrical signals. ClC-2 channels are embedded within the
+outer membrane
+of most cells, and their function is thought to be particularly important in nerve cells (neurons) in the brain. The ClC-2 channel regulates the size (volume) of neurons by playing a role in their intake and release of water as well as maintaining a normal balance of ions in cells.
+Some
+CLCN2
+gene mutations impair the stability of the protein, which reduces channel function. Other
+CLCN2
+gene mutations lead to the production of a channel protein that is trapped inside the cell and cannot get to the cell membrane, or that is nonfunctional and quickly broken down. These types of mutations cause a complete loss of ClC-2 channel function.
+As a result of this reduction in ClC-2 channel activity, certain brain cells and the
+myelin
+that surrounds neurons become filled with too much water and cannot function properly. Fluid-filled myelin cannot transmit nerve impulses effectively, resulting in neurological problems such as ataxia and the other signs and symptoms of
+CLCN2
+-related leukoencephalopathy.
+Learn more about the gene associated with CLCN2-related leukoencephalopathy
+CLCN2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CC2L
+Leukoencephalopathy with ataxia
+Leukoencephalopathy with mild cerebellar ataxia and white matter edema
+Leukoencephalopathy with white matter edema
+LKPAT
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LEUKOENCEPHALOPATHY WITH ATAXIA; LKPAT
+Scientific Articles on PubMed
+PubMed
+References
+Gaitan-Penas H, Apaja PM, Arnedo T, Castellanos A, Elorza-Vidal X, Soto D,
+Gasull X, Lukacs GL, Estevez R. Leukoencephalopathy-causing CLCN2 mutations are
+associated with impaired Cl- channel function and trafficking. J
+Physiol. 2017 Nov 15;595(22):6993-7008. doi: 10.1113/JP275087. Epub 2017 Oct 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Giorgio E, Vaula G, Benna P, Lo Buono N, Eandi CM, Dino D, Mancini C,
+Cavalieri S, Di Gregorio E, Pozzi E, Ferrero M, Giordana MT, Depienne C, Brusco
+A. A novel homozygous change of CLCN2 (p.His590Pro) is associated with a
+subclinical form of leukoencephalopathy with ataxia (LKPAT). J Neurol Neurosurg
+Psychiatry. 2017 Oct;88(10):894-896. doi: 10.1136/jnnp-2016-315525. Epub 2017 May
+4. No abstract available.
+Citation on PubMed
+Stolting G, Fischer M, Fahlke C. CLC channel function and dysfunction in
+health and disease. Front Physiol. 2014 Oct 7;5:378. doi:
+10.3389/fphys.2014.00378. eCollection 2014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wang H, Xu M, Kong Q, Sun P, Yan F, Tian W, Wang X. Research and progress on
+ClC‑2 (Review). Mol Med Rep. 2017 Jul;16(1):11-22. doi: 10.3892/mmr.2017.6600.
+Epub 2017 May 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zeydan B, Uygunoglu U, Altintas A, Saip S, Siva A, Abbink TEM, van der Knaap
+MS, Yalcinkaya C. Identification of 3 Novel Patients with CLCN2-Related
+Leukoencephalopathy due to CLCN2 Mutations. Eur Neurol. 2017;78(3-4):125-127.
+doi: 10.1159/000478089. Epub 2017 Jul 26. No abstract available.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Brain Diseases
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

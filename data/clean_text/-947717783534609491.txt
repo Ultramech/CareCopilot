@@ -1,0 +1,150 @@
+Bernard-Soulier syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Bernard-Soulier syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/bernard-soulier-syndrome/
+Bernard-Soulier syndrome
+Description
+Bernard-Soulier syndrome is a bleeding disorder associated with abnormal platelets, which are blood cells involved in blood clotting. In affected individuals, platelets are unusually large and fewer in number than usual (a combination known as macrothrombocytopenia). People with Bernard-Soulier syndrome tend to bruise easily and have an increased risk of nosebleeds (epistaxis). They may also experience abnormally heavy or prolonged bleeding following minor injury or surgery or even without trauma (spontaneous bleeding). Rarely, bleeding under the skin causes tiny red or purple spots on the skin called petechiae. Women with Bernard-Soulier syndrome often have heavy or prolonged menstrual bleeding (menorrhagia).
+Frequency
+Bernard-Soulier syndrome is estimated to occur in 1 in 1 million individuals; however, some doctors think the condition is underdiagnosed and may be more common.
+Causes
+Bernard-Soulier syndrome is caused by mutations in one of three genes:
+GP1BA
+,
+GP1BB
+, or
+GP9
+. The proteins produced from these genes are pieces (subunits) of a protein complex called glycoprotein (GP)Ib-IX-V. This complex is found on the surface of platelets and plays an important role in
+blood clotting
+.
+The GPIb-IX-V complex can attach (bind) to a protein called von Willebrand factor, fitting together like a lock and its key. Von Willebrand factor is found on the inside surface of blood vessels, particularly when there is an injury. Binding of the GPIb-IX-V complex to von Willebrand factor allows platelets to stick to the blood vessel wall at the site of the injury. These platelets form clots, plugging holes in the blood vessels to help stop bleeding.
+Most mutations in
+GP1BA
+,
+GP1BB
+, or
+GP9
+prevent the formation of the GPIb-IX-V complex on the surface of platelets. Other mutations impair the complex's interaction with von Willebrand factor. All of these mutations impair clot formation, which leads to the excessive bleeding characteristic of Bernard-Soulier syndrome.
+Learn more about the genes associated with Bernard-Soulier syndrome
+GP1BA
+GP1BB
+GP9
+Inheritance
+Most cases of Bernard-Soulier syndrome are inherited in an
+autosomal recessive pattern
+, which means both copies of the
+GP1BA
+,
+GP1BB
+, or
+GP9
+gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene. Although most people with only one copy of the mutated gene do not show signs and symptoms of the condition, some have platelets that are slightly larger than normal or very mild bleeding abnormalities.
+Rare cases of Bernard-Soulier syndrome caused by mutations in the
+GP1BA
+or
+GP1BB
+gene are inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. These individuals inherit the condition from an affected parent.
+Other Names for This Condition
+BDPLT1
+Bleeding disorder, platelet-type, 1
+BSS
+Deficiency of platelet glycoprotein 1b
+Giant platelet syndrome
+Glycoprotein Ib, platelet, deficiency of
+Hemorrhagioparous thrombocytic dystrophy
+Macrothrombocytopenia, familial Bernard-Soulier type
+Platelet glycoprotein Ib deficiency
+Von Willebrand factor receptor deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Bernard Soulier syndrome
+Genetic and Rare Diseases Information Center
+Bernard-Soulier syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+BERNARD-SOULIER SYNDROME, TYPE A2, AUTOSOMAL DOMINANT; BSSA2
+BERNARD-SOULIER SYNDROME; BSS
+Scientific Articles on PubMed
+PubMed
+References
+Andrews RK, Berndt MC. Bernard-Soulier syndrome: an update. Semin Thromb
+Hemost. 2013 Sep;39(6):656-62. doi: 10.1055/s-0033-1353390. Epub 2013 Aug 8.
+Citation on PubMed
+Bragadottir G, Birgisdottir ER, Gudmundsdottir BR, Hilmarsdottir B, Vidarsson
+B, Magnusson MK, Larsen OH, Sorensen B, Ingerslev J, Onundarson PT. Clinical
+phenotype in heterozygote and biallelic Bernard-Soulier syndrome--a case control
+study. Am J Hematol. 2015 Feb;90(2):149-55. doi: 10.1002/ajh.23891. Epub 2014 Nov
+24.
+Citation on PubMed
+Cauwenberghs N, Vanhoorelbeke K, Vauterin S, Deckmyn H. Structural
+determinants within platelet glycoprotein Ibalpha involved in its binding to von
+Willebrand factor. Platelets. 2000 Nov;11(7):373-8. doi:
+10.1080/09537100020019157.
+Citation on PubMed
+Li R, Emsley J. The organizing principle of the platelet glycoprotein Ib-IX-V
+complex. J Thromb Haemost. 2013 Apr;11(4):605-14. doi: 10.1111/jth.12144.
+Citation on PubMed
+or
+Free article on PubMed Central
+Savoia A, Kunishima S, De Rocco D, Zieger B, Rand ML, Pujol-Moix N, Caliskan
+U, Tokgoz H, Pecci A, Noris P, Srivastava A, Ward C, Morel-Kopp MC, Alessi MC,
+Bellucci S, Beurrier P, de Maistre E, Favier R, Hezard N, Hurtaud-Roux MF,
+Latger-Cannard V, Lavenu-Bombled C, Proulle V, Meunier S, Negrier C, Nurden A,
+Randrianaivo H, Fabris F, Platokouki H, Rosenberg N, HadjKacem B, Heller PG,
+Karimi M, Balduini CL, Pastore A, Lanza F. Spectrum of the mutations in
+Bernard-Soulier syndrome. Hum Mutat. 2014 Sep;35(9):1033-45. doi:
+10.1002/humu.22607. Epub 2014 Jul 15.
+Citation on PubMed
+Savoia A, Pastore A, De Rocco D, Civaschi E, Di Stazio M, Bottega R, Melazzini
+F, Bozzi V, Pecci A, Magrin S, Balduini CL, Noris P. Clinical and genetic aspects
+of Bernard-Soulier syndrome: searching for genotype/phenotype correlations.
+Haematologica. 2011 Mar;96(3):417-23. doi: 10.3324/haematol.2010.032631. Epub
+2010 Dec 20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Bleeding Disorders
+Genetic Disorders
+Platelet Disorders
+MEDICAL ENCYCLOPEDIA
+Blood clotting
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

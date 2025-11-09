@@ -1,0 +1,112 @@
+Isovaleric acidemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Isovaleric acidemia
+URL of this page: https://medlineplus.gov/genetics/condition/isovaleric-acidemia/
+Isovaleric acidemia
+Description
+Isovaleric acidemia is a rare disorder in which the body is unable to properly break down a particular protein building block (
+amino acid
+). The condition is classified as an organic acid disorder, which is a condition that leads to an abnormal buildup of particular acids known as organic acids. Abnormal levels of organic acids in the blood (organic acidemia), urine (organic aciduria), and tissues can be toxic and can cause serious health problems.
+Normally, the body breaks down proteins from food into smaller parts called amino acids. Amino acids can be further processed to provide energy for growth and development. People with isovaleric acidemia have inadequate levels of an enzyme that helps break down a particular amino acid called leucine.
+Health problems related to isovaleric acidemia range from very mild to life-threatening. In severe cases, the features of isovaleric acidemia become apparent within a few days after birth. The initial symptoms include poor feeding, vomiting, seizures, and lack of energy (lethargy). These symptoms sometimes progress to more serious medical problems, including seizures, coma, and possibly death. A characteristic sign of isovaleric acidemia is a distinctive odor of sweaty feet during acute illness. This odor is caused by the buildup of a compound called isovaleric acid in affected individuals.
+In other cases, the signs and symptoms of isovaleric acidemia appear during childhood and may come and go over time. Children with this condition may fail to gain weight and grow at the expected rate (failure to thrive) and often have delayed development. In these children, episodes of more serious health problems can be triggered by prolonged periods without food (fasting), infections, or eating an increased amount of protein-rich foods.
+Some people with gene mutations that cause isovaleric acidemia are asymptomatic, which means they never experience any signs or symptoms of the condition.
+Frequency
+Isovaleric acidemia is estimated to affect at least 1 in 250,000 people in the United States.
+Causes
+Mutations in the
+IVD
+gene cause isovaleric acidemia. The
+IVD
+gene provides instructions for making an enzyme that plays an essential role in breaking down proteins from the diet. Specifically, this enzyme helps process the
+amino acid
+leucine, which is part of many proteins. If a mutation in the
+IVD
+gene reduces or eliminates the activity of this enzyme, the body is unable to break down leucine properly. As a result, an organic acid called isovaleric acid and related compounds build up to harmful levels in the body. This buildup damages the brain and nervous system, causing serious health problems.
+Learn more about the gene associated with Isovaleric acidemia
+IVD
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Isovaleric acid-CoA dehydrogenase deficiency
+Isovaleryl-CoA dehydrogenase deficiency
+IVA
+IVD deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Isovaleryl-CoA dehydrogenase deficiency
+Genetic and Rare Diseases Information Center
+Isovaleric acidemia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ISOVALERIC ACIDEMIA; IVA
+Scientific Articles on PubMed
+PubMed
+References
+Ensenauer R, Fingerhut R, Maier EM, Polanetz R, Olgemoller B, Roschinger W,
+Muntau AC. Newborn screening for isovaleric acidemia using tandem mass
+spectrometry: data from 1.6 million newborns. Clin Chem. 2011 Apr;57(4):623-6.
+doi: 10.1373/clinchem.2010.151134. Epub 2011 Feb 18.
+Citation on PubMed
+Feinstein JA, O'Brien K. Acute metabolic decompensation in an adult patient
+with isovaleric acidemia. South Med J. 2003 May;96(5):500-3. doi:
+10.1097/01.SMJ.0000051141.03668.1D.
+Citation on PubMed
+Grunert SC, Wendel U, Lindner M, Leichsenring M, Schwab KO, Vockley J, Lehnert
+W, Ensenauer R. Clinical and neurocognitive outcome in symptomatic isovaleric
+acidemia. Orphanet J Rare Dis. 2012 Jan 25;7:9. doi: 10.1186/1750-1172-7-9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vockley J, Ensenauer R. Isovaleric acidemia: new aspects of genetic and
+phenotypic heterogeneity. Am J Med Genet C Semin Med Genet. 2006 May
+15;142C(2):95-103. doi: 10.1002/ajmg.c.30089.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

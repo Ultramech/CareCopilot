@@ -1,0 +1,185 @@
+Aarskog-Scott syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Aarskog-Scott syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/aarskog-scott-syndrome/
+Aarskog-Scott syndrome
+Description
+Aarskog-Scott syndrome is a genetic disorder that affects the development of many parts of the body, most commonly the head and face, the hands and feet, and the genitals and urinary system (genitourinary tract). This condition mainly affects males, although females may have mild features of the syndrome.
+People with Aarskog-Scott syndrome often have distinctive facial features, such as widely spaced eyes (
+hypertelorism
+), a small nose, a long area between the nose and mouth (
+philtrum
+), and a
+widow's peak hairline
+. They frequently have mild to moderate short stature during childhood, but their growth usually catches up with that of their peers during puberty. Hand abnormalities are common in this syndrome and include short fingers (
+brachydactyly
+), curved pinky fingers (fifth finger
+clinodactyly
+), webbing of the skin between some fingers (
+cutaneous syndactyly
+), and
+a single crease across the palm
+. Affected individuals can also have wide, flat feet with broad, rounded toes. Other abnormalities in people with Aarskog-Scott syndrome include heart defects and a split in the upper lip (
+cleft lip
+) with or without an opening in the roof of the mouth (
+cleft palate
+).
+Most males with Aarskog-Scott syndrome have a shawl scrotum, in which the scrotum surrounds the penis instead of hanging below. Less often, they have undescended testes (cryptorchidism) or a soft out-pouching around the belly-button (umbilical
+hernia
+) or in the lower abdomen (inguinal hernia).
+The intellectual development of people with Aarskog-Scott syndrome varies widely. Most individuals with Aarskog-Scott syndrome have normal intelligence; however, some may have mild learning and behavior problems, and in rare cases, severe intellectual disability has been reported.
+Frequency
+Aarskog-Scott syndrome is believed to be a rare disorder; however, its prevalence is unknown because mildly affected people may not be diagnosed.
+Causes
+Variants (also known as mutations) in the
+FGD1
+gene are the only known genetic cause of Aarskog-Scott syndrome. The
+FGD1
+gene provides instructions for making a protein that turns on (activates) another protein called Cdc42, which transmits signals that are important for various aspects of development before and after birth.
+Variants in the
+FGD1
+gene lead to the production of an abnormally functioning protein. These variants disrupt Cdc42 signaling, leading to the wide variety of abnormalities that occur in people with Aarskog-Scott syndrome.
+Only about 20 percent of people with this disorder have identifiable variants in the
+FGD1
+gene. The cause of Aarskog-Scott syndrome in other affected individuals is unknown.
+Learn more about the gene associated with Aarskog-Scott syndrome
+FGD1
+Inheritance
+When caused by
+FGD1
+gene variants, Aarskog-Scott syndrome is inherited in an
+X-linked recessive pattern
+. The
+FGD1
+gene is located on the X chromosome, which is one of the two
+sex chromosomes
+. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a variant would have to occur in both copies of the gene to cause Aarskog-Scott syndrome. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. Females who carry one altered copy of the
+FGD1
+gene may show mild signs of the condition, such as
+hypertelorism
+, short stature, or a
+widow's peak hairline
+. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Evidence suggests that Aarskog-Scott syndrome is inherited in an
+autosomal dominant
+or
+autosomal recessive
+pattern in some families, although the genetic cause of these cases is unknown. In autosomal dominant inheritance, one copy of the altered gene in each cell is sufficient to cause the disorder. In autosomal recessive inheritance, both copies of the gene in each cell have variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Aarskog syndrome
+AAS
+Facio-digito-genital dysplasia
+Faciodigitogenital syndrome
+Faciogenital dysplasia
+FGDY
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Aarskog syndrome
+Genetic and Rare Diseases Information Center
+Aarskog-Scott syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+AARSKOG-SCOTT SYNDROME; AAS
+Scientific Articles on PubMed
+PubMed
+References
+Daubon T, Buccione R, Genot E. The Aarskog-Scott syndrome protein Fgd1
+regulates podosome formation and extracellular matrix remodeling in transforming
+growth factor beta-stimulated aortic endothelial cells. Mol Cell Biol. 2011
+Nov;31(22):4430-41. doi: 10.1128/MCB.05474-11. Epub 2011 Sep 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Estrada L, Caron E, Gorski JL. Fgd1, the Cdc42 guanine nucleotide exchange
+factor responsible for faciogenital dysplasia, is localized to the subcortical
+actin cytoskeleton and Golgi membrane. Hum Mol Genet. 2001 Mar 1;10(5):485-95.
+doi: 10.1093/hmg/10.5.485.
+Citation on PubMed
+Gao L, Gorski JL, Chen CS. The Cdc42 guanine nucleotide exchange factor FGD1
+regulates osteogenesis in human mesenchymal stem cells. Am J Pathol. 2011
+Mar;178(3):969-74. doi: 10.1016/j.ajpath.2010.11.051.
+Citation on PubMed
+or
+Free article on PubMed Central
+Genot E, Daubon T, Sorrentino V, Buccione R. FGD1 as a central regulator of
+extracellular matrix remodelling--lessons from faciogenital dysplasia. J Cell
+Sci. 2012 Jul 15;125(Pt 14):3265-70. doi: 10.1242/jcs.093419. Epub 2012 Aug 1.
+Citation on PubMed
+Hou P, Estrada L, Kinley AW, Parsons JT, Vojtek AB, Gorski JL. Fgd1, the Cdc42
+GEF responsible for Faciogenital Dysplasia, directly interacts with cortactin and
+mAbp1 to modulate cell shape. Hum Mol Genet. 2003 Aug 15;12(16):1981-93. doi:
+10.1093/hmg/ddg209.
+Citation on PubMed
+Orrico A, Galli L, Buoni S, Hayek G, Luchetti A, Lorenzini S, Zappella M,
+Pomponi MG, Sorrentino V. Attention-deficit/hyperactivity disorder (ADHD) and
+variable clinical expression of Aarskog-Scott syndrome due to a novel FGD1 gene
+mutation (R408Q). Am J Med Genet A. 2005 May 15;135(1):99-102. doi:
+10.1002/ajmg.a.30700.
+Citation on PubMed
+Orrico A, Galli L, Cavaliere ML, Garavelli L, Fryns JP, Crushell E, Rinaldi
+MM, Medeira A, Sorrentino V. Phenotypic and molecular characterisation of the
+Aarskog-Scott syndrome: a survey of the clinical variability in light of FGD1
+mutation analysis in 46 patients. Eur J Hum Genet. 2004 Jan;12(1):16-23. doi:
+10.1038/sj.ejhg.5201081.
+Citation on PubMed
+Orrico A, Galli L, Faivre L, Clayton-Smith J, Azzarello-Burri SM, Hertz JM,
+Jacquemont S, Taurisano R, Arroyo Carrera I, Tarantino E, Devriendt K, Melis D,
+Thelle T, Meinhardt U, Sorrentino V. Aarskog-Scott syndrome: clinical update and
+report of nine novel mutations of the FGD1 gene. Am J Med Genet A. 2010
+Feb;152A(2):313-8. doi: 10.1002/ajmg.a.33199.
+Citation on PubMed
+Oshima T, Fujino T, Ando K, Hayakawa M. Role of FGD1, a Cdc42 guanine
+nucleotide exchange factor, in epidermal growth factor-stimulated c-Jun
+NH2-terminal kinase activation and cell migration. Biol Pharm Bull.
+2011;34(1):54-60. doi: 10.1248/bpb.34.54.
+Citation on PubMed
+Zanetti Drumond V, Sousa Salgado L, Sousa Salgado C, Oliveira VAL, de Assis
+EM, Campos Ribeiro M, Furtado Valadao A, Orrico A. The Prevalence of Clinical
+Features in Patients with Aarskog-Scott Syndrome and Assessment of
+Genotype-Phenotype Correlation: A Systematic Review. Genet Res (Camb). 2021 Feb
+2;2021:6652957. doi: 10.1155/2021/6652957. eCollection 2021.
+Citation on PubMed
+Related Health Topics
+Cleft Lip and Palate
+Congenital Heart Defects
+Craniofacial Abnormalities
+Genetic Disorders
+Learning Disabilities
+MEDICAL ENCYCLOPEDIA
+Aarskog syndrome
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

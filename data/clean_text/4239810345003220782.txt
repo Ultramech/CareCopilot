@@ -1,0 +1,132 @@
+Head and neck squamous cell carcinoma: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Head and neck squamous cell carcinoma
+URL of this page: https://medlineplus.gov/genetics/condition/head-and-neck-squamous-cell-carcinoma/
+Head and neck squamous cell carcinoma
+Description
+Squamous cell carcinoma is a cancer that arises from particular cells called squamous cells. Squamous cells are found in the outer layer of skin and in the mucous membranes, which are the moist tissues that line body cavities such as the airways and intestines. Head and neck squamous cell carcinoma (HNSCC) develops in the mucous membranes of the mouth, nose, and throat.
+HNSCC is classified by its location: it can occur in the mouth (oral cavity), the middle part of the throat near the mouth (oropharynx), the space behind the nose (nasal cavity and paranasal sinuses), the upper part of the throat near the nasal cavity (nasopharynx), the voicebox (larynx), or the lower part of the throat near the larynx (hypopharynx). Depending on the location, the cancer can cause abnormal patches or open sores (ulcers) in the mouth and throat, unusual bleeding or pain in the mouth, sinus congestion that does not clear, sore throat, earache, pain when swallowing or difficulty swallowing, a hoarse voice, difficulty breathing, or enlarged lymph nodes.
+HNSCC can spread (
+metastasize
+) to other parts of the body, such as the lymph nodes or lungs. If it spreads, the cancer has a worse prognosis and can be fatal. About half of affected individuals survive more than five years after diagnosis.
+Frequency
+HNSCC is the seventh most common cancer worldwide. Approximately 600,000 new cases are diagnosed each year, including about 50,000 in the United States. HNSCC occurs most often in men in their 50s or 60s, although the incidence among younger individuals is increasing.
+Causes
+HNSCC is caused by a variety of factors that can alter the DNA in cells. The strongest risk factors for developing this form of cancer are tobacco use (including smoking or using chewing tobacco) and heavy alcohol consumption. In addition, studies have shown that infection with certain strains of human papillomavirus (HPV) is linked to the development of HNSCC. HPV infection accounts for the increasing incidence of HNSCC in younger people.
+Researchers have identified mutations in many genes in people with HNSCC; however, it is not yet clear what role most of these mutations play in the development or progression of cancer. The proteins produced from several of the genes associated with HNSCC, including
+TP53
+,
+NOTCH1
+, and
+CDKN2A
+, function as tumor suppressors, which means they normally keep cells from growing and dividing too rapidly or in an uncontrolled way. When tumor suppressors are impaired, cells can grow and divide without control, leading to tumor formation. It is likely that a series of changes in multiple genes is involved in the development and progression of HNSCC.
+Learn more about the genes associated with Head and neck squamous cell carcinoma
+CDKN2A
+HRAS
+NOTCH1
+PIK3CA
+PTEN
+TP53
+Additional Information from NCBI Gene:
+FAT1
+Inheritance
+HNSCC is generally not inherited; it typically arises from mutations in the body's cells that occur during an individual's lifetime. This type of alteration is called a somatic mutation.
+Rarely, HNSCC is found in several members of a family. These families have inherited disorders that increase the risk of multiple types of cancer.
+Other Names for This Condition
+HNSCC
+SCCHN
+Squamous cell carcinoma of the head and neck
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Squamous cell carcinoma of the head and neck
+Genetic and Rare Diseases Information Center
+Squamous cell carcinoma of the head and neck
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SQUAMOUS CELL CARCINOMA, HEAD AND NECK; HNSCC
+Scientific Articles on PubMed
+PubMed
+References
+Agrawal N, Frederick MJ, Pickering CR, Bettegowda C, Chang K, Li RJ, Fakhry C,
+Xie TX, Zhang J, Wang J, Zhang N, El-Naggar AK, Jasser SA, Weinstein JN, Trevino
+L, Drummond JA, Muzny DM, Wu Y, Wood LD, Hruban RH, Westra WH, Koch WM, Califano
+JA, Gibbs RA, Sidransky D, Vogelstein B, Velculescu VE, Papadopoulos N, Wheeler
+DA, Kinzler KW, Myers JN. Exome sequencing of head and neck squamous cell
+carcinoma reveals inactivating mutations in NOTCH1. Science. 2011 Aug
+26;333(6046):1154-7. doi: 10.1126/science.1206923. Epub 2011 Jul 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lim AM, Do H, Young RJ, Wong SQ, Angel C, Collins M, Takano EA, Corry J,
+Wiesenfeld D, Kleid S, Sigston E, Lyons B, Fox SB, Rischin D, Dobrovic A, Solomon
+B. Differential mechanisms of CDKN2A (p16) alteration in oral tongue squamous
+cell carcinomas and correlation with patient outcome. Int J Cancer. 2014 Aug
+15;135(4):887-95. doi: 10.1002/ijc.28727. Epub 2014 Jan 30.
+Citation on PubMed
+Mountzios G, Rampias T, Psyrri A. The mutational spectrum of squamous-cell
+carcinoma of the head and neck: targetable genetic events and clinical impact.
+Ann Oncol. 2014 Oct;25(10):1889-1900. doi: 10.1093/annonc/mdu143. Epub 2014 Apr
+8.
+Citation on PubMed
+Rothenberg SM, Ellisen LW. The molecular pathogenesis of head and neck
+squamous cell carcinoma. J Clin Invest. 2012 Jun;122(6):1951-7. doi:
+10.1172/jci59889.
+Citation on PubMed
+or
+Free article on PubMed Central
+Stransky N, Egloff AM, Tward AD, Kostic AD, Cibulskis K, Sivachenko A, Kryukov
+GV, Lawrence MS, Sougnez C, McKenna A, Shefler E, Ramos AH, Stojanov P, Carter
+SL, Voet D, Cortes ML, Auclair D, Berger MF, Saksena G, Guiducci C, Onofrio RC,
+Parkin M, Romkes M, Weissfeld JL, Seethala RR, Wang L, Rangel-Escareno C,
+Fernandez-Lopez JC, Hidalgo-Miranda A, Melendez-Zajgla J, Winckler W, Ardlie K,
+Gabriel SB, Meyerson M, Lander ES, Getz G, Golub TR, Garraway LA, Grandis JR. The
+mutational landscape of head and neck squamous cell carcinoma. Science. 2011 Aug
+26;333(6046):1157-60. doi: 10.1126/science.1208130. Epub 2011 Jul 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Head and Neck Cancer
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+TP53 Genetic Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

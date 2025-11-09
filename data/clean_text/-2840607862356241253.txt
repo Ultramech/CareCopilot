@@ -1,0 +1,187 @@
+Distal hereditary motor neuropathy, type V: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Distal hereditary motor neuropathy, type V
+URL of this page: https://medlineplus.gov/genetics/condition/distal-hereditary-motor-neuropathy-type-v/
+Distal hereditary motor neuropathy, type V
+Description
+Distal hereditary motor neuropathy, type V is a disorder that affects nerve cells (
+neurons
+) in the spinal cord. This condition specifically affects
+motor neurons
+, which are specialized cells that control muscle movement. Damage to motor neurons results in muscle weakness that worsens over time. In people with distal hereditary motor neuropathy, type V, this weakness primarily affects movement in the muscles that are furthest from the center of the body (distal muscles), such as the muscles in the hands and feet.
+Signs and symptoms of distal hereditary motor neuropathy, type V usually begin during adolescence, but they can appear any time between infancy and the mid-30s. The first symptom of this condition is often cramps in the hands that are brought on by exposure to cold temperatures.
+The characteristic features of distal hereditary motor neuropathy, type V are weakness and wasting (atrophy) of muscles of the hand, specifically on the side of the index finger near the thumb and in the palm of the hand at the base of the thumb.
+About half of individuals with distal hereditary motor neuropathy, type V develop muscle weakness in the feet and lower legs. This can lead to problems with walking (gait disturbance), difficulty lifting the front part of the foot (foot drop), and a high foot arch (
+pes cavus
+).
+People with distal hereditary motor neuropathy, type V can have exaggerated reflexes (hyperreflexia) or other disturbances in the nerves that are used to detect sensations (sensory neuropathy). Although sensory neuropathy is uncommon in people with distal hereditary motor neuropathy, type V, it is typical of a disorder called
+Charcot-Marie-Tooth disease
+. These two disorders have overlapping features and can also share a genetic cause. People with distal hereditary motor neuropathy, type V typically have a normal life expectancy.
+Frequency
+The prevalence of all types of distal hereditary motor neuropathy is estimated to be about 2 in 100,000 individuals. The specific prevalence of distal hereditary motor neuropathy, type V is unknown.
+Causes
+Variants (also called mutations) in multiple genes can cause distal hereditary motor neuropathy, type V. Most commonly, variants in the
+BSCL2
+and
+GARS1
+genes cause this condition.
+The
+BSCL2
+gene provides instructions for making a protein called seipin. Seipin is located in the membrane of a cell structure called the
+endoplasmic reticulum.
+The endoplasmic reticulum is involved in protein processing and transport. Variants in the
+BSCL2
+gene likely lead to a change in the structure of seipin. Research indicates that the altered seipin proteins build up in the endoplasmic reticulum. This accumulation likely damages
+motor neurons,
+which leads to muscle weakness in the hands and feet.
+The
+GARS1
+gene provides instructions for making an enzyme called glycine—tRNA ligase, which is involved in the
+production of proteins
+. Variants in this gene reduce the activity of glycine—tRNA ligase. Researchers believe that this reduction in activity may impair the transmission of nerve impulses. As a result, motor neurons slowly lose the ability to communicate with muscles in the hands and feet.
+In rare instances, variants in other genes can cause distal hereditary motor neuropathy, type V.
+Learn more about the genes associated with Distal hereditary motor neuropathy, type V
+BSCL2
+GARS1
+REEP1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Some people who have the altered gene never develop the condition. This situation is known as reduced penetrance.
+Other Names for This Condition
+DHMN5
+DHMNV
+Distal hereditary motor neuronopathy type 5
+Distal hereditary motor neuronopathy, type V
+Distal spinal muscular atrophy, type V
+DSMAV
+HMN V
+Spinal muscular atrophy, distal type V
+Spinal muscular atrophy, distal, with upper limb predominance
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Neuronopathy, distal hereditary motor, type 5
+Genetic Testing Registry: Neuronopathy, distal hereditary motor, type 5A
+Genetic Testing Registry: Neuronopathy, distal hereditary motor, type 5B
+Genetic Testing Registry: Neuronopathy, distal hereditary motor, type 5C
+Genetic and Rare Diseases Information Center
+Distal hereditary motor neuropathy type 5
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NEURONOPATHY, DISTAL HEREDITARY MOTOR, AUTOSOMAL DOMINANT 5; HMND5
+NEURONOPATHY, DISTAL HEREDITARY MOTOR, AUTOSOMAL DOMINANT 12; HMND12
+NEURONOPATHY, DISTAL HEREDITARY MOTOR, AUTOSOMAL DOMINANT 13; HMND13
+Scientific Articles on PubMed
+PubMed
+References
+Antonellis A, Ellsworth RE, Sambuughin N, Puls I, Abel A, Lee-Lin SQ,
+Jordanova A, Kremensky I, Christodoulou K, Middleton LT, Sivakumar K, Ionasescu
+V, Funalot B, Vance JM, Goldfarb LG, Fischbeck KH, Green ED. Glycyl tRNA
+synthetase mutations in Charcot-Marie-Tooth disease type 2D and distal spinal
+muscular atrophy type V. Am J Hum Genet. 2003 May;72(5):1293-9. doi:
+10.1086/375039. Epub 2003 Apr 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Antonellis A, Lee-Lin SQ, Wasterlain A, Leo P, Quezado M, Goldfarb LG, Myung
+K, Burgess S, Fischbeck KH, Green ED. Functional analyses of glycyl-tRNA
+synthetase mutations suggest a key role for tRNA-charging enzymes in peripheral
+axons. J Neurosci. 2006 Oct 11;26(41):10397-406. doi:
+10.1523/JNEUROSCI.1671-06.2006.
+Citation on PubMed
+Auer-Grumbach M, Loscher WN, Wagner K, Petek E, Korner E, Offenbacher H,
+Hartung HP. Phenotypic and genotypic heterogeneity in hereditary motor
+neuronopathy type V: a clinical, electrophysiological and genetic study. Brain.
+2000 Aug;123 ( Pt 8):1612-23. doi: 10.1093/brain/123.8.1612.
+Citation on PubMed
+Beetz C, Pieber TR, Hertel N, Schabhuttl M, Fischer C, Trajanoski S, Graf E,
+Keiner S, Kurth I, Wieland T, Varga RE, Timmerman V, Reilly MM, Strom TM,
+Auer-Grumbach M. Exome sequencing identifies a REEP1 mutation involved in distal
+hereditary motor neuropathy type V. Am J Hum Genet. 2012 Jul 13;91(1):139-45.
+doi: 10.1016/j.ajhg.2012.05.007. Epub 2012 Jun 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dubourg O, Azzedine H, Yaou RB, Pouget J, Barois A, Meininger V, Bouteiller D,
+Ruberg M, Brice A, LeGuern E. The G526R glycyl-tRNA synthetase gene mutation in
+distal hereditary motor neuropathy type V. Neurology. 2006 Jun 13;66(11):1721-6.
+doi: 10.1212/01.wnl.0000218304.02715.04.
+Citation on PubMed
+Irobi J, De Jonghe P, Timmerman V. Molecular genetics of distal hereditary
+motor neuropathies. Hum Mol Genet. 2004 Oct 1;13 Spec No 2:R195-202. doi:
+10.1093/hmg/ddh226.
+Citation on PubMed
+Ito D, Suzuki N. Molecular pathogenesis of seipin/BSCL2-related motor neuron
+diseases. Ann Neurol. 2007 Mar;61(3):237-50. doi: 10.1002/ana.21070.
+Citation on PubMed
+Ito D, Suzuki N. Seipinopathy: a novel endoplasmic reticulum stress-associated
+disease. Brain. 2009 Jan;132(Pt 1):8-15. doi: 10.1093/brain/awn216. Epub 2008 Sep
+12.
+Citation on PubMed
+Rohkamm B, Reilly MM, Lochmuller H, Schlotter-Weigel B, Barisic N, Schols L,
+Nicholson G, Pareyson D, Laura M, Janecke AR, Miltenberger-Miltenyi G, John E,
+Fischer C, Grill F, Wakeling W, Davis M, Pieber TR, Auer-Grumbach M. Further
+evidence for genetic heterogeneity of distal HMN type V, CMT2 with predominant
+hand involvement and Silver syndrome. J Neurol Sci. 2007 Dec 15;263(1-2):100-6.
+doi: 10.1016/j.jns.2007.06.047. Epub 2007 Jul 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sivakumar K, Kyriakides T, Puls I, Nicholson GA, Funalot B, Antonellis A,
+Sambuughin N, Christodoulou K, Beggs JL, Zamba-Papanicolaou E, Ionasescu V,
+Dalakas MC, Green ED, Fischbeck KH, Goldfarb LG. Phenotypic spectrum of disorders
+associated with glycyl-tRNA synthetase mutations. Brain. 2005 Oct;128(Pt
+10):2304-14. doi: 10.1093/brain/awh590. Epub 2005 Jul 13.
+Citation on PubMed
+Windpassinger C, Auer-Grumbach M, Irobi J, Patel H, Petek E, Horl G, Malli R,
+Reed JA, Dierick I, Verpoorten N, Warner TT, Proukakis C, Van den Bergh P,
+Verellen C, Van Maldergem L, Merlini L, De Jonghe P, Timmerman V, Crosby AH,
+Wagner K. Heterozygous missense mutations in BSCL2 are associated with distal
+hereditary motor neuropathy and Silver syndrome. Nat Genet. 2004 Mar;36(3):271-6.
+doi: 10.1038/ng1313. Epub 2004 Feb 22.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Spinal Muscular Atrophy
+MEDICAL ENCYCLOPEDIA
+Genetics
+High arch
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

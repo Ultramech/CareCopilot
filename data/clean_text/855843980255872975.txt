@@ -1,0 +1,196 @@
+Generalized pustular psoriasis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Generalized pustular psoriasis
+URL of this page: https://medlineplus.gov/genetics/condition/generalized-pustular-psoriasis/
+Generalized pustular psoriasis
+Description
+Generalized pustular psoriasis (GPP) is a severe form of a skin disorder called psoriasis. GPP and other forms of psoriasis are caused by abnormal inflammation. Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). However, when inflammation is abnormal and uncontrolled, it can damage the body's tissues and organs. Individuals with GPP have repeated episodes in which large areas of skin become red and inflamed and develop small pus-filled blisters (pustules). The skin problems can be accompanied by fever, extreme tiredness (fatigue), muscle weakness, an increased number of white blood cells, and other signs of inflammation throughout the body (systemic inflammation). The inflammation problems subside and reappear often. Episodes can be triggered by infection, exposure to or withdrawal from certain medications, menstruation, or pregnancy, although the trigger is often unknown. GPP can be life-threatening if not treated.
+While many affected individuals have features only of GPP (called GPP alone), some develop features of another skin condition called
+psoriasis vulgaris
+(PV), either before or after GPP appears. PV, the most common form of psoriasis, is characterized by red, scaly patches of skin (plaques) on parts of the body.
+Frequency
+GPP is the rarest form of psoriasis. Although the worldwide prevalence of GPP is unknown, the condition is estimated to affect 2 per million people in Europe. It also occurs in approximately 0.6 per million people each year in Japan.
+Causes
+Mutations in several genes, including
+IL36RN
+and
+CARD14
+, increase the risk of developing GPP. These two genes provide instructions for making proteins that play roles in regulating inflammation, particularly in the skin. The IL-36Ra protein, produced from the
+IL36RN
+gene, blocks the activity of specific proteins that trigger signaling pathways to promote skin inflammation.
+IL36RN
+gene mutations involved in GPP reduce the amount of IL-36Ra protein in the skin. Without control by IL-36Ra, signaling pathways that promote inflammation are overly active.
+Conversely, the CARD14 protein normally turns on inflammation signaling. The
+CARD14
+gene mutations associated with GPP increase the activity of the CARD14 protein, leading to uncontrolled inflammation signaling in the skin. Enhancement of these signaling pathways results in abnormal inflammatory reactions, which contribute to the skin problems and systemic inflammation characteristic of GPP.
+IL36RN
+gene mutations are most often associated with GPP alone and are only rarely found in individuals who also have PV. Mutations in this gene appear to be the most common genetic risk factor for GPP alone.
+CARD14
+gene mutations are more frequently found in individuals with both GPP and PV, although changes in this gene have also been found in individuals with GPP alone.
+Many people with GPP do not have a mutation in the
+IL36RN
+or
+CARD14
+gene. Mutations in other genes, some of which have not been identified, may also be associated with the condition. Having a gene mutation in one of the associated genes does not mean an individual will have GPP. Researchers suspect that environmental or other genetic factors help determine whether an individual will develop the condition.
+Learn more about the genes associated with Generalized pustular psoriasis
+CARD14
+IL36RN
+Additional Information from NCBI Gene:
+AP1S3
+Inheritance
+When associated with
+IL36RN
+gene mutations, risk of GPP is typically inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene.
+When associated with
+CARD14
+gene mutations, GPP risk is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to increase the risk of the disorder. In some cases, an affected person inherits the mutation from one parent. Other cases result from new (
+de novo
+) mutations in the gene.
+People with mutations in either the
+IL36RN
+or
+CARD14
+gene inherit an increased risk of GPP, not the condition itself. Not all people with this condition have mutations in one of these genes, and not all people with a mutation in one of these genes will develop the disorder.
+Other Names for This Condition
+Acute generalised pustular psoriasis
+Deficiency of the interleukin-36 receptor antagonist
+DITRA
+Generalized pustular psoriasis of von Zumbusch
+GPP
+Von Zumbusch psoriasis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Generalized pustular psoriasis
+Genetic Testing Registry: Psoriasis 15, pustular, susceptibility to
+Genetic and Rare Diseases Information Center
+Generalized pustular psoriasis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PSORIASIS 2; PSORS2
+PSORIASIS 14, PUSTULAR; PSORS14
+PSORIASIS 15, PUSTULAR, SUSCEPTIBILITY TO; PSORS15
+Scientific Articles on PubMed
+PubMed
+References
+Hussain S, Berki DM, Choon SE, Burden AD, Allen MH, Arostegui JI, Chaves A,
+Duckworth M, Irvine AD, Mockenhaupt M, Navarini AA, Seyger MMB, Soler-Palacin P,
+Prins C, Valeyrie-Allanore L, Vicente MA, Trembath RC, Smith CH, Barker JN, Capon
+F. IL36RN mutations define a severe autoinflammatory phenotype of generalized
+pustular psoriasis. J Allergy Clin Immunol. 2015 Apr;135(4):1067-1070.e9. doi:
+10.1016/j.jaci.2014.09.043. Epub 2014 Nov 12. No abstract available.
+Citation on PubMed
+Jordan CT, Cao L, Roberson ED, Duan S, Helms CA, Nair RP, Duffin KC, Stuart
+PE, Goldgar D, Hayashi G, Olfson EH, Feng BJ, Pullinger CR, Kane JP, Wise CA,
+Goldbach-Mansky R, Lowes MA, Peddle L, Chandran V, Liao W, Rahman P, Krueger GG,
+Gladman D, Elder JT, Menter A, Bowcock AM. Rare and common variants in CARD14,
+encoding an epidermal regulator of NF-kappaB, in psoriasis. Am J Hum Genet. 2012
+May 4;90(5):796-808. doi: 10.1016/j.ajhg.2012.03.013. Epub 2012 Apr 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Korber A, Mossner R, Renner R, Sticht H, Wilsmann-Theis D, Schulz P,
+Sticherling M, Traupe H, Huffmeier U. Mutations in IL36RN in patients with
+generalized pustular psoriasis. J Invest Dermatol. 2013 Nov;133(11):2634-2637.
+doi: 10.1038/jid.2013.214. Epub 2013 May 6. No abstract available.
+Citation on PubMed
+Marrakchi S, Guigue P, Renshaw BR, Puel A, Pei XY, Fraitag S, Zribi J, Bal E,
+Cluzeau C, Chrabieh M, Towne JE, Douangpanya J, Pons C, Mansour S, Serre V, Makni
+H, Mahfoudh N, Fakhfakh F, Bodemer C, Feingold J, Hadj-Rabia S, Favre M, Genin E,
+Sahbatou M, Munnich A, Casanova JL, Sims JE, Turki H, Bachelez H, Smahi A.
+Interleukin-36-receptor antagonist deficiency and generalized pustular psoriasis.
+N Engl J Med. 2011 Aug 18;365(7):620-8. doi: 10.1056/NEJMoa1013068.
+Citation on PubMed
+Onoufriadis A, Simpson MA, Pink AE, Di Meglio P, Smith CH, Pullabhatla V,
+Knight J, Spain SL, Nestle FO, Burden AD, Capon F, Trembath RC, Barker JN.
+Mutations in IL36RN/IL1F5 are associated with the severe episodic inflammatory
+skin disease known as generalized pustular psoriasis. Am J Hum Genet. 2011 Sep
+9;89(3):432-7. doi: 10.1016/j.ajhg.2011.07.022. Epub 2011 Aug 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Setta-Kaffetzi N, Simpson MA, Navarini AA, Patel VM, Lu HC, Allen MH,
+Duckworth M, Bachelez H, Burden AD, Choon SE, Griffiths CE, Kirby B, Kolios A,
+Seyger MM, Prins C, Smahi A, Trembath RC, Fraternali F, Smith CH, Barker JN,
+Capon F. AP1S3 mutations are associated with pustular psoriasis and impaired
+Toll-like receptor 3 trafficking. Am J Hum Genet. 2014 May 1;94(5):790-7. doi:
+10.1016/j.ajhg.2014.04.005.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sugiura K, Takemoto A, Yamaguchi M, Takahashi H, Shoda Y, Mitsuma T, Tsuda K,
+Nishida E, Togawa Y, Nakajima K, Sakakibara A, Kawachi S, Shimizu M, Ito Y,
+Takeichi T, Kono M, Ogawa Y, Muro Y, Ishida-Yamamoto A, Sano S, Matsue H, Morita
+A, Mizutani H, Iizuka H, Muto M, Akiyama M. The majority of generalized pustular
+psoriasis without psoriasis vulgaris is caused by deficiency of interleukin-36
+receptor antagonist. J Invest Dermatol. 2013 Nov;133(11):2514-2521. doi:
+10.1038/jid.2013.230. Epub 2013 May 22.
+Citation on PubMed
+Sugiura K. The genetic background of generalized pustular psoriasis: IL36RN
+mutations and CARD14 gain-of-function variants. J Dermatol Sci. 2014
+Jun;74(3):187-92. doi: 10.1016/j.jdermsci.2014.02.006. Epub 2014 Mar 5.
+Citation on PubMed
+Takeichi T, Kobayashi A, Ogawa E, Okuno Y, Kataoka S, Kono M, Sugiura K,
+Okuyama R, Akiyama M. Autosomal dominant familial generalized pustular psoriasis
+caused by a CARD14 mutation. Br J Dermatol. 2017 Oct;177(4):e133-e135. doi:
+10.1111/bjd.15442. Epub 2017 Sep 10. No abstract available.
+Citation on PubMed
+Tauber M, Bal E, Pei XY, Madrange M, Khelil A, Sahel H, Zenati A, Makrelouf M,
+Boubridaa K, Chiali A, Smahi N, Otsmane F, Bouajar B, Marrakchi S, Turki H,
+Bourrat E, Viguier M, Hamel Y, Bachelez H, Smahi A. IL36RN Mutations Affect
+Protein Expression and Function: A Basis for Genotype-Phenotype Correlation in
+Pustular Diseases. J Invest Dermatol. 2016 Sep;136(9):1811-1819. doi:
+10.1016/j.jid.2016.04.038. Epub 2016 May 21.
+Citation on PubMed
+Wang Y, Cheng R, Lu Z, Guo Y, Yan M, Liang J, Huang P, Li M, Yao Z. Clinical
+profiles of pediatric patients with GPP alone and with different IL36RN
+genotypes. J Dermatol Sci. 2017 Mar;85(3):235-240. doi:
+10.1016/j.jdermsci.2016.11.008. Epub 2016 Dec 13.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Psoriasis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Psoriasis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

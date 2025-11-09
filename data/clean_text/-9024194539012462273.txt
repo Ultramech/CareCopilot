@@ -1,0 +1,188 @@
+Emery-Dreifuss muscular dystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Emery-Dreifuss muscular dystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/emery-dreifuss-muscular-dystrophy/
+Emery-Dreifuss muscular dystrophy
+Description
+Emery-Dreifuss muscular dystrophy is a condition that primarily affects muscles used for movement (skeletal muscles) and the heart (cardiac muscle). Among the earliest features of this disorder are joint deformities called contractures. Contractures restrict the movement of certain joints, most often the elbows, ankles, and neck, and usually become noticeable in early childhood. Most affected individuals also experience muscle weakness and
+wasting
+that worsen slowly over time, beginning in muscles of the upper arms and lower legs and later also affecting muscles in the shoulders and hips.
+Almost all people with Emery-Dreifuss muscular dystrophy develop heart problems by adulthood. In many cases, these heart problems are abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects) and abnormal heart rhythms (arrhythmias). If untreated, these abnormalities can lead to a sensation of fluttering or pounding in the chest (palpitations), an unusually slow heartbeat (bradycardia), fainting (syncope), heart failure, and an increased risk of sudden death.
+Researchers have identified several types of Emery-Dreifuss muscular dystrophy that are distinguished by their pattern of inheritance: X-linked, autosomal dominant, and autosomal recessive. The types usually have similar signs and symptoms, although a small percentage of people with the autosomal dominant form experience heart problems without any weakness or wasting of skeletal muscles.
+Frequency
+The overall prevalence of Emery-Dreifuss muscular dystrophy is unknown. The X-linked type of this disorder affects an estimated 1 in 100,000 people. The prevalence of the autosomal dominant type is unknown, although it appears to be more common than the X-linked type. The autosomal recessive type appears to be very rare; only a few cases have been reported worldwide.
+Causes
+Mutations in several genes, including
+EMD
+,
+FHL1
+, and
+LMNA
+, can cause Emery-Dreifuss muscular dystrophy. Mutations in the
+EMD
+gene or, less commonly, in the
+FHL1
+gene cause the X-linked type of the condition. Mutations in the
+LMNA
+gene cause both the autosomal dominant and autosomal recessive types of the condition.
+The genes associated with Emery-Dreifuss muscular dystrophy appear to be essential for the normal function of skeletal and cardiac muscle. The
+EMD
+and
+LMNA
+genes provide instructions for making proteins that are components of the nuclear envelope, which surrounds the nucleus in cells. The nuclear envelope regulates the movement of molecules into and out of the nucleus, and researchers believe it may play a role in regulating the activity of certain genes. The protein produced from the
+FHL1
+gene appears to be involved in other muscle cell functions, including chemical signaling, maintaining the structure of these cells, and influencing muscle growth and size.
+Mutations in the
+EMD
+,
+FHL1
+, and
+LMNA
+genes that cause Emery-Dreifuss muscular dystrophy prevent the production of their respective proteins or lead to abnormal or nonfunctional versions of these proteins. Researchers speculate that changes in
+EMD
+or
+LMNA
+could weaken the structure of the nuclear envelope in cells that undergo a lot of mechanical stress, such as skeletal and cardiac muscle cells, making these cells more fragile.
+FHL1
+gene mutations also alter the structure and function of muscle cells, although little is known about the mechanism. Researchers continue to investigate how genetic changes can lead to the joint contractures, muscle weakness, and heart abnormalities characteristic of Emery-Dreifuss muscular dystrophy.
+Changes in several other genes result in conditions that resemble Emery-Dreifuss muscular dystrophy, but with more variable features. Some researchers consider these to be types of Emery-Dreifuss muscular dystrophy, while others believe that they represent similar, but separate, disorders.
+In more than half of all cases of Emery-Dreifuss muscular dystrophy, the genetic cause of the condition is unknown. Researchers believe that mutations in additional genes, which have not been identified, can also cause this condition.
+Learn more about the genes associated with Emery-Dreifuss muscular dystrophy
+EMD
+FHL1
+LMNA
+SYNE1
+Additional Information from NCBI Gene:
+SYNE2
+TMEM43
+Inheritance
+Emery-Dreifuss muscular dystrophy can have several different patterns of inheritance. When the condition is caused by mutations in the
+EMD
+or
+FHL1
+gene, it is inherited in an
+X-linked recessive pattern
+. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+in each cell. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In females (who have two X chromosomes), a mutation typically must be present in both copies of the gene to cause X-linked Emery-Dreifuss muscular dystrophy. Females who
+carry
+one altered copy of the gene usually do not experience the muscle weakness and wasting that are characteristic of this condition. However, some of these female mutation carriers develop heart problems or mild muscle weakness.
+In most cases of Emery-Dreifuss muscular dystrophy resulting from mutations in the
+LMNA
+gene, this condition has an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. About 65 percent of autosomal dominant Emery-Dreifuss muscular dystrophy cases are caused by
+new mutations
+in the
+LMNA
+gene and occur in people with no history of the disorder in their family. In the remaining cases, people with this form of the condition inherit the altered
+LMNA
+gene from
+an affected parent
+.
+Rarely, Emery-Dreifuss muscular dystrophy caused by
+LMNA
+gene mutations is inherited in an
+autosomal recessive pattern
+. Autosomal recessive inheritance means two copies of the gene in each cell are altered. Most often, the parents of an individual with an autosomal recessive disorder are carriers of one copy of the altered gene but do not show signs and symptoms of the disorder.
+Other Names for This Condition
+Benign scapuloperoneal muscular dystrophy with early contractures
+EDMD
+Emery-Dreifuss syndrome
+Muscular dystrophy, Emery-Dreifuss type
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Emery-Dreifuss muscular dystrophy
+Genetic and Rare Diseases Information Center
+Emery-Dreifuss muscular dystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+EMERY-DREIFUSS MUSCULAR DYSTROPHY 2, AUTOSOMAL DOMINANT; EDMD2
+EMERY-DREIFUSS MUSCULAR DYSTROPHY 1, X-LINKED; EDMD1
+EMERY-DREIFUSS MUSCULAR DYSTROPHY 4, AUTOSOMAL DOMINANT; EDMD4
+EMERY-DREIFUSS MUSCULAR DYSTROPHY 5, AUTOSOMAL DOMINANT; EDMD5
+EMERY-DREIFUSS MUSCULAR DYSTROPHY 3, AUTOSOMAL RECESSIVE; EDMD3
+EMERY-DREIFUSS MUSCULAR DYSTROPHY 7, AUTOSOMAL DOMINANT; EDMD7
+Scientific Articles on PubMed
+PubMed
+References
+Ben Yaou R, Leturcq F, Bonne G. Emery-Dreifuss Muscular Dystrophy. 2004 Sep 29
+[updated 2025 Sep 18]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1436/
+Citation on PubMed
+Bonne G, Quijano-Roy S. Emery-Dreifuss muscular dystrophy, laminopathies, and
+other nuclear envelopathies. Handb Clin Neurol. 2013;113:1367-76. doi:
+10.1016/B978-0-444-59565-2.00007-1.
+Citation on PubMed
+Emery AE. Emery-Dreifuss muscular dystrophy - a 40 year retrospective.
+Neuromuscul Disord. 2000 Jun;10(4-5):228-32. doi: 10.1016/s0960-8966(00)00105-x.
+Citation on PubMed
+Madej-Pilarczyk A, Kochanski A. Emery-Dreifuss muscular dystrophy: the most
+recognizable laminopathy. Folia Neuropathol. 2016;54(1):1-8. doi:
+10.5114/fn.2016.58910.
+Citation on PubMed
+Meinke P, Nguyen TD, Wehnert MS. The LINC complex and human disease. Biochem
+Soc Trans. 2011 Dec;39(6):1693-7. doi: 10.1042/BST20110658.
+Citation on PubMed
+Raffaele Di Barletta M, Ricci E, Galluzzi G, Tonali P, Mora M, Morandi L,
+Romorini A, Voit T, Orstavik KH, Merlini L, Trevisan C, Biancalana V,
+Housmanowa-Petrusewicz I, Bione S, Ricotti R, Schwartz K, Bonne G, Toniolo D.
+Different mutations in the LMNA gene cause autosomal dominant and autosomal
+recessive Emery-Dreifuss muscular dystrophy. Am J Hum Genet. 2000
+Apr;66(4):1407-12. doi: 10.1086/302869. Epub 2000 Mar 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ziat E, Mamchaoui K, Beuvin M, Nelson I, Azibani F, Spuler S, Bonne G,
+Bertrand AT. FHL1B Interacts with Lamin A/C and Emerin at the Nuclear Lamina
+and is Misregulated in Emery-Dreifuss Muscular Dystrophy. J Neuromuscul Dis. 2016
+Nov 29;3(4):497-510. doi: 10.3233/JND-160169.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Arrhythmia
+Genetic Disorders
+Muscular Dystrophy
+MEDICAL ENCYCLOPEDIA
+Arrhythmias
+Contracture deformity
+Genetics
+Muscular dystrophy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

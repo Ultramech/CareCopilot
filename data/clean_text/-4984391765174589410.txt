@@ -1,0 +1,112 @@
+Proopiomelanocortin deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Proopiomelanocortin deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/proopiomelanocortin-deficiency/
+Proopiomelanocortin deficiency
+Description
+Proopiomelanocortin (POMC) deficiency causes severe obesity that begins at an early age. In addition to obesity, people with this condition have low levels of a hormone known as adrenocorticotropic hormone (ACTH) and tend to have red hair and pale skin.
+Affected infants are usually a normal weight at birth, but they are constantly hungry, which leads to excessive feeding (hyperphagia). The babies continuously gain weight and are severely obese by age 1. Affected individuals experience excessive hunger and remain obese for life. It is unclear if these individuals are prone to weight-related conditions like cardiovascular disease or
+type 2 diabetes
+.
+Low levels of ACTH lead to a condition called adrenal insufficiency, which occurs when the pair of small glands on top of the kidneys (the adrenal glands) do not produce enough hormones. Adrenal insufficiency often results in periods of severely low blood sugar (glucose), known as hypoglycemia. Adrenal insufficiency may also cause seizures, elevated levels of a toxic substance called bilirubin in the blood (hyperbilirubinemia), and a reduced ability to produce and release a digestive fluid called bile (cholestasis). Without early treatment, adrenal insufficiency can be fatal.
+Pale skin that easily burns when exposed to the sun and red hair are common in POMC deficiency, although not everyone with the condition has these characteristics.
+Frequency
+POMC deficiency is a rare condition; approximately 50 cases have been reported in the medical literature.
+Causes
+POMC deficiency is caused by mutations in the
+POMC
+gene, which provides instructions for making the proopiomelanocortin protein. This protein is cut (cleaved) into smaller pieces called peptides that have different functions in the body. One of these peptides, ACTH, stimulates the release of another hormone called cortisol from the adrenal glands. Cortisol is involved in the maintenance of blood glucose levels. Another peptide, alpha-melanocyte stimulating hormone (α-MSH), plays a role in the production of the pigment that gives skin and hair their color. The α-MSH peptide and another peptide called beta-melanocyte stimulating hormone (β-MSH) act in the brain to help maintain the balance between energy from food taken into the body and energy spent by the body. The correct balance is important to control eating and weight.
+POMC
+gene mutations that cause POMC deficiency result in production of an abnormally short version of the POMC protein or no protein at all. As a result, there is a shortage of the peptides made from POMC, including ACTH, α-MSH, and β-MSH. Without ACTH, there is a reduction in cortisol production, leading to adrenal insufficiency. Decreased α-MSH in the skin reduces pigment production, resulting in the red hair and pale skin often seen in people with POMC deficiency. Loss of α-MSH and β-MSH in the brain dysregulates the body's energy balance, leading to overeating and severe obesity.
+POMC deficiency is a rare cause of obesity;
+POMC
+gene mutations are not frequently associated with more common, complex forms of obesity. Researchers are studying other factors that are likely involved in these forms.
+Learn more about the gene associated with Proopiomelanocortin deficiency
+POMC
+Inheritance
+POMC deficiency is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with this condition each carry one copy of the mutated gene. They typically do not have POMC deficiency, but they may have an increased risk of obesity.
+Other Names for This Condition
+Obesity, early-onset, adrenal insufficiency, and red hair
+POMC deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Obesity due to pro-opiomelanocortin deficiency
+Genetic and Rare Diseases Information Center
+Obesity due to pro-opiomelanocortin deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+OBESITY, EARLY-ONSET, WITH ADRENAL INSUFFICIENCY AND RED HAIR; OBAIRH
+Scientific Articles on PubMed
+PubMed
+References
+Krude H, Biebermann H, Gruters A. Mutations in the human proopiomelanocortin
+gene. Ann N Y Acad Sci. 2003 Jun;994:233-9. doi:
+10.1111/j.1749-6632.2003.tb03185.x.
+Citation on PubMed
+Krude H, Biebermann H, Luck W, Horn R, Brabant G, Gruters A. Severe
+early-onset obesity, adrenal insufficiency and red hair pigmentation caused by
+POMC mutations in humans. Nat Genet. 1998 Jun;19(2):155-7. doi: 10.1038/509.
+Citation on PubMed
+Krude H, Biebermann H, Schnabel D, Tansek MZ, Theunissen P, Mullis PE, Gruters
+A. Obesity due to proopiomelanocortin deficiency: three new cases and treatment
+trials with thyroid hormone and ACTH4-10. J Clin Endocrinol Metab. 2003
+Oct;88(10):4633-40. doi: 10.1210/jc.2003-030502.
+Citation on PubMed
+Krude H, Gruters A. Implications of proopiomelanocortin (POMC) mutations in
+humans: the POMC deficiency syndrome. Trends Endocrinol Metab. 2000
+Jan-Feb;11(1):15-22. doi: 10.1016/s1043-2760(99)00213-1.
+Citation on PubMed
+Lee YS. The role of leptin-melanocortin system and human weight regulation:
+lessons from experiments of nature. Ann Acad Med Singap. 2009 Jan;38(1):34-11.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Obesity
+Obesity in Children
+MEDICAL ENCYCLOPEDIA
+ACTH blood test
+Genetics
+Related Medical Tests
+Adrenocorticotropic Hormone (ACTH)
+Bilirubin Blood Test
+Obesity Screening
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

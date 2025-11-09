@@ -1,0 +1,180 @@
+Congenital mirror movement disorder: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital mirror movement disorder
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-mirror-movement-disorder/
+Congenital mirror movement disorder
+Description
+Congenital mirror movement disorder is a condition in which intentional movements of one side of the body are mirrored by involuntary movements of the other side. For example, when an affected individual makes a fist with the right hand, the left hand makes a similar movement. The mirror movements in people with this disorder primarily affect the arms, and the hands and fingers are always involved. This pattern of movements is present from infancy or early childhood and usually persists throughout a person's life.
+People with congenital mirror movement disorder can have some difficulty with certain daily activities, particularly with those that require different movements in each hand, such as typing on a keyboard. They may experience discomfort or pain in their arms during prolonged use of the hands.
+The extent of the mirror movements in people with congenital mirror movement disorder can vary, even within the same family. In most cases, the involuntary movements are noticeable but less pronounced than the corresponding voluntary movements. The extent of the movements typically stay the same throughout the lifetime of an affected individual.
+In general, mirror movements are the only feature associated with this condition. In some cases, however, people with congenital mirror movement disorder can have partial or complete absence (agenesis) of the tissue that connects the left and right halves of the brain (corpus callosum).
+Mirror movements can also occur in people who do not have congenital mirror movement disorder. Mild mirror movements are common during the normal development of young children, and they typically disappear before age 7. They can also develop later in life in people with neurodegenerative disorders such as
+Parkinson's disease
+. Mirror movements may also be present in people with certain conditions that have a wider range of signs and symptoms (syndromes).
+Frequency
+Congenital mirror movement disorder is a very rare disorder. Its prevalence is thought to be less than 1 in 1 million individuals. Researchers suggest that it may be more common as some mildly affected individuals may never be diagnosed.
+Causes
+Congenital mirror movement disorder is caused by variants (also called mutations) in at least three genes:
+DCC
+,
+RAD51,
+and
+NTN1
+.
+The
+DCC
+gene provides instructions for making a protein called the netrin-1 receptor. This receptor can be attached (bound) to a protein called netrin-1, which is produced from the
+NTN1
+gene. These two proteins fit together like a lock and key. Within the developing nervous system, the binding of netrin-1 to its receptor helps direct the growth of specialized nerve cell extensions called
+axons.
+Axons transmit nerve impulses that signal muscle movement. Normally, signals from each half of the brain control movements on the opposite side of the body.
+Variants in the
+DCC
+or
+NTN1
+gene result in an impaired or missing netrin-1 receptor or netrin-1 protein. A shortage of either of these proteins prevents axons from growing properly during nervous system development. When netrin-1 cannot bind to its receptor, axons cannot develop in ways that would carry movement signals normally. As a result, movement signals from each half of the brain are transmitted to both sides of the body, leading to mirror movements.
+The
+RAD51
+gene provides instructions for making a protein that plays role in DNA repair, but it is also likely involved in the development of nervous system functions that control movement. Variants in the
+RAD51
+gene result in an altered or impaired RAD51 protein. It is thought that decreased function of the RAD51 protein affects the development of the early nervous system, resulting in the signs and symptoms of congenital mirror movement disorder.
+There are some people with congenital mirror movement disorder who do not have an identified variant in any of these three genes. The cause of the disorder in these individuals is unknown.
+Learn more about the genes associated with Congenital mirror movement disorder
+DCC
+NTN1
+RAD51
+Inheritance
+Congenital mirror movement disorder is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the altered gene. Some people who have the altered gene never develop congenital mirror movement disorder; this is known as reduced penetrance.
+In very rare cases, this condition may be inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CMM
+Congenital mirror movements
+Familial congenital controlateral synkinesia
+Familial congenital mirror movements
+Hereditary congenital controlateral synkinesia
+Hereditary congenital mirror movements
+Isolated congenital controlateral synkinesia
+Isolated congenital mirror movements
+Mirror movements 1
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Mirror movements 1
+Genetic and Rare Diseases Information Center
+Familial congenital mirror movements
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MIRROR MOVEMENTS 1; MRMV1
+MIRROR MOVEMENTS 4; MRMV4
+MIRROR MOVEMENTS 2; MRMV2
+Scientific Articles on PubMed
+PubMed
+References
+Depienne C, Bouteiller D, Meneret A, Billot S, Groppa S, Klebe S,
+Charbonnier-Beaupel F, Corvol JC, Saraiva JP, Brueggemann N, Bhatia K, Cincotta
+M, Brochard V, Flamand-Roze C, Carpentier W, Meunier S, Marie Y, Gaussen M,
+Stevanin G, Wehrle R, Vidailhet M, Klein C, Dusart I, Brice A, Roze E. RAD51
+haploinsufficiency causes congenital mirror movements in humans. Am J Hum Genet.
+2012 Feb 10;90(2):301-7. doi: 10.1016/j.ajhg.2011.12.002. Epub 2012 Feb 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Depienne C, Cincotta M, Billot S, Bouteiller D, Groppa S, Brochard V, Flamand
+C, Hubsch C, Meunier S, Giovannelli F, Klebe S, Corvol JC, Vidailhet M, Brice A,
+Roze E. A novel DCC mutation and genetic heterogeneity in congenital mirror
+movements. Neurology. 2011 Jan 18;76(3):260-4. doi: 10.1212/WNL.0b013e318207b1e0.
+Citation on PubMed
+Franz EA, Chiaroni-Clarke R, Woodrow S, Glendining KA, Jasoni CL, Robertson
+SP, Gardner RJM, Markie D. Congenital mirror movements: phenotypes associated
+with DCC and RAD51 mutations. J Neurol Sci. 2015 Apr 15;351(1-2):140-145. doi:
+10.1016/j.jns.2015.03.006. Epub 2015 Mar 10.
+Citation on PubMed
+Gallea C, Popa T, Billot S, Meneret A, Depienne C, Roze E. Congenital mirror
+movements: a clue to understanding bimanual motor control. J Neurol. 2011
+Nov;258(11):1911-9. doi: 10.1007/s00415-011-6107-9. Epub 2011 Jun 3.
+Citation on PubMed
+Gallea C, Popa T, Hubsch C, Valabregue R, Brochard V, Kundu P, Schmitt B,
+Bardinet E, Bertasi E, Flamand-Roze C, Alexandre N, Delmaire C, Meneret A,
+Depienne C, Poupon C, Hertz-Pannier L, Cincotta M, Vidailhet M, Lehericy S,
+Meunier S, Roze E. RAD51 deficiency disrupts the corticospinal lateralization of
+motor control. Brain. 2013 Nov;136(Pt 11):3333-46. doi: 10.1093/brain/awt258.
+Epub 2013 Sep 20.
+Citation on PubMed
+Klar AJ. Selective chromatid segregation mechanism invoked for the human
+congenital mirror hand movement disorder development by RAD51 mutations: a
+hypothesis. Int J Biol Sci. 2014 Sep 10;10(9):1018-23. doi: 10.7150/ijbs.9886.
+eCollection 2014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Meneret A, Depienne C, Riant F, Trouillard O, Bouteiller D, Cincotta M, Bitoun
+P, Wickert J, Lagroua I, Westenberger A, Borgheresi A, Doummar D, Romano M, Rossi
+S, Defebvre L, De Meirleir L, Espay AJ, Fiori S, Klebe S, Quelin C,
+Rudnik-Schoneborn S, Plessis G, Dale RC, Sklower Brooks S, Dziezyc K, Pollak P,
+Golmard JL, Vidailhet M, Brice A, Roze E. Congenital mirror movements: mutational
+analysis of RAD51 and DCC in 26 cases. Neurology. 2014 Jun 3;82(22):1999-2002.
+doi: 10.1212/WNL.0000000000000477. Epub 2014 May 7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Meneret A, Trouillard O, Dunoyer M, Depienne C, Roze E. Congenital Mirror
+Movements. 2015 Mar 12 [updated 2020 Sep 24]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK279760/
+Citation on PubMed
+Peng J, Charron F. Lateralization of motor control in the human nervous
+system: genetics of mirror movements. Curr Opin Neurobiol. 2013 Feb;23(1):109-18.
+doi: 10.1016/j.conb.2012.08.007. Epub 2012 Sep 16.
+Citation on PubMed
+Srour M, Riviere JB, Pham JM, Dube MP, Girard S, Morin S, Dion PA, Asselin G,
+Rochefort D, Hince P, Diab S, Sharafaddinzadeh N, Chouinard S, Theoret H, Charron
+F, Rouleau GA. Mutations in DCC cause congenital mirror movements. Science. 2010
+Apr 30;328(5978):592. doi: 10.1126/science.1186463.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,164 @@
+Familial atrial fibrillation: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial atrial fibrillation
+URL of this page: https://medlineplus.gov/genetics/condition/familial-atrial-fibrillation/
+Familial atrial fibrillation
+Description
+Familial atrial fibrillation is an inherited abnormality of the heart's normal rhythm. Atrial fibrillation is characterized by episodes of uncoordinated electrical activity (fibrillation) in the heart's upper chambers (the atria), which cause a fast and irregular heartbeat. If untreated, this abnormal heart rhythm (arrhythmia) can lead to dizziness, chest pain, a sensation of fluttering or pounding in the chest (palpitations), shortness of breath, or fainting (syncope). Atrial fibrillation also increases the risk of stroke and sudden death. Complications of atrial fibrillation can occur at any age, although some people with this heart condition never experience any health problems associated with the disorder.
+Frequency
+Atrial fibrillation is the most common type of recurrent arrhythmia, affecting more than 3 million people in the United States. The risk of developing this irregular heart rhythm increases with age. The incidence of the familial form of atrial fibrillation is unknown; however, recent studies suggest that up to 30 percent of all people who have atrial fibrillation without an identified cause have a history of the condition in their family.
+Causes
+Changes in some genes can cause atrial fibrillation on their own, while changes in other genes affect a person's risk of developing this condition in combination with a variety of environmental and lifestyle factors. Familial atrial fibrillation often results from rare mutations in single genes. However, these cases represent only a small fraction of all individuals with atrial fibrillation.
+The first single gene found to be associated with familial atrial fibrillation was
+KCNQ1
+, which provides instructions for making a
+channel
+that is embedded in the
+outer membrane
+of heart (cardiac) muscle cells. This channel transports positively charged atoms (ions) of potassium out of cells. In cardiac muscle, this ion transport plays a critical role in maintaining the heart's normal rhythm. Since that discovery, rare genetic variants in other ion channel genes have been found to cause familial atrial fibrillation. Mutations in ion channel genes lead to the production of altered channels, which may either increase or decrease the flow of ions across the outer cell membrane and alter the way the heart beats.
+Mutations in other types of genes have also been found to cause familial atrial fibrillation. Some of these genes provide instructions for making cardiac transcription factors, which regulate the activity of certain genes involved in the formation and development of the heart before birth. Other genes provide instructions for making parts of structural elements of cardiac muscle, such as sarcomeres. These structures are necessary for cardiac muscle to contract and produce the heart's pumping action. Mutations in these non-ion channel genes have a variety of effects on the structure and function of cardiac muscle, all of which can lead to an abnormal heartbeat.
+Most cases of atrial fibrillation are not caused by inherited mutations in single genes. However, relatively common variations (polymorphisms) in more than two dozen genes appear to influence the likelihood of developing the condition. Each of these polymorphisms on its own has a small effect on a person's overall risk, but an individual may have multiple polymorphisms that together have a significant effect. In addition to these common genetic variations, risk factors for atrial fibrillation include high blood pressure (
+hypertension
+), diabetes mellitus, a previous stroke, or an accumulation of fatty deposits and scar-like tissue in the lining of the arteries (
+atherosclerosis
+). Researchers are working to determine how a combination of genetic changes, environmental influences, and lifestyle factors contribute to a person's risk of developing atrial fibrillation.
+Learn more about the genes associated with Familial atrial fibrillation
+ABCC9
+KCNH2
+KCNJ2
+KCNQ1
+LMNA
+PRKAG2
+RYR2
+SCN5A
+Additional Information from NCBI Gene:
+GJA5
+KCNA5
+KCNE2
+MYL4
+NKX2-5
+NPPA
+NUP155
+SCN1B
+SCN2B
+SCN3B
+SCN4B
+Inheritance
+When familial atrial fibrillation is caused by mutations in a single gene (such as
+KCNQ1
+), it is inherited in an
+autosomal dominant pattern
+. Autosomal dominant inheritance means that one copy of the altered gene in each cell is sufficient to cause the disorder. In these cases, an affected person inherits the mutation from a parent who has the condition.
+Common genetic variants that increase the risk of atrial fibrillation can also be passed through generations in families. Individuals with these variants may have a family history of atrial fibrillation, but in these cases the condition does not have a clear autosomal dominant inheritance pattern.
+Other Names for This Condition
+Atrial fibrillation, familial
+Auricular fibrillation
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Atrial fibrillation, familial, 1
+Genetic Testing Registry: Atrial fibrillation, familial, 10
+Genetic Testing Registry: Atrial fibrillation, familial, 11
+Genetic Testing Registry: Atrial fibrillation, familial, 12
+Genetic Testing Registry: Atrial fibrillation, familial, 13
+Genetic Testing Registry: Atrial fibrillation, familial, 14
+Genetic Testing Registry: Atrial fibrillation, familial, 15
+Genetic Testing Registry: Atrial fibrillation, familial, 16
+Genetic Testing Registry: Atrial fibrillation, familial, 17
+Genetic Testing Registry: Atrial fibrillation, familial, 18
+Genetic Testing Registry: Atrial fibrillation, familial, 3
+Genetic Testing Registry: Atrial fibrillation, familial, 4
+Genetic Testing Registry: Atrial fibrillation, familial, 6
+Genetic Testing Registry: Atrial fibrillation, familial, 7
+Genetic Testing Registry: Atrial fibrillation, familial, 9
+Genetic and Rare Diseases Information Center
+Familial atrial fibrillation
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ATRIAL FIBRILLATION, FAMILIAL, 1; ATFB1
+ATRIAL FIBRILLATION, FAMILIAL, 3; ATFB3
+ATRIAL FIBRILLATION, FAMILIAL, 4; ATFB4
+ATRIAL FIBRILLATION, FAMILIAL, 5; ATFB5
+ATRIAL FIBRILLATION, FAMILIAL, 2; ATFB2
+ATRIAL FIBRILLATION, FAMILIAL, 6; ATFB6
+ATRIAL FIBRILLATION, FAMILIAL, 7; ATFB7
+ATRIAL FIBRILLATION, FAMILIAL, 13; ATFB13
+ATRIAL FIBRILLATION, FAMILIAL, 14; ATFB14
+ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10
+ATRIAL FIBRILLATION, FAMILIAL, 18; ATFB18
+ATRIAL FIBRILLATION, FAMILIAL, 8; ATFB8
+ATRIAL FIBRILLATION, FAMILIAL, 11; ATFB11
+ATRIAL FIBRILLATION, FAMILIAL, 12; ATFB12
+ATRIAL FIBRILLATION, FAMILIAL, 9; ATFB9
+ATRIAL FIBRILLATION, FAMILIAL, 15; ATFB15
+Scientific Articles on PubMed
+PubMed
+References
+Chen YH, Xu SJ, Bendahhou S, Wang XL, Wang Y, Xu WY, Jin HW, Sun H, Su XY,
+Zhuang QN, Yang YQ, Li YB, Liu Y, Xu HJ, Li XF, Ma N, Mou CP, Chen Z, Barhanin J,
+Huang W. KCNQ1 gain-of-function mutation in familial atrial fibrillation.
+Science. 2003 Jan 10;299(5604):251-4. doi: 10.1126/science.1077771.
+Citation on PubMed
+Fatkin D, Santiago CF, Huttner IG, Lubitz SA, Ellinor PT. Genetics of Atrial
+Fibrillation: State of the Art in 2017. Heart Lung Circ. 2017 Sep;26(9):894-901.
+doi: 10.1016/j.hlc.2017.04.008. Epub 2017 May 11.
+Citation on PubMed
+Gutierrez A, Chung MK. Genomics of Atrial Fibrillation. Curr Cardiol Rep. 2016
+Jun;18(6):55. doi: 10.1007/s11886-016-0735-8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hucker WJ, Saini H, Lubitz SA, Ellinor PT. Atrial Fibrillation Genetics: Is
+There a Practical Clinical Value Now or in the Future? Can J Cardiol. 2016
+Nov;32(11):1300-1305. doi: 10.1016/j.cjca.2016.02.032. Epub 2016 Feb 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Xiao J, Liang D, Chen YH. The genetics of atrial fibrillation: from the bench
+to the bedside. Annu Rev Genomics Hum Genet. 2011;12:73-96. doi:
+10.1146/annurev-genom-082410-101515.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Atrial Fibrillation
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Arrhythmias
+Atrial fibrillation and atrial flutter
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

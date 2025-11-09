@@ -1,0 +1,108 @@
+Alpha-methylacyl-CoA racemase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Alpha-methylacyl-CoA racemase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/alpha-methylacyl-coa-racemase-deficiency/
+Alpha-methylacyl-CoA racemase deficiency
+Description
+Alpha-methylacyl-CoA racemase (AMACR) deficiency is a disorder that causes a variety of neurological problems that begin in adulthood and slowly get worse. People with AMACR deficiency may have a gradual loss in intellectual functioning (cognitive decline), seizures, and migraines. They may also have acute episodes of brain dysfunction (encephalopathy) similar to stroke, involving altered consciousness and areas of damage (lesions) in the brain. Other features of AMACR deficiency may include weakness and loss of sensation in the limbs due to nerve damage (sensorimotor neuropathy), muscle stiffness (spasticity), and difficulty coordinating movements (ataxia). Vision problems caused by deterioration of the light-sensitive layer at the back of the eye (the
+retina
+) can also occur in this disorder.
+Frequency
+AMACR deficiency is a rare disorder. Its prevalence is unknown. At least 10 cases have been described in the medical literature.
+Causes
+AMACR deficiency is caused by mutations in the
+AMACR
+gene. This gene provides instructions for making an enzyme called alpha-methylacyl-CoA racemase (AMACR).
+The AMACR enzyme is found in the energy-producing centers in cells (
+mitochondria
+) and in cell structures called
+peroxisomes
+. Peroxisomes contain a variety of enzymes that break down many different substances, including fatty acids and certain toxic compounds. They are also important for the production (synthesis) of fats (lipids) used in digestion and in the nervous system. In peroxisomes, the AMACR enzyme plays a role in the breakdown of a fatty acid called pristanic acid, which comes from meat and dairy foods in the diet. In mitochondria, AMACR is thought to help further break down the molecules derived from pristanic acid.
+Most individuals with AMACR deficiency have an
+AMACR
+gene mutation that results in a lack (deficiency) of functional enzyme. The enzyme deficiency leads to accumulation of pristanic acid in the blood. However, it is unclear how this accumulation is related to the specific signs and symptoms of AMACR deficiency.
+Learn more about the gene associated with Alpha-methylacyl-CoA racemase deficiency
+AMACR
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+AMACR deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Alpha-methylacyl-CoA racemase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ALPHA-METHYLACYL-CoA RACEMASE DEFICIENCY; AMACRD
+Scientific Articles on PubMed
+PubMed
+References
+Dick D, Horvath R, Chinnery PF. AMACR mutations cause late-onset autosomal
+recessive cerebellar ataxia. Neurology. 2011 May 17;76(20):1768-70. doi:
+10.1212/WNL.0b013e31821a4484. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ferdinandusse S, Denis S, Clayton PT, Graham A, Rees JE, Allen JT, McLean BN,
+Brown AY, Vreken P, Waterham HR, Wanders RJ. Mutations in the gene encoding
+peroxisomal alpha-methylacyl-CoA racemase cause adult-onset sensory motor
+neuropathy. Nat Genet. 2000 Feb;24(2):188-91. doi: 10.1038/72861.
+Citation on PubMed
+Ferdinandusse S, Denis S, IJlst L, Dacremont G, Waterham HR, Wanders RJ.
+Subcellular localization and physiological role of alpha-methylacyl-CoA racemase.
+J Lipid Res. 2000 Nov;41(11):1890-6.
+Citation on PubMed
+Haugarvoll K, Johansson S, Tzoulis C, Haukanes BI, Bredrup C, Neckelmann G,
+Boman H, Knappskog PM, Bindoff LA. MRI characterisation of adult onset
+alpha-methylacyl-coA racemase deficiency diagnosed by exome sequencing. Orphanet
+J Rare Dis. 2013 Jan 3;8:1. doi: 10.1186/1750-1172-8-1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wierzbicki AS. Peroxisomal disorders affecting phytanic acid alpha-oxidation:
+a review. Biochem Soc Trans. 2007 Nov;35(Pt 5):881-6. doi: 10.1042/BST0350881.
+Citation on PubMed
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Brain Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

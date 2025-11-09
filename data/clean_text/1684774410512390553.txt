@@ -1,0 +1,132 @@
+CAV3-related distal myopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+CAV3-related distal myopathy
+URL of this page: https://medlineplus.gov/genetics/condition/cav3-related-distal-myopathy/
+CAV3-related distal myopathy
+Description
+CAV3
+-related distal myopathy is one form of distal myopathy, a group of disorders characterized by weakness and loss of function affecting the muscles farthest from the center of the body (distal muscles), such as those of the hands and feet. People with
+CAV3
+-related distal myopathy experience wasting (atrophy) and weakness of the small muscles in the hands and feet that generally become noticeable in adulthood. A bump or other sudden impact on the muscles, especially those in the forearms, may cause them to exhibit repetitive tensing (percussion-induced rapid contraction). The rapid contractions can continue for up to 30 seconds and may be painful. Overgrowth (hypertrophy) of the calf muscles can also occur in
+CAV3
+-related distal myopathy. The muscles closer to the center of the body (proximal muscles) such as the thighs and upper arms are normal in this condition.
+Frequency
+The prevalence of
+CAV3
+-related distal myopathy is unknown. Only a few affected individuals have been described in the medical literature.
+Causes
+CAV3
+-related distal myopathy is part of a group of conditions called caveolinopathies, which are muscle disorders caused by mutations in the
+CAV3
+gene. The
+CAV3
+gene provides instructions for making a protein called caveolin-3, which is found in the membrane surrounding muscle cells. This protein is the main component of caveolae, which are small pouches in the muscle cell membrane. Within the caveolae, the caveolin-3 protein acts as a scaffold to organize other molecules that are important for cell signaling and maintenance of the cell structure.
+CAV3
+gene mutations result in a shortage of caveolin-3 protein in the muscle cell membrane and a reduction in the number of caveolae. Researchers suggest that a shortage of caveolae impairs the structural integrity of muscle cells, interferes with cell signaling, and causes the self-destruction of cells (apoptosis). The resulting degeneration of muscle tissue leads to the signs and symptoms of
+CAV3
+-related distal myopathy.
+In addition to
+CAV3
+-related distal myopathy,
+CAV3
+gene mutations can cause other caveolinopathies including
+limb-girdle muscular dystrophy
+,
+rippling muscle disease
+,
+isolated hyperCKemia
+, and a heart disorder called hypertrophic cardiomyopathy. Several
+CAV3
+gene mutations have been found to cause different caveolinopathies in different individuals. It is unclear why a single
+CAV3
+gene mutation may cause different patterns of signs and symptoms, even within the same family.
+Learn more about the gene associated with CAV3-related distal myopathy
+CAV3
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has
+one parent
+with
+CAV3
+-related distal myopathy or another caveolinopathy. Rare cases result from
+new mutations
+in the gene and occur in people with no history of caveolinopathies in their family.
+Other Names for This Condition
+Distal myopathy, Tateyama type
+MPDT
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Distal myopathy, Tateyama type
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MYOPATHY, DISTAL, TATEYAMA TYPE; MPDT
+Scientific Articles on PubMed
+PubMed
+References
+Aboumousa A, Hoogendijk J, Charlton R, Barresi R, Herrmann R, Voit T, Hudson
+J, Roberts M, Hilton-Jones D, Eagle M, Bushby K, Straub V. Caveolinopathy--new
+mutations and additional symptoms. Neuromuscul Disord. 2008 Jul;18(7):572-8. doi:
+10.1016/j.nmd.2008.05.003. Epub 2008 Jun 25.
+Citation on PubMed
+Gazzerro E, Bonetto A, Minetti C. Caveolinopathies: translational implications
+of caveolin-3 in skeletal and cardiac muscle disorders. Handb Clin Neurol.
+2011;101:135-42. doi: 10.1016/B978-0-08-045031-5.00010-4.
+Citation on PubMed
+Gazzerro E, Sotgia F, Bruno C, Lisanti MP, Minetti C. Caveolinopathies: from
+the biology of caveolin-3 to human diseases. Eur J Hum Genet. 2010
+Feb;18(2):137-45. doi: 10.1038/ejhg.2009.103. Epub 2009 Jul 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tateyama M, Aoki M, Nishino I, Hayashi YK, Sekiguchi S, Shiga Y, Takahashi T,
+Onodera Y, Haginoya K, Kobayashi K, Iinuma K, Nonaka I, Arahata K, Itoyama Y.
+Mutation in the caveolin-3 gene causes a peculiar form of distal myopathy.
+Neurology. 2002 Jan 22;58(2):323-5. doi: 10.1212/wnl.58.2.323.
+Citation on PubMed
+Woodman SE, Sotgia F, Galbiati F, Minetti C, Lisanti MP. Caveolinopathies:
+mutations in caveolin-3 cause four distinct autosomal dominant muscle diseases.
+Neurology. 2004 Feb 24;62(4):538-43. doi: 10.1212/wnl.62.4.538.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscular Dystrophy
+MEDICAL ENCYCLOPEDIA
+Electromyography
+Genetics
+Muscle biopsy
+Muscle disorder
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

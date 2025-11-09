@@ -1,0 +1,112 @@
+Otulipenia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Otulipenia
+URL of this page: https://medlineplus.gov/genetics/condition/otulipenia/
+Otulipenia
+Description
+Otulipenia is characterized by abnormal inflammation throughout the body. Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). However, the uncontrolled inflammation that occurs in otulipenia can damage many of the body's tissues and organs, including the gastrointestinal system, joints, and skin. Disorders such as otulipenia that result from abnormally increased inflammation are known as autoinflammatory diseases.
+Signs and symptoms of otulipenia usually begin within the first few weeks of life, with recurring episodes of fever; diarrhea; painful, swollen joints; and skin rashes. The skin rashes are due to inflammation of the layer of
+fatty tissue under the skin
+(panniculitis), which causes painful red bumps. Some people with otulipenia have an abnormal distribution of fatty tissue in their bodies (lipodystrophy). Affected infants have difficulty growing and gaining weight at the expected rate (failure to thrive). Damage to the body's tissues and organs caused by inflammation is life-threatening if the condition is not treated.
+Frequency
+The prevalence of otulipenia is not known. At least four cases have been reported in the medical literature.
+Causes
+Otulipenia is caused by mutations in the
+OTULIN
+gene. The protein produced from this gene helps control inflammation. Inflammation can be turned on by a cellular process called ubiquitination, in which molecules called ubiquitin are attached to certain proteins. In particular, signaling pathways that lead to inflammation are stimulated by the attachment of chains of ubiquitin molecules linked end-to-end (linear ubiquitin chains). The OTULIN protein helps control inflammation by removing these linear ubiquitin chains.
+OTULIN
+gene mutations that cause otulipenia lead to production of an OTULIN protein with reduced function. As a result, removal of linear ubiquitin chains is impaired, and signaling pathways that cause inflammation are abnormally active. The excessive inflammation that results causes fever, diarrhea, panniculitis, and the other signs and symptoms of otulipenia.
+Learn more about the gene associated with Otulipenia
+OTULIN
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+AIPDS
+Autoinflammation, panniculitis, and dermatosis syndrome
+ORAS
+OTULIN-related autoinflammatory syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autoinflammation, panniculitis, and dermatosis syndrome, autosomal recessive
+Genetic and Rare Diseases Information Center
+Infantile-onset periodic fever-panniculitis-dermatosis syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+AUTOINFLAMMATION, PANNICULITIS, AND DERMATOSIS SYNDROME, AUTOSOMAL RECESSIVE; AIPDSB
+Scientific Articles on PubMed
+PubMed
+References
+Damgaard RB, Walker JA, Marco-Casanova P, Morgan NV, Titheradge HL, Elliott
+PR, McHale D, Maher ER, McKenzie ANJ, Komander D. The Deubiquitinase OTULIN Is an
+Essential Negative Regulator of Inflammation and Autoimmunity. Cell. 2016 Aug
+25;166(5):1215-1230.e20. doi: 10.1016/j.cell.2016.07.019. Epub 2016 Aug 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Elliott PR, Komander D. Regulation of Met1-linked polyubiquitin signalling by
+the deubiquitinase OTULIN. FEBS J. 2016 Jan;283(1):39-53. doi:
+10.1111/febs.13547. Epub 2015 Nov 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Keusekotten K, Elliott PR, Glockner L, Fiil BK, Damgaard RB, Kulathu Y, Wauer
+T, Hospenthal MK, Gyrd-Hansen M, Krappmann D, Hofmann K, Komander D. OTULIN
+antagonizes LUBAC signaling by specifically hydrolyzing Met1-linked
+polyubiquitin. Cell. 2013 Jun 6;153(6):1312-26. doi: 10.1016/j.cell.2013.05.014.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zhou Q, Yu X, Demirkaya E, Deuitch N, Stone D, Tsai WL, Kuehn HS, Wang H, Yang
+D, Park YH, Ombrello AK, Blake M, Romeo T, Remmers EF, Chae JJ, Mullikin JC,
+Guzel F, Milner JD, Boehm M, Rosenzweig SD, Gadina M, Welch SB, Ozen S, Topaloglu
+R, Abinun M, Kastner DL, Aksentijevich I. Biallelic hypomorphic mutations in a
+linear deubiquitinase define otulipenia, an early-onset autoinflammatory disease.
+Proc Natl Acad Sci U S A. 2016 Sep 6;113(36):10127-32. doi:
+10.1073/pnas.1612594113. Epub 2016 Aug 24.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Autoimmune Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Immune response
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

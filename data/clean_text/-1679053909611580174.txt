@@ -1,0 +1,144 @@
+Kniest dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Kniest dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/kniest-dysplasia/
+Kniest dysplasia
+Description
+Kniest dysplasia is a skeletal disorder that is characterized by short stature, joint disease, and problems with vision and hearing.
+People with Kniest dysplasia are born with a short torso and short arms and legs. Adult height ranges from approximately 42 to 57 inches. Other skeletal problems may include a rounded upper back that also curves to the side (
+kyphoscoliosis
+), flattened bones of the spine (platyspondyly), dumbbell-shaped bones in the legs, and inward- and upward-turning feet (
+clubfeet
+). A distinguishing feature of Kniest dysplasia is abnormal cartilage. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development; most cartilage is later converted to bone. People with Kniest dysplasia have tiny holes in their cartilage, which makes the cartilage look like Swiss cheese when seen with medical imaging.
+Individuals with Kniest dysplasia often have distinctive facial features, which include a
+round
+,
+flat
+face with
+prominent
+and
+wide-set eyes
+. Some affected infants are born with an opening in the roof of the mouth (
+cleft palate
+). Infants with Kniest dysplasia may also have breathing problems due to a windpipe that is too flexible. Enlarged joints that cause pain and restrict movement are another sign of Kniest dysplasia. These joint problems typically lead to early-onset arthritis. Many people with Kniest dysplasia also have hearing loss and problems with vision, such as severe
+nearsightedness
+(
+myopia
+) and tearing of the light-sensitive tissue at the back of the eye (
+retinal detachment
+).
+Frequency
+Kniest dysplasia is a rare condition, but the exact prevalence is unknown.
+Causes
+Kniest dysplasia is caused by variants (also called mutations) in the
+COL2A1
+gene. This gene provides instructions for making a protein that forms type II collagen, which is found in the clear gel that fills the
+eyeball
+(the vitreous) and in cartilage. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development; most cartilage is later converted to bone. Type II collagen is essential for the normal growth and development of bones and other
+connective tissues
+.
+Many of the variants that cause Kniest dysplasia delete one or more of the DNA building blocks (nucleotides) in the
+COL2A1
+gene. These variants lead to the production of an abnormal version of the
+COL2A1
+protein, which disrupts the formation of stable, functional type II collagen molecules. The lack of functional type II collagen interferes with the development of bones and other connective tissues, which leads to the characteristic signs and symptoms of Kniest dysplasia.
+Learn more about the gene associated with Kniest dysplasia
+COL2A1
+Inheritance
+Kniest dysplasia is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. The majority of cases are the result of a new (de novo) variant in the gene that occurs during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals often have no history of the disorder in their family. However, in some cases, a parent has been found to carry the same variant in a small number of their cells, which is known as somatic
+mosaicism
+.
+Other Names for This Condition
+Kniest chondrodystrophy
+Kniest dysplasia, COL2A1-related
+Kniest syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Kniest dysplasia
+Genetic and Rare Diseases Information Center
+Kniest dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+KNIEST DYSPLASIA
+Scientific Articles on PubMed
+PubMed
+References
+Gregersen PA, Savarirayan R. Type II Collagen Disorders Overview. 2019 Apr 25
+[updated 2024 Oct 24]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK540447/
+Citation on PubMed
+Sergouniotis PI, Fincham GS, McNinch AM, Spickett C, Poulson AV, Richards AJ,
+Snead MP. Ophthalmic and molecular genetic findings in Kniest dysplasia. Eye
+(Lond). 2015 Apr;29(4):475-82. doi: 10.1038/eye.2014.334. Epub 2015 Jan 16.
+Citation on PubMed
+Spranger J, Winterpacht A, Zabel B. Kniest dysplasia: Dr. W. Kniest, his
+patient, the molecular defect. Am J Med Genet. 1997 Mar 3;69(1):79-84. doi:
+10.1002/(sici)1096-8628(19970303)69:13.0.co;2-l.
+Citation on PubMed
+Subramanian S, Gamanagatti S, Sinha A, Sampangi R. Kniest syndrome. Indian
+Pediatr. 2007 Dec;44(12):931-3.
+Citation on PubMed
+Weis MA, Wilkin DJ, Kim HJ, Wilcox WR, Lachman RS, Rimoin DL, Cohn DH, Eyre
+DR. Structurally abnormal type II collagen in a severe form of Kniest dysplasia
+caused by an exon 24 skipping mutation. J Biol Chem. 1998 Feb 20;273(8):4761-8.
+doi: 10.1074/jbc.273.8.4761.
+Citation on PubMed
+Wilkin DJ, Artz AS, South S, Lachman RS, Rimoin DL, Wilcox WR, McKusick VA,
+Stratakis CA, Francomano CA, Cohn DH. Small deletions in the type II collagen
+triple helix produce kniest dysplasia. Am J Med Genet. 1999 Jul 16;85(2):105-12.
+Citation on PubMed
+Yokoyama T, Nakatani S, Murakami A. A case of Kniest dysplasia with retinal
+detachment and the mutation analysis. Am J Ophthalmol. 2003 Dec;136(6):1186-8.
+doi: 10.1016/s0002-9394(03)00713-x.
+Citation on PubMed
+Related Health Topics
+Bone Diseases
+Connective Tissue Disorders
+Dwarfism
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Clubfoot
+Genetics
+Retinal detachment
+Scoliosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

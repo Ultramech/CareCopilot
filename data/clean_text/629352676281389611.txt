@@ -1,0 +1,163 @@
+Gaucher disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Gaucher disease
+URL of this page: https://medlineplus.gov/genetics/condition/gaucher-disease/
+Gaucher disease
+Description
+Gaucher disease is an inherited disorder that affects many of the body's organs and tissues. The signs and symptoms of this condition vary widely among affected individuals. Researchers have described several types of Gaucher disease based on their characteristic features.
+Type 1 Gaucher disease is the most common form of this condition. Type 1 is also called non-neuronopathic Gaucher disease because the brain and spinal cord (the central nervous system) are usually not affected. The features of this condition range from mild to severe and may appear anytime from childhood to adulthood. Major signs and symptoms include enlargement of the liver and spleen (hepatosplenomegaly), a low number of red blood cells (
+anemia
+), easy bruising caused by a decrease in blood platelets (thrombocytopenia), bone abnormalities such as bone pain and fractures, and joint conditions such as arthritis.
+Types 2 and 3 Gaucher disease are known as neuronopathic forms of the disorder because they are characterized by problems that affect the central nervous system. In addition to the signs and symptoms described above, these conditions can cause abnormal eye movements, seizures, and brain damage. Type 2 Gaucher disease usually causes life-threatening medical problems beginning in infancy. Type 3 Gaucher disease also affects the nervous system, but it tends to worsen more slowly than type 2.
+The most severe type of Gaucher disease is a very rare form of type 2 called the perinatal lethal form. This condition causes severe or life-threatening complications starting before birth or in infancy. Features of the perinatal lethal form can include extensive swelling caused by fluid accumulation before birth (hydrops fetalis); dry, scaly skin (ichthyosis) or other skin abnormalities; hepatosplenomegaly; distinctive facial features; and serious neurological problems. As its name indicates, most infants with the perinatal lethal form of Gaucher disease survive for only a few days after birth.
+Another form of Gaucher disease is known as the cardiovascular type (or type 3c) because it primarily affects the heart, causing the heart valves to harden (calcify). People with the cardiovascular form of Gaucher disease may also have eye abnormalities, bone disease, and mild enlargement of the spleen (splenomegaly).
+Frequency
+Gaucher disease occurs in 1 in 50,000 to 100,000 people in the general population. Type 1 is the most common form of the disorder in Europe, Israel, Canada, and the United States. This form occurs more frequently in people of Ashkenazi (eastern and central European) Jewish heritage than in those with other backgrounds; it affects 1 in 500 to 1,000 people of Ashkenazi Jewish heritage. Types 2 and 3 are uncommon and do not occur more frequently in people of Ashkenazi Jewish descent. These types can be more prevalent than type 1 in certain regions, such as Egypt, India, Japan, Poland, and Sweden.
+Causes
+Variants (also known as mutations) in the
+GBA1
+gene cause Gaucher disease. The
+GBA1
+gene provides instructions for making an enzyme called lysosomal acid glucosylceramidase. This enzyme breaks down a fatty substance called glucocerebroside into a sugar (glucose) and a simpler fat molecule (ceramide). Variants in the
+GBA1
+gene greatly reduce or eliminate the activity of lysosomal acid glucosylceramidase. Without enough of this enzyme, glucocerebroside and related substances can build up to toxic levels within cells. Tissues and organs are damaged by the abnormal accumulation and storage of these substances, causing the characteristic features of Gaucher disease.
+Learn more about the gene associated with Gaucher disease
+GBA1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Cerebroside lipidosis syndrome
+Gaucher splenomegaly
+Gaucher syndrome
+Gaucher's disease
+Gauchers disease
+GD
+Glucocerebrosidase deficiency
+Glucocerebrosidosis
+Glucosyl cerebroside lipidosis
+Glucosylceramidase deficiency
+Glucosylceramide beta-glucosidase deficiency
+Glucosylceramide lipidosis
+Kerasin histiocytosis
+Kerasin lipoidosis
+Kerasin thesaurismosis
+Lipoid histiocytosis (kerasin type)
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Gaucher disease
+Genetic Testing Registry: Gaucher disease type I
+Genetic Testing Registry: Gaucher disease type II
+Genetic Testing Registry: Gaucher disease type III
+Genetic Testing Registry: Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome
+Genetic and Rare Diseases Information Center
+Gaucher disease
+Gaucher disease type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GAUCHER DISEASE, TYPE I; GD1
+GAUCHER DISEASE, TYPE II; GD2
+GAUCHER DISEASE, TYPE III; GD3
+GAUCHER DISEASE, TYPE IIIC; GD3C
+Scientific Articles on PubMed
+PubMed
+References
+Beutler E. Gaucher disease: multiple lessons from a single gene disorder. Acta
+Paediatr Suppl. 2006 Apr;95(451):103-9. doi: 10.1111/j.1651-2227.2006.tb02398.x.
+Citation on PubMed
+Chabas A, Cormand B, Grinberg D, Burguera JM, Balcells S, Merino JL, Mate I,
+Sobrino JA, Gonzalez-Duarte R, Vilageliu L. Unusual expression of Gaucher's
+disease: cardiovascular calcifications in three sibs homozygous for the D409H
+mutation. J Med Genet. 1995 Sep;32(9):740-2. doi: 10.1136/jmg.32.9.740.
+Citation on PubMed
+or
+Free article on PubMed Central
+Eblan MJ, Goker-Alpan O, Sidransky E. Perinatal lethal Gaucher disease: a
+distinct phenotype along the neuronopathic continuum. Fetal Pediatr Pathol. 2005
+Jul-Oct;24(4-5):205-22. doi: 10.1080/15227950500405296.
+Citation on PubMed
+George R, McMahon J, Lytle B, Clark B, Lichtin A. Severe valvular and aortic
+arch calcification in a patient with Gaucher's disease homozygous for the D409H
+mutation. Clin Genet. 2001 May;59(5):360-3. doi:
+10.1034/j.1399-0004.2001.590511.x.
+Citation on PubMed
+Grabowski GA, Andria G, Baldellou A, Campbell PE, Charrow J, Cohen IJ, Harris
+CM, Kaplan P, Mengel E, Pocovi M, Vellodi A. Pediatric non-neuronopathic Gaucher
+disease: presentation, diagnosis and assessment. Consensus statements. Eur J
+Pediatr. 2004 Feb;163(2):58-66. doi: 10.1007/s00431-003-1362-0. Epub 2003 Dec 16.
+Citation on PubMed
+Hughes DA, Pastores GM. Gaucher Disease. 2000 Jul 27 [updated 2023 Dec 7]. In:
+Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1269/
+Citation on PubMed
+Kurolap A, Del Toro M, Spiegel R, Gutstein A, Shafir G, Cohen IJ, Barrabes JA,
+Feldman HB. Gaucher disease type 3c: New patients with unique presentations and
+review of the literature. Mol Genet Metab. 2019 Jun;127(2):138-146. doi:
+10.1016/j.ymgme.2019.05.011. Epub 2019 May 21.
+Citation on PubMed
+Mignot C, Doummar D, Maire I, De Villemeur TB; French Type 2 Gaucher Disease
+Study Group. Type 2 Gaucher disease: 15 new cases and review of the literature.
+Brain Dev. 2006 Jan;28(1):39-48. doi: 10.1016/j.braindev.2005.04.005.
+Citation on PubMed
+Mignot C, Gelot A, De Villemeur TB. Gaucher disease. Handb Clin Neurol.
+2013;113:1709-15. doi: 10.1016/B978-0-444-59565-2.00040-X.
+Citation on PubMed
+Rosenbloom BE, Weinreb NJ. Gaucher disease: a comprehensive review. Crit Rev
+Oncog. 2013;18(3):163-75. doi: 10.1615/critrevoncog.2013006060.
+Citation on PubMed
+Sidransky E. Gaucher disease: insights from a rare Mendelian disorder. Discov
+Med. 2012 Oct;14(77):273-81.
+Citation on PubMed
+or
+Free article on PubMed Central
+Weinreb NJ, Goker-Alpan O, Kishnani PS, Longo N, Burrow TA, Bernat JA, Gupta
+P, Henderson N, Pedro H, Prada CE, Vats D, Pathak RR, Wright E, Ficicioglu C. The
+diagnosis and management of Gaucher disease in pediatric patients: Where do we go
+from here? Mol Genet Metab. 2022 May;136(1):4-21. doi:
+10.1016/j.ymgme.2022.03.001. Epub 2022 Mar 9.
+Citation on PubMed
+Related Health Topics
+Gaucher Disease
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Gaucher disease
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

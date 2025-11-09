@@ -1,0 +1,179 @@
+Schizophrenia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Schizophrenia
+URL of this page: https://medlineplus.gov/genetics/condition/schizophrenia/
+Schizophrenia
+Description
+Schizophrenia is a brain disorder classified as a psychosis, which means that it affects a person's thinking, sense of self, and perceptions. The disorder typically becomes evident during late adolescence or early adulthood.
+Signs and symptoms of schizophrenia include false perceptions called hallucinations. Auditory hallucinations of voices are the most common hallucinations in schizophrenia, but affected individuals can also experience hallucinations of visions, smells, or touch (tactile) sensations. Strongly held false beliefs (delusions) are also characteristic of schizophrenia. For example, affected individuals may be certain that they are a particular historical figure or that they are being plotted against or controlled by others.
+People with schizophrenia often have decreased ability to function at school, at work, and in social settings. Disordered thinking and concentration, inappropriate emotional responses, erratic speech and behavior, and difficulty with personal hygiene and everyday tasks can also occur. People with schizophrenia may have diminished facial expression and animation (flat affect), and in some cases become unresponsive (catatonic). Substance abuse and suicidal thoughts and actions are common in people with schizophrenia.
+Certain movement problems such as tremors, facial tics, rigidity, and unusually slow movement (bradykinesia) or an inability to move (akinesia) are common in people with schizophrenia. In most cases these are side effects of medicines prescribed to help control the disorder. However, some affected individuals exhibit movement abnormalities before beginning treatment with medication.
+Some people with schizophrenia have mild impairment of intellectual function, but schizophrenia is not associated with the same types of physical changes in the brain that occur in people with dementias such as
+Alzheimer's disease
+.
+Psychotic disorders such as schizophrenia are different from mood disorders, including
+depression
+and
+bipolar disorder
+, which primarily affect emotions. However, these disorders often occur together. Individuals who exhibit strong features of both schizophrenia and mood disorders are often given the diagnosis of
+schizoaffective disorder
+.
+Frequency
+Schizophrenia is a common disorder that occurs all over the world. It affects almost 1 percent of the population, with slightly more males than females developing the disorder.
+Causes
+Variations in many genes likely contribute to the risk of developing schizophrenia. In most cases, multiple genetic changes, each with a small effect, combine to increase the risk of developing the disorder. The ways that these genetic changes are related to schizophrenia are not well understood, and the genetics of this disease is an active area of research. The genetic changes can also interact with environmental factors that are associated with increased schizophrenia risk, such as exposure to infections before birth or severe stress during childhood.
+Deletions
+or
+duplications
+of genetic material in any of several chromosomes, which can affect multiple genes, are also thought to increase schizophrenia risk. In particular, a small deletion (microdeletion) in a region of
+chromosome 22
+called 22q11 may be involved in a small percentage of cases of schizophrenia. Some individuals with this deletion have other features in addition to schizophrenia, such as heart abnormalities, immune system problems, and an opening in the roof of the mouth (cleft palate), and are diagnosed with a condition called
+22q11.2 deletion syndrome
+.
+Learn more about the genes and chromosome associated with Schizophrenia
+AKT1
+COMT
+YWHAE
+chromosome 22
+Additional Information from NCBI Gene:
+ABCA13
+C4A
+DGCR2
+DGCR8
+DRD2
+MIR137
+NOS1AP
+NRXN1
+OLIG2
+RTN4R
+SYN2
+TOP3B
+ZDHHC8
+Inheritance
+The inheritance pattern for schizophrenia is usually unknown. The risk of developing schizophrenia is somewhat higher for family members of affected individuals as compared to the general public; however, most people with a close relative who has schizophrenia will not develop the disorder themselves.
+Other Names for This Condition
+Dementia praecox
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Schizophrenia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SCHIZOPHRENIA; SCZD
+Scientific Articles on PubMed
+PubMed
+References
+Barker V, Bois C, Johnstone EC, Owens DG, Whalley HC, McIntosh AM, Lawrie SM.
+Childhood adversity and cortical thickness and surface area in a population at
+familial high risk of schizophrenia. Psychol Med. 2016 Mar;46(4):891-6. doi:
+10.1017/S0033291715002585. Epub 2015 Dec 14.
+Citation on PubMed
+Debost JP, Larsen JT, Munk-Olsen T, Mortensen PB, Meyer U, Petersen L. Joint
+Effects of Exposure to Prenatal Infection and Peripubertal Psychological Trauma
+in Schizophrenia. Schizophr Bull. 2017 Jan;43(1):171-179. doi:
+10.1093/schbul/sbw083. Epub 2016 Jun 24.
+Citation on PubMed
+Escudero I, Johnstone M. Genetics of schizophrenia. Curr Psychiatry Rep. 2014
+Nov;16(11):502. doi: 10.1007/s11920-014-0502-8.
+Citation on PubMed
+Farrell MS, Werge T, Sklar P, Owen MJ, Ophoff RA, O'Donovan MC, Corvin A,
+Cichon S, Sullivan PF. Evaluating historical candidate genes for schizophrenia.
+Mol Psychiatry. 2015 May;20(5):555-62. doi: 10.1038/mp.2015.16. Epub 2015 Mar 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Giusti-Rodriguez P, Sullivan PF. The genomics of schizophrenia: update and
+implications. J Clin Invest. 2013 Nov;123(11):4557-63. doi: 10.1172/JCI66031.
+Epub 2013 Nov 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gulsuner S, Walsh T, Watts AC, Lee MK, Thornton AM, Casadei S, Rippey C,
+Shahin H; Consortium on the Genetics of Schizophrenia (COGS); PAARTNERS Study
+Group; Nimgaonkar VL, Go RC, Savage RM, Swerdlow NR, Gur RE, Braff DL, King MC,
+McClellan JM. Spatial and temporal mapping of de novo mutations in schizophrenia
+to a fetal prefrontal cortical network. Cell. 2013 Aug 1;154(3):518-29. doi:
+10.1016/j.cell.2013.06.049.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kavanagh DH, Tansey KE, O'Donovan MC, Owen MJ. Schizophrenia genetics:
+emerging themes for a complex disorder. Mol Psychiatry. 2015 Feb;20(1):72-6. doi:
+10.1038/mp.2014.148. Epub 2014 Nov 11.
+Citation on PubMed
+Purcell SM, Moran JL, Fromer M, Ruderfer D, Solovieff N, Roussos P,
+O'Dushlaine C, Chambert K, Bergen SE, Kahler A, Duncan L, Stahl E, Genovese G,
+Fernandez E, Collins MO, Komiyama NH, Choudhary JS, Magnusson PK, Banks E, Shakir
+K, Garimella K, Fennell T, DePristo M, Grant SG, Haggarty SJ, Gabriel S, Scolnick
+EM, Lander ES, Hultman CM, Sullivan PF, McCarroll SA, Sklar P. A polygenic burden
+of rare disruptive mutations in schizophrenia. Nature. 2014 Feb
+13;506(7487):185-90. doi: 10.1038/nature12975. Epub 2014 Jan 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schizophrenia Working Group of the Psychiatric Genomics Consortium. Biological
+insights from 108 schizophrenia-associated genetic loci. Nature. 2014 Jul
+24;511(7510):421-7. doi: 10.1038/nature13595. Epub 2014 Jul 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sekar A, Bialas AR, de Rivera H, Davis A, Hammond TR, Kamitaki N, Tooley K,
+Presumey J, Baum M, Van Doren V, Genovese G, Rose SA, Handsaker RE; Schizophrenia
+Working Group of the Psychiatric Genomics Consortium; Daly MJ, Carroll MC,
+Stevens B, McCarroll SA. Schizophrenia risk from complex variation of complement
+component 4. Nature. 2016 Feb 11;530(7589):177-83. doi: 10.1038/nature16549. Epub
+2016 Jan 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sullivan PF, Daly MJ, O'Donovan M. Genetic architectures of psychiatric
+disorders: the emerging picture and its implications. Nat Rev Genet. 2012 Jul
+10;13(8):537-51. doi: 10.1038/nrg3240.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Schizophrenia
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hallucinations
+Mental status testing
+Schizoaffective disorder
+Schizophrenia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,149 @@
+Refsum disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Refsum disease
+URL of this page: https://medlineplus.gov/genetics/condition/refsum-disease/
+Refsum disease
+Description
+Refsum disease is an inherited condition that causes vision loss, absence of
+the sense of smell
+(anosmia), and a variety of other signs and symptoms.
+The vision loss associated with Refsum disease is caused by an eye disorder called
+retinitis pigmentosa
+. This disorder affects
+the retina
+, the light-sensitive layer at the back of the eye. Vision loss occurs as the light-sensing cells of the retina gradually deteriorate. The first sign of retinitis pigmentosa is usually a loss of night vision, which often becomes apparent in childhood. Over a period of years, the disease disrupts side (peripheral) vision and may eventually lead to blindness.
+Vision loss and anosmia are seen in almost everyone with Refsum disease, but other signs and symptoms vary. About one-third of affected individuals are born with bone abnormalities of the hands and feet. Features that appear later in life can include progressive muscle weakness and wasting; poor balance and coordination (ataxia); hearing loss; and dry, scaly skin (ichthyosis). Additionally, some people with Refsum disease develop an abnormal heart rhythm (arrhythmia) and related heart problems that can be life-threatening.
+Frequency
+The prevalence of Refsum disease is unknown, although the condition is thought to be uncommon.
+Causes
+More than 90 percent of all cases of Refsum disease result from mutations in the
+PHYH
+gene. The remaining cases are caused by mutations in a gene called
+PEX7
+.
+The signs and symptoms of Refsum disease result from the abnormal buildup of a type of fatty acid called phytanic acid. This substance is obtained from the diet, particularly from beef and dairy products. It is normally broken down through a process called alpha-oxidation, which occurs in cell structures called
+peroxisomes
+. These sac-like compartments contain enzymes that process many different substances, such as fatty acids and certain toxic compounds.
+Mutations in either the
+PHYH
+or
+PEX7
+gene disrupt the usual functions of peroxisomes, including the breakdown of phytanic acid. As a result, this substance builds up in the body's tissues. The accumulation of phytanic acid is toxic to cells, although it is unclear how an excess of this substance affects
+vision
+and
+smell
+and causes the other specific features of Refsum disease.
+Learn more about the genes associated with Refsum disease
+PEX7
+PHYH
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Adult Refsum disease
+ARD
+Classic Refsum disease
+CRD
+Hereditary motor and sensory neuropathy type IV
+Heredopathia atactica polyneuritiformis
+HMSN IV
+HMSN type IV
+Phytanic acid storage disease
+Refsum syndrome
+Refsum's disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Phytanic acid storage disease
+Genetic and Rare Diseases Information Center
+Retinitis pigmentosa
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+REFSUM DISEASE, CLASSIC
+Scientific Articles on PubMed
+PubMed
+References
+Jansen GA, Waterham HR, Wanders RJ. Molecular basis of Refsum disease:
+sequence variations in phytanoyl-CoA hydroxylase (PHYH) and the PTS2 receptor
+(PEX7). Hum Mutat. 2004 Mar;23(3):209-18. doi: 10.1002/humu.10315.
+Citation on PubMed
+Ruether K, Baldwin E, Casteels M, Feher MD, Horn M, Kuranoff S, Leroy BP,
+Wanders RJ, Wierzbicki AS. Adult Refsum disease: a form of tapetoretinal
+dystrophy accessible to therapy. Surv Ophthalmol. 2010 Nov-Dec;55(6):531-8. doi:
+10.1016/j.survophthal.2010.03.007. Epub 2010 Sep 20.
+Citation on PubMed
+Van den Brink DM, Brites P, Haasjes J, Wierzbicki AS, Mitchell J,
+Lambert-Hamill M, de Belleroche J, Jansen GA, Waterham HR, Wanders RJ.
+Identification of PEX7 as the second gene involved in Refsum disease. Adv Exp Med
+Biol. 2003;544:69-70. doi: 10.1007/978-1-4419-9072-3_9. No abstract available.
+Citation on PubMed
+van den Brink DM, Wanders RJ. Phytanic acid: production from phytol, its
+breakdown and role in human disease. Cell Mol Life Sci. 2006 Aug;63(15):1752-65.
+doi: 10.1007/s00018-005-5463-y.
+Citation on PubMed
+Wanders RJ, Jansen GA, Skjeldal OH. Refsum disease, peroxisomes and phytanic
+acid oxidation: a review. J Neuropathol Exp Neurol. 2001 Nov;60(11):1021-31. doi:
+10.1093/jnen/60.11.1021.
+Citation on PubMed
+Wanders RJ, Komen JC. Peroxisomes, Refsum's disease and the alpha- and
+omega-oxidation of phytanic acid. Biochem Soc Trans. 2007 Nov;35(Pt 5):865-9.
+doi: 10.1042/BST0350865.
+Citation on PubMed
+Waterham HR, Wanders RJA, Leroy BP. Adult Refsum Disease. 2006 Mar 20 [updated
+2021 Sep 30]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1353/
+Citation on PubMed
+Wierzbicki AS, Lloyd MD, Schofield CJ, Feher MD, Gibberd FB. Refsum's disease:
+a peroxisomal disorder affecting phytanic acid alpha-oxidation. J Neurochem. 2002
+Mar;80(5):727-35. doi: 10.1046/j.0022-3042.2002.00766.x.
+Citation on PubMed
+Wierzbicki AS. Peroxisomal disorders affecting phytanic acid alpha-oxidation:
+a review. Biochem Soc Trans. 2007 Nov;35(Pt 5):881-6. doi: 10.1042/BST0350881.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Peripheral Nerve Disorders
+Retinal Disorders
+Taste and Smell Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Retinitis pigmentosa
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

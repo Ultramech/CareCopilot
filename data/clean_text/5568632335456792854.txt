@@ -1,0 +1,130 @@
+3-hydroxy-3-methylglutaryl-CoA lyase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+3-hydroxy-3-methylglutaryl-CoA lyase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/3-hydroxy-3-methylglutaryl-coa-lyase-deficiency/
+3-hydroxy-3-methylglutaryl-CoA lyase deficiency
+Description
+3-hydroxy-3-methylglutaryl-CoA lyase deficiency (also known as HMG-CoA lyase deficiency) is an uncommon inherited disorder in which the body cannot process a particular protein building block (
+amino acid
+) called leucine. Additionally, the disorder prevents the body from making ketones, which are compounds that are used for energy during periods without food (fasting).
+The signs and symptoms of HMG-CoA lyase deficiency usually appear within the first year of life. The condition causes episodes of vomiting, diarrhea, dehydration, extreme tiredness (lethargy), and weak muscle tone (hypotonia). During an episode, blood sugar (glucose) levels can become dangerously low (hypoglycemia), and a buildup of harmful compounds can cause the blood to become too acidic (metabolic acidosis). If untreated, the disorder can lead to breathing problems, convulsions, coma, and death. Episodes are often triggered by an infection, fasting, strenuous exercise, or other types of stress.
+HMG-CoA lyase deficiency is sometimes mistaken for Reye syndrome, a severe disorder that develops in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.
+Frequency
+HMG-CoA lyase deficiency is a rare condition; it has been reported in fewer than 100 individuals worldwide. Most people diagnosed with this disorder have been from Saudi Arabia, Portugal, or Spain.
+Causes
+Mutations in the
+HMGCL
+gene cause HMG-CoA lyase deficiency. The
+HMGCL
+gene provides instructions for making an enzyme known as 3-hydroxymethyl-3-methylglutaryl-coenzyme A lyase (HMG-CoA lyase). This enzyme plays a critical role in breaking down dietary proteins and fats for energy. Specifically, it is responsible for processing leucine, an amino acid that is part of many proteins. HMG-CoA lyase also produces ketones during the breakdown of fats. Ketones are compounds that certain organs and tissues, particularly the brain, use for energy when the simple sugar glucose is not available. For example, ketones are important sources of energy during periods of fasting.
+If a mutation in the
+HMGCL
+gene reduces or eliminates the activity of HMG-CoA lyase, the body is unable to process leucine or make ketones properly. When leucine is not processed normally, a buildup of chemical byproducts called organic acids can result in metabolic acidosis. A shortage of ketones often leads to hypoglycemia. Metabolic acidosis and hypoglycemia can damage cells, particularly in the brain, resulting in serious illness in children with HMG-CoA lyase deficiency.
+Learn more about the gene associated with 3-hydroxy-3-methylglutaryl-CoA lyase deficiency
+HMGCL
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+3-hydroxy-3-methylglutaryl-coenzyme A lyase deficiency
+3-OH 3-CH3 glutaric aciduria
+3-OH 3-methyl glutaric aciduria
+3HMG
+Deficiency of hydroxymethylglutaryl-CoA lyase
+HMG
+HMG-CoA lyase deficiency
+Hydroxymethylglutaric aciduria
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deficiency of hydroxymethylglutaryl-CoA lyase
+Genetic and Rare Diseases Information Center
+3-hydroxy-3-methylglutaric aciduria
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+3-HYDROXY-3-METHYLGLUTARYL-CoA LYASE DEFICIENCY; HMGCLD
+Scientific Articles on PubMed
+PubMed
+References
+Bischof F, Nagele T, Wanders RJ, Trefz FK, Melms A.
+3-hydroxy-3-methylglutaryl-CoA lyase deficiency in an adult with
+leukoencephalopathy. Ann Neurol. 2004 Nov;56(5):727-30. doi: 10.1002/ana.20280.
+Citation on PubMed
+Casals N, Gomez-Puertas P, Pie J, Mir C, Roca R, Puisac B, Aledo R, Clotet J,
+Menao S, Serra D, Asins G, Till J, Elias-Jones AC, Cresto JC, Chamoles NA,
+Abdenur JE, Mayatepek E, Besley G, Valencia A, Hegardt FG. Structural
+(betaalpha)8 TIM barrel model of 3-hydroxy-3-methylglutaryl-coenzyme A lyase. J
+Biol Chem. 2003 Aug 1;278(31):29016-23. doi: 10.1074/jbc.M304276200. Epub 2003
+May 13.
+Citation on PubMed
+Gibson KM, Breuer J, Nyhan WL. 3-Hydroxy-3-methylglutaryl-coenzyme A lyase
+deficiency: review of 18 reported patients. Eur J Pediatr. 1988 Dec;148(3):180-6.
+doi: 10.1007/BF00441397.
+Citation on PubMed
+Mitchell GA, Ozand PT, Robert MF, Ashmarina L, Roberts J, Gibson KM, Wanders
+RJ, Wang S, Chevalier I, Plochl E, Miziorko H. HMG CoA lyase deficiency:
+identification of five causal point mutations in codons 41 and 42, including a
+frequent Saudi Arabian mutation, R41Q. Am J Hum Genet. 1998 Feb;62(2):295-300.
+doi: 10.1086/301730.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pie J, Casals N, Puisac B, Hegardt FG. Molecular basis of
+3-hydroxy-3-methylglutaric aciduria. J Physiol Biochem. 2003 Dec;59(4):311-21.
+doi: 10.1007/BF03179889.
+Citation on PubMed
+Pie J, Lopez-Vinas E, Puisac B, Menao S, Pie A, Casale C, Ramos FJ, Hegardt
+FG, Gomez-Puertas P, Casals N. Molecular genetics of HMG-CoA lyase deficiency.
+Mol Genet Metab. 2007 Nov;92(3):198-209. doi: 10.1016/j.ymgme.2007.06.020. Epub
+2007 Aug 9.
+Citation on PubMed
+Yalcinkaya C, Dincer A, Gunduz E, Ficicioglu C, Kocer N, Aydin A. MRI and MRS
+in HMG-CoA lyase deficiency. Pediatr Neurol. 1999 May;20(5):375-80. doi:
+10.1016/s0887-8994(99)00013-2.
+Citation on PubMed
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Ketones in Blood
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

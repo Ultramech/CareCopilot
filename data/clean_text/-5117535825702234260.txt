@@ -1,0 +1,110 @@
+Peeling skin syndrome 2: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Peeling skin syndrome 2
+URL of this page: https://medlineplus.gov/genetics/condition/peeling-skin-syndrome-2/
+Peeling skin syndrome 2
+Description
+Peeling skin syndrome 2 is a skin disorder characterized by painless peeling of the top layer of skin. In this form of peeling skin syndrome, the peeling is most apparent on the hands and feet. Occasionally, peeling also occurs on the arms and legs. The peeling usually starts soon after birth, although the condition can also begin in childhood or later in life.
+Skin peeling is made worse by exposure to heat, humidity and other forms of moisture, and friction. The underlying skin may be temporarily red and itchy, but it typically heals without scarring. Peeling skin syndrome 2 is not associated with any other health problems.
+Frequency
+Peeling skin syndrome 2 is a rare condition, with a few dozen cases reported in the medical literature. However, because its signs and symptoms tend to be mild and similar to those of other skin disorders, the condition is likely underdiagnosed.
+Causes
+Peeling skin syndrome 2 is caused by variants (also called mutations) in the
+TGM5
+gene. This gene provides instructions for making an enzyme called transglutaminase 5, which is part of the outer layer of
+skin
+(the epidermis). Transglutaminase 5 plays a critical role in the formation of a structure called the cornified cell envelope, which surrounds epidermal cells and helps the skin form a protective barrier between the body and its environment.
+TGM5
+gene variants reduce the activity of transglutaminase 5 or prevent cells from making any of this enzyme. A shortage of transglutaminase 5 weakens the cornified cell envelope, which allows the outermost cells of the epidermis to separate easily from the underlying skin and peel off. The peeling may be most noticeable on the hands and feet because those areas are more often exposed to moisture and friction.
+Learn more about the gene associated with Peeling skin syndrome 2
+TGM5
+Inheritance
+Peeling skin syndrome 2 is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Acral peeling skin syndrome
+APSS
+Peeling skin syndrome, acral type
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Acral peeling skin syndrome
+Genetic and Rare Diseases Information Center
+Acral peeling skin syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PEELING SKIN SYNDROME 2; PSS2
+Scientific Articles on PubMed
+PubMed
+References
+Cassidy AJ, van Steensel MA, Steijlen PM, van Geel M, van der Velden J, Morley
+SM, Terrinoni A, Melino G, Candi E, McLean WH. A homozygous missense mutation in
+TGM5 abolishes epidermal transglutaminase 5 activity and causes acral peeling
+skin syndrome. Am J Hum Genet. 2005 Dec;77(6):909-17. doi: 10.1086/497707. Epub
+2005 Oct 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kiritsi D, Cosgarea I, Franzke CW, Schumann H, Oji V, Kohlhase J,
+Bruckner-Tuderman L, Has C. Acral peeling skin syndrome with TGM5 gene mutations
+may resemble epidermolysis bullosa simplex in young individuals. J Invest
+Dermatol. 2010 Jun;130(6):1741-6. doi: 10.1038/jid.2010.23. Epub 2010 Feb 18. No
+abstract available.
+Citation on PubMed
+Pavlovic S, Krunic AL, Bulj TK, Medenica MM, Fong K, Arita K, McGrath JA.
+Acral peeling skin syndrome: a clinically and genetically heterogeneous disorder.
+Pediatr Dermatol. 2012 May-Jun;29(3):258-63. doi:
+10.1111/j.1525-1470.2011.01563.x. Epub 2011 Nov 8.
+Citation on PubMed
+Pigors M, Kiritsi D, Cobzaru C, Schwieger-Briel A, Suarez J, Faletra F, Aho H,
+Makela L, Kern JS, Bruckner-Tuderman L, Has C. TGM5 mutations impact epidermal
+differentiation in acral peeling skin syndrome. J Invest Dermatol. 2012
+Oct;132(10):2422-2429. doi: 10.1038/jid.2012.166. Epub 2012 May 24.
+Citation on PubMed
+Szczecinska W, Nesteruk D, Wertheim-Tysarowska K, Greenblatt DT, Baty D,
+Browne F, Liu L, Ozoemena L, Terron-Kwiatkowski A, McGrath JA, Mellerio JE,
+Morton J, Wozniak K, Kowalewski C, Has C, Moss C. Under-recognition of acral
+peeling skin syndrome: 59 new cases with 15 novel mutations. Br J Dermatol. 2014
+Nov;171(5):1206-10. doi: 10.1111/bjd.12964. Epub 2014 Oct 20.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

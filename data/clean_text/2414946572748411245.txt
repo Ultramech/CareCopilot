@@ -1,0 +1,102 @@
+Juvenile primary osteoporosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Juvenile primary osteoporosis
+URL of this page: https://medlineplus.gov/genetics/condition/juvenile-primary-osteoporosis/
+Juvenile primary osteoporosis
+Description
+Juvenile primary osteoporosis is a skeletal disorder characterized by thinning of the bones (osteoporosis) that begins in childhood. Osteoporosis is caused by a shortage of calcium and other minerals in bones (decreased bone mineral density), which makes the bones brittle and prone to fracture. Affected individuals often have multiple fractures in the long bones of the arms and legs, especially in the regions where new bone forms (metaphyses). They also have fractures in the bones that form the spine (vertebrae), which can cause collapse of the affected vertebrae (compressed vertebrae). Multiple fractures can cause bone pain and lead to movement problems.
+Frequency
+The prevalence of juvenile primary osteoporosis is unknown. Nearly 1 in 10 adults over age 50 have osteoporosis, but the condition is uncommon in children. Osteoporosis can occur at a young age as a feature of other conditions but rarely occurs without other signs and symptoms (primary osteoporosis).
+Causes
+Mutations in the
+LRP5
+gene can cause juvenile primary osteoporosis. This gene provides instructions for making a protein that participates in a chemical signaling pathway that affects the way cells and tissues develop. In particular, the LRP5 protein is involved in the regulation of bone mineral density.
+LRP5
+gene mutations that cause juvenile primary osteoporosis result in an LRP5 protein that cannot transmit signals along the pathway. The resulting reduction in signaling impairs proper bone development, causing decreased bone mineral density and osteoporosis at a young age.
+Many people with childhood-onset osteoporosis do not have a mutation in the
+LRP5
+gene. (When its cause is unknown, the condition is often called idiopathic juvenile osteoporosis). It is likely that mutations in other genes that have not been identified are involved in this condition.
+Learn more about the gene associated with Juvenile primary osteoporosis
+LRP5
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Childhood-onset primary osteoporosis
+Idiopathic juvenile osteoporosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Bone mineral density quantitative trait locus 1
+Genetic and Rare Diseases Information Center
+Idiopathic juvenile osteoporosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Scientific Articles on PubMed
+PubMed
+References
+Hartikka H, Makitie O, Mannikko M, Doria AS, Daneman A, Cole WG, Ala-Kokko L,
+Sochett EB. Heterozygous mutations in the LDL receptor-related protein 5 (LRP5)
+gene are associated with primary osteoporosis in children. J Bone Miner Res. 2005
+May;20(5):783-9. doi: 10.1359/JBMR.050101. Epub 2005 Jan 4.
+Citation on PubMed
+Korvala J, Juppner H, Makitie O, Sochett E, Schnabel D, Mora S, Bartels CF,
+Warman ML, Deraska D, Cole WG, Hartikka H, Ala-Kokko L, Mannikko M. Mutations in
+LRP5 cause primary osteoporosis without features of OI by reducing Wnt signaling
+activity. BMC Med Genet. 2012 Apr 10;13:26. doi: 10.1186/1471-2350-13-26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rauch F, Travers R, Norman ME, Taylor A, Parfitt AM, Glorieux FH. The bone
+formation defect in idiopathic juvenile osteoporosis is surface-specific. Bone.
+2002 Jul;31(1):85-9. doi: 10.1016/s8756-3282(02)00814-1.
+Citation on PubMed
+Zhang C, Liu Z, Klein GL. Overview of pediatric bone problems and related
+osteoporosis. J Musculoskelet Neuronal Interact. 2012 Sep;12(3):174-82.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Density
+Bone Diseases
+Genetic Disorders
+Osteoporosis
+MEDICAL ENCYCLOPEDIA
+Bone mineral density test
+Compression fractures of the back
+Genetics
+Related Medical Tests
+Calcium Blood Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

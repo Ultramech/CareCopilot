@@ -1,0 +1,171 @@
+Progressive familial heart block: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Progressive familial heart block
+URL of this page: https://medlineplus.gov/genetics/condition/progressive-familial-heart-block/
+Progressive familial heart block
+Description
+Progressive familial heart block is a genetic condition that alters the normal beating of the heart. A normal heartbeat is controlled by electrical signals that move through the heart in a highly coordinated way. These signals begin in a specialized cluster of cells called the sinoatrial node (the heart's natural pacemaker) located in the heart's upper chambers (the atria). From there, a group of cells called the atrioventricular node carries the electrical signals to another cluster of cells called the bundle of His. This bundle separates into multiple thin spindles called bundle branches, which carry electrical signals into the heart's lower chambers (the ventricles). Electrical impulses move from the sinoatrial node down to the bundle branches, stimulating a normal heartbeat in which the ventricles contract slightly later than the atria.
+Heart block occurs when the electrical signaling is obstructed anywhere from the atria to the ventricles. In people with progressive familial heart block, the condition worsens over time: early in the disorder, the electrical signals are partially blocked, but the block eventually becomes complete, preventing any signals from passing through the heart. Partial heart block causes a slow or irregular heartbeat (bradycardia or arrhythmia, respectively), and can lead to the buildup of scar tissue (fibrosis) in the cells that carry electrical impulses. Fibrosis contributes to the development of complete heart block, resulting in uncoordinated electrical signaling between the atria and the ventricles and inefficient pumping of blood in the heart. Complete heart block can cause a sensation of fluttering or pounding in the chest (palpitations), shortness of breath, fainting (syncope), or sudden cardiac arrest and death.
+Progressive familial heart block can be divided into type I and type II, with type I being further divided into types IA and IB. These types differ in where in the heart signaling is interrupted and the genetic cause. In types IA and IB, the heart block originates in the bundle branch, and in type II, the heart block originates in the atrioventricular node. The different types of progressive familial heart block have similar signs and symptoms.
+Most cases of heart block are not genetic and are not considered progressive familial heart block. The most common cause of heart block is fibrosis of the heart, which occurs as a normal process of aging. Other causes of heart block can include the use of certain medications or an infection of the heart tissue.
+Frequency
+The prevalence of progressive familial heart block is unknown. In the United States, about 1 in 5,000 individuals have complete heart block from any cause; worldwide, about 1 in 2,500 individuals have complete heart block.
+Causes
+Mutations in the
+SCN5A
+and
+TRPM4
+genes cause most cases of progressive familial heart block types IA and IB, respectively. The proteins produced from these genes are
+channels
+that allow positively charged atoms (cations) into and out of cells. Both channels are abundant in heart (cardiac) cells and play key roles in these cells' ability to generate and transmit electrical signals. These channels play a major role in signaling the start of each heartbeat, coordinating the contractions of the atria and ventricles, and maintaining a
+normal heart rhythm
+.
+The
+SCN5A
+and
+TRPM4
+gene mutations that cause progressive familial heart block alter the normal function of the channels. As a result of these channel alterations, cardiac cells have difficulty producing and transmitting the electrical signals that are necessary to coordinate normal heartbeats, leading to heart block. Death of these impaired cardiac cells over time can lead to fibrosis, worsening the heart block.
+Mutations in other genes, some of which are unknown, account for the remaining cases of progressive familial heart block.
+Learn more about the genes associated with Progressive familial heart block
+SCN5A
+TRPM4
+Additional Information from NCBI Gene:
+GJA5
+SCN1B
+Inheritance
+Progressive familial heart block types I and II are inherited in an
+autosomal dominant pattern
+, which means one copy of an altered gene in each cell is sufficient to cause the disorder. Some people with
+TRPM4
+gene mutations never develop the condition, a situation known as reduced penetrance.
+In most cases, an affected person has one parent with progressive familial heart block.
+Other Names for This Condition
+Bundle branch block
+HBBD
+Hereditary bundle branch defect
+Hereditary bundle branch system defect
+Lenegre Lev disease
+Lev syndrome
+Lev's disease
+Lev-Lenègre disease
+PCCD
+Progressive cardiac conduction defect
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Progressive familial heart block type IB
+Genetic Testing Registry: Progressive familial heart block, type 1A
+Genetic and Rare Diseases Information Center
+Familial progressive cardiac conduction defect
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PROGRESSIVE FAMILIAL HEART BLOCK, TYPE IA; PFHB1A
+PROGRESSIVE FAMILIAL HEART BLOCK, TYPE II; PFHB2
+PROGRESSIVE FAMILIAL HEART BLOCK, TYPE IB; PFHB1B
+Scientific Articles on PubMed
+PubMed
+References
+Barra SN, Providencia R, Paiva L, Nascimento J, Marques AL. A review on
+advanced atrioventricular block in young or middle-aged adults. Pacing Clin
+Electrophysiol. 2012 Nov;35(11):1395-405. doi: 10.1111/j.1540-8159.2012.03489.x.
+Epub 2012 Aug 16.
+Citation on PubMed
+Fernandez P, Corfield VA, Brink PA. Progressive familial heart block type II
+(PFHBII): a clinical profile from 1977 to 2003. Cardiovasc J S Afr. 2004
+May-Jun;15(3):129-32.
+Citation on PubMed
+Fernandez P, Moolman-Smook J, Brink P, Corfield V. A gene locus for
+progressive familial heart block type II (PFHBII) maps to chromosome
+1q32.2-q32.3. Hum Genet. 2005 Oct;118(1):133-7. doi: 10.1007/s00439-005-0029-5.
+Epub 2005 Oct 28.
+Citation on PubMed
+Kruse M, Schulze-Bahr E, Corfield V, Beckmann A, Stallmeyer B, Kurtbay G,
+Ohmert I, Schulze-Bahr E, Brink P, Pongs O. Impaired endocytosis of the ion
+channel TRPM4 is associated with human progressive familial heart block type I. J
+Clin Invest. 2009 Sep;119(9):2737-44. doi: 10.1172/JCI38292. Epub 2009 Aug 24.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lee CK, Shin DH, Jang JK, Jang KH, Kim EK, Cheong SS, Yoo SY. Progressive
+familial heart block type I in a korean patient. Korean Circ J. 2011
+May;41(5):276-9. doi: 10.4070/kcj.2011.41.5.276. Epub 2011 May 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Makita N, Seki A, Sumitomo N, Chkourko H, Fukuhara S, Watanabe H, Shimizu W,
+Bezzina CR, Hasdemir C, Mugishima H, Makiyama T, Baruteau A, Baron E, Horie M,
+Hagiwara N, Wilde AA, Probst V, Le Marec H, Roden DM, Mochizuki N, Schott JJ,
+Delmar M. A connexin40 mutation associated with a malignant variant of
+progressive familial heart block type I. Circ Arrhythm Electrophysiol. 2012
+Feb;5(1):163-72. doi: 10.1161/CIRCEP.111.967604. Epub 2012 Jan 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Probst V, Allouis M, Sacher F, Pattier S, Babuty D, Mabo P, Mansourati J,
+Victor J, Nguyen JM, Schott JJ, Boisseau P, Escande D, Le Marec H. Progressive
+cardiac conduction defect is the prevailing phenotype in carriers of a Brugada
+syndrome SCN5A mutation. J Cardiovasc Electrophysiol. 2006 Mar;17(3):270-5. doi:
+10.1111/j.1540-8167.2006.00349.x.
+Citation on PubMed
+Schott JJ, Alshinawi C, Kyndt F, Probst V, Hoorntje TM, Hulsbeek M, Wilde AA,
+Escande D, Mannens MM, Le Marec H. Cardiac conduction defects associate with
+mutations in SCN5A. Nat Genet. 1999 Sep;23(1):20-1. doi: 10.1038/12618. No
+abstract available.
+Citation on PubMed
+Van der Merwe PL, Weymar HW, Torrington M, Brink AJ. Progressive familial
+heart block (type I). A follow-up study after 10 years. S Afr Med J. 1988 Mar
+5;73(5):275-6.
+Citation on PubMed
+Watanabe H, Koopmann TT, Le Scouarnec S, Yang T, Ingram CR, Schott JJ,
+Demolombe S, Probst V, Anselme F, Escande D, Wiesfeld AC, Pfeufer A, Kaab S,
+Wichmann HE, Hasdemir C, Aizawa Y, Wilde AA, Roden DM, Bezzina CR. Sodium channel
+beta1 subunit mutations associated with Brugada syndrome and cardiac conduction
+disease in humans. J Clin Invest. 2008 Jun;118(6):2260-8. doi: 10.1172/JCI33891.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Arrhythmia
+Fainting
+Genetic Disorders
+Pacemakers and Implantable Defibrillators
+Sudden Cardiac Arrest
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

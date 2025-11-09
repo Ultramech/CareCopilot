@@ -1,0 +1,139 @@
+X-linked spondyloepiphyseal dysplasia tarda: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+X-linked spondyloepiphyseal dysplasia tarda
+URL of this page: https://medlineplus.gov/genetics/condition/x-linked-spondyloepiphyseal-dysplasia-tarda/
+X-linked spondyloepiphyseal dysplasia tarda
+Description
+X-linked spondyloepiphyseal dysplasia tarda is a condition that impairs bone growth and occurs almost exclusively in males. The name of the condition indicates that it affects
+the bones of the spine
+(spondylo-) and the ends of long bones (epiphyses) in the arms and legs. "Tarda" indicates that signs and symptoms of this condition are not present at birth, but appear later in childhood, typically between ages 6 and 10.
+Males with X-linked spondyloepiphyseal dysplasia tarda have skeletal abnormalities and short stature. Affected boys grow steadily until late childhood, when their growth slows. Their adult height ranges from 4 feet 6 inches (137 cm) to 5 feet 4 inches (163 cm). Impaired growth of the spinal bones (vertebrae) primarily causes the short stature. Spinal abnormalities include flattened vertebrae (platyspondyly) with hump-shaped bulges, progressive thinning of the discs between vertebrae, and an abnormal curvature of the spine (
+scoliosis or kyphosis
+). These spinal problems also cause back pain in people with this condition. Individuals with X-linked spondyloepiphyseal dysplasia tarda have a short torso and neck, and their arms are disproportionately long compared to their height.
+Other skeletal features of X-linked spondyloepiphyseal dysplasia tarda include an abnormality of the hip joint that causes the upper leg bones to turn inward (coxa vara); multiple abnormalities of the epiphyses, including a short upper end of the thigh bone (femoral neck); and a broad, barrel-shaped chest. A painful joint condition called
+osteoarthritis
+that typically occurs in older adults often develops in early adulthood in people with X-linked spondyloepiphyseal dysplasia tarda and worsens over time, most often affecting the hips, knees, and shoulders.
+Frequency
+The prevalence of X-linked spondyloepiphyseal dysplasia tarda is estimated to be 1 in 150,000 to 200,000 people worldwide.
+Causes
+Mutations in the
+TRAPPC2
+gene cause X-linked spondyloepiphyseal dysplasia tarda. The
+TRAPPC2
+gene provides instructions for producing the protein sedlin. Sedlin is part of a large group of proteins called the trafficking protein particle (TRAPP) complex, which plays a role in the transport of proteins between various cell compartments (organelles). Research shows that sedlin is required for transporting large proteins out of the endoplasmic reticulum, which is an organelle that is involved in protein processing and transport. For example, sedlin is needed to move large molecules called procollagens out of the
+endoplasmic reticulum
+so they can be processed by enzymes to create smaller mature collagen proteins, which strengthen and support
+connective tissues
+, such as skin, bone, cartilage, tendons, and ligaments.
+Almost all
+TRAPPC2
+gene mutations that cause X-linked spondyloepiphyseal dysplasia tarda result in a nonfunctional sedlin protein. As a result, large proteins, including procollagen, cannot be transported out of the endoplasmic reticulum. A lack of procollagen transport results in a decrease in mature collagen in cells and impairs the development of bones, cartilage, and other connective tissues. It is likely that this disruption in bone development leads to many of the signs and symptoms of X-linked spondyloepiphyseal dysplasia tarda, although it is unclear why the skeletal problems do not appear until later in childhood.
+In about 10 percent of affected males, an identified mutation in the
+TRAPPC2
+gene is not found. The cause of the condition in these individuals is unknown.
+Learn more about the gene associated with X-linked spondyloepiphyseal dysplasia tarda
+TRAPPC2
+Inheritance
+X-linked spondyloepiphyseal dysplasia tarda is inherited in an
+X-linked recessive pattern
+. The
+TRAPPC2
+gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In X-linked recessive inheritance, a female with one mutated copy of the gene in each cell is called a carrier. She can pass on the altered gene, but usually does not experience signs and symptoms of the disorder. In rare cases, however, females who carry a
+TRAPPC2
+gene mutation may develop osteoarthritis in early adulthood.
+Other Names for This Condition
+Late onset spondyloepiphyseal dysplasia
+SED tarda
+X-linked SED
+X-linked SEDT
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Spondyloepiphyseal dysplasia tarda, X-linked
+Genetic and Rare Diseases Information Center
+Spondyloepiphyseal dysplasia tarda, x-linked
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SPONDYLOEPIPHYSEAL DYSPLASIA TARDA, X-LINKED; SEDT
+Scientific Articles on PubMed
+PubMed
+References
+Fiedler J, Le Merrer M, Mortier G, Heuertz S, Faivre L, Brenner RE. X-linked
+spondyloepiphyseal dysplasia tarda: Novel and recurrent mutations in 13 European
+families. Hum Mutat. 2004 Jul;24(1):103. doi: 10.1002/humu.9254.
+Citation on PubMed
+Gedeon AK, Tiller GE, Le Merrer M, Heuertz S, Tranebjaerg L, Chitayat D,
+Robertson S, Glass IA, Savarirayan R, Cole WG, Rimoin DL, Kousseff BG, Ohashi H,
+Zabel B, Munnich A, Gecz J, Mulley JC. The molecular basis of X-linked
+spondyloepiphyseal dysplasia tarda. Am J Hum Genet. 2001 Jun;68(6):1386-97. doi:
+10.1086/320592. Epub 2001 May 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ryu H, Park J, Chae H, Kim M, Kim Y, Ok IY. X-linked spondyloepiphyseal
+dysplasia tarda: Identification of a TRAPPC2 mutation in a Korean pedigree. Ann
+Lab Med. 2012 May;32(3):234-7. doi: 10.3343/alm.2012.32.3.234. Epub 2012 Apr 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Savarirayan R, Thompson E, Gecz J. Spondyloepiphyseal dysplasia tarda (SEDL,
+MIM #313400). Eur J Hum Genet. 2003 Sep;11(9):639-42. doi:
+10.1038/sj.ejhg.5201025.
+Citation on PubMed
+Venditti R, Scanu T, Santoro M, Di Tullio G, Spaar A, Gaibisso R, Beznoussenko
+GV, Mironov AA, Mironov A Jr, Zelante L, Piemontese MR, Notarangelo A, Malhotra
+V, Vertel BM, Wilson C, De Matteis MA. Sedlin controls the ER export of
+procollagen by regulating the Sar1 cycle. Science. 2012 Sep 28;337(6102):1668-72.
+doi: 10.1126/science.1224947.
+Citation on PubMed
+or
+Free article on PubMed Central
+Xia XY, Cui YX, Zhou YC, Zhou X, Shi YC, Wei L, Li XJ, Huang YF, Huang TT. A
+novel insertion mutation in the SEDL gene results in X-linked spondyloepiphyseal
+dysplasia tarda in a large Chinese pedigree. Clin Chim Acta. 2009
+Dec;410(1-2):39-42. doi: 10.1016/j.cca.2009.09.016. Epub 2009 Sep 19.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+Growth Disorders
+Osteoarthritis
+Scoliosis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,143 @@
+Brain-lung-thyroid syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Brain-lung-thyroid syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/brain-lung-thyroid-syndrome/
+Brain-lung-thyroid syndrome
+Description
+Brain-lung-thyroid syndrome is a group of conditions that affect the brain, lungs, and
+thyroid gland
+(a butterfly-shaped gland in the lower neck). Brain-lung-thyroid syndrome historically included problems with all three organs, although the designation now encompasses a combination of brain, lung, and thyroid problems. About 50 percent of affected individuals have problems with all three organs, about 30 percent have brain and thyroid problems, and about 10 percent have brain and lung problems. The brain alone is affected in 10 to 20 percent of people with the condition. Such cases are sometimes called isolated benign hereditary chorea.
+Nearly everyone with brain-lung-thyroid syndrome has brain-related movement abnormalities. Benign hereditary chorea is the most common feature of the syndrome. This feature is associated with involuntary jerking movements (chorea) of the face, torso, and limbs; writhing movements (athetosis) of the limbs; and other movement problems. Individuals with brain-lung-thyroid syndrome can have other abnormalities, such as difficulty coordinating movements (ataxia), muscle twitches (myoclonus), and involuntary muscle contractions that result in twisting and repetitive movements (dystonia). The movement problems typically begin around age 1, although they can begin in early infancy or later in life, and are often preceded by weak muscle tone (hypotonia). They can delay the development of walking. The movement problems usually remain stable and can improve over time. Some affected individuals also have learning difficulties or intellectual disability.
+Thyroid problems are the next most common feature of brain-lung-thyroid syndrome. The thyroid gland makes hormones that help regulate a wide variety of critical body functions, including growth, brain development, and the rate of chemical reactions in the body (metabolism). Many affected individuals have reduced thyroid function from birth (
+congenital hypothyroidism
+), resulting in lower-than-normal levels of thyroid hormones. Others have a milder condition called compensated or subclinical hypothyroidism, in which thyroid hormone levels are within the normal range, even though the thyroid is not functioning properly. While most people with brain-lung-thyroid syndrome have a normal-sized thyroid, the gland is reduced in size (hypoplastic) or absent (aplastic) in some affected individuals. Although a shortage of thyroid hormones can cause intellectual disability and other neurological problems, it is unclear whether such issues in individuals with brain-lung-thyroid syndrome are due to hypothyroidism or to the brain abnormalities related to the condition.
+Lung problems are common in brain-lung-thyroid syndrome. Some affected newborns have respiratory distress syndrome, which causes extreme difficulty breathing and can be life-threatening. Other affected individuals develop widespread lung damage (interstitial lung disease) or scarring in the lungs (pulmonary fibrosis), both of which can also lead to breathing problems. Recurrent lung infections, which can be life-threatening, also occur in people with brain-lung-thyroid syndrome. People with brain-lung-thyroid syndrome have a higher risk of developing
+lung cancer
+than do people in the general population.
+Frequency
+Brain-lung-thyroid syndrome is a rare disorder; its prevalence is unknown.
+Causes
+Brain-lung-thyroid syndrome is caused by genetic changes that affect the
+NKX2-1
+gene, which provides instructions for making a protein called homeobox protein Nkx-2.1. This protein functions as a transcription factor, which means it attaches to DNA and controls the activity (expression) of other genes. By regulating the expression of certain genes during embryonic development, homeobox protein Nkx-2.1 helps direct the development of the brain, lungs, and thyroid gland and promotes their normal function. Mutations in or deletion of the
+NKX2-1
+gene lead to a reduction in the amount of homeobox protein Nkx-2.1 or impair its function. As a result, the expression of genes controlled by homeobox protein Nkx-2.1 is altered, which impedes the normal development and function of the brain, lungs, or thyroid gland. Problems with these organs underlie benign hereditary chorea, respiratory distress syndrome, congenital hypothyroidism, and other features of brain-lung-thyroid syndrome. It is unclear why all three organs are affected in some individuals with the condition, while only one or two are affected in others.
+Learn more about the gene associated with Brain-lung-thyroid syndrome
+NKX2-1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+BLT syndrome
+Brain-thyroid-lung syndrome
+CAHTP
+Choreoathetosis, hypothyroidism, and neonatal respiratory distress
+Chreoathetosis and congenital hypothyroidism with or without pulmonary dysfunction
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Benign hereditary chorea
+Genetic Testing Registry: Brain-lung-thyroid syndrome
+Genetic and Rare Diseases Information Center
+Benign hereditary chorea
+Brain-lung-thyroid syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CHOREOATHETOSIS AND CONGENITAL HYPOTHYROIDISM WITH OR WITHOUT PULMONARY DYSFUNCTION; CAHTP
+Scientific Articles on PubMed
+PubMed
+References
+Carre A, Szinnai G, Castanet M, Sura-Trueba S, Tron E, Broutin-L'Hermite I,
+Barat P, Goizet C, Lacombe D, Moutard ML, Raybaud C, Raynaud-Ravni C, Romana S,
+Ythier H, Leger J, Polak M. Five new TTF1/NKX2.1 mutations in brain-lung-thyroid
+syndrome: rescue by PAX8 synergism in one case. Hum Mol Genet. 2009 Jun
+15;18(12):2266-76. doi: 10.1093/hmg/ddp162. Epub 2009 Mar 31.
+Citation on PubMed
+Gras D, Jonard L, Roze E, Chantot-Bastaraud S, Koht J, Motte J, Rodriguez D,
+Louha M, Caubel I, Kemlin I, Lion-Francois L, Goizet C, Guillot L, Moutard ML,
+Epaud R, Heron B, Charles P, Tallot M, Camuzat A, Durr A, Polak M, Devos D,
+Sanlaville D, Vuillaume I, Billette de Villemeur T, Vidailhet M, Doummar D.
+Benign hereditary chorea: phenotype, prognosis, therapeutic outcome and long term
+follow-up in a large series with new mutations in the TITF1/NKX2-1 gene. J Neurol
+Neurosurg Psychiatry. 2012 Oct;83(10):956-62. doi: 10.1136/jnnp-2012-302505. Epub
+2012 Jul 24.
+Citation on PubMed
+Guillot L, Carre A, Szinnai G, Castanet M, Tron E, Jaubert F, Broutin I,
+Counil F, Feldmann D, Clement A, Polak M, Epaud R. NKX2-1 mutations leading to
+surfactant protein promoter dysregulation cause interstitial lung disease in
+"Brain-Lung-Thyroid Syndrome". Hum Mutat. 2010 Feb;31(2):E1146-62. doi:
+10.1002/humu.21183.
+Citation on PubMed
+Hamvas A, Deterding RR, Wert SE, White FV, Dishop MK, Alfano DN, Halbower AC,
+Planer B, Stephan MJ, Uchida DA, Williames LD, Rosenfeld JA, Lebel RR, Young LR,
+Cole FS, Nogee LM. Heterogeneous pulmonary phenotypes associated with mutations
+in the thyroid transcription factor gene NKX2-1. Chest. 2013 Sep;144(3):794-804.
+doi: 10.1378/chest.12-2502.
+Citation on PubMed
+or
+Free article on PubMed Central
+Krude H, Schutz B, Biebermann H, von Moers A, Schnabel D, Neitzel H, Tonnies
+H, Weise D, Lafferty A, Schwarz S, DeFelice M, von Deimling A, van Landeghem F,
+DiLauro R, Gruters A. Choreoathetosis, hypothyroidism, and pulmonary alterations
+due to human NKX2-1 haploinsufficiency. J Clin Invest. 2002 Feb;109(4):475-80.
+doi: 10.1172/JCI14341.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nettore IC, Mirra P, Ferrara AM, Sibilio A, Pagliara V, Kay CS, Lorenzoni PJ,
+Werneck LC, Bruck I, Dos Santos LH, Beguinot F, Salvatore D, Ungaro P, Fenzi G,
+Scola RH, Macchia PE. Identification and functional characterization of a novel
+mutation in the NKX2-1 gene: comparison with the data in the literature. Thyroid.
+2013 Jun;23(6):675-82. doi: 10.1089/thy.2012.0267.
+Citation on PubMed
+Shetty VB, Kiraly-Borri C, Lamont P, Bikker H, Choong CS. NKX2-1 mutations in
+brain-lung-thyroid syndrome: a case series of four patients. J Pediatr Endocrinol
+Metab. 2014 Mar;27(3-4):373-8. doi: 10.1515/jpem-2013-0109.
+Citation on PubMed
+Williamson S, Kirkpatrick M, Greene S, Goudie D. A novel mutation of NKX2-1
+affecting 2 generations with hypothyroidism and choreoathetosis: part of the
+spectrum of brain-thyroid-lung syndrome. J Child Neurol. 2014 May;29(5):666-9.
+doi: 10.1177/0883073813518243. Epub 2014 Jan 21.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Neonatal respiratory distress syndrome
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

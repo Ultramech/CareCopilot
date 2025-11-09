@@ -1,0 +1,131 @@
+Microcephaly-capillary malformation syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Microcephaly-capillary malformation syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/microcephaly-capillary-malformation-syndrome/
+Microcephaly-capillary malformation syndrome
+Description
+Microcephaly-capillary malformation syndrome is an inherited disorder characterized by an abnormally small head size (microcephaly) and abnormalities of small blood vessels in the skin called
+capillaries
+(capillary malformations).
+In people with microcephaly-capillary malformation syndrome, microcephaly begins before birth and is associated with an unusually small brain and multiple brain abnormalities. Affected individuals develop seizures that can occur many times per day and are difficult to treat (intractable epilepsy). The problems with brain development and epilepsy lead to profound developmental delay and intellectual impairment. Most affected individuals do not develop skills beyond those of a 1- or 2-month-old infant. For example, most children with this condition are never able to control their head movements or sit unassisted.
+Capillary malformations are composed of enlarged capillaries that increase blood flow near the surface of the skin. These malformations look like pink or red spots on the skin. People with microcephaly-capillary malformation syndrome are born with anywhere from a few to hundreds of these spots, which can occur anywhere on the body. The spots are usually round or oval-shaped and range in size from the head of a pin to a large coin.
+Other signs and symptoms of microcephaly-capillary malformation syndrome include abnormal movements, feeding difficulties, slow growth, and short stature. Most affected individuals have abnormalities of the fingers and toes, including
+digits with tapered ends
+and
+abnormally small
+or missing fingernails and toenails. Some affected children also have distinctive facial features and an unusual pattern of hair growth on the scalp.
+Frequency
+Microcephaly-capillary malformation syndrome is rare. About a dozen people have been diagnosed with the disorder.
+Causes
+Microcephaly-capillary malformation syndrome results from mutations in the
+STAMBP
+gene. This gene provides instructions for making a protein called STAM binding protein. This protein plays a role in sorting damaged or unneeded proteins so they can be transported from the cell surface to specialized cell compartments that break down (degrade) or recycle them. This process helps to maintain the proper balance of protein production and breakdown (protein homeostasis) that cells need to function and survive. Studies suggest that STAM binding protein is also involved in multiple chemical signaling pathways within cells, including pathways needed for overall growth and the formation of new blood vessels (angiogenesis).
+Mutations in the
+STAMBP
+gene reduce or eliminate the production of STAM binding protein. This shortage allows damaged or unneeded proteins to build up inside cells instead of being degraded or recycled, which may damage cells and cause them to self-destruct (undergo
+apoptosis
+). Researchers suspect that abnormal apoptosis of brain cells starting before birth may cause microcephaly and the underlying brain abnormalities found in people with microcephaly-capillary malformation syndrome. A lack of STAM binding protein also alters multiple signaling pathways that are necessary for normal development, which may underlie the capillary malformations and other signs and symptoms of the condition.
+Learn more about the gene associated with Microcephaly-capillary malformation syndrome
+STAMBP
+Inheritance
+This condition has an
+autosomal recessive pattern
+of inheritance, which means both copies of the
+STAMBP
+gene in each cell have mutations. An affected individual usually inherits one altered copy of the gene from each parent. Parents of an individual with an autosomal recessive condition typically do not show signs and symptoms of the condition.
+At least one individual with microcephaly-capillary malformation syndrome inherited two mutated copies of the
+STAMBP
+gene through a mechanism called
+uniparental isodisomy
+. In this case, an error occurred during the formation of egg or sperm cells, and the child received two copies of the mutated gene from one parent instead of one copy from each parent.
+Other Names for This Condition
+MIC-CAP syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Microcephaly-capillary malformation syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MICROCEPHALY-CAPILLARY MALFORMATION SYNDROME; MICCAP
+Scientific Articles on PubMed
+PubMed
+References
+Carter MT, Geraghty MT, De La Cruz L, Reichard RR, Boccuto L, Schwartz CE,
+Clericuzio CL. A new syndrome with multiple capillary malformations, intractable
+seizures, and brain and limb anomalies. Am J Med Genet A. 2011 Feb;155A(2):301-6.
+doi: 10.1002/ajmg.a.33841.
+Citation on PubMed
+Carter MT, Mirzaa G, McDonell LM, Boycott KM. Microcephaly-Capillary
+Malformation Syndrome. 2013 Dec 12 [updated 2021 Mar 18]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK174452/
+Citation on PubMed
+Isidor B, Barbarot S, Beneteau C, Le Caignec C, David A. Multiple capillary
+skin malformations, epilepsy, microcephaly, mental retardation, hypoplasia of the
+distal phalanges: report of a new case and further delineation of a new syndrome.
+Am J Med Genet A. 2011 Jun;155A(6):1458-60. doi: 10.1002/ajmg.a.34048. Epub 2011
+May 5. No abstract available.
+Citation on PubMed
+McDonell LM, Mirzaa GM, Alcantara D, Schwartzentruber J, Carter MT, Lee LJ,
+Clericuzio CL, Graham JM Jr, Morris-Rosendahl DJ, Polster T, Acsadi G, Townshend
+S, Williams S, Halbert A, Isidor B, David A, Smyser CD, Paciorkowski AR, Willing
+M, Woulfe J, Das S, Beaulieu CL, Marcadier J; FORGE Canada Consortium; Geraghty
+MT, Frey BJ, Majewski J, Bulman DE, Dobyns WB, O'Driscoll M, Boycott KM.
+Mutations in STAMBP, encoding a deubiquitinating enzyme, cause
+microcephaly-capillary malformation syndrome. Nat Genet. 2013 May;45(5):556-62.
+doi: 10.1038/ng.2602. Epub 2013 Mar 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mirzaa GM, Paciorkowski AR, Smyser CD, Willing MC, Lind AC, Dobyns WB. The
+microcephaly-capillary malformation syndrome. Am J Med Genet A. 2011
+Sep;155A(9):2080-7. doi: 10.1002/ajmg.a.34118. Epub 2011 Aug 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Brain Malformations
+Developmental Disabilities
+Genetic Disorders
+Vascular Diseases
+MEDICAL ENCYCLOPEDIA
+Epilepsy
+Genetics
+Microcephaly
+Microcephaly (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

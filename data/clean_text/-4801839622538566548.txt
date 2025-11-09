@@ -1,0 +1,196 @@
+Gastrointestinal stromal tumor: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Gastrointestinal stromal tumor
+URL of this page: https://medlineplus.gov/genetics/condition/gastrointestinal-stromal-tumor/
+Gastrointestinal stromal tumor
+Description
+A gastrointestinal stromal tumor (GIST) is a type of tumor that occurs in the gastrointestinal tract, most commonly in the stomach or small intestine. This type of tumor is thought to grow from specialized cells found in the gastrointestinal tract called interstitial cells of Cajal (ICCs) or precursors to these cells. Affected individuals can develop one or more tumors. GISTs are usually found in adults between ages 40 and 70; rarely, children and young adults develop this type of tumor.
+Small tumors may cause no signs or symptoms. However, some people with GISTs may experience pain or swelling in the belly area (abdomen), nausea, vomiting, loss of appetite, or weight loss. Sometimes, tumors cause bleeding into the gastrointestinal tract, which may lead to low red blood cell counts (
+anemia
+) and, consequently, weakness and tiredness. Bleeding into the intestines may cause black and tarry stools, and bleeding into the throat or stomach may cause vomiting of blood.
+Affected individuals with no family history of GIST typically have only one tumor (called a sporadic GIST). People with a family history of GISTs (called familial GISTs) often have multiple tumors and additional signs or symptoms, including noncancerous overgrowth (hyperplasia) of other cells in the gastrointestinal tract and patches of dark skin on various areas of the body. Some affected individuals have a skin condition called urticaria pigmentosa (also known as maculopapular cutaneous mastocytosis), which is characterized by raised patches of brownish skin that sting or itch when touched.
+A rare form of GIST, called succinate dehydrogenase (SDH)-deficient GIST, tends to occur in childhood or young adulthood and affects females more commonly than males. In this form, tumors are almost always in the stomach. Individuals with an SDH-deficient GIST have a high risk of developing other types of tumors, particularly noncancerous tumors in the nervous system called paragangliomas and noncancerous lung tumors called pulmonary chondromas. When GISTs occur in combination with paragangliomas, the condition is known as Carney-Stratakis syndrome; the combination of GISTs, paragangliomas, and pulmonary chondromas is known as Carney triad; and the combination of GISTs and pulmonary chondroma is known as incomplete Carney triad.
+Frequency
+Approximately 5,000 new cases of GIST are diagnosed in the United States each year. SDH-deficient GIST accounts for about 5 to 7 percent of cases. However, GISTs may be more common than the estimate because small tumors may remain undiagnosed.
+Causes
+Genetic changes in one of several genes are involved in the formation of GISTs. About 80 percent of cases are associated with a mutation in the
+KIT
+gene, and about 10 percent of cases are associated with a mutation in the
+PDGFRA
+gene. Mutations in the
+KIT
+and
+PDGFRA
+genes are associated with both familial and sporadic GISTs. Less than 10 percent of cases are SDH-deficient GISTs, which are associated with mutations or other changes in the
+SDHA
+,
+SDHB
+,
+SDHC
+,
+or
+SDHD
+gene. SDH-deficient GIST can be familial or sporadic. A small number of people with a GIST have mutations in other genes.
+The
+KIT
+and
+PDGFRA
+genes provide instructions for making receptor proteins that are found in the cell membrane of certain cell types. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. When a ligand attaches (binds), the KIT or PDGFRA receptor protein is turned on (activated), which leads to activation of a series of proteins in multiple signaling pathways. These signaling pathways control many important cellular processes, such as cell growth and division (proliferation) and survival.
+Mutations in the
+KIT
+and
+PDGFRA
+genes lead to proteins that no longer require ligand binding to be activated. As a result, the proteins and the signaling pathways are constantly turned on (constitutively activated), which increases the proliferation and survival of cells and leads to the formation of tumors.
+The
+SDHA
+,
+SDHB
+,
+SDHC
+, and
+SDHD
+genes provide instructions for making proteins that come together to form the succinate dehydrogenase (SDH) enzyme. The SDH enzyme is involved in cellular pathways that are critical for converting the energy from food into a form that cells can use. Specifically, the SDH enzyme converts a compound called succinate to another compound called fumarate. Succinate acts as an oxygen sensor in the cell and can help turn on specific pathways that stimulate cells to grow in a low-oxygen environment (hypoxia).
+Genetic alterations affecting the
+SDHA
+,
+SDHB
+,
+SDHC
+, or
+SDHD
+gene associated with SDH-deficient GIST reduce or eliminate SDH enzyme function. Because succinate is not efficiently converted to fumarate without a functional SDH enzyme, succinate accumulates in the cell. Excess succinate triggers cell growth pathways in normal oxygen conditions, which leads to abnormal cell growth and tumor formation.
+Learn more about the genes associated with Gastrointestinal stromal tumor
+BRAF
+KIT
+PDGFRA
+SDHA
+SDHB
+SDHC
+SDHD
+Inheritance
+Most cases of GIST are sporadic and are not inherited. These cases are associated with a somatic mutation, which is a genetic change that occurs only in the tumor cells and occurs during a person's lifetime.
+In some cases of familial GIST, including those associated with mutations in the
+KIT
+and
+PDGFRA
+genes, the condition is usually inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to increase a person's chance of developing tumors. A second, somatic mutation is needed for tumor formation.
+When familial GIST is associated with mutations in other genes, it can have an
+autosomal recessive pattern
+of inheritance, which means alterations in both copies of the gene in each cell increase a person's chance of developing tumors.
+SDH-deficient GIST follows an autosomal dominant inheritance pattern; a mutation in one copy of the
+SDHA
+,
+SDHB
+,
+SDHC
+, or
+SDHD
+gene is sufficient to increase a person's chance of developing tumors, and a somatic mutation altering the other copy of the gene is needed for tumor formation. A particular alteration in the
+SDHC
+gene is not inherited. This genetic change is typically associated with Carney triad.
+Other Names for This Condition
+Gastrointestinal stromal neoplasm
+Gastrointestinal stromal sarcoma
+GIST
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Gastrointestinal stromal tumor
+Genetic and Rare Diseases Information Center
+Gastrointestinal stromal tumor
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GASTROINTESTINAL STROMAL TUMOR; GIST
+Scientific Articles on PubMed
+PubMed
+References
+Agaram NP, Wong GC, Guo T, Maki RG, Singer S, Dematteo RP, Besmer P, Antonescu
+CR. Novel V600E BRAF mutations in imatinib-naive and imatinib-resistant
+gastrointestinal stromal tumors. Genes Chromosomes Cancer. 2008 Oct;47(10):853-9.
+doi: 10.1002/gcc.20589.
+Citation on PubMed
+or
+Free article on PubMed Central
+Heinrich MC, Corless CL, Duensing A, McGreevey L, Chen CJ, Joseph N, Singer S,
+Griffith DJ, Haley A, Town A, Demetri GD, Fletcher CD, Fletcher JA. PDGFRA
+activating mutations in gastrointestinal stromal tumors. Science. 2003 Jan
+31;299(5607):708-10. doi: 10.1126/science.1079666. Epub 2003 Jan 9.
+Citation on PubMed
+Hirota S, Isozaki K, Moriyama Y, Hashimoto K, Nishida T, Ishiguro S, Kawano K,
+Hanada M, Kurata A, Takeda M, Muhammad Tunio G, Matsuzawa Y, Kanakura Y,
+Shinomura Y, Kitamura Y. Gain-of-function mutations of c-kit in human
+gastrointestinal stromal tumors. Science. 1998 Jan 23;279(5350):577-80. doi:
+10.1126/science.279.5350.577.
+Citation on PubMed
+Hirota S, Ohashi A, Nishida T, Isozaki K, Kinoshita K, Shinomura Y, Kitamura
+Y. Gain-of-function mutations of platelet-derived growth factor receptor alpha
+gene in gastrointestinal stromal tumors. Gastroenterology. 2003 Sep;125(3):660-7.
+doi: 10.1016/s0016-5085(03)01046-1.
+Citation on PubMed
+Isozaki K, Terris B, Belghiti J, Schiffmann S, Hirota S, Vanderwinden JM.
+Germline-activating mutation in the kinase domain of KIT gene in familial
+gastrointestinal stromal tumors. Am J Pathol. 2000 Nov;157(5):1581-5. doi:
+10.1016/S0002-9440(10)64795-5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Oudijk L, Gaal J, Korpershoek E, van Nederveen FH, Kelly L, Schiavon G,
+Verweij J, Mathijssen RH, den Bakker MA, Oldenburg RA, van Loon RL, O'Sullivan
+MJ, de Krijger RR, Dinjens WN. SDHA mutations in adult and pediatric wild-type
+gastrointestinal stromal tumors. Mod Pathol. 2013 Mar;26(3):456-63. doi:
+10.1038/modpathol.2012.186. Epub 2012 Nov 23.
+Citation on PubMed
+Roskoski R Jr. Signaling by Kit protein-tyrosine kinase--the stem cell factor
+receptor. Biochem Biophys Res Commun. 2005 Nov 11;337(1):1-13. doi:
+10.1016/j.bbrc.2005.08.055.
+Citation on PubMed
+Wagner AJ, Remillard SP, Zhang YX, Doyle LA, George S, Hornick JL. Loss of
+expression of SDHA predicts SDHA mutations in gastrointestinal stromal tumors.
+Mod Pathol. 2013 Feb;26(2):289-94. doi: 10.1038/modpathol.2012.153. Epub 2012 Sep
+7.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Intestinal Cancer
+MEDICAL ENCYCLOPEDIA
+Genetics
+Urticaria pigmentosa
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

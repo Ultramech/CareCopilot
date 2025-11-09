@@ -1,0 +1,131 @@
+Netherton syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Netherton syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/netherton-syndrome/
+Netherton syndrome
+Description
+Netherton syndrome is a disorder that affects the skin, hair, and immune system. Newborns with Netherton syndrome have skin that is red and scaly (ichthyosiform erythroderma), and the skin may leak fluid. Some affected infants are born with a tight, clear sheath covering their skin called a collodion membrane. This membrane is usually shed during the first few weeks of life. Because newborns with this disorder are missing the protection provided by normal skin, they are at risk of becoming dehydrated and developing infections in the skin or throughout the body (sepsis), which can be life-threatening. Affected babies may also fail to grow and gain weight at the expected rate (failure to thrive). The health of older children and adults with Netherton syndrome usually improves, although they often remain underweight and of short stature.
+After infancy, the severity of the skin abnormalities varies among people with Netherton syndrome and can fluctuate over time. The skin may continue to be red and scaly, especially during the first few years of life. Some affected individuals have intermittent redness or experience outbreaks of a distinctive skin abnormality called ichthyosis linearis circumflexa, involving patches of multiple ring-like lesions. The triggers for the outbreaks are not known, but researchers suggest that stress or infections may be involved.
+Itchiness is a common problem for affected individuals, and scratching can lead to frequent infections. Dead skin cells are shed at an abnormal rate and often accumulate in the ear canals, which can affect hearing if not removed regularly. The skin is abnormally absorbent of substances such as lotions and ointments, which can result in excessive blood levels of some topical medications. Because the ability of the skin to protect against heat and cold is impaired, affected individuals may have difficulty regulating their body temperature.
+People with Netherton syndrome have hair that is fragile and breaks easily. Some strands of hair vary in diameter, with thicker and thinner spots. This feature is known as bamboo hair, trichorrhexis nodosa, or trichorrhexis invaginata. In addition to the hair on the scalp, the eyelashes and eyebrows may be affected. The hair abnormality in Netherton syndrome may not be noticed in infancy because babies often have sparse hair.
+Most people with Netherton syndrome have immune system-related problems such as food allergies, hay fever, asthma, or an inflammatory skin disorder called eczema.
+Frequency
+Netherton syndrome is estimated to affect 1 in 200,000 newborns.
+Causes
+Netherton syndrome is caused by mutations in the
+SPINK5
+gene. This gene provides instructions for making a protein called LEKT1. LEKT1 is a type of serine peptidase inhibitor. Serine peptidase inhibitors control the activity of enzymes called serine peptidases, which break down other proteins. LEKT1 is found in the skin and in the thymus, which is a gland located behind the breastbone that plays an important role in the immune system by producing white blood cells called lymphocytes. LEKT1 controls the activity of certain serine peptidases in the outer layer of skin (the
+epidermis
+), especially the tough outer surface known as the stratum corneum, which provides a sturdy barrier between the body and its environment. Serine peptidase enzymes are involved in normal skin shedding by helping to break the connections between cells of the stratum corneum. LEKT1 is also involved in normal hair growth, the development of lymphocytes in the thymus, and the control of peptidases that trigger immune system function.
+Mutations in the
+SPINK5
+gene result in a LEKT1 protein that is unable to control serine peptidase activity. The lack of LEKT1 function allows the serine peptidases to be abnormally active and break down too many proteins in the stratum corneum. As a result, too much skin shedding takes place, and the stratum corneum is too thin and breaks down easily, resulting in the skin abnormalities that occur in Netherton syndrome. Loss of LEKT1 function also results in abnormal hair growth and immune dysfunction that leads to allergies, asthma, and eczema.
+Learn more about the gene associated with Netherton syndrome
+SPINK5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Bamboo hair syndrome
+Comel-Netherton syndrome
+Ichthyosiform erythroderma with hypotrichosis and hyper-IgE
+Ichthyosis linearis circumflexa
+ILC
+NETH
+Netherton disease
+NS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Ichthyosis linearis circumflexa
+Genetic and Rare Diseases Information Center
+Netherton syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NETHERTON SYNDROME; NETH
+Scientific Articles on PubMed
+PubMed
+References
+Bitoun E, Chavanas S, Irvine AD, Lonie L, Bodemer C, Paradisi M, Hamel-Teillac
+D, Ansai S, Mitsuhashi Y, Taieb A, de Prost Y, Zambruno G, Harper JI, Hovnanian
+A. Netherton syndrome: disease expression and spectrum of SPINK5 mutations in 21
+families. J Invest Dermatol. 2002 Feb;118(2):352-61. doi:
+10.1046/j.1523-1747.2002.01603.x.
+Citation on PubMed
+D'Alessio M, Fortugno P, Zambruno G, Hovnanian A. Netherton syndrome and its
+multifaceted defective protein LEKTI. G Ital Dermatol Venereol. 2013
+Feb;148(1):37-51.
+Citation on PubMed
+Hovnanian A. Netherton syndrome: skin inflammation and allergy by loss of
+protease inhibition. Cell Tissue Res. 2013 Feb;351(2):289-300. doi:
+10.1007/s00441-013-1558-1. Epub 2013 Jan 24.
+Citation on PubMed
+Lacroix M, Lacaze-Buzy L, Furio L, Tron E, Valari M, Van der Wier G, Bodemer
+C, Bygum A, Bursztejn AC, Gaitanis G, Paradisi M, Stratigos A, Weibel L, Deraison
+C, Hovnanian A. Clinical expression and new SPINK5 splicing defects in Netherton
+syndrome: unmasking a frequent founder synonymous mutation and unconventional
+intronic mutations. J Invest Dermatol. 2012 Mar;132(3 Pt 1):575-82. doi:
+10.1038/jid.2011.366. Epub 2011 Nov 17.
+Citation on PubMed
+Roelandt T, Thys B, Heughebaert C, De Vroede A, De Paepe K, Roseeuw D, Rombaut
+B, Hachem JP. LEKTI-1 in sickness and in health. Int J Cosmet Sci. 2009
+Aug;31(4):247-54. doi: 10.1111/j.1468-2494.2009.00516.x. Epub 2009 May 13.
+Citation on PubMed
+Sprecher E, Chavanas S, DiGiovanna JJ, Amin S, Nielsen K, Prendiville JS,
+Silverman R, Esterly NB, Spraker MK, Guelig E, de Luna ML, Williams ML, Buehler
+B, Siegfried EC, Van Maldergem L, Pfendner E, Bale SJ, Uitto J, Hovnanian A,
+Richard G. The spectrum of pathogenic mutations in SPINK5 in 19 families with
+Netherton syndrome: implications for mutation detection and first case of
+prenatal diagnosis. J Invest Dermatol. 2001 Aug;117(2):179-87. doi:
+10.1046/j.1523-1747.2001.01389.x.
+Citation on PubMed
+Sun JD, Linden KG. Netherton syndrome: a case report and review of the
+literature. Int J Dermatol. 2006 Jun;45(6):693-7. doi:
+10.1111/j.1365-4632.2005.02637.x.
+Citation on PubMed
+Related Health Topics
+Allergy
+Asthma
+Eczema
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Trichorrhexis nodosa
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

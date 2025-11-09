@@ -1,0 +1,180 @@
+Hereditary hemochromatosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary hemochromatosis
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-hemochromatosis/
+Hereditary hemochromatosis
+Description
+Hereditary hemochromatosis is a disorder that causes the body to absorb too much iron from the diet. The excess iron is stored in the body's tissues and organs, particularly the skin, heart,
+liver
+,
+pancreas
+, and joints. Because humans cannot increase the excretion of iron, excess iron can overload and eventually damage tissues and organs. For this reason, hereditary hemochromatosis is also called an iron overload disorder.
+Early symptoms of hereditary hemochromatosis may include extreme tiredness (fatigue), joint pain, abdominal pain, weight loss, and loss of sex drive. As the condition worsens, affected individuals may develop arthritis, liver disease (cirrhosis) or liver cancer, diabetes, heart abnormalities, or skin discoloration. The appearance and severity of symptoms can be affected by environmental and lifestyle factors such as the amount of iron in the diet, alcohol use, and infections.
+There are four types of hereditary hemochromatosis, which are classified depending on the age of onset and other factors such as genetic cause and mode of inheritance.
+Type 1, the most common form of the disorder, and type 4 (also called ferroportin disease) begin in adulthood. Men with type 1 or type 4 hemochromatosis typically develop symptoms between the ages of 40 and 60, and women usually develop symptoms after menopause.
+Type 2 hemochromatosis is known as a juvenile-onset disorder because symptoms often begin in childhood. By age 20, iron accumulation causes decreased or absent secretion of sex hormones. Affected females usually begin menstruation normally but menses stop after a few years. Males may experience delayed puberty or symptoms related to a shortage of sex hormones. If type 2 hemochromatosis is untreated, potentially fatal heart disease becomes evident by age 30.
+The onset of type 3 hemochromatosis is usually intermediate between types 1 and 2 with symptoms generally beginning before age 30.
+Frequency
+Type 1 hemochromatosis is one of the most common genetic disorders in the United States, affecting about 1 million people. It most often affects people of Northern European descent. The other types of hemochromatosis are considered rare and have been studied in only a small number of families worldwide.
+Causes
+Mutations in several genes can cause hereditary hemochromatosis. Type 1 hemochromatosis results from mutations in the
+HFE
+gene, and type 2 hemochromatosis results from mutations in either the
+HJV
+or
+HAMP
+gene. Mutations in the
+TFR2
+gene cause type 3 hemochromatosis, and mutations in the
+SLC40A1
+gene cause type 4 hemochromatosis.
+The proteins produced from these genes play important roles in regulating the absorption, transport, and storage of iron in the body. Mutations in any of these genes impair the control of the intestine's absorption of iron from foods during digestion and alter the distribution of iron to other parts of the body. As a result, iron accumulates in tissues and organs, which can disrupt their normal functions.
+Learn more about the genes associated with Hereditary hemochromatosis
+HAMP
+HFE
+HJV
+SLC40A1
+TFR2
+Inheritance
+Types 1, 2, and 3 hemochromatosis are inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene but do not show signs and symptoms of the condition.
+Type 4 hemochromatosis is distinguished by its
+autosomal dominant inheritance pattern
+. With this type of inheritance, one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+Other Names for This Condition
+Bronze diabetes
+Bronzed cirrhosis
+Familial hemochromatosis
+Genetic hemochromatosis
+Haemochromatosis
+HC
+Hemochromatosis
+Hereditary haemochromatosis
+HH
+HLAH
+Iron storage disorder
+Pigmentary cirrhosis
+Primary hemochromatosis
+Troisier-Hanot-Chauffard syndrome
+Von Recklenhausen-Applebaum disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary hemochromatosis
+Genetic and Rare Diseases Information Center
+Hemochromatosis type 2
+Hemochromatosis type 3
+Hemochromatosis type 4
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HEMOCHROMATOSIS, TYPE 1; HFE1
+HEMOCHROMATOSIS, TYPE 3; HFE3
+HEMOCHROMATOSIS, TYPE 2A; HFE2A
+HEMOCHROMATOSIS, TYPE 4; HFE4
+HEMOCHROMATOSIS, TYPE 2B; HFE2B
+Scientific Articles on PubMed
+PubMed
+References
+Babitt JL, Lin HY. The molecular pathogenesis of hereditary hemochromatosis.
+Semin Liver Dis. 2011 Aug;31(3):280-92. doi: 10.1055/s-0031-1286059. Epub 2011
+Sep 7.
+Citation on PubMed
+Bacon BR, Adams PC, Kowdley KV, Powell LW, Tavill AS; American Association for
+the Study of Liver Diseases. Diagnosis and management of hemochromatosis: 2011
+practice guideline by the American Association for the Study of Liver Diseases.
+Hepatology. 2011 Jul;54(1):328-43. doi: 10.1002/hep.24330. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Barton JC. Hemochromatosis and iron overload: from bench to clinic. Am J Med
+Sci. 2013 Nov;346(5):403-12. doi: 10.1097/MAJ.0000000000000192. No abstract
+available.
+Citation on PubMed
+Brissot P, Cavey T, Ropert M, Guggenbuhl P, Loreal O. Genetic hemochromatosis:
+Pathophysiology, diagnostic and therapeutic management. Presse Med. 2017
+Dec;46(12 Pt 2):e288-e295. doi: 10.1016/j.lpm.2017.05.037. Epub 2017 Nov 20.
+Citation on PubMed
+Camaschella C, Roetto A, Cali A, De Gobbi M, Garozzo G, Carella M, Majorano N,
+Totaro A, Gasparini P. The gene TFR2 is mutated in a new type of haemochromatosis
+mapping to 7q22. Nat Genet. 2000 May;25(1):14-5. doi: 10.1038/75534.
+Citation on PubMed
+Crownover BK, Covey CJ. Hereditary hemochromatosis. Am Fam Physician. 2013 Feb
+1;87(3):183-90.
+Citation on PubMed
+Gerhard GS, Paynton BV, DiStefano JK. Identification of Genes for Hereditary
+Hemochromatosis. Methods Mol Biol. 2018;1706:353-365. doi:
+10.1007/978-1-4939-7471-9_19.
+Citation on PubMed
+Montosi G, Donovan A, Totaro A, Garuti C, Pignatti E, Cassanelli S, Trenor CC,
+Gasparini P, Andrews NC, Pietrangelo A. Autosomal-dominant hemochromatosis is
+associated with a mutation in the ferroportin (SLC11A3) gene. J Clin Invest. 2001
+Aug;108(4):619-23. doi: 10.1172/JCI13468.
+Citation on PubMed
+or
+Free article on PubMed Central
+Njajou OT, Vaessen N, Joosse M, Berghuis B, van Dongen JW, Breuning MH,
+Snijders PJ, Rutten WP, Sandkuijl LA, Oostra BA, van Duijn CM, Heutink P. A
+mutation in SLC11A3 is associated with autosomal dominant hemochromatosis. Nat
+Genet. 2001 Jul;28(3):213-4. doi: 10.1038/90038.
+Citation on PubMed
+Pietrangelo A. Hereditary hemochromatosis: pathogenesis, diagnosis, and
+treatment. Gastroenterology. 2010 Aug;139(2):393-408, 408.e1-2. doi:
+10.1053/j.gastro.2010.06.013. Epub 2010 Jun 11.
+Citation on PubMed
+Porto G, Brissot P, Swinkels DW, Zoller H, Kamarainen O, Patton S, Alonso I,
+Morris M, Keeney S. EMQN best practice guidelines for the molecular genetic
+diagnosis of hereditary hemochromatosis (HH). Eur J Hum Genet. 2016
+Apr;24(4):479-95. doi: 10.1038/ejhg.2015.128. Epub 2015 Jul 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Radford-Smith DE, Powell EE, Powell LW. Haemochromatosis: a clinical update
+for the practising physician. Intern Med J. 2018 May;48(5):509-516. doi:
+10.1111/imj.13784.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Hemochromatosis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hemochromatosis
+Related Medical Tests
+Iron Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

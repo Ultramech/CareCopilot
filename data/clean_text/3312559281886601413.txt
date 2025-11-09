@@ -1,0 +1,121 @@
+Pendred syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pendred syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/pendred-syndrome/
+Pendred syndrome
+Description
+Pendred syndrome is a disorder typically associated with hearing loss and a thyroid condition called a goiter. A goiter is an enlargement of the
+thyroid gland
+, which is a butterfly-shaped organ at the base of the neck that produces hormones. If a goiter develops in a person with Pendred syndrome, it usually forms between late childhood and early adulthood. In most cases, this enlargement does not cause the thyroid to malfunction.
+In most people with Pendred syndrome, severe to profound hearing loss caused by changes in the inner ear (sensorineural hearing loss) is evident at birth. Less commonly, hearing loss does not develop until later in infancy or early childhood. Some affected individuals also have problems with balance caused by dysfunction of the vestibular system, which is the part of the inner ear that helps maintain the body's balance and orientation.
+An inner ear abnormality called an enlarged vestibular aqueduct (EVA) is a characteristic feature of Pendred syndrome. The vestibular aqueduct is a bony canal that connects the inner ear with the inside of the skull. Some affected individuals also have an abnormally shaped cochlea, which is a snail-shaped structure in the inner ear that helps process sound. The combination of an enlarged vestibular aqueduct and an abnormally shaped cochlea is known as Mondini malformation.
+Pendred syndrome shares features with other hearing loss and thyroid conditions, and it is unclear whether they are best considered as separate disorders or as a spectrum of related signs and symptoms. These conditions include a form of
+nonsyndromic hearing loss
+(hearing loss that does not affect other parts of the body) called DFNB4, and, in a small number of people, a form of
+congenital hypothyroidism
+resulting from an abnormally small thyroid gland (thyroid hypoplasia). All of these conditions are caused by mutations in the same gene.
+Frequency
+The prevalence of Pendred syndrome is unknown. However, researchers estimate that it accounts for 7 to 8 percent of all hearing loss that is present from birth (congenital hearing loss).
+Causes
+Mutations in the
+SLC26A4
+gene cause about half of all cases of Pendred syndrome. The
+SLC26A4
+gene provides instructions for making a protein called pendrin. This protein transports negatively charged particles (ions), including chloride, iodide, and bicarbonate, into and out of cells. Although the function of pendrin is not fully understood, this protein is important for maintaining the proper levels of ions in the
+thyroid
+and the inner ear. Mutations in the
+SLC26A4
+gene alter the structure or function of pendrin, which disrupts ion transport. An imbalance of particular ions disrupts the development and function of the thyroid gland and structures in the inner ear, which leads to the characteristic features of Pendred syndrome.
+In people with Pendred syndrome who do not have mutations in the
+SLC26A4
+gene, the cause of the condition is unknown. Researchers suspect that other genetic and environmental factors may influence the condition.
+Learn more about the gene associated with Pendred syndrome
+SLC26A4
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Autosomal recessive sensorineural hearing impairment, enlarged vestibular aqueduct, and goiter
+Deafness with goiter
+Goiter-deafness syndrome
+Pendred's syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pendred syndrome
+Genetic and Rare Diseases Information Center
+Pendred syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PENDRED SYNDROME; PDS
+Scientific Articles on PubMed
+PubMed
+References
+Bizhanova A, Kopp P. Genetics and phenomics of Pendred syndrome. Mol Cell
+Endocrinol. 2010 Jun 30;322(1-2):83-90. doi: 10.1016/j.mce.2010.03.006. Epub 2010
+Mar 15.
+Citation on PubMed
+Ito T, Choi BY, King KA, Zalewski CK, Muskett J, Chattaraj P, Shawker T,
+Reynolds JC, Butman JA, Brewer CC, Wangemann P, Alper SL, Griffith AJ. SLC26A4
+genotypes and phenotypes associated with enlargement of the vestibular aqueduct.
+Cell Physiol Biochem. 2011;28(3):545-52. doi: 10.1159/000335119. Epub 2011 Nov
+18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kopp P. Mutations in the Pendred Syndrome (PDS/SLC26A) gene: an increasingly
+complex phenotypic spectrum from goiter to thyroid hypoplasia. J Clin Endocrinol
+Metab. 2014 Jan;99(1):67-9. doi: 10.1210/jc.2013-4319. No abstract available.
+Citation on PubMed
+Smith RJH, Azaiez H, Odell AM. SLC26A4-Related Sensorineural Hearing
+Loss. 1998 Sep 28 [updated 2025 Apr 3]. In: Adam MP, Feldman J, Mirzaa GM, Pagon
+RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle
+(WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1467/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Hearing Disorders and Deafness
+Thyroid Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hearing loss
+Simple goiter
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

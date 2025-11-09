@@ -1,0 +1,138 @@
+Purine nucleoside phosphorylase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Purine nucleoside phosphorylase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/purine-nucleoside-phosphorylase-deficiency/
+Purine nucleoside phosphorylase deficiency
+Description
+Purine nucleoside phosphorylase deficiency is a disorder of the immune system called an immunodeficiency. Immunodeficiencies are conditions in which the immune system is not able to protect the body effectively from foreign invaders such as bacteria and viruses.
+People with purine nucleoside phosphorylase deficiency have low numbers of immune system cells called
+T cells
+, which normally recognize and attack foreign invaders to prevent infection. Some affected individuals also have low numbers of other immune system cells called B cells, which normally help fight infections by producing immune proteins called antibodies (or immunoglobulins). These proteins target foreign invaders and mark them for destruction. The most severely affected individuals, who lack T cells and B cells, have a serious condition called severe combined immunodeficiency (SCID).
+The shortage of immune system cells in people with purine nucleoside phosphorylase deficiency results in repeated and persistent infections typically beginning in infancy or early childhood. Infections most commonly affect the
+sinuses
+and
+lungs
+. These infections are often caused by "opportunistic" organisms that ordinarily do not cause illness in people with a normal immune system. The infections can be very serious or life-threatening, and without successful treatment to restore immune function, children with purine nucleoside phosphorylase deficiency usually do not survive past childhood.
+Infants with purine nucleoside phosphorylase deficiency typically grow more slowly than healthy babies. About two-thirds of individuals with this condition also have neurological problems, which may include developmental delay, intellectual disability, difficulty with balance and coordination (ataxia), and muscle stiffness (spasticity). People with purine nucleoside phosphorylase deficiency are also at increased risk of developing autoimmune disorders, which occur when the immune system malfunctions and attacks the body's tissues and organs.
+Frequency
+Purine nucleoside phosphorylase deficiency is rare; only about 70 affected individuals have been described in the medical literature. This disorder accounts for approximately 4 percent of all SCID cases.
+Causes
+Purine nucleoside phosphorylase deficiency is caused by mutations in the
+PNP
+gene. The
+PNP
+gene provides instructions for making an enzyme called purine nucleoside phosphorylase. This enzyme is found throughout the body but is most active in specialized white blood cells called lymphocytes, which include
+T cells
+and B cells. Lymphocytes are produced in specialized lymphoid tissues, including the thymus and lymph nodes, and then released into the blood. The
+thymus
+is a gland located behind the breastbone;
+lymph nodes
+are found throughout the body. Lymphocytes in the blood and in lymphoid tissues are a major component of the immune system.
+Purine nucleoside phosphorylase is known as a housekeeping enzyme because it clears away waste molecules that are generated when DNA is broken down. Mutations in the
+PNP
+gene reduce or eliminate the activity of purine nucleoside phosphorylase. The resulting excess of waste molecules and further reactions involving them lead to the buildup of a substance called deoxyguanosine triphosphate (dGTP) to levels that can be toxic to cells. Immature T cells in the thymus are particularly vulnerable to a toxic buildup of dGTP, which damages them and triggers their self-destruction (
+apoptosis
+). B cells and T cells in other lymphoid tissues can also be damaged. The shortage of T cells and sometimes B cells results in the immune problems characteristic of purine nucleoside phosphorylase deficiency. Damage to brain cells caused by buildup of dGTP is thought to underlie the neurological problems that occur in some people with purine nucleoside phosphorylase deficiency.
+Learn more about the gene associated with Purine nucleoside phosphorylase deficiency
+PNP
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Nucleoside phosphorylase deficiency
+PNP deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Purine-nucleoside phosphorylase deficiency
+Genetic and Rare Diseases Information Center
+Purine nucleoside phosphorylase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PURINE NUCLEOSIDE PHOSPHORYLASE DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Al-Saud B, Alsmadi O, Al-Muhsen S, Al-Ghonaium A, Al-Dhekri H, Arnaout R,
+Hershfield MS, Al-Mousa H. A novel mutation in purine nucleoside phosphorylase in
+a child with normal uric acid levels. Clin Biochem. 2009 Nov;42(16-17):1725-7.
+doi: 10.1016/j.clinbiochem.2009.08.017. Epub 2009 Sep 3.
+Citation on PubMed
+Aytekin C, Dogu F, Tanir G, Guloglu D, Santisteban I, Hershfield MS,
+Ikinciogullari A. Purine nucleoside phosphorylase deficiency with fatal course in
+two sisters. Eur J Pediatr. 2010 Mar;169(3):311-4. doi:
+10.1007/s00431-009-1029-6. Epub 2009 Aug 6.
+Citation on PubMed
+Fekrvand S, Yazdani R, Abolhassani H, Ghaffari J, Aghamohammadi A. The First
+Purine Nucleoside Phosphorylase Deficiency Patient Resembling IgA Deficiency and
+a Review of the Literature. Immunol Invest. 2019 May;48(4):410-430. doi:
+10.1080/08820139.2019.1570249. Epub 2019 Mar 19.
+Citation on PubMed
+Grunebaum E, Cohen A, Roifman CM. Recent advances in understanding and
+managing adenosine deaminase and purine nucleoside phosphorylase deficiencies.
+Curr Opin Allergy Clin Immunol. 2013 Dec;13(6):630-8. doi:
+10.1097/ACI.0000000000000006.
+Citation on PubMed
+Grunebaum E, Zhang J, Roifman CM. Novel mutations and hot-spots in patients
+with purine nucleoside phosphorylase deficiency. Nucleosides Nucleotides Nucleic
+Acids. 2004 Oct;23(8-9):1411-5. doi: 10.1081/NCN-200027647.
+Citation on PubMed
+Nyhan WL. Disorders of purine and pyrimidine metabolism. Mol Genet Metab. 2005
+Sep-Oct;86(1-2):25-33. doi: 10.1016/j.ymgme.2005.07.027.
+Citation on PubMed
+Ozkinay F, Pehlivan S, Onay H, van den Berg P, Vardar F, Koturoglu G, Aksu G,
+Unal D, Tekgul H, Can S, Ozkinay C. Purine nucleoside phosphorylase deficiency in
+a patient with spastic paraplegia and recurrent infections. J Child Neurol. 2007
+Jun;22(6):741-3. doi: 10.1177/0883073807302617.
+Citation on PubMed
+Somech R, Lev A, Grisaru-Soen G, Shiran SI, Simon AJ, Grunebaum E. Purine
+nucleoside phosphorylase deficiency presenting as severe combined immune
+deficiency. Immunol Res. 2013 May;56(1):150-4. doi: 10.1007/s12026-012-8380-9.
+Citation on PubMed
+Walker PL, Corrigan A, Arenas M, Escuredo E, Fairbanks L, Marinaki A. Purine
+nucleoside phosphorylase deficiency: a mutation update. Nucleosides Nucleotides
+Nucleic Acids. 2011 Dec;30(12):1243-7. doi: 10.1080/15257770.2011.630852.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

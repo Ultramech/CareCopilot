@@ -1,0 +1,186 @@
+Familial exudative vitreoretinopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial exudative vitreoretinopathy
+URL of this page: https://medlineplus.gov/genetics/condition/familial-exudative-vitreoretinopathy/
+Familial exudative vitreoretinopathy
+Description
+Familial exudative vitreoretinopathy is a hereditary disorder that can cause vision loss that worsens over time. This condition affects the retina, the specialized light-sensitive tissue that lines the back of the eye. In people with this disorder, blood vessels do not fully develop at the outer edges (periphery) of the retina, which reduces the blood supply to this tissue. This prolonged reduction in blood supply (chronic ischemia) causes continued damage to the retina and can lead to worsening of the condition.
+The signs and symptoms of familial exudative vitreoretinopathy vary widely, even within the same family. In many affected individuals, the retinal abnormalities never cause any vision problems. Other people with this condition develop abnormal vessels that leak. This causes chronic inflammation which, over time, can lead to fluid under the retina (exudate). A reduction in the retina's blood supply causes the retina to fold, tear, or separate from the back of the eye (
+retinal detachment
+). The resulting retinal damage can lead to vision loss and blindness. Other eye abnormalities are also possible, including eyes that do not look in the same direction (strabismus) and a visible whiteness (leukocoria) in the normally black pupil.
+Some people with familial exudative vitreoretinopathy also have a condition known as
+osteoporosis-pseudoglioma syndrome
+, which is characterized by reduced bone density. People with this condition have weakened bones and an increased risk of fractures.
+Frequency
+The prevalence of familial exudative vitreoretinopathy is unknown. It is thought to be rare, although affected people with normal vision may never receive a diagnosis.
+Causes
+Variants (also called mutations) in the
+FZD4
+,
+LRP5
+, and
+NDP
+genes cause most cases of familial exudative vitreoretinopathy. These genes provide instructions for making proteins that participate in a chemical signaling pathway that affects the way cells and tissues develop. In particular, the proteins produced from the
+FZD4
+,
+LRP5
+, and
+NDP
+genes appear to play critical roles in the specialization of retinal cells and the formation of blood vessels in the retina and the inner ear. The LRP5 protein also helps regulate bone formation.
+Variants in the
+FZD4
+,
+LRP5
+, or
+NDP
+gene disrupt chemical signaling during early development, which interferes with the formation of blood vessels at the periphery of the retina. The resulting abnormal blood supply to this tissue leads to retinal damage and vision loss in some people with familial exudative vitreoretinopathy.
+The eye abnormalities associated with familial exudative vitreoretinopathy tend to be similar no matter which gene is altered. However, affected individuals with
+LRP5
+gene variants often have reduced bone mineral density in addition to vision loss. Variants in the other genes responsible for familial exudative vitreoretinopathy do not appear to affect bone density.
+Variants in other genes each cause a small number of cases of familial exudative vitreoretinopathy. In other cases, the cause of familial exudative vitreoretinopathy is unknown.
+Learn more about the genes associated with Familial exudative vitreoretinopathy
+CTNNB1
+FZD4
+LRP5
+NDP
+Additional Information from NCBI Gene:
+KIF11
+TSPAN12
+ZNF408
+Inheritance
+Familial exudative vitreoretinopathy has different inheritance patterns depending on the gene involved. Most commonly, the condition results from variants in the
+FZD4
+or
+LRP5
+gene and has an
+autosomal dominant pattern
+of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. Most people with autosomal dominant familial exudative vitreoretinopathy inherit the altered gene from a parent, although the parent may not have any signs or symptoms associated with this disorder.
+Familial exudative vitreoretinopathy caused by
+LRP5
+gene variants can also have an
+autosomal recessive pattern
+of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+When familial exudative vitreoretinopathy is caused by variants in the
+NDP
+gene, it has an
+X-linked recessive pattern
+of inheritance. The
+NDP
+gene is located on the X chromosome, which is one of the two
+sex chromosomes
+. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a variant would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of the gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+FEVR
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Exudative vitreoretinopathy 1
+Genetic Testing Registry: Exudative vitreoretinopathy 4
+Genetic Testing Registry: Exudative vitreoretinopathy 5
+Genetic Testing Registry: Exudative vitreoretinopathy 6
+Genetic Testing Registry: Exudative vitreoretinopathy 2, X-linked
+Genetic and Rare Diseases Information Center
+Familial exudative vitreoretinopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+EXUDATIVE VITREORETINOPATHY 1; EVR1
+EXUDATIVE VITREORETINOPATHY 2, X-LINKED; EVR2
+EXUDATIVE VITREORETINOPATHY 4; EVR4
+EXUDATIVE VITREORETINOPATHY 3; EVR3
+EXUDATIVE VITREORETINOPATHY 6; EVR6
+EXUDATIVE VITREORETINOPATHY 5; EVR5
+Scientific Articles on PubMed
+PubMed
+References
+Dickinson JL, Sale MM, Passmore A, FitzGerald LM, Wheatley CM, Burdon KP,
+Craig JE, Tengtrisorn S, Carden SM, Maclean H, Mackey DA. Mutations in the NDP
+gene: contribution to Norrie disease, familial exudative vitreoretinopathy and
+retinopathy of prematurity. Clin Exp Ophthalmol. 2006 Sep-Oct;34(7):682-8. doi:
+10.1111/j.1442-9071.2006.01314.x.
+Citation on PubMed
+Jiao X, Ventruto V, Trese MT, Shastry BS, Hejtmancik JF. Autosomal recessive
+familial exudative vitreoretinopathy is associated with mutations in LRP5. Am J
+Hum Genet. 2004 Nov;75(5):878-84. doi: 10.1086/425080. Epub 2004 Sep 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Qin M, Hayashi H, Oshima K, Tahira T, Hayashi K, Kondo H. Complexity of the
+genotype-phenotype correlation in familial exudative vitreoretinopathy with
+mutations in the LRP5 and/or FZD4 genes. Hum Mutat. 2005 Aug;26(2):104-12. doi:
+10.1002/humu.20191.
+Citation on PubMed
+Robitaille J, MacDonald ML, Kaykas A, Sheldahl LC, Zeisler J, Dube MP, Zhang
+LH, Singaraja RR, Guernsey DL, Zheng B, Siebert LF, Hoskin-Mott A, Trese MT,
+Pimstone SN, Shastry BS, Moon RT, Hayden MR, Goldberg YP, Samuels ME. Mutant
+frizzled-4 disrupts retinal angiogenesis in familial exudative vitreoretinopathy.
+Nat Genet. 2002 Oct;32(2):326-30. doi: 10.1038/ng957. Epub 2002 Aug 12.
+Citation on PubMed
+Scruggs BA, Reding MQ, Schimmenti LA. NDP-Related Retinopathies. 1999
+Jul 30 [updated 2023 Mar 23]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA,
+Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1331/
+Citation on PubMed
+Shukla D, Singh J, Sudheer G, Soman M, John RK, Ramasamy K, Perumalsamy N.
+Familial exudative vitreoretinopathy (FEVR). Clinical profile and management.
+Indian J Ophthalmol. 2003 Dec;51(4):323-8.
+Citation on PubMed
+Tao T, Xu N, Li J, Li H, Qu J, Yin H, Liang J, Zhao M, Li X, Huang L. Ocular
+Features and Mutation Spectrum of Patients With Familial Exudative
+Vitreoretinopathy. Invest Ophthalmol Vis Sci. 2021 Dec 1;62(15):4. doi:
+10.1167/iovs.62.15.4.
+Citation on PubMed
+Toomes C, Bottomley HM, Jackson RM, Towns KV, Scott S, Mackey DA, Craig JE,
+Jiang L, Yang Z, Trembath R, Woodruff G, Gregory-Evans CY, Gregory-Evans K,
+Parker MJ, Black GC, Downey LM, Zhang K, Inglehearn CF. Mutations in LRP5 or FZD4
+underlie the common familial exudative vitreoretinopathy locus on chromosome 11q.
+Am J Hum Genet. 2004 Apr;74(4):721-30. doi: 10.1086/383202. Epub 2004 Mar 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Warden SM, Andreoli CM, Mukai S. The Wnt signaling pathway in familial
+exudative vitreoretinopathy and Norrie disease. Semin Ophthalmol. 2007
+Oct-Dec;22(4):211-7. doi: 10.1080/08820530701745124.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Retinal Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

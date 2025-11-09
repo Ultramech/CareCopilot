@@ -1,0 +1,154 @@
+Keratoderma with woolly hair: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Keratoderma with woolly hair
+URL of this page: https://medlineplus.gov/genetics/condition/keratoderma-with-woolly-hair/
+Keratoderma with woolly hair
+Description
+Keratoderma with woolly hair is a group of related conditions that affect the skin and hair and in many cases increase the risk of potentially life-threatening heart problems. People with these conditions have hair that is unusually coarse, dry, fine, and tightly curled. In some cases, the hair is also sparse. The woolly hair texture typically affects only scalp hair and is present from birth. Starting early in life, affected individuals also develop palmoplantar keratoderma, a condition that causes skin on the palms of the hands and the soles of the feet to become thick, scaly, and calloused.
+Cardiomyopathy, which is a disease of
+the heart muscle
+, is a life-threatening health problem that can develop in people with keratoderma with woolly hair. Unlike the other features of this condition, signs and symptoms of cardiomyopathy may not appear until adolescence or later. Complications of cardiomyopathy can include an abnormal heartbeat (arrhythmia), heart failure, and sudden death.
+Keratoderma with woolly hair comprises several related conditions with overlapping signs and symptoms. Researchers have recently proposed classifying keratoderma with woolly hair into four types, based on the underlying genetic cause. Type I, also known as Naxos disease, is characterized by palmoplantar keratoderma, woolly hair, and a form of cardiomyopathy called
+arrhythmogenic right ventricular cardiomyopathy
+(ARVC). Type II, also known as Carvajal syndrome, has hair and skin abnormalities similar to type I but features a different form of cardiomyopathy, called dilated left ventricular cardiomyopathy. Type III also has signs and symptoms similar to those of type I, including ARVC, although the hair and skin abnormalities are often milder. Type IV is characterized by palmoplantar keratoderma and woolly and sparse hair, as well as abnormal fingernails and toenails. Type IV does not appear to cause cardiomyopathy.
+Frequency
+Keratoderma with woolly hair is rare; its prevalence worldwide is unknown.
+Type I (Naxos disease) was first described in families from the Greek island of Naxos. Since then, affected families have been found in other Greek islands, Turkey, and the Middle East. This form of the condition may affect up to 1 in 1,000 people from the Greek islands.
+Type II (Carvajal syndrome), type III, and type IV have each been identified in only a small number of families worldwide.
+Causes
+Mutations in the
+JUP
+,
+DSP
+,
+DSC2
+, and
+KANK2
+genes cause keratoderma with woolly hair types I through IV, respectively. The
+JUP
+,
+DSP
+, and
+DSC2
+genes provide instructions for making components of specialized cell structures called desmosomes. Desmosomes are located in the membrane surrounding certain cells, including skin and heart muscle cells. Desmosomes help attach cells to one another, which provides strength and stability to tissues. They also play a role in signaling between cells.
+Mutations in the
+JUP
+,
+DSP
+, or
+DSC2
+gene alter the structure and impair the function of desmosomes. Abnormal or missing desmosomes prevent cells from sticking to one another effectively, which likely makes the hair, skin, and
+heart muscle
+more fragile. Over time, as these tissues are exposed to mechanical stress (for example, friction on the surface of the skin or the constant contraction and relaxation of the heart muscle), they become damaged and can no longer function normally. This mechanism probably underlies the skin, hair, and heart problems that occur in keratoderma with woolly hair. Some studies suggest that abnormal cell signaling may also contribute to cardiomyopathy in people with this group of conditions.
+Unlike the other genes associated with keratoderma with woolly hair, the
+KANK2
+gene provides instructions for making a protein that is not part of desmosomes. Instead, it regulates other proteins called steroid receptor coactivators (SRCs), whose function is to help turn on (activate) certain genes. SRCs play important roles in tissues throughout the body, including the skin. Studies suggest that mutations in the
+KANK2
+gene disrupt the regulation of SRCs, which leads to abnormal gene activity. However, it is unclear how these changes underlie the skin and hair abnormalities in keratoderma with woolly hair type IV.
+Learn more about the genes associated with Keratoderma with woolly hair
+DSC2
+DSP
+JUP
+KANK2
+Inheritance
+Most cases of keratoderma with woolly hair have an
+autosomal recessive pattern
+of inheritance, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they usually do not show signs and symptoms of the condition.
+Other Names for This Condition
+KWWH
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Arrhythmogenic right ventricular dysplasia 11
+Genetic Testing Registry: Cardiomyopathy, dilated, with wooly hair, keratoderma, and tooth agenesis
+Genetic Testing Registry: Wooly hair-palmoplantar keratoderma syndrome
+Genetic Testing Registry: Naxos disease
+Genetic and Rare Diseases Information Center
+Carvajal syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+NAXOS DISEASE; NXD
+CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR AND KERATODERMA; DCWHK
+ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 11; ARVD11
+CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR, KERATODERMA, AND TOOTH AGENESIS; DCWHKTA
+PALMOPLANTAR KERATODERMA AND WOOLLY HAIR; PPKWH
+Scientific Articles on PubMed
+PubMed
+References
+McKoy G, Protonotarios N, Crosby A, Tsatsopoulou A, Anastasakis A, Coonar A,
+Norman M, Baboonian C, Jeffery S, McKenna WJ. Identification of a deletion in
+plakoglobin in arrhythmogenic right ventricular cardiomyopathy with palmoplantar
+keratoderma and woolly hair (Naxos disease). Lancet. 2000 Jun
+17;355(9221):2119-24. doi: 10.1016/S0140-6736(00)02379-5.
+Citation on PubMed
+Norgett EE, Hatsell SJ, Carvajal-Huerta L, Cabezas JC, Common J, Purkis PE,
+Whittock N, Leigh IM, Stevens HP, Kelsell DP. Recessive mutation in desmoplakin
+disrupts desmoplakin-intermediate filament interactions and causes dilated
+cardiomyopathy, woolly hair and keratoderma. Hum Mol Genet. 2000 Nov
+1;9(18):2761-6. doi: 10.1093/hmg/9.18.2761.
+Citation on PubMed
+Petrof G, Mellerio JE, McGrath JA. Desmosomal genodermatoses. Br J Dermatol.
+2012 Jan;166(1):36-45. doi: 10.1111/j.1365-2133.2011.10640.x.
+Citation on PubMed
+Polivka L, Bodemer C, Hadj-Rabia S. Combination of palmoplantar keratoderma
+and hair shaft anomalies, the warning signal of severe arrhythmogenic
+cardiomyopathy: a systematic review on genetic desmosomal diseases. J Med Genet.
+2016 May;53(5):289-95. doi: 10.1136/jmedgenet-2015-103403. Epub 2015 Sep 23.
+Citation on PubMed
+Ramot Y, Molho-Pessach V, Meir T, Alper-Pinus R, Siam I, Tams S, Babay S,
+Zlotogorski A. Mutation in KANK2, encoding a sequestering protein for steroid
+receptor coactivators, causes keratoderma and woolly hair. J Med Genet. 2014
+Jun;51(6):388-94. doi: 10.1136/jmedgenet-2014-102346. Epub 2014 Mar 26.
+Citation on PubMed
+Ramot Y, Zlotogorski A. The twisting tale of woolly hair: a trait with many
+causes. J Med Genet. 2015 Apr;52(4):217-23. doi: 10.1136/jmedgenet-2014-102630.
+Epub 2015 Jan 5.
+Citation on PubMed
+Simpson MA, Mansour S, Ahnood D, Kalidas K, Patton MA, McKenna WJ, Behr ER,
+Crosby AH. Homozygous mutation of desmocollin-2 in arrhythmogenic right
+ventricular cardiomyopathy with mild palmoplantar keratoderma and woolly hair.
+Cardiology. 2009;113(1):28-34. doi: 10.1159/000165696. Epub 2008 Oct 29.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cardiomyopathy
+Genetic Disorders
+Hair Problems
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Cardiomyopathy
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

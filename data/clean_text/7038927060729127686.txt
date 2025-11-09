@@ -1,0 +1,189 @@
+7q11.23 duplication syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+7q11.23 duplication syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/7q1123-duplication-syndrome/
+7q11.23 duplication syndrome
+Description
+7q11.23 duplication syndrome is a condition that can cause a variety of neurological and behavioral problems as well as other abnormalities.
+People with 7q11.23 duplication syndrome typically have delayed development of speech and motor skills such as crawling and walking. Speech problems and abnormalities in the way affected individuals walk and stand may persist throughout life. People with this condition may also have weak muscle tone (hypotonia) and abnormal movements, such as involuntary movements of one side of the body that mirror intentional movements of the other side. About one-fifth of people with 7q11.23 duplication syndrome experience seizures.
+Intellectual development varies widely in 7q11.23 duplication syndrome. The majority of people with this condition have low-average to average intelligence. Intellectual disability or borderline intellectual ability occur in about one-third of affected individuals. Rarely, people with this disorder have above-average intelligence.
+Neurodevelopmental problems associated with this condition include anxiety disorders (such as social phobias and selective mutism, which is an inability to speak in certain circumstances),
+attention-deficit/hyperactivity disorder
+(ADHD), physical aggression, excessively defiant behavior (oppositional disorder), and
+autism spectrum disorder
+that affect communication and social interaction.
+Approximately half of individuals with 7q11.23 duplication syndrome have enlargement (dilatation) of the blood vessel that carries blood from the heart to the rest of the body (the
+aorta
+); this enlargement can get worse over time. Aortic dilatation can lead to life-threatening complications if the wall of the aorta separates into layers (
+aortic dissection
+) or breaks open (ruptures).
+People with 7q11.23 duplication syndrome can have
+characteristic features
+of the head and face, including a large head (macrocephaly) that is flattened in the back (brachycephaly), a broad forehead, straight eyebrows, and deep-set eyes with long eyelashes. The nose may be broad at the tip with the area separating the nostrils attaching lower than usual on the face (low insertion of the columella), resulting in a shortened area between the nose and the upper lip (philtrum). A high arch in the roof of the mouth (
+high-arched palate
+) and ear abnormalities may also occur. These features may be mild and not recognized in some affected individuals.
+Frequency
+The prevalence of this disorder is estimated to be 1 in 7,500 to 20,000 people.
+Causes
+7q11.23 duplication syndrome results from an
+extra copy
+of a region on the long (q) arm of
+chromosome 7
+in each cell. This region is called the Williams-Beuren syndrome critical region (WBSCR) because its deletion causes a different disorder called
+Williams syndrome
+, also known as Williams-Beuren syndrome. The region, which is 1.5 to 1.8 million DNA base pairs (Mb) in length, includes 26 to 28 genes.
+Extra copies of several of the genes in the duplicated region, including the
+ELN
+and
+GTF2I
+genes, likely contribute to the characteristic features of 7q11.23 duplication syndrome. Researchers suggest that an extra copy of the
+ELN
+gene in each cell may be related to the increased risk for aortic dilatation in 7q11.23 duplication syndrome. Studies suggest that an extra copy of the
+GTF2I
+gene may be associated with some of the behavioral features of the disorder. However, the specific causes of these features are unclear.
+Researchers are studying additional genes in the duplicated region, but none have been definitely linked to any of the specific signs or symptoms of 7q11.23 duplication syndrome.
+Learn more about the genes and chromosome associated with 7q11.23 duplication syndrome
+ELN
+GTF2I
+chromosome 7
+Inheritance
+7q11.23 duplication syndrome is considered to be an autosomal dominant condition, which means one copy of chromosome 7 with the duplication in each cell is sufficient to cause the disorder. Most cases result from a duplication that occurs during the formation of reproductive cells (eggs and sperm). These cases occur in people with
+no history of the disorder in their family
+. In about a quarter of cases, an affected person inherits the chromosome with a duplicated segment
+from a parent
+. Typically, the parent has subtle signs and symptoms related to the duplication and is not diagnosed until after the disorder is recognized in the child.
+Other Names for This Condition
+7q11.23 microduplication syndrome
+Chromosome 7q11.23 duplication
+Chromosome 7q11.23 duplication syndrome
+Dup(7)(q11.23)
+Somerville-Van der Aa syndrome
+Trisomy 7q11.23
+WBS duplication syndrome
+Williams-Beuren region duplication syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: 7q11.23 microduplication syndrome
+Genetic and Rare Diseases Information Center
+7q11.23 microduplication syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+WILLIAMS-BEUREN REGION DUPLICATION SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Berg JS, Brunetti-Pierri N, Peters SU, Kang SH, Fong CT, Salamone J,
+Freedenberg D, Hannig VL, Prock LA, Miller DT, Raffalli P, Harris DJ, Erickson
+RP, Cunniff C, Clark GD, Blazo MA, Peiffer DA, Gunderson KL, Sahoo T, Patel A,
+Lupski JR, Beaudet AL, Cheung SW. Speech delay and autism spectrum behaviors are
+frequently associated with duplication of the 7q11.23 Williams-Beuren syndrome
+region. Genet Med. 2007 Jul;9(7):427-41. doi: 10.1097/gim.0b013e3180986192.
+Citation on PubMed
+Merla G, Brunetti-Pierri N, Micale L, Fusco C. Copy number variants at
+Williams-Beuren syndrome 7q11.23 region. Hum Genet. 2010 Jul;128(1):3-26. doi:
+10.1007/s00439-010-0827-2. Epub 2010 May 1.
+Citation on PubMed
+Mervis CB, Klein-Tasman BP, Huffman MJ, Velleman SL, Pitts CH, Henderson DR,
+Woodruff-Borden J, Morris CA, Osborne LR. Children with 7q11.23 duplication
+syndrome: psychological characteristics. Am J Med Genet A. 2015
+Jul;167(7):1436-50. doi: 10.1002/ajmg.a.37071. Epub 2015 Apr 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mervis CB, Morris CA, Klein-Tasman BP, Velleman SL, Osborne LR. 7q11.23
+Duplication Syndrome. 2015 Nov 25 [updated 2021 Mar 25]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK327268/
+Citation on PubMed
+Morris CA, Mervis CB, Paciorkowski AP, Abdul-Rahman O, Dugan SL, Rope AF,
+Bader P, Hendon LG, Velleman SL, Klein-Tasman BP, Osborne LR. 7q11.23 Duplication
+syndrome: Physical characteristics and natural history. Am J Med Genet A. 2015
+Dec;167A(12):2916-35. doi: 10.1002/ajmg.a.37340. Epub 2015 Sep 3.
+Citation on PubMed
+Parrott A, James J, Goldenberg P, Hinton RB, Miller E, Shikany A, Aylsworth
+AS, Kaiser-Rogers K, Ferns SJ, Lalani SR, Ware SM. Aortopathy in the 7q11.23
+microduplication syndrome. Am J Med Genet A. 2015 Feb;167A(2):363-70. doi:
+10.1002/ajmg.a.36859. Epub 2014 Nov 26.
+Citation on PubMed
+Sanders SJ, Ercan-Sencicek AG, Hus V, Luo R, Murtha MT, Moreno-De-Luca D, Chu
+SH, Moreau MP, Gupta AR, Thomson SA, Mason CE, Bilguvar K, Celestino-Soper PB,
+Choi M, Crawford EL, Davis L, Wright NR, Dhodapkar RM, DiCola M, DiLullo NM,
+Fernandez TV, Fielding-Singh V, Fishman DO, Frahm S, Garagaloyan R, Goh GS,
+Kammela S, Klei L, Lowe JK, Lund SC, McGrew AD, Meyer KA, Moffat WJ, Murdoch JD,
+O'Roak BJ, Ober GT, Pottenger RS, Raubeson MJ, Song Y, Wang Q, Yaspan BL, Yu TW,
+Yurkiewicz IR, Beaudet AL, Cantor RM, Curland M, Grice DE, Gunel M, Lifton RP,
+Mane SM, Martin DM, Shaw CA, Sheldon M, Tischfield JA, Walsh CA, Morrow EM,
+Ledbetter DH, Fombonne E, Lord C, Martin CL, Brooks AI, Sutcliffe JS, Cook EH Jr,
+Geschwind D, Roeder K, Devlin B, State MW. Multiple recurrent de novo CNVs,
+including duplications of the 7q11.23 Williams syndrome region, are strongly
+associated with autism. Neuron. 2011 Jun 9;70(5):863-85. doi:
+10.1016/j.neuron.2011.05.002.
+Citation on PubMed
+or
+Free article on PubMed Central
+Somerville MJ, Mervis CB, Young EJ, Seo EJ, del Campo M, Bamforth S, Peregrine
+E, Loo W, Lilley M, Perez-Jurado LA, Morris CA, Scherer SW, Osborne LR. Severe
+expressive-language delay related to duplication of the Williams-Beuren locus. N
+Engl J Med. 2005 Oct 20;353(16):1694-701. doi: 10.1056/NEJMoa051962.
+Citation on PubMed
+or
+Free article on PubMed Central
+Van der Aa N, Rooms L, Vandeweyer G, van den Ende J, Reyniers E, Fichera M,
+Romano C, Delle Chiaie B, Mortier G, Menten B, Destree A, Maystadt I, Mannik K,
+Kurg A, Reimand T, McMullan D, Oley C, Brueton L, Bongers EM, van Bon BW, Pfund
+R, Jacquemont S, Ferrarini A, Martinet D, Schrander-Stumpel C, Stegmann AP,
+Frints SG, de Vries BB, Ceulemans B, Kooy RF. Fourteen new cases contribute to
+the characterization of the 7q11.23 microduplication syndrome. Eur J Med Genet.
+2009 Mar-Jun;52(2-3):94-100. doi: 10.1016/j.ejmg.2009.02.006. Epub 2009 Feb 26.
+Citation on PubMed
+Velleman SL, Mervis CB. Children with 7q11.23 Duplication Syndrome: Speech,
+Language, Cognitive, and Behavioral Characteristics and their Implications for
+Intervention. Perspect Lang Learn Educ. 2011 Oct 1;18(3):108-116. doi:
+10.1044/lle18.3.108.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

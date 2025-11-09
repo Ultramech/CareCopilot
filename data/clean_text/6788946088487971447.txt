@@ -1,0 +1,151 @@
+SUCLA2-related mitochondrial DNA depletion syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+SUCLA2-related mitochondrial DNA depletion syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/sucla2-related-mitochondrial-dna-depletion-syndrome/
+SUCLA2-related mitochondrial DNA depletion syndrome
+Description
+SUCLA2-
+related mitochondrial DNA (mtDNA) depletion syndrome is an inherited disorder that affects the early development of the brain. Affected infants typically develop weak muscle tone (hypotonia) in the first few months of life. In these infants, hypotonia can delay the development of motor skills such as lifting the head and rolling over. Children with
+SUCLA2
+-related mtDNA depletion syndrome typically have difficulty eating and may require a feeding tube; as a result, they have difficulty growing and gaining weight as expected (failure to thrive).
+Additional features of
+SUCLA2
+-related mtDNA depletion syndrome can include uncontrolled movements (dystonia), hearing loss, muscle wasting (atrophy), and intellectual disabilities. In most affected children, a substance called methylmalonic acid builds up in the blood.
+People with
+SUCLA2
+-related mtDNA depletion syndrome typically have a shortened lifespan. Approximately 30 percent of individuals with
+SUCLA2
+-related mtDNA depletion syndrome do not survive past childhood.
+Frequency
+Approximately 60 people with
+SUCLA2
+-related mtDNA depletion syndrome have been reported in the medical literature. This condition occurs more frequently among people from the Faroe Islands in the North Atlantic Ocean.
+Causes
+SUCLA2
+-related mtDNA depletion syndrome is caused by variants (also called mutations) in the
+SUCLA2
+gene. The
+SUCLA2
+gene provides instructions for making one part (the beta subunit) of an enzyme called succinyl-CoA ligase. This enzyme plays an important role in
+mitochondria
+, which are the energy-producing centers inside the cell. Succinyl-CoA ligase is involved in producing and maintaining the molecules that make up mtDNA, which is essential for the normal function of mitochondria.
+Variants in the
+SUCLA2
+gene lead to the production of an altered version of the beta subunit, which disrupts the normal function of succinyl-CoA ligase. A shortage (deficiency) of the normal enzyme leads to problems with the production and maintenance of mtDNA. A reduction in the amount of mtDNA (known as mtDNA depletion) impairs energy production in many of the body's cells and tissues. These problems lead to the characteristic features of
+SUCLA2
+-related mtDNA depletion syndrome.
+Learn more about the gene associated with SUCLA2-related mitochondrial DNA depletion syndrome
+SUCLA2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)
+Mitochondrial DNA depletion syndrome, encephalomyopathic form with or without methylmalonic aciduria, autosomal recessive, SUCLA2-related
+MTDPS5
+Succinate-CoA ligase deficiency
+SUCLA2 deficiency
+SUCLA2-related mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria
+Genetic and Rare Diseases Information Center
+Mitochondrial DNA depletion syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MITOCHONDRIAL DNA DEPLETION SYNDROME 5 (ENCEPHALOMYOPATHIC WITH OR WITHOUT METHYLMALONIC ACIDURIA); MTDPS5
+Scientific Articles on PubMed
+PubMed
+References
+Alberio S, Mineri R, Tiranti V, Zeviani M. Depletion of mtDNA: syndromes and
+genes. Mitochondrion. 2007 Feb-Apr;7(1-2):6-12. doi: 10.1016/j.mito.2006.11.010.
+Epub 2006 Dec 5.
+Citation on PubMed
+Carrozzo R, Dionisi-Vici C, Steuerwald U, Lucioli S, Deodato F, Di
+Giandomenico S, Bertini E, Franke B, Kluijtmans LA, Meschini MC, Rizzo C,
+Piemonte F, Rodenburg R, Santer R, Santorelli FM, van Rooij A, Vermunt-de Koning
+D, Morava E, Wevers RA. SUCLA2 mutations are associated with mild methylmalonic
+aciduria, Leigh-like encephalomyopathy, dystonia and deafness. Brain. 2007
+Mar;130(Pt 3):862-74. doi: 10.1093/brain/awl389. Epub 2007 Feb 14.
+Citation on PubMed
+Carrozzo R, Verrigni D, Rasmussen M, de Coo R, Amartino H, Bianchi M, Buhas D,
+Mesli S, Naess K, Born AP, Woldseth B, Prontera P, Batbayli M, Ravn K, Joensen F,
+Cordelli DM, Santorelli FM, Tulinius M, Darin N, Duno M, Jouvencel P, Burlina A,
+Stangoni G, Bertini E, Redonnet-Vernhet I, Wibrand F, Dionisi-Vici C, Uusimaa J,
+Vieira P, Osorio AN, McFarland R, Taylor RW, Holme E, Ostergaard E. Succinate-CoA
+ligase deficiency due to mutations in SUCLA2 and SUCLG1: phenotype and genotype
+correlations in 71 patients. J Inherit Metab Dis. 2016 Mar;39(2):243-52. doi:
+10.1007/s10545-015-9894-9. Epub 2015 Oct 16.
+Citation on PubMed
+El-Hattab AW, Scaglia F. SUCLA2-Related Mitochondrial DNA Depletion
+Syndrome, Encephalomyopathic Form with Methylmalonic Aciduria. 2009 May 26
+[updated 2023 Sep 28]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK6803/
+Citation on PubMed
+Elpeleg O, Miller C, Hershkovitz E, Bitner-Glindzicz M, Bondi-Rubinstein G,
+Rahman S, Pagnamenta A, Eshhar S, Saada A. Deficiency of the ADP-forming
+succinyl-CoA synthase activity is associated with encephalomyopathy and
+mitochondrial DNA depletion. Am J Hum Genet. 2005 Jun;76(6):1081-6. doi:
+10.1086/430843. Epub 2005 Apr 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ostergaard E, Hansen FJ, Sorensen N, Duno M, Vissing J, Larsen PL, Faeroe O,
+Thorgrimsson S, Wibrand F, Christensen E, Schwartz M. Mitochondrial
+encephalomyopathy with elevated methylmalonic acid is caused by SUCLA2 mutations.
+Brain. 2007 Mar;130(Pt 3):853-61. doi: 10.1093/brain/awl383. Epub 2007 Feb 7.
+Citation on PubMed
+Ostergaard E. Disorders caused by deficiency of succinate-CoA ligase. J
+Inherit Metab Dis. 2008 Apr;31(2):226-9. doi: 10.1007/s10545-008-0828-7. Epub
+2008 Apr 4.
+Citation on PubMed
+Spinazzola A, Invernizzi F, Carrara F, Lamantea E, Donati A, Dirocco M,
+Giordano I, Meznaric-Petrusa M, Baruffini E, Ferrero I, Zeviani M. Clinical and
+molecular features of mitochondrial DNA depletion syndromes. J Inherit Metab Dis.
+2009 Apr;32(2):143-58. doi: 10.1007/s10545-008-1038-z. Epub 2008 Dec 27.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Mitochondrial Diseases
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hypotonia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

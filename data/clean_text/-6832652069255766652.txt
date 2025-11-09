@@ -1,0 +1,144 @@
+Adenosine deaminase 2 deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Adenosine deaminase 2 deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/adenosine-deaminase-2-deficiency/
+Adenosine deaminase 2 deficiency
+Description
+Adenosine deaminase 2 (ADA2) deficiency is a disorder characterized by abnormal inflammation of various tissues. Signs and symptoms can begin anytime from early childhood to adulthood. The severity of the disorder also varies, even among affected individuals in the same family.
+Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). However, ADA2 deficiency causes abnormal, unprovoked inflammation that can damage the body's tissues and organs, particularly blood vessels. (Inflammation of blood vessels is known as vasculitis.) Other tissues affected by abnormal inflammation can include the skin, gastrointestinal system, liver, kidneys, and nervous system. Depending on the severity and location of the inflammation, the disorder can cause disability or be life-threatening.
+Signs and symptoms that can occur with ADA2 deficiency include fevers that are intermittent, meaning they come and go; areas of net-like, mottled skin discoloration called livedo racemosa; an enlarged liver and spleen (hepatosplenomegaly); and recurrent strokes affecting structures deep in the brain that can start in the first few years of life. In some people, ADA2 deficiency causes additional immune system abnormalities that increase the risk of bacterial and viral infections.
+ADA2 deficiency is sometimes described as a form of polyarteritis nodosa (PAN), a disorder that causes inflammation of blood vessels throughout the body (systemic vasculitis). However, not all researchers classify ADA2 deficiency as a type of PAN.
+Frequency
+More than 160 individuals with ADA2 deficiency have been described in the medical literature. However, researchers suspect that many more people may be affected, and ADA2 deficiency may not be a rare disease. They are working to determine whether this condition could underlie other, more common forms of vasculitis and stroke whose causes are currently unknown.
+Causes
+ADA2 deficiency is caused by mutations in the
+ADA2
+gene. This gene provides instructions for making an enzyme called adenosine deaminase 2. Studies suggest that this enzyme plays an essential role in the growth and development of certain immune system cells, including
+macrophages
+, which are a type of white blood cell that plays a critical role in inflammation. Some macrophages are pro-inflammatory, meaning they promote inflammation, while others are anti-inflammatory, meaning they reduce inflammation.
+Mutations in the
+ADA2
+gene severely reduce or eliminate the activity of adenosine deaminase 2. Researchers do not fully understand how a shortage (deficiency) of this enzyme's activity leads to vasculitis and immune system abnormalities. They speculate that the enzyme deficiency may disrupt the balance between pro-inflammatory and anti-inflammatory macrophages in various tissues, leading to a buildup of pro-inflammatory macrophages and abnormal inflammation.
+Learn more about the gene associated with Adenosine deaminase 2 deficiency
+ADA2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ADA2 deficiency
+Childhood-onset polyarteritis nodosa
+DADA2
+Deficiency of ADA2
+Sneddon syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Sneddon syndrome
+Genetic Testing Registry: Vasculitis due to ADA2 deficiency
+Genetic and Rare Diseases Information Center
+Polyarteritis nodosa
+Sneddon syndrome
+Vasculitis due to ADA2 deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SNEDDON SYNDROME; SNDNS
+VASCULITIS, AUTOINFLAMMATION, IMMUNODEFICIENCY, AND HEMATOLOGIC DEFECTS SYNDROME; VAIHS
+Scientific Articles on PubMed
+PubMed
+References
+Caorsi R, Penco F, Grossi A, Insalaco A, Omenetti A, Alessio M, Conti G,
+Marchetti F, Picco P, Tommasini A, Martino S, Malattia C, Gallizzi R, Podda RA,
+Salis A, Falcini F, Schena F, Garbarino F, Morreale A, Pardeo M, Ventrici C,
+Passarelli C, Zhou Q, Severino M, Gandolfo C, Damonte G, Martini A, Ravelli A,
+Aksentijevich I, Ceccherini I, Gattorno M. ADA2 deficiency (DADA2) as an
+unrecognised cause of early onset polyarteritis nodosa and stroke: a multicentre
+national study. Ann Rheum Dis. 2017 Oct;76(10):1648-1656. doi:
+10.1136/annrheumdis-2016-210802. Epub 2017 May 18.
+Citation on PubMed
+Garg N, Kasapcopur O, Foster J 2nd, Barut K, Tekin A, Kizilkilic O, Tekin M.
+Novel adenosine deaminase 2 mutations in a child with a fatal vasculopathy. Eur J
+Pediatr. 2014 Jun;173(6):827-30. doi: 10.1007/s00431-014-2320-8. Epub 2014 Apr
+16.
+Citation on PubMed
+Meyts I, Aksentijevich I. Deficiency of Adenosine Deaminase 2 (DADA2): Updates
+on the Phenotype, Genetics, Pathogenesis, and Treatment. J Clin Immunol. 2018
+Jul;38(5):569-578. doi: 10.1007/s10875-018-0525-8. Epub 2018 Jun 27.
+Citation on PubMed
+Nanthapisal S, Murphy C, Omoyinmi E, Hong Y, Standing A, Berg S, Ekelund M,
+Jolles S, Harper L, Youngstein T, Gilmour K, Klein NJ, Eleftheriou D, Brogan PA.
+Deficiency of Adenosine Deaminase Type 2: A Description of Phenotype and Genotype
+in Fifteen Cases. Arthritis Rheumatol. 2016 Sep;68(9):2314-22. doi:
+10.1002/art.39699.
+Citation on PubMed
+Navon Elkan P, Pierce SB, Segel R, Walsh T, Barash J, Padeh S, Zlotogorski A,
+Berkun Y, Press JJ, Mukamel M, Voth I, Hashkes PJ, Harel L, Hoffer V, Ling E,
+Yalcinkaya F, Kasapcopur O, Lee MK, Klevit RE, Renbaum P, Weinberg-Shukron A,
+Sener EF, Schormair B, Zeligson S, Marek-Yagel D, Strom TM, Shohat M, Singer A,
+Rubinow A, Pras E, Winkelmann J, Tekin M, Anikster Y, King MC, Levy-Lahad E.
+Mutant adenosine deaminase 2 in a polyarteritis nodosa vasculopathy. N Engl J
+Med. 2014 Mar 6;370(10):921-31. doi: 10.1056/NEJMoa1307362. Epub 2014 Feb 19.
+Citation on PubMed
+Van Montfrans JM, Hartman EA, Braun KP, Hennekam EA, Hak EA, Nederkoorn PJ,
+Westendorp WF, Bredius RG, Kollen WJ, Scholvinck EH, Legger GE, Meyts I, Liston
+A, Lichtenbelt KD, Giltay JC, Van Haaften G, De Vries Simons GM, Leavis H,
+Sanders CJ, Bierings MB, Nierkens S, Van Gijn ME. Phenotypic variability in
+patients with ADA2 deficiency due to identical homozygous R169Q mutations.
+Rheumatology (Oxford). 2016 May;55(5):902-10. doi: 10.1093/rheumatology/kev439.
+Epub 2016 Feb 10.
+Citation on PubMed
+Zhou Q, Yang D, Ombrello AK, Zavialov AV, Toro C, Zavialov AV, Stone DL, Chae
+JJ, Rosenzweig SD, Bishop K, Barron KS, Kuehn HS, Hoffmann P, Negro A, Tsai WL,
+Cowen EW, Pei W, Milner JD, Silvin C, Heller T, Chin DT, Patronas NJ, Barber JS,
+Lee CC, Wood GM, Ling A, Kelly SJ, Kleiner DE, Mullikin JC, Ganson NJ, Kong HH,
+Hambleton S, Candotti F, Quezado MM, Calvo KR, Alao H, Barham BK, Jones A,
+Meschia JF, Worrall BB, Kasner SE, Rich SS, Goldbach-Mansky R, Abinun M, Chalom
+E, Gotte AC, Punaro M, Pascual V, Verbsky JW, Torgerson TR, Singer NG, Gershon
+TR, Ozen S, Karadag O, Fleisher TA, Remmers EF, Burgess SM, Moir SL, Gadina M,
+Sood R, Hershfield MS, Boehm M, Kastner DL, Aksentijevich I. Early-onset stroke
+and vasculopathy associated with mutations in ADA2. N Engl J Med. 2014 Mar
+6;370(10):911-20. doi: 10.1056/NEJMoa1307361. Epub 2014 Feb 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Ischemic Stroke
+Vasculitis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Polyarteritis nodosa
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

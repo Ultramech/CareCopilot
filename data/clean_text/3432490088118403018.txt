@@ -1,0 +1,120 @@
+Congenital deafness with labyrinthine aplasia, microtia, and microdontia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital deafness with labyrinthine aplasia, microtia, and microdontia
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia/
+Congenital deafness with labyrinthine aplasia, microtia, and microdontia
+Description
+Congenital deafness with labyrinthine aplasia, microtia, and microdontia (also called LAMM syndrome) is a condition that affects development of the ears and teeth. In people with this condition, the structures that form the
+inner ear
+are usually completely absent (labyrinthine aplasia). Rarely, affected individuals have some underdeveloped inner ear structures in one or both ears. The abnormalities of the inner ear cause a form of hearing loss called sensorineural deafness that is present from birth (congenital). Because the inner ear is important for balance as well as hearing, development of motor skills, such as sitting and crawling, may be delayed in affected infants. In addition, people with LAMM syndrome often have abnormally small outer ears (
+microtia
+) with narrow ear canals. They can also have unusually small, widely spaced teeth (microdontia).
+Frequency
+LAMM syndrome is a rare condition, although its prevalence is unknown. Approximately a dozen affected families have been identified.
+Causes
+LAMM syndrome is caused by mutations in the
+FGF3
+gene, which provides instructions for making a protein called fibroblast growth factor 3 (FGF3). By attaching to another protein known as a receptor, the FGF3 protein triggers a cascade of chemical reactions inside the cell that signal the cell to undergo certain changes, such as dividing or maturing to take on specialized functions. During development before birth, the signals triggered by the FGF3 protein stimulate cells to form the structures that make up the inner ears. The FGF3 protein is also involved in the development of many other organs and structures, including the outer ears and teeth.
+FGF3
+gene mutations involved in LAMM syndrome alter the FGF3 protein. The altered protein likely has reduced or absent function and is unable to stimulate signaling. The loss of FGF3 function impairs development of the ears and teeth, which leads to the characteristic features of LAMM syndrome.
+Learn more about the gene associated with Congenital deafness with labyrinthine aplasia, microtia, and microdontia
+FGF3
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital deafness with inner ear agenesis, microtia, and microdontia
+Deafness with LAMM
+LAMM syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deafness with labyrinthine aplasia, microtia, and microdontia
+Genetic and Rare Diseases Information Center
+Deafness with labyrinthine aplasia, microtia, and microdontia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+DEAFNESS, CONGENITAL, WITH INNER EAR AGENESIS, MICROTIA, AND MICRODONTIA
+Scientific Articles on PubMed
+PubMed
+References
+Alsmadi O, Meyer BF, Alkuraya F, Wakil S, Alkayal F, Al-Saud H, Ramzan K,
+Al-Sayed M. Syndromic congenital sensorineural deafness, microtia and microdontia
+resulting from a novel homoallelic mutation in fibroblast growth factor 3 (FGF3).
+Eur J Hum Genet. 2009 Jan;17(1):14-21. doi: 10.1038/ejhg.2008.141. Epub 2008 Aug
+13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ordonez J, Tekin M. Congenital Deafness with Labyrinthine Aplasia, Microtia,
+and Microdontia. 2012 Sep 20 [updated 2025 Aug 14]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK100664/
+Citation on PubMed
+Riazuddin S, Ahmed ZM, Hegde RS, Khan SN, Nasir I, Shaukat U, Riazuddin S,
+Butman JA, Griffith AJ, Friedman TB, Choi BY. Variable expressivity of FGF3
+mutations associated with deafness and LAMM syndrome. BMC Med Genet. 2011 Feb
+9;12:21. doi: 10.1186/1471-2350-12-21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tekin M, Hismi BO, Fitoz S, Ozdag H, Cengiz FB, Sirmaci A, Aslan I, Inceoglu
+B, Yuksel-Konuk EB, Yilmaz ST, Yasun O, Akar N. Homozygous mutations in
+fibroblast growth factor 3 are associated with a new form of syndromic deafness
+characterized by inner ear agenesis, microtia, and microdontia. Am J Hum Genet.
+2007 Feb;80(2):338-44. doi: 10.1086/510920. Epub 2006 Dec 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tekin M, Ozturkmen Akay H, Fitoz S, Birnbaum S, Cengiz FB, Sennaroglu L,
+Incesulu A, Yuksel Konuk EB, Hasanefendioglu Bayrak A, Senturk S, Cebeci I, Utine
+GE, Tuncbilek E, Nance WE, Duman D. Homozygous FGF3 mutations result in
+congenital deafness with inner ear agenesis, microtia, and microdontia. Clin
+Genet. 2008 Jun;73(6):554-65. doi: 10.1111/j.1399-0004.2008.01004.x. Epub 2008
+Apr 22.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Ear Disorders
+Genetic Disorders
+Hearing Disorders and Deafness
+Hearing Problems in Children
+MEDICAL ENCYCLOPEDIA
+Genetics
+Living with hearing loss
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

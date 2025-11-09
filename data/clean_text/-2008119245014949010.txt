@@ -1,0 +1,141 @@
+Fundus albipunctatus: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Fundus albipunctatus
+URL of this page: https://medlineplus.gov/genetics/condition/fundus-albipunctatus/
+Fundus albipunctatus
+Description
+Fundus albipunctatus is an eye disorder characterized by an impaired ability to see in low light (night blindness) and the presence of whitish-yellow flecks in the retina, which is the specialized light-sensitive tissue in the inner lining of the back of the eye (the fundus). The flecks are detected during an eye examination.
+Individuals with fundus albipunctatus experience night blindness from an early age. In particular, they have delayed dark adaptation, which means they have trouble adapting from bright light to dark conditions, such as when driving into a dark tunnel on a sunny day. It often takes hours for adaptation to occur. Their vision in bright light is usually normal.
+The flecks are especially abundant near the outer edge (the periphery) of the retina. Their density varies among affected individuals; some people have numerous flecks that overlap, while others have fewer. For unknown reasons, the flecks get smaller or fade with age in some affected individuals, although night vision does not improve.
+While fundus albipunctatus typically does not worsen (progress) over time, some individuals with the condition develop other eye conditions, such as breakdown of the central region of the retina known as the macula (
+macular degeneration
+) with loss of specialized light receptor cells called
+cones
+, which can affect vision in bright light.
+Frequency
+Fundus albipunctatus is a rare disorder. Its prevalence is unknown.
+Causes
+Fundus albipunctatus is primarily caused by mutations in the
+RDH5
+gene. This gene is involved in a multi-step process called the visual cycle, by which light entering the eye is converted into electrical signals that are interpreted as vision. In rare cases, fundus albipunctatus is caused by mutations in other genes that play roles in the visual cycle.
+An integral operation of the visual cycle is the recycling of a molecule called 11-cis retinal, which is a form of vitamin A that is needed for the conversion of light to electrical signals. The
+RDH5
+gene provides instructions for making an enzyme called 11-cis retinol dehydrogenase 5, which performs one step in this recycling process. This enzyme converts a molecule called 11-cis retinol to 11-cis retinal.
+RDH5
+gene mutations are thought to reduce or eliminate the function of the 11-cis retinol dehydrogenase 5 enzyme, which results in a shortage of 11-cis retinal. Without this important molecule, electrical signals integral for vision are not stimulated, and vision is impaired.
+For vision in low-light conditions, the eyes primarily use 11-cis retinol dehydrogenase 5 to generate 11-cis retinal, which is why a shortage of this enzyme's function impairs night vision.
+Researchers speculate that impairment of 11-cis retinol dehydrogenase 5 also leads to the accumulation of 11-cis retinol and related molecules, forming the flecks characteristic of fundus albipunctatus.
+Learn more about the genes associated with Fundus albipunctatus
+RDH5
+RPE65
+Additional Information from NCBI Gene:
+RLBP1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Albipunctate retinal dystrophy
+Lauber's disease
+Pigmentary retinal dystrophy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pigmentary retinal dystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+FUNDUS ALBIPUNCTATUS
+Scientific Articles on PubMed
+PubMed
+References
+Driessen CA, Winkens HJ, Hoffmann K, Kuhlmann LD, Janssen BP, Van Vugt AH, Van
+Hooser JP, Wieringa BE, Deutman AF, Palczewski K, Ruether K, Janssen JJ.
+Disruption of the 11-cis-retinol dehydrogenase gene leads to accumulation of
+cis-retinols and cis-retinyl esters. Mol Cell Biol. 2000 Jun;20(12):4275-87. doi:
+10.1128/MCB.20.12.4275-4287.2000.
+Citation on PubMed
+or
+Free article on PubMed Central
+Katsanis N, Shroyer NF, Lewis RA, Cavender JC, Al-Rajhi AA, Jabak M, Lupski
+JR. Fundus albipunctatus and retinitis punctata albescens in a pedigree with an
+R150Q mutation in RLBP1. Clin Genet. 2001 Jun;59(6):424-9. doi:
+10.1034/j.1399-0004.2001.590607.x.
+Citation on PubMed
+Nakamura M, Hotta Y, Tanikawa A, Terasaki H, Miyake Y. A high association with
+cone dystrophy in Fundus albipunctatus caused by mutations of the RDH5 gene.
+Invest Ophthalmol Vis Sci. 2000 Nov;41(12):3925-32.
+Citation on PubMed
+Naz S, Ali S, Riazuddin SA, Farooq T, Butt NH, Zafar AU, Khan SN, Husnain T,
+Macdonald IM, Sieving PA, Hejtmancik JF, Riazuddin S. Mutations in RLBP1
+associated with fundus albipunctatus in consanguineous Pakistani families. Br J
+Ophthalmol. 2011 Jul;95(7):1019-24. doi: 10.1136/bjo.2010.189076. Epub 2011 Mar
+28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schatz P, Preising M, Lorenz B, Sander B, Larsen M, Eckstein C, Rosenberg T.
+Lack of autofluorescence in fundus albipunctatus associated with mutations in
+RDH5. Retina. 2010 Nov-Dec;30(10):1704-13. doi: 10.1097/IAE.0b013e3181dc050a.
+Citation on PubMed
+Schatz P, Preising M, Lorenz B, Sander B, Larsen M, Rosenberg T. Fundus
+albipunctatus associated with compound heterozygous mutations in RPE65.
+Ophthalmology. 2011 May;118(5):888-94. doi: 10.1016/j.ophtha.2010.09.005. Epub
+2011 Jan 6.
+Citation on PubMed
+Sergouniotis PI, Sohn EH, Li Z, McBain VA, Wright GA, Moore AT, Robson AG,
+Holder GE, Webster AR. Phenotypic variability in RDH5 retinopathy (Fundus
+Albipunctatus). Ophthalmology. 2011 Aug;118(8):1661-70. doi:
+10.1016/j.ophtha.2010.12.031. Epub 2011 Apr 29.
+Citation on PubMed
+Skorczyk-Werner A, Pawlowski P, Michalczuk M, Warowicka A, Wawrocka A, Wicher
+K, Bakunowicz-Lazarczyk A, Krawczynski MR. Fundus albipunctatus: review of the
+literature and report of a novel RDH5 gene mutation affecting the invariant
+tyrosine (p.Tyr175Phe). J Appl Genet. 2015 Aug;56(3):317-27. doi:
+10.1007/s13353-015-0281-x. Epub 2015 Mar 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Retinal Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Vision - night blindness
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,200 @@
+Paroxysmal nocturnal hemoglobinuria: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Paroxysmal nocturnal hemoglobinuria
+URL of this page: https://medlineplus.gov/genetics/condition/paroxysmal-nocturnal-hemoglobinuria/
+Paroxysmal nocturnal hemoglobinuria
+Description
+Paroxysmal nocturnal hemoglobinuria (PNH) is an acquired (not inherited) disorder that leads to the premature death and impaired production of blood cells. The disorder affects red blood cells (erythrocytes), which carry oxygen; white blood cells (leukocytes), which protect the body from infections; and platelets (thrombocytes), which are involved in blood clotting. PNH can occur at any age, although it is most often diagnosed in young adulthood.
+People with PNH have sudden, recurring episodes of symptoms (paroxysmal symptoms), which may be triggered by stresses on the body, such as infections or physical exertion. During these episodes, red blood cells are broken down earlier than they should be (hemolysis). Affected individuals may pass dark-colored urine because of the presence of hemoglobin, the oxygen-carrying protein in blood. The abnormal presence of hemoglobin in the urine is called hemoglobinuria. In many, but not all cases, hemoglobinuria is most noticeable early in the morning, upon passing urine that has accumulated in the bladder during the night (nocturnal).
+The premature breakdown of red blood cells results in a shortage of these cells in the blood (hemolytic
+anemia
+), which can cause
+signs and symptoms
+such as fatigue, weakness, abnormally pale skin (pallor), shortness of breath, and an increased heart rate (tachycardia). People with PNH may also be prone to infections because of a shortage of white blood cells (leukopenia).
+Abnormal platelets associated with PNH can cause problems in the blood clotting process. As a result, people with this disorder may experience abnormal blood clotting (thrombosis), especially in large abdominal veins; or, less often, episodes of severe bleeding (hemorrhage).
+Individuals with PNH are at increased risk of developing cancer in blood-forming cells (leukemia). In some cases, people who have or have been treated for another blood disease called aplastic anemia may develop PNH. In a small number of affected individuals, the signs and symptoms of PNH disappear on their own.
+A very rare form of PNH involves abnormal inflammation in addition to the typical features described above. Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). In people with this rare form of PNH, the immune response is turned on (activated) abnormally and can cause recurrent aseptic meningitis (which is inflammation of the membranes surrounding the brain and spinal cord that is not related to infection); a red, itchy rash (known as hives or urticaria); joint pain (arthralgia); or inflammatory bowel disease. The inflammatory disorders usually begin earlier than the blood cell problems.
+Frequency
+PNH is a rare disorder, estimated to affect between 1 and 5 per million people. The inflammatory form of the disorder is extremely rare and has been identified in a very small number of individuals.
+Causes
+Variants (also known as mutations) in the
+PIGA
+gene cause almost all cases of PNH. Variants in the
+PIGT
+gene cause the rare, inflammatory form of the condition. The proteins produced from both genes are involved in a multistep process that connects particular proteins to the surface of cells. These proteins are attached to the cell by a specialized molecule called GPI anchor and are known as GPI-anchored proteins. The PIG-A protein helps produce the GPI anchor, and the PIG-T protein helps attach the GPI anchor to proteins. Anchored proteins have a variety of roles, including sticking cells to one another, relaying signals into cells, and protecting cells from destruction.
+In people with PNH, variants of the
+PIGA
+gene occur during a person’s lifetime and are present only in certain cells. These changes, which are called somatic variants, are not inherited. In contrast, people with the inflammatory form of the condition inherit one altered copy of the
+PIGT
+gene. However, for the condition to occur, they need to also acquire a somatic variant that deletes the other copy of the
+PIGT
+gene and other genes around it.
+PNH occurs when a somatic variant of the
+PIGA
+gene or
+PIGT
+gene occurs in a blood-forming cell called a hematopoietic stem cell. Hematopoietic stem cells are found mainly in the
+bone marrow
+and give rise to the various types of blood cells. These genetic variants severely reduce or eliminate the function of the PIG-A protein or PIG-T protein, respectively, in affected cells. Blood cells that arise from the abnormal stem cells also have the variant and are abnormal. As the abnormal hematopoietic stem cells multiply, more abnormal blood cells are formed, alongside normal blood cells produced by normal hematopoietic stem cells.
+Cells with no PIG-A protein do not produce GPI anchor, and therefore are missing GPI-anchored proteins at the surface. Cells with no PIG-T protein produce GPI anchor but cannot attach proteins to it. As a result, these cells have GPI anchor on the surface, but no attached proteins. Two important GPI-anchored proteins on red blood cells protect them from being broken down by the immune system. Without these proteins, the abnormal red blood cells are prematurely destroyed, leading to hemolytic anemia. Studies show that GPI anchors with no attached proteins trigger inflammation in the body, leading to the inflammatory features in individuals with
+PIGT
+-related PNH. It is unclear how changes in the
+PIGA
+or
+PIGT
+gene affect other types of blood cells.
+In individuals with either form of PNH, the proportion of abnormal blood cells can vary. It is unclear why the population of cells that grow from the hematopoietic stem cell with a
+PIGA
+gene variant may be larger than the population of normal cells in some affected individuals and smaller in others. Research suggests that certain abnormal white blood cells that are also part of the immune system may mistakenly attack normal blood-forming cells, in a malfunction called an autoimmune process. In addition, abnormal hematopoietic stem cells in people with PNH may be less susceptible than normal cells to a process called apoptosis, which causes cells to self-destruct when they are damaged or unneeded.
+In abnormal blood cells with
+PIGT
+gene variants, the somatic variant in the
+PIGT
+gene deletes other nearby genes that control cell growth and development. Researchers suggest that loss of these genes allows the abnormal cells to grow or survive better than normal cells, increasing the proportion of abnormal blood cells in the body. The proportion of abnormal blood cells affects the severity of the signs and symptoms of PNH, including the risk of hemoglobinuria and thrombosis.
+Learn more about the genes associated with Paroxysmal nocturnal hemoglobinuria
+PIGA
+PIGT
+Inheritance
+PNH is acquired, rather than inherited. Most cases result from new variants in the
+PIGA
+gene, and generally occur in people with no previous history of the disorder in their family. This form of the condition is not passed down to children of affected individuals.
+The
+PIGA
+gene is located on the X chromosome, which is one of the two
+sex chromosomes
+. Males have only one X chromosome, and a variant in the only copy of the
+PIGA
+gene in each cell is sufficient to cause the condition. Females have two X chromosomes. However, early in embryonic development in females, one of the two X chromosomes is permanently inactivated in somatic cells (cells other than egg and sperm cells). This process, called X-inactivation, ensures that females, like males, have only one active copy of the X chromosome in each body cell. In females, a variant in the active copy of the
+PIGA
+gene is sufficient to cause the condition.
+The risk of developing
+PIGT
+-related PNH follows an
+autosomal dominant pattern
+of inheritance, which means one copy of the altered gene in each cell is sufficient to increase a person’s chance of developing the condition. Affected individuals inherit one altered copy of the
+PIGT
+gene from a parent. However, the condition is acquired when a second alteration occurs in the other copy of the
+PIGT
+gene.
+Other Names for This Condition
+Hemoglobinuria, paroxysmal
+Marchiafava-Micheli syndrome
+PNH
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Paroxysmal nocturnal hemoglobinuria
+Genetic and Rare Diseases Information Center
+Paroxysmal nocturnal hemoglobinuria
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PHOSPHATIDYLINOSITOL GLYCAN ANCHOR BIOSYNTHESIS CLASS A PROTEIN; PIGA
+Scientific Articles on PubMed
+PubMed
+References
+Brodsky RA, Hu R. PIG-A mutations in paroxysmal nocturnal hemoglobinuria and
+in normal hematopoiesis. Leuk Lymphoma. 2006 Jul;47(7):1215-21. doi:
+10.1080/10428190600555520.
+Citation on PubMed
+Brodsky RA. Paroxysmal nocturnal hemoglobinuria without GPI-anchor deficiency.
+J Clin Invest. 2019 Dec 2;129(12):5074-5076. doi: 10.1172/JCI131647.
+Citation on PubMed
+Grunewald M, Grunewald A, Schmid A, Schopflin C, Schauer S, Griesshammer M,
+Koksch M. The platelet function defect of paroxysmal nocturnal haemoglobinuria.
+Platelets. 2004 May;15(3):145-54. doi: 10.1080/09537105310001657110.
+Citation on PubMed
+Gurnari C, Colak C, Zawit M, Maciejewski JP. Chronic Budd-Chiari syndrome in
+paroxysmal nocturnal haemoglobinuria. Lancet. 2021 Sep 11;398(10304):e14. doi:
+10.1016/S0140-6736(21)01542-7. No abstract available.
+Citation on PubMed
+Gurnari C, Pagliuca S, Kewan T, Bahaj W, Mori M, Patel BJ, Visconte V,
+Maciejewski JP. Is nature truly healing itself? Spontaneous remissions in
+Paroxysmal Nocturnal Hemoglobinuria. Blood Cancer J. 2021 Nov 27;11(11):187. doi:
+10.1038/s41408-021-00582-5. No abstract available.
+Citation on PubMed
+Hochsmann B, Murakami Y, Osato M, Knaus A, Kawamoto M, Inoue N, Hirata T,
+Murata S, Anliker M, Eggermann T, Jager M, Floettmann R, Hollein A, Murase S,
+Ueda Y, Nishimura JI, Kanakura Y, Kohara N, Schrezenmeier H, Krawitz PM,
+Kinoshita T. Complement and inflammasome overactivation mediates paroxysmal
+nocturnal hemoglobinuria with autoinflammation. J Clin Invest. 2019 Dec
+2;129(12):5123-5136. doi: 10.1172/JCI123501.
+Citation on PubMed
+Inoue N, Izui-Sarumaru T, Murakami Y, Endo Y, Nishimura J, Kurokawa K,
+Kuwayama M, Shime H, Machii T, Kanakura Y, Meyers G, Wittwer C, Chen Z, Babcock
+W, Frei-Lahr D, Parker CJ, Kinoshita T. Molecular basis of clonal expansion of
+hematopoiesis in 2 patients with paroxysmal nocturnal hemoglobinuria (PNH).
+Blood. 2006 Dec 15;108(13):4232-6. doi: 10.1182/blood-2006-05-025148. Epub 2006
+Aug 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Luzzatto L, Gianfaldoni G. Recent advances in biological and clinical aspects
+of paroxysmal nocturnal hemoglobinuria. Int J Hematol. 2006 Aug;84(2):104-12.
+doi: 10.1532/IJH97.06117.
+Citation on PubMed
+Luzzatto L. Paroxysmal nocturnal hemoglobinuria: an acquired X-linked genetic
+disease with somatic-cell mosaicism. Curr Opin Genet Dev. 2006 Jun;16(3):317-22.
+doi: 10.1016/j.gde.2006.04.015. Epub 2006 May 2.
+Citation on PubMed
+Mortazavi Y, Merk B, McIntosh J, Marsh JC, Schrezenmeier H, Rutherford TR;
+BIOMED II Pathophysiology and Treatment of Aplastic Anaemia Study Group. The
+spectrum of PIG-A gene mutations in aplastic anemia/paroxysmal nocturnal
+hemoglobinuria (AA/PNH): a high incidence of multiple mutations and evidence of a
+mutational hot spot. Blood. 2003 Apr 1;101(7):2833-41. doi:
+10.1182/blood-2002-07-2095. Epub 2002 Nov 7.
+Citation on PubMed
+Rosti V. The molecular basis of paroxysmal nocturnal hemoglobinuria.
+Haematologica. 2000 Jan;85(1):82-7.
+Citation on PubMed
+Shichishima T, Noji H. Heterogeneity in the molecular pathogenesis of
+paroxysmal nocturnal hemoglobinuria (PNH) syndromes and expansion mechanism of a
+PNH clone. Int J Hematol. 2006 Aug;84(2):97-103. doi: 10.1532/IJH97.06083.
+Citation on PubMed
+Tiu R, Maciejewski J. Immune pathogenesis of paroxysmal nocturnal
+hemoglobinuria. Int J Hematol. 2006 Aug;84(2):113-7. doi: 10.1532/IJH97.06144.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Anemia
+Blood Disorders
+Bone Marrow Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Paroxysmal nocturnal hemoglobinuria (PNH)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

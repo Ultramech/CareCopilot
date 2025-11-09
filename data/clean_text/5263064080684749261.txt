@@ -1,0 +1,121 @@
+Beta-ketothiolase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Beta-ketothiolase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/beta-ketothiolase-deficiency/
+Beta-ketothiolase deficiency
+Description
+Beta-ketothiolase deficiency is an inherited disorder in which the body cannot effectively process a protein building block (
+amino acid
+) called isoleucine. This disorder also impairs the body's ability to process ketones, which are molecules produced during the breakdown of fats.
+The signs and symptoms of beta-ketothiolase deficiency typically appear between the ages of 6 months and 24 months. Affected children experience episodes of vomiting, dehydration, difficulty breathing, extreme tiredness (lethargy), and, occasionally, seizures. These episodes, which are called ketoacidotic attacks, sometimes lead to coma. Ketoacidotic attacks are frequently triggered by infections or periods without food (fasting), and increased intake of protein-rich foods can also play a role.
+Frequency
+Beta-ketothiolase deficiency appears to be very rare. Fewer than 250 affected individuals have been reported in the medical literature.
+Causes
+Mutations in the
+ACAT1
+gene cause beta-ketothiolase deficiency. This gene provides instructions for making an enzyme that is found in the energy-producing centers within cells (
+mitochondria
+). This enzyme plays an essential role in breaking down proteins and fats from the diet. Specifically, the ACAT1 enzyme helps process
+isoleucine
+, which is a building block of many proteins, and ketones, which are produced during the breakdown of fats.
+Mutations in the
+ACAT1
+gene reduce or eliminate the activity of the ACAT1 enzyme. A shortage of this enzyme prevents the body from processing proteins and fats properly. As a result, related compounds can build up to toxic levels in the blood. These substances may cause the blood to become too acidic (ketoacidosis) and can damage the body's tissues and organs, particularly in the nervous system.
+Learn more about the gene associated with Beta-ketothiolase deficiency
+ACAT1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+2-methyl-3-hydroxybutyricacidemia
+2-methylacetoacetyl-coenzyme A thiolase deficiency
+3-alpha-oxothiolase deficiency
+3-ketothiolase deficiency
+3-oxothiolase deficiency
+Alpha-methylacetoacetic aciduria
+MAT deficiency
+Methylacetoacetyl-coenzyme A thiolase deficiency
+Mitochondrial 2-methylacetoacetyl-CoA thiolase deficiency - potassium stimulated
+Mitochondrial acetoacetyl-CoA thiolase deficiency
+T2 deficiency
+Β-ketothiolase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deficiency of acetyl-CoA acetyltransferase
+Genetic and Rare Diseases Information Center
+Beta-ketothiolase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ALPHA-METHYLACETOACETIC ACIDURIA
+Scientific Articles on PubMed
+PubMed
+References
+Abdelkreem E, Harijan RK, Yamaguchi S, Wierenga RK, Fukao T. Mutation update
+on ACAT1 variants associated with mitochondrial acetoacetyl-CoA thiolase (T2)
+deficiency. Hum Mutat. 2019 Oct;40(10):1641-1663. doi: 10.1002/humu.23831. Epub
+2019 Jul 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fukao T, Yamaguchi S, Orii T, Hashimoto T. Molecular basis of
+beta-ketothiolase deficiency: mutations and polymorphisms in the human
+mitochondrial acetoacetyl-coenzyme A thiolase gene. Hum Mutat. 1995;5(2):113-20.
+doi: 10.1002/humu.1380050203.
+Citation on PubMed
+Grunert SC, Sass JO. 2-methylacetoacetyl-coenzyme A thiolase
+(beta-ketothiolase) deficiency: one disease - two pathways. Orphanet J Rare Dis.
+2020 Apr 28;15(1):106. doi: 10.1186/s13023-020-01357-0.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kano M, Fukao T, Yamaguchi S, Orii T, Osumi T, Hashimoto T. Structure and
+expression of the human mitochondrial acetoacetyl-CoA thiolase-encoding gene.
+Gene. 1991 Dec 30;109(2):285-90. doi: 10.1016/0378-1119(91)90623-j.
+Citation on PubMed
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Ketones in Blood
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

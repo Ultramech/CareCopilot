@@ -1,0 +1,144 @@
+Globozoospermia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Globozoospermia
+URL of this page: https://medlineplus.gov/genetics/condition/globozoospermia/
+Globozoospermia
+Description
+Globozoospermia is a condition that affects only males. It is characterized by abnormal sperm and leads to an inability to father biological children (infertility).
+Normal sperm cells have an oval-shaped head with a cap-like covering called the acrosome. The acrosome contains enzymes that break down the outer membrane of an egg cell, allowing the sperm to fertilize the egg. The sperm cells of males with globozoospermia, however, have a round head and no acrosome. The abnormal sperm are unable to fertilize an egg cell, leading to infertility.
+Frequency
+Globozoospermia is a rare condition that is estimated to affect 1 in 65,000 men. It is most common in North Africa, where it accounts for approximately 1 in 100 cases of male infertility.
+Causes
+Globozoospermia is most commonly caused by mutations in the
+DPY19L2
+gene, which are found in about 70 percent of men with this condition. Mutations in other genes likely also cause globozoospermia.
+The
+DPY19L2
+gene provides instructions for making a protein that is found in developing sperm cells. The DPY19L2 protein is involved in the development of the acrosome and elongation of the sperm head, which are integral steps in sperm cell maturation. Mutations in the
+DPY19L2
+gene result in a loss of functional DPY19L2 protein. As a result, sperm cells have no acrosome and do not elongate properly. Without an acrosome, the abnormal sperm are unable to get through the outer membrane of an egg cell to fertilize it, leading to infertility in affected men. Researchers have described other characteristics of the abnormal sperm cells that make fertilization of an egg cell difficult, although it is not clear how changes in the
+DPY19L2
+gene are involved in development of these characteristics.
+Learn more about the gene associated with Globozoospermia
+DPY19L2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Acrosome malformation of spermatozoa
+Round-headed spermatozoa
+Spermatogenic failure 9
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Globozoospermia
+Genetic and Rare Diseases Information Center
+Male infertility due to globozoospermia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SPERMATOGENIC FAILURE 9; SPGF9
+Scientific Articles on PubMed
+PubMed
+References
+Coutton C, Zouari R, Abada F, Ben Khelifa M, Merdassi G, Triki C, Escalier D,
+Hesters L, Mitchell V, Levy R, Sermondade N, Boitrelle F, Vialard F, Satre V,
+Hennebicq S, Jouk PS, Arnoult C, Lunardi J, Ray PF. MLPA and sequence analysis of
+DPY19L2 reveals point mutations causing globozoospermia. Hum Reprod. 2012
+Aug;27(8):2549-58. doi: 10.1093/humrep/des160. Epub 2012 May 24.
+Citation on PubMed
+Escoffier J, Yassine S, Lee HC, Martinez G, Delaroche J, Coutton C, Karaouzene
+T, Zouari R, Metzler-Guillemain C, Pernet-Gallay K, Hennebicq S, Ray PF, Fissore
+R, Arnoult C. Subcellular localization of phospholipase Czeta in human sperm and its
+absence in DPY19L2-deficient sperm are consistent with its role in oocyte
+activation. Mol Hum Reprod. 2015 Feb;21(2):157-68. doi: 10.1093/molehr/gau098.
+Epub 2014 Oct 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Harbuz R, Zouari R, Pierre V, Ben Khelifa M, Kharouf M, Coutton C, Merdassi G,
+Abada F, Escoffier J, Nikas Y, Vialard F, Koscinski I, Triki C, Sermondade N,
+Schweitzer T, Zhioua A, Zhioua F, Latrous H, Halouani L, Ouafi M, Makni M, Jouk
+PS, Sele B, Hennebicq S, Satre V, Viville S, Arnoult C, Lunardi J, Ray PF. A
+recurrent deletion of DPY19L2 causes infertility in man by blocking sperm head
+elongation and acrosome formation. Am J Hum Genet. 2011 Mar 11;88(3):351-61. doi:
+10.1016/j.ajhg.2011.02.007.
+Citation on PubMed
+or
+Free article on PubMed Central
+Koscinski I, Elinati E, Fossard C, Redin C, Muller J, Velez de la Calle J,
+Schmitt F, Ben Khelifa M, Ray PF, Kilani Z, Barratt CL, Viville S. DPY19L2
+deletion as a major cause of globozoospermia. Am J Hum Genet. 2011 Mar
+11;88(3):344-50. doi: 10.1016/j.ajhg.2011.01.018.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ounis L, Zoghmar A, Coutton C, Rouabah L, Hachemi M, Martinez D, Martinez G,
+Bellil I, Khelifi D, Arnoult C, Faure J, Benbouhedja S, Rouabah A, Ray PF.
+Mutations of the aurora kinase C gene causing macrozoospermia are the most
+frequent genetic cause of male infertility in Algerian men. Asian J Androl. 2015
+Jan-Feb;17(1):68-73. doi: 10.4103/1008-682X.136441.
+Citation on PubMed
+or
+Free article on PubMed Central
+Perrin A, Coat C, Nguyen MH, Talagas M, Morel F, Amice J, De Braekeleer M.
+Molecular cytogenetic and genetic aspects of globozoospermia: a review.
+Andrologia. 2013 Feb;45(1):1-9. doi: 10.1111/j.1439-0272.2012.01308.x. Epub 2012
+May 10.
+Citation on PubMed
+Pierre V, Martinez G, Coutton C, Delaroche J, Yassine S, Novella C,
+Pernet-Gallay K, Hennebicq S, Ray PF, Arnoult C. Absence of Dpy19l2, a new inner
+nuclear membrane protein, causes globozoospermia in mice by preventing the
+anchoring of the acrosome to the nucleus. Development. 2012 Aug;139(16):2955-65.
+doi: 10.1242/dev.077982. Epub 2012 Jul 4.
+Citation on PubMed
+Yassine S, Escoffier J, Martinez G, Coutton C, Karaouzene T, Zouari R, Ravanat
+JL, Metzler-Guillemain C, Lee HC, Fissore R, Hennebicq S, Ray PF, Arnoult C.
+Dpy19l2-deficient globozoospermic sperm display altered genome packaging and DNA
+damage that compromises the initiation of embryo development. Mol Hum Reprod.
+2015 Feb;21(2):169-85. doi: 10.1093/molehr/gau099. Epub 2014 Oct 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Assisted Reproductive Technology
+Genetic Disorders
+Male Infertility
+MEDICAL ENCYCLOPEDIA
+Genetics
+Semen analysis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

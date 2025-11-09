@@ -1,0 +1,312 @@
+Anophthalmia/Microphthalmia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Anophthalmia/Microphthalmia
+URL of this page: https://medlineplus.gov/genetics/condition/anophthalmia-microphthalmia/
+Anophthalmia/Microphthalmia
+Description
+Anophthalmia and microphthalmia are disorders that affect eye development before birth.
+Microphthalmia
+is a birth defect in which one or both eyes do not develop fully and are abnormally small. Anophthalmia is a more severe birth defect in which one or both eyes do not form at all. While people who have anophthalmia have no vision in the affected eye, people who have microphthalmia may or may not have significant vision loss. Because both conditions are characterized by impaired eye development, anophthalmia and microphthalmia are often considered to be related disorders (anophthalmia/microphthalmia).
+Anophthalmia and microphthalmia can occur along with other eye abnormalities. People who have one missing eye (unilateral anophthalmia) can have additional eye abnormalities in the unaffected eye, while people who have microphthalmia can have additional eye abnormalities in one or both eyes (complex microphthalmia). The presence of other eye problems can worsen vision. Additional eye abnormalities can include a missing piece of tissue that may appear as a notch or gap in one of several parts of the eye (
+coloboma
+); a clouding of the lens of the eye (
+cataract
+); abnormal development of the cells in the retina (retinal dysplasia); or microcornea, in which the clear front covering of the eye (cornea) is small and abnormally curved.
+Some individuals have anophthalmia or microphthalmia as part of a syndrome that affects multiple parts of the body (syndromic anophthalmia or microphthalmia). As many as 45 percent of people with anophthalmia or microphthalmia have the condition as part of a recognized syndrome, such as
+CHARGE syndrome
+,
+Fraser syndrome
+type 1 or 2, and
+oculofaciocardiodental syndrome
+. When people have anophthalmia or microphthalmia but do not have additional abnormalities of the eye or other body systems, this is known as isolated anophthalmia or microphthalmia.
+Frequency
+Microphthalmia occurs in approximately 1 in 7,000 people, while anophthalmia occurs in approximately 1 in 30,000 people.
+Causes
+Variants (also called mutations) in one of the many genes that are involved in the early development of the eye can cause anophthalmia or microphthalmia. Researchers believe that variants in as many as 90 different genes may cause these conditions. Many of the genes that are associated with anophthalmia and microphthalmia have been identified in only a very small number of affected individuals.
+A genetic variant is more likely to be found in individuals who have anophthalmia or severe microphthalmia that affects both eyes (bilateral). Variants in the
+SOX2
+gene are found in approximately 10 to 15 percent of these cases. Variants in many other genes account for a small percentage of cases. Together, variants in the
+SOX2
+and
+OTX2
+genes are believed to cause more than half of all cases of bilateral anophthalmia or bilateral and severe microphthalmia.
+Some people who have anophthalmia or microphthalmia have a change in the number or structure of chromosomes. Occasionally, environmental factors that affect the development of the eyes before birth, such as a shortage of certain vitamins, infections such as rubella, or exposure to substances that cause birth defects (teratogens), can cause anophthalmia or microphthalmia
+Learn more about the genes associated with Anophthalmia/Microphthalmia
+ALX1
+BCOR
+CHD7
+COL4A1
+FRAS1
+GDF3
+GDF6
+GJA1
+HCCS
+KMT2D
+LRP5
+MITF
+NDP
+OTX2
+PAX6
+PORCN
+PQBP1
+RERE
+SALL1
+SALL4
+SHH
+SMCHD1
+SMOC1
+SOX2
+TFAP2A
+Additional Information from NCBI Gene:
+ABCB6
+ALDH1A3
+ATOH7
+BMP4
+BMP7
+C12orf57
+COX7B
+CRYAA
+CRYBA4
+FNBP4
+FOXE3
+GJA8
+GLI2
+HMGB3
+HMX1
+MAB21L2
+MAF
+MFRP
+NAA10
+NDUFB11
+NHS
+PITX3
+PRSS56
+PXDN
+RAB3GAP1
+RARB
+RAX
+RBP4
+RPGRIP1L
+SIX6
+STRA6
+TBC1D32
+TENM3
+TMX3
+VAX1
+VSX2
+YAP1
+Inheritance
+Anophthalmia and microphthalmia can be inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Many cases result from new (
+de novo
+) variants in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals typically have no history of the disorder in their family. In a small number of cases, an unaffected parent has the variant only in their sperm or egg cells. This phenomenon is called germline mosaicism. Cases of anophthalmia or microphthalmia that are caused by variants in the
+SOX2
+and
+OTX2
+genes are typically inherited in an autosomal dominant pattern.
+Anophthalmia and microphthalmia can also be inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+In some families, the conditions are inherited in an X-linked pattern. A condition is considered X-linked if the altered gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+in each cell. In males (who have only one X chromosome) a variant in the only copy of the gene in each cell is typically sufficient to cause the condition. In females (who have two copies of the X chromosome) one altered copy of the gene may or may not cause features of the condition. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+When the conditions occur as part of another syndrome, they follow the inheritance pattern of that syndrome.
+Cases of anophthalmia or microphthalmia that are caused by environmental factors are not inherited.
+Other Names for This Condition
+A/M
+Anophthalmia
+Anophthalmos
+Microphthalmia
+Microphthalmos
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Anophthalmia
+Genetic Testing Registry: Microphthalmia
+Genetic and Rare Diseases Information Center
+Isolated microphthalmia-anophthalmia-coloboma
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MICROPHTHALMIA, SYNDROMIC 2; MCOPS2
+MICROPHTHALMIA, SYNDROMIC 9; MCOPS9
+MICROPHTHALMIA, SYNDROMIC 8; MCOPS8
+MICROPHTHALMIA, SYNDROMIC 3; MCOPS3
+MICROPHTHALMIA, ISOLATED 1; MCOP1
+MICROPHTHALMIA, SYNDROMIC 1; MCOPS1
+MICROPHTHALMIA, SYNDROMIC 13; MCOPS13
+MICROPHTHALMIA, SYNDROMIC 6; MCOPS6
+MICROPHTHALMIA, ISOLATED 2; MCOP2
+MICROPHTHALMIA, SYNDROMIC 5; MCOPS5
+MICROPHTHALMIA, SYNDROMIC 10; MCOPS10
+MICROPHTHALMIA, SYNDROMIC 16; MCOPS16
+MICROPHTHALMIA, ISOLATED 5; MCOP5
+MICROPHTHALMIA, ISOLATED 6; MCOP6
+MICROPHTHALMIA, ISOLATED 8; MCOP8
+MICROPHTHALMIA, ISOLATED 7; MCOP7
+MICROPHTHALMIA, SYNDROMIC 12; MCOPS12
+MICROPHTHALMIA, ISOLATED 4; MCOP4
+MICROPHTHALMIA, SYNDROMIC 11; MCOPS11
+Scientific Articles on PubMed
+PubMed
+References
+Asai-Coakwell M, French CR, Ye M, Garcha K, Bigot K, Perera AG,
+Staehling-Hampton K, Mema SC, Chanda B, Mushegian A, Bamforth S, Doschak MR, Li
+G, Dobbs MB, Giampietro PF, Brooks BP, Vijayalakshmi P, Sauve Y, Abitbol M,
+Sundaresan P, van Heyningen V, Pourquie O, Underhill TM, Waskiewicz AJ, Lehmann
+OJ. Incomplete penetrance and phenotypic variability characterize
+Gdf6-attributable oculo-skeletal phenotypes. Hum Mol Genet. 2009 Mar
+15;18(6):1110-21. doi: 10.1093/hmg/ddp008. Epub 2009 Jan 6.
+Citation on PubMed
+Chassaing N, Causse A, Vigouroux A, Delahaye A, Alessandri JL,
+Boespflug-Tanguy O, Boute-Benejean O, Dollfus H, Duban-Bedu B, Gilbert-Dussardier
+B, Giuliano F, Gonzales M, Holder-Espinasse M, Isidor B, Jacquemont ML, Lacombe
+D, Martin-Coignard D, Mathieu-Dramard M, Odent S, Picone O, Pinson L, Quelin C,
+Sigaudy S, Toutain A, Thauvin-Robinet C, Kaplan J, Calvas P. Molecular findings
+and clinical data in a cohort of 150 patients with anophthalmia/microphthalmia.
+Clin Genet. 2014 Oct;86(4):326-34. doi: 10.1111/cge.12275. Epub 2013 Oct 7.
+Citation on PubMed
+Gal A, Rau I, El Matri L, Kreienkamp HJ, Fehr S, Baklouti K, Chouchane I, Li
+Y, Rehbein M, Fuchs J, Fledelius HC, Vilhelmsen K, Schorderet DF, Munier FL,
+Ostergaard E, Thompson DA, Rosenberg T. Autosomal-recessive posterior
+microphthalmos is caused by mutations in PRSS56, a gene encoding a trypsin-like
+serine protease. Am J Hum Genet. 2011 Mar 11;88(3):382-90. doi:
+10.1016/j.ajhg.2011.02.006.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gallardo ME, Rodriguez De Cordoba S, Schneider AS, Dwyer MA, Ayuso C,
+Bovolenta P. Analysis of the developmental SIX6 homeobox gene in patients with
+anophthalmia/microphthalmia. Am J Med Genet A. 2004 Aug 15;129A(1):92-4. doi:
+10.1002/ajmg.a.30126. No abstract available.
+Citation on PubMed
+Gonzalez-Rodriguez J, Pelcastre EL, Tovilla-Canales JL, Garcia-Ortiz JE,
+Amato-Almanza M, Villanueva-Mendoza C, Espinosa-Mattar Z, Zenteno JC. Mutational
+screening of CHX10, GDF6, OTX2, RAX and SOX2 genes in 50 unrelated
+microphthalmia-anophthalmia-coloboma (MAC) spectrum cases. Br J Ophthalmol. 2010
+Aug;94(8):1100-4. doi: 10.1136/bjo.2009.173500. Epub 2010 May 21.
+Citation on PubMed
+Goyal S, Tibrewal S, Ratna R, Vanita V. Genetic and environmental factors
+contributing to anophthalmia and microphthalmia: Current understanding and future
+directions. World J Clin Pediatr. 2025 Jun 9;14(2):101982. doi:
+10.5409/wjcp.v14.i2.101982. eCollection 2025 Jun 9.
+Citation on PubMed
+Harding P, Moosajee M. The Molecular Basis of Human Anophthalmia and
+Microphthalmia. J Dev Biol. 2019 Aug 14;7(3):16. doi: 10.3390/jdb7030016.
+Citation on PubMed
+Iseri SU, Wyatt AW, Nurnberg G, Kluck C, Nurnberg P, Holder GE, Blair E, Salt
+A, Ragge NK. Use of genome-wide SNP homozygosity mapping in small pedigrees to
+identify new mutations in VSX2 causing recessive microphthalmia and a
+semidominant inner retinal dystrophy. Hum Genet. 2010 Jul;128(1):51-60. doi:
+10.1007/s00439-010-0823-6. Epub 2010 Apr 23.
+Citation on PubMed
+Lequeux L, Rio M, Vigouroux A, Titeux M, Etchevers H, Malecaze F, Chassaing N,
+Calvas P. Confirmation of RAX gene involvement in human anophthalmia. Clin Genet.
+2008 Oct;74(4):392-5. doi: 10.1111/j.1399-0004.2008.01078.x. Epub 2008 Sep 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mai CT, Isenburg JL, Canfield MA, Meyer RE, Correa A, Alverson CJ, Lupo PJ,
+Riehle-Colarusso T, Cho SJ, Aggarwal D, Kirby RS; National Birth Defects
+Prevention Network. National population-based estimates for major birth defects,
+2010-2014. Birth Defects Res. 2019 Nov 1;111(18):1420-1435. doi:
+10.1002/bdr2.1589. Epub 2019 Oct 3.
+Citation on PubMed
+Morrison D, FitzPatrick D, Hanson I, Williamson K, van Heyningen V, Fleck B,
+Jones I, Chalmers J, Campbell H. National study of microphthalmia, anophthalmia,
+and coloboma (MAC) in Scotland: investigation of genetic aetiology. J Med Genet.
+2002 Jan;39(1):16-22. doi: 10.1136/jmg.39.1.16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Plaisancie J, Calvas P, Chassaing N. Genetic Advances in Microphthalmia. J
+Pediatr Genet. 2016 Dec;5(4):184-188. doi: 10.1055/s-0036-1592350. Epub 2016 Sep
+16.
+Citation on PubMed
+Plaisancie J, Ceroni F, Holt R, Zazo Seco C, Calvas P, Chassaing N, Ragge NK.
+Genetics of anophthalmia and microphthalmia. Part 1: Non-syndromic
+anophthalmia/microphthalmia. Hum Genet. 2019 Sep;138(8-9):799-830. doi:
+10.1007/s00439-019-01977-y. Epub 2019 Feb 14.
+Citation on PubMed
+Ragge NK, Subak-Sharpe ID, Collin JR. A practical guide to the management of
+anophthalmia and microphthalmia. Eye (Lond). 2007 Oct;21(10):1290-300. doi:
+10.1038/sj.eye.6702858.
+Citation on PubMed
+Reis LM, Tyler RC, Schneider A, Bardakjian T, Stoler JM, Melancon SB, Semina
+EV. FOXE3 plays a significant role in autosomal recessive microphthalmia. Am J
+Med Genet A. 2010 Mar;152A(3):582-90. doi: 10.1002/ajmg.a.33257.
+Citation on PubMed
+Schimmenti LA, de la Cruz J, Lewis RA, Karkera JD, Manligas GS, Roessler E,
+Muenke M. Novel mutation in sonic hedgehog in non-syndromic colobomatous
+microphthalmia. Am J Med Genet A. 2003 Jan 30;116A(3):215-21. doi:
+10.1002/ajmg.a.10884.
+Citation on PubMed
+Shah SP, Taylor AE, Sowden JC, Ragge NK, Russell-Eggitt I, Rahi JS, Gilbert
+CE; Surveillance of Eye Anomalies (SEA-UK) Special Interest Group. Anophthalmos,
+microphthalmos, and typical coloboma in the United Kingdom: a prospective study
+of incidence and risk. Invest Ophthalmol Vis Sci. 2011 Feb 1;52(1):558-64. doi:
+10.1167/iovs.10-5263.
+Citation on PubMed
+Slavotinek A. Genetics of anophthalmia and microphthalmia. Part 2: Syndromes
+associated with anophthalmia-microphthalmia. Hum Genet. 2019
+Sep;138(8-9):831-846. doi: 10.1007/s00439-018-1949-1. Epub 2018 Oct 30.
+Citation on PubMed
+Verma AS, Fitzpatrick DR. Anophthalmia and microphthalmia. Orphanet J Rare
+Dis. 2007 Nov 26;2:47. doi: 10.1186/1750-1172-2-47.
+Citation on PubMed
+or
+Free article on PubMed Central
+Williamson KA, FitzPatrick DR. The genetic architecture of microphthalmia,
+anophthalmia and coloboma. Eur J Med Genet. 2014 Aug;57(8):369-80. doi:
+10.1016/j.ejmg.2014.05.002. Epub 2014 May 22.
+Citation on PubMed
+Ye M, Berry-Wynne KM, Asai-Coakwell M, Sundaresan P, Footz T, French CR,
+Abitbol M, Fleisch VC, Corbett N, Allison WT, Drummond G, Walter MA, Underhill
+TM, Waskiewicz AJ, Lehmann OJ. Mutation of the bone morphogenetic protein GDF3
+causes ocular and skeletal anomalies. Hum Mol Genet. 2010 Jan 15;19(2):287-98.
+doi: 10.1093/hmg/ddp496. Epub 2009 Oct 28.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eye Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Coloboma of the iris
+Congenital cataract
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

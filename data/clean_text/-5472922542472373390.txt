@@ -1,0 +1,172 @@
+Migraine: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Migraine
+URL of this page: https://medlineplus.gov/genetics/condition/migraine/
+Migraine
+Description
+A migraine is a type of headache that typically causes intense, throbbing pain usually in one area of the head. People can experience migraines once a year to multiple times a week. A person is considered to have chronic migraines if they experience 15 or more headache days a month with eight of those days involving migraine headaches. Migraines typically first start during a person's teens to early twenties, but they can begin anytime from early childhood to late-adulthood.
+A migraine usually has three stages: the period leading up to the headache (known as the premonitory or prodromal phase), the migraine itself (the headache phase), and the period following the headache (known as the postdromal phase).
+The premonitory phase can start from several hours up to several days before the headache appears. In this phase, affected individuals can experience extreme tiredness (fatigue), concentration problems, and muscle stiffness in the neck. A wide variety of additional signs and symptoms can occur including excessive yawning, food cravings, irritability,
+depression
+, sensitivity to light, and nausea. About one-third of people with migraine experience a temporary pattern of neurological symptoms called an aura. An aura typically develops gradually over a few minutes and lasts between 5 and 60 minutes. Auras commonly include temporary visual changes such as blind spots (scotomas), flashing lights, and zig-zagging lines of color. Additional features of aura can include numbness, difficulty with speech and language, episodes of extreme dizziness (vertigo), and double vision. During an aura, affected individuals might experience abnormal sensations including tingling or numbness, usually of the hands or mouth. An aura usually starts within one hour of the start of a migraine. In some cases, an aura can occur without a subsequent migraine.
+In the headache phase, the pain may last from a few hours to a few days. Affected individuals tend to experience nausea, vomiting, dizziness, and sensitivity to light and sound in addition to headache. Some have changes in their vision or sensitivity to odors and touch.
+The postdromal phase usually lasts a few hours but can linger for more than a day. In this phase, the headache pain is gone but individuals can experience fatigue, drowsiness, decreased energy, concentration problems, irritability, nausea, or sensitivity to light. Affected individuals may also have brief episodes of head pain when moving their head.
+People with migraine, particularly women who have migraine with aura, have an increased risk of a type of stroke that is caused by a lack of blood flow to the brain (
+ischemic stroke
+), but this is a rare occurrence.
+There are many migraine disorders that usually include additional signs and symptoms. For example,
+familial hemiplegic migraine
+and
+sporadic hemiplegic migraine
+are characterized by migraine with associated temporary weakness that affects one side of the body (hemiparesis). Additionally,
+cyclic vomiting syndrome
+is a migraine disorder usually found in children that causes episodes of nausea and vomiting in addition to headaches.
+Frequency
+Migraine is the third most common disorder worldwide, affecting 1 in 7 people. Chronic migraines affect about 1 in 50 people worldwide. Women tend to be affected by migraines more frequently than men.
+Causes
+Migraines are thought to occur when blood flow in the brain is altered and certain nerves in the brain send abnormal pain signals throughout the head. These signals trigger the release of various brain chemicals (
+neurotransmitters
+) in the brain, which leads to inflammation, particularly of blood vessels and the membrane that covers the brain and spinal cord (meninges). This inflammation causes many of the signs and symptoms of a migraine, including the throbbing pain, nausea, and sensory sensitivities. However, it is unclear what leads to the abnormal nerve signaling.
+Auras are thought to be caused by abnormal nerve signaling and associated changes in blood flow that spread across the brain. Additionally, the release of large amounts of the neurotransmitter glutamate is thought to contribute to aura. The causes of these imbalances are unclear.
+Migraines result from a combination of genetic, environmental, and lifestyle factors, some of which have not been identified. Variations in many genes have been found to be associated with the development of migraines with or without aura. These genes likely have varying degrees of impact among affected individuals. Most of the associated genes are active in the muscles that surround blood vessels (
+vascular smooth muscle
+) within the brain. These genes help regulate blood flow by controlling the narrowing and expansion of blood vessels. Many variants likely disrupt blood flow in the brain, which can contribute to developing migraines. Changes in blood flow in the brain or in the balance between vascular injury and repair (vascular homeostasis) also likely underlie the increased risk of
+stroke
+in people with migraines. Variants in genes that regulate levels of glutamate or the activity (excitability) of certain nerve cells in the brain have also been found in people with migraines.
+Nongenetic factors also play a critical role in developing a migraine. Migraine headaches can be triggered by skipping meals, caffeine or alcohol overuse, certain foods, poor sleep, emotional stress, hormonal changes, or minor head trauma. Excessive use of pain relief medications can also trigger or worsen migraines.
+Learn more about the genes associated with Migraine
+HPSE2
+RNF213
+Additional Information from NCBI Gene:
+ASTN2
+CARF
+CFDP1
+IGSF9B
+IRAG1
+KCNK5
+MEF2D
+MPPED2
+NRP1
+PHACTR1
+PLCE1
+PRDM16
+SLC24A3
+SUGCT
+YAP1
+Inheritance
+Migraines do not have a clear pattern of inheritance, although more than half of affected individuals have at least one family member who also has the disorder.
+Other Names for This Condition
+Classic migraine
+Common migraine
+Disorder, migraine
+Headache migraine
+Headache migrainous
+Migraine disorder
+Migraine headache
+Migraine syndrome
+Migraines
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Migraine with or without aura, susceptibility to, 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 1
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 2
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 3
+MIGRAINE WITHOUT AURA, SUSCEPTIBILITY TO, 4
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 5
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 6
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 12; MGR12
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 10
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 11
+MIGRAINE WITH AURA, SUSCEPTIBILITY TO, 9
+MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 8
+MIGRAINE WITH AURA, SUSCEPTIBILITY TO, 7
+MIGRAINE WITH AURA, SUSCEPTIBILITY TO, 13; MGR13
+Scientific Articles on PubMed
+PubMed
+References
+Bohm PE, Stancampiano FF, Rozen TD. Migraine Headache: Updates and Future
+Developments. Mayo Clin Proc. 2018 Nov;93(11):1648-1653. doi:
+10.1016/j.mayocp.2018.09.006.
+Citation on PubMed
+Dodick DW. Migraine. Lancet. 2018 Mar 31;391(10127):1315-1330. doi:
+10.1016/S0140-6736(18)30478-1. Epub 2018 Mar 6.
+Citation on PubMed
+Gormley P, Anttila V, Winsvold BS, Palta P, Esko T, Pers TH, Farh KH,
+Cuenca-Leon E, Muona M, Furlotte NA, Kurth T, Ingason A, McMahon G, Ligthart L,
+Terwindt GM, Kallela M, Freilinger TM, Ran C, Gordon SG, Stam AH, Steinberg S,
+Borck G, Koiranen M, Quaye L, Adams HH, Lehtimaki T, Sarin AP, Wedenoja J, Hinds
+DA, Buring JE, Schurks M, Ridker PM, Hrafnsdottir MG, Stefansson H, Ring SM,
+Hottenga JJ, Penninx BW, Farkkila M, Artto V, Kaunisto M, Vepsalainen S, Malik R,
+Heath AC, Madden PA, Martin NG, Montgomery GW, Kurki MI, Kals M, Magi R, Parn K,
+Hamalainen E, Huang H, Byrnes AE, Franke L, Huang J, Stergiakouli E, Lee PH,
+Sandor C, Webber C, Cader Z, Muller-Myhsok B, Schreiber S, Meitinger T, Eriksson
+JG, Salomaa V, Heikkila K, Loehrer E, Uitterlinden AG, Hofman A, van Duijn CM,
+Cherkas L, Pedersen LM, Stubhaug A, Nielsen CS, Mannikko M, Mihailov E, Milani L,
+Gobel H, Esserlind AL, Christensen AF, Hansen TF, Werge T; International Headache
+Genetics Consortium; Kaprio J, Aromaa AJ, Raitakari O, Ikram MA, Spector T,
+Jarvelin MR, Metspalu A, Kubisch C, Strachan DP, Ferrari MD, Belin AC, Dichgans
+M, Wessman M, van den Maagdenberg AM, Zwart JA, Boomsma DI, Smith GD, Stefansson
+K, Eriksson N, Daly MJ, Neale BM, Olesen J, Chasman DI, Nyholt DR, Palotie A.
+Meta-analysis of 375,000 individuals identifies 38 susceptibility loci for
+migraine. Nat Genet. 2016 Aug;48(8):856-66. doi: 10.1038/ng.3598. Epub 2016 Jun
+20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Headache Classification Committee of the International Headache Society (IHS).
+The International Classification of Headache Disorders, 3rd edition (beta
+version). Cephalalgia. 2013 Jul;33(9):629-808. doi: 10.1177/0333102413485658. No
+abstract available.
+Citation on PubMed
+Loder E, Burch R, Rizzoli P. The 2012 AHS/AAN guidelines for prevention of
+episodic migraine: a summary and comparison with other recent clinical practice
+guidelines. Headache. 2012 Jun;52(6):930-45. doi:
+10.1111/j.1526-4610.2012.02185.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Migraine
+MEDICAL ENCYCLOPEDIA
+Genetics
+Managing migraines at home
+Migraine
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

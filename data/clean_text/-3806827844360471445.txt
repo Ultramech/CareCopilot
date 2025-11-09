@@ -1,0 +1,148 @@
+Hypermanganesemia with dystonia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hypermanganesemia with dystonia
+URL of this page: https://medlineplus.gov/genetics/condition/hypermanganesemia-with-dystonia/
+Hypermanganesemia with dystonia
+Description
+Hypermanganesemia with dystonia is an inherited disorder in which excessive amounts of the element manganese accumulate in the body (hypermanganesemia). One place manganese builds up in particular is in a region of the brain responsible for the coordination of movement, causing neurological problems that make controlling movement difficult. Consequently, the condition is characterized by involuntary, sustained muscle contractions (dystonia) and other uncontrolled movements. Two types of hypermanganesemia with dystonia, called hypermanganesemia with dystonia, polycythemia, and cirrhosis (HMDPC) and hypermanganesemia with dystonia 2, have been identified. They are distinguished by their genetic causes and certain specific features.
+In HMDPC (also known as hypermanganesemia with dystonia 1), manganese accumulates in the blood, brain, and liver. Signs and symptoms of the condition can begin in childhood (early-onset), typically between ages 2 and 15, or in adulthood (adult-onset). Most children with the early-onset form of HMDPC experience dystonia in the arms and legs, which often leads to a characteristic high-stepping walk described as a "cock-walk gait." Other neurological symptoms in affected children include involuntary trembling (tremor), unusually slow movement (bradykinesia), and slurred speech (dysarthria). The adult-onset form of HMDPC is characterized by a pattern of movement abnormalities known as parkinsonism, which includes bradykinesia, tremor, muscle rigidity, and an inability to hold the body upright and balanced (postural instability).
+Individuals with HMDPC have an increased number of red blood cells (polycythemia) and low levels of iron stored in the body. Additional features of HMDPC can include an enlarged liver (hepatomegaly) due to manganese accumulation in the organ, scarring (fibrosis) in the liver, and irreversible liver disease (cirrhosis).
+In hypermanganesemia with dystonia 2, manganese accumulates in the blood and brain. Signs and symptoms of this type of the disorder usually begin between ages 6 months and 3 years. Development of motor skills, such as sitting and walking, may be delayed, or if already learned, they may be lost. Dystonia can affect any part of the body and worsens over time. By late childhood, the sustained muscle contractions often result in joints that are permanently bent (contractures) and an inability to walk unassisted. Some affected individuals have an abnormal curvature of the spine (
+scoliosis
+). People with hypermanganesemia with dystonia 2 can have other neurological problems similar to those in HMDPC, such as tremor, bradykinesia, parkinsonism, and dysarthria. Unlike in HMDPC, individuals with hypermanganesemia with dystonia 2 do not develop polycythemia or liver problems.
+Frequency
+The prevalence of hypermanganesemia with dystonia is unknown. A small number of cases of each type have been described in the scientific literature.
+Causes
+The two types of hypermanganesemia with dystonia have different genetic causes. HMDPC is caused by mutations in the
+SLC30A10
+gene, and hypermanganesemia with dystonia 2 is caused by mutations in the
+SLC39A14
+gene. These genes provide instructions for making proteins that transport manganese across cell membranes. Manganese is important for many cellular functions, but large amounts are toxic, particularly to brain and liver cells. The SLC30A10 and SLC39A14 proteins are thought to work together to remove excess manganese from the body.
+Both proteins are found in the
+membranes
+surrounding several types of cells, as well as in the membranes of structures within these cells. Studies suggest that when too much manganese builds up in the blood, the SLC39A14 protein transports the element into liver cells. From there, the SLC30A10 protein moves the manganese out of the liver cells into bile so that it can be removed from the body. Bile is a fluid produced in the liver that is important for digestion and the removal of waste material. The SLC30A10 protein may also transport manganese out of brain cells to protect them from an accumulation of the element.
+Mutations in the
+SLC39A14
+gene impair the transport of manganese into liver cells, allowing the element to build up in the blood. When levels are high in the blood, manganese accumulates in brain cells. Mutations in the
+SLC30A10
+gene impair the transport of manganese out of liver cells and possibly brain cells, leading to its accumulation in the blood and brain.
+Manganese accumulation in the brain damages the cells, resulting in the movement problems characteristic of HMDPC and hypermanganesemia with dystonia 2. It is unclear why some of the movement problems differ between the two conditions despite both being caused by excess manganese. Damage from manganese buildup in the liver leads to liver abnormalities in people with HMDPC. Because
+SLC39A14
+gene mutations prevent manganese from entering liver cells, people with hypermanganesemia with dystonia 2 do not have liver damage. High levels of manganese help increase the production of red blood cells, so excess amounts of this element may underlie polycythemia in people with HMDPC. It is unknown why individuals with hypermanganesemia with dystonia 2 do not develop polycythemia.
+Learn more about the genes associated with Hypermanganesemia with dystonia
+SLC30A10
+SLC39A14
+Inheritance
+Hypermanganesemia with dystonia is inherited in an
+autosomal recessive pattern
+, which means both copies of the
+SLC30A10
+or
+SLC39A14
+gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Familial manganese-induced neurotoxicity
+HMNDYT
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hypermanganesemia with dystonia 2
+Genetic and Rare Diseases Information Center
+Cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+HYPERMANGANESEMIA WITH DYSTONIA 1; HMNDYT1
+HYPERMANGANESEMIA WITH DYSTONIA 2; HMNDYT2
+Scientific Articles on PubMed
+PubMed
+References
+Mukhopadhyay S. Familial manganese-induced neurotoxicity due to mutations in
+SLC30A10 or SLC39A14. Neurotoxicology. 2018 Jan;64:278-283. doi:
+10.1016/j.neuro.2017.07.030. Epub 2017 Aug 5.
+Citation on PubMed
+Mukhtiar K, Ibrahim S, Tuschl K, Mills P. Hypermanganesemia with Dystonia,
+Polycythemia and Cirrhosis (HMDPC) due to mutation in the SLC30A10 gene. Brain
+Dev. 2016 Oct;38(9):862-5. doi: 10.1016/j.braindev.2016.04.005. Epub 2016 Apr 23.
+Citation on PubMed
+Quadri M, Federico A, Zhao T, Breedveld GJ, Battisti C, Delnooz C, Severijnen
+LA, Di Toro Mammarella L, Mignarri A, Monti L, Sanna A, Lu P, Punzo F, Cossu G,
+Willemsen R, Rasi F, Oostra BA, van de Warrenburg BP, Bonifati V. Mutations in
+SLC30A10 cause parkinsonism and dystonia with hypermanganesemia, polycythemia,
+and chronic liver disease. Am J Hum Genet. 2012 Mar 9;90(3):467-77. doi:
+10.1016/j.ajhg.2012.01.017. Epub 2012 Feb 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tuschl K, Clayton PT, Gospe SM Jr, Gulab S, Ibrahim S, Singhi P, Aulakh R,
+Ribeiro RT, Barsottini OG, Zaki MS, Del Rosario ML, Dyack S, Price V, Rideout A,
+Gordon K, Wevers RA, Chong WK, Mills PB. Syndrome of hepatic cirrhosis, dystonia,
+polycythemia, and hypermanganesemia caused by mutations in SLC30A10, a manganese
+transporter in man. Am J Hum Genet. 2012 Mar 9;90(3):457-66. doi:
+10.1016/j.ajhg.2012.01.018. Epub 2012 Feb 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tuschl K, Clayton PT, Gospe SM Jr, Mills PB. Hypermanganesemia with Dystonia
+1. 2012 Aug 30 [updated 2021 Dec 23]. In: Adam MP, Feldman J, Mirzaa GM, Pagon
+RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle
+(WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK100241/
+Citation on PubMed
+Tuschl K, Meyer E, Valdivia LE, Zhao N, Dadswell C, Abdul-Sada A, Hung CY,
+Simpson MA, Chong WK, Jacques TS, Woltjer RL, Eaton S, Gregory A, Sanford L, Kara
+E, Houlden H, Cuno SM, Prokisch H, Valletta L, Tiranti V, Younis R, Maher ER,
+Spencer J, Straatman-Iwanowska A, Gissen P, Selim LA, Pintos-Morell G,
+Coroleu-Lletget W, Mohammad SS, Yoganathan S, Dale RC, Thomas M, Rihel J, Bodamer
+OA, Enns CA, Hayflick SJ, Clayton PT, Mills PB, Kurian MA, Wilson SW. Mutations
+in SLC39A14 disrupt manganese homeostasis and cause childhood-onset
+parkinsonism-dystonia. Nat Commun. 2016 May 27;7:11601. doi: 10.1038/ncomms11601.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tuschl K, Mills PB, Parsons H, Malone M, Fowler D, Bitner-Glindzicz M, Clayton
+PT. Hepatic cirrhosis, dystonia, polycythaemia and hypermanganesaemia--a new
+metabolic disorder. J Inherit Metab Dis. 2008 Apr;31(2):151-63. doi:
+10.1007/s10545-008-0813-1. Epub 2008 Apr 4.
+Citation on PubMed
+Related Health Topics
+Cirrhosis
+Dystonia
+Genetic Disorders
+Movement Disorders
+Neurologic Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

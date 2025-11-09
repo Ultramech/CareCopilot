@@ -1,0 +1,172 @@
+Prion disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Prion disease
+URL of this page: https://medlineplus.gov/genetics/condition/prion-disease/
+Prion disease
+Description
+Prion disease represents a group of conditions that affect the nervous system in humans and animals. In people, these conditions impair brain function, causing changes in memory, personality, and behavior; a decline in intellectual function (dementia); and abnormal movements, particularly difficulty with coordinating movements (ataxia). The signs and symptoms of prion disease typically begin in adulthood and worsen with time, leading to death within a few months to several years.
+Frequency
+These disorders are very rare. Although the exact prevalence of prion disease is unknown, studies suggest that this group of conditions affects about one person per million worldwide each year. Approximately 350 new cases are reported annually in the United States.
+Causes
+Between 10 and 15 percent of all cases of prion disease are caused by mutations in the
+PRNP
+gene. Because they can run in families, these forms of prion disease are classified as familial. Familial prion diseases, which have overlapping signs and symptoms, include familial Creutzfeldt-Jakob disease (CJD), Gerstmann-Sträussler-Scheinker syndrome (GSS), and fatal familial insomnia (FFI).
+The
+PRNP
+gene provides instructions for making a protein called prion protein (PrP). Although the precise function of this protein is unknown, researchers have proposed roles in several important processes. These include the transport of copper into cells, protection of brain cells (neurons) from injury (neuroprotection), and communication between neurons. In familial forms of prion disease,
+PRNP
+gene mutations result in the production of an
+abnormally shaped protein
+, known as PrP
+Sc
+, from one copy of the gene. In a process that is not fully understood, PrP
+Sc
+can attach (bind) to the normal protein (PrP
+C
+) and promote its transformation into PrP
+Sc
+. The abnormal protein builds up in the brain, forming clumps that damage or destroy neurons. The loss of these cells creates microscopic sponge-like holes (vacuoles) in the brain, which leads to the signs and symptoms of prion disease.
+The other 85 to 90 percent of cases of prion disease are classified as either sporadic or acquired. People with sporadic prion disease have no family history of the disease and no identified mutation in the
+PRNP
+gene. Sporadic disease occurs when PrP
+C
+spontaneously, and for unknown reasons, is transformed into PrP
+Sc
+. Sporadic forms of prion disease include sporadic Creutzfeldt-Jakob disease (sCJD), sporadic fatal insomnia (sFI), and variably protease-sensitive prionopathy (VPSPr).
+Acquired prion disease results from exposure to PrP
+Sc
+from an outside source. For example, variant Creutzfeldt-Jakob disease (vCJD) is a type of acquired prion disease in humans that results from eating beef products containing PrP
+Sc
+from cattle with prion disease. In cows, this form of the disease is known as bovine spongiform encephalopathy (BSE) or, more commonly, "mad cow disease." Another example of an acquired human prion disease is kuru, which was identified in the South Fore population in Papua New Guinea. The disorder was transmitted when individuals ate affected human tissue during cannibalistic funeral rituals.
+Rarely, prion disease can be transmitted by accidental exposure to PrP
+Sc
+-contaminated tissues during a medical procedure. This type of prion disease, which accounts for 1 to 2 percent of all cases, is classified as iatrogenic.
+Learn more about the gene associated with Prion disease
+PRNP
+Inheritance
+Familial forms of prion disease are inherited in an autosomal dominant pattern, which means one copy of the altered
+PRNP
+gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the altered gene from
+one affected parent
+. In some people, familial forms of prion disease are caused by a
+new mutation in the gene
+that occurs during the formation of a parent's reproductive cells (eggs or sperm) or in early embryonic development. Although such people do not have an affected parent, they can pass the genetic change to their children.
+The sporadic, acquired, and iatrogenic forms of prion disease, including kuru and variant Creutzfeldt-Jakob disease, are not inherited.
+Other Names for This Condition
+Inherited human transmissible spongiform encephalopathies
+Prion protein diseases
+Prion-associated disorders
+Prion-induced disorders
+Transmissible dementias
+Transmissible spongiform encephalopathies
+TSEs
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Fatal familial insomnia
+Genetic Testing Registry: Creutzfeldt-Jakob disease
+Genetic Testing Registry: Prion disease
+Genetic Testing Registry: Gerstmann-Straussler-Scheinker syndrome
+Genetic Testing Registry: Kuru, susceptibility to
+Genetic and Rare Diseases Information Center
+Gerstmann-Straussler-Scheinker syndrome
+Sporadic Creutzfeldt-Jakob disease
+Variant Creutzfeldt-Jakob disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CREUTZFELDT-JAKOB DISEASE; CJD
+GERSTMANN-STRAUSSLER DISEASE; GSD
+FATAL FAMILIAL INSOMNIA; FFI
+KURU, SUSCEPTIBILITY TO
+Scientific Articles on PubMed
+PubMed
+References
+Aguzzi A, Heikenwalder M. Pathogenesis of prion diseases: current status and
+future outlook. Nat Rev Microbiol. 2006 Oct;4(10):765-75. doi:
+10.1038/nrmicro1492.
+Citation on PubMed
+Aguzzi A. Prion diseases of humans and farm animals: epidemiology, genetics,
+and pathogenesis. J Neurochem. 2006 Jun;97(6):1726-39. doi:
+10.1111/j.1471-4159.2006.03909.x.
+Citation on PubMed
+Brown K, Mastrianni JA. The prion diseases. J Geriatr Psychiatry Neurol. 2010
+Dec;23(4):277-98. doi: 10.1177/0891988710383576. Epub 2010 Oct 11.
+Citation on PubMed
+Capellari S, Strammiello R, Saverioni D, Kretzschmar H, Parchi P. Genetic
+Creutzfeldt-Jakob disease and fatal familial insomnia: insights into phenotypic
+variability and disease pathogenesis. Acta Neuropathol. 2011 Jan;121(1):21-37.
+doi: 10.1007/s00401-010-0760-4. Epub 2010 Oct 27.
+Citation on PubMed
+Glatzel M, Stoeck K, Seeger H, Luhrs T, Aguzzi A. Human prion diseases:
+molecular and clinical aspects. Arch Neurol. 2005 Apr;62(4):545-52. doi:
+10.1001/archneur.62.4.545.
+Citation on PubMed
+Head MW, Ironside JW. Review: Creutzfeldt-Jakob disease: prion protein type,
+disease phenotype and agent strain. Neuropathol Appl Neurobiol. 2012
+Jun;38(4):296-310. doi: 10.1111/j.1365-2990.2012.01265.x.
+Citation on PubMed
+Imran M, Mahmood S. An overview of human prion diseases. Virol J. 2011 Dec
+24;8:559. doi: 10.1186/1743-422X-8-559.
+Citation on PubMed
+or
+Free article on PubMed Central
+Johnson RT. Prion diseases. Lancet Neurol. 2005 Oct;4(10):635-42. doi:
+10.1016/S1474-4422(05)70192-7.
+Citation on PubMed
+Montagna P, Gambetti P, Cortelli P, Lugaresi E. Familial and sporadic fatal
+insomnia. Lancet Neurol. 2003 Mar;2(3):167-76. doi:
+10.1016/s1474-4422(03)00323-5.
+Citation on PubMed
+Prusiner SB. Shattuck lecture--neurodegenerative diseases and prions. N Engl J
+Med. 2001 May 17;344(20):1516-26. doi: 10.1056/NEJM200105173442006. No abstract
+available.
+Citation on PubMed
+Puoti G, Bizzi A, Forloni G, Safar JG, Tagliavini F, Gambetti P. Sporadic
+human prion diseases: molecular insights and diagnosis. Lancet Neurol. 2012
+Jul;11(7):618-28. doi: 10.1016/S1474-4422(12)70063-7.
+Citation on PubMed
+Related Health Topics
+Creutzfeldt-Jakob Disease
+Degenerative Nerve Diseases
+Genetic Brain Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Creutzfeldt-Jakob disease
+Genetics
+Kuru
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

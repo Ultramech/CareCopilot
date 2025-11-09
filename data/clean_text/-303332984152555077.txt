@@ -1,0 +1,123 @@
+Ataxia with vitamin E deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Ataxia with vitamin E deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/ataxia-with-vitamin-e-deficiency/
+Ataxia with vitamin E deficiency
+Description
+Ataxia with vitamin E deficiency is a disorder that impairs the body's ability to use vitamin E obtained from the diet. Vitamin E is an antioxidant, which means that it protects cells in the body from the damaging effects of unstable molecules called free radicals. A shortage (deficiency) of vitamin E can lead to neurological problems, such as difficulty coordinating movements (ataxia) and speech (dysarthria), loss of reflexes in the legs (lower limb areflexia), and a loss of sensation in the extremities (peripheral neuropathy). Some people with this condition have developed an eye disorder called
+retinitis pigmentosa
+that causes vision loss. Most people who have ataxia with vitamin E deficiency start to experience problems with movement between the ages of 5 and 15 years. The movement problems tend to worsen with age.
+Frequency
+Ataxia with vitamin E deficiency is a rare condition; however, its prevalence is unknown.
+Causes
+Mutations in the
+TTPA
+gene cause ataxia with vitamin E deficiency. The
+TTPA
+gene provides instructions for making the α-tocopherol transfer protein (αTTP), which is found in the liver and brain. This protein controls distribution of vitamin E obtained from the diet (also called α-tocopherol) to cells and tissues throughout the body. Vitamin E helps cells prevent damage that might be done by free radicals.
+TTPA
+gene mutations impair the activity of the αTTP protein, resulting in an inability to retain and use dietary vitamin E. As a result, vitamin E levels in the blood are greatly reduced and free radicals accumulate within cells. Nerve cells (
+neurons
+) in the brain and spinal cord (central nervous system) are particularly vulnerable to the damaging effects of free radicals and these cells die off when they are deprived of vitamin E. Nerve cell damage can lead to problems with movement and other features of ataxia with vitamin E deficiency.
+Learn more about the gene associated with Ataxia with vitamin E deficiency
+TTPA
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Ataxia with isolated vitamin E deficiency
+AVED
+Familial isolated vitamin E deficiency
+FIVE
+Friedreich ataxia phenotype with selective vitamin E deficiency
+Friedreich-like ataxia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial isolated deficiency of vitamin E
+Genetic and Rare Diseases Information Center
+Ataxia with vitamin E deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ATAXIA WITH VITAMIN E DEFICIENCY; AVED
+Scientific Articles on PubMed
+PubMed
+References
+Bromley D, Anderson PC, Daggett V. Structural consequences of mutations to the
+alpha-tocopherol transfer protein associated with the neurodegenerative disease
+ataxia with vitamin E deficiency. Biochemistry. 2013 Jun 18;52(24):4264-73. doi:
+10.1021/bi4001084. Epub 2013 Jun 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Di Donato I, Bianchi S, Federico A. Ataxia with vitamin E deficiency: update
+of molecular diagnosis. Neurol Sci. 2010 Aug;31(4):511-5. doi:
+10.1007/s10072-010-0261-1. Epub 2010 May 13.
+Citation on PubMed
+El Euch-Fayache G, Bouhlal Y, Amouri R, Feki M, Hentati F. Molecular, clinical
+and peripheral neuropathy study of Tunisian patients with ataxia with vitamin E
+deficiency. Brain. 2014 Feb;137(Pt 2):402-10. doi: 10.1093/brain/awt339. Epub
+2013 Dec 25.
+Citation on PubMed
+Mariotti C, Gellera C, Rimoldi M, Mineri R, Uziel G, Zorzi G, Pareyson D,
+Piccolo G, Gambi D, Piacentini S, Squitieri F, Capra R, Castellotti B, Di Donato
+S. Ataxia with isolated vitamin E deficiency: neurological phenotype, clinical
+follow-up and novel mutations in TTPA gene in Italian families. Neurol Sci. 2004
+Jul;25(3):130-7. doi: 10.1007/s10072-004-0246-z.
+Citation on PubMed
+Pang J, Kiyosawa M, Seko Y, Yokota T, Harino S, Suzuki J. Clinicopathological
+report of retinitis pigmentosa with vitamin E deficiency caused by mutation of
+the alpha-tocopherol transfer protein gene. Jpn J Ophthalmol. 2001
+Nov-Dec;45(6):672-6. doi: 10.1016/s0021-5155(01)00425-7.
+Citation on PubMed
+Qian J, Atkinson J, Manor D. Biochemical consequences of heritable mutations
+in the alpha-tocopherol transfer protein. Biochemistry. 2006 Jul
+11;45(27):8236-42. doi: 10.1021/bi060522c.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Movement Disorders
+Neuromuscular Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Retinitis pigmentosa
+Vitamin E
+Related Medical Tests
+Vitamin E (Tocopherol) Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,271 @@
+Lung cancer: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Lung cancer
+URL of this page: https://medlineplus.gov/genetics/condition/lung-cancer/
+Lung cancer
+Description
+Lung cancer is a disease in which certain cells in the lungs become abnormal and
+multiply uncontrollably to form a tumor
+. Lung cancer may not cause signs or symptoms in its early stages. Some people with lung cancer have chest pain, frequent coughing, blood in the mucus, breathing problems, trouble swallowing or speaking, loss of appetite and weight loss, fatigue, or swelling in the face or neck. Additional symptoms can develop if the cancer spreads (
+metastasizes
+) into other tissues. Lung cancer occurs most often in adults in their sixties or seventies. Most people who develop lung cancer have a history of long-term tobacco smoking; however, the condition can occur in people who have never smoked.
+Lung cancer is generally divided into two types, small cell lung cancer and non-small cell lung cancer, based on the size of the affected cells when viewed under a microscope. Non-small cell lung cancer accounts for 85 percent of lung cancer, while small cell lung cancer accounts for the remaining 15 percent.
+Small cell lung cancer grows quickly and in more than half of cases the cancer has
+spread beyond the lung
+by the time the condition is diagnosed. Small cell lung cancer often metastasizes, most commonly to the liver, brain, bones, and
+adrenal glands
+(small hormone-producing glands located on top of each kidney). After diagnosis, most people with small cell lung cancer survive for about 1 year; less than seven percent survive 5 years.
+Non-small cell lung cancer is divided into three main subtypes: adenocarcinoma, squamous cell carcinoma, and large cell lung carcinoma. Adenocarcinoma arises from the cells that line the small air sacs (
+alveoli
+) located throughout the lungs. Squamous cell carcinoma arises from squamous cells that line the passages leading from the windpipe (
+trachea
+) to the lungs (bronchi). Large cell carcinoma arises from epithelial cells that line the lungs. Large cell carcinoma encompasses non-small cell lung cancers that do not appear to be adenocarcinomas or squamous cell carcinomas. The 5-year survival rate for people with non-small cell lung cancer is usually between 11 and 17 percent; it can be lower or higher depending on the subtype and stage of the cancer.
+Frequency
+In the United States, lung cancer is the second most commonly diagnosed cancer, after
+breast cancer
+, accounting for about one-quarter of all cancer diagnoses. It is estimated that more than 222,500 people develop lung cancer each year. Approximately 6.6 percent of individuals will develop lung cancer during their lifetime. An estimated 72 to 80 percent of lung cancer cases occur in tobacco smokers. Lung cancer is the leading cause of cancer deaths, accounting for an estimated 27 percent of all cancer deaths in the United States.
+Causes
+Cancers occur when genetic mutations build up in critical genes, specifically those that control cell growth and division (proliferation) or the repair of damaged DNA. These changes allow
+cells to grow and divide uncontrollably to form a tumor
+. In nearly all cases of lung cancer, these genetic changes are acquired during a person's lifetime and are present only in certain cells in the lung. These changes, which are called somatic mutations, are not inherited. Somatic mutations in many different genes have been found in lung cancer cells. In rare cases, the genetic change is inherited and is present in all the body's cells (germline mutations).
+Somatic mutations in the
+TP53
+,
+EGFR
+, and
+KRAS
+genes are common in lung cancers. The
+TP53
+gene provides instructions for making a protein, called p53, that is located in the nucleus of cells throughout the body, where it attaches (binds) directly to DNA. The protein regulates cell growth and division by monitoring DNA damage. When DNA becomes damaged, p53 helps determine whether the DNA will be repaired or the cell will self-destruct (
+undergo apoptosis
+). The
+EGFR
+and
+KRAS
+genes each provide instructions for making a protein that is embedded within the cell membrane. When these proteins are turned on (activated) by binding to other molecules, signaling pathways are triggered within cells that promote cell proliferation.
+TP53
+gene mutations result in the production of an altered p53 protein that cannot bind to DNA. The altered protein cannot regulate cell proliferation effectively and allows DNA damage to accumulate in cells. Such cells may continue to divide in an uncontrolled way, leading to tumor growth. Mutations in the
+EGFR
+or
+KRAS
+gene lead to the production of a protein that is constantly turned on (constitutively activated). As a result, cells constantly receive signals to proliferate, leading to tumor formation. When these genetic changes occur in cells in
+the lungs
+, lung cancer develops.
+Mutations in many other genes have been found to recur in lung cancer cases. Most of these genes are involved in the regulation of gene activity (expression), cell proliferation, the process by which cells mature to carry out specific functions (differentiation), and apoptosis.
+Researchers have identified many lifestyle and environmental factors that expose individuals to cancer-causing compounds (carcinogens) and increase the rate at which somatic mutations occur, contributing to a person's risk of developing lung cancer. The greatest risk factor is long-term tobacco smoking, which increases a person's risk of developing lung cancer 25-fold. Other risk factors include exposure to air pollution, radon, asbestos, certain metals and chemicals, or secondhand smoke; long-term use of hormone replacement therapy for menopause; and a history of lung disease such as tuberculosis, emphysema, or chronic bronchitis. A history of lung cancer in closely related family members is also an important risk factor; however, because relatives with lung cancer are frequently smokers, it is unclear whether the increased risk is the result of genetic factors or exposure to secondhand smoke.
+Learn more about the genes associated with Lung cancer
+ALK
+BRAF
+CDKN2A
+EGFR
+KRAS
+MAP2K1
+NF1
+NRAS
+PIK3CA
+PRKN
+PTEN
+RB1
+RET
+RIT1
+SMARCA4
+STK11
+TP53
+Additional Information from NCBI Gene:
+DDR2
+DLEC1
+ERBB2
+IRF1
+KEAP1
+MAP3K8
+MET
+NRG1
+PPP2R1B
+RASSF1
+ROS1
+SLC67A1
+Inheritance
+Most cases of lung cancer are not related to inherited genetic changes. These cancers are associated with somatic mutations that occur only in certain cells in the lung.
+When lung cancer is related to inherited genetic changes, the cancer risk follows an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to increase a person's chance of developing the disease. It is important to note that people inherit an increased risk of cancer, not the disease itself. Not all people who inherit mutations in these genes will develop lung cancer.
+Other Names for This Condition
+Cancer of bronchus
+Cancer of the lung
+Lung malignancies
+Lung malignant tumors
+Lung neoplasms
+Malignant lung tumor
+Malignant neoplasm of lung
+Malignant tumor of lung
+Pulmonary cancer
+Pulmonary carcinoma
+Pulmonary neoplasms
+Respiratory carcinoma
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Lung carcinoma
+Genetic and Rare Diseases Information Center
+Small cell lung cancer
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LUNG CANCER
+Scientific Articles on PubMed
+PubMed
+References
+American Cancer Society: Cancer Facts & Figures 2017
+Byers LA, Rudin CM. Small cell lung cancer: where do we go from here? Cancer.
+2015 Mar 1;121(5):664-72. doi: 10.1002/cncr.29098. Epub 2014 Oct 21.
+Citation on PubMed
+Cancer Genome Atlas Research Network. Comprehensive molecular profiling of
+lung adenocarcinoma. Nature. 2014 Jul 31;511(7511):543-50. doi:
+10.1038/nature13385. Epub 2014 Jul 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Couraud S, Zalcman G, Milleron B, Morin F, Souquet PJ. Lung cancer in never
+smokers--a review. Eur J Cancer. 2012 Jun;48(9):1299-311. doi:
+10.1016/j.ejca.2012.03.007. Epub 2012 Mar 28.
+Citation on PubMed
+Ettinger DS, Wood DE, Aisner DL, Akerley W, Bauman J, Chirieac LR, D'Amico TA,
+DeCamp MM, Dilling TJ, Dobelbower M, Doebele RC, Govindan R, Gubens MA, Hennon M,
+Horn L, Komaki R, Lackner RP, Lanuti M, Leal TA, Leisch LJ, Lilenbaum R, Lin J,
+Loo BW Jr, Martins R, Otterson GA, Reckamp K, Riely GJ, Schild SE, Shapiro TA,
+Stevenson J, Swanson SJ, Tauer K, Yang SC, Gregory K, Hughes M. Non-Small Cell
+Lung Cancer, Version 5.2017, NCCN Clinical Practice Guidelines in Oncology. J
+Natl Compr Canc Netw. 2017 Apr;15(4):504-535. doi: 10.6004/jnccn.2017.0050.
+Citation on PubMed
+Howington JA, Blum MG, Chang AC, Balekian AA, Murthy SC. Treatment of stage I
+and II non-small cell lung cancer: Diagnosis and management of lung cancer, 3rd
+ed: American College of Chest Physicians evidence-based clinical practice
+guidelines. Chest. 2013 May;143(5 Suppl):e278S-e313S. doi: 10.1378/chest.12-2359.
+Citation on PubMed
+Kalemkerian GP, Akerley W, Bogner P, Borghaei H, Chow LQ, Downey RJ, Gandhi L,
+Ganti AK, Govindan R, Grecula JC, Hayman J, Heist RS, Horn L, Jahan T, Koczywas
+M, Loo BW Jr, Merritt RE, Moran CA, Niell HB, O'Malley J, Patel JD, Ready N,
+Rudin CM, Williams CC Jr, Gregory K, Hughes M; National Comprehensive Cancer
+Network. Small cell lung cancer. J Natl Compr Canc Netw. 2013 Jan 1;11(1):78-98.
+doi: 10.6004/jnccn.2013.0011.
+Citation on PubMed
+or
+Free article on PubMed Central
+Karachaliou N, Mayo C, Costa C, Magri I, Gimenez-Capitan A, Molina-Vila MA,
+Rosell R. KRAS mutations in lung cancer. Clin Lung Cancer. 2013 May;14(3):205-14.
+doi: 10.1016/j.cllc.2012.09.007. Epub 2012 Nov 1.
+Citation on PubMed
+Lindeman NI, Cagle PT, Beasley MB, Chitale DA, Dacic S, Giaccone G, Jenkins
+RB, Kwiatkowski DJ, Saldivar JS, Squire J, Thunnissen E, Ladanyi M, College of
+American Pathologists International Association for the Study of Lung Cancer and
+Association for Molecular Pathology. Molecular testing guideline for selection of
+lung cancer patients for EGFR and ALK tyrosine kinase inhibitors: guideline from
+the College of American Pathologists, International Association for the Study of
+Lung Cancer, and Association for Molecular Pathology. J Mol Diagn. 2013
+Jul;15(4):415-53. doi: 10.1016/j.jmoldx.2013.03.001. Epub 2013 Apr 4.
+Citation on PubMed
+Lindeman NI, Cagle PT, Beasley MB, Chitale DA, Dacic S, Giaccone G, Jenkins
+RB, Kwiatkowski DJ, Saldivar JS, Squire J, Thunnissen E, Ladanyi M. Molecular
+testing guideline for selection of lung cancer patients for EGFR and ALK tyrosine
+kinase inhibitors: guideline from the College of American Pathologists,
+International Association for the Study of Lung Cancer, and Association for
+Molecular Pathology. Arch Pathol Lab Med. 2013 Jun;137(6):828-60. doi:
+10.5858/arpa.2012-0720-OA. Epub 2013 Apr 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lohinai Z, Hoda MA, Fabian K, Ostoros G, Raso E, Barbai T, Timar J, Kovalszky
+I, Cserepes M, Rozsas A, Laszlo V, Grusch M, Berger W, Klepetko W, Moldvay J,
+Dome B, Hegedus B. Distinct Epidemiology and Clinical Consequence of Classic
+Versus Rare EGFR Mutations in Lung Adenocarcinoma. J Thorac Oncol. 2015
+May;10(5):738-746. doi: 10.1097/JTO.0000000000000492.
+Citation on PubMed
+Ramnath N, Dilling TJ, Harris LJ, Kim AW, Michaud GC, Balekian AA, Diekemper
+R, Detterbeck FC, Arenberg DA. Treatment of stage III non-small cell lung cancer:
+Diagnosis and management of lung cancer, 3rd ed: American College of Chest
+Physicians evidence-based clinical practice guidelines. Chest. 2013 May;143(5
+Suppl):e314S-e340S. doi: 10.1378/chest.12-2360.
+Citation on PubMed
+Shames DS, Wistuba II. The evolving genomic classification of lung cancer. J
+Pathol. 2014 Jan;232(2):121-33. doi: 10.1002/path.4275.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sholl LM. The Molecular Pathology of Lung Cancer. Surg Pathol Clin. 2016
+Sep;9(3):353-78. doi: 10.1016/j.path.2016.04.003.
+Citation on PubMed
+Socinski MA, Evans T, Gettinger S, Hensing TA, VanDam Sequist L, Ireland B,
+Stinchcombe TE. Treatment of stage IV non-small cell lung cancer: Diagnosis and
+management of lung cancer, 3rd ed: American College of Chest Physicians
+evidence-based clinical practice guidelines. Chest. 2013 May;143(5
+Suppl):e341S-e368S. doi: 10.1378/chest.12-2361.
+Citation on PubMed
+or
+Free article on PubMed Central
+Stella GM, Luisetti M, Pozzi E, Comoglio PM. Oncogenes in non-small-cell lung
+cancer: emerging connections and novel therapeutic dynamics. Lancet Respir Med.
+2013 May;1(3):251-61. doi: 10.1016/S2213-2600(13)70009-2. Epub 2013 Mar 1.
+Citation on PubMed
+Sutherland KD, Berns A. Cell of origin of lung cancer. Mol Oncol. 2010
+Oct;4(5):397-403. doi: 10.1016/j.molonc.2010.05.002. Epub 2010 Jun 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Swanton C, Govindan R. Clinical Implications of Genomic Discoveries in Lung
+Cancer. N Engl J Med. 2016 May 12;374(19):1864-73. doi: 10.1056/NEJMra1504688. No
+abstract available.
+Citation on PubMed
+Thunnissen E, van der Oord K, den Bakker M. Prognostic and predictive
+biomarkers in lung cancer. A review. Virchows Arch. 2014 Mar;464(3):347-58. doi:
+10.1007/s00428-014-1535-4. Epub 2014 Jan 14.
+Citation on PubMed
+Xue X, Liu Y, Pan L, Wang Y, Wang K, Zhang M, Wang P, Wang J. Diagnosis of
+multiple primary lung cancer: a systematic review. J Int Med Res. 2013
+Dec;41(6):1779-87. doi: 10.1177/0300060513504707.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Lung Cancer
+MEDICAL ENCYCLOPEDIA
+Genetics
+Lung cancer - small cell
+Non-small cell lung cancer
+Related Medical Tests
+Lung Cancer Genetic Tests
+TP53 Genetic Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

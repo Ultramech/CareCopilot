@@ -1,0 +1,141 @@
+Ollier disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Ollier disease
+URL of this page: https://medlineplus.gov/genetics/condition/ollier-disease/
+Ollier disease
+Description
+Ollier disease is a disorder characterized by multiple enchondromas, which are noncancerous (benign) growths of cartilage that develop within the bones. These growths most commonly occur in the limb bones, especially in the bones of the hands and feet; however, they may also occur in the skull, ribs, and bones of the spine (vertebrae). Enchondromas may result in severe bone deformities, shortening of the limbs, and fractures.
+The signs and symptoms of Ollier disease may be detectable at birth, although they generally do not become apparent until around the age of 5. Enchondromas develop near the
+ends of bones
+, where normal growth occurs, and they frequently stop forming after affected individuals stop growing in early adulthood. As a result of the bone deformities associated with Ollier disease, people with this disorder generally have short stature and underdeveloped muscles.
+Although the enchondromas associated with Ollier disease start out as benign, they may become cancerous (malignant). In particular, affected individuals may develop bone cancers called chondrosarcomas, especially in the skull. People with Ollier disease also have an increased risk of other cancers, such as
+ovarian cancer
+or liver cancer.
+People with Ollier disease usually have a normal lifespan, and intelligence is unaffected. The extent of their physical impairment depends on their individual skeletal deformities, but in most cases they have no major limitations in their activities.
+A related disorder called
+Maffucci syndrome
+also involves multiple enchondromas but is distinguished by the presence of red or purplish growths in the skin consisting of tangles of abnormal blood vessels (hemangiomas).
+Frequency
+Ollier disease is estimated to occur in 1 in 100,000 people.
+Causes
+In most people with Ollier disease, the disorder is caused by mutations in the
+IDH1
+or
+IDH2
+gene. These genes provide instructions for making enzymes called isocitrate dehydrogenase 1 and isocitrate dehydrogenase 2, respectively. These enzymes convert a compound called isocitrate to another compound called 2-ketoglutarate. This reaction also produces a molecule called NADPH, which is necessary for many cellular processes.
+IDH1
+or
+IDH2
+gene mutations cause the enzyme produced from the respective gene to take on a new, abnormal function. Although these mutations have been found in some cells of enchondromas in people with Ollier disease, the relationship between the mutations and the signs and symptoms of the disorder is not well understood.
+Mutations in other genes may also account for some cases of Ollier disease.
+Learn more about the genes associated with Ollier disease
+IDH1
+IDH2
+Inheritance
+Ollier disease is not inherited. The mutations that cause this disorder are somatic, which means they occur during a person's lifetime. A somatic mutation occurs in a single cell. As that cell continues to grow and divide, the cells derived from it also have the same mutation. In Ollier disease, the mutation is thought to occur in a cell during early development before birth; cells that arise from that abnormal cell have the mutation, while the body's other cells do not. This situation is called mosaicism.
+Other Names for This Condition
+Dyschondroplasia
+Enchondromatosis
+Enchondromatosis, multiple, Ollier type
+Multiple cartilaginous enchondroses
+Multiple enchondromatosis
+Ollier's syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Enchondromatosis
+Genetic and Rare Diseases Information Center
+Ollier disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ENCHONDROMATOSIS, MULTIPLE, OLLIER TYPE
+Scientific Articles on PubMed
+PubMed
+References
+Amary MF, Damato S, Halai D, Eskandarpour M, Berisha F, Bonar F, McCarthy S,
+Fantin VR, Straley KS, Lobo S, Aston W, Green CL, Gale RE, Tirabosco R, Futreal
+A, Campbell P, Presneau N, Flanagan AM. Ollier disease and Maffucci syndrome are
+caused by somatic mosaic mutations of IDH1 and IDH2. Nat Genet. 2011 Nov
+6;43(12):1262-5. doi: 10.1038/ng.994.
+Citation on PubMed
+Herget GW, Strohm P, Rottenburger C, Kontny U, Krauss T, Bohm J, Sudkamp N, Uhl
+M. Insights into Enchondroma, Enchondromatosis and the risk of secondary
+Chondrosarcoma. Review of the literature with an emphasis on the clinical
+behaviour, radiology, malignant transformation and the follow up. Neoplasma.
+2014;61(4):365-78. doi: 10.4149/neo_2014_046.
+Citation on PubMed
+Pansuriya TC, Kroon HM, Bovee JV. Enchondromatosis: insights on the different
+subtypes. Int J Clin Exp Pathol. 2010 Jun 26;3(6):557-69.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pansuriya TC, van Eijk R, d'Adamo P, van Ruler MA, Kuijjer ML, Oosting J,
+Cleton-Jansen AM, van Oosterwijk JG, Verbeke SL, Meijer D, van Wezel T, Nord KH,
+Sangiorgi L, Toker B, Liegl-Atzwanger B, San-Julian M, Sciot R, Limaye N,
+Kindblom LG, Daugaard S, Godfraind C, Boon LM, Vikkula M, Kurek KC, Szuhai K,
+French PJ, Bovee JV. Somatic mosaic IDH1 and IDH2 mutations are associated with
+enchondroma and spindle cell hemangioma in Ollier disease and Maffucci syndrome.
+Nat Genet. 2011 Nov 6;43(12):1256-61. doi: 10.1038/ng.1004.
+Citation on PubMed
+or
+Free article on PubMed Central
+Silve C, Juppner H. Ollier disease. Orphanet J Rare Dis. 2006 Sep 22;1:37.
+doi: 10.1186/1750-1172-1-37.
+Citation on PubMed
+or
+Free article on PubMed Central
+Superti-Furga A, Spranger J, Nishimura G. Enchondromatosis revisited: new
+classification with molecular basis. Am J Med Genet C Semin Med Genet. 2012 Aug
+15;160C(3):154-64. doi: 10.1002/ajmg.c.31331. Epub 2012 Jul 12.
+Citation on PubMed
+Verdegaal SH, Bovee JV, Pansuriya TC, Grimer RJ, Ozger H, Jutte PC, San Julian
+M, Biau DJ, van der Geest IC, Leithner A, Streitburger A, Klenke FM, Gouin FG,
+Campanacci DA, Marec-Berard P, Hogendoorn PC, Brand R, Taminiau AH. Incidence,
+predictive factors, and prognosis of chondrosarcoma in patients with Ollier
+disease and Maffucci syndrome: an international multicenter study of 161
+patients. Oncologist. 2011;16(12):1771-9. doi: 10.1634/theoncologist.2011-0200.
+Epub 2011 Dec 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

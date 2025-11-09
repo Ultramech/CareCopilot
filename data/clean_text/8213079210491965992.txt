@@ -1,0 +1,112 @@
+MedlinePlus en español: Ayuda para búsquedas
+Omita y vaya al Contenido
+Los sitios web oficiales usan .gov
+Un sitio web
+.gov
+pertenece a una organización oficial del Gobierno de Estados Unidos.
+Los sitios web seguros .gov usan HTTPS
+Un
+candado
+(
+Lock
+Locked padlock icon
+) o
+https://
+significa que usted se conectó de forma segura a un sitio web .gov. Comparta información sensible sólo en sitios web oficiales y seguros.
+Usted está aquí:
+Página Principal
+→
+Acerca de MedlinePlus
+→
+Cómo usar MedlinePlus
+→
+Ayuda para búsquedas
+Usted esta aquí: https://medlineplus.gov/spanish/acercade/uso/sugerenciasparabusquedas/
+Ayuda para búsquedas
+¿Cómo realizo una búsqueda en MedlinePlus?
+La ventana de búsqueda aparece al comienzo de cada página de MedlinePlus.
+Para buscar en MedlinePlus, escriba una palabra o frase en la ventana de búsqueda. Haga click en el botón de "Buscar" o presione "Enter" en su teclado. Se mostrarán los primeros 10 resultados. Si su búsqueda recupera más de 10 resultados, haga click en "Siguiente" o en los enlaces de números al final de la página para continuar viendo los demás.
+La lista por defecto de las búsquedas en MedlinePlus es una amplia lista de "Todos los resultados". Los usuarios pueden enfocar su búsqueda en una parte del sitio navegando los resultados de las colecciones individuales.
+¿Qué significan los enlaces en la ventana de "Defina por tipo" bajo "Todos los resultados"?
+La página que muestra los resultados iniciales presenta todos los resultados de todas las áreas de contenido de MedlinePlus. Los enlaces en la ventana de "Defina por tipo" debajo de "Todos los resultados" representan conjuntos de las áreas de contenidos de MedlinePlus, conocidas como colecciones. Las colecciones ayudan a limitar su búsqueda mostrando resultados pertinentes a una colección.
+MedlinePlus cuenta con nueve colecciones:
+Temas de salud:
+Más de 1,000 páginas que cubren asuntos de bienestar, síntomas, causas, tratamientos y prevención de enfermedades, afecciones y problemas de salud
+Enciclopedia médica:
+Artículos e imágenes de cientos de enfermedades y afecciones
+Enlaces externos:
+Links a páginas web de agencias gubernamentales seleccionadas y organizaciones relacionadas con la salud. Estos enlaces pueden incluir tutoriales interactivos, videos, materiales fáciles de leer y publicaciones de los Institutos Nacionales de la Salud (NIH, por sus siglas en inglés). Estos links aparecen en las páginas de temas de salud de MedlinePlus, pero se listan individualmente en los resultados de búsqueda
+Pruebas médicas:
+Más de 150 artículos sobre exámenes y pruebas de laboratorio. Estas páginas explican para qué se usan las pruebas, por qué un médico puede solicitarlas, en qué consisten y qué significan sus resultados
+Medicamentos y suplementos:
+Información sobre medicamentos recetados y de venta libre, así como información sobre hierbas y suplementos
+Institutos Nacionales de la Salud:
+Enlaces a artículos e imágenes creados por los
+27 institutos y centros de los NIH
+(en inglés). Cada instituto o centro tiene una agenda de investigación específica, a menudo enfocada en enfermedades particulares o sistemas del cuerpo
+Revista NIH MedlinePlus:
+Artículos que aparecen en la versión en línea de la
+Revista NIH MedlinePlus
+Recetas saludables:
+Muestran cómo preparar comidas sabrosas y saludables. Las recetas usan instrucciones fáciles de seguir e incluyen información nutricional
+Múltiples idiomas:
+Enlaces a información de salud de alta calidad en idiomas además del inglés y el español
+¿Puedo buscar una frase?
+Sí. Usted puede buscar una frase usando comillas. Por ejemplo: "calidad en la atención médica" recupera páginas que contienen esa frase.
+¿Expande automáticamente el motor de búsqueda lo que estoy buscando para incluir sinónimos?
+Sí. Cuando el sistema encuentra un sinónimo, lo añade automáticamente a su búsqueda. Por ejemplo, si usted busca la palabra
+hinchazón
+, el sistema recupera automáticamente la palabra
+edema
+.
+¿Puedo hacer una búsqueda booleana? ¿Y usar comodines (*)?
+Sí. Usted puede usar los siguientes operadores booleanos: OR, NOT, -, +, *
+No es necesario usar "AND" ("Y") porque el motor de búsqueda lo usa automáticamente.
+OR
+Utilice este término cuando usted quiera recuperar alguno de los términos pero no necesariamente ambos.
+Ejemplo:
+Tylenol OR Paracetamol
+NOT o -
+Utilice este término cuando usted no quiera que una palabra en particular aparezca en los resultados.
+Ejemplo:
+gripe NOT aviaria
+o
+gripe -aviaria
++
+Utilice el signo de más cuando usted quiera que en sus resultados aparezca la palabra tal como la escribió.
+Ejemplo: +
+mamograma
+encontrará páginas que contienen la palabra exacta y no encontrará mamografía o mamoplastia
+*
+Utilice el comodín cuando quiera que el motor de búsqueda complete la palabra por usted. Escriba por lo menos tres letras junto al comodín.
+Ejemplo:
+mamo
+* encontrará mamografía, mamograma, etc.
+¿Puedo restringir mi búsqueda a un sitio web específico?
+Sí. Usted puede acotar su búsqueda a un sitio web específico añadiendo la palabra "site:" y el dominio o URL a su búsqueda. Por ejemplo, si usted desea encontrar información sobre cáncer de seno en MedlinePlus pero solamente del Instituto Nacional del Cáncer, entonces busque
+cáncer de seno site:cancer.gov
+.
+¿Importa si uso mayúsculas o minúsculas?
+No. El motor de búsqueda ignora mayúsculas o minúsculas y encuentra palabras o conceptos independientemente del uso de las mismas. Por ejemplo, una búsqueda sobre la
+la enfermedad de alzheimer
+también recupera páginas que contienen las palabras
+Enfermedad de Alzheimer
+.
+¿Y si busco caracteres especiales como la ñ?
+Usted puede usar caracteres especiales pero no es necesario. Cuando usted utiliza acentos en su búsqueda, el motor de búsqueda recupera documentos que contienen esos acentos y también recupera los que no contienen esos caracteres. Por ejemplo, si usted busca la palabra
+niño
+, los resultados incluirán páginas que contienen las palabras
+niño
+o
+nino
+.
+¿El motor de búsqueda corrige mi ortografía?
+Sí. El motor de búsqueda sugiere términos alternativos cuando no reconoce la palabra que usted escribió.
+¿Por qué no encontré lo que estaba buscando? ¿Qué puedo hacer?
+Usted no encontró lo que estaba buscando porque probablemente no escribió la palabra correctamente o porque la información que usted buscaba no está disponible en MedlinePlus.
+Si usted no escribió la palabra correctamente, el motor de búsqueda consulta al tesauro para encontrar una alternativa viable. Si no la encuentra, usted puede consultar un diccionario para corroborar la ortografía.
+Si la información que usted buscaba no está disponible en MedlinePlus, usted puede intentar la misma búsqueda en
+otros sitios
+(en inglés) de la Biblioteca Nacional de Medicina de los Estados Unidos. Por ejemplo,
+MEDLINE/PubMed
+(en inglés), la base de datos de revistas biomédicas de la Biblioteca.

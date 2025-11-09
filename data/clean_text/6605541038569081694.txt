@@ -1,0 +1,124 @@
+Asparagine synthetase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Asparagine synthetase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/asparagine-synthetase-deficiency/
+Asparagine synthetase deficiency
+Description
+Asparagine synthetase deficiency is a condition that causes neurological problems in affected individuals starting soon after birth. Most people with this condition have an unusually small head size (
+microcephaly
+) that worsens over time due to loss (atrophy) of brain tissue. They also have severe developmental delay that affects both mental and motor skills (psychomotor delay). Affected individuals cannot sit, crawl, or walk and are unable to communicate verbally or nonverbally. The few affected children who achieve developmental milestones often lose these skills over time (developmental regression).
+Most individuals with asparagine synthetase deficiency have exaggerated reflexes (hyperreflexia) and weak muscle tone (hypotonia). The muscle problems worsen through childhood and lead to muscle stiffness, uncontrolled movements, and ultimately, paralysis of the arms and legs (spastic quadriplegia). Many affected individuals also have recurrent seizures (epilepsy). Not all affected people experience the same type of seizure. The most common types involve a loss of consciousness, muscle rigidity, and convulsions (tonic-clonic); involuntary muscle twitches (myoclonic); or abnormal muscle contraction (tonic). People with asparagine synthetase deficiency may have an exaggerated startle reaction (hyperekplexia) to unexpected stimuli. Some affected individuals have blindness due to impairment of the area of the brain responsible for processing vision, called the occipital cortex (cortical blindness).
+People with asparagine synthetase deficiency typically do not survive past childhood.
+Frequency
+Asparagine synthetase deficiency is thought to be a rare condition. More than 20 affected individuals have been described in the medical literature.
+Causes
+Asparagine synthetase deficiency is caused by mutations in a gene called
+ASNS
+. This gene provides instructions for making an enzyme called asparagine synthetase. This enzyme is found in cells throughout the body, where it converts the protein building block (
+amino acid
+) aspartic acid to the amino acid asparagine.
+In addition to being a component of proteins, asparagine helps to break down toxic ammonia within cells, is important for protein modification, and is needed for making a molecule that transmits signals in the brain (a neurotransmitter). Mutations in the
+ASNS
+gene that cause asparagine synthetase deficiency lead to a decrease or loss of functional enzyme. Asparagine from the diet likely makes up for the enzyme's inability to produce the amino acid in most cells. However, asparagine cannot cross the protective barrier that allows only certain substances to pass between blood vessels and the brain (the blood-brain barrier). As a result, brain cells in people with asparagine synthetase deficiency have a shortage (deficiency) of this amino acid. The exact effect of asparagine synthetase deficiency on brain cells is unknown, but because of the severe features of this condition, it is clear that asparagine is necessary for normal brain development.
+Learn more about the gene associated with Asparagine synthetase deficiency
+ASNS
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ASNS deficiency
+ASNSD
+Congenital microcephaly-severe encephalopathy-progressive cerebral atrophy syndrome
+Disorder of asparagine metabolism
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital microcephaly - severe encephalopathy - progressive cerebral atrophy syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ASPARAGINE SYNTHETASE DEFICIENCY; ASNSD
+Scientific Articles on PubMed
+PubMed
+References
+Alfadhel M, Alrifai MT, Trujillano D, Alshaalan H, Al Othaim A, Al Rasheed S,
+Assiri H, Alqahtani AA, Alaamery M, Rolfs A, Eyaid W. Asparagine Synthetase
+Deficiency: New Inborn Errors of Metabolism. JIMD Rep. 2015;22:11-6. doi:
+10.1007/8904_2014_405. Epub 2015 Feb 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lomelino CL, Andring JT, McKenna R, Kilberg MS. Asparagine synthetase:
+Function, structure, and role in disease. J Biol Chem. 2017 Dec
+8;292(49):19952-19958. doi: 10.1074/jbc.R117.819060. Epub 2017 Oct 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Palmer EE, Hayner J, Sachdev R, Cardamone M, Kandula T, Morris P, Dias KR, Tao
+J, Miller D, Zhu Y, Macintosh R, Dinger ME, Cowley MJ, Buckley MF, Roscioli T,
+Bye A, Kilberg MS, Kirk EP. Asparagine Synthetase Deficiency causes reduced
+proliferation of cells under conditions of limited asparagine. Mol Genet Metab.
+2015 Nov;116(3):178-86. doi: 10.1016/j.ymgme.2015.08.007. Epub 2015 Aug 14.
+Citation on PubMed
+Ruzzo EK, Capo-Chichi JM, Ben-Zeev B, Chitayat D, Mao H, Pappas AL, Hitomi Y,
+Lu YF, Yao X, Hamdan FF, Pelak K, Reznik-Wolf H, Bar-Joseph I, Oz-Levi D, Lev D,
+Lerman-Sagie T, Leshinsky-Silver E, Anikster Y, Ben-Asher E, Olender T, Colleaux
+L, Decarie JC, Blaser S, Banwell B, Joshi RB, He XP, Patry L, Silver RJ,
+Dobrzeniecka S, Islam MS, Hasnat A, Samuels ME, Aryal DK, Rodriguiz RM, Jiang YH,
+Wetsel WC, McNamara JO, Rouleau GA, Silver DL, Lancet D, Pras E, Mitchell GA,
+Michaud JL, Goldstein DB. Deficiency of asparagine synthetase causes congenital
+microcephaly and a progressive form of encephalopathy. Neuron. 2013 Oct
+16;80(2):429-41. doi: 10.1016/j.neuron.2013.08.013.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sacharow SJ, Dudenhausen EE, Lomelino CL, Rodan L, El Achkar CM, Olson HE,
+Genetti CA, Agrawal PB, McKenna R, Kilberg MS. Characterization of a novel
+variant in siblings with Asparagine Synthetase Deficiency. Mol Genet Metab. 2018
+Mar;123(3):317-325. doi: 10.1016/j.ymgme.2017.12.433. Epub 2017 Dec 20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Amino acids
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

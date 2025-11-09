@@ -1,0 +1,223 @@
+Combined pituitary hormone deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Combined pituitary hormone deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/combined-pituitary-hormone-deficiency/
+Combined pituitary hormone deficiency
+Description
+Combined pituitary hormone deficiency is a condition that causes a partial or complete loss (deficiency) of two or more hormones that are normally produced by the pituitary gland. The pituitary gland, which is located at the base of the brain, produces hormones that are needed for growth, development, and other critical body functions. A lack of pituitary hormones can affect growth and development.
+The signs and symptoms of combined pituitary hormone deficiency depend on the specific hormones involved. The hormones that are produced by the pituitary gland include growth hormone (GH), which is needed for normal growth; follicle-stimulating hormone (FSH) and luteinizing hormone (LH), which play a role in sexual development and the ability to have biological children (fertility); thyroid-stimulating hormone (TSH), which triggers the release of hormones that control how the body uses energy; prolactin, which stimulates the production of breast milk; and adrenocorticotropic hormone (ACTH), which influences how the body responds to stress and helps maintain normal levels of glucose in the blood and blood pressure levels.
+Though the features of combined pituitary hormone deficiency can vary, affected individuals often do not grow at the expected rate, and short stature usually becomes apparent in early childhood. Infants with combined pituitary hormone deficiency may have persistent yellowing of the skin and the whites of the eyes (jaundice), low levels of glucose in the blood (hypoglycemia), and genital abnormalities. Features of combined pituitary hormone deficiency include fatigue, changes in weight, delayed or absent puberty, and problems with fertility. Additional signs and symptoms may include abnormal development of the head and face (craniofacial abnormalities), brain abnormalities, recurrent seizures (epilepsy), and developmental delays. Some affected individuals have eye disorders. These include optic nerve hypoplasia, which is a disorder that affects the nerves that carry visual information from the eyes to the brain.
+The signs and symptoms of combined pituitary hormone deficiency can resemble those seen in other disorders, which may delay a diagnosis. Because the signs and symptoms of combined pituitary hormone deficiency can vary widely and often overlap with other conditions, some researchers have suggested that combined pituitary hormone deficiency is part of a spectrum of related disorders rather than a single disorder.
+Combined pituitary hormone deficiency can be congenital or acquired. Acquired combined pituitary hormone deficiency is caused by factors that occur later in life, such as infections or tumors. When combined pituitary hormone deficiency is not acquired, the condition is called congenital.
+Frequency
+The congenital form of combined pituitary hormone deficiency occurs in approximately 1 in 16,000 individuals.
+Causes
+Variants (also called mutations) in several genes that play important roles in early development have been associated with congenital combined pituitary hormone deficiency.
+PROP1
+gene variants are the most common genetic cause of congenital combined pituitary hormone deficiency and are more common in individuals with ancestors from Eastern Europe or the Iberian Peninsula. Variants in other genes have been identified in a smaller number of affected individuals.
+Many of the genes that are associated with congenital combined pituitary hormone deficiency, including
+PROP1
+, provide instructions for making proteins called transcription factors, which control the activity of other genes. These proteins are involved in the development of the pituitary gland and the specialization (differentiation) of pituitary gland cells. Changes in these proteins can lead to the abnormal differentiation of pituitary gland cells, which may reduce or prevent the production of several pituitary hormones.
+In some cases, combined pituitary hormone deficiency is one of a group of features that occur together and are associated with a specific disease (syndromic). In most cases, the cause of congenital combined pituitary hormone deficiency is unknown.
+Acquired combined pituitary hormone deficiency can be caused by damage to the brain, brain tumors, and certain medications. Acquired combined pituitary hormone deficiency can also develop after certain infections or autoimmune disorders.
+Learn more about the genes associated with Combined pituitary hormone deficiency
+CHD7
+FGF8
+FGFR1
+HESX1
+OTX2
+PAX6
+PROKR2
+PROP1
+SOX2
+Additional Information from NCBI Gene:
+ARNT2
+BMP4
+FOXA2
+GLI2
+GLI3
+IGSF1
+LHX3
+LHX4
+PNPLA6
+POU1F1
+RAX
+RNPC3
+ROBO1
+SOX3
+TBC1D32
+TCF7L1
+TGIF1
+ZSWIM6
+Inheritance
+Congenital combined pituitary hormone deficiency can be inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Some cases of this condition are caused by new (de novo) variants in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals typically have no history of the disorder in their family.
+Some cases of congenital combined pituitary hormone deficiency are inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition. Cases of combined pituitary hormone deficiency that are caused by variants in the
+PROP1
+gene have an autosomal recessive pattern of inheritance.
+Congenital combined pituitary hormone deficiency can also be inherited in an X-linked pattern. A condition is considered X-linked if the altered gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+in each cell. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), one altered copy of the gene can cause the condition, although the features may be less severe than those seen in individuals with two altered copies, or there may be no signs or symptoms at all.
+When combined pituitary hormone deficiency is one of a group of features that are associated with a specific disease, it follows the inheritance pattern of that disease.
+Acquired combined pituitary hormone deficiency is not inherited.
+Other Names for This Condition
+CPHD
+Panhypopituitarism
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Combined pituitary hormone deficiencies, genetic form
+Genetic and Rare Diseases Information Center
+Combined pituitary hormone deficiencies, genetic forms
+Non-acquired combined pituitary hormone deficiency-sensorineural hearing loss-spine abnormalities syndrome
+Pituitary hormone deficiency, combined 1
+Short stature-pituitary and cerebellar defects-small sella turcica syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PITUITARY HORMONE DEFICIENCY, COMBINED, 3; CPHD3
+PITUITARY HORMONE DEFICIENCY, COMBINED, 2; CPHD2
+PITUITARY HORMONE DEFICIENCY, COMBINED, 4; CPHD4
+SEPTOOPTIC DYSPLASIA
+PITUITARY HORMONE DEFICIENCY, COMBINED OR ISOLATED, 1; CPHD1
+PITUITARY HORMONE DEFICIENCY, COMBINED OR ISOLATED, 7; CPHD7
+PITUITARY HORMONE DEFICIENCY, COMBINED, 6; CPHD6
+PITUITARY HORMONE DEFICIENCY, COMBINED OR ISOLATED, 8; CPHD8
+Scientific Articles on PubMed
+PubMed
+References
+Bulut FD, Ozdemir Dilek S, Kotan D, Mengen E, Gurbuz F, Yuksel B. Mutations
+Within the Transcription Factor PROP1 in a Cohort of Turkish Patients
+with Combined Pituitary Hormone Deficiency. J Clin Res Pediatr Endocrinol. 2020
+Sep 2;12(3):261-268. doi: 10.4274/jcrpe.galenos.2020.2019.0191. Epub 2020 Jan 17.
+Citation on PubMed
+Carvalho LR, Nishi MY, Correa FA, Moreira Marques J, Arnhold IJP, Mendonca BB.
+PROP1-Related Combined Pituitary Hormone Deficiency. 2000 Dec 7 [updated
+2022 Feb 24]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1347/
+Citation on PubMed
+De Rienzo F, Mellone S, Bellone S, Babu D, Fusco I, Prodam F, Petri A,
+Muniswamy R, De Luca F, Salerno M, Momigliano-Richardi P, Bona G, Giordano M;
+Italian Study Group on Genetics of CPHD. Frequency of genetic defects in combined
+pituitary hormone deficiency: a systematic review and analysis of a multicentre
+Italian cohort. Clin Endocrinol (Oxf). 2015 Dec;83(6):849-60. doi:
+10.1111/cen.12849. Epub 2015 Aug 6.
+Citation on PubMed
+Fang Q, George AS, Brinkmeier ML, Mortensen AH, Gergics P, Cheung LY, Daly AZ,
+Ajmal A, Perez Millan MI, Ozel AB, Kitzman JO, Mills RE, Li JZ, Camper SA.
+Genetics of Combined Pituitary Hormone Deficiency: Roadmap into the Genome Era.
+Endocr Rev. 2016 Dec;37(6):636-675. doi: 10.1210/er.2016-1101. Epub 2016 Nov 9.
+Citation on PubMed
+Gregory LC, Dattani MT. The Molecular Basis of Congenital Hypopituitarism and
+Related Disorders. J Clin Endocrinol Metab. 2020 Jun 1;105(6):dgz184. doi:
+10.1210/clinem/dgz184.
+Citation on PubMed
+Hietamaki J, Karkinen J, Iivonen AP, Vaaralahti K, Tarkkanen A, Almusa H,
+Huopio H, Hero M, Miettinen PJ, Raivio T. Presentation and diagnosis of
+childhood-onset combined pituitary hormone deficiency: A single center experience
+from over 30 years. EClinicalMedicine. 2022 Jul 18;51:101556. doi:
+10.1016/j.eclinm.2022.101556. eCollection 2022 Sep.
+Citation on PubMed
+Jakobsen LK, Jensen RB, Birkebaek NH, Hansen D, Christensen AR, Bjerrum MC,
+Christesen HT. Diagnosis and Incidence of Congenital Combined Pituitary Hormone
+Deficiency in Denmark-A National Observational Study. J Clin Endocrinol Metab.
+2023 Sep 18;108(10):2475-2485. doi: 10.1210/clinem/dgad198.
+Citation on PubMed
+Kelberman D, Rizzoti K, Lovell-Badge R, Robinson IC, Dattani MT. Genetic
+regulation of pituitary gland development in human and mouse. Endocr Rev. 2009
+Dec;30(7):790-829. doi: 10.1210/er.2009-0008. Epub 2009 Oct 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kelberman D, Turton JP, Woods KS, Mehta A, Al-Khawari M, Greening J, Swift PG,
+Otonkoski T, Rhodes SJ, Dattani MT. Molecular analysis of novel PROP1 mutations
+associated with combined pituitary hormone deficiency (CPHD). Clin Endocrinol
+(Oxf). 2009 Jan;70(1):96-103. doi: 10.1111/j.1365-2265.2008.03326.x. Epub 2008
+Jun 25.
+Citation on PubMed
+Lee Y, Lee YA, Ko JM, Shin CH, Lee YJ. Clinical and genetic features of
+childhood-onset congenital combined pituitary hormone deficiency: a
+retrospective, single-center cohort study. Ann Pediatr Endocrinol Metab. 2024
+Dec;29(6):379-386. doi: 10.6065/apem.2448008.004. Epub 2024 Dec 31.
+Citation on PubMed
+Martinez-Mayer J, Vishnopolska S, Perticarari C, Iglesias Garcia L, Hackbartt
+M, Martinez M, Zaiat J, Jacome-Alvarado A, Braslavsky D, Keselman A, Bergada I,
+Marino R, Ramirez P, Perez Garrido N, Ciaccio M, Di Palma MI, Belgorosky A,
+Forclaz MV, Benzrihen G, D'Amato S, Cirigliano ML, Miras M, Paez Nunez A, Castro
+L, Mallea-Gil MS, Ballarino C, Latorre-Villacorta L, Casiello AC, Hernandez C,
+Figueroa V, Alonso G, Morin A, Guntsche Z, Lee H, Lee E, Song Y, Marti MA,
+Perez-Millan MI. Exome Sequencing Has a High Diagnostic Rate in Sporadic
+Congenital Hypopituitarism and Reveals Novel Candidate Genes. J Clin Endocrinol
+Metab. 2024 Nov 18;109(12):3196-3210. doi: 10.1210/clinem/dgae320.
+Citation on PubMed
+Mody S, Brown MR, Parks JS. The spectrum of hypopituitarism caused by PROP1
+mutations. Best Pract Res Clin Endocrinol Metab. 2002 Sep;16(3):421-31. doi:
+10.1053/beem.2002.0218.
+Citation on PubMed
+Reynaud R, Gueydan M, Saveanu A, Vallette-Kasic S, Enjalbert A, Brue T,
+Barlier A. Genetic screening of combined pituitary hormone deficiency: experience
+in 195 patients. J Clin Endocrinol Metab. 2006 Sep;91(9):3329-36. doi:
+10.1210/jc.2005-2173. Epub 2006 May 30.
+Citation on PubMed
+Vieira TC, Boldarine VT, Abucham J. Molecular analysis of PROP1, PIT1, HESX1,
+LHX3, and LHX4 shows high frequency of PROP1 mutations in patients with familial
+forms of combined pituitary hormone deficiency. Arq Bras Endocrinol Metabol. 2007
+Oct;51(7):1097-103. doi: 10.1590/s0004-27302007000700012.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Pituitary Disorders
+MEDICAL ENCYCLOPEDIA
+ACTH blood test
+Follicle-stimulating hormone (FSH) blood test
+Genetics
+Growth hormone deficiency - children
+Prolactin blood test
+Short stature
+TSH test
+Related Medical Tests
+Adrenocorticotropic Hormone (ACTH)
+Cortisol Test
+Follicle-Stimulating Hormone (FSH) Levels Test
+Luteinizing Hormone (LH) Levels Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

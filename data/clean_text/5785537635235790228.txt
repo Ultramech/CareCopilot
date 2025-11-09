@@ -1,0 +1,192 @@
+Oculodentodigital dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Oculodentodigital dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/oculodentodigital-dysplasia/
+Oculodentodigital dysplasia
+Description
+Oculodentodigital dysplasia is a condition that affects many parts of the body, particularly the eyes (oculo-), teeth (dento-), and fingers (digital). The signs and symptoms of the condition vary widely among affected individuals. Some features of oculodentodigital dysplasia are evident at birth, while others become apparent with age.
+People with oculodentodigital dysplasia often have eye abnormalities that can lead to vision loss. These eye problems can include underdeveloped and small eyes (
+microphthalmia
+) and clouding of the lenses of the eyes (
+cataracts
+). People with oculodentodigital dysplasia may also have a condition called microcornea, in which the clear front covering of the eye (cornea) is small and abnormally curved.
+The tooth abnormalities seen in people with oculodentodigital dysplasia often include missing or
+small
+teeth, weak enamel, and early tooth loss.
+The condition can also affect the fingers and toes. Individuals with oculodentodigital dysplasia may have permanently bent fingers (
+camptodactyly
+), fingers that are unusually curved (
+clinodactyly
+), webbing of the skin (
+syndactyly
+) between the fourth and fifth fingers, and
+syndactyly of the toes
+,
+Individuals who have oculodentodigital dysplasia may also have abnormalities of the head and face (craniofacial anomalies), which can include a narrow nose, a small head size (
+microcephaly
+), and an opening in the roof of the mouth (
+cleft palate
+).
+Less common features of oculodentodigital dysplasia include sparse hair growth (
+hypotrichosis
+); brittle nails; and a skin condition called palmoplantar keratoderma that causes the skin on the palms of the hands and the soles of the feet to become thick, scaly, and calloused.
+Approximately 30 percent of people with oculodentodigital dysplasia experience neurological problems such as a lack of bladder or bowel control (incontinence), difficulty coordinating movements (ataxia), abnormal muscle stiffness (spasticity), and impaired speech (dysarthria). Some affected individuals develop abnormalities of the brain’s white matter that can be detected with medical imaging (leukodystrophy). Hearing loss and heart problems have also been reported in people with oculodentodigital dysplasia.
+Frequency
+The exact prevalence of oculodentodigital dysplasia is unknown. It has been diagnosed in fewer than 1,000 people worldwide, although it is likely that some affected individuals never receive a diagnosis.
+Causes
+Many different variants (also called mutations) in the
+GJA1
+gene cause oculodentodigital dysplasia. The
+GJA1
+gene provides instructions for making a protein called gap junction alpha-1 protein, which is commonly known as connexin 43. This protein is a building block for important channels called gap junctions. These channels are found on the cell surface and allow direct communication between cells. Gap junctions that contain connexin 43 proteins are found in many cells throughout the body.
+Most of the
+GJA1
+gene variants that cause oculodentodigital dysplasia result in the substitution of one protein building block (amino acid) for another in the connexin 43 protein. These altered proteins disrupt the structure or function of the gap junction channels. As a result, communication between cells is impaired. Lack of cell communication early in development likely interferes with normal cell growth and cell specialization. These two processes determine the shape and function of many different parts of the body. These developmental problems cause the signs and symptoms seen in people with oculodentodigital dysplasia.
+Learn more about the gene associated with Oculodentodigital dysplasia
+GJA1
+Inheritance
+Most cases of oculodentodigital dysplasia are inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Some cases of this condition result from new (de novo) variants in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals typically have no history of the disorder in their family.
+Rarely, oculodentodigital dysplasia is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Meyer-Schwickerath syndrome
+Meyer-Schwickerath-Weyers syndrome
+Oculo-dento-digital dysplasia
+Oculodentodigital dysplasia, autosomal recessive
+Oculodentodigital syndrome
+Oculodentodigitalis dysplasia
+Oculodentoosseous dysplasia
+ODD syndrome
+ODDD
+ODDD syndrome
+ODDD, autosomal recessive
+ODOD
+ODOD syndrome
+ODOD, autosomal recessive
+Osseous-oculo-dental dysplasia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Oculodentodigital dysplasia
+Genetic and Rare Diseases Information Center
+Oculodentodigital dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+OCULODENTODIGITAL DYSPLASIA; ODDD
+OCULODENTODIGITAL DYSPLASIA, AUTOSOMAL RECESSIVE
+Scientific Articles on PubMed
+PubMed
+References
+Debeer P, Van Esch H, Huysmans C, Pijkels E, De Smet L, Van de Ven W,
+Devriendt K, Fryns JP. Novel GJA1 mutations in patients with oculo-dento-digital
+dysplasia (ODDD). Eur J Med Genet. 2005 Oct-Dec;48(4):377-87. doi:
+10.1016/j.ejmg.2005.05.003.
+Citation on PubMed
+Frasson M, Calixto N, Cronemberger S, de Aguiar RA, Leao LL, de Aguiar MJ.
+Oculodentodigital dysplasia: study of ophthalmological and clinical
+manifestations in three boys with probably autosomal recessive inheritance.
+Ophthalmic Genet. 2004 Sep;25(3):227-36. doi: 10.1080/13816810490513424.
+Citation on PubMed
+Joss SK, Ghazawy S, Tomkins S, Ahmed M, Bradbury J, Sheridan E. Variable
+expression of neurological phenotype in autosomal recessive oculodentodigital
+dysplasia of two sibs and review of the literature. Eur J Pediatr. 2008
+Mar;167(3):341-5. doi: 10.1007/s00431-007-0468-1. Epub 2007 May 3.
+Citation on PubMed
+Laird DW. Closing the gap on autosomal dominant connexin-26 and connexin-43
+mutants linked to human disease. J Biol Chem. 2008 Feb 8;283(6):2997-3001. doi:
+10.1074/jbc.R700041200. Epub 2007 Dec 18.
+Citation on PubMed
+Laird DW. Life cycle of connexins in health and disease. Biochem J. 2006 Mar
+15;394(Pt 3):527-43. doi: 10.1042/BJ20051922.
+Citation on PubMed
+or
+Free article on PubMed Central
+Loddenkemper T, Grote K, Evers S, Oelerich M, Stogbauer F. Neurological
+manifestations of the oculodentodigital dysplasia syndrome. J Neurol. 2002
+May;249(5):584-95. doi: 10.1007/s004150200068.
+Citation on PubMed
+Pace NP, Benoit V, Agius D, Grima MA, Parascandalo R, Hilbert P, Borg I. Two
+novel GJA1 variants in oculodentodigital dysplasia. Mol Genet Genomic Med. 2019
+Sep;7(9):e882. doi: 10.1002/mgg3.882. Epub 2019 Jul 25.
+Citation on PubMed
+Paznekas WA, Boyadjiev SA, Shapiro RE, Daniels O, Wollnik B, Keegan CE, Innis
+JW, Dinulos MB, Christian C, Hannibal MC, Jabs EW. Connexin 43 (GJA1) mutations
+cause the pleiotropic phenotype of oculodentodigital dysplasia. Am J Hum Genet.
+2003 Feb;72(2):408-18. doi: 10.1086/346090. Epub 2002 Nov 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Paznekas WA, Karczeski B, Vermeer S, Lowry RB, Delatycki M, Laurence F,
+Koivisto PA, Van Maldergem L, Boyadjiev SA, Bodurtha JN, Jabs EW. GJA1 mutations,
+variants, and connexin 43 dysfunction as it relates to the oculodentodigital
+dysplasia phenotype. Hum Mutat. 2009 May;30(5):724-33. doi: 10.1002/humu.20958.
+Citation on PubMed
+Shibayama J, Paznekas W, Seki A, Taffet S, Jabs EW, Delmar M, Musa H.
+Functional characterization of connexin43 mutations found in patients with
+oculodentodigital dysplasia. Circ Res. 2005 May 27;96(10):e83-91. doi:
+10.1161/01.RES.0000168369.79972.d2. Epub 2005 May 5.
+Citation on PubMed
+van Steensel MA, Spruijt L, van der Burgt I, Bladergroen RS, Vermeer M,
+Steijlen PM, van Geel M. A 2-bp deletion in the GJA1 gene is associated with
+oculo-dento-digital dysplasia with palmoplantar keratoderma. Am J Med Genet A.
+2005 Jan 15;132A(2):171-4. doi: 10.1002/ajmg.a.30412.
+Citation on PubMed
+Vreeburg M, de Zwart-Storm EA, Schouten MI, Nellen RG, Marcus-Soekarman D,
+Devies M, van Geel M, van Steensel MA. Skin changes in oculo-dento-digital
+dysplasia are correlated with C-terminal truncations of connexin 43. Am J Med
+Genet A. 2007 Feb 15;143(4):360-3. doi: 10.1002/ajmg.a.31558.
+Citation on PubMed
+Wang Z, Sun L, Wang P, Chen C, Zhang A, Wang W, Ding X. Novel ocular findings
+in oculodentodigital dysplasia (ODDD): a case report and literature review.
+Ophthalmic Genet. 2019 Feb;40(1):54-59. doi: 10.1080/13816810.2019.1571616. Epub
+2019 Feb 15.
+Citation on PubMed
+Wiest T, Herrmann O, Stogbauer F, Grasshoff U, Enders H, Koch MJ,
+Grond-Ginsbach C, Schwaninger M. Clinical and genetic variability of
+oculodentodigital dysplasia. Clin Genet. 2006 Jul;70(1):71-2. doi:
+10.1111/j.1399-0004.2006.00631.x. No abstract available.
+Citation on PubMed
+Related Health Topics
+Cleft Lip and Palate
+Genetic Disorders
+Tooth Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Webbing of the fingers or toes
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

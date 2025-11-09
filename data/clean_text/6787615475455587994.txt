@@ -1,0 +1,196 @@
+Episodic ataxia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Episodic ataxia
+URL of this page: https://medlineplus.gov/genetics/condition/episodic-ataxia/
+Episodic ataxia
+Description
+Episodic ataxia is a group of related conditions that affect the nervous system and cause problems with movement and coordination. People with episodic ataxia have episodes of poor coordination and balance (ataxia). During these episodes, many people also experience dizziness (vertigo), nausea and vomiting,
+migraines
+, blurred or double vision, slurred speech, and ringing in the ears (tinnitus). Seizures, muscle weakness, and paralysis that affect one side of the body (hemiplegia) may also occur during these episodes.
+Additionally, a muscle abnormality called myokymia or an eye abnormality called nystagmus can occur during or between episodes. Myokymia causes muscle cramping; stiffness; or continuous, fine muscle twitching that appears as rippling under the skin. Nystagmus refers to rapid, involuntary eye movements.
+Episodes of ataxia and other symptoms can begin anytime from early childhood to adulthood. They can be triggered by environmental factors such as stress, caffeine, alcohol, certain medications, physical activity, and illness. The duration of episodes may vary from seconds to days, and the frequency ranges from several episodes per day to one or two every few months. Between episodes, affected individuals may have no signs or symptoms. However, some continue to experience ataxia, which may worsen over time.
+Some children with episodic ataxia have delayed development of speech or motor skills, such as standing and walking. They may also have learning difficulties.
+Researchers have identified at least 11 types of episodic ataxia, distinguished by their pattern of signs and symptoms, age of onset, length of episodes, and genetic cause.
+Frequency
+Episodic ataxia is uncommon, affecting less than 1 in 100,000 people. Only types 1, 2, and 6 have been identified in more than one family, and type 2 is by far the most common form of the condition.
+Causes
+Episodic ataxia can be caused by variants (also called mutations) in several genes that play important roles in the nervous system. Several of the genes provide instructions for making proteins that are involved in the
+transport of charged atoms (ions) across cell membranes
+. The protein produced from the
+KCNA1
+gene transports potassium ions, and the protein produced from the
+CACNA1A
+gene transports calcium ions. The movement of these ions is critical for normal signaling between nerve cells (
+neurons
+) in the brain and other parts of the nervous system. Variants in the
+KCNA1
+and
+CACNA1A
+genes cause episodic ataxia types 1 and 2, respectively.
+Variants in the
+SLC1A3
+gene cause episodic ataxia type 6. This gene provides instructions for making a protein that transports chloride ions across cell membranes. The movement of chloride ions is thought to help maintain certain cellular conditions so the cells can survive and function. The protein also transports a brain chemical (neurotransmitter) called glutamate. Neurotransmitters allow neurons to communicate by
+relaying chemical signals
+from one neuron to another.
+Researchers believe that variants in the
+KCNA1
+,
+CACNA1A
+, and
+SLC1A3
+genes alter the transport of ions in the brain. Changes in ion transport may cause certain neurons to become overexcited, disrupting normal communication between these cells. Although episodes of ataxia are caused by changes in the brain's chemical signals, it is unclear how variants in these genes cause the specific features of the disorder.
+The genetic causes of other types of episodic ataxia have not been identified or are not well documented. Researchers are looking for variants in additional genes that can cause episodic ataxia.
+Learn more about the genes associated with Episodic ataxia
+CACNA1A
+KCNA1
+SCN2A
+SLC1A3
+Additional Information from NCBI Gene:
+FGF14
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In some cases, an affected person inherits the variant from
+one affected parent
+. Other cases result from
+new variants in the gene
+and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+EA
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Episodic ataxia type 1
+Genetic Testing Registry: Episodic ataxia type 2
+Genetic Testing Registry: Episodic ataxia type 7
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+EPISODIC ATAXIA, TYPE 2; EA2
+EPISODIC ATAXIA, TYPE 1; EA1
+CALCIUM CHANNEL, VOLTAGE-DEPENDENT, BETA-4 SUBUNIT; CACNB4
+SOLUTE CARRIER FAMILY 1 (GLIAL HIGH AFFINITY GLUTAMATE TRANSPORTER), MEMBER 3; SLC1A3
+EPISODIC ATAXIA, TYPE 4; EA4
+EPISODIC ATAXIA, TYPE 3; EA3
+EPISODIC ATAXIA, TYPE 7; EA7
+Scientific Articles on PubMed
+PubMed
+References
+Cader MZ, Steckley JL, Dyment DA, McLachlan RS, Ebers GC. A genome-wide screen
+and linkage mapping for a large pedigree with episodic ataxia. Neurology. 2005
+Jul 12;65(1):156-8. doi: 10.1212/01.wnl.0000167186.05465.7c.
+Citation on PubMed
+Chivukula AS, Suslova M, Kortzak D, Kovermann P, Fahlke C. Functional
+consequences of SLC1A3 mutations associated with episodic ataxia 6. Hum Mutat.
+2020 Nov;41(11):1892-1905. doi: 10.1002/humu.24089. Epub 2020 Sep 9.
+Citation on PubMed
+Conroy J, McGettigan P, Murphy R, Webb D, Murphy SM, McCoy B, Albertyn C,
+McCreary D, McDonagh C, Walsh O, Lynch S, Ennis S. A novel locus for episodic
+ataxia:UBR4 the likely candidate. Eur J Hum Genet. 2014 Apr;22(4):505-10. doi:
+10.1038/ejhg.2013.173. Epub 2013 Aug 28.
+Citation on PubMed
+Damji KF, Allingham RR, Pollock SC, Small K, Lewis KE, Stajich JM, Yamaoka LH,
+Vance JM, Pericak-Vance MA. Periodic vestibulocerebellar ataxia, an autosomal
+dominant ataxia with defective smooth pursuit, is genetically distinct from other
+autosomal dominant ataxias. Arch Neurol. 1996 Apr;53(4):338-44. doi:
+10.1001/archneur.1996.00550040074016.
+Citation on PubMed
+Escayg A, De Waard M, Lee DD, Bichet D, Wolf P, Mayer T, Johnston J, Baloh R,
+Sander T, Meisler MH. Coding and noncoding variation of the human calcium-channel
+beta4-subunit gene CACNB4 in patients with idiopathic generalized epilepsy and
+episodic ataxia. Am J Hum Genet. 2000 May;66(5):1531-9. doi: 10.1086/302909. Epub
+2000 Apr 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jen J, Kim GW, Baloh RW. Clinical spectrum of episodic ataxia type 2.
+Neurology. 2004 Jan 13;62(1):17-22. doi: 10.1212/01.wnl.0000101675.61074.50.
+Citation on PubMed
+Jen JC, Graves TD, Hess EJ, Hanna MG, Griggs RC, Baloh RW; CINCH
+investigators. Primary episodic ataxias: diagnosis, pathogenesis and treatment.
+Brain. 2007 Oct;130(Pt 10):2484-93. doi: 10.1093/brain/awm126. Epub 2007 Jun 15.
+Citation on PubMed
+Jen JC, Wan J, Palos TP, Howard BD, Baloh RW. Mutation in the glutamate
+transporter EAAT1 causes episodic ataxia, hemiplegia, and seizures. Neurology.
+2005 Aug 23;65(4):529-34. doi: 10.1212/01.wnl.0000172638.58172.5a.
+Citation on PubMed
+Kerber KA, Jen JC, Lee H, Nelson SF, Baloh RW. A new episodic ataxia syndrome
+with linkage to chromosome 19q13. Arch Neurol. 2007 May;64(5):749-52. doi:
+10.1001/archneur.64.5.749.
+Citation on PubMed
+Piarroux J, Riant F, Humbertclaude V, Remerand G, Hadjadj J, Rejou F, Coubes
+C, Pinson L, Meyer P, Roubertie A. FGF14-related episodic ataxia: delineating the
+phenotype of Episodic Ataxia type 9. Ann Clin Transl Neurol. 2020
+Apr;7(4):565-572. doi: 10.1002/acn3.51005. Epub 2020 Mar 12.
+Citation on PubMed
+Rajakulendran S, Schorge S, Kullmann DM, Hanna MG. Episodic ataxia type 1: a
+neuronal potassium channelopathy. Neurotherapeutics. 2007 Apr;4(2):258-66. doi:
+10.1016/j.nurt.2007.01.010.
+Citation on PubMed
+Schwarz N, Hahn A, Bast T, Muller S, Loffler H, Maljevic S, Gaily E, Prehl I,
+Biskup S, Joensuu T, Lehesjoki AE, Neubauer BA, Lerche H, Hedrich UBS. Mutations
+in the sodium channel gene SCN2A cause neonatal epilepsy with late-onset episodic
+ataxia. J Neurol. 2016 Feb;263(2):334-343. doi: 10.1007/s00415-015-7984-0. Epub
+2015 Dec 8.
+Citation on PubMed
+Spacey S. Episodic Ataxia Type 2 - RETIRED CHAPTER, FOR HISTORICAL REFERENCE
+ONLY. 2003 Feb 24 [updated 2015 Oct 15]. In: Adam MP, Feldman J, Mirzaa GM, Pagon
+RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle
+(WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1501/
+Citation on PubMed
+Steckley JL, Ebers GC, Cader MZ, McLachlan RS. An autosomal dominant disorder
+with episodic ataxia, vertigo, and tinnitus. Neurology. 2001 Oct
+23;57(8):1499-502. doi: 10.1212/wnl.57.8.1499.
+Citation on PubMed
+Strupp M, Zwergal A, Brandt T. Episodic ataxia type 2. Neurotherapeutics. 2007
+Apr;4(2):267-73. doi: 10.1016/j.nurt.2007.01.014.
+Citation on PubMed
+Wu Q, Akhter A, Pant S, Cho E, Zhu JX, Garner A, Ohyama T, Tajkhorshid E, van
+Meyel DJ, Ryan RM. Ataxia-linked SLC1A3 mutations alter EAAT1 chloride channel
+activity and glial regulation of CNS function. J Clin Invest. 2022 Apr
+1;132(7):e154891. doi: 10.1172/JCI154891.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cerebellar Disorders
+Genetic Disorders
+Neurologic Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Movement - uncoordinated
+Vertigo-associated disorders
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,138 @@
+VLDLR-associated cerebellar hypoplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+VLDLR-associated cerebellar hypoplasia
+URL of this page: https://medlineplus.gov/genetics/condition/vldlr-associated-cerebellar-hypoplasia/
+VLDLR-associated cerebellar hypoplasia
+Description
+VLDLR
+-associated cerebellar hypoplasia is an inherited condition that affects the development of the brain. People with this condition have an unusually small and underdeveloped cerebellum, which is the part of the brain that coordinates movement. This brain malformation leads to problems with balance and coordination (ataxia) that become apparent in infancy and remain stable over time. Children with
+VLDLR
+-associated cerebellar hypoplasia may learn to walk later in childhood, usually after the age of 6, although some are never able to walk independently. In one Turkish family, affected people walk on their hands and feet (quadrupedal locomotion).
+Additional features of
+VLDLR
+-associated cerebellar hypoplasia include moderate to profound intellectual disability, impaired speech (dysarthria) or a lack of speech, and eyes that do not look in the same direction (strabismus). Some affected individuals have also had flat feet (
+pes planus
+), seizures, and short stature. Studies suggest that
+VLDLR
+-associated cerebellar hypoplasia does not significantly affect a person's life expectancy.
+Frequency
+VLDLR
+-associated cerebellar hypoplasia is rare; its prevalence is unknown. The condition was first described in the Hutterite population in Canada and the United States. This condition has also been reported in families from Iran and Turkey.
+Causes
+As its name suggests,
+VLDLR
+-associated cerebellar hypoplasia results from mutations in the
+VLDLR
+gene. This gene provides instructions for making a protein called a very low density lipoprotein (VLDL) receptor. Starting before birth, this protein plays a critical role in guiding the movement of developing nerve cells to their appropriate locations in the brain. Mutations in the
+VLDLR
+gene prevent cells from producing any functional VLDL receptor protein. Without this protein, developing nerve cells cannot reach the parts of the brain where they are needed. The resulting problems with brain development lead to ataxia and the other major features of this condition.
+Learn more about the gene associated with VLDLR-associated cerebellar hypoplasia
+VLDLR
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Autosomal recessive cerebellar ataxia with mental retardation
+Autosomal recessive cerebellar hypoplasia with cerebral gyral simplification
+Cerebellar disorder, nonprogressive, with mental retardation
+Cerebellar hypoplasia and mental retardation with or without quadrupedal locomotion
+Cerebellar hypoplasia, VLDLR-associated
+CHMRQ1
+DES-VLDLR
+Dysequilibrium syndrome-VLDLR
+VLDLR-CH
+VLDLRCH
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Dysequilibrium syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CEREBELLAR ATAXIA, IMPAIRED INTELLECTUAL DEVELOPMENT, AND DYSEQUILIBRIUM SYNDROME 1; CAMRQ1
+Scientific Articles on PubMed
+PubMed
+References
+Boycott KM, Bonnemann C, Herz J, Neuert S, Beaulieu C, Scott JN,
+Venkatasubramanian A, Parboosingh JS. Mutations in VLDLR as a cause for autosomal
+recessive cerebellar ataxia with mental retardation (dysequilibrium syndrome). J
+Child Neurol. 2009 Oct;24(10):1310-5. doi: 10.1177/0883073809332696. Epub 2009
+Mar 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Boycott KM, Flavelle S, Bureau A, Glass HC, Fujiwara TM, Wirrell E, Davey K,
+Chudley AE, Scott JN, McLeod DR, Parboosingh JS. Homozygous deletion of the very
+low density lipoprotein receptor gene causes autosomal recessive cerebellar
+hypoplasia with cerebral gyral simplification. Am J Hum Genet. 2005
+Sep;77(3):477-83. doi: 10.1086/444400. Epub 2005 Jul 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Boycott KM, MacDonald SK, Parboosingh JS. VLDLR Cerebellar
+Hypoplasia. 2008 Aug 26 [updated 2020 Feb 27]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1874/
+Citation on PubMed
+Moheb LA, Tzschach A, Garshasbi M, Kahrizi K, Darvish H, Heshmati Y, Kordi A,
+Najmabadi H, Ropers HH, Kuss AW. Identification of a nonsense mutation in the
+very low-density lipoprotein receptor gene (VLDLR) in an Iranian family with
+dysequilibrium syndrome. Eur J Hum Genet. 2008 Feb;16(2):270-3. doi:
+10.1038/sj.ejhg.5201967. Epub 2007 Nov 28.
+Citation on PubMed
+Ozcelik T, Akarsu N, Uz E, Caglayan S, Gulsuner S, Onat OE, Tan M, Tan U.
+Mutations in the very low-density lipoprotein receptor VLDLR cause cerebellar
+hypoplasia and quadrupedal locomotion in humans. Proc Natl Acad Sci U S A. 2008
+Mar 18;105(11):4232-6. doi: 10.1073/pnas.0710010105. Epub 2008 Mar 7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Turkmen S, Hoffmann K, Demirhan O, Aruoba D, Humphrey N, Mundlos S. Cerebellar
+hypoplasia, with quadrupedal locomotion, caused by mutations in the very
+low-density lipoprotein receptor gene. Eur J Hum Genet. 2008 Sep;16(9):1070-4.
+doi: 10.1038/ejhg.2008.73. Epub 2008 Mar 26.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cerebellar Disorders
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,136 @@
+X-linked adrenoleukodystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+X-linked adrenoleukodystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/x-linked-adrenoleukodystrophy/
+X-linked adrenoleukodystrophy
+Description
+X-linked adrenoleukodystrophy is a genetic disorder that mainly affects the nervous system and the adrenal glands, which are located on top of each kidney. In this disorder, the fatty covering (
+myelin
+) that insulates nerves in the brain and spinal cord tends to deteriorate (a condition called demyelination). The loss of myelin reduces the ability of the nerves to relay information to the brain. In addition, damage to the outer layer of the adrenal glands (adrenal cortex) causes a shortage of certain hormones (adrenocortical insufficiency). Adrenocortical insufficiency may cause weakness, weight loss, skin changes, vomiting, and coma.
+There are four distinct types of X-linked adrenoleukodystrophy: a childhood cerebral form, an adrenomyeloneuropathy type, an adrenal insufficiency only form, and a type called asymptomatic.
+The childhood cerebral form of X-linked adrenoleukodystrophy typically occurs in boys. Girls are rarely affected with this type. If not treated, affected boys experience learning and behavioral problems that usually begin between the ages of 4 and 10. Over time the symptoms can worsen, and children may have difficulty reading, writing, understanding speech, and comprehending written material. Additional signs and symptoms of the cerebral form include aggressive behavior, vision problems, difficulty swallowing, poor coordination, and impaired adrenal gland function. The rate at which this disorder progresses is variable but can be extremely rapid, often leading to total disability within a few years. The life expectancy of individuals with this type depends on whether early diagnosis and treatment are available. Without treatment, individuals with the cerebral form of X-linked adrenoleukodystrophy usually survive only a few years after symptoms begin.
+Signs and symptoms of the adrenomyeloneuropathy type appear between early adulthood and middle age. Affected individuals develop progressive stiffness and weakness in their legs (paraparesis), experience
+urinary and genital tract
+disorders, and often show changes in behavior and intellectual function. Most people with the adrenomyeloneuropathy type also have adrenocortical insufficiency. Some severely affected individuals develop cerebral X-linked adrenoleukodystrophy.
+People with X-linked adrenoleukodystrophy whose only symptom is adrenocortical insufficiency are said to have the adrenal insufficiency only form. In these individuals, adrenocortical insufficiency can begin anytime between the first year of life and adulthood. However, most affected individuals develop the additional features of cerebral X-linked adrenoleukodystrophy in childhood or the adrenomyeloneuropathy type by the time they reach middle age. The life expectancy of individuals with the adrenal insufficiency form depends on the severity of the signs and symptoms, but typically this is the mildest of the three types.
+Children with the asymptomatic form do not appear to have any symptoms of X-linked adrenoleukodystrophy, but medical testing may show brain or biochemical abnormalities. Some individuals with the asymptomatic form may develop features of other types of X-linked adrenoleukodystrophy later in life.
+Rarely, individuals with X-linked adrenoleukodystrophy develop multiple features of the disorder in adolescence or early adulthood. In addition to adrenocortical insufficiency, these individuals usually have psychiatric disorders and a loss of intellectual function (dementia). It is unclear whether these individuals have a distinct form of the condition or a variation of one of the previously described types.
+For reasons that are unclear, different forms of X-linked adrenoleukodystrophy can be seen in affected individuals within the same family.
+Frequency
+The prevalence of X-linked adrenoleukodystrophy is 1 in 15,000 individuals worldwide. This condition occurs with a similar frequency in all populations.
+Causes
+Variants (also known as mutations) in the
+ABCD1
+gene cause X-linked adrenoleukodystrophy. The
+ABCD1
+gene provides instructions for producing the adrenoleukodystrophy protein (ALDP), which is involved in transporting certain fat molecules called very long-chain fatty acids (VLCFAs) into peroxisomes.
+Peroxisomes
+are small sacs within cells that process many types of molecules, including VLCFAs.
+ABCD1
+gene variants result in a shortage (deficiency) of ALDP. When this protein is lacking, the transport and subsequent breakdown of VLCFAs is disrupted, causing abnormally high levels of these fats in the body. The accumulation of VLCFAs may be toxic to the adrenal cortex and myelin. Research suggests that the accumulation of VLCFAs triggers an inflammatory response in the brain, which could lead to the breakdown of myelin. The destruction of these tissues leads to the signs and symptoms of X-linked adrenoleukodystrophy.
+Learn more about the gene associated with X-linked adrenoleukodystrophy
+ABCD1
+Inheritance
+X-linked adrenoleukodystrophy is inherited in an X-linked pattern. A condition is considered X-linked if the altered gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males (who have only one X chromosome), one altered copy of the
+ABCD1
+gene in each cell is sufficient to cause X-linked adrenoleukodystrophy. Additionally, affected males pass the altered gene to all of their daughters but none of their sons.
+Because females have two copies of the X chromosome, one altered copy of the
+ABCD1
+gene in each cell usually does not cause features of X-linked adrenoleukodystrophy that are as severe as those in affected males. Most affected females with one altered copy of the gene develop features of the adrenomyeloneuropathy type. The signs and symptoms of X-linked adrenoleukodystrophy tend to appear at a later age in affected females than in affected males. Additionally, affected females have a 50 percent chance of passing the altered gene to each of their children.
+Other Names for This Condition
+X-ALD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Adrenoleukodystrophy
+Genetic and Rare Diseases Information Center
+X-linked adrenoleukodystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ADRENOLEUKODYSTROPHY; ALD
+Scientific Articles on PubMed
+PubMed
+References
+Berger J, Gartner J. X-linked adrenoleukodystrophy: clinical, biochemical and
+pathogenetic aspects. Biochim Biophys Acta. 2006 Dec;1763(12):1721-32. doi:
+10.1016/j.bbamcr.2006.07.010. Epub 2006 Jul 26.
+Citation on PubMed
+Dubey P, Raymond GV, Moser AB, Kharkar S, Bezman L, Moser HW. Adrenal
+insufficiency in asymptomatic adrenoleukodystrophy patients identified by very
+long-chain fatty acid screening. J Pediatr. 2005 Apr;146(4):528-32. doi:
+10.1016/j.jpeds.2004.10.067.
+Citation on PubMed
+Engelen M, Kemp S, de Visser M, van Geel BM, Wanders RJ, Aubourg P, Poll-The
+BT. X-linked adrenoleukodystrophy (X-ALD): clinical presentation and guidelines
+for diagnosis, follow-up and management. Orphanet J Rare Dis. 2012 Aug 13;7:51.
+doi: 10.1186/1750-1172-7-51.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kemp S, Berger J, Aubourg P. X-linked adrenoleukodystrophy: clinical,
+metabolic, genetic and pathophysiological aspects. Biochim Biophys Acta. 2012
+Sep;1822(9):1465-74. doi: 10.1016/j.bbadis.2012.03.012. Epub 2012 Mar 28.
+Citation on PubMed
+Kemp S, Pujol A, Waterham HR, van Geel BM, Boehm CD, Raymond GV, Cutting GR,
+Wanders RJ, Moser HW. ABCD1 mutations and the X-linked adrenoleukodystrophy
+mutation database: role in diagnosis and clinical correlations. Hum Mutat. 2001
+Dec;18(6):499-515. doi: 10.1002/humu.1227.
+Citation on PubMed
+Moser HW, Mahmood A, Raymond GV. X-linked adrenoleukodystrophy. Nat Clin Pract
+Neurol. 2007 Mar;3(3):140-51. doi: 10.1038/ncpneuro0421.
+Citation on PubMed
+Moser HW, Raymond GV, Lu SE, Muenz LR, Moser AB, Xu J, Jones RO, Loes DJ,
+Melhem ER, Dubey P, Bezman L, Brereton NH, Odone A. Follow-up of 89 asymptomatic
+patients with adrenoleukodystrophy treated with Lorenzo's oil. Arch Neurol. 2005
+Jul;62(7):1073-80. doi: 10.1001/archneur.62.7.1073.
+Citation on PubMed
+Tran C, Patel J, Stacy H, Mamak EG, Faghfoury H, Raiman J, Clarke JTR, Blaser
+S, Mercimek-Mahmutoglu S. Long-term outcome of patients with X-linked
+adrenoleukodystrophy: A retrospective cohort study. Eur J Paediatr Neurol. 2017
+Jul;21(4):600-609. doi: 10.1016/j.ejpn.2017.02.006. Epub 2017 Feb 21.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Adrenal Gland Disorders
+Endocrine Diseases
+Genetic Disorders
+Leukodystrophies
+MEDICAL ENCYCLOPEDIA
+Adrenoleukodystrophy
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

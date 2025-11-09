@@ -1,0 +1,127 @@
+Dystonia 16: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Dystonia 16
+URL of this page: https://medlineplus.gov/genetics/condition/dystonia-16/
+Dystonia 16
+Description
+Dystonia 16 is one of many forms of dystonia, which is a group of conditions characterized by involuntary movements, twisting (torsion) and tensing of various muscles, and unusual positioning of affected body parts. Dystonia 16 can appear at any age from infancy through adulthood, although it most often begins in childhood.
+The signs and symptoms of dystonia 16 vary among people with the condition. In many affected individuals, the disorder first affects muscles in one or both arms or legs. Tensing (contraction) of the muscles often sets the affected limb in an abnormal position, which may be painful and can lead to difficulty performing tasks, such as walking. In others, muscles in the neck are affected first, causing the head to be pulled backward and positioned with the chin in the air (retrocollis).
+In dystonia 16, muscles of the jaw, lips, and tongue are also commonly affected (oromandibular dystonia), causing difficulty opening and closing the mouth and problems with swallowing and speech. Speech can also be affected by involuntary tensing of the muscles that control the
+vocal cords
+(laryngeal dystonia), resulting in a quiet, breathy voice or an inability to speak clearly. Dystonia 16 gradually gets worse, eventually involving muscles in most parts of the body.
+Some people with dystonia 16 develop a pattern of movement abnormalities known as parkinsonism. These abnormalities include unusually slow movement (bradykinesia), muscle rigidity, tremors, and an inability to hold the body upright and balanced (postural instability). In dystonia 16, parkinsonism is relatively mild if it develops at all.
+The signs and symptoms of dystonia 16 usually do not get better when treated with drugs that are typically used for movement disorders.
+Frequency
+Dystonias are estimated to affect 250,000 people in the United States. Dystonia 16 is a rare form of dystonia; its prevalence is unknown.
+Causes
+Dystonia 16 is caused by mutations in the
+PRKRA
+gene, which provides instructions for making a protein called PACT. The PACT protein helps control a cell's response to stress, such as exposure to viruses, damaging molecules called free radicals, or other toxic substances. When a cell is under stress, the PACT protein turns on signals that reduce protein production, which helps protect cells from damage. These signals can ultimately lead to self-destruction (apoptosis) of the cell if it remains under stress.
+PRKRA
+gene mutations result in production of abnormal PACT proteins. The pattern of signals stimulated by these abnormal proteins in response to stress is altered, which increases the rate at which cell death occurs. Researchers suspect that the excessive loss of cells in certain regions of the brain impairs the brain's ability to control muscles and movement, resulting in the features of dystonia 16. It is unclear why brain cells are particularly affected by
+PRKRA
+gene mutations.
+Learn more about the gene associated with Dystonia 16
+PRKRA
+Inheritance
+Dystonia 16 is usually inherited in an
+autosomal recessive pattern
+, which means both copies of the
+PRKRA
+gene in each cell have mutations. In most of these cases, both parents of an affected individual carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. In some cases, one mutation is inherited from an unaffected parent and the other is a new (de novo) mutation in the gene that occurs during the formation of reproductive cells (eggs or sperm) in the other parent or in early embryonic development.
+Some studies suggest that dystonia 16 can be inherited in an
+autosomal dominant pattern
+, which means that one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+DYT-PRKRA
+DYT16
+Young-onset dystonia-(parkinsonism)
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Dystonia 16
+Genetic and Rare Diseases Information Center
+Dystonia 16
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+DYSTONIA 16; DYT16
+Scientific Articles on PubMed
+PubMed
+References
+Camargos S, Scholz S, Simon-Sanchez J, Paisan-Ruiz C, Lewis P, Hernandez D,
+Ding J, Gibbs JR, Cookson MR, Bras J, Guerreiro R, Oliveira CR, Lees A, Hardy J,
+Cardoso F, Singleton AB. DYT16, a novel young-onset dystonia-parkinsonism
+disorder: identification of a segregating mutation in the stress-response protein
+PRKRA. Lancet Neurol. 2008 Mar;7(3):207-15. doi: 10.1016/S1474-4422(08)70022-X.
+Epub 2008 Feb 1.
+Citation on PubMed
+Dos Santos CO, da Silva-Junior FP, Puga RD, Barbosa ER, Azevedo Silva SMC,
+Borges V, Limongi JCP, Rocha MSG, Ferraz HB, de Carvalho Aguiar P. The prevalence
+of PRKRA mutations in idiopathic dystonia. Parkinsonism Relat Disord. 2018
+Mar;48:93-96. doi: 10.1016/j.parkreldis.2017.12.015. Epub 2017 Dec 13.
+Citation on PubMed
+Seibler P, Djarmati A, Langpap B, Hagenah J, Schmidt A, Bruggemann N, Siebner
+H, Jabusch HC, Altenmuller E, Munchau A, Lohmann K, Klein C. A heterozygous
+frameshift mutation in PRKRA (DYT16) associated with generalised dystonia in a
+German patient. Lancet Neurol. 2008 May;7(5):380-1. doi:
+10.1016/S1474-4422(08)70075-9. No abstract available.
+Citation on PubMed
+Vaughn LS, Bragg DC, Sharma N, Camargos S, Cardoso F, Patel RC. Altered
+activation of protein kinase PKR and enhanced apoptosis in dystonia cells
+carrying a mutation in PKR activator protein PACT. J Biol Chem. 2015 Sep
+11;290(37):22543-57. doi: 10.1074/jbc.M115.669408. Epub 2015 Jul 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yong Y, Luo J, Ke ZJ. dsRNA binding protein PACT/RAX in gene silencing,
+development and diseases. Front Biol (Beijing). 2014 Oct;9(5):382-388. doi:
+10.1007/s11515-014-1325-z.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zech M, Castrop F, Schormair B, Jochim A, Wieland T, Gross N, Lichtner P,
+Peters A, Gieger C, Meitinger T, Strom TM, Oexle K, Haslinger B, Winkelmann J.
+DYT16 revisited: exome sequencing identifies PRKRA mutations in a European
+dystonia family. Mov Disord. 2014 Oct;29(12):1504-10. doi: 10.1002/mds.25981.
+Epub 2014 Aug 20.
+Citation on PubMed
+Related Health Topics
+Dystonia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Movement - uncontrolled or slow
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

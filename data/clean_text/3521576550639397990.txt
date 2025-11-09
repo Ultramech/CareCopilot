@@ -1,0 +1,141 @@
+Rheumatoid arthritis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Rheumatoid arthritis
+URL of this page: https://medlineplus.gov/genetics/condition/rheumatoid-arthritis/
+Rheumatoid arthritis
+Description
+Rheumatoid arthritis is a disease that causes chronic inflammation that primarily affects the
+joints
+. The most common signs and symptoms are pain, swelling, and stiffness of the joints. This condition frequently affects the hands and feet, although the shoulders, hips, spine, and knees may become involved in the later stages of the disease. Joints are typically affected in a symmetrical pattern; for example, if joints in the hand are affected, both hands tend to be involved. People with rheumatoid arthritis may have trouble with tasks such as opening jars, turning doorknobs, or fastening buttons. Joint pain and stiffness tend to be worse after waking up in the morning or after a long rest.
+Rheumatoid arthritis can cause inflammation in other tissues and organs, including the eyes, skin, heart, and blood vessels. Affected individuals may also have inflammation in the lungs, which is known as interstitial lung disease.
+Additional signs and symptoms of rheumatoid arthritis can include a loss of energy, a low fever, weight loss, and a shortage of red blood cells (
+anemia
+). Some affected individuals develop rheumatoid nodules, which are firm lumps of noncancerous tissue that can grow under the skin and elsewhere in the body.
+Most people who have rheumatoid arthritis are 55 years old and older, although it can affect adults of any age. The signs and symptoms of rheumatoid arthritis usually appear in mid to late adulthood. Many affected people have recurrent episodes of symptoms (flares) followed by periods with no symptoms (remissions). In severe cases, affected individuals have continuous health problems related to the disease for many years. The abnormal inflammation
+can lead to severe joint damage
+, which limits movement and can cause significant disability.
+Frequency
+The prevalence of rheumatoid arthritis is estimated to be 0.5 to 1 percent in Western Europe and North America; the condition is less common in Asia and Africa. Rheumatoid arthritis is two to three times more common in women than in men, which may be related to hormonal factors.
+Causes
+Rheumatoid arthritis probably results from a combination of genetic and environmental factors, many of which are unknown. It is estimated that 50 to 60 percent of the risk of this disease is due to genetic factors.
+Rheumatoid arthritis is classified as an autoimmune disorder. Autoimmune disorders occur when the immune system attacks the body's own tissues and organs. In people with rheumatoid arthritis, the immune system triggers abnormal inflammation in the membrane that lines the joints (the synovium). When the synovium is inflamed, it causes pain, swelling, and stiffness of the joint. The immune system may be malfunctioning for years before the signs and symptoms of rheumatoid arthritis appear. In severe cases, the inflammation also affects the bone, cartilage, and other tissues within the joint, causing more serious damage. Abnormal immune reactions also lead to the features of rheumatoid arthritis that affect other parts of the body.
+Variations in more than 150 genes have been studied as risk factors for rheumatoid arthritis. Most of these genes are known or suspected to be involved in immune system function. The most significant genetic risk factors for rheumatoid arthritis are variations in
+human leukocyte antigen (HLA) genes
+, especially the
+HLA-DRB1
+gene. The proteins produced from HLA genes help the immune system distinguish between the body's own proteins and the proteins made by foreign invaders (such as viruses and bacteria). However, in people at risk for rheumatoid arthritis, changes in HLA genes, including
+HLA-DRB1
+, lead to the production of HLA proteins with altered shapes. As a result, these proteins are more likely to attach (bind) to the body's own proteins, which activates the immune system. Changes in other genes appear to have a smaller impact on a person's overall risk of developing the condition.
+Nongenetic factors are also believed to play a role in rheumatoid arthritis. These factors may trigger the condition in people who are at risk, although the mechanism is unclear. Potential triggers include changes in sex hormones (particularly in women), a higher body weight, occupational exposure to certain kinds of dust or fibers, and viral or bacterial infections. Infections and inflammation within the mouth, including the gums (gingivitis) and other tissue around the teeth (periodontitis), seem to be associated with increased risk for rheumatoid arthritis. Long-term smoking is a well-established risk factor for developing rheumatoid arthritis; smoking is also associated with more severe signs and symptoms in people who have the disease.
+Learn more about the gene associated with Rheumatoid arthritis
+HLA-DRB1
+Inheritance
+The inheritance pattern of rheumatoid arthritis is unclear because many genetic and environmental factors appear to be involved. However, about 50 percent of affected individuals have a close relative with rheumatoid arthritis or another autoimmune disease.
+Other Names for This Condition
+Arthritis, rheumatoid
+RA
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Rheumatoid arthritis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+RHEUMATOID ARTHRITIS; RA
+Scientific Articles on PubMed
+PubMed
+References
+Biton J, Saidenberg-Kermanac'h N, Decker P, Boissier MC, Semerano L, Sigaux J.
+The exposome in rheumatoid arthritis. Joint Bone Spine. 2022 Nov;89(6):105455.
+doi: 10.1016/j.jbspin.2022.105455. Epub 2022 Aug 12.
+Citation on PubMed
+Chen L, Zhao J, Meng Q. From genetic variants to therapeutic targets: insights
+into understanding rheumatoid arthritis. Front Immunol. 2025 Apr 1;16:1556971.
+doi: 10.3389/fimmu.2025.1556971. eCollection 2025.
+Citation on PubMed
+Finckh A, Gilbert B, Hodkinson B, Bae SC, Thomas R, Deane KD,
+Alpizar-Rodriguez D, Lauper K. Global epidemiology of rheumatoid arthritis. Nat
+Rev Rheumatol. 2022 Oct;18(10):591-602. doi: 10.1038/s41584-022-00827-y. Epub
+2022 Sep 6.
+Citation on PubMed
+Ortiz-Fernandez L, Martin J, Alarcon-Riquelme ME. A Summary on the Genetics of
+Systemic Lupus Erythematosus, Rheumatoid Arthritis, Systemic Sclerosis, and
+Sjogren's Syndrome. Clin Rev Allergy Immunol. 2023 Jun;64(3):392-411. doi:
+10.1007/s12016-022-08951-z. Epub 2022 Jun 24.
+Citation on PubMed
+Padyukov L. Genetics of rheumatoid arthritis. Semin Immunopathol. 2022
+Jan;44(1):47-62. doi: 10.1007/s00281-022-00912-0. Epub 2022 Jan 27.
+Citation on PubMed
+Raychaudhuri S, Sandor C, Stahl EA, Freudenberg J, Lee HS, Jia X, Alfredsson
+L, Padyukov L, Klareskog L, Worthington J, Siminovitch KA, Bae SC, Plenge RM,
+Gregersen PK, de Bakker PI. Five amino acids in three HLA proteins explain most
+of the association between MHC and seropositive rheumatoid arthritis. Nat Genet.
+2012 Jan 29;44(3):291-6. doi: 10.1038/ng.1076.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sharma SD, Leung SH, Viatte S. Genetics of rheumatoid arthritis. Best Pract
+Res Clin Rheumatol. 2024 Dec;38(4):101968. doi: 10.1016/j.berh.2024.101968. Epub
+2024 Jul 2.
+Citation on PubMed
+Smith MH, Berman JR. What Is Rheumatoid Arthritis? JAMA. 2022 Mar
+22;327(12):1194. doi: 10.1001/jama.2022.0786. No abstract available.
+Citation on PubMed
+Srivastava S, Rasool M. Genetics, epigenetics and autoimmunity constitute a
+Bermuda triangle for the pathogenesis of rheumatoid arthritis. Life Sci. 2024 Nov
+15;357:123075. doi: 10.1016/j.lfs.2024.123075. Epub 2024 Sep 26.
+Citation on PubMed
+Venetsanopoulou AI, Alamanos Y, Voulgari PV, Drosos AA. Epidemiology of
+rheumatoid arthritis: genetic and environmental influences. Expert Rev Clin
+Immunol. 2022 Sep;18(9):923-931. doi: 10.1080/1744666X.2022.2106970. Epub 2022
+Jul 29.
+Citation on PubMed
+Viatte S, Barton A. Genetics of rheumatoid arthritis susceptibility, severity,
+and treatment response. Semin Immunopathol. 2017 Jun;39(4):395-408. doi:
+10.1007/s00281-017-0630-4. Epub 2017 May 29.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Autoimmune Diseases
+Genetic Disorders
+Rheumatoid Arthritis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Rheumatoid arthritis
+Related Medical Tests
+Rheumatoid Factor (RF) Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

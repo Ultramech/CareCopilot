@@ -1,0 +1,148 @@
+White-Sutton syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+White-Sutton syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/white-sutton-syndrome/
+White-Sutton syndrome
+Description
+White-Sutton syndrome is a disorder that causes intellectual disability, specific facial features, and other signs and symptoms affecting various parts of the body. Most affected individuals have features of
+autism spectrum disorder
+(ASD), a varied condition characterized by impaired social skills, communication problems, and repetitive behaviors. However, in White-Sutton syndrome these features can occur along with other characteristics that are unusual in people with ASD, such as an overly friendly demeanor.
+People with White-Sutton syndrome have delayed development, with speech and language usually being more delayed than motor skills such as walking. Intellectual disability can range from borderline normal to severe.
+Most people with White-Sutton syndrome have mild abnormalities of the head and face, which can include an unusually small head (
+microcephaly
+); a wide, short skull (
+brachycephaly
+); wide-set eyes (
+hypertelorism
+); a flat or sunken appearance of the middle of the face (
+midface hypoplasia
+); and a
+small mouth
+with a
+thin upper lip
+.
+A wide variety of additional signs and symptoms can occur with White-Sutton syndrome. Among the more common are hyperactivity; sleeping difficulties; vision defects, especially
+farsightedness
+; gastrointestinal problems; obesity; and short stature. Some individuals with White-Sutton syndrome are born with a hole in the muscle that separates the abdomen from the chest cavity (the diaphragm), which is called
+a diaphragmatic hernia
+.
+Frequency
+The prevalence of White-Sutton syndrome is unknown. Researchers estimate that changes in the gene associated with White-Sutton syndrome may account for up to 1 in 700 cases of intellectual disability, autism spectrum disorder, or both. However, most of these affected individuals have not been diagnosed with White-Sutton syndrome and may not exhibit all the features of this disorder.
+Causes
+White-Sutton syndrome is caused by mutations in the
+POGZ
+gene. This gene provides instructions for making a protein that is found in the
+cell nucleus
+. The POGZ protein attaches (binds) to
+chromatin
+, which is the network of DNA and proteins that packages DNA into chromosomes. Binding of the POGZ protein is part of the process that changes the structure of chromatin (chromatin remodeling) to alter how tightly regions of DNA are packaged. Chromatin remodeling is one way gene activity (expression) is regulated; when DNA is tightly packed gene expression is lower than when DNA is loosely packed. Regulation of gene expression by the POGZ protein is thought to be important to brain development, but the specific function of POGZ in the brain is not well understood.
+POGZ
+gene mutations are thought to impair the ability of the POGZ protein to bind to chromatin, leading to abnormal gene expression that affects development of the brain and other body systems. However, little is known about the specific changes in gene expression and how they lead to the development of intellectual disability and other signs and symptoms of White-Sutton syndrome.
+Learn more about the gene associated with White-Sutton syndrome
+POGZ
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Most cases of this condition occur in people with no history of the disorder in their family, and result from new (
+de novo
+) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development.
+Other Names for This Condition
+Mental retardation, autosomal dominant 37
+MRD37
+WHSUS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Intellectual disability-microcephaly-strabismus-behavioral abnormalities syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+WHITE-SUTTON SYNDROME; WHSUS
+Scientific Articles on PubMed
+PubMed
+References
+Dentici ML, Niceta M, Pantaleoni F, Barresi S, Bencivenga P, Dallapiccola B,
+Digilio MC, Tartaglia M. Expanding the phenotypic spectrum of truncating POGZ
+mutations: Association with CNS malformations, skeletal abnormalities, and
+distinctive facial dysmorphism. Am J Med Genet A. 2017 Jul;173(7):1965-1969. doi:
+10.1002/ajmg.a.38255. Epub 2017 May 7.
+Citation on PubMed
+Stessman HAF, Willemsen MH, Fenckova M, Penn O, Hoischen A, Xiong B, Wang T,
+Hoekzema K, Vives L, Vogel I, Brunner HG, van der Burgt I, Ockeloen CW,
+Schuurs-Hoeijmakers JH, Klein Wassink-Ruiter JS, Stumpel C, Stevens SJC, Vles HS,
+Marcelis CM, van Bokhoven H, Cantagrel V, Colleaux L, Nicouleau M, Lyonnet S,
+Bernier RA, Gerdts J, Coe BP, Romano C, Alberti A, Grillo L, Scuderi C,
+Nordenskjold M, Kvarnung M, Guo H, Xia K, Piton A, Gerard B, Genevieve D, Delobel
+B, Lehalle D, Perrin L, Prieur F, Thevenon J, Gecz J, Shaw M, Pfundt R, Keren B,
+Jacquette A, Schenck A, Eichler EE, Kleefstra T. Disruption of POGZ Is Associated
+with Intellectual Disability and Autism Spectrum Disorders. Am J Hum Genet. 2016
+Mar 3;98(3):541-552. doi: 10.1016/j.ajhg.2016.02.004.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tan B, Zou Y, Zhang Y, Zhang R, Ou J, Shen Y, Zhao J, Luo X, Guo J, Zeng L, Hu
+Y, Zheng Y, Pan Q, Liang D, Wu L. A novel de novo POGZ mutation in a patient with
+intellectual disability. J Hum Genet. 2016 Apr;61(4):357-9. doi:
+10.1038/jhg.2015.156. Epub 2016 Jan 14.
+Citation on PubMed
+White J, Beck CR, Harel T, Posey JE, Jhangiani SN, Tang S, Farwell KD, Powis
+Z, Mendelsohn NJ, Baker JA, Pollack L, Mason KJ, Wierenga KJ, Arrington DK, Hall
+M, Psychogios A, Fairbrother L, Walkiewicz M, Person RE, Niu Z, Zhang J,
+Rosenfeld JA, Muzny DM, Eng C, Beaudet AL, Lupski JR, Boerwinkle E, Gibbs RA,
+Yang Y, Xia F, Sutton VR. POGZ truncating alleles cause syndromic intellectual
+disability. Genome Med. 2016 Jan 6;8(1):3. doi: 10.1186/s13073-015-0253-0.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ye Y, Cho MT, Retterer K, Alexander N, Ben-Omran T, Al-Mureikhi M, Cristian I,
+Wheeler PG, Crain C, Zand D, Weinstein V, Vernon HJ, McClellan R, Krishnamurthy
+V, Vitazka P, Millan F, Chung WK. De novo POGZ mutations are associated with
+neurodevelopmental disorders and microcephaly. Cold Spring Harb Mol Case Stud.
+2015 Oct;1(1):a000455. doi: 10.1101/mcs.a000455.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Autism Spectrum Disorder
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Autism spectrum disorder
+Genetics
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,114 @@
+X-linked lissencephaly with abnormal genitalia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+X-linked lissencephaly with abnormal genitalia
+URL of this page: https://medlineplus.gov/genetics/condition/x-linked-lissencephaly-with-abnormal-genitalia/
+X-linked lissencephaly with abnormal genitalia
+Description
+X-linked lissencephaly with abnormal genitalia (XLAG) is a condition that affects the development of the brain and genitalia. It occurs most often in males.
+XLAG is characterized by abnormal brain development that results in the brain having a smooth appearance (lissencephaly) instead of its normal folds and grooves. Individuals without any folds in the brain (agyria) typically have more severe symptoms than people with reduced folds and grooves (pachygyria). Individuals with XLAG may also have a lack of development (agenesis) of the tissue connecting the left and right halves of the brain (corpus callosum).
+In XLAG, the brain abnormalities can cause severe intellectual disability and developmental delay, abnormal muscle stiffness (spasticity), weak muscle tone (hypotonia), and feeding difficulties. Starting soon after birth, babies with XLAG have frequent and recurrent seizures (epilepsy). Most children with XLAG do not survive past early childhood.
+Another key feature of XLAG in males is abnormal genitalia that can include an unusually small penis (micropenis), undescended testes (cryptorchidism), or external genitalia that do not look clearly male or clearly female.
+Additional signs and symptoms of XLAG include chronic diarrhea, periods of increased blood glucose (transient hyperglycemia), and problems with body temperature regulation.
+Frequency
+The incidence of XLAG is unknown; approximately 30 affected families have been described in the medical literature.
+Causes
+Mutations in the
+ARX
+gene cause XLAG. The
+ARX
+gene provides instructions for producing a protein that is involved in the development of several organs, including the brain,
+testes
+, and
+pancreas
+. In the developing brain, the ARX protein is involved with movement and communication in nerve cells (
+neurons
+). The ARX protein regulates genes that play a role in the migration of specialized neurons (interneurons) to their proper location. Interneurons relay signals between neurons. In the pancreas and testes, the ARX protein helps to regulate the process by which cells mature to carry out specific functions (differentiation).
+ARX
+gene mutations lead to the production of a nonfunctional ARX protein or to the complete absence of ARX protein. As a result, the ARX protein cannot perform its role regulating the activity of genes important for interneuron migration. In addition to impairing normal brain development, a lack of functional ARX protein disrupts cell differentiation during the formation of the testes, leading to abnormal genitalia. It is thought that the disruption of ARX protein function in the pancreas plays a role in the chronic diarrhea and hyperglycemia experienced by individuals with XLAG.
+Learn more about the gene associated with X-linked lissencephaly with abnormal genitalia
+ARX
+Inheritance
+This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell can lead to less severe brain malformations or may cause no symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+LISX2
+X-linked lissencephaly 2
+X-linked lissencephaly with ambiguous genitalia
+XLAG
+XLISG
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: X-linked lissencephaly with abnormal genitalia
+Genetic and Rare Diseases Information Center
+X-linked lissencephaly with abnormal genitalia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+LISSENCEPHALY, X-LINKED, 2; LISX2
+Scientific Articles on PubMed
+PubMed
+References
+Bonneau D, Toutain A, Laquerriere A, Marret S, Saugier-Veber P, Barthez MA,
+Radi S, Biran-Mucignat V, Rodriguez D, Gelot A. X-linked lissencephaly with
+absent corpus callosum and ambiguous genitalia (XLAG): clinical, magnetic
+resonance imaging, and neuropathological findings. Ann Neurol. 2002
+Mar;51(3):340-9. doi: 10.1002/ana.10119.
+Citation on PubMed
+Kato M, Dobyns WB. X-linked lissencephaly with abnormal genitalia as a
+tangential migration disorder causing intractable epilepsy: proposal for a new
+term, "interneuronopathy". J Child Neurol. 2005 Apr;20(4):392-7. doi:
+10.1177/08830738050200042001.
+Citation on PubMed
+Miyata R, Hayashi M, Miyai K, Akashi T, Kato M, Kohyama J. Analysis of the
+hypothalamus in a case of X-linked lissencephaly with abnormal genitalia (XLAG).
+Brain Dev. 2009 Jun;31(6):456-60. doi: 10.1016/j.braindev.2008.08.008. Epub 2008
+Oct 7.
+Citation on PubMed
+Shoubridge C, Fullston T, Gecz J. ARX spectrum disorders: making inroads into
+the molecular pathology. Hum Mutat. 2010 Aug;31(8):889-900. doi:
+10.1002/humu.21288.
+Citation on PubMed
+Uyanik G, Aigner L, Martin P, Gross C, Neumann D, Marschner-Schafer H, Hehr U,
+Winkler J. ARX mutations in X-linked lissencephaly with abnormal genitalia.
+Neurology. 2003 Jul 22;61(2):232-5. doi: 10.1212/01.wnl.0000079371.19562.ba.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+Neurologic Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,142 @@
+L1 syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+L1 syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/l1-syndrome/
+L1 syndrome
+Description
+L1 syndrome describes a group of conditions that primarily affect the nervous system and occur almost exclusively in males. These conditions vary in severity and include, from most severe to least, X-linked hydrocephalus with stenosis of the aqueduct of Sylvius (HSAS), MASA syndrome, spastic paraplegia type 1, and X-linked complicated corpus callosum agenesis.
+HSAS is an acronym for the characteristic features of the condition: a buildup of fluid in the brain (hydrocephalus) that is often present from before birth, muscle stiffness (spasticity), thumbs that are permanently bent toward the palms (adducted thumbs), and narrowing (stenosis) of a passageway in the brain called the aqueduct of Sylvius. In individuals with HSAS, stenosis of the aqueduct of Sylvius causes hydrocephalus by impeding the flow of cerebrospinal fluid (CSF) out of fluid-filled cavities called ventricles. Individuals with HSAS often have severe intellectual disability and may have seizures.
+MASA syndrome is also named for the characteristic features of the condition, which are intellectual disability (mental retardation) that can range from mild to moderate, delayed speech (aphasia), spasticity, and adducted thumbs. Individuals with MASA syndrome may have mild enlargement of the ventricles.
+Spastic paraplegia type 1 is characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the limbs (paraplegia). Affected individuals also have mild to moderate intellectual disability. People with spastic paraplegia type 1 do not usually have major abnormalities in structures of the brain.
+X-linked complicated corpus callosum agenesis is defined by underdevelopment (hypoplasia) or absence (agenesis) of the tissue that connects the left and right halves of the brain (
+the corpus callosum
+). People with this condition can have spastic paraplegia and mild to moderate intellectual disability.
+The life expectancy of individuals with L1 syndrome varies depending on the severity of the signs and symptoms. Severely affected individuals may survive only a short time after birth, while those with mild features live into adulthood.
+The conditions that make up L1 syndrome were once thought to be distinct disorders, but since they were found to share a genetic cause, they are now considered to be part of the same syndrome. Family members with L1 syndrome caused by the same mutation may have different forms of the condition.
+Frequency
+The prevalence of L1 syndrome overall is unknown; however, HSAS is estimated to affect 1 in 30,000 males.
+Causes
+L1 syndrome is caused by mutations in the
+L1CAM
+gene. The
+L1CAM
+gene provides instructions for producing the L1 cell adhesion molecule protein (shortened to L1 protein), which is found throughout the nervous system. This protein is present on the surface of nerve cells (
+neurons
+), where it attaches (binds) to proteins on neighboring neurons to help the cells stick to one another (cell-cell adhesion). The L1 protein plays a role in numerous functions of neurons that contribute to brain development, thinking ability, memory, and movement.
+L1CAM
+gene mutations that cause L1 syndrome lead to an L1 protein that cannot facilitate cell-cell adhesion or participate in various neuronal functions. Disruption of these functions likely impedes the growth and development of the brain, leading to the signs and symptoms of L1 syndrome.
+Some
+L1CAM
+gene mutations result in the production of a protein that is abnormally short and nonfunctional or result in a complete absence of the protein. These mutations typically lead to severe cases of L1 syndrome, often HSAS. Other mutations change the structure of the protein, impairing the protein's ability to interact with other proteins at the cell surface or preventing the protein from reaching the cell surface where it is needed. These mutations typically lead to less severe cases of L1 syndrome, usually MASA syndrome or the other milder forms of this condition. While a mutation's effect on the L1 protein can sometimes provide a clue to the severity of the condition, individuals with the same or similar mutations can have very different signs and symptoms.
+Learn more about the gene associated with L1 syndrome
+L1CAM
+Inheritance
+This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+in each cell. In males, who have only one X chromosome, a mutation in the only copy of the gene in each cell is sufficient to cause the condition. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell can lead to less severe features of the condition or may cause no signs or symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+Adducted thumbs-mental retardation syndrome
+Corpus callosum hypoplasia, mental retardation, adducted thumbs, spastic paraplegia, hydrocephalus syndrome
+CRASH syndrome
+Mental retardation-clasped thumb syndrome
+X-linked hydrocephalus syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: X-linked complicated corpus callosum dysgenesis
+Genetic Testing Registry: L1 syndrome
+Genetic Testing Registry: MASA syndrome
+Genetic Testing Registry: X-linked hydrocephalus syndrome
+Genetic and Rare Diseases Information Center
+L1 syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MASA SYNDROME
+CORPUS CALLOSUM, PARTIAL AGENESIS OF, X-LINKED
+HYDROCEPHALUS, CONGENITAL, X-LINKED; HYCX
+Scientific Articles on PubMed
+PubMed
+References
+Adle-Biassette H, Saugier-Veber P, Fallet-Bianco C, Delezoide AL, Razavi F,
+Drouot N, Bazin A, Beaufrere AM, Bessieres B, Blesson S, Bucourt M, Carles D,
+Devisme L, Dijoud F, Fabre B, Fernandez C, Gaillard D, Gonzales M, Jossic F,
+Joubert M, Laurent N, Leroy B, Loeuillet L, Loget P, Marcorelles P, Martinovic J,
+Perez MJ, Satge D, Sinico M, Tosi M, Benichou J, Gressens P, Frebourg T,
+Laquerriere A. Neuropathological review of 138 cases genetically tested for
+X-linked hydrocephalus: evidence for closely related clinical entities of unknown
+molecular bases. Acta Neuropathol. 2013 Sep;126(3):427-42. doi:
+10.1007/s00401-013-1146-1. Epub 2013 Jul 3.
+Citation on PubMed
+Christaller WA, Vos Y, Gebre-Medhin S, Hofstra RM, Schafer MK. L1 syndrome
+diagnosis complemented with functional analysis of L1CAM variants located to the
+two N-terminal Ig-like domains. Clin Genet. 2017 Jan;91(1):115-120. doi:
+10.1111/cge.12763. Epub 2016 Mar 15.
+Citation on PubMed
+Ferese R, Zampatti S, Griguoli AM, Fornai F, Giardina E, Barrano G, Albano V,
+Campopiano R, Scala S, Novelli G, Gambardella S. A New Splicing Mutation in the
+L1CAM Gene Responsible for X-Linked Hydrocephalus (HSAS). J Mol Neurosci. 2016
+Jul;59(3):376-81. doi: 10.1007/s12031-016-0754-3. Epub 2016 May 20.
+Citation on PubMed
+Finckh U, Schroder J, Ressler B, Veske A, Gal A. Spectrum and detection rate
+of L1CAM mutations in isolated and familial cases with clinically suspected
+L1-disease. Am J Med Genet. 2000 May 1;92(1):40-6. doi:
+10.1002/(sici)1096-8628(20000501)92:13.0.co;2-r.
+Citation on PubMed
+Kanemura Y, Okamoto N, Sakamoto H, Shofuda T, Kamiguchi H, Yamasaki M.
+Molecular mechanisms and neuroimaging criteria for severe L1 syndrome with
+X-linked hydrocephalus. J Neurosurg. 2006 Nov;105(5 Suppl):403-12. doi:
+10.3171/ped.2006.105.5.403.
+Citation on PubMed
+Marin R, Ley-Martos M, Gutierrez G, Rodriguez-Sanchez F, Arroyo D, Mora-Lopez
+F. Three cases with L1 syndrome and two novel mutations in the L1CAM gene. Eur J
+Pediatr. 2015 Nov;174(11):1541-4. doi: 10.1007/s00431-015-2560-2. Epub 2015 May
+7.
+Citation on PubMed
+Weller S, Gartner J. Genetic and clinical aspects of X-linked hydrocephalus
+(L1 disease): Mutations in the L1CAM gene. Hum Mutat. 2001;18(1):1-12. doi:
+10.1002/humu.1144.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Hydrocephalus
+Neuromuscular Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hydrocephalus
+Spasticity
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

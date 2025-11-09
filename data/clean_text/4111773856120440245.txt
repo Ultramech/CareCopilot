@@ -1,0 +1,148 @@
+Leprosy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Leprosy
+URL of this page: https://medlineplus.gov/genetics/condition/leprosy/
+Leprosy
+Description
+Leprosy, also called Hansen disease, is a disorder known since ancient times. It is caused by bacteria called
+Mycobacterium leprae
+and is contagious, which means that it can be passed from person to person. It is usually contracted by breathing airborne droplets from affected individuals' coughs and sneezes, or by coming into contact with their nasal fluids. However, it is not highly transmissible, and approximately 95 percent of individuals who are exposed to
+Mycobacterium leprae
+never develop leprosy. The infection can be contracted at any age, and signs and symptoms can take anywhere from several months to 20 years to appear.
+Leprosy affects the skin and the peripheral nerves, which connect the brain and spinal cord to muscles and to sensory cells that detect sensations such as touch, pain, and heat. Most affected individuals have areas of skin damage (cutaneous lesions) and problems with nerve function (peripheral neuropathy); however, the severity and extent of the problems vary widely. Leprosy occurs on a spectrum, in which the most severe form is called multibacillary or lepromatous, and the least severe form is called paucibacillary or tuberculoid. Patterns of signs and symptoms intermediate between these forms are sometimes called borderline forms.
+Multibacillary leprosy usually involves a large number of cutaneous lesions, including both surface damage and lumps under the skin (nodules). The moist tissues that line body openings such as the eyelids and the inside of the nose and mouth (mucous membranes) can also be affected, which can lead to vision loss, destruction of nasal tissue, or impaired speech. Some affected individuals have damage to internal organs and tissues. The nerve damage that occurs in multibacillary leprosy often results in a lack of sensation in the hands and feet. Repeated injuries that go unnoticed and untreated because of this lack of sensation can lead to reabsorption of affected fingers or toes by the body, resulting in the shortening or loss of these digits.
+Paucibacillary leprosy typically involves a small number of surface lesions on the skin. There is generally loss of sensation in these areas, but the other signs and symptoms that occur in multibacillary leprosy are less likely to develop in this form of the disorder.
+In any form of leprosy, episodes called reactions can occur, and can lead to further nerve damage. These episodes can include reversal reactions, which involve pain and swelling of the skin lesions and the nerves in the hands and feet. People with the more severe forms of leprosy can develop a type of reaction called erythema nodosum leprosum (ENL). These episodes involve fever and painful skin nodules. In addition, painful, swollen nerves can occur. ENL can also lead to inflammation of the joints, eyes, and the testicles in men.
+Leprosy has long been stigmatized because of its infectious nature and the disfigurement it can cause. This stigma can cause social and emotional problems for affected individuals. However, modern treatments can prevent leprosy from getting worse and spreading to other people. While the infection is curable, nerve and tissue damage that occurred before treatment is generally permanent.
+Frequency
+About 250,000 new cases of leprosy are diagnosed every year. The condition occurs worldwide, but is most common in India, Brazil, and other areas with warm climates. Between 100 and 250 new cases per year occur in the United States.
+Causes
+Combinations of many variations in genes involved in the immune system affect a person's likelihood of contracting
+Mycobacterium leprae
+infection if exposed to the bacteria. Gene variations affecting the immune system also help determine the form of leprosy that individuals develop if the
+Mycobacterium leprae
+infection takes hold.
+The body's initial, nonspecific response to an invading organism (innate immune response) is its first line of defense against
+Mycobacterium leprae
+. If this is followed by an immune system response specific to
+Mycobacterium leprae
+infection (adaptive immune response) that restricts the spread of the bacteria, an individual will probably develop the less severe paucibacillary form or not develop leprosy at all. If little or no adaptive immune response occurs, the bacteria can spread widely on the body, traveling through the skin and into the peripheral nerves, and sometimes into deeper tissues, leading to the more severe signs and symptoms of multibacillary leprosy.
+Variations in immune system-related genes also affect the likelihood of developing episodes of reaction. Reactions occur when the immune system generates inflammation in response to dead bacteria that are still in the body.
+The genes involved in leprosy provide instructions for making proteins that are involved in immune system processes such as recognition of the bacteria, immune system signaling, initiation of inflammation by the innate immune system, and production by the adaptive immune system of immune proteins (
+antibodies
+) specific to
+Mycobacteria leprae
+. The combined effect of the gene variations, as well as nongenetic factors that are not well understood, determine the effectiveness of these processes and the individual's vulnerability to leprosy.
+Learn more about the genes associated with Leprosy
+PRKN
+VDR
+Additional Information from NCBI Gene:
+LTA
+PACRG
+TLR1
+TLR2
+Inheritance
+Leprosy is not inherited, but people can inherit an increased risk of contracting leprosy if they are exposed to the
+Mycobacterium leprae
+bacteria. Susceptibility tends to run in families, but the inheritance pattern is unknown.
+Other Names for This Condition
+Hansen disease
+Hansen's disease
+Infection due to Mycobacterium leprae
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Leprosy, susceptibility to, 2
+Genetic Testing Registry: Leprosy, susceptibility to, 3
+Genetic Testing Registry: Leprosy, susceptibility to, 4
+Genetic Testing Registry: Leprosy, susceptibility to, 5
+Genetic and Rare Diseases Information Center
+Leprosy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LEPROSY, SUSCEPTIBILITY TO, 3; LPRS3
+LEPROSY, SUSCEPTIBILITY TO, 2; LPRS2
+LEPROSY, SUSCEPTIBILITY TO, 1; LPRS1
+LEPROSY, SUSCEPTIBILITY TO, 4; LPRS4
+LEPROSY, SUSCEPTIBILITY TO, 6; LPRS6
+LEPROSY, SUSCEPTIBILITY TO, 5; LPRS5
+Scientific Articles on PubMed
+PubMed
+References
+Araujo TG, Oliveira GP, de Matos Oliveira F, Neves AF, Soares Mota ST, Goulart
+IMB, Goulart LR. A novel vitamin D receptor polymorphism associated with leprosy.
+J Dermatol Sci. 2018 Mar;89(3):304-307. doi: 10.1016/j.jdermsci.2017.12.007. Epub
+2017 Dec 23. No abstract available.
+Citation on PubMed
+Chaptini C, Marshman G. Leprosy: a review on elimination, reducing the disease
+burden, and future research. Lepr Rev. 2015 Dec;86(4):307-15.
+Citation on PubMed
+Fonseca AB, Simon MD, Cazzaniga RA, de Moura TR, de Almeida RP, Duthie MS,
+Reed SG, de Jesus AR. The influence of innate and adaptative immune responses on
+the differential clinical outcomes of leprosy. Infect Dis Poverty. 2017 Feb
+6;6(1):5. doi: 10.1186/s40249-016-0229-3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gaschignard J, Grant AV, Thuc NV, Orlova M, Cobat A, Huong NT, Ba NN, Thai VH,
+Abel L, Schurr E, Alcais A. Pauci- and Multibacillary Leprosy: Two Distinct,
+Genetically Neglected Diseases. PLoS Negl Trop Dis. 2016 May 24;10(5):e0004345.
+doi: 10.1371/journal.pntd.0004345. eCollection 2016 May.
+Citation on PubMed
+or
+Free article on PubMed Central
+Oliveira MB, Diniz LM. Leprosy among children under 15 years of age:
+literature review. An Bras Dermatol. 2016 Apr;91(2):196-203. doi:
+10.1590/abd1806-4841.20163661.
+Citation on PubMed
+or
+Free article on PubMed Central
+Reibel F, Cambau E, Aubry A. Update on the epidemiology, diagnosis, and
+treatment of leprosy. Med Mal Infect. 2015 Sep;45(9):383-93. doi:
+10.1016/j.medmal.2015.09.002. Epub 2015 Oct 1.
+Citation on PubMed
+Talhari C, Talhari S, Penna GO. Clinical aspects of leprosy. Clin Dermatol.
+2015 Jan-Feb;33(1):26-37. doi: 10.1016/j.clindermatol.2014.07.002.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Mycobacterial Infections
+MEDICAL ENCYCLOPEDIA
+Genetics
+Leprosy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

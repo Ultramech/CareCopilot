@@ -1,0 +1,180 @@
+Periventricular heterotopia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Periventricular heterotopia
+URL of this page: https://medlineplus.gov/genetics/condition/periventricular-heterotopia/
+Periventricular heterotopia
+Description
+Periventricular heterotopia is a condition in which nerve cells (
+neurons
+) do not migrate properly during the early development of the fetal brain, from about the 6th week to the 24th week of pregnancy. Heterotopia means "out of place." In normal brain development, neurons form in the periventricular region, located around fluid-filled cavities (ventricles) near the center of the brain. The neurons then migrate outward to form the exterior of the brain (
+cerebral cortex
+) in six onion-like layers. In periventricular heterotopia, some neurons fail to migrate to their proper position and form clumps around the ventricles.
+Periventricular heterotopia usually becomes evident when seizures first appear, often during the teenage years. The nodules around the ventricles are then typically discovered when magnetic resonance imaging (MRI) studies are done. Affected individuals usually have normal intelligence, although some have mild intellectual disability. Difficulty with reading and spelling (dyslexia) and movement problems have been reported in some people with periventricular heterotopia.
+Less commonly, individuals with periventricular heterotopia may have other features including more severe brain malformations, small head size (
+microcephaly
+), developmental delays, recurrent infections, blood vessel abnormalities, stomach problems, or lung disease. Periventricular heterotopia may also occur in association with other conditions such as
+Ehlers-Danlos syndrome
+, which results in extremely flexible joints, skin that stretches easily, and fragile blood vessels.
+Frequency
+Periventricular heterotopia is a rare condition. Its incidence is unknown.
+Causes
+In most cases, periventricular heterotopia is caused by mutations in the
+FLNA
+gene. This gene provides instructions for producing the protein filamin A, which helps build the network of protein filaments (
+cytoskeleton
+) that gives structure to cells and allows them to change shape and move. Certain mutations in the
+FLNA
+gene result in an impaired FLNA protein that cannot perform this function, disrupting the normal migration patterns of neurons during brain development.
+Periventricular heterotopia can also be caused by mutations in the
+ARFGEF2
+gene. This gene provides instructions for making a protein that is involved in the movement (trafficking) of small sac-like structures (
+vesicles
+) within the cell.
+Vesicle trafficking
+is important in controlling the migration of neurons during the development of the brain. Mutations in the
+ARFGEF2
+gene may disrupt this function, which could result in the abnormal neuronal migration seen in periventricular heterotopia.
+Researchers believe that mutations in the
+FLNA
+or
+ARFGEF2
+genes may also result in weakening of the attachments (adhesion) between cells that form the lining of the ventricles. A weakened ventricular lining could allow some neurons to form clumps around the ventricles while others migrate normally to the exterior of the brain, as seen in periventricular heterotopia.
+In a few cases, periventricular heterotopia has been associated with abnormalities in
+chromosome 5
+. In each case, the affected individual had extra genetic material caused by an
+abnormal duplication
+of part of this chromosome. It is not known how this duplicated genetic material results in the signs and symptoms of periventricular heterotopia.
+Learn more about the genes and chromosome associated with Periventricular heterotopia
+ARFGEF2
+FLNA
+chromosome 5
+Additional Information from NCBI Gene:
+NEDD4L
+Inheritance
+Periventricular heterotopia can have different inheritance patterns. When this condition is caused by mutations in the
+FLNA
+gene, it is inherited in an
+X-linked dominant pattern
+.
+A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+. The inheritance is dominant if one copy of the altered gene in each cell is sufficient to cause the condition. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In X-linked periventricular heterotopia, males experience much more severe symptoms of the disorder than females, and in most cases die before birth.
+In about 50 percent of cases of X-linked periventricular heterotopia, an affected person inherits the mutation from a mother who is also affected. Other cases may result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.
+Periventricular heterotopia caused by mutations in the
+ARFGEF2
+gene is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. Individuals with periventricular heterotopia in whom
+ARFGEF2
+gene mutations have been identified have a severe form of the disorder, including microcephaly, severe developmental delay, and seizures beginning in infancy. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.
+Other Names for This Condition
+Familial nodular heterotopia
+Periventricular nodular heterotopia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Periventricular laminar heterotopia
+Genetic and Rare Diseases Information Center
+Periventricular nodular heterotopia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PERIVENTRICULAR NODULAR HETEROTOPIA 1; PVNH1
+PERIVENTRICULAR HETEROTOPIA WITH MICROCEPHALY, AUTOSOMAL RECESSIVE; ARPHM
+PERIVENTRICULAR NODULAR HETEROTOPIA 3; PVNH3
+PERIVENTRICULAR NODULAR HETEROTOPIA 7; PVNH7
+Scientific Articles on PubMed
+PubMed
+References
+Broix L, Jagline H, Ivanova E, Schmucker S, Drouot N, Clayton-Smith J,
+Pagnamenta AT, Metcalfe KA, Isidor B, Louvier UW, Poduri A, Taylor JC, Tilly P,
+Poirier K, Saillour Y, Lebrun N, Stemmelen T, Rudolf G, Muraca G, Saintpierre B,
+Elmorjani A; Deciphering Developmental Disorders study; Moise M, Weirauch NB,
+Guerrini R, Boland A, Olaso R, Masson C, Tripathy R, Keays D, Beldjord C, Nguyen
+L, Godin J, Kini U, Nischke P, Deleuze JF, Bahi-Buisson N, Sumara I, Hinckelmann
+MV, Chelly J. Mutations in the HECT domain of NEDD4L lead to AKT-mTOR pathway
+deregulation and cause periventricular nodular heterotopia. Nat Genet. 2016
+Nov;48(11):1349-1358. doi: 10.1038/ng.3676. Epub 2016 Oct 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Guerrini R, Parrini E. Neuronal migration disorders. Neurobiol Dis. 2010
+May;38(2):154-66. doi: 10.1016/j.nbd.2009.02.008. Epub 2009 Feb 23.
+Citation on PubMed
+Liu JS. Molecular genetics of neuronal migration disorders. Curr Neurol
+Neurosci Rep. 2011 Apr;11(2):171-8. doi: 10.1007/s11910-010-0176-5.
+Citation on PubMed
+LoTurco JJ, Bai J. The multipolar stage and disruptions in neuronal migration.
+Trends Neurosci. 2006 Jul;29(7):407-413. doi: 10.1016/j.tins.2006.05.006. Epub
+2006 May 19.
+Citation on PubMed
+Lu J, Tiao G, Folkerth R, Hecht J, Walsh C, Sheen V. Overlapping expression of
+ARFGEF2 and Filamin A in the neuroependymal lining of the lateral ventricles:
+insights into the cause of periventricular heterotopia. J Comp Neurol. 2006 Jan
+20;494(3):476-84. doi: 10.1002/cne.20806.
+Citation on PubMed
+Parrini E, Ramazzotti A, Dobyns WB, Mei D, Moro F, Veggiotti P, Marini C,
+Brilstra EH, Dalla Bernardina B, Goodwin L, Bodell A, Jones MC, Nangeroni M,
+Palmeri S, Said E, Sander JW, Striano P, Takahashi Y, Van Maldergem L, Leonardi
+G, Wright M, Walsh CA, Guerrini R. Periventricular heterotopia: phenotypic
+heterogeneity and correlation with Filamin A mutations. Brain. 2006 Jul;129(Pt
+7):1892-906. doi: 10.1093/brain/awl125. Epub 2006 May 9.
+Citation on PubMed
+Sheen VL. Periventricular Heterotopia: Shuttling of Proteins through Vesicles
+and Actin in Cortical Development and Disease. Scientifica (Cairo).
+2012;2012:480129. doi: 10.6064/2012/480129. Epub 2012 Oct 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Spalice A, Parisi P, Nicita F, Pizzardi G, Del Balzo F, Iannetti P. Neuronal
+migration disorders: clinical, neuroradiologic and genetics aspects. Acta
+Paediatr. 2009 Mar;98(3):421-33. doi: 10.1111/j.1651-2227.2008.01160.x. Epub 2008
+Dec 16.
+Citation on PubMed
+Verrotti A, Spalice A, Ursitti F, Papetti L, Mariani R, Castronovo A,
+Mastrangelo M, Iannetti P. New trends in neuronal migration disorders. Eur J
+Paediatr Neurol. 2010 Jan;14(1):1-12. doi: 10.1016/j.ejpn.2009.01.005. Epub 2009
+Mar 4.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

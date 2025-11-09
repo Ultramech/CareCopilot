@@ -1,0 +1,129 @@
+Pallister-Killian mosaic syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pallister-Killian mosaic syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/pallister-killian-mosaic-syndrome/
+Pallister-Killian mosaic syndrome
+Description
+Pallister-Killian mosaic syndrome is a developmental disorder that affects many parts of the body. This condition is characterized by extremely weak muscle tone (hypotonia) in infancy and early childhood, intellectual disability, distinctive facial features, sparse hair, areas of unusual skin coloring (pigmentation), and other birth defects.
+Most babies with Pallister-Killian mosaic syndrome are born with significant hypotonia, which can cause difficulty breathing and problems with feeding. Hypotonia also interferes with the normal development of motor skills such as sitting, standing, and walking. About 30 percent of affected individuals are ultimately able to walk without assistance. Additional developmental delays result from intellectual disability, which is usually severe to profound. Speech is often limited or absent in people with this condition.
+Pallister-Killian mosaic syndrome is associated with a distinctive facial appearance that is often described as "coarse." Characteristic facial features include a high, rounded forehead; a broad nasal bridge; a short nose; widely spaced eyes; low-set ears; rounded cheeks; and a wide mouth with a thin upper lip and a large tongue. Some affected children are born with an opening in the roof of the mouth (
+cleft palate
+) or a high arched palate.
+Most children with Pallister-Killian mosaic syndrome have sparse hair on their heads, particularly around the temples. These areas may fill in as affected children get older. Many affected individuals also have streaks or patches of skin that are darker or lighter than the surrounding skin. These skin changes can occur anywhere on the body, and they may be apparent at birth or occur later in life.
+Additional features of Pallister-Killian mosaic syndrome can include hearing loss, vision impairment, seizures, extra nipples, genital abnormalities, and heart defects. Affected individuals may also have skeletal abnormalities such as
+extra fingers and/or toes
+, large big toes (halluces), and unusually short arms and legs. About 40 percent of affected infants are born with a
+congenital diaphragmatic hernia
+, which is a hole in the muscle that separates the abdomen from the chest cavity (the diaphragm). This potentially serious birth defect allows the stomach and intestines to move into the chest, where they can crowd the developing heart and lungs.
+The signs and symptoms of Pallister-Killian mosaic syndrome vary, although most people with this disorder have severe to profound intellectual disability and other serious health problems. The most severe cases involve birth defects that are life-threatening in early infancy. However, several affected people have had milder features, including mild intellectual disability and less noticeable physical abnormalities.
+Frequency
+Pallister-Killian mosaic syndrome appears to be a rare condition, although its exact prevalence is unknown. This disorder may be underdiagnosed because it can be difficult to detect in people with mild signs and symptoms. As a result, most diagnoses are made in children with more severe features of the disorder. More than 150 people with Pallister-Killian mosaic syndrome have been reported in the medical literature.
+Causes
+Pallister-Killian mosaic syndrome is usually caused by the presence of an abnormal extra chromosome called an isochromosome 12p or i(12p). An
+isochromosome
+is a chromosome with two identical arms. Normal chromosomes have one long (q) arm and one short (p) arm, but isochromosomes have either two q arms or two p arms. Isochromosome 12p is a version of
+chromosome 12
+made up of two p arms.
+Cells normally have two copies of each chromosome, one inherited from each parent. In people with Pallister-Killian mosaic syndrome, cells have the two usual copies of chromosome 12, but some cells also have the isochromosome 12p. These cells have a total of four copies of all the genes on the p arm of chromosome 12. The extra genetic material from the isochromosome disrupts the normal course of development, causing the characteristic features of this disorder.
+Although Pallister-Killian mosaic syndrome is usually caused by the presence of an isochromosome 12p, other, more complex chromosomal changes involving chromosome 12 are responsible for the disorder in rare cases.
+Learn more about the chromosome associated with Pallister-Killian mosaic syndrome
+chromosome 12
+Inheritance
+Pallister-Killian mosaic syndrome is not inherited. The chromosomal change responsible for the disorder typically occurs as a random event during the formation of reproductive cells (eggs or sperm) in a parent of the affected individual, usually the mother. Affected individuals have no history of the disorder in their families.
+An error in cell division called nondisjunction likely results in a reproductive cell containing an isochromosome 12p. If this atypical reproductive cell contributes to the genetic makeup of a child, the child will have two normal copies of chromosome 12 along with an isochromosome 12p.
+As cells divide during early development, some cells lose the isochromosome 12p, while other cells retain the abnormal chromosome. This situation is called
+mosaicism
+. Almost all cases of Pallister-Killian mosaic syndrome are caused by mosaicism for an isochromosome 12p. If all of the body's cells contained the isochromosome, the resulting syndrome would probably not be compatible with life.
+Other Names for This Condition
+Isochromosome 12p syndrome
+Pallister-Killian syndrome
+PKS
+Teschler-Nicola/Killian syndrome
+Tetrasomy 12p, mosaic
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pallister-Killian syndrome
+Genetic and Rare Diseases Information Center
+Tetrasomy 12p
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PALLISTER-KILLIAN SYNDROME; PKS
+Scientific Articles on PubMed
+PubMed
+References
+Kostanecka A, Close LB, Izumi K, Krantz ID, Pipan M. Developmental and
+behavioral characteristics of individuals with Pallister-Killian syndrome. Am J
+Med Genet A. 2012 Dec;158A(12):3018-25. doi: 10.1002/ajmg.a.35670. Epub 2012 Nov
+20.
+Citation on PubMed
+Mathieu M, Piussan C, Thepot F, Gouget A, Lacombe D, Pedespan JM, Serville F,
+Fontan D, Ruffie M, Nivelon-Chevallier A, Amblard F, Chauveau P, Moirot H,
+Chabrolle JP, Croquette MF, Teyssier M, Plauchu H, Pelissier MC, Gilgenkrantz S,
+Turc-Carel C, Turleau C, Prieur M, Le Merrer M, Gonzales M, Journel H, et al.
+Collaborative study of mosaic tetrasomy 12p or Pallister-Killian syndrome
+(nineteen fetuses or children). Ann Genet. 1997;40(1):45-54.
+Citation on PubMed
+Stalker HJ, Gray BA, Bent-Williams A, Zori RT. High cognitive functioning and
+behavioral phenotype in Pallister-Killian syndrome. Am J Med Genet A. 2006 Sep
+15;140(18):1950-4. doi: 10.1002/ajmg.a.31403.
+Citation on PubMed
+Struthers JL, Cuthbert CD, Khalifa MM. Parental origin of the isochromosome
+12p in Pallister-Killian syndrome: molecular analysis of one patient and review
+of the reported cases. Am J Med Genet. 1999 May 21;84(2):111-5.
+Citation on PubMed
+Vogel I, Lyngbye T, Nielsen A, Pedersen S, Hertz JM. Pallister-Killian
+syndrome in a girl with mild developmental delay and mosaicism for hexasomy 12p.
+Am J Med Genet A. 2009 Mar;149A(3):510-4. doi: 10.1002/ajmg.a.32681.
+Citation on PubMed
+Wilkens A, Liu H, Park K, Campbell LB, Jackson M, Kostanecka A, Pipan M, Izumi
+K, Pallister P, Krantz ID. Novel clinical manifestations in Pallister-Killian
+syndrome: comprehensive evaluation of 59 affected individuals and review of
+previously reported cases. Am J Med Genet A. 2012 Dec;158A(12):3002-17. doi:
+10.1002/ajmg.a.35722. Epub 2012 Nov 20.
+Citation on PubMed
+Yeung A, Francis D, Giouzeppos O, Amor DJ. Pallister-Killian syndrome caused
+by mosaicism for a supernumerary ring chromosome 12p. Am J Med Genet A. 2009
+Mar;149A(3):505-9. doi: 10.1002/ajmg.a.32664.
+Citation on PubMed
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Chromosome
+Genetics
+Mosaicism
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

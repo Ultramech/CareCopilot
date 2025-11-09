@@ -1,0 +1,167 @@
+Glycogen storage disease type IX: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Glycogen storage disease type IX
+URL of this page: https://medlineplus.gov/genetics/condition/glycogen-storage-disease-type-ix/
+Glycogen storage disease type IX
+Description
+Glycogen storage disease type IX (also known as GSD IX) is a condition caused by the inability to break down a complex sugar called glycogen. The different forms of the condition can affect glycogen breakdown in liver cells or muscle cells or sometimes both. A lack of glycogen breakdown interferes with the normal function of the affected tissue.
+When GSD IX affects the liver, the signs and symptoms typically begin in early childhood. The initial features are usually an enlarged liver (hepatomegaly) and slow growth. Affected children are often shorter than normal. During prolonged periods without food (fasting), affected individuals may have low blood sugar (hypoglycemia) or elevated levels of ketones in the blood (ketosis). Ketones are molecules produced during the breakdown of fats, which occurs when stored sugars are unavailable. Affected children may have delayed development of motor skills, such as sitting, standing, or walking, and some have mild muscle weakness. Puberty is delayed in some adolescents with GSD IX. In the form of the condition that affects the liver, the signs and symptoms usually improve with age. Typically, individuals catch up developmentally, and adults reach normal height. However, some affected individuals have a buildup of scar tissue (fibrosis) in the liver, which can rarely progress to irreversible liver disease (cirrhosis).
+GSD IX can affect muscle tissue, although this form of the condition is very rare and not well understood. The features of this form of the condition can appear anytime from childhood to adulthood. Affected individuals may experience fatigue, muscle pain, and cramps, especially during exercise (exercise intolerance). Most affected individuals have muscle weakness that worsens over time. GSD IX can cause myoglobinuria, which occurs when muscle tissue breaks down abnormally and releases a protein called myoglobin that is excreted in the urine. Myoglobinuria can cause the urine to be red or brown.
+In a small number of people with GSD IX, the liver and muscles are both affected. These individuals develop a combination of the features described above, although the muscle problems are usually mild.
+Frequency
+GSD IX that affects the liver is estimated to occur in 1 in 100,000 people. The forms of the disease that affect muscles or both muscles and liver are much less common, although the prevalence is unknown.
+Causes
+Mutations in the
+PHKA1
+,
+PHKA2
+,
+PHKB
+, or
+PHKG2
+genes are known to cause GSD IX. These genes provide instructions for making pieces (subunits) of an enzyme called phosphorylase b kinase. The enzyme is made up of 16 subunits, four each of the alpha, beta, gamma, and delta subunits. At least two different versions of phosphorylase b kinase are formed from the subunits: one is most abundant in liver cells and the other in muscle cells.
+The
+PHKA1
+and
+PHKA2
+genes provide instructions for making alpha subunits of phosphorylase b kinase. The protein produced from the
+PHKA1
+gene is a subunit of the muscle enzyme, while the protein produced from the
+PHKA2
+gene is part of the liver enzyme. The
+PHKB
+gene provides instructions for making the beta subunit, which is found in both the muscle and the liver. The
+PHKG2
+gene provides instructions for making the gamma subunit of the liver enzyme.
+Whether in the liver or the muscles, phosphorylase b kinase plays an important role in providing energy for cells. The main source of cellular energy is a simple sugar called glucose. Glucose is stored in muscle and liver cells in a form called glycogen. Glycogen can be broken down rapidly when glucose is needed, for instance to maintain normal levels of glucose in the blood between meals or for energy during exercise. Phosphorylase b kinase turns on (activates) the enzyme that breaks down glycogen.
+Although the effects of gene mutations on the respective protein subunits are unknown, mutations in the
+PHKA1
+,
+PHKA2
+,
+PHKB
+, and
+PHKG2
+genes reduce the activity of phosphorylase b kinase in liver or muscle cells and in blood cells. Reduction of this enzyme's function impairs glycogen breakdown. As a result, glycogen accumulates in and damages cells, and glucose is not available for energy. Glycogen accumulation in the liver leads to hepatomegaly, and the liver's inability to break down glycogen for glucose contributes to hypoglycemia and ketosis. Reduced energy production in muscle cells leads to muscle weakness, pain, and cramping.
+Learn more about the genes associated with Glycogen storage disease type IX
+PHKA1
+PHKA2
+PHKB
+PHKG2
+Inheritance
+GSD IX can have different inheritance patterns depending on the genetic cause of the condition.
+When caused by mutations in the
+PHKA1
+or
+PHKA2
+gene, GSD IX is inherited in an
+X-linked recessive pattern
+. These genes are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. However, some women with one altered copy of the
+PHKA2
+gene have signs and symptoms of GSD IX, such as mild hepatomegaly or short stature in childhood. These features are usually mild but can be more severe in rare cases. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+When the condition is caused by mutations in the
+PHKB
+or
+PHKG2
+gene, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+GSD IX
+GSDIX
+PhK deficiency
+Phosphorylase b kinase deficiency
+Phosphorylase kinase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Glycogen storage disease IXa1
+Genetic Testing Registry: Glycogen storage disease IXb
+Genetic Testing Registry: Glycogen storage disease IXc
+Genetic Testing Registry: Glycogen storage disease IXd
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GLYCOGEN STORAGE DISEASE IXa1; GSD9A1
+GLYCOGEN STORAGE DISEASE IXb; GSD9B
+GLYCOGEN STORAGE DISEASE IXd; GSD9D
+GLYCOGEN STORAGE DISEASE IXc; GSD9C
+Scientific Articles on PubMed
+PubMed
+References
+Beauchamp NJ, Dalton A, Ramaswami U, Niinikoski H, Mention K, Kenny P, Kolho
+KL, Raiman J, Walter J, Treacy E, Tanner S, Sharrard M. Glycogen storage disease
+type IX: High variability in clinical phenotype. Mol Genet Metab. 2007
+Sep-Oct;92(1-2):88-99. doi: 10.1016/j.ymgme.2007.06.007. Epub 2007 Aug 3.
+Citation on PubMed
+Brushia RJ, Walsh DA. Phosphorylase kinase: the complexity of its regulation
+is reflected in the complexity of its structure. Front Biosci. 1999 Sep
+15;4:D618-41. doi: 10.2741/brushia.
+Citation on PubMed
+Burwinkel B, Amat L, Gray RG, Matsuo N, Muroya K, Narisawa K, Sokol RJ,
+Vilaseca MA, Kilimann MW. Variability of biochemical and clinical phenotype in
+X-linked liver glycogenosis with mutations in the phosphorylase kinase PHKA2
+gene. Hum Genet. 1998 Apr;102(4):423-9. doi: 10.1007/s004390050715.
+Citation on PubMed
+Burwinkel B, Maichele AJ, Aagenaes O, Bakker HD, Lerner A, Shin YS, Strachan
+JA, Kilimann MW. Autosomal glycogenosis of liver and muscle due to phosphorylase
+kinase deficiency is caused by mutations in the phosphorylase kinase beta subunit
+(PHKB). Hum Mol Genet. 1997 Jul;6(7):1109-15. doi: 10.1093/hmg/6.7.1109.
+Citation on PubMed
+Burwinkel B, Shiomi S, Al Zaben A, Kilimann MW. Liver glycogenosis due to
+phosphorylase kinase deficiency: PHKG2 gene structure and mutations associated
+with cirrhosis. Hum Mol Genet. 1998 Jan;7(1):149-54. doi: 10.1093/hmg/7.1.149.
+Citation on PubMed
+Herbert M, Goldstein JL, Rehder C, Austin S, Kishnani PS, Bali DS.
+Phosphorylase Kinase Deficiency. 2011 May 31 [updated 2018 Nov 1]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK55061/
+Citation on PubMed
+Wuyts W, Reyniers E, Ceuterick C, Storm K, de Barsy T, Martin JJ. Myopathy and
+phosphorylase kinase deficiency caused by a mutation in the PHKA1 gene. Am J Med
+Genet A. 2005 Feb 15;133A(1):82-4. doi: 10.1002/ajmg.a.30517.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Carbohydrate Metabolism Disorders
+Genetic Disorders
+Liver Diseases
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

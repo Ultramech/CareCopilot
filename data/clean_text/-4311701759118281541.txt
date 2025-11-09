@@ -1,0 +1,151 @@
+Geleophysic dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Geleophysic dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/geleophysic-dysplasia/
+Geleophysic dysplasia
+Description
+Geleophysic dysplasia is an inherited condition that affects many parts of the body. It is characterized by abnormalities involving the bones, joints, heart, and skin.
+People with geleophysic dysplasia have short stature with very short
+hands
+and
+feet
+. Most also develop thickened skin and joint deformities called contractures, both of which significantly limit mobility. Affected individuals usually have a limited range of motion in their fingers, toes, wrists, and elbows. Additionally, contractures in the legs and hips cause many affected people to walk on their toes.
+The name of this condition, which comes from the Greek words for happy ("gelios") and nature ("physis"), is derived from the good-natured facial appearance seen in most affected individuals. The distinctive facial features associated with this condition include a
+round face
+with
+full cheeks
+, a
+small nose
+with upturned nostrils, a
+broad nasal bridge
+, a
+thin upper lip
+,
+upturned corners of the mouth
+, and a
+flat area between the upper lip and the nose (philtrum)
+.
+Geleophysic dysplasia is also characterized by heart (cardiac) problems, particularly abnormalities of the cardiac valves. These valves normally control the flow of blood through the heart. In people with geleophysic dysplasia, the cardiac valves thicken, which impedes blood flow and increases blood pressure in the heart. Other heart problems have also been reported in people with geleophysic dysplasia; these include a narrowing of the artery from the heart to the lungs (pulmonary stenosis) and a hole between the two upper chambers of the heart (
+atrial septal defect
+).
+Other features of geleophysic dysplasia can include an enlarged liver (hepatomegaly) and recurrent respiratory and ear infections. In severe cases, a narrowing of the windpipe (tracheal stenosis) can cause serious breathing problems. As a result of heart and respiratory abnormalities, geleophysic dysplasia is often life-threatening in childhood. However, some affected people have lived into adulthood.
+Frequency
+Geleophysic dysplasia is a rare disorder whose prevalence is unknown. More than 30 affected individuals have been reported.
+Causes
+Geleophysic dysplasia results from mutations in the
+ADAMTSL2
+gene. This gene provides instructions for making a protein whose function is unclear. The protein is found in the extracellular matrix, which is the intricate lattice of proteins and other molecules that forms in the spaces between cells. Studies suggest that the ADAMTSL2 protein may play a role in the microfibrillar network, which is an organized clustering of thread-like filaments (called microfibrils) in the extracellular matrix. This network provides strength and flexibility to tissues throughout the body.
+Mutations in the
+ADAMTSL2
+protein likely change the protein's 3-dimensional structure. Through a process that is poorly understood,
+ADAMTSL2
+gene mutations alter the microfibrillar network in many different tissues. Impairment of this essential network disrupts the normal functions of cells, which likely contributes to the varied signs and symptoms of geleophysic dysplasia. Researchers are working to determine how mutations in the
+ADAMTSL2
+gene lead to short stature, heart disease, and the other features of this condition.
+Learn more about the genes associated with Geleophysic dysplasia
+ADAMTSL2
+FBN1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Geleophysic dwarfism
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Geleophysic dysplasia 2
+Genetic and Rare Diseases Information Center
+Geleophysic dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+GELEOPHYSIC DYSPLASIA 1; GPHYSD1
+GELEOPHYSIC DYSPLASIA 2; GPHYSD2
+Scientific Articles on PubMed
+PubMed
+References
+Giray O, Kyr M, Bora E, Saylam G, Ugurlu B, Gurel D. Clinical and
+morphological phenotype of geleophysic dysplasia. Ann Trop Paediatr. 2008
+Jun;28(2):161-4. doi: 10.1179/146532808X302206.
+Citation on PubMed
+Le Goff C, Morice-Picard F, Dagoneau N, Wang LW, Perrot C, Crow YJ, Bauer F,
+Flori E, Prost-Squarcioni C, Krakow D, Ge G, Greenspan DS, Bonnet D, Le Merrer M,
+Munnich A, Apte SS, Cormier-Daire V. ADAMTSL2 mutations in geleophysic dysplasia
+demonstrate a role for ADAMTS-like proteins in TGF-beta bioavailability
+regulation. Nat Genet. 2008 Sep;40(9):1119-23. doi: 10.1038/ng.199.
+Citation on PubMed
+or
+Free article on PubMed Central
+Marzin P, Cormier-Daire V. Geleophysic Dysplasia. 2009 Sep 22 [updated 2024
+Mar 28]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK11168/
+Citation on PubMed
+Pontz BF, Stoss H, Henschke F, Freisinger P, Karbowski A, Spranger J. Clinical
+and ultrastructural findings in three patients with geleophysic dysplasia. Am J
+Med Genet. 1996 May 3;63(1):50-4. doi:
+10.1002/(SICI)1096-8628(19960503)63:13.0.CO;2-T.
+Citation on PubMed
+Rosser EM, Wilkinson AR, Hurst JA, McGaughran JM, Donnai D. Geleophysic
+dysplasia: a report of three affected boys--prenatal ultrasound does not detect
+recurrence. Am J Med Genet. 1995 Sep 11;58(3):217-21. doi:
+10.1002/ajmg.1320580304.
+Citation on PubMed
+Santolaya JM, Groninga LC, Delgado A, Monasterio JL, Camarero C, Bilbao FJ.
+Patients with geleophysic dysplasia are not always geleophysic. Am J Med Genet.
+1997 Oct 3;72(1):85-90.
+Citation on PubMed
+Scott A, Yeung S, Dickinson DF, Karbani G, Crow YJ. Natural history of cardiac
+involvement in geleophysic dysplasia. Am J Med Genet A. 2005 Jan
+30;132A(3):320-3. doi: 10.1002/ajmg.a.30450.
+Citation on PubMed
+Shohat M, Gruber HE, Pagon RA, Witcoff LJ, Lachman R, Ferry D, Flaum E, Rimoin
+DL. Geleophysic dysplasia: a storage disorder affecting the skin, bone, liver,
+heart, and trachea. J Pediatr. 1990 Aug;117(2 Pt 1):227-32. doi:
+10.1016/s0022-3476(05)80534-7.
+Citation on PubMed
+Wraith JE, Bankier A, Chow CW, Danks DM, Sardharwalla IB. Geleophysic
+dysplasia. Am J Med Genet. 1990 Feb;35(2):153-6. doi: 10.1002/ajmg.1320350202.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Growth Disorders
+Heart Valve Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Short stature
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

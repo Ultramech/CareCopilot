@@ -1,0 +1,149 @@
+MUTYH-associated polyposis : MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+MUTYH-associated polyposis
+URL of this page: https://medlineplus.gov/genetics/condition/mutyh-associated-polyposis/
+MUTYH-associated polyposis
+Description
+MUTYH
+-associated polyposis (MAP) is an inherited disorder that is characterized by a greatly increased risk of cancer of the large intestine (
+colon
+) and rectum (collectively known as colorectal cancer). Most people with MAP develop multiple noncancerous (benign) growths (polyps) in the colon by around age 50 years. Polyps can also occur in the small intestine or the
+stomach
+. Individuals with this condition can develop ten to hundreds of polyps. Without monitoring and prompt follow-up, affected individuals have an 80 to 90 percent risk of developing colorectal cancer in their lifetimes. However, people with MAP who do not have polyps can also develop cancer.
+While colorectal cancer is the most common type of cancer in people with MAP, cancer can develop in other places in the body, including a section of the small intestine known as the
+duodenum
+, the breasts,
+the ovaries
+, the lining of the uterus (
+the endometrium
+), and the bladder. While cancers in other tissues have occurred in people with MAP, it is unclear if the risk for those cancers is higher than the risk for the general population.
+Frequency
+The prevalence of MAP varies from 1 in 20,000 to 1 in 60,000 individuals worldwide. People with MAP account for nearly 1 percent of all people with colorectal cancer.
+Causes
+Variants (also called mutations) in the
+MUTYH
+gene cause MAP. The
+MUTYH
+gene variants that cause MAP are present in all of the body's cells and are known as germline variants. The
+MUTYH
+gene provides instructions for making an enzyme that is involved in the repair of DNA. This enzyme corrects particular errors that are made when DNA is copied (DNA replication) in preparation for cell division.
+The
+building blocks of DNA
+are made up of four chemical bases, each of which pairs with a specific partner to form a unit called a base pair. However, toxic molecules within cells can alter these bases so that they join with the wrong partner. The enzyme produced from the
+MUTYH
+gene is part of the repair process that finds and fixes these errors. Once the altered base pairs are fixed, the enzyme will remove the mismatched partner. This process is known as base excision repair.
+Variants in the
+MUTYH
+gene can cause cells to produce a version of the enzyme that does not function well or at all. As a result, cells are unable to correct DNA mismatch errors. As cells divide, the errors build up in a person's DNA. When these errors occur in genes that control cell growth, cells can grow uncontrollably, which can lead to polyps and the possibility of cancer in people with MAP. For example, the majority of colorectal cancers in people with MAP have a variant in a gene known as
+KRAS
+. This
+KRAS
+gene variant is an acquired variant that is caused by a
+MUTYH
+gene that is not functioning properly.
+Learn more about the gene associated with MUTYH-associated polyposis
+MUTYH
+Inheritance
+MAP is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene. People with only one altered copy of the
+MUTYH
+gene likely have a small increase in their risk of developing colorectal cancer compared to the general population, but whether they have an increased risk of other types of cancer is unclear.
+Other Names for This Condition
+Familial adenomatous polyposis 2
+MUTYH-related attenuated familial adenomatous polyposis
+MYH-associated polyposis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial adenomatous polyposis 2
+Genetic and Rare Diseases Information Center
+MUTYH-related attenuated familial adenomatous polyposis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+FAMILIAL ADENOMATOUS POLYPOSIS 2; FAP2
+Scientific Articles on PubMed
+PubMed
+References
+Kim JC, Bodmer WF. Genotypic and Phenotypic Characteristics of Hereditary
+Colorectal Cancer. Ann Coloproctol. 2021 Dec;37(6):368-381. doi:
+10.3393/ac.2021.00878.0125. Epub 2021 Dec 22.
+Citation on PubMed
+Magrin L, Fanale D, Brando C, Corsini LR, Randazzo U, Di Piazza M, Gurrera V,
+Pedone E, Bazan Russo TD, Vieni S, Pantuso G, Russo A, Bazan V. MUTYH-associated
+tumor syndrome: The other face of MAP. Oncogene. 2022 Apr;41(18):2531-2539. doi:
+10.1038/s41388-022-02304-y. Epub 2022 Apr 14.
+Citation on PubMed
+Mao R, Krautscheid P, Graham RP, Ganguly A, Shankar S, Ferber M, Hegde M; ACMG
+Laboratory Quality Assurance Committee. Genetic testing for inherited colorectal
+cancer and polyposis, 2021 revision: a technical standard of the American College
+of Medical Genetics and Genomics (ACMG). Genet Med. 2021 Oct;23(10):1807-1817.
+doi: 10.1038/s41436-021-01207-9. Epub 2021 Jun 17.
+Citation on PubMed
+Nielsen M, Infante E, Brand R. MUTYH Polyposis. 2012 Oct 4 [updated
+2021 May 27]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK107219/
+Citation on PubMed
+Syngal S, Brand RE, Church JM, Giardiello FM, Hampel HL, Burt RW; American
+College of Gastroenterology. ACG clinical guideline: Genetic testing and
+management of hereditary gastrointestinal cancer syndromes. Am J Gastroenterol.
+2015 Feb;110(2):223-62; quiz 263. doi: 10.1038/ajg.2014.435. Epub 2015 Feb 3.
+Citation on PubMed
+Zaffaroni G, Mannucci A, Koskenvuo L, de Lacy B, Maffioli A, Bisseling T, Half
+E, Cavestro GM, Valle L, Ryan N, Aretz S, Brown K, Buttitta F, Carneiro F, Claber
+O, Blanco-Colino R, Collard M, Crosbie E, Cunha M, Doulias T, Fleming C, Heinrich
+H, Huneburg R, Metras J, Nagtegaal I, Negoi I, Nielsen M, Pellino G,
+Ricciardiello L, Sagir A, Sanchez-Guillen L, Seppala TT, Siersema P, Striebeck B,
+Sampson JR, Latchford A, Parc Y, Burn J, Moslein G. Updated European guidelines
+for clinical management of familial adenomatous polyposis (FAP), MUTYH-associated
+polyposis (MAP), gastric adenocarcinoma, proximal polyposis of the stomach
+(GAPPS) and other rare adenomatous polyposis syndromes: a joint EHTG-ESCP
+revision. Br J Surg. 2024 May 3;111(5):znae070. doi: 10.1093/bjs/znae070.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Colonic Polyps
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Colorectal polyps
+Genetics
+Related Medical Tests
+Colorectal Cancer Screening Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

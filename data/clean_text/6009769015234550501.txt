@@ -1,0 +1,124 @@
+Pseudoachondroplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pseudoachondroplasia
+URL of this page: https://medlineplus.gov/genetics/condition/pseudoachondroplasia/
+Pseudoachondroplasia
+Description
+Pseudo
+achondroplasia
+is an inherited disorder of bone growth. It was once thought to be related to another disorder of bone growth called achondroplasia, but without that disorder's characteristic facial features. More research has demonstrated that pseudoachondroplasia is a separate disorder.
+All people with pseudoachondroplasia have short stature. The average height of adult males with this condition is 120 centimeters (3 feet, 11 inches), and the average height of adult females is 116 centimeters (3 feet, 9 inches). Individuals with pseudoachondroplasia are not unusually short at birth; by the age of two, their growth rate falls below the standard growth curve.
+Other characteristic features of pseudoachondroplasia include short arms and legs; a waddling walk; joint pain in childhood that progresses to a joint disease known as
+osteoarthritis
+; an unusually large range of joint movement (
+hyperextensibility
+) in the hands, knees, and ankles; and a limited range of motion at the elbows and hips. Some people with pseudoachondroplasia have legs that turn outward or inward (valgus or varus deformity). Sometimes, one leg turns outward and the other inward, which is called windswept deformity. Some affected individuals have a spine that curves to the side (
+scoliosis
+) or an abnormally curved lower back (
+lordosis
+). People with pseudoachondroplasia have normal facial features, head size, and intelligence.
+Frequency
+The exact prevalence of pseudoachondroplasia is unknown; it is estimated to occur in 1 in 30,000 individuals.
+Causes
+Mutations in the
+COMP
+gene cause pseudoachondroplasia. This gene provides instructions for making a protein that is essential for the normal development of cartilage and for its conversion to bone. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears.
+The COMP protein is normally found in the spaces between cartilage-forming cells called chondrocytes, where it interacts with other proteins.
+COMP
+gene mutations result in the production of an abnormal COMP protein that cannot be transported out of the cell. The abnormal protein builds up inside the chondrocyte and ultimately leads to early cell death. Early death of the chondrocytes prevents normal bone growth and causes the short stature and bone abnormalities seen in pseudoachondroplasia.
+Learn more about the gene associated with Pseudoachondroplasia
+COMP
+Inheritance
+Pseudoachondroplasia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In some cases, an affected person inherits the mutation from
+one affected parent
+. Most cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+PSACH
+Pseudoachondroplastic dysplasia
+Pseudoachondroplastic spondyloepiphyseal dysplasia syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pseudoachondroplastic spondyloepiphyseal dysplasia syndrome
+Genetic and Rare Diseases Information Center
+Pseudoachondroplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PSEUDOACHONDROPLASIA; PSACH
+Scientific Articles on PubMed
+PubMed
+References
+Briggs MD, Wright MJ. COMP-Related Pseudoachondroplasia. 2004 Aug 20
+[updated 2023 Nov 30]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1487/
+Citation on PubMed
+Cao LH, Wang LB, Wang SS, Ma HW, Ji CY, Luo Y. Identification of novel and
+recurrent mutations in the calcium binding type III repeats of cartilage
+oligomeric matrix protein in patients with pseudoachondroplasia. Genet Mol Res.
+2011 May 24;10(2):955-63. doi: 10.4238/vol10-2gmr1111.
+Citation on PubMed
+Hecht JT, Makitie O, Hayes E, Haynes R, Susic M, Montufar-Solis D, Duke PJ,
+Cole WG. Chondrocyte cell death and intracellular distribution of COMP and type
+IX collagen in the pseudoachondroplasia growth plate. J Orthop Res. 2004
+Jul;22(4):759-67. doi: 10.1016/j.orthres.2003.11.010.
+Citation on PubMed
+Jackson GC, Mittaz-Crettol L, Taylor JA, Mortier GR, Spranger J, Zabel B, Le
+Merrer M, Cormier-Daire V, Hall CM, Offiah A, Wright MJ, Savarirayan R, Nishimura
+G, Ramsden SC, Elles R, Bonafe L, Superti-Furga A, Unger S, Zankl A, Briggs MD.
+Pseudoachondroplasia and multiple epiphyseal dysplasia: a 7-year comprehensive
+analysis of the known disease genes identify novel and recurrent mutations and
+provides an accurate assessment of their relative contribution. Hum Mutat. 2012
+Jan;33(1):144-57. doi: 10.1002/humu.21611. Epub 2011 Oct 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Posey KL, Yang Y, Veerisetty AC, Sharan SK, Hecht JT. Model systems for
+studying skeletal dysplasias caused by TSP-5/COMP mutations. Cell Mol Life Sci.
+2008 Mar;65(5):687-99. doi: 10.1007/s00018-007-7485-0.
+Citation on PubMed
+Related Health Topics
+Dwarfism
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

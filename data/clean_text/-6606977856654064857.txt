@@ -1,0 +1,149 @@
+Cap myopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cap myopathy
+URL of this page: https://medlineplus.gov/genetics/condition/cap-myopathy/
+Cap myopathy
+Description
+Cap myopathy is a disorder that primarily affects skeletal muscles, which are muscles that the body uses for movement. People with cap myopathy have muscle weakness (myopathy) and poor muscle tone (hypotonia) throughout the body, but they are most severely affected in the muscles of the face, neck, and limbs. The muscle weakness, which begins at birth or during childhood, can worsen over time.
+Affected individuals may have feeding and swallowing difficulties in infancy. They typically have delayed development of motor skills such as sitting, crawling, standing, and walking. They may fall frequently, tire easily, and have difficulty running, climbing stairs, or jumping. In some cases, the muscles used for breathing are affected, and life-threatening breathing difficulties can occur.
+People with cap myopathy may have a high arch in the roof of the mouth (
+high-arched palate
+), severely drooping eyelids (
+ptosis
+), and a
+long face
+. Some affected individuals develop an abnormally curved lower back (
+lordosis
+) or a spine that curves to the side (
+scoliosis
+).
+The name cap myopathy comes from characteristic abnormal cap-like structures that can be seen in muscle cells when muscle tissue is viewed under a microscope. The severity of cap myopathy is related to the percentage of muscle cells that have these caps. Individuals in whom 70 to 75 percent of muscle cells have caps typically have severe breathing problems and may not survive childhood, while those in whom 10 to 30 percent of muscle cells have caps have milder symptoms and can live into adulthood.
+Frequency
+Cap myopathy is a rare disorder that has been identified in only a small number of individuals. Its exact prevalence is unknown.
+Causes
+Mutations in the
+ACTA1
+,
+TPM2
+, or
+TPM3
+genes can cause cap myopathy. These genes provide instructions for producing proteins that play important roles in skeletal muscles.
+The
+ACTA1
+gene provides instructions for making a protein called skeletal alpha (α)-actin, which is part of the actin protein family. Actin proteins are important for cell movement and the tensing of muscle fibers (muscle contraction). Thin filaments made up of actin molecules and thick filaments made up of another protein called myosin are the primary components of
+muscle fibers
+and are important for muscle contraction. Attachment (binding) and release of the overlapping thick and thin filaments allows them to move relative to each other so that the muscles can contract. The mutation in the
+ACTA1
+gene that causes cap myopathy results in an abnormal protein that may interfere with the proper assembly of thin filaments. The cap structures in muscle cells characteristic of this disorder are composed of disorganized thin filaments.
+The
+TPM2
+and
+TPM3
+genes provide instructions for making proteins that are members of the tropomyosin protein family.
+Tropomyosin
+proteins regulate muscle contraction by attaching to actin and controlling its binding to myosin. The specific effects of
+TPM2
+and
+TPM3
+gene mutations are unclear, but researchers suggest they may interfere with normal actin-myosin binding between the thin and thick filaments, impairing muscle contraction and resulting in the muscle weakness that occurs in cap myopathy.
+Learn more about the genes associated with Cap myopathy
+ACTA1
+TPM2
+TPM3
+Inheritance
+Cap myopathy is an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases are not inherited; they result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Cap disease
+Congenital myopathy with caps
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Cap myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CONGENITAL MYOPATHY 4B, AUTOSOMAL RECESSIVE; CMYO4B
+CONGENITAL MYOPATHY 23; CMYO23
+Scientific Articles on PubMed
+PubMed
+References
+Clarke NF, Domazetovska A, Waddell L, Kornberg A, McLean C, North KN. Cap
+disease due to mutation of the beta-tropomyosin gene (TPM2). Neuromuscul Disord.
+2009 May;19(5):348-51. doi: 10.1016/j.nmd.2009.03.003. Epub 2009 Apr 3.
+Citation on PubMed
+De Paula AM, Franques J, Fernandez C, Monnier N, Lunardi J, Pellissier JF,
+Figarella-Branger D, Pouget J. A TPM3 mutation causing cap myopathy. Neuromuscul
+Disord. 2009 Oct;19(10):685-8. doi: 10.1016/j.nmd.2009.06.365. Epub 2009 Jun 23.
+Citation on PubMed
+Goebel HH. Cap disease uncapped. Neuromuscul Disord. 2007 Jun;17(6):429-32.
+doi: 10.1016/j.nmd.2007.03.011. Epub 2007 Apr 16. No abstract available.
+Citation on PubMed
+Hung RM, Yoon G, Hawkins CE, Halliday W, Biggar D, Vajsar J. Cap myopathy
+caused by a mutation of the skeletal alpha-actin gene ACTA1. Neuromuscul Disord.
+2010 Apr;20(4):238-40. doi: 10.1016/j.nmd.2010.01.011. Epub 2010 Mar 19.
+Citation on PubMed
+Lehtokari VL, Ceuterick-de Groote C, de Jonghe P, Marttila M, Laing NG, Pelin
+K, Wallgren-Pettersson C. Cap disease caused by heterozygous deletion of the
+beta-tropomyosin gene TPM2. Neuromuscul Disord. 2007 Jun;17(6):433-42. doi:
+10.1016/j.nmd.2007.02.015. Epub 2007 Apr 16.
+Citation on PubMed
+Marttila M, Lemola E, Wallefeld W, Memo M, Donner K, Laing NG, Marston S,
+Gronholm M, Wallgren-Pettersson C. Abnormal actin binding of aberrant
+beta-tropomyosins is a molecular cause of muscle weakness in TPM2-related nemaline
+and cap myopathy. Biochem J. 2012 Feb 15;442(1):231-9. doi: 10.1042/BJ20111030.
+Citation on PubMed
+Ochala J. Thin filament proteins mutations associated with skeletal
+myopathies: defective regulation of muscle contraction. J Mol Med (Berl). 2008
+Nov;86(11):1197-204. doi: 10.1007/s00109-008-0380-9. Epub 2008 Jun 24.
+Citation on PubMed
+Ohlsson M, Quijano-Roy S, Darin N, Brochier G, Lacene E, Avila-Smirnow D,
+Fardeau M, Oldfors A, Tajsharghi H. New morphologic and genetic findings in cap
+disease associated with beta-tropomyosin (TPM2) mutations. Neurology. 2008 Dec
+2;71(23):1896-901. doi: 10.1212/01.wnl.0000336654.44814.b8.
+Citation on PubMed
+Waddell LB, Kreissl M, Kornberg A, Kennedy P, McLean C, Labarre-Vila A,
+Monnier N, North KN, Clarke NF. Evidence for a dominant negative disease
+mechanism in cap myopathy due to TPM3. Neuromuscul Disord. 2010 Jul;20(7):464-6.
+doi: 10.1016/j.nmd.2010.05.012. Epub 2010 Jun 15.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

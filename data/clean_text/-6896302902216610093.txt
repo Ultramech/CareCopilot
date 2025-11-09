@@ -1,0 +1,119 @@
+CLN5 disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+CLN5 disease
+URL of this page: https://medlineplus.gov/genetics/condition/cln5-disease/
+CLN5 disease
+Description
+CLN5 disease is an inherited disorder that primarily affects the nervous system. The signs and symptoms of this condition can begin anytime between childhood and early adulthood, but they typically appear around age 5. Children with CLN5 disease often have normal development until they experience the first signs of the condition, which are usually problems with movement that might seem like clumsiness, and a loss of previously acquired motor skills (developmental regression). Other features of the condition include recurrent seizures that involve uncontrollable muscle jerks (myoclonic epilepsy), difficulty coordinating movements (ataxia), vision loss, speech problems, and a decline in intellectual function. The life expectancy of people with CLN5 disease varies; affected individuals usually survive into adolescence or mid-adulthood.
+CLN5 disease is one of a group of disorders known as neuronal ceroid lipofuscinoses (NCLs), which may also be collectively referred to as Batten disease. All these disorders affect the nervous system and typically cause worsening problems with vision, movement, and thinking ability. The different NCLs are distinguished by their genetic cause. Each disease type is given the designation "CLN," meaning ceroid lipofuscinosis, neuronal, and then a number to indicate its subtype.
+Frequency
+The incidence of CLN5 disease is unknown; more than 85 cases have been described in the scientific literature. CLN5 disease was originally thought to affect only the Finnish population because they were the first individuals to be diagnosed with the condition. However, research has since shown that CLN5 disease affects populations worldwide. NCLs, including CLN5 disease, are still most common in Finland, where approximately 1 in 12,500 individuals are affected. Collectively, all forms of NCL affect an estimated 1 in 100,000 individuals worldwide.
+Causes
+CLN5 disease is caused by mutations in the
+CLN5
+gene, which provides instructions for making a protein whose function is not well understood. After the CLN5 protein is produced, it is transported to cell compartments called
+lysosomes
+, which digest and recycle different types of molecules. Research suggests that the CLN5 protein may play a role in the process by which lysosomes break down or recycle damaged or unneeded proteins within the cell.
+Most of the
+CLN5
+gene mutations alter the structure of the protein so that it cannot get to the lysosomes where it is needed. A lack of functional protein within lysosomes probably impairs the breakdown of certain proteins, which then likely accumulate in cells throughout the body. While these accumulations can damage any cells,
+nerve cells
+appear to be particularly vulnerable. Widespread loss of nerve cells in CLN5 disease leads to severe signs and symptoms and early death.
+In the cases in which CLN5 disease develops in adolescence or adulthood, it is thought that the
+CLN5
+gene mutations lead to a CLN5 protein with reduced function that is broken down earlier than normal. Because the altered CLN5 protein can function for a small amount of time, some damaged or unneeded proteins may be broken down in lysosomes. Since it takes longer for these substances to accumulate and cause
+nerve cell death
+, the signs and symptoms of CLN5 disease in these individuals occur later in life.
+Learn more about the gene associated with CLN5 disease
+CLN5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Finnish variant late infantile neuronal ceroid lipofuscinosis
+Finnish vLINCL
+Jansky-Bielschowsky disease
+Late-infantile neuronal ceroid lipofuscinosis
+Neuronal ceroid lipofuscinosis 5
+Neuronal ceroid lipofuscinosis, late-infantile
+VLINCL
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Neuronal ceroid lipofuscinosis 5
+Genetic and Rare Diseases Information Center
+CLN5 disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CEROID LIPOFUSCINOSIS, NEURONAL, 5; CLN5
+Scientific Articles on PubMed
+PubMed
+References
+De Silva B, Adams J, Lee SY. Proteolytic processing of the neuronal ceroid
+lipofuscinosis related lysosomal protein CLN5. Exp Cell Res. 2015 Oct
+15;338(1):45-53. doi: 10.1016/j.yexcr.2015.08.021. Epub 2015 Sep 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kollmann K, Uusi-Rauva K, Scifo E, Tyynela J, Jalanko A, Braulke T. Cell
+biology and function of neuronal ceroid lipofuscinosis-related proteins. Biochim
+Biophys Acta. 2013 Nov;1832(11):1866-81. doi: 10.1016/j.bbadis.2013.01.019. Epub
+2013 Feb 9.
+Citation on PubMed
+Schmiedt ML, Bessa C, Heine C, Ribeiro MG, Jalanko A, Kyttala A. The neuronal
+ceroid lipofuscinosis protein CLN5: new insights into cellular maturation,
+transport, and consequences of mutations. Hum Mutat. 2010 Mar;31(3):356-65. doi:
+10.1002/humu.21195.
+Citation on PubMed
+Williams RE, Mole SE. New nomenclature and classification scheme for the
+neuronal ceroid lipofuscinoses. Neurology. 2012 Jul 10;79(2):183-91. doi:
+10.1212/WNL.0b013e31825f0547.
+Citation on PubMed
+Xin W, Mullen TE, Kiely R, Min J, Feng X, Cao Y, O'Malley L, Shen Y, Chu-Shore
+C, Mole SE, Goebel HH, Sims K. CLN5 mutations are frequent in juvenile and
+late-onset non-Finnish patients with NCL. Neurology. 2010 Feb 16;74(7):565-71.
+doi: 10.1212/WNL.0b013e3181cff70d.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,120 @@
+Moebius syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Moebius syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/moebius-syndrome/
+Moebius syndrome
+Description
+Moebius syndrome is a rare neurological condition that primarily affects the muscles that control facial expression and eye movement. The signs and symptoms of this condition are present from birth.
+Weakness or paralysis of the facial muscles is one of the most common features of Moebius syndrome. Affected individuals lack facial expressions; they cannot smile, frown, or raise their eyebrows. The muscle weakness also causes problems with feeding that become apparent in early infancy.
+Many people with Moebius syndrome are born with a small chin (
+micrognathia
+) and a small mouth (
+microstomia
+) with a short or unusually shaped tongue. The roof of the mouth may have an abnormal opening (
+cleft palate
+) or be
+high and arched
+. These abnormalities contribute to problems with speech, which occur in many children with Moebius syndrome. Dental abnormalities, including
+missing and misaligned teeth
+, are also common.
+Moebius syndrome also affects muscles that control back-and-forth eye movement. Affected individuals must move their head from side to side to read or follow the movement of objects. People with this disorder have difficulty making eye contact, and their eyes may not look in the same direction (strabismus). Additionally, the eyelids may not close completely when blinking or sleeping, which can result in dry or irritated eyes.
+Other features of Moebius syndrome can include bone abnormalities in the hands and feet, weak muscle tone (hypotonia), and hearing loss. Affected children often experience delayed development of motor skills (such as crawling and walking), although most eventually acquire these skills.
+Some research studies have suggested that children with Moebius syndrome are more likely than unaffected children to have characteristics of autism spectrum disorders, which are a group of conditions characterized by impaired communication and social interaction. However, recent studies have questioned this association. Because people with Moebius syndrome have difficulty with eye contact and speech due to their physical differences, autism spectrum disorders can be difficult to diagnose in these individuals. Moebius syndrome may also be associated with a somewhat increased risk of intellectual disability; however, most affected individuals have normal intelligence.
+Frequency
+The exact incidence of Moebius syndrome is unknown. Researchers estimate that the condition affects 1 in 50,000 to 1 in 500,000 newborns.
+Causes
+The causes of Moebius syndrome are unknown, although the condition probably results from a combination of environmental and genetic factors. Researchers are working to identify and describe specific genes related to this condition. The disorder appears to be associated with changes in particular regions of chromosomes 3, 10, or 13 in some families. Certain medications taken during pregnancy and abuse of drugs such as cocaine may also be risk factors for Moebius syndrome.
+Many of the signs and symptoms of Moebius syndrome result from the absence or underdevelopment of
+cranial nerves VI and VII
+. These nerves, which emerge from
+the brainstem
+at the back of the brain, control back-and-forth eye movement and facial expressions. The disorder can also affect other cranial nerves that are important for speech, chewing, and swallowing. Abnormal development of cranial nerves leads to the facial muscle weakness or paralysis that is characteristic of Moebius syndrome.
+Researchers speculate that Moebius syndrome may result from changes in blood flow to the brainstem during early stages of embryonic development. However, it is unclear what causes these changes to occur and why they specifically disrupt the development of cranial nerves VI and VII. Even less is known about the causes of some other signs and symptoms of this condition, including hand and foot abnormalities.
+Inheritance
+Most cases of Moebius syndrome are sporadic, which means they occur in people with no history of the disorder in their family. A small percentage of all cases have been reported to run in families; however, the condition does not have a single clear pattern of inheritance.
+Other Names for This Condition
+Congenital facial diplegia
+Congenital ophthalmoplegia and facial paresis
+Mobius syndrome
+Moebius congenital oculofacial paralysis
+Moebius sequence
+Moebius spectrum
+Möbius sequence
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Oromandibular-limb hypogenesis spectrum
+Genetic and Rare Diseases Information Center
+Moebius syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MOEBIUS SYNDROME; MBS
+Scientific Articles on PubMed
+PubMed
+References
+Briegel W, Schimek M, Kamp-Becker I. Moebius sequence and autism spectrum
+disorders--less frequently associated than formerly thought. Res Dev Disabil.
+2010 Nov-Dec;31(6):1462-6. doi: 10.1016/j.ridd.2010.06.012.
+Citation on PubMed
+Briegel W, Schimek M, Knapp D, Holderbach R, Wenzel P, Knapp EM. Cognitive
+evaluation in children and adolescents with Mobius sequence. Child Care Health
+Dev. 2009 Sep;35(5):650-5. doi: 10.1111/j.1365-2214.2009.00943.x. Epub 2009 Feb
+23.
+Citation on PubMed
+Briegel W. Neuropsychiatric findings of Mobius sequence -- a review. Clin
+Genet. 2006 Aug;70(2):91-7. doi: 10.1111/j.1399-0004.2006.00649.x.
+Citation on PubMed
+Broussard AB, Borazjani JG. The faces of Moebius syndrome: recognition and
+anticipatory guidance. MCN Am J Matern Child Nurs. 2008 Sep-Oct;33(5):272-8; quiz
+279-80. doi: 10.1097/01.NMC.0000334892.45979.d5.
+Citation on PubMed
+Children's Craniofacial Association: A Guide to Understanding Moebius Syndrome
+Verzijl HT, Padberg GW, Zwarts MJ. The spectrum of Mobius syndrome: an
+electrophysiological study. Brain. 2005 Jul;128(Pt 7):1728-36. doi:
+10.1093/brain/awh502. Epub 2005 Apr 13.
+Citation on PubMed
+Verzijl HT, van der Zwaag B, Cruysberg JR, Padberg GW. Mobius syndrome
+redefined: a syndrome of rhombencephalic maldevelopment. Neurology. 2003 Aug
+12;61(3):327-33. doi: 10.1212/01.wnl.0000076484.91275.cd.
+Citation on PubMed
+Related Health Topics
+Facial Injuries and Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

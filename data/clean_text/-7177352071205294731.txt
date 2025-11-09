@@ -1,0 +1,135 @@
+Isobutyryl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Isobutyryl-CoA dehydrogenase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/isobutyryl-coa-dehydrogenase-deficiency/
+Isobutyryl-CoA dehydrogenase deficiency
+Description
+Isobutyryl-CoA dehydrogenase (IBD) deficiency is a condition that disrupts the breakdown of certain proteins. Normally, proteins from food are broken down into amino acids. Amino acids can be further processed to provide energy for growth and development. People with IBD deficiency have problems breaking down the amino acid valine.
+Most people with IBD deficiency are asymptomatic, which means that they do not have any signs or symptoms of the condition. If signs or symptoms do appear, they typically show early in life and only last for a short period of time. These signs and symptoms can include weak muscle tone (hypotonia), developmental delays, slow growth, a low number of red blood cells (
+anemia
+), and seizures. Because IBD deficiency is rare and often does not cause signs and symptoms, it is difficult to know if the health problems seen in affected individuals are caused by this condition or if those health problems are unrelated to the condition. It is also unclear whether IBD deficiency causes health problems later in life.
+Newborn screening, which identifies abnormal levels of certain compounds in the blood, can detect IBD deficiency. People with IBD deficiency have high levels of a compound called carnitine (specifically a form called C4-acylcarnitine). Cells use carnitine, a natural substance that is acquired mostly through the diet, to process fats and produce energy.
+Frequency
+IBD deficiency is a rare disorder. Worldwide, the prevalence of this disorder is estimated to vary from 1 in 52,000 to 292,000 people.
+Causes
+Variants (also called mutations) in the
+ACAD8
+gene cause IBD deficiency. This gene provides instructions for making the IBD enzyme. This enzyme is found in mitochondria, which are the energy producing centers inside cells. Within mitochondria, the IBD enzyme is involved in breaking down valine. Specifically, this enzyme functions in the third step of this process, which converts the molecule isobutyryl-CoA to the molecule methacrylyl-CoA. This is a critical step in the process of converting the energy from food into a form that cells can use.
+ACAD8
+gene variants reduce or eliminate the activity of the IBD enzyme. As a result, valine cannot be broken down properly. This may lead to reduced energy production and cause the features of IBD deficiency in some people.
+Learn more about the gene associated with Isobutyryl-CoA dehydrogenase deficiency
+ACAD8
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ACAD8 deficiency
+IBD deficiency
+Isobutyryl-CoA dehydrogenase deficiency
+Isobutyryl-coenzyme A dehydrogenase deficiency
+Isobutyrylglycinuria
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deficiency of isobutyryl-CoA dehydrogenase
+Genetic and Rare Diseases Information Center
+Isobutyryl-CoA dehydrogenase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ISOBUTYRYL-CoA DEHYDROGENASE DEFICIENCY; IBDD
+Scientific Articles on PubMed
+PubMed
+References
+Feng J, Yang C, Zhu L, Zhang Y, Zhao X, Chen C, Chen QX, Shu Q, Jiang P, Tong
+F. Phenotype, genotype and long-term prognosis of 40 Chinese patients with
+isobutyryl-CoA dehydrogenase deficiency and a review of variant spectra in ACAD8.
+Orphanet J Rare Dis. 2021 Sep 20;16(1):392. doi: 10.1186/s13023-021-02018-6.
+Citation on PubMed
+Koeberl DD, Young SP, Gregersen NS, Vockley J, Smith WE, Benjamin DK Jr, An Y,
+Weavil SD, Chaing SH, Bali D, McDonald MT, Kishnani PS, Chen YT, Millington DS.
+Rare disorders of metabolism with elevated butyryl- and isobutyryl-carnitine
+detected by tandem mass spectrometry newborn screening. Pediatr Res. 2003
+Aug;54(2):219-23. doi: 10.1203/01.PDR.0000074972.36356.89. Epub 2003 May 7.
+Citation on PubMed
+Lin Y, Peng W, Jiang M, Lin C, Lin W, Zheng Z, Li M, Fu Q. Clinical,
+biochemical and genetic analysis of Chinese patients with isobutyryl-CoA
+dehydrogenase deficiency. Clin Chim Acta. 2018 Dec;487:133-138. doi:
+10.1016/j.cca.2018.09.033. Epub 2018 Sep 22.
+Citation on PubMed
+Nguyen TV, Andresen BS, Corydon TJ, Ghisla S, Abd-El Razik N, Mohsen AW,
+Cederbaum SD, Roe DS, Roe CR, Lench NJ, Vockley J. Identification of
+isobutyryl-CoA dehydrogenase and its deficiency in humans. Mol Genet Metab. 2002
+Sep-Oct;77(1-2):68-79. doi: 10.1016/s1096-7192(02)00152-x.
+Citation on PubMed
+Oglesbee D, He M, Majumder N, Vockley J, Ahmad A, Angle B, Burton B, Charrow
+J, Ensenauer R, Ficicioglu CH, Keppen LD, Marsden D, Tortorelli S, Hahn SH,
+Matern D. Development of a newborn screening follow-up algorithm for the
+diagnosis of isobutyryl-CoA dehydrogenase deficiency. Genet Med. 2007
+Feb;9(2):108-16. doi: 10.1097/gim.0b013e31802f78d6.
+Citation on PubMed
+Pedersen CB, Bischoff C, Christensen E, Simonsen H, Lund AM, Young SP, Koeberl
+DD, Millington DS, Roe CR, Roe DS, Wanders RJ, Ruiter JP, Keppen LD, Stein Q,
+Knudsen I, Gregersen N, Andresen BS. Variations in IBD (ACAD8) in children with
+elevated C4-carnitine detected by tandem mass spectrometry newborn screening.
+Pediatr Res. 2006 Sep;60(3):315-20. doi: 10.1203/01.pdr.0000233085.72522.04. Epub
+2006 Jul 20.
+Citation on PubMed
+Roe CR, Cederbaum SD, Roe DS, Mardach R, Galindo A, Sweetman L. Isolated
+isobutyryl-CoA dehydrogenase deficiency: an unrecognized defect in human valine
+metabolism. Mol Genet Metab. 1998 Dec;65(4):264-71. doi: 10.1006/mgme.1998.2758.
+Citation on PubMed
+Yoo EH, Cho HJ, Ki CS, Lee SY. Isobutyryl-CoA dehydrogenase deficiency with a
+novel ACAD8 gene mutation detected by tandem mass spectrometry newborn screening.
+Clin Chem Lab Med. 2007;45(11):1495-7. doi: 10.1515/CCLM.2007.317.
+Citation on PubMed
+Zhang Z, Sun Y, Wang YY, Ma DY, Wang X, Cheng W, Jiang T. Retrospective
+analysis of isobutyryl CoA dehydrogenase deficiency. Minerva Pediatr (Torino).
+2024 Oct;76(5):645-651. doi: 10.23736/S2724-5276.21.06179-6. Epub 2021 Oct 14.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Cardiomyopathy
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Anemia
+Dilated cardiomyopathy
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

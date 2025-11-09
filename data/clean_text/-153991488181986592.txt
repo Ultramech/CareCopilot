@@ -1,0 +1,178 @@
+Triple A syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Triple A syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/triple-a-syndrome/
+Triple A syndrome
+Description
+Triple A syndrome, also called Allgrove syndrome, is an inherited condition that gets its name from three specific features: achalasia, adrenal insufficiency, and alacrima. Most people with triple A syndrome have all three of these features, although some have only two.
+Achalasia is a disorder that affects the ability to move food through the
+esophagus
+, the tube that connects the throat to the stomach. Achalasia can lead to severe feeding difficulties, vomiting, and weight loss. Signs and symptoms of achalasia can appear at any time between the ages of 6 months and late adolescence.
+Adrenal insufficiency occurs when the small hormone-producing glands on top of each kidney (
+adrenal glands
+) do not produce enough hormones. Features of adrenal insufficiency can include fatigue, loss of appetite, weight loss, low blood pressure, low blood glucose (hypoglycemia), and seizures.
+The third major feature of triple A syndrome is alacrima. Tear secretion is reduced or completely absent in people with alacrima. This feature is often the first noticeable sign of triple A syndrome in affected infants.
+Approximately one-third of all people with triple A syndrome also have dysfunction of the autonomic nervous system (dysautonomia). The autonomic nervous system regulates involuntary bodily processes, including digestion, blood pressure, and body temperature. People with triple A syndrome may experience abnormal sweating, changes in the production of saliva, difficulty regulating blood pressure and heart rate, unequal
+pupil
+size (anisocoria), and other problems.
+Additional features of triple A syndrome can include cognitive abilities that decline over time. Affected individuals may also have muscle weakness, difficulty coordinating movements (ataxia), speech problems (dysarthria), short stature, and a small head size (
+microcephaly
+). Adults with triple A syndrome often have brittle bones that are prone to fracture (osteoporosis). Optic atrophy, which is the degeneration (atrophy) of the nerves that carry information from the eyes to the brain, has also been found in affected individuals.
+People with triple A syndrome may develop skin abnormalities, such as darkening of the skin and thickening of the outer layer of the skin (hyperkeratosis) on the palms of the hands and the soles of the feet.
+The symptoms of triple A syndrome typically develop gradually over a period of several years and can vary widely, even among members of the same family.
+Frequency
+Triple A syndrome is a rare condition; it is estimated to affect 1 in 1 million individuals. However, it is likely that many people with this condition never receive a diagnosis.
+Causes
+Variants (also called mutations) in the
+AAAS
+gene cause triple A syndrome. This gene provides instructions for making a protein called ALADIN. ALADIN appears to be very active in the cells of the adrenal glands, brain, and digestive system. ALADIN is located in the nuclear envelope, which is the structure that surrounds the nucleus and separates it from the rest of the cell. ALADIN helps determine which molecules can enter and exit the nucleus.
+The variants in the
+AAAS
+gene that are associated with triple A syndrome cause cells to produce a version of ALADIN that does not function properly. Researchers suspect that this change disrupts the communication and movement of molecules between the nucleus and the rest of the cell, which disrupts cellular processes such as growth, maturation, and repair. Exactly how variants in the
+AAAS
+gene lead to the specific signs and symptoms seen in people with triple A syndrome is unclear.
+Some individuals with triple A syndrome do not appear to have a variant in the
+AAAS
+gene. In rare cases, variants in other genes have been found to cause signs and symptoms that are similar to those seen in people with triple A syndrome. Researchers are working to determine whether these gene variants cause triple A syndrome or a related condition.
+Learn more about the gene associated with Triple A syndrome
+AAAS
+Additional Information from NCBI Gene:
+GMPPA
+TRAPPC11
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+2A syndrome
+3A syndrome
+4A syndrome
+AAA
+AAA syndrome
+Achalasia-addisonianism-alacrima syndrome
+Achalasia-alacrima syndrome
+Adrenal insufficiency-achalasia-alacrima syndrome
+Allgrove syndrome
+Double A syndrome
+Quarternary A syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Glucocorticoid deficiency with achalasia
+Genetic and Rare Diseases Information Center
+Triple A syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ACHALASIA-ADDISONIANISM-ALACRIMA SYNDROME; AAAS
+Scientific Articles on PubMed
+PubMed
+References
+Brooks BP, Kleta R, Stuart C, Tuchman M, Jeong A, Stergiopoulos SG, Bei T,
+Bjornson B, Russell L, Chanoine JP, Tsagarakis S, Kalsner L, Stratakis C.
+Genotypic heterogeneity and clinical phenotype in triple A syndrome: a review of
+the NIH experience 2000-2005. Clin Genet. 2005 Sep;68(3):215-21. doi:
+10.1111/j.1399-0004.2005.00482.x.
+Citation on PubMed
+Dumic M, Putarek NR, Kusec V, Barisic N, Koehler K, Huebner A. Low bone
+mineral density for age/osteoporosis in triple A syndrome-an overlooked symptom
+of unexplained etiology. Osteoporos Int. 2016 Feb;27(2):521-6. doi:
+10.1007/s00198-015-3265-0. Epub 2015 Aug 5.
+Citation on PubMed
+Flokas ME, Tomani M, Agdere L, Brown B. Triple A syndrome (Allgrove syndrome):
+improving outcomes with a multidisciplinary approach. Pediatric Health Med Ther.
+2019 Aug 29;10:99-106. doi: 10.2147/PHMT.S173081. eCollection 2019.
+Citation on PubMed
+Gold WA, Sobreira N, Wiame E, Marbaix A, Van Schaftingen E, Franzka P, Riley
+LG, Worgan L, Hubner CA, Christodoulou J, Ades LC. A novel mutation in GMPPA in
+siblings with apparent intellectual disability, epilepsy, dysmorphism, and
+autonomic dysfunction. Am J Med Genet A. 2017 Aug;173(8):2246-2250. doi:
+10.1002/ajmg.a.38292. Epub 2017 Jun 2.
+Citation on PubMed
+Handschug K, Sperling S, Yoon SJ, Hennig S, Clark AJ, Huebner A. Triple A
+syndrome is caused by mutations in AAAS, a new WD-repeat protein gene. Hum Mol
+Genet. 2001 Feb 1;10(3):283-90. doi: 10.1093/hmg/10.3.283.
+Citation on PubMed
+Kind B, Koehler K, Lorenz M, Huebner A. The nuclear pore complex protein
+ALADIN is anchored via NDC1 but not via POM121 and GP210 in the nuclear envelope.
+Biochem Biophys Res Commun. 2009 Dec 11;390(2):205-10. doi:
+10.1016/j.bbrc.2009.09.080. Epub 2009 Sep 24.
+Citation on PubMed
+Kiriyama T, Hirano M, Asai H, Ikeda M, Furiya Y, Ueno S. Restoration of
+nuclear-import failure caused by triple A syndrome and oxidative stress. Biochem
+Biophys Res Commun. 2008 Oct 3;374(4):631-4. doi: 10.1016/j.bbrc.2008.07.088.
+Epub 2008 Jul 26.
+Citation on PubMed
+Koehler K, Milev MP, Prematilake K, Reschke F, Kutzner S, Juhlen R, Landgraf
+D, Utine E, Hazan F, Diniz G, Schuelke M, Huebner A, Sacher M. A novel
+TRAPPC11 mutation in two Turkish families associated with cerebral
+atrophy, global retardation, scoliosis, achalasia and alacrima. J Med Genet. 2017
+Mar;54(3):176-185. doi: 10.1136/jmedgenet-2016-104108. Epub 2016 Oct 5.
+Citation on PubMed
+Krumbholz M, Koehler K, Huebner A. Cellular localization of 17 natural mutant
+variants of ALADIN protein in triple A syndrome - shedding light on an unexpected
+splice mutation. Biochem Cell Biol. 2006 Apr;84(2):243-9. doi: 10.1139/o05-198.
+Citation on PubMed
+Prpic I, Huebner A, Persic M, Handschug K, Pavletic M. Triple A syndrome:
+genotype-phenotype assessment. Clin Genet. 2003 May;63(5):415-7. doi:
+10.1034/j.1399-0004.2003.00070.x.
+Citation on PubMed
+Sheikh MM, Bittar K. Allgrove Syndrome. 2023 Aug 8. In: StatPearls [Internet].
+Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK560701/
+Citation on PubMed
+Storr HL, Kind B, Parfitt DA, Chapple JP, Lorenz M, Koehler K, Huebner A,
+Clark AJ. Deficiency of ferritin heavy-chain nuclear import in triple a syndrome
+implies nuclear oxidative damage as the primary disease mechanism. Mol
+Endocrinol. 2009 Dec;23(12):2086-94. doi: 10.1210/me.2009-0056. Epub 2009 Oct 23.
+Citation on PubMed
+Tullio-Pelet A, Salomon R, Hadj-Rabia S, Mugnier C, de Laet MH, Chaouachi B,
+Bakiri F, Brottier P, Cattolico L, Penet C, Begeot M, Naville D, Nicolino M,
+Chaussain JL, Weissenbach J, Munnich A, Lyonnet S. Mutant WD-repeat protein in
+triple-A syndrome. Nat Genet. 2000 Nov;26(3):332-5. doi: 10.1038/81642.
+Citation on PubMed
+Related Health Topics
+Autonomic Nervous System Disorders
+Esophagus Disorders
+Genetic Disorders
+Peripheral Nerve Disorders
+Tears
+MEDICAL ENCYCLOPEDIA
+Achalasia
+Anisocoria
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

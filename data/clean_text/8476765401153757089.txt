@@ -1,0 +1,115 @@
+Yao syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Yao syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/yao-syndrome/
+Yao syndrome
+Description
+Yao syndrome (formerly called
+NOD2
+-associated autoinflammatory disease) is a disorder involving episodes of fever and abnormal inflammation affecting many parts of the body, particularly the skin, joints, and gastrointestinal system. Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). In people with Yao syndrome, part of the immune system called the innate immune response is turned on (activated) abnormally, which causes fevers and inflammation-related damage to tissues and organs. Based on this process, Yao syndrome is classified as an autoinflammatory disease. Autoinflammatory diseases are distinct from autoimmune diseases; these two groups of diseases involve abnormalities in different parts of the immune system.
+The episodes of fever and inflammation associated with Yao syndrome can last for several days and occur weeks to months apart. During these episodes, most affected individuals develop reddened, inflamed areas on the skin called erythematous patches or plaques. This reddening occurs most commonly on the face, chest, and back but can also affect the arms and legs. Episodes of joint pain and inflammation similar to arthritis are common, particularly in the legs, as is swelling of the ankles and feet. Inflammation also affects the gastrointestinal system, causing attacks of abdominal pain, bloating, and cramping with diarrhea in more than half of affected individuals. Dry eyes and dry mouth (described as "sicca-like" symptoms, which refers to dryness) are reported in about half of people with this disease. Other potential signs and symptoms of Yao syndrome include mouth sores, chest pain, and enlargement of various glands.
+Yao syndrome is usually diagnosed in adulthood. It is a long-lasting (chronic) disease, and episodes can recur for many years.
+Frequency
+Yao syndrome has an estimated prevalence of 1 in 10,000 to 1 in 100,000 people worldwide. Studies suggest that it is among the most common systemic (affecting the whole body) autoinflammatory diseases in adults. For unknown reasons, Yao syndrome appears to affect women more frequently than men.
+Causes
+The causes of Yao syndrome are complex. This condition likely results from a combination of genetic and environmental factors, many of which are unknown.
+Certain variations in the
+NOD2
+gene increase the risk of developing Yao syndrome. The NOD2 protein plays several essential roles in the immune system's response to foreign invaders, including inflammatory reactions. Studies suggest that most people with Yao syndrome have at least one variation in the
+NOD2
+gene, and some have two or more. It is unclear what effect these variations have on the amount or function of the NOD2 protein, or how they might contribute to abnormal inflammation in people with Yao syndrome. Researchers suspect that environmental factors such as infections may also play a role in triggering the disease in people with genetic variants that increase their risk.
+Learn more about the gene associated with Yao syndrome
+NOD2
+Inheritance
+Because Yao syndrome appears to be a complex disease without a single genetic cause, it does not have a straightforward pattern of inheritance. A small percentage of affected individuals have a family history of the disease. Many people who have one or more of the
+NOD2
+gene variants associated with Yao syndrome never develop the disease.
+Other Names for This Condition
+NAID
+NOD2-associated AID
+NOD2-associated autoinflammatory disease
+YAOS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Yao syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+YAO SYNDROME; YAOS
+Scientific Articles on PubMed
+PubMed
+References
+Estephan M, Yao Q, Springer J. Case of NOD2-Associated Autoinflammatory
+Disease Successfully Treated With Sulfasalazine. J Clin Rheumatol. 2017
+Jan;23(1):58-59. doi: 10.1097/RHU.0000000000000468. No abstract available.
+Citation on PubMed
+Yao Q, Lacbawan F, Li J. Adult autoinflammatory disease frequency and our
+diagnostic experience in an adult autoinflammatory clinic. Semin Arthritis Rheum.
+2016 Apr;45(5):633-7. doi: 10.1016/j.semarthrit.2015.10.012. Epub 2015 Oct 29.
+Citation on PubMed
+Yao Q, Myles J, Shen B, McDonald C. NOD2-associated autoinflammatory disease:
+an exploratory study of its pathogenesis. Rheumatology (Oxford). 2014
+May;53(5):958-60. doi: 10.1093/rheumatology/ket384. Epub 2013 Nov 19. No abstract
+available.
+Citation on PubMed
+Yao Q, Shen B. A Systematic Analysis of Treatment and Outcomes of
+NOD2-Associated Autoinflammatory Disease. Am J Med. 2017
+Mar;130(3):365.e13-365.e18. doi: 10.1016/j.amjmed.2016.09.028. Epub 2016 Oct 28.
+Citation on PubMed
+Yao Q, Shen M, McDonald C, Lacbawan F, Moran R, Shen B. NOD2-associated
+autoinflammatory disease: a large cohort study. Rheumatology (Oxford). 2015
+Oct;54(10):1904-12. doi: 10.1093/rheumatology/kev207. Epub 2015 Jun 11.
+Citation on PubMed
+Yao Q, Su LC, Tomecki KJ, Zhou L, Jayakar B, Shen B. Dermatitis as a
+characteristic phenotype of a new autoinflammatory disease associated with NOD2
+mutations. J Am Acad Dermatol. 2013 Apr;68(4):624-631. doi:
+10.1016/j.jaad.2012.09.025. Epub 2012 Oct 24.
+Citation on PubMed
+Yao Q, Zhou L, Cusumano P, Bose N, Piliang M, Jayakar B, Su LC, Shen B. A new
+category of autoinflammatory disease associated with NOD2 gene mutations.
+Arthritis Res Ther. 2011;13(5):R148. doi: 10.1186/ar3462. Epub 2011 Sep 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Fever
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

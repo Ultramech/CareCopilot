@@ -1,0 +1,130 @@
+Arts syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Arts syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/arts-syndrome/
+Arts syndrome
+Description
+Arts syndrome is a disorder that causes serious neurological problems in males. Females can also be affected by this condition, but they typically have much milder symptoms.
+Boys with Arts syndrome have profound sensorineural hearing loss, which is a complete or almost complete loss of hearing caused by abnormalities in the
+inner ear
+. Other features of the disorder include weak muscle tone (hypotonia), impaired muscle coordination (ataxia), developmental delay, and intellectual disability. In early childhood, affected boys develop vision loss caused by degeneration of nerves that carry information from the eyes to the brain (optic nerve atrophy). They also experience loss of sensation and weakness in the limbs (peripheral neuropathy).
+Boys with Arts syndrome also usually have recurrent infections, especially involving the respiratory system. Because of these infections and their complications, affected boys often do not survive past early childhood.
+In females with Arts syndrome, hearing loss that begins in adulthood may be the only symptom.
+Frequency
+Arts syndrome appears to be extremely rare. Only a few families with this disorder have been described in the medical literature.
+Causes
+Mutations in the
+PRPS1
+gene cause Arts syndrome. The
+PRPS1
+gene provides instructions for making an enzyme called phosphoribosyl pyrophosphate synthetase 1, or PRPP synthetase 1. This enzyme is involved in producing purines and pyrimidines, which are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell.
+The
+PRPS1
+gene mutations that cause Arts syndrome replace single protein building blocks (
+amino acids
+) in the PRPP synthetase 1 enzyme. The resulting enzyme is probably unstable, reducing or eliminating its ability to perform its function. The disruption of purine and pyrimidine production may impair energy storage and transport in cells. Impairment of these processes may have a particularly severe effect on tissues that require a large amount of energy, such as the nervous system, resulting in the neurological problems characteristic of Arts syndrome. The reason for the increased risk of respiratory infections in Arts syndrome is unclear.
+Learn more about the gene associated with Arts syndrome
+PRPS1
+Inheritance
+This condition is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two
+sex chromosomes.
+In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell sometimes causes features of the disorder; in other cases, these females do not experience any symptoms.
+In the small number of Arts syndrome cases that have been identified, affected individuals have inherited the mutation from a mother who carries an altered copy of the
+PRPS1
+gene.
+Other Names for This Condition
+Ataxia, fatal X-linked, with deafness and loss of vision
+Ataxia-deafness-optic atrophy, lethal
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Arts syndrome
+Genetic and Rare Diseases Information Center
+Lethal ataxia with deafness and optic atrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ARTS SYNDROME; ARTS
+Scientific Articles on PubMed
+PubMed
+References
+Arts WF, Loonen MC, Sengers RC, Slooff JL. X-linked ataxia, weakness,
+deafness, and loss of vision in early childhood with a fatal course. Ann Neurol.
+1993 May;33(5):535-9. doi: 10.1002/ana.410330519.
+Citation on PubMed
+de Brouwer AP, van Bokhoven H, Nabuurs SB, Arts WF, Christodoulou J, Duley J.
+PRPS1 mutations: four distinct syndromes and potential treatment. Am J Hum Genet.
+2010 Apr 9;86(4):506-18. doi: 10.1016/j.ajhg.2010.02.024.
+Citation on PubMed
+or
+Free article on PubMed Central
+de Brouwer AP, Williams KL, Duley JA, van Kuilenburg AB, Nabuurs SB,
+Egmont-Petersen M, Lugtenberg D, Zoetekouw L, Banning MJ, Roeffen M, Hamel BC,
+Weaving L, Ouvrier RA, Donald JA, Wevers RA, Christodoulou J, van Bokhoven H.
+Arts syndrome is caused by loss-of-function mutations in PRPS1. Am J Hum Genet.
+2007 Sep;81(3):507-18. doi: 10.1086/520706. Epub 2007 Aug 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+de Brouwer APM, Christodoulou J. Phosphoribosylpyrophosphate Synthetase
+Deficiency. 2008 Oct 21 [updated 2023 Jun 8]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK2591/
+Citation on PubMed
+Kremer H, Hamel BC, van den Helm B, Arts WF, de Wijs IJ, Sistermans EA, Ropers
+HH, Mariman EC. Localization of the gene (or genes) for a syndrome with X-linked
+mental retardation, ataxia, weakness, hearing impairment, loss of vision and a
+fatal course in early childhood. Hum Genet. 1996 Nov;98(5):513-7. doi:
+10.1007/s004390050250.
+Citation on PubMed
+Liu XZ, Xie D, Yuan HJ, de Brouwer AP, Christodoulou J, Yan D. Hearing loss
+and PRPS1 mutations: Wide spectrum of phenotypes and potential therapy. Int J
+Audiol. 2013 Jan;52(1):23-8. doi: 10.3109/14992027.2012.736032. Epub 2012 Nov 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+Optic Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hearing loss
+Movement - uncoordinated
+Optic nerve atrophy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

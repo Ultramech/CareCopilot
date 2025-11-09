@@ -1,0 +1,161 @@
+Sézary syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Sézary syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/sezary-syndrome/
+Sézary syndrome
+Description
+Sézary syndrome is an aggressive form of a type of blood cancer called cutaneous T-cell lymphoma. Cutaneous T-cell lymphomas occur when certain white blood cells, called T cells, become cancerous; these cancers characteristically affect the skin, causing different types of skin lesions. In Sézary syndrome, the cancerous T cells, called Sézary cells, are present in the blood, skin, and lymph nodes. A characteristic of Sézary cells is an abnormally shaped nucleus, described as cerebriform.
+People with Sézary syndrome develop a red, severely itchy rash (erythroderma) that covers large portions of their body. Sézary cells are found in the rash. However, the skin cells themselves are not cancerous; the skin problems result when Sézary cells move from the blood into the skin. People with Sézary syndrome also have enlarged lymph nodes (lymphadenopathy). Other common signs and symptoms of this condition include hair loss (
+alopecia
+), skin swelling (
+edema
+), thickened skin on the palms of the hands and soles of the feet (palmoplantar keratoderma), abnormalities of the fingernails and toenails, and lower eyelids that turn outward (
+ectropion
+). Some people with Sézary syndrome are less able to control their body temperature than people without the condition.
+The cancerous T cells can spread to other organs in the body, including
+the lymph nodes
+,
+liver
+, spleen, and
+bone marrow
+. In addition, affected individuals have an increased risk of developing another lymphoma or other type of cancer.
+Sézary syndrome most often occurs in adults over age 60 and usually progresses rapidly; historically, affected individuals survived an average of 2 to 4 years after development of the condition, although survival has improved with newer treatments.
+Although Sézary syndrome is sometimes referred to as a variant of another cutaneous T-cell lymphoma called
+mycosis fungoides
+, these two cancers are generally considered separate conditions.
+Frequency
+Sézary syndrome is a rare condition, although its prevalence is unknown. It is the second most common form of cutaneous T-cell lymphoma after mycosis fungoides, accounting for approximately 3 to 5 percent of cases of cutaneous T-cell lymphoma.
+Causes
+The cause of Sézary syndrome is unknown. Most affected individuals have one or more chromosomal abnormalities, such as the loss or gain of genetic material. These abnormalities occur during a person's lifetime and are found only in the DNA of cancerous cells. Abnormalities have been found on most chromosomes, but some regions are more commonly affected than others. People with this condition tend to have losses of DNA from regions of chromosomes 10 and 17 or additions of DNA to regions of chromosomes 8 and 17. It is unclear whether these alterations play a role in Sézary syndrome, although the tendency to acquire chromosomal abnormalities (chromosomal instability) is a feature of many cancers. It can lead to genetic changes that allow cells to grow and divide uncontrollably.
+Inheritance
+The inheritance pattern of Sézary syndrome has not been determined. This condition occurs in people with no history of the disorder in their family and is not thought to be inherited in most cases.
+Other Names for This Condition
+Sezary erythroderma
+Sezary syndrome
+Sezary's lymphoma
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Sezary syndrome
+Genetic and Rare Diseases Information Center
+Sézary syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MYCOSIS FUNGOIDES
+Scientific Articles on PubMed
+PubMed
+References
+Campbell JJ, Clark RA, Watanabe R, Kupper TS. Sezary syndrome and mycosis
+fungoides arise from distinct T-cell subsets: a biologic rationale for their
+distinct clinical behaviors. Blood. 2010 Aug 5;116(5):767-71. doi:
+10.1182/blood-2009-11-251926. Epub 2010 May 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Caprini E, Cristofoletti C, Arcelli D, Fadda P, Citterich MH, Sampogna F,
+Magrelli A, Censi F, Torreri P, Frontani M, Scala E, Picchio MC, Temperani P,
+Monopoli A, Lombardo GA, Taruscio D, Narducci MG, Russo G. Identification of key
+regions and genes important in the pathogenesis of sezary syndrome by combining
+genomic and expression microarrays. Cancer Res. 2009 Nov 1;69(21):8438-46. doi:
+10.1158/0008-5472.CAN-09-2367. Epub 2009 Oct 20.
+Citation on PubMed
+Hwang ST, Janik JE, Jaffe ES, Wilson WH. Mycosis fungoides and Sezary
+syndrome. Lancet. 2008 Mar 15;371(9616):945-57. doi:
+10.1016/S0140-6736(08)60420-1.
+Citation on PubMed
+Izykowska K, Przybylski GK, Gand C, Braun FC, Grabarczyk P, Kuss AW, Olek-Hrab
+K, Bastidas Torres AN, Vermeer MH, Zoutman WH, Tensen CP, Schmidt CA. Genetic
+rearrangements result in altered gene expression and novel fusion transcripts in
+Sezary syndrome. Oncotarget. 2017 Jun 13;8(24):39627-39639. doi:
+10.18632/oncotarget.17383.
+Citation on PubMed
+Izykowska K, Przybylski GK. Genetic alterations in Sezary syndrome. Leuk
+Lymphoma. 2011 May;52(5):745-53. doi: 10.3109/10428194.2010.551159. Epub 2011 Feb
+16.
+Citation on PubMed
+Laharanne E, Oumouhou N, Bonnet F, Carlotti M, Gentil C, Chevret E, Jouary T,
+Longy M, Vergier B, Beylot-Barry M, Merlio JP. Genome-wide analysis of cutaneous
+T-cell lymphomas identifies three clinically relevant classes. J Invest Dermatol.
+2010 Jun;130(6):1707-18. doi: 10.1038/jid.2010.8. Epub 2010 Feb 4.
+Citation on PubMed
+Prasad A, Rabionet R, Espinet B, Zapata L, Puiggros A, Melero C, Puig A,
+Sarria-Trujillo Y, Ossowski S, Garcia-Muret MP, Estrach T, Servitje O,
+Lopez-Lerma I, Gallardo F, Pujol RM, Estivill X. Identification of Gene Mutations
+and Fusion Genes in Patients with Sezary Syndrome. J Invest Dermatol. 2016
+Jul;136(7):1490-1499. doi: 10.1016/j.jid.2016.03.024. Epub 2016 Mar 30.
+Citation on PubMed
+van Doorn R, van Kester MS, Dijkman R, Vermeer MH, Mulder AA, Szuhai K,
+Knijnenburg J, Boer JM, Willemze R, Tensen CP. Oncogenomic analysis of mycosis
+fungoides reveals major differences with Sezary syndrome. Blood. 2009 Jan
+1;113(1):127-36. doi: 10.1182/blood-2008-04-153031. Epub 2008 Oct 1.
+Citation on PubMed
+Vural S, Akay BN, Botsali A, Atilla E, Parlak N, Okcu Heper A, Sanli H.
+Transformation of Mycosis Fungoides/Sezary Syndrome: Clinical Characteristics and
+Prognosis. Turk J Haematol. 2018 Mar 1;35(1):35-41. doi: 10.4274/tjh.2016.0502.
+Epub 2017 May 23.
+Citation on PubMed
+Wong HK, Mishra A, Hake T, Porcu P. Evolving insights in the pathogenesis and
+therapy of cutaneous T-cell lymphoma (mycosis fungoides and Sezary syndrome). Br
+J Haematol. 2011 Oct;155(2):150-66. doi: 10.1111/j.1365-2141.2011.08852.x. Epub
+2011 Aug 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Woollard WJ, Pullabhatla V, Lorenc A, Patel VM, Butler RM, Bayega A, Begum N,
+Bakr F, Dedhia K, Fisher J, Aguilar-Duran S, Flanagan C, Ghasemi AA, Hoffmann RM,
+Castillo-Mosquera N, Nuttall EA, Paul A, Roberts CA, Solomonidis EG, Tarrant R,
+Yoxall A, Beyers CZ, Ferreira S, Tosi I, Simpson MA, de Rinaldis E, Mitchell TJ,
+Whittaker SJ. Candidate driver genes involved in genome maintenance and DNA
+repair in Sezary syndrome. Blood. 2016 Jun 30;127(26):3387-97. doi:
+10.1182/blood-2016-02-699843. Epub 2016 Apr 27.
+Citation on PubMed
+Yamashita T, Abbade LP, Marques ME, Marques SA. Mycosis fungoides and Sezary
+syndrome: clinical, histopathological and immunohistochemical review and update.
+An Bras Dermatol. 2012 Nov-Dec;87(6):817-28; quiz 829-30. doi:
+10.1590/s0365-05962012000600001.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Cancer--Living with Cancer
+Genetic Disorders
+Lymphoma
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

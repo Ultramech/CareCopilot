@@ -1,0 +1,175 @@
+Miller-Dieker syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Miller-Dieker syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/miller-dieker-syndrome/
+Miller-Dieker syndrome
+Description
+Miller-Dieker syndrome is a condition characterized by a pattern of abnormal brain development called lissencephaly. Normally, the surface of the brain (
+cerebral cortex
+) has folds and grooves. Lissencephaly causes the surface of the brain to be abnormally smooth, with fewer folds and grooves. In people with Miller-Dieker syndrome, lissencephaly is typically associated with severe intellectual disabilities, developmental delays, weak muscle tone (hypotonia), and seizures. Seizures usually begin in the first few months of life.
+People with Miller-Dieker syndrome often have distinctive facial features that include a prominent forehead; a sunken appearance in the middle of the face (
+midface hypoplasia
+); a small, upturned nose; low-set and abnormally shaped ears; a small jaw; and a
+thick upper lip
+. Some individuals with this condition also grow more slowly than their peers. Less often, affected individuals have heart problems, kidney abnormalities, or an opening in the wall of the abdomen (
+an omphalocele
+) that allows the abdominal organs to protrude through the navel. Because of these severe health issues, most individuals with Miller-Dieker syndrome do not survive beyond early childhood.
+Frequency
+Miller-Dieker syndrome appears to be a rare disorder, although its exact prevalence is unknown.
+Causes
+In the majority of cases, Miller-Dieker syndrome is caused by
+a deletion of genetic material
+near the end of the short (p) arm of
+chromosome 17
+. This area of chromosome 17 is called the MDS critical region. Though the size of the deleted segment varies among affected individuals, it typically includes the
+PAFAH1B1
+and
+YWHAE
+genes.
+Researchers are working to identify all of the genes that contribute to the features of Miller-Dieker syndrome. They have determined that the loss of the
+PAFAH1B1
+gene is responsible for the lissencephaly seen in people with this condition. The loss of the
+YWHAE
+gene is thought to increase the severity of lissencephaly in people with Miller-Dieker syndrome. The loss of additional genes in the MDS critical region likely contributes to the other features of Miller-Dieker syndrome.
+In approximately 10 percent of people with the signs and symptoms of Miller-Dieker syndrome, the cause of the condition is unknown.
+Learn more about the genes and chromosome associated with Miller-Dieker syndrome
+PAFAH1B1
+YWHAE
+chromosome 17
+Additional Information from NCBI Gene:
+CRK
+Inheritance
+In most cases, Miller-Dieker syndrome is not inherited. The chromosome 17
+deletion
+is usually a random event that occurs during the formation of reproductive cells (eggs or sperm) or during early fetal development. Affected people typically have no history of the disorder in their family.
+Some people with Miller-Dieker syndrome
+inherit a chromosome abnormality
+from an unaffected parent. In these cases, the parent carries a chromosomal rearrangement called
+a balanced translocation
+, in which no genetic material is gained or lost. Balanced translocations usually do not cause any health problems; however, they can become unbalanced when they are passed to the next generation. Children who inherit an
+unbalanced translocation
+can have a chromosomal rearrangement with extra or missing genetic material. Individuals with Miller-Dieker syndrome who inherit an unbalanced translocation are missing genetic material from the short arm of chromosome 17, which results in the health problems that are seen in people with this disorder.
+Other Names for This Condition
+Lissencephaly due to 17p13.3 deletion
+MDLS
+MDS
+Miller-Dieker lissencephaly syndrome
+Monosomy 17p13.3
+Telomeric deletion 17p
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Miller Dieker syndrome
+Genetic and Rare Diseases Information Center
+Miller-Dieker syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MILLER-DIEKER LISSENCEPHALY SYNDROME; MDLS
+Scientific Articles on PubMed
+PubMed
+References
+Allanson JE, Ledbetter DH, Dobyns WB. Classical lissencephaly syndromes: does
+the face reflect the brain? J Med Genet. 1998 Nov;35(11):920-3. doi:
+10.1136/jmg.35.11.920.
+Citation on PubMed
+or
+Free article on PubMed Central
+Blazejewski SM, Bennison SA, Smith TH, Toyo-Oka K. Neurodevelopmental Genetic
+Diseases Associated With Microdeletions and Microduplications of Chromosome
+17p13.3. Front Genet. 2018 Mar 23;9:80. doi: 10.3389/fgene.2018.00080.
+eCollection 2018.
+Citation on PubMed
+Brock S, Dobyns WB, Jansen A. PAFAH1B1-Related Lissencephaly /
+Subcortical Band Heterotopia. 2009 Mar 3 [updated 2021 Mar 25]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK5189/
+Citation on PubMed
+Cardoso C, Leventer RJ, Ward HL, Toyo-Oka K, Chung J, Gross A, Martin CL,
+Allanson J, Pilz DT, Olney AH, Mutchinick OM, Hirotsune S, Wynshaw-Boris A,
+Dobyns WB, Ledbetter DH. Refinement of a 400-kb critical region allows genotypic
+differentiation between isolated lissencephaly, Miller-Dieker syndrome, and other
+phenotypes secondary to deletions of 17p13.3. Am J Hum Genet. 2003
+Apr;72(4):918-30. doi: 10.1086/374320. Epub 2003 Mar 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dobyns WB, Curry CJ, Hoyme HE, Turlington L, Ledbetter DH. Clinical and
+molecular diagnosis of Miller-Dieker syndrome. Am J Hum Genet. 1991
+Mar;48(3):584-94.
+Citation on PubMed
+or
+Free article on PubMed Central
+Guerrini R, Filippi T. Neuronal migration disorders, genetics, and
+epileptogenesis. J Child Neurol. 2005 Apr;20(4):287-99. doi:
+10.1177/08830738050200040401.
+Citation on PubMed
+Liu X, Bennison SA, Robinson L, Toyo-Oka K. Responsible Genes for Neuronal
+Migration in the Chromosome 17p13.3: Beyond Pafah1b1(Lis1), Crk
+and Ywhae(14-3-3epsilon). Brain Sci. 2021 Dec 30;12(1):56. doi:
+10.3390/brainsci12010056.
+Citation on PubMed
+Nagamani SC, Zhang F, Shchelochkov OA, Bi W, Ou Z, Scaglia F, Probst FJ,
+Shinawi M, Eng C, Hunter JV, Sparagana S, Lagoe E, Fong CT, Pearson M, Doco-Fenzy
+M, Landais E, Mozelle M, Chinault AC, Patel A, Bacino CA, Sahoo T, Kang SH,
+Cheung SW, Lupski JR, Stankiewicz P. Microdeletions including YWHAE in the
+Miller-Dieker syndrome region on chromosome 17p13.3 result in facial
+dysmorphisms, growth restriction, and cognitive impairment. J Med Genet. 2009
+Dec;46(12):825-33. doi: 10.1136/jmg.2009.067637. Epub 2009 Jul 6.
+Citation on PubMed
+Spalice A, Parisi P, Nicita F, Pizzardi G, Del Balzo F, Iannetti P. Neuronal
+migration disorders: clinical, neuroradiologic and genetics aspects. Acta
+Paediatr. 2009 Mar;98(3):421-33. doi: 10.1111/j.1651-2227.2008.01160.x. Epub 2008
+Dec 16.
+Citation on PubMed
+Sweeney KJ, Clark GD, Prokscha A, Dobyns WB, Eichele G. Lissencephaly
+associated mutations suggest a requirement for the PAFAH1B heterotrimeric complex
+in brain development. Mech Dev. 2000 Apr;92(2):263-71. doi:
+10.1016/s0925-4773(00)00242-2.
+Citation on PubMed
+Toyo-oka K, Shionoya A, Gambello MJ, Cardoso C, Leventer R, Ward HL, Ayala R,
+Tsai LH, Dobyns W, Ledbetter D, Hirotsune S, Wynshaw-Boris A. 14-3-3epsilon is
+important for neuronal migration by binding to NUDEL: a molecular explanation for
+Miller-Dieker syndrome. Nat Genet. 2003 Jul;34(3):274-85. doi: 10.1038/ng1169.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+Seizures
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

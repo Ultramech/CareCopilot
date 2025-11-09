@@ -1,0 +1,118 @@
+Spastic paraplegia type 8: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Spastic paraplegia type 8
+URL of this page: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-8/
+Spastic paraplegia type 8
+Description
+Spastic paraplegia type 8 belongs to a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and weakness. Hereditary spastic paraplegias are divided into two types: pure and complex. The pure (also called uncomplicated) types involve only the nerves and muscles that control the legs and bladder, whereas the complex (also called complicated) types also involve the nervous system in other parts of the body. Spastic paraplegia type 8 is a pure hereditary spastic paraplegia.
+People with spastic paraplegia type 8 have spasticity and weakness of the leg muscles. Affected individuals may also experience exaggerated reflexes (hyperreflexia), a decreased ability to feel vibrations, and reduced bladder control. The signs and symptoms of spastic paraplegia type 8 can begin in childhood, although they typically appear in early to mid-adulthood.
+People with spastic paraplegia type 8 tend to be more severely affected than those with other types of hereditary spastic paraplegias; affected individuals typically require wheelchair assistance in adulthood. However, the signs and symptoms of spastic paraplegia type 8 can vary, even among members of the same family.
+Frequency
+The prevalence of all hereditary spastic paraplegias combined is estimated to be 1 to 18 in 100,000 people worldwide. Spastic paraplegia type 8 likely accounts for no more than 5 percent of all hereditary spastic paraplegia cases.
+Causes
+Variants (also called mutations) in the
+WASHC5
+gene cause spastic paraplegia type 8. The
+WASHC5
+gene provides instructions for making a protein called strumpellin. Strumpellin is active (expressed) throughout the body.
+Strumpellin interacts with the structural framework inside cells (the cytoskeleton). Strumpellin also binds to other proteins to form a complex that helps regulate the activity of endosomes. Endosomes are structures inside the cell that are involved in sorting, transporting, and recycling proteins and other materials.
+WASHC5
+gene variants are thought to reduce the amount of functional strumpellin protein. Though it is not known exactly how this causes the characteristic features of spastic paraplegia type 8, it likely impairs the transport of important molecules inside the cell.
+Learn more about the gene associated with Spastic paraplegia type 8
+WASHC5
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In approximately 90 percent of cases, an affected person inherits the variant from an
+affected parent
+. The remaining cases result from a
+new (de novo) variant
+in the gene that occurs during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals typically have no history of the disorder in their family.
+Other Names for This Condition
+Autosomal dominant spastic paraplegia 8
+Hereditary spastic paraplegia 8
+Spastic paraplegia 8
+SPG8
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary spastic paraplegia
+Genetic Testing Registry: Hereditary spastic paraplegia 8
+Genetic and Rare Diseases Information Center
+Autosomal dominant spastic paraplegia type 8
+Hereditary spastic paraplegia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SPASTIC PARAPLEGIA 8, AUTOSOMAL DOMINANT; SPG8
+Scientific Articles on PubMed
+PubMed
+References
+Freeman C, Seaman MN, Reid E. The hereditary spastic paraplegia protein
+strumpellin: characterisation in neurons and of the effect of disease mutations
+on WASH complex assembly and function. Biochim Biophys Acta. 2013
+Jan;1832(1):160-73. doi: 10.1016/j.bbadis.2012.10.011. Epub 2012 Oct 23.
+Citation on PubMed
+Hedera P, Rainier S, Alvarado D, Zhao X, Williamson J, Otterud B, Leppert M,
+Fink JK. Novel locus for autosomal dominant hereditary spastic paraplegia, on
+chromosome 8q. Am J Hum Genet. 1999 Feb;64(2):563-9. doi: 10.1086/302258.
+Citation on PubMed
+or
+Free article on PubMed Central
+Meijer IA, Valdmanis PN, Rouleau GA. Spastic Paraplegia 8. 2008 Aug 13
+[updated 2020 May 21]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1827/
+Citation on PubMed
+Rocco P, Vainzof M, Froehner SC, Peters MF, Marie SK, Passos-Bueno MR, Zatz M.
+Brazilian family with pure autosomal dominant spastic paraplegia maps to 8q:
+analysis of muscle beta 1 syntrophin. Am J Med Genet. 2000 May 15;92(2):122-7.
+doi: 10.1002/(sici)1096-8628(20000515)92:23.0.co;2-b.
+Citation on PubMed
+Valdmanis PN, Meijer IA, Reynolds A, Lei A, MacLeod P, Schlesinger D, Zatz M,
+Reid E, Dion PA, Drapeau P, Rouleau GA. Mutations in the KIAA0196 gene at the
+SPG8 locus cause hereditary spastic paraplegia. Am J Hum Genet. 2007
+Jan;80(1):152-61. doi: 10.1086/510782. Epub 2006 Dec 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Neuromuscular Disorders
+Paralysis
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

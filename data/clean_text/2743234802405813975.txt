@@ -1,0 +1,134 @@
+Idiopathic inflammatory myopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Idiopathic inflammatory myopathy
+URL of this page: https://medlineplus.gov/genetics/condition/idiopathic-inflammatory-myopathy/
+Idiopathic inflammatory myopathy
+Description
+Idiopathic inflammatory myopathy is a group of disorders characterized by inflammation of the muscles used for movement (skeletal muscles). Idiopathic inflammatory myopathy usually appears in adults between ages 40 and 60 or in children between ages 5 and 15, though it can occur at any age.
+The primary symptom of idiopathic inflammatory myopathy is muscle weakness, which develops gradually over a period of weeks to months or even years. Other symptoms include joint pain and general tiredness (fatigue).
+There are several forms of idiopathic inflammatory myopathy, including polymyositis, dermatomyositis, and sporadic inclusion body myositis.
+Polymyositis and dermatomyositis involve weakness of the muscles closest to the center of the body (proximal muscles), such as the muscles of the hips and thighs, upper arms, and neck. People with these forms of idiopathic inflammatory myopathy may find it difficult to climb stairs, get up from a seated position, or lift items above their head. In some cases, muscle weakness may make swallowing or breathing difficult.
+Polymyositis and dermatomyositis have similar symptoms, but dermatomyositis is distinguished by a reddish or purplish rash on the eyelids, elbows, knees, or knuckles. Sometimes, abnormal calcium deposits form hard, painful bumps under the skin (calcinosis).
+In sporadic inclusion body myositis, the muscles most affected are those of the wrists and fingers and the front of the thigh. Affected individuals may frequently stumble while walking and find it difficult to grasp items. As in dermatomyositis and polymyositis, swallowing can be difficult.
+Frequency
+The incidence of idiopathic inflammatory myopathy is approximately 2 to 8 cases per million people each year.
+For unknown reasons, polymyositis and dermatomyositis are about twice as common in women as in men, while sporadic inclusion body myositis is more common in men.
+Causes
+Idiopathic inflammatory myopathy is thought to arise from a combination of genetic and environmental factors. The term "idiopathic" indicates that the specific cause of the disorder is unknown.
+Researchers have identified variations in several genes that may influence the risk of developing idiopathic inflammatory myopathy. The most commonly associated genes belong to a family of genes called the
+human leukocyte antigen (HLA) complex
+. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person's immune system to react to a wide range of foreign proteins. Specific variations of several HLA genes seem to affect the risk of developing idiopathic inflammatory myopathy. Researchers are studying variations in other genes related to the body's immune function to understand how they contribute to the risk of developing idiopathic inflammatory myopathy.
+It is likely that specific genetic variations increase a person's risk of developing idiopathic inflammatory myopathy, and then exposure to certain environmental factors triggers the disorder. Infection, exposure to certain medications, and exposure to ultraviolet light (such as sunlight) have been identified as possible environmental triggers, but most risk factors for this condition remain unknown.
+Learn more about the genes associated with Idiopathic inflammatory myopathy
+HLA-DQA1
+HLA-DRB1
+IL1A
+PTPN22
+Additional Information from NCBI Gene:
+TNF
+Inheritance
+Most cases of idiopathic inflammatory myopathy are sporadic, which means they occur in people with no history of the disorder in their family. However, several people with idiopathic inflammatory myopathy have had close relatives with autoimmune disorders. Autoimmune diseases occur when the immune system malfunctions and attacks the body's tissues and organs.
+A small percentage of all cases of idiopathic inflammatory myopathy have been reported to run in families; however, the condition does not have a clear pattern of inheritance. Multiple genetic and environmental factors likely play a part in determining the risk of developing this disorder. As a result, inheriting a genetic variation linked with idiopathic inflammatory myopathy does not mean that a person will develop the condition.
+Other Names for This Condition
+Idiopathic inflammatory myopathies
+Idiopathic inflammatory myositis
+Inflammatory myopathy, idiopathic
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Myositis disease
+Genetic Testing Registry: Inclusion body myositis
+Genetic and Rare Diseases Information Center
+Idiopathic inflammatory myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INCLUSION BODY MYOSITIS
+MYOSITIS
+Scientific Articles on PubMed
+PubMed
+References
+Chinoy H, Lamb JA, Ollier WE, Cooper RG. An update on the immunogenetics of
+idiopathic inflammatory myopathies: major histocompatibility complex and beyond.
+Curr Opin Rheumatol. 2009 Nov;21(6):588-93. doi: 10.1097/BOR.0b013e3283315a22.
+Citation on PubMed
+Chinoy H, Platt H, Lamb JA, Betteridge Z, Gunawardena H, Fertig N, Varsani H,
+Davidson J, Oddis CV, McHugh NJ, Wedderburn LR, Ollier WE, Cooper RG; UK Adult
+Onset Myositis Immunogenetic Collaboration and the Juvenile Dermatomyositis
+Research Group. The protein tyrosine phosphatase N22 gene is associated with
+juvenile and adult idiopathic inflammatory myopathy independent of the HLA 8.1
+haplotype in British Caucasian patients. Arthritis Rheum. 2008
+Oct;58(10):3247-54. doi: 10.1002/art.23900.
+Citation on PubMed
+or
+Free article on PubMed Central
+Cox S, Limaye V, Hill C, Blumbergs P, Roberts-Thomson P. Idiopathic
+inflammatory myopathies: diagnostic criteria, classification and epidemiological
+features. Int J Rheum Dis. 2010 May;13(2):117-24. doi:
+10.1111/j.1756-185X.2010.01472.x.
+Citation on PubMed
+O'Hanlon TP, Carrick DM, Arnett FC, Reveille JD, Carrington M, Gao X, Oddis
+CV, Morel PA, Malley JD, Malley K, Dreyfuss J, Shamim EA, Rider LG, Chanock SJ,
+Foster CB, Bunch T, Plotz PH, Love LA, Miller FW. Immunogenetic risk and
+protective factors for the idiopathic inflammatory myopathies: distinct HLA-A,
+-B, -Cw, -DRB1 and -DQA1 allelic profiles and motifs define clinicopathologic
+groups in caucasians. Medicine (Baltimore). 2005 Nov;84(6):338-349. doi:
+10.1097/01.md.0000189818.63141.8c.
+Citation on PubMed
+Rider LG, Miller FW. Deciphering the clinical presentations, pathogenesis, and
+treatment of the idiopathic inflammatory myopathies. JAMA. 2011 Jan
+12;305(2):183-90. doi: 10.1001/jama.2010.1977.
+Citation on PubMed
+or
+Free article on PubMed Central
+Shamim EA, Miller FW. Familial autoimmunity and the idiopathic inflammatory
+myopathies. Curr Rheumatol Rep. 2000 Jun;2(3):201-11. doi:
+10.1007/s11926-000-0080-0.
+Citation on PubMed
+Shamim EA, Rider LG, Miller FW. Update on the genetics of the idiopathic
+inflammatory myopathies. Curr Opin Rheumatol. 2000 Nov;12(6):482-91. doi:
+10.1097/00002281-200011000-00002.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Myositis
+MEDICAL ENCYCLOPEDIA
+Dermatomyositis
+Genetics
+Polymyositis - adult
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

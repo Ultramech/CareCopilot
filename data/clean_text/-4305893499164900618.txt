@@ -1,0 +1,125 @@
+Stargardt macular degeneration: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Stargardt macular degeneration
+URL of this page: https://medlineplus.gov/genetics/condition/stargardt-macular-degeneration/
+Stargardt macular degeneration
+Description
+Stargardt macular degeneration is a genetic eye disorder that causes progressive vision loss. This disorder affects
+the retina
+, the specialized light-sensitive tissue that lines the back of the eye. Specifically, Stargardt macular degeneration affects a small area near the center of the retina called the macula. The macula is responsible for the type of vision needed for detailed tasks such as reading, driving, and recognizing faces. In most people with Stargardt macular degeneration, a fatty yellow pigment called lipofuscin builds up in cells underlying the macula. Over time, the abnormal accumulation of this substance can damage cells that are critical for clear vision. People with Stargardt macular degeneration have problems with night vision that can make it difficult to navigate in low light. Some affected individuals also have impaired color vision. The signs and symptoms of Stargardt macular degeneration typically appear in late childhood to early adulthood and worsen over time.
+Frequency
+Stargardt macular degeneration is the most common form of juvenile macular degeneration, the signs and symptoms of which begin in childhood. The estimated prevalence of Stargardt macular degeneration is about 1 in 6,500 individuals.
+Causes
+In most cases, Stargardt macular degeneration is caused by variants (also called mutations) in the
+ABCA4
+gene. Less often, variants in the
+ELOVL4
+gene cause this condition. The
+ABCA4
+and
+ELOVL4
+genes provide instructions for making proteins that are found in light-sensing cells (photoreceptors) in
+the retina
+.
+The ABCA4 protein transports potentially toxic substances out of photoreceptors. These substances form after phototransduction, the process by which light entering the eye is converted into electrical signals that are transmitted to the brain. Variants in the
+ABCA4
+gene prevent the ABCA4 protein from removing toxic byproducts from photoreceptors. These toxic substances build up and form lipofuscin in the photoreceptors and the surrounding cells of the retina, eventually causing cell death. Loss of cells in the retina causes the progressive vision loss that is characteristic of Stargardt macular degeneration.
+The ELOVL4 protein plays a role in making a group of fats called very long-chain fatty acids. The ELOVL4 protein is primarily found in the retina, but is also expressed in the brain and skin. The function of very long-chain fatty acids within the retina is unknown. Variants in the
+ELOVL4
+gene lead to the formation of ELOVL4 protein clumps (aggregates) that build up and may interfere with retinal cell functions, ultimately leading to cell death.
+Learn more about the genes associated with Stargardt macular degeneration
+ABCA4
+ELOVL4
+Inheritance
+Stargardt macular degeneration can have different inheritance patterns.
+When variants in the
+ABCA4
+gene cause this condition, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+When this condition is caused by variants in the
+ELOVL4
+gene, it is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Juvenile macular degeneration
+Macular dystrophy with flecks, type 1
+Stargardt disease
+STGD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Severe early-childhood-onset retinal dystrophy
+Genetic Testing Registry: Stargardt Disease 3
+Genetic and Rare Diseases Information Center
+Stargardt disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+STARGARDT DISEASE 3; STGD3
+STARGARDT DISEASE 1; STGD1
+Scientific Articles on PubMed
+PubMed
+References
+Molday RS, Zhang K. Defective lipid transport and biosynthesis in recessive
+and dominant Stargardt macular degeneration. Prog Lipid Res. 2010
+Oct;49(4):476-92. doi: 10.1016/j.plipres.2010.07.002. Epub 2010 Jul 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Molday RS, Zhong M, Quazi F. The role of the photoreceptor ABC transporter
+ABCA4 in lipid transport and Stargardt macular degeneration. Biochim Biophys
+Acta. 2009 Jul;1791(7):573-83. doi: 10.1016/j.bbalip.2009.02.004. Epub 2009 Feb
+20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Walia S, Fishman GA. Natural history of phenotypic changes in Stargardt
+macular dystrophy. Ophthalmic Genet. 2009 Jun;30(2):63-8. doi:
+10.1080/13816810802695550.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Macular Degeneration
+Retinal Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Vision Screening
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

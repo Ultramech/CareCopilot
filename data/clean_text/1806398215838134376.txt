@@ -1,0 +1,156 @@
+Hidradenitis suppurativa: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hidradenitis suppurativa
+URL of this page: https://medlineplus.gov/genetics/condition/hidradenitis-suppurativa/
+Hidradenitis suppurativa
+Description
+Hidradenitis suppurativa, also known as acne inversa, is a chronic skin disease characterized by recurrent boil-like lumps (nodules) under the skin. The nodules become inflamed and painful. They tend to break open (rupture), causing abscesses that drain fluid and pus. As the abscesses heal, they produce significant scarring of the skin.
+The signs and symptoms of hidradenitis suppurativa typically appear after puberty, usually in a person's teens or twenties, although they can begin earlier in puberty, particularly in affected females. Nodules are most likely to form in the armpits and groin. They may also develop around the anus, on the buttocks, or under the breasts. In some cases, nodules appear in other areas, such as the nape of the neck, waist, and inner thighs.
+The recurrent nodules and abscesses cause chronic pain and can lead to self-consciousness, social isolation, and
+depression
+. Rarely, long-term (chronic) abscesses on the buttocks can develop into a type of skin cancer called
+squamous cell carcinoma
+.
+Frequency
+Hidradenitis suppurativa was once thought to be a rare condition because only the most severe cases were reported. However, recent studies have shown that the condition affects at least 1 in 100 people when milder cases are also considered. For reasons that are unclear, women are more commonly affected than men.
+Causes
+In most cases, the cause of hidradenitis suppurativa is unknown. The condition probably results from a combination of genetic and environmental factors. Originally, researchers believed that the disorder was caused by the blockage (occlusion) of specialized sweat glands called apocrine glands. However, recent studies have shown that the condition actually begins with a blockage of
+hair follicles
+in areas of the body that also contain a high concentration of apocrine glands (such as the armpits and groin). The hair follicles have a buildup of a fibrous protein called keratin (hyperkeratosis). The blocked hair follicles trap bacteria, leading to inflammation and rupture. Researchers have several ideas about what initially causes the follicles to become blocked and why the nodules tend to recur, but the causes remain unclear.
+Genetic factors clearly play a role in causing hidradenitis suppurativa. Some cases have been found to result from variants (also known as mutations) in the
+NCSTN
+,
+PSEN1
+, or
+PSENEN
+gene. The proteins produced from these genes are all components of a complex called gamma- (γ-) secretase. This complex cuts apart (cleaves) many different proteins, which is an important step in several chemical signaling pathways. One of these pathways, known as Notch signaling, is essential for the normal growth and maturation (differentiation) of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function. Studies suggest that variants in the
+NCSTN
+,
+PSEN1
+, or
+PSENEN
+gene impair Notch signaling in hair follicles. Although little is known about the mechanism, abnormal Notch signaling appears to promote the development of nodules and lead to inflammation in the skin. Researchers are working to determine whether additional genes, particularly those that provide instructions for making other γ-secretase components, are also associated with hidradenitis suppurativa.
+Researchers have studied many other possible risk factors for hidradenitis suppurativa. Obesity and smoking both appear to increase the risk of the disorder, and obesity is also associated with increased severity of signs and symptoms in affected individuals. Studies suggest that neither abnormal immune system function nor hormonal factors play a key role in causing the disease. Other factors that were mistakenly thought to be associated with this condition include poor hygiene, the use of underarm deodorants and antiperspirants, and shaving or the use of depilatory products to remove hair.
+Learn more about the genes associated with Hidradenitis suppurativa
+NCSTN
+PSEN1
+PSENEN
+Inheritance
+Hidradenitis suppurativa has been reported to run in families. Studies have found that 30 to 40 percent of affected individuals have at least one family member with the disorder. However, this finding may be an underestimate because affected individuals do not always tell their family members that they have the condition, and hidradenitis suppurativa is sometimes misdiagnosed as other skin disorders.
+In some families, including those with an
+NCSTN
+,
+PSEN1
+, or
+PSENEN
+gene variant, hidradenitis suppurativa appears to have an
+autosomal dominant pattern
+of inheritance. Autosomal dominant inheritance means one copy of an altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person inherits the altered gene from a parent who has the condition.
+Other Names for This Condition
+Acne inversa
+Apocrinitis
+Hidradenitides, suppurative
+Hidradenitis, suppurative
+Suppurative hidradenitides
+Suppurative hidradenitis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial acne inversa
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ACNE INVERSA, FAMILIAL, 1; ACNINV1
+ACNE INVERSA, FAMILIAL, 2, WITH OR WITHOUT DOWLING-DEGOS DISEASE; ACNINV2
+ACNE INVERSA, FAMILIAL, 3; ACNINV3
+Scientific Articles on PubMed
+PubMed
+References
+Alikhan A, Lynch PJ, Eisen DB. Hidradenitis suppurativa: a comprehensive
+review. J Am Acad Dermatol. 2009 Apr;60(4):539-61; quiz 562-3. doi:
+10.1016/j.jaad.2008.11.911.
+Citation on PubMed
+Canoui-Poitrine F, Revuz JE, Wolkenstein P, Viallette C, Gabison G, Pouget F,
+Poli F, Faye O, Bastuji-Garin S. Clinical characteristics of a series of 302
+French patients with hidradenitis suppurativa, with an analysis of factors
+associated with disease severity. J Am Acad Dermatol. 2009 Jul;61(1):51-7. doi:
+10.1016/j.jaad.2009.02.013. Epub 2009 Apr 29.
+Citation on PubMed
+Danby FW, Margesson LJ. Hidradenitis suppurativa. Dermatol Clin. 2010
+Oct;28(4):779-93. doi: 10.1016/j.det.2010.07.003.
+Citation on PubMed
+Melnik BC, Plewig G. Impaired Notch signalling: the unifying mechanism
+explaining the pathogenesis of hidradenitis suppurativa (acne inversa). Br J
+Dermatol. 2013 Apr;168(4):876-8. doi: 10.1111/bjd.12068. Epub 2013 Jan 31. No
+abstract available.
+Citation on PubMed
+Pink AE, Simpson MA, Desai N, Dafou D, Hills A, Mortimer P, Smith CH, Trembath
+RC, Barker JNW. Mutations in the gamma-secretase genes NCSTN, PSENEN, and PSEN1
+underlie rare forms of hidradenitis suppurativa (acne inversa). J Invest
+Dermatol. 2012 Oct;132(10):2459-2461. doi: 10.1038/jid.2012.162. Epub 2012 May
+24. No abstract available.
+Citation on PubMed
+Pink AE, Simpson MA, Desai N, Trembath RC, Barker JNW. gamma-Secretase mutations
+in hidradenitis suppurativa: new insights into disease pathogenesis. J Invest
+Dermatol. 2013 Mar;133(3):601-607. doi: 10.1038/jid.2012.372. Epub 2012 Oct 25.
+Citation on PubMed
+Revuz J. Hidradenitis suppurativa. J Eur Acad Dermatol Venereol. 2009
+Sep;23(9):985-98. doi: 10.1111/j.1468-3083.2009.03356.x.
+Citation on PubMed
+Revuz JE, Canoui-Poitrine F, Wolkenstein P, Viallette C, Gabison G, Pouget F,
+Poli F, Faye O, Roujeau JC, Bonnelye G, Grob JJ, Bastuji-Garin S. Prevalence and
+factors associated with hidradenitis suppurativa: results from two case-control
+studies. J Am Acad Dermatol. 2008 Oct;59(4):596-601. doi:
+10.1016/j.jaad.2008.06.020.
+Citation on PubMed
+Rosi E, Fastame MT, Scandagli I, Di Cesare A, Ricceri F, Pimpinelli N,
+Prignano F. Insights into the Pathogenesis of HS and Therapeutical Approaches.
+Biomedicines. 2021 Sep 6;9(9):1168. doi: 10.3390/biomedicines9091168.
+Citation on PubMed
+Wang B, Yang W, Wen W, Sun J, Su B, Liu B, Ma D, Lv D, Wen Y, Qu T, Chen M,
+Sun M, Shen Y, Zhang X. Gamma-secretase gene mutations in familial acne inversa.
+Science. 2010 Nov 19;330(6007):1065. doi: 10.1126/science.1196284. Epub 2010 Oct
+7.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Hidradenitis Suppurativa
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hair Follicle Anatomy (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

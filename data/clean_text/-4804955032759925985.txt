@@ -1,0 +1,226 @@
+Multiple epiphyseal dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Multiple epiphyseal dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/multiple-epiphyseal-dysplasia/
+Multiple epiphyseal dysplasia
+Description
+Multiple epiphyseal dysplasia is a disorder of cartilage and bone development primarily affecting the ends of the long bones in the arms and legs (epiphyses). There are two types of multiple epiphyseal dysplasia, which can be distinguished by their pattern of inheritance. Both the dominant and recessive types have relatively mild signs and symptoms, including joint pain that most commonly affects the hips and knees, early-onset arthritis, and a waddling walk. Although some people with multiple epiphyseal dysplasia have mild short stature as adults, most are of normal height. The majority of individuals are diagnosed during childhood; however, some mild cases may not be diagnosed until adulthood.
+Recessive multiple epiphyseal dysplasia is distinguished from the dominant type by malformations of the hands, feet, and knees and abnormal curvature of the spine (
+scoliosis
+). About 50 percent of individuals with recessive multiple epiphyseal dysplasia are born with at least one abnormal feature, including an inward- and upward-turning foot (
+clubfoot
+), an opening in the roof of the mouth (
+cleft palate
+), an unusual curving of the fingers or toes (
+clinodactyly
+), or ear swelling. An abnormality of the kneecap called a double-layered patella is also relatively common.
+Frequency
+The incidence of dominant multiple epiphyseal dysplasia is estimated to be at least 1 in 10,000 newborns. The incidence of recessive multiple epiphyseal dysplasia is unknown. Both forms of this disorder may actually be more common because some people with mild symptoms are never diagnosed.
+Causes
+Mutations in the
+COMP
+,
+COL9A1
+,
+COL9A2
+,
+COL9A3
+, or
+MATN3
+gene can cause dominant multiple epiphyseal dysplasia. These genes provide instructions for making proteins that are found in the spaces between cartilage-forming cells (chondrocytes). These proteins interact with each other and play an important role in cartilage and bone formation. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears.
+The majority of individuals with dominant multiple epiphyseal dysplasia have mutations in the
+COMP
+gene. About 10 percent of affected individuals have mutations in the
+MATN3
+gene. Mutations in the
+COMP
+or
+MATN3
+gene prevent the release of the proteins produced from these genes into the spaces between the chondrocytes. The absence of these proteins leads to the formation of abnormal cartilage, which can cause the skeletal problems characteristic of dominant multiple epiphyseal dysplasia.
+The
+COL9A1
+,
+COL9A2
+, and
+COL9A3
+genes provide instructions for making a protein called type IX collagen. Collagens are a family of proteins that strengthen and support
+connective tissues
+, such as skin, bone, cartilage, tendons, and ligaments. Mutations in the
+COL9A1
+,
+COL9A2
+, or
+COL9A3
+gene are found in less than five percent of individuals with dominant multiple epiphyseal dysplasia. It is not known how mutations in these genes cause the signs and symptoms of this disorder. Research suggests that mutations in these genes may cause type IX collagen to accumulate inside the cell or interact abnormally with other cartilage components.
+Some people with dominant multiple epiphyseal dysplasia do not have a mutation in the
+COMP
+,
+COL9A1
+,
+COL9A2
+,
+COL9A3
+, or
+MATN3
+gene. In these cases, the cause of the condition is unknown.
+Mutations in the
+SLC26A2
+gene cause recessive multiple epiphyseal dysplasia. This gene provides instructions for making a protein that is essential for the normal development of cartilage and for its conversion to bone. Mutations in the
+SLC26A2
+gene alter the structure of developing cartilage, preventing bones from forming properly and resulting in the skeletal problems characteristic of recessive multiple epiphyseal dysplasia.
+Learn more about the genes associated with Multiple epiphyseal dysplasia
+COL9A1
+COL9A2
+COL9A3
+COMP
+MATN3
+SLC26A2
+Inheritance
+Multiple epiphyseal dysplasia can have different inheritance patterns.
+This condition can be inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person
+inherits the mutation
+from one affected parent. Other cases may result from
+new mutations
+in the gene. These cases occur in people with no history of the disorder in their family.
+Multiple epiphyseal dysplasia can also be inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.
+Other Names for This Condition
+EDM1
+EDM2
+EDM3
+EDM4
+EDM5
+Epiphyseal dysplasia, Fairbank type
+Epiphyseal dysplasia, multiple, 1
+Epiphyseal dysplasia, multiple, 2
+Epiphyseal dysplasia, multiple, 3
+Epiphyseal dysplasia, multiple, 4
+Epiphyseal dysplasia, multiple, 5
+Epiphyseal dysplasia, Ribbing type
+MED
+Multiple epiphyseal dysplasia, autosomal dominant
+Multiple epiphyseal dysplasia, autosomal recessive
+RMED
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Epiphyseal dysplasia, multiple, 2
+Genetic Testing Registry: Epiphyseal dysplasia, multiple, 3
+Genetic Testing Registry: Epiphyseal dysplasia, multiple, 6
+Genetic Testing Registry: Multiple epiphyseal dysplasia type 1
+Genetic Testing Registry: Multiple epiphyseal dysplasia type 4
+Genetic Testing Registry: Multiple epiphyseal dysplasia type 5
+Genetic and Rare Diseases Information Center
+Multiple epiphyseal dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+COLLAGEN, TYPE IX, ALPHA-1; COL9A1
+EPIPHYSEAL DYSPLASIA, MULTIPLE, 1; EDM1
+EPIPHYSEAL DYSPLASIA, MULTIPLE, 4; EDM4
+EPIPHYSEAL DYSPLASIA, MULTIPLE, 3; EDM3
+EPIPHYSEAL DYSPLASIA, MULTIPLE, 2; EDM2
+EPIPHYSEAL DYSPLASIA, MULTIPLE, 5; EDM5
+Scientific Articles on PubMed
+PubMed
+References
+Ballhausen D, Bonafe L, Terhal P, Unger SL, Bellus G, Classen M, Hamel BC,
+Spranger J, Zabel B, Cohn DH, Cole WG, Hecht JT, Superti-Furga A. Recessive
+multiple epiphyseal dysplasia (rMED): phenotype delineation in eighteen
+homozygotes for DTDST mutation R279W. J Med Genet. 2003 Jan;40(1):65-71. doi:
+10.1136/jmg.40.1.65. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Briggs MD, Chapman KL. Pseudoachondroplasia and multiple epiphyseal dysplasia:
+mutation review, molecular interactions, and genotype to phenotype correlations.
+Hum Mutat. 2002 May;19(5):465-78. doi: 10.1002/humu.10066.
+Citation on PubMed
+Briggs MD, Wright MJ, Mortier GR. Multiple Epiphyseal Dysplasia, Autosomal
+Dominant. 2003 Jan 8 [updated 2024 Jul 4]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1123/
+Citation on PubMed
+Jackson GC, Marcus-Soekarman D, Stolte-Dijkstra I, Verrips A, Taylor JA,
+Briggs MD. Type IX collagen gene mutations can result in multiple epiphyseal
+dysplasia that is associated with osteochondritis dissecans and a mild myopathy.
+Am J Med Genet A. 2010 Apr;152A(4):863-9. doi: 10.1002/ajmg.a.33240.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lachman RS, Krakow D, Cohn DH, Rimoin DL. MED, COMP, multilayered and NEIN: an
+overview of multiple epiphyseal dysplasia. Pediatr Radiol. 2005 Feb;35(2):116-23.
+doi: 10.1007/s00247-004-1323-4. Epub 2004 Oct 21.
+Citation on PubMed
+Rossi A, Superti-Furga A. Mutations in the diastrophic dysplasia sulfate
+transporter (DTDST) gene (SLC26A2): 22 novel mutations, mutation review,
+associated skeletal phenotypes, and diagnostic relevance. Hum Mutat. 2001
+Mar;17(3):159-71. doi: 10.1002/humu.1.
+Citation on PubMed
+Seo SG, Song HR, Kim HW, Yoo WJ, Shim JS, Chung CY, Park MS, Oh CW, Jeong C,
+Song KS, Kim OH, Park SS, Choi IH, Cho TJ. Comparison of orthopaedic
+manifestations of multiple epiphyseal dysplasia caused by MATN3 versus COMP
+mutations: a case control study. BMC Musculoskelet Disord. 2014 Mar 15;15:84.
+doi: 10.1186/1471-2474-15-84.
+Citation on PubMed
+or
+Free article on PubMed Central
+Superti-Furga A, Neumann L, Riebel T, Eich G, Steinmann B, Spranger J, Kunze
+J. Recessively inherited multiple epiphyseal dysplasia with normal stature, club
+foot, and double layered patella caused by a DTDST mutation. J Med Genet. 1999
+Aug;36(8):621-4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Unger S, Hecht JT. Pseudoachondroplasia and multiple epiphyseal dysplasia: New
+etiologic developments. Am J Med Genet. 2001 Winter;106(4):244-50.
+Citation on PubMed
+Unger S, Superti-Furga A. SLC26A2-Related Multiple Epiphyseal
+Dysplasia. 2002 Aug 29 [updated 2023 Jan 19]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1306/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

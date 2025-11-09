@@ -1,0 +1,133 @@
+African iron overload: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+African iron overload
+URL of this page: https://medlineplus.gov/genetics/condition/african-iron-overload/
+African iron overload
+Description
+African iron overload is a condition that involves absorption of too much iron from the diet. The excess iron is stored in the body's tissues and organs, particularly the liver,
+bone marrow
+, and spleen. Humans cannot increase the excretion of iron, although some iron is lost through bleeding or when cells of the intestine (enterocytes) are shed at the end of the cells' lifespan. Iron levels in the body are primarily regulated through control of how much iron is absorbed from the diet.
+African iron overload results from a diet high in iron. It is particularly associated with consumption of a traditional African beer that contains dissolved iron from the metal drums in which it is brewed. Some evidence suggests that a genetic predisposition to absorbing too much iron may also be involved.
+In African iron overload, excess iron typically accumulates primarily in certain immune cells called reticuloendothelial cells. Reticuloendothelial cells include macrophages in the bone marrow and spleen and Kupffer cells, which are specialized macrophages found in the liver that help protect the body against foreign invaders such as viruses and bacteria. Later in the course of the condition, iron also accumulates in liver cells (hepatocytes). This pattern differs from that seen in a similar iron overload disorder called
+hereditary hemochromatosis
+, in which the excess iron accumulates primarily in the hepatocytes.
+When too much iron is absorbed, the resulting iron overload can eventually damage tissues and organs. Iron overload in the liver can lead to chronic liver disease (cirrhosis). Cirrhosis increases the risk of developing a type of liver cancer called hepatocellular carcinoma. Iron overload in immune cells may affect their ability to fight infections. African iron overload is associated with an increased risk of developing infections such as tuberculosis. The excess iron also leads to a faster-than-normal breakdown of vitamin C in the body, so affected individuals are at increased risk of vitamin C deficiency problems such as scurvy.
+People with African iron overload may have a slightly low number of red blood cells (mild
+anemia
+), possibly because the iron that accumulates in the liver, bone marrow, and spleen is less available for production of red blood cells. Affected individuals also have high levels of a protein called
+ferritin
+in their blood, which can be detected with a blood test. Ferritin stores and releases iron in cells, and cells produce more ferritin in response to excess amounts of iron.
+Frequency
+African iron overload is common in rural areas of central and southern Africa; up to 10 percent of the population in these regions may be affected. Men seem to be affected more often than women, possibly due to some combination of differences in dietary iron consumption and women's shedding of excess iron through blood loss in menstruation and childbirth.
+The prevalence of increased iron stores in people of African descent in other parts of the world is unknown; however, these individuals may be at higher risk of developing mildly increased iron stores than are people of European background.
+Causes
+African iron overload was first noted in rural central and southern African populations among people who drink a traditional beer brewed in uncoated steel drums that allow iron (a component of steel) to leach into the beer. However, not all individuals who drink the beer develop African iron overload, and not all individuals of African descent with iron overload drink the beer. Therefore, researchers are seeking genetic differences that affect the risk of developing this condition.
+Some studies have indicated that a variation in the
+SLC40A1
+gene increases the risk of developing increased iron stores in people of African descent. This variation is found in 5 to 20 percent of people of African descent but is not generally found in other populations.
+The
+SLC40A1
+gene provides instructions for making a protein called ferroportin. This protein is involved in the process of iron absorption in the body. Iron from the diet is absorbed through the walls of the small intestine. Ferroportin then transports iron from the small intestine into the bloodstream, and the iron is carried by the blood to the tissues and organs of the body. Ferroportin also transports iron out of reticuloendothelial cells in the liver, spleen, and bone marrow. The amount of iron absorbed by the body depends on the amount of iron stored and released from intestinal cells and macrophages.
+The
+SLC40A1
+gene variation that some studies have associated with increased iron stores in people of African descent may affect the way ferroportin helps to regulate iron absorption in the body. However, researchers suggest that this variation is not associated with most cases of African iron overload.
+Learn more about the gene associated with African iron overload
+SLC40A1
+Inheritance
+African iron overload seems to run in families, and high iron in a family's diet seems to be the major contributor to development of the condition. There also may be a genetic contribution, but the inheritance pattern is unknown. People with a specific variation in the
+SLC40A1
+gene may inherit an increased risk of this condition, but not the condition itself. Not all people with this condition have the variation in the gene, and not all people with the variation will develop the disorder.
+Other Names for This Condition
+African hemochromatosis
+African nutritional hemochromatosis
+African siderosis
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+African iron overload
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+IRON OVERLOAD IN AFRICA
+Scientific Articles on PubMed
+PubMed
+References
+Barton JC, Acton RT, Lee PL, West C. SLC40A1 Q248H allele frequencies and
+Q248H-associated risk of non-HFE iron overload in persons of sub-Saharan African
+descent. Blood Cells Mol Dis. 2007 Sep-Oct;39(2):206-11. doi:
+10.1016/j.bcmd.2007.03.008. Epub 2007 May 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Beutler E, Barton JC, Felitti VJ, Gelbart T, West C, Lee PL, Waalen J, Vulpe
+C. Ferroportin 1 (SCL40A1) variant associated with iron overload in
+African-Americans. Blood Cells Mol Dis. 2003 Nov-Dec;31(3):305-9. doi:
+10.1016/s1079-9796(03)00165-7.
+Citation on PubMed
+Gordeuk VR, Caleffi A, Corradini E, Ferrara F, Jones RA, Castro O, Onyekwere
+O, Kittles R, Pignatti E, Montosi G, Garuti C, Gangaidzo IT, Gomo ZA, Moyo VM,
+Rouault TA, MacPhail P, Pietrangelo A. Iron overload in Africans and
+African-Americans and a common mutation in the SCL40A1 (ferroportin 1) gene.
+Blood Cells Mol Dis. 2003 Nov-Dec;31(3):299-304. doi:
+10.1016/s1079-9796(03)00164-5.
+Citation on PubMed
+Gordeuk VR. African iron overload. Semin Hematol. 2002 Oct;39(4):263-9. doi:
+10.1053/shem.2002.35636.
+Citation on PubMed
+McNamara L, Gordeuk VR, MacPhail AP. Ferroportin (Q248H) mutations in African
+families with dietary iron overload. J Gastroenterol Hepatol. 2005
+Dec;20(12):1855-8. doi: 10.1111/j.1440-1746.2005.03930.x.
+Citation on PubMed
+Rivers CA, Barton JC, Gordeuk VR, Acton RT, Speechley MR, Snively BM,
+Leiendecker-Foster C, Press RD, Adams PC, McLaren GD, Dawkins FW, McLaren CE,
+Reboussin DM. Association of ferroportin Q248H polymorphism with elevated levels
+of serum ferritin in African Americans in the Hemochromatosis and Iron Overload
+Screening (HEIRS) Study. Blood Cells Mol Dis. 2007 May-Jun;38(3):247-52. doi:
+10.1016/j.bcmd.2006.12.002. Epub 2007 Feb 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Cirrhosis
+Genetic Disorders
+Iron
+MEDICAL ENCYCLOPEDIA
+Genetics
+Liver cancer - hepatocellular carcinoma
+Related Medical Tests
+Ferritin Blood Test
+Iron Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

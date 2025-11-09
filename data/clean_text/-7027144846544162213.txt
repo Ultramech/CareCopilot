@@ -1,0 +1,164 @@
+Asphyxiating thoracic dystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Asphyxiating thoracic dystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/asphyxiating-thoracic-dystrophy/
+Asphyxiating thoracic dystrophy
+Description
+Asphyxiating thoracic dystrophy, also known as Jeune syndrome, is an inherited disorder of bone growth characterized by a narrow chest, short ribs, shortened bones in the arms and legs, short stature, and extra
+fingers
+and
+toes
+(polydactyly). Additional skeletal abnormalities can include unusually shaped collarbones (clavicles) and pelvic bones, and and cone-shaped
+ends of the long bones
+in the arms and legs. Many infants with this condition are born with an extremely narrow, bell-shaped chest that can restrict the growth and expansion of the lungs. Life-threatening problems with breathing result, and people with asphyxiating thoracic dystrophy may live only into infancy or early childhood. However, in people who survive beyond the first few years, the narrow chest and related breathing problems can improve with age.
+Some people with asphyxiating thoracic dystrophy are born with less severe skeletal abnormalities and have only mild breathing difficulties, such as rapid breathing or shortness of breath. These individuals may live into adolescence or adulthood. After infancy, people with this condition may develop life-threatening kidney (renal) abnormalities that cause the kidneys to malfunction or fail. Heart defects and a narrowing of the airway (subglottic stenosis) are also possible. Other, less common features of asphyxiating thoracic dystrophy include liver disease, fluid-filled sacs (cysts) in
+the pancreas
+, dental abnormalities, and an eye disease called retinal dystrophy that can lead to vision loss.
+Frequency
+Asphyxiating thoracic dystrophy affects an estimated 1 in 100,000 to 130,000 people.
+Causes
+Mutations in at least 11 genes have been found to cause asphyxiating thoracic dystrophy. Genetic changes in the
+IFT80
+gene were the first to be associated with this condition. Later, researchers discovered that mutations in another gene,
+DYNC2H1
+, account for up to half of all cases. Mutations in other genes each cause a small percentage of cases. In total, about 70 percent of people with asphyxiating thoracic dystrophy have mutations in one of the known genes.
+The genes associated with asphyxiating thoracic dystrophy provide instructions for making proteins that are found in cell structures called cilia. Cilia are microscopic, finger-like projections that stick out from the surface of cells. The proteins are involved in a process called intraflagellar transport (IFT), by which materials are carried to and from the tips of cilia. IFT is essential for the assembly and maintenance of these cell structures. Cilia play central roles in many different chemical signaling pathways, including a series of reactions called the Sonic Hedgehog pathway. These pathways are important for the growth and division (proliferation) and maturation (differentiation) of cells. In particular, Sonic Hedgehog appears to be essential for the proliferation and differentiation of cells that ultimately give rise to cartilage and bone.
+Mutations in the genes associated with asphyxiating thoracic dystrophy impair IFT, which disrupts the normal assembly or function of cilia. As a result, cilia are missing or abnormal in many different kinds of cells. Researchers speculate that these changes alter signaling through certain signaling pathways, including the Sonic Hedgehog pathway, which may underlie the abnormalities of bone growth characteristic of asphyxiating thoracic dystrophy. Abnormal cilia in other tissues, such as the kidneys, liver, and retinas, cause the other signs and symptoms of the condition.
+Asphyxiating thoracic dystrophy is part of a group of disorders known as skeletal ciliopathies or ciliary chondrodysplasias, all of which are caused by problems with cilia and involve bone abnormalities. Several of these disorders, including asphyxiating thoracic dystrophy, are sometimes classified more specifically as short rib-polydactyly syndromes (SRPSs) based on their signs and symptoms. Some researchers believe that SRPSs would be more accurately described as a spectrum with a range of features rather than as separate disorders.
+Learn more about the genes associated with Asphyxiating thoracic dystrophy
+DYNC2H1
+IFT140
+IFT80
+WDR19
+WDR35
+Additional Information from NCBI Gene:
+CEP120
+CSPP1
+DYNC2I1
+DYNC2I2
+IFT172
+TTC21B
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Asphyxiating thoracic chondrodystrophy
+Asphyxiating thoracic dysplasia
+ATD
+Chondroectodermal dysplasia-like syndrome
+Infantile thoracic dystrophy
+Jeune syndrome
+Jeune thoracic dysplasia
+Jeune thoracic dystrophy
+Thoracic asphyxiant dystrophy
+Thoracic-pelvic-phalangeal dystrophy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Asphyxiating thoracic dystrophy 2
+Genetic Testing Registry: Asphyxiating thoracic dystrophy 4
+Genetic Testing Registry: Asphyxiating thoracic dystrophy 5
+Genetic Testing Registry: Asphyxiating thoracic dystrophy 1
+Genetic Testing Registry: Jeune thoracic dystrophy
+Genetic and Rare Diseases Information Center
+Jeune syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SHORT-RIB THORACIC DYSPLASIA 1 WITH OR WITHOUT POLYDACTYLY; SRTD1
+SHORT-RIB THORACIC DYSPLASIA 6 WITH OR WITHOUT POLYDACTYLY; SRTD6
+SHORT-RIB THORACIC DYSPLASIA 9 WITH OR WITHOUT POLYDACTYLY; SRTD9
+SHORT-RIB THORACIC DYSPLASIA 2 WITH OR WITHOUT POLYDACTYLY; SRTD2
+SHORT-RIB THORACIC DYSPLASIA 5 WITH OR WITHOUT POLYDACTYLY; SRTD5
+SHORT-RIB THORACIC DYSPLASIA 10 WITH OR WITHOUT POLYDACTYLY; SRTD10
+SHORT-RIB THORACIC DYSPLASIA 11 WITH OR WITHOUT POLYDACTYLY; SRTD11
+SHORT-RIB THORACIC DYSPLASIA 3 WITH OR WITHOUT POLYDACTYLY; SRTD3
+SHORT-RIB THORACIC DYSPLASIA 8 WITH OR WITHOUT POLYDACTYLY; SRTD8
+SHORT-RIB THORACIC DYSPLASIA 7 WITH OR WITHOUT POLYDACTYLY; SRTD7
+SHORT-RIB THORACIC DYSPLASIA 4 WITH OR WITHOUT POLYDACTYLY; SRTD4
+Scientific Articles on PubMed
+PubMed
+References
+Baujat G, Huber C, El Hokayem J, Caumes R, Do Ngoc Thanh C, David A, Delezoide
+AL, Dieux-Coeslier A, Estournet B, Francannet C, Kayirangwa H, Lacaille F, Le
+Bourgeois M, Martinovic J, Salomon R, Sigaudy S, Malan V, Munnich A, Le Merrer M,
+Le Quan Sang KH, Cormier-Daire V. Asphyxiating thoracic dysplasia: clinical and
+molecular review of 39 families. J Med Genet. 2013 Feb;50(2):91-8. doi:
+10.1136/jmedgenet-2012-101282.
+Citation on PubMed
+Beales PL, Bland E, Tobin JL, Bacchelli C, Tuysuz B, Hill J, Rix S, Pearson
+CG, Kai M, Hartley J, Johnson C, Irving M, Elcioglu N, Winey M, Tada M, Scambler
+PJ. IFT80, which encodes a conserved intraflagellar transport protein, is mutated
+in Jeune asphyxiating thoracic dystrophy. Nat Genet. 2007 Jun;39(6):727-9. doi:
+10.1038/ng2038. Epub 2007 Apr 29.
+Citation on PubMed
+Huber C, Cormier-Daire V. Ciliary disorder of the skeleton. Am J Med Genet C
+Semin Med Genet. 2012 Aug 15;160C(3):165-74. doi: 10.1002/ajmg.c.31336. Epub 2012
+Jul 12.
+Citation on PubMed
+Keppler-Noreuil KM, Adam MP, Welch J, Muilenburg A, Willing MC. Clinical
+insights gained from eight new cases and review of reported cases with Jeune
+syndrome (asphyxiating thoracic dystrophy). Am J Med Genet A. 2011
+May;155A(5):1021-32. doi: 10.1002/ajmg.a.33892. Epub 2011 Apr 4.
+Citation on PubMed
+Schmidts M, Arts HH, Bongers EM, Yap Z, Oud MM, Antony D, Duijkers L, Emes RD,
+Stalker J, Yntema JB, Plagnol V, Hoischen A, Gilissen C, Forsythe E, Lausch E,
+Veltman JA, Roeleveld N, Superti-Furga A, Kutkowska-Kazmierczak A, Kamsteeg EJ,
+Elcioglu N, van Maarle MC, Graul-Neumann LM, Devriendt K, Smithson SF, Wellesley
+D, Verbeek NE, Hennekam RC, Kayserili H, Scambler PJ, Beales PL; UK10K; Knoers
+NV, Roepman R, Mitchison HM. Exome sequencing identifies DYNC2H1 mutations as a
+common cause of asphyxiating thoracic dystrophy (Jeune syndrome) without major
+polydactyly, renal or retinal involvement. J Med Genet. 2013 May;50(5):309-23.
+doi: 10.1136/jmedgenet-2012-101284. Epub 2013 Mar 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schmidts M. Clinical genetics and pathobiology of ciliary chondrodysplasias. J
+Pediatr Genet. 2014 Nov;3(2):46-94. doi: 10.3233/PGE-14089.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Bone Diseases
+Dwarfism
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Chronic kidney disease
+Genetics
+Polydactyly
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

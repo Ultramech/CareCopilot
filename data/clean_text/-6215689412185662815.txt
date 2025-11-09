@@ -1,0 +1,116 @@
+McLeod neuroacanthocytosis syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+McLeod neuroacanthocytosis syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/mcleod-neuroacanthocytosis-syndrome/
+McLeod neuroacanthocytosis syndrome
+Description
+McLeod neuroacanthocytosis syndrome is primarily a neurological disorder that occurs almost exclusively in boys and men. This disorder affects movement in many parts of the body. People with McLeod neuroacanthocytosis syndrome also have abnormal star-shaped red blood cells (acanthocytosis). This condition is one of a group of disorders called neuroacanthocytoses that involve neurological problems and abnormal red blood cells.
+McLeod neuroacanthocytosis syndrome affects the brain and spinal cord (central nervous system). Affected individuals have involuntary movements, including jerking motions (chorea), particularly of the arms and legs, and muscle tensing (dystonia) in the face and throat, which can cause grimacing and vocal tics (such as grunting and clicking noises). Dystonia of the tongue can lead to swallowing difficulties. Seizures occur in approximately half of all people with McLeod neuroacanthocytosis syndrome. Individuals with this condition may develop difficulty processing, learning, and remembering information (cognitive impairment). They may also develop psychiatric disorders, such as
+depression
+,
+bipolar disorder
+, psychosis, or
+obsessive-compulsive disorder
+.
+People with McLeod neuroacanthocytosis syndrome also have problems with their muscles, including muscle weakness (myopathy) and muscle degeneration (atrophy). Sometimes, nerves that connect to muscles atrophy (neurogenic atrophy), leading to loss of muscle mass and impaired movement. Individuals with McLeod neuroacanthocytosis syndrome may also have reduced sensation and weakness in their arms and legs (peripheral neuropathy). Life-threatening heart problems such as irregular heartbeats (arrhythmia) and a weakened and enlarged heart (
+dilated cardiomyopathy
+) are common in individuals with this disorder.
+The signs and symptoms of McLeod neuroacanthocytosis syndrome usually begin in mid-adulthood. Behavioral changes, such as lack of self-restraint, the inability to take care of oneself, anxiety, depression, and changes in personality may be the first signs of this condition. While these behavioral changes are typically not progressive, the movement and muscle problems and intellectual impairments tend to worsen with age.
+Frequency
+McLeod neuroacanthocytosis syndrome is rare; approximately 150 cases have been reported worldwide.
+Causes
+Mutations in the
+XK
+gene cause McLeod neuroacanthocytosis syndrome. The
+XK
+gene provides instructions for producing the XK protein, which carries the blood antigen Kx. Blood antigens are found on the surface of red blood cells and determine blood type. The XK protein is found in various tissues, particularly the brain, muscle, and heart. The function of the XK protein is unclear; researchers believe that it might play a role in transporting substances into and out of cells. On red blood cells, the XK protein attaches to another blood group protein, the Kell protein. The function of this blood group complex is unknown.
+XK
+gene mutations typically lead to the production of an abnormally short, nonfunctional protein or cause no protein to be produced at all. A lack of XK protein leads to an absence of Kx antigens on red blood cells; the Kell antigen is also less prevalent. The absence of Kx antigen and reduction of Kell antigen is known as the "McLeod phenotype," and refers only to the red blood cells. It is not known how the lack of XK protein leads to the movement problems and other features of McLeod neuroacanthocytosis syndrome.
+Learn more about the gene associated with McLeod neuroacanthocytosis syndrome
+XK
+Inheritance
+McLeod neuroacanthocytosis syndrome is inherited in an
+X-linked recessive pattern
+. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. Rarely, females with a mutation in one copy of the
+XK
+gene can have the characteristic misshapen blood cells and movement problems associated with McLeod neuroacanthocytosis syndrome. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+McLeod syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: McLeod neuroacanthocytosis syndrome
+Genetic and Rare Diseases Information Center
+McLeod neuroacanthocytosis syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MCLEOD SYNDROME; MCLDS
+Scientific Articles on PubMed
+PubMed
+References
+Danek A, Rubio JP, Rampoldi L, Ho M, Dobson-Stone C, Tison F, Symmans WA,
+Oechsner M, Kalckreuth W, Watt JM, Corbett AJ, Hamdalla HH, Marshall AG, Sutton
+I, Dotti MT, Malandrini A, Walker RH, Daniels G, Monaco AP. McLeod
+neuroacanthocytosis: genotype and phenotype. Ann Neurol. 2001 Dec;50(6):755-64.
+doi: 10.1002/ana.10035.
+Citation on PubMed
+Hewer E, Danek A, Schoser BG, Miranda M, Reichard R, Castiglioni C, Oechsner
+M, Goebel HH, Heppner FL, Jung HH. McLeod myopathy revisited: more neurogenic and
+less benign. Brain. 2007 Dec;130(Pt 12):3285-96. doi: 10.1093/brain/awm269.
+Citation on PubMed
+Jung HH, Danek A, Frey BM. McLeod syndrome: a neurohaematological disorder.
+Vox Sang. 2007 Aug;93(2):112-21. doi: 10.1111/j.1423-0410.2007.00949.x.
+Citation on PubMed
+Jung HH, Danek A, Walker RH. Neuroacanthocytosis syndromes. Orphanet J Rare
+Dis. 2011 Oct 25;6:68. doi: 10.1186/1750-1172-6-68.
+Citation on PubMed
+or
+Free article on PubMed Central
+Oechslin E, Kaup D, Jenni R, Jung HH. Cardiac abnormalities in McLeod
+syndrome. Int J Cardiol. 2009 Feb 6;132(1):130-2. doi:
+10.1016/j.ijcard.2007.07.167. Epub 2007 Nov 28.
+Citation on PubMed
+Russo DC, Lee S, Reid ME, Redman CM. Point mutations causing the McLeod
+phenotype. Transfusion. 2002 Mar;42(3):287-93. doi:
+10.1046/j.1537-2995.2002.00049.x.
+Citation on PubMed
+Related Health Topics
+Blood Disorders
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

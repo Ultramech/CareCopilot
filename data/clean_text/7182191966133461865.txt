@@ -1,0 +1,110 @@
+Paramyotonia congenita: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Paramyotonia congenita
+URL of this page: https://medlineplus.gov/genetics/condition/paramyotonia-congenita/
+Paramyotonia congenita
+Description
+Paramyotonia congenita is a disorder that affects muscles used for movement (skeletal muscles). Beginning in infancy or early childhood, people with this condition experience bouts of sustained muscle tensing (myotonia) that prevent muscles from relaxing normally. Myotonia causes muscle stiffness that typically appears after exercise and can be induced by muscle cooling. This stiffness chiefly affects muscles in the face, neck, arms, and hands, although it can also affect muscles used for breathing and muscles in the lower body. Unlike many other forms of myotonia, the muscle stiffness associated with paramyotonia congenita tends to worsen with repeated movements.
+Most people—even those without muscle disease—feel that their muscles do not work as well when they are cold. This effect is dramatic in people with paramyotonia congenita. Exposure to cold initially causes muscle stiffness in these individuals, and prolonged cold exposure leads to temporary episodes of mild to severe muscle weakness that may last for several hours at a time. Some older people with paramyotonia congenita develop permanent muscle weakness that can be disabling.
+Frequency
+Paramyotonia congenita is an uncommon disorder; it is estimated to affect fewer than 1 in 100,000 people.
+Causes
+Mutations in the
+SCN4A
+gene cause paramyotonia congenita. This gene provides instructions for making a protein that is critical for the normal function of skeletal muscle cells. For the body to move normally, skeletal muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of positively charged atoms (ions), including sodium, into skeletal muscle cells. The SCN4A protein forms
+channels
+that control the flow of sodium ions into these cells.
+Mutations in the
+SCN4A
+gene alter the usual structure and function of sodium channels. The altered channels cannot effectively regulate the flow of sodium ions into skeletal muscle cells. The resulting increase in ion flow interferes with normal muscle contraction and relaxation, leading to episodes of muscle stiffness and weakness.
+Learn more about the gene associated with Paramyotonia congenita
+SCN4A
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person has one parent with the condition.
+Other Names for This Condition
+Eulenburg disease
+Paralysis periodica paramyotonia
+Paramyotonia congenita of von Eulenburg
+PMC
+Von Eulenberg's disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Paramyotonia congenita of von Eulenburg
+Genetic and Rare Diseases Information Center
+Paramyotonia congenita of Von Eulenburg
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PARAMYOTONIA CONGENITA; PMC
+Scientific Articles on PubMed
+PubMed
+References
+Cavel-Greant D, Lehmann-Horn F, Jurkat-Rott K. The impact of permanent muscle
+weakness on quality of life in periodic paralysis: a survey of 66 patients. Acta
+Myol. 2012 Oct;31(2):126-33.
+Citation on PubMed
+or
+Free article on PubMed Central
+Finsterer J. Primary periodic paralyses. Acta Neurol Scand. 2008
+Mar;117(3):145-58. doi: 10.1111/j.1600-0404.2007.00963.x. Epub 2007 Nov 20.
+Citation on PubMed
+Magot A, David A, Sternberg D, Pereon Y. Focal and abnormally persistent
+paralysis associated with congenital paramyotonia. BMJ Case Rep. 2014 Jun
+17;2014:bcr2014204430. doi: 10.1136/bcr-2014-204430.
+Citation on PubMed
+Miller TM, Dias da Silva MR, Miller HA, Kwiecinski H, Mendell JR, Tawil R,
+McManis P, Griggs RC, Angelini C, Servidei S, Petajan J, Dalakas MC, Ranum LP, Fu
+YH, Ptacek LJ. Correlating phenotype and genotype in the periodic paralyses.
+Neurology. 2004 Nov 9;63(9):1647-55. doi: 10.1212/01.wnl.0000143383.91137.00.
+Citation on PubMed
+Miller TM. Differential diagnosis of myotonic disorders. Muscle Nerve. 2008
+Mar;37(3):293-9. doi: 10.1002/mus.20923.
+Citation on PubMed
+Tamaoka A. Paramyotonia congenita and skeletal sodium channelopathy. Intern
+Med. 2003 Sep;42(9):769-70. doi: 10.2169/internalmedicine.42.769. No abstract
+available.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

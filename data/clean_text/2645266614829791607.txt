@@ -1,0 +1,147 @@
+Giant axonal neuropathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Giant axonal neuropathy
+URL of this page: https://medlineplus.gov/genetics/condition/giant-axonal-neuropathy/
+Giant axonal neuropathy
+Description
+Giant axonal neuropathy is an inherited condition characterized by abnormally large and dysfunctional
+axons
+called giant axons. Axons are specialized extensions of nerve cells (neurons) that transmit nerve impulses. Symptoms of the disorder first become apparent in the peripheral nervous system, in which long axons connect the brain and spinal cord (central nervous system) to muscles and to sensory cells that detect sensations such as touch, pain, heat, and sound. However, axons in the central nervous system are affected as well.
+The signs and symptoms of giant axonal neuropathy generally begin in early childhood and get worse over time. Most affected individuals first have problems with walking. Later they may lose sensation, strength, and reflexes in their limbs; experience difficulty coordinating movements (ataxia); and require wheelchair assistance. Many affected individuals have an abnormal curvature of the spine (scoliosis). Visual and hearing problems may also occur. Many individuals with this condition have extremely kinky hair as compared to others in their family.
+Giant axonal neuropathy can also impact the autonomic nervous system, which controls involuntary body processes. Affected individuals may experience problems with constipation, heat intolerance, and the release of urine (neurogenic bladder), and a reduction in or loss of the ability to sweat.
+As the disorder worsens, paralysis, seizures, difficulty breathing or swallowing, and a gradual decline in mental function (dementia) can also occur. Most people with giant axonal neuropathy do not survive past their twenties.
+Some affected individuals have a milder form of giant axonal neuropathy that begins later in life. Movement problems in these individuals are less severe, and the signs and symptoms usually worsen at a slower rate than in the classic form of the condition. Individuals with the milder form often have straight hair, and they may survive into adulthood.
+Frequency
+Giant axonal neuropathy is a very rare disorder; only about 50 affected families have been described in the medical literature. The condition is thought to be underdiagnosed because its early symptoms resemble those of other, more common disorders affecting the peripheral nervous system, such as
+Charcot-Marie-Tooth disease
+.
+Causes
+Giant axonal neuropathy is caused by mutations in the
+GAN
+gene, which provides instructions for making a protein called gigaxonin. Gigaxonin is part of the ubiquitin-proteasome system, which is a process that identifies and gets rid of excess or damaged proteins within cells. In particular, gigaxonin plays a role in the breakdown of neurofilaments, which comprise the structural framework that establishes the size and shape of axons.
+The
+GAN
+gene mutations that have been identified in people with giant axonal neuropathy result in an unstable gigaxonin protein that breaks down more easily than normal, resulting in much less gigaxonin in cells. In neurons without enough functional gigaxonin, neurofilaments that would otherwise have been broken down by the ubiquitin-proteasome system accumulate. The neurofilaments become densely packed in the giant axons of people with giant axonal neuropathy. These giant axons do not transmit signals properly and eventually deteriorate, resulting in the death of neurons. The loss of nerve cells leads to problems with walking and sensation in people with giant axonal neuropathy.
+Learn more about the gene associated with Giant axonal neuropathy
+GAN
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+GAN
+Giant axonal disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Giant axonal neuropathy 1
+Genetic and Rare Diseases Information Center
+Giant axonal neuropathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GIANT AXONAL NEUROPATHY 1, AUTOSOMAL RECESSIVE; GAN1
+Scientific Articles on PubMed
+PubMed
+References
+Boizot A, Talmat-Amar Y, Morrogh D, Kuntz NL, Halbert C, Chabrol B, Houlden H,
+Stojkovic T, Schulman BA, Rautenstrauss B, Bomont P. The instability of the
+BTB-KELCH protein Gigaxonin causes Giant Axonal Neuropathy and constitutes a new
+penetrant and specific diagnostic test. Acta Neuropathol Commun. 2014 Apr
+24;2:47. doi: 10.1186/2051-5960-2-47.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bomont P, Cavalier L, Blondeau F, Ben Hamida C, Belal S, Tazir M, Demir E,
+Topaloglu H, Korinthenberg R, Tuysuz B, Landrieu P, Hentati F, Koenig M. The gene
+encoding gigaxonin, a new member of the cytoskeletal BTB/kelch repeat family, is
+mutated in giant axonal neuropathy. Nat Genet. 2000 Nov;26(3):370-4. doi:
+10.1038/81701.
+Citation on PubMed
+Hentati F, Hentati E, Amouri R. Giant axonal neuropathy. Handb Clin Neurol.
+2013;115:933-8. doi: 10.1016/B978-0-444-52902-2.00052-7.
+Citation on PubMed
+Incecik F, Herguner OM, Ceylaner S, Zorludemir S, Altunbasak S. Giant axonal
+disease: Report of eight cases. Brain Dev. 2015 Sep;37(8):803-7. doi:
+10.1016/j.braindev.2014.12.002. Epub 2014 Dec 19.
+Citation on PubMed
+Johnson-Kerner BL, Garcia Diaz A, Ekins S, Wichterle H. Kelch Domain of
+Gigaxonin Interacts with Intermediate Filament Proteins Affected in Giant Axonal
+Neuropathy. PLoS One. 2015 Oct 13;10(10):e0140157. doi:
+10.1371/journal.pone.0140157. eCollection 2015.
+Citation on PubMed
+or
+Free article on PubMed Central
+Johnson-Kerner BL, Roth L, Greene JP, Wichterle H, Sproule DM. Giant axonal
+neuropathy: An updated perspective on its pathology and pathogenesis. Muscle
+Nerve. 2014 Oct;50(4):467-76. doi: 10.1002/mus.24321.
+Citation on PubMed
+Kamate M, Ramakrishna S, Kambali S, Mahadevan A. Giant axonal neuropathy: a
+rare inherited neuropathy with simple clinical clues. BMJ Case Rep. 2014 Sep
+12;2014:bcr2014204481. doi: 10.1136/bcr-2014-204481.
+Citation on PubMed
+Mussche S, De Paepe B, Smet J, Devreese K, Lissens W, Rasic VM, Murnane M,
+Devreese B, Van Coster R. Proteomic analysis in giant axonal neuropathy: new
+insights into disease mechanisms. Muscle Nerve. 2012 Aug;46(2):246-56. doi:
+10.1002/mus.23306.
+Citation on PubMed
+Neuromuscular Disease Center, Washington University
+Opal P. GAN-Related Neurodegeneration. 2003 Jan 9 [updated 2021 Oct
+14]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1136/
+Citation on PubMed
+Roth LA, Johnson-Kerner BL, Marra JD, LaMarca NH, Sproule DM. The absence of
+curly hair is associated with a milder phenotype in Giant Axonal Neuropathy.
+Neuromuscul Disord. 2014 Jan;24(1):48-55. doi: 10.1016/j.nmd.2013.06.007. Epub
+2013 Jul 24.
+Citation on PubMed
+Vijaykumar K, Bindu PS, Taly AB, Mahadevan A, Bharath RD, Gayathri N, Nagappa
+M, Sinha S. Giant axonal neuropathy. J Child Neurol. 2015 Jun;30(7):912-5. doi:
+10.1177/0883073814547721. Epub 2014 Sep 11.
+Citation on PubMed
+Yiu EM, Ryan MM. Genetic axonal neuropathies and neuronopathies of pre-natal
+and infantile onset. J Peripher Nerv Syst. 2012 Sep;17(3):285-300. doi:
+10.1111/j.1529-8027.2012.00412.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

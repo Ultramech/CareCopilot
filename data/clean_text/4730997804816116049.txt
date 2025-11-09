@@ -1,0 +1,132 @@
+Peters plus syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Peters plus syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/peters-plus-syndrome/
+Peters plus syndrome
+Description
+Peters plus syndrome is an inherited condition that is characterized by eye abnormalities, short stature, an opening in the lip (
+cleft lip
+) with or without an opening in the roof of the mouth (
+cleft palate
+), distinctive facial features, and intellectual disability.
+The eye problems in Peters plus syndrome occur in an area at the front part of
+the eye
+known as the anterior segment. The anterior segment consists of structures including the lens, the colored part of the eye (iris), and the clear covering of the eye (cornea). An eye problem called
+Peters anomaly
+is the most common anterior segment abnormality seen in Peters plus syndrome. Peters anomaly involves abnormal development of the anterior segment, which results in a cornea that is cloudy (opaque) and causes blurred vision. Peters anomaly may also be associated with clouding of the lenses of the eyes (
+cataracts
+) or other lens abnormalities. Peters anomaly is usually bilateral, which means that it affects both eyes. The severity of corneal clouding and other eye problems can vary between individuals with Peters plus syndrome, even among members of the same family. Many people with Peters plus syndrome experience vision loss that worsens over time.
+All people with Peters plus syndrome have short stature, which is evident before birth. The height of adult males with this condition ranges from 141 centimeters to 155 centimeters (4 feet, 7 inches to 5 feet, 1 inch), and the height of adult females ranges from 128 centimeters to 151 centimeters (4 feet, 2 inches to 4 feet, 11 inches). Individuals with Peters plus syndrome also have shortened upper limbs (rhizomelia) and shortened fingers and toes (brachydactyly).
+The characteristic facial features of Peters plus syndrome include a prominent forehead; small, malformed ears; narrow eyes; a long area between the nose and mouth (philtrum); and a pronounced double curve of the upper lip (Cupid's bow). The neck may also be broad and webbed. A cleft lip with or without a cleft palate is present in about half of the people with this condition.
+Developmental milestones, such as walking and speech, are delayed in most children with Peters plus syndrome. Most affected individuals also have intellectual disability that can range from mild to severe, although some have normal intelligence. The severity of physical features does not predict the level of intellectual disability.
+Less common signs and symptoms of Peters plus syndrome include heart defects, structural brain abnormalities, hearing loss, and kidney or genital abnormalities.
+Frequency
+Peters plus syndrome is a rare disorder; its incidence is unknown. Fewer than 80 people with this condition have been reported worldwide.
+Causes
+Mutations in the
+B3GLCT
+gene cause Peters plus syndrome. The
+B3GLCT
+gene provides instructions for making an enzyme called beta 3-glucosyltransferase (B3Glc-T), which is involved in the complex process of adding sugar molecules to proteins (glycosylation). Glycosylation modifies proteins so they can perform a wider variety of functions. Most mutations in the
+B3GLCT
+gene lead to the production of an abnormally short, nonfunctional version of the B3Glc-T enzyme, which disrupts glycosylation. It is unclear how the loss of functional B3Glc-T enzyme leads to the signs and symptoms of Peters plus syndrome, but impaired glycosylation likely disrupts the function of many proteins, which may contribute to the variety of features.
+Learn more about the gene associated with Peters plus syndrome
+B3GLCT
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Krause-Kivlin syndrome
+Krause-van Schooneveld-Kivlin syndrome
+Peters anomaly-short limb dwarfism syndrome
+Peters' plus syndrome
+Peters'-plus syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Peters plus syndrome
+Genetic and Rare Diseases Information Center
+Peters plus syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PETERS-PLUS SYNDROME; PTRPLS
+Scientific Articles on PubMed
+PubMed
+References
+Hess D, Keusch JJ, Oberstein SA, Hennekam RC, Hofsteenge J. Peters Plus
+syndrome is a new congenital disorder of glycosylation and involves defective
+Omicron-glycosylation of thrombospondin type 1 repeats. J Biol Chem. 2008 Mar
+21;283(12):7354-60. doi: 10.1074/jbc.M710251200. Epub 2008 Jan 16.
+Citation on PubMed
+Lesnik Oberstein SA, Kriek M, White SJ, Kalf ME, Szuhai K, den Dunnen JT,
+Breuning MH, Hennekam RC. Peters Plus syndrome is caused by mutations in B3GALTL,
+a putative glycosyltransferase. Am J Hum Genet. 2006 Sep;79(3):562-6. doi:
+10.1086/507567. Epub 2006 Jul 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lesnik Oberstein SAJ, Ruivenkamp CAL, Hennekam RC. Peters Plus Syndrome. 2007
+Oct 8 [updated 2025 Jan 30]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace
+SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1464/
+Citation on PubMed
+Maillette de Buy Wenniger-Prick LJ, Hennekam RC. The Peters' plus syndrome: a
+review. Ann Genet. 2002 Apr-Jun;45(2):97-103. doi: 10.1016/s0003-3995(02)01120-6.
+Citation on PubMed
+Reis LM, Tyler RC, Abdul-Rahman O, Trapane P, Wallerstein R, Broome D, Hoffman
+J, Khan A, Paradiso C, Ron N, Bergner A, Semina EV. Mutation analysis of B3GALTL
+in Peters Plus syndrome. Am J Med Genet A. 2008 Oct 15;146A(20):2603-10. doi:
+10.1002/ajmg.a.32498.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schoner K, Kohlhase J, Muller AM, Schramm T, Plassmann M, Schmitz R, Neesen J,
+Wieacker P, Rehder H. Hydrocephalus, agenesis of the corpus callosum, and cleft
+lip/palate represent frequent associations in fetuses with Peters' plus syndrome
+and B3GALTL mutations. Fetal PPS phenotypes, expanded by Dandy Walker cyst and
+encephalocele. Prenat Diagn. 2013 Jan;33(1):75-80. doi: 10.1002/pd.4012. Epub
+2012 Nov 13.
+Citation on PubMed
+Related Health Topics
+Cleft Lip and Palate
+Corneal Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cloudy cornea
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

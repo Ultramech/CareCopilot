@@ -1,0 +1,193 @@
+Shwachman-Diamond syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Shwachman-Diamond syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/shwachman-diamond-syndrome/
+Shwachman-Diamond syndrome
+Description
+Shwachman-Diamond syndrome is an inherited condition that affects many parts of the body, particularly the bone marrow, pancreas, and bones.
+The major function of bone marrow is to produce new blood cells. These include red blood cells, which carry oxygen to the body's tissues; white blood cells, which fight infection; and platelets, which are blood cells that are necessary for normal blood clotting. In Shwachman-Diamond syndrome, the bone marrow malfunctions and does not make some or all
+types of white blood cells
+. A shortage of neutrophils, the most common type of white blood cell, causes a condition called neutropenia. Most people with Shwachman-Diamond syndrome have at least occasional episodes of neutropenia, which makes them more vulnerable to infections, often involving the lungs (pneumonia), ears (otitis media), or skin. Less commonly, bone marrow abnormalities lead to a shortage of red blood cells (
+anemia
+), which causes fatigue and weakness, or a reduction in the amount of platelets (thrombocytopenia), which can result in easy bruising and abnormal bleeding.
+People with Shwachman-Diamond syndrome have an increased risk of several serious complications related to their malfunctioning bone marrow. Specifically, they have a higher-than-average chance of developing myelodysplastic syndrome (MDS) and
+aplastic anemia
+, which are disorders caused by abnormal blood stem cells, and a cancer of blood-forming tissue known as acute myeloid
+leukemia
+(AML).
+Shwachman-Diamond syndrome also affects the
+pancreas
+, which is an organ that plays an essential role in digestion. One of this organ's main functions is to produce enzymes that help break down and use nutrients from food. In most infants with Shwachman-Diamond syndrome, the pancreas does not produce enough of these enzymes. This condition is known as pancreatic insufficiency. Infants with pancreatic insufficiency have trouble digesting food and absorbing nutrients and vitamins that are needed for growth. As a result, they often have fatty, foul-smelling stools (steatorrhea); are slow to grow and gain weight (failure to thrive); and experience malnutrition. Pancreatic insufficiency often improves with age in people with Shwachman-Diamond syndrome.
+Skeletal abnormalities are another common feature of Shwachman-Diamond syndrome. Many affected individuals have problems with bone formation and growth, most often affecting the hips and knees. Low bone density is also frequently associated with this condition. Some affected infants are born with a narrow rib cage and short ribs, which can cause life-threatening problems with breathing. The combination of skeletal abnormalities and slow growth results in short stature in most people with this disorder.
+The complications of Shwachman-Diamond syndrome can affect several other parts of the body, including the liver, heart,
+endocrine system
+(which produces hormones), eyes, teeth, and skin. Additionally, studies suggest that Shwachman-Diamond syndrome may be associated with delayed speech and the delayed development of motor skills such as sitting, standing, and walking.
+Frequency
+Shwachman-Diamond syndrome is a rare condition that is thought to occur in approximately 1 in 80,000 newborns. Because the signs and symptoms are variable and can be mild in some affected individuals, doctors suspect the condition is underdiagnosed.
+Causes
+Mutations in the
+SBDS
+gene have been identified in about 90 percent of people with the characteristic features of Shwachman-Diamond syndrome. This gene provides instructions for making a protein that is critical in building
+ribosomes
+. Ribosomes are cellular structures that process the cell's genetic instructions to create proteins.
+SBDS
+gene mutations reduce the amount or impair the function of the SBDS protein. It is unclear how these changes lead to the major signs and symptoms of Shwachman-Diamond syndrome. Researchers suspect that a shortage of functional SBDS impairs ribosome formation, which may reduce the production of other proteins and alter developmental processes.
+Other genes involved in Shwachman-Diamond syndrome appear to play roles in the assembly or function of ribosomes. Mutations in each of these genes account for a very small percentage of cases of the condition. In some cases, no mutations in any of the genes associated with the condition are found, and the cause of the disorder is unknown.
+Learn more about the gene associated with Shwachman-Diamond syndrome
+SBDS
+Additional Information from NCBI Gene:
+DNAJC21
+EFL1
+SRP54
+Inheritance
+Most cases of Shwachman-Diamond syndrome, including those caused by mutations in the
+SBDS
+gene, are inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. Typically, the parents of the affected individual each carry one copy of the mutated gene, but they do not show signs and symptoms of the condition. In some cases, one parent does not carry a copy of the mutated gene. Instead a new (de novo) mutation occurs in the gene during the formation of reproductive cells (eggs or sperm) in the parent or during early embryonic development.
+Rarely, the condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. These cases usually result from de novo mutations in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Congenital lipomatosis of pancreas
+Metaphyseal chondrodysplasia, Shwachman type
+SDS
+Shwachman syndrome
+Shwachman-Bodian syndrome
+Shwachman-Bodian-Diamond syndrome
+Shwachman-Diamond-Oski Syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Shwachman-Diamond syndrome 1
+Genetic and Rare Diseases Information Center
+Shwachman-Diamond syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SHWACHMAN-DIAMOND SYNDROME 1; SDS1
+Scientific Articles on PubMed
+PubMed
+References
+Ball HL, Zhang B, Riches JJ, Gandhi R, Li J, Rommens JM, Myers JS.
+Shwachman-Bodian Diamond syndrome is a multi-functional protein implicated in
+cellular stress responses. Hum Mol Genet. 2009 Oct 1;18(19):3684-95. doi:
+10.1093/hmg/ddp316. Epub 2009 Jul 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Calamita P, Miluzio A, Russo A, Pesce E, Ricciardi S, Khanim F, Cheroni C,
+Alfieri R, Mancino M, Gorrini C, Rossetti G, Peluso I, Pagani M, Medina DL,
+Rommens J, Biffo S. SBDS-Deficient Cells Have an Altered Homeostatic Equilibrium
+due to Translational Inefficiency Which Explains their Reduced Fitness and
+Provides a Logical Framework for Intervention. PLoS Genet. 2017 Jan
+5;13(1):e1006552. doi: 10.1371/journal.pgen.1006552. eCollection 2017 Jan.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dror Y, Donadieu J, Koglmeier J, Dodge J, Toiviainen-Salo S, Makitie O, Kerr
+E, Zeidler C, Shimamura A, Shah N, Cipolli M, Kuijpers T, Durie P, Rommens J,
+Siderius L, Liu JM. Draft consensus guidelines for diagnosis and treatment of
+Shwachman-Diamond syndrome. Ann N Y Acad Sci. 2011 Dec;1242:40-55. doi:
+10.1111/j.1749-6632.2011.06349.x.
+Citation on PubMed
+Dror Y. Shwachman-Diamond syndrome. Pediatr Blood Cancer. 2005
+Dec;45(7):892-901. doi: 10.1002/pbc.20478.
+Citation on PubMed
+Finch AJ, Hilcenko C, Basse N, Drynan LF, Goyenechea B, Menne TF, Gonzalez
+Fernandez A, Simpson P, D'Santos CS, Arends MJ, Donadieu J, Bellanne-Chantelot C,
+Costanzo M, Boone C, McKenzie AN, Freund SM, Warren AJ. Uncoupling of GTP
+hydrolysis from eIF6 release on the ribosome causes Shwachman-Diamond syndrome.
+Genes Dev. 2011 May 1;25(9):917-29. doi: 10.1101/gad.623011.
+Citation on PubMed
+or
+Free article on PubMed Central
+Goobie S, Popovic M, Morrison J, Ellis L, Ginzberg H, Boocock GR, Ehtesham N,
+Betard C, Brewer CG, Roslin NM, Hudson TJ, Morgan K, Fujiwara TM, Durie PR,
+Rommens JM. Shwachman-Diamond syndrome with exocrine pancreatic dysfunction and
+bone marrow failure maps to the centromeric region of chromosome 7. Am J Hum
+Genet. 2001 Apr;68(4):1048-54. doi: 10.1086/319505. Epub 2001 Mar 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grinspan ZM, Pikora CA. Infections in patients with Shwachman-Diamond
+syndrome. Pediatr Infect Dis J. 2005 Feb;24(2):179-81. doi:
+10.1097/01.inf.0000151042.90125.f6.
+Citation on PubMed
+Hall GW, Dale P, Dodge JA. Shwachman-Diamond syndrome: UK perspective. Arch
+Dis Child. 2006 Jun;91(6):521-4. doi: 10.1136/adc.2003.046151.
+Citation on PubMed
+or
+Free article on PubMed Central
+Myers KC, Bolyard AA, Otto B, Wong TE, Jones AT, Harris RE, Davies SM, Dale
+DC, Shimamura A. Variable clinical presentation of Shwachman-Diamond syndrome:
+update from the North American Shwachman-Diamond Syndrome Registry. J Pediatr.
+2014 Apr;164(4):866-70. doi: 10.1016/j.jpeds.2013.11.039. Epub 2013 Dec 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Myers KC, Furutani E, Weller E, Siegele B, Galvin A, Arsenault V, Alter BP,
+Boulad F, Bueso-Ramos C, Burroughs L, Castillo P, Connelly J, Davies SM, DiNardo
+CD, Hanif I, Ho RH, Karras N, Manalang M, McReynolds LJ, Nakano TA, Nalepa G,
+Norkin M, Oberley MJ, Orgel E, Pastore YD, Rosenthal J, Walkovich K, Larson J,
+Malsch M, Elghetany MT, Fleming MD, Shimamura A. Clinical features and outcomes
+of patients with Shwachman-Diamond syndrome and myelodysplastic syndrome or acute
+myeloid leukaemia: a multicentre, retrospective, cohort study. Lancet Haematol.
+2020 Mar;7(3):e238-e246. doi: 10.1016/S2352-3026(19)30206-6. Epub 2019 Dec 23.
+Citation on PubMed
+Nelson A, Myers K. Shwachman-Diamond Syndrome. 2008 Jul 17 [updated 2024 Sep
+19]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1756/
+Citation on PubMed
+Rothbaum R, Perrault J, Vlachos A, Cipolli M, Alter BP, Burroughs S, Durie P,
+Elghetany MT, Grand R, Hubbard V, Rommens J, Rossi T. Shwachman-Diamond syndrome:
+report from an international conference. J Pediatr. 2002 Aug;141(2):266-70. doi:
+10.1067/mpd.2002.125850. No abstract available.
+Citation on PubMed
+Shimamura A. Shwachman-Diamond syndrome. Semin Hematol. 2006 Jul;43(3):178-88.
+doi: 10.1053/j.seminhematol.2006.04.006.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Marrow Diseases
+Genetic Disorders
+Pancreatic Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Malabsorption
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

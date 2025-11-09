@@ -1,0 +1,191 @@
+Fragile X-associated tremor/ataxia syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Fragile X-associated tremor/ataxia syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/fragile-x-associated-tremor-ataxia-syndrome/
+Fragile X-associated tremor/ataxia syndrome
+Description
+Fragile X-associated tremor/ataxia syndrome (FXTAS) is characterized by problems with movement and thinking ability (cognition). FXTAS is a late-onset disorder, usually occurring after age 50, and its signs and symptoms worsen with age. This condition affects males more frequently and severely than females. Affected individuals have areas of damage in the part of the brain that controls movement (the
+cerebellum
+) and in a type of brain tissue known as white matter, which can be seen with magnetic resonance imaging (MRI). This damage leads to the movement problems and other impairments associated with FXTAS.
+The characteristic features of FXTAS are intention tremor, which is trembling or shaking of a limb when trying to perform a voluntary movement such as reaching for an object, and problems with coordination and balance (ataxia). Typically, intention tremors will develop first, followed a few years later by ataxia, although not everyone with FXTAS has both features. Many affected individuals develop other movement problems, such as a pattern of movement abnormalities known as parkinsonism, which includes tremors when not moving (resting tremor), rigidity, and unusually slow movement (bradykinesia). In addition, affected individuals may have reduced sensation, numbness or tingling, pain, or muscle weakness in the lower limbs (peripheral neuropathy). Some people with FXTAS experience problems with the autonomic nervous system, which controls involuntary body functions, leading to the inability to control the bladder or bowel.
+People with FXTAS commonly have cognitive disabilities. They may develop short-term memory loss and loss of executive function, which is the ability to plan and implement actions and develop problem-solving strategies. Loss of this function impairs skills such as impulse control, self-monitoring, focusing attention appropriately, and cognitive flexibility. Many people with FXTAS experience anxiety,
+depression
+, moodiness, or irritability.
+Some women develop immune system disorders, such as hypothyroidism or
+fibromyalgia
+, before the signs and symptoms of FXTAS appear.
+Frequency
+Studies show that approximately 1 in 450 males has the genetic change that leads to FXTAS, although the condition occurs in only about 40 percent of them. It is estimated that 1 in 3,000 men over age 50 is affected. Similarly, 1 in 200 females has the genetic change, but only an estimated 16 percent of them develop signs and symptoms of FXTAS.
+Causes
+Mutations in the
+FMR1
+gene increase the risk of developing FXTAS. The
+FMR1
+gene provides instructions for making a protein called FMRP, which helps regulate the production of other proteins. FMRP plays a role in the development of
+synapses
+, which are specialized connections between nerve cells. Synapses are critical for relaying nerve impulses.
+Individuals with FXTAS have a mutation in which a DNA segment, known as a CGG triplet repeat, is expanded within the
+FMR1
+gene. Normally, this DNA segment is repeated from 5 to about 40 times. In people with FXTAS, however, the CGG segment is repeated 55 to 200 times. This mutation is known as an
+FMR1
+gene premutation. An expansion of more than 200 repeats, a full mutation, causes a more serious condition called
+fragile X syndrome
+, which is characterized by intellectual disability, learning problems, and certain physical features.
+For unknown reasons, the premutation leads to the overproduction of abnormal
+FMR1
+mRNA that contains the expanded repeat region. The
+FMR1
+mRNA
+is the genetic blueprint for the production of FMRP. Researchers believe that the high levels of mRNA cause the signs and symptoms of FXTAS. The mRNA has been found in clumps of proteins and mRNA (intranuclear inclusions) in brain and nerve cells in people with FXTAS. It is thought that attaching to
+FMR1
+mRNA and forming clumps keeps the other proteins from performing their functions, although the effect of the intranuclear inclusions is unclear. In addition, the repeat expansion makes producing FMRP from the mRNA blueprint more difficult, and as a result, people with the
+FMR1
+gene premutation can have less FMRP than normal. A reduction in the protein is not thought to be involved in FXTAS. However, it may cause mild versions of the features seen in fragile X syndrome, such as prominent ears, anxiety, and mood swings.
+Learn more about the gene associated with Fragile X-associated tremor/ataxia syndrome
+FMR1
+Inheritance
+An increased risk of developing FXTAS is inherited in an
+X-linked dominant pattern
+. The
+FMR1
+gene is located on the X chromosome, one of the two
+sex chromosomes
+. (The Y chromosome is the other sex chromosome.) The inheritance is dominant because one copy of the altered gene in each cell is sufficient to elevate the risk of developing FXTAS. In females (who have two X chromosomes), a mutation in one of the two copies of the
+FMR1
+gene in each cell can lead to the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell can result in the disorder. However, not all people who inherit an
+FMR1
+premutation will develop FXTAS. In X-linked dominant disorders, males typically experience more severe symptoms than females.
+Fewer females than males develop FXTAS because the X chromosome that contains the premutation may be turned off (inactive) due to a process called
+X-inactivation
+. Early in embryonic development in females, one of the two X chromosomes is permanently inactivated in somatic cells (cells other than egg and sperm cells). X-inactivation ensures that females, like males, have only one active copy of the X chromosome in each body cell. Usually X-inactivation occurs randomly, so that each X chromosome is active in about half the body's cells. Sometimes X-inactivation is not random, and one X chromosome is active in more than half of cells. When X-inactivation does not occur randomly, it is called skewed X-inactivation. Researchers suspect that the distribution of active and inactive X chromosomes may help determine the severity of FXTAS in females or whether they develop signs and symptoms of the condition.
+Other Names for This Condition
+Fragile X tremor/ataxia syndrome
+FXTAS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Fragile X-associated tremor/ataxia syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+FRAGILE X TREMOR/ATAXIA SYNDROME; FXTAS
+Scientific Articles on PubMed
+PubMed
+References
+Hagerman R, Hagerman P. Advances in clinical and molecular understanding of
+the FMR1 premutation and fragile X-associated tremor/ataxia syndrome. Lancet
+Neurol. 2013 Aug;12(8):786-98. doi: 10.1016/S1474-4422(13)70125-X.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hagerman RJ, Hagerman P. Fragile X-associated tremor/ataxia syndrome -
+features, mechanisms and management. Nat Rev Neurol. 2016 Jul;12(7):403-12. doi:
+10.1038/nrneurol.2016.82. Epub 2016 Jun 24.
+Citation on PubMed
+Hessl D, Wang JM, Schneider A, Koldewyn K, Le L, Iwahashi C, Cheung K, Tassone
+F, Hagerman PJ, Rivera SM. Decreased fragile X mental retardation protein
+expression underlies amygdala dysfunction in carriers of the fragile X
+premutation. Biol Psychiatry. 2011 Nov 1;70(9):859-65. doi:
+10.1016/j.biopsych.2011.05.033. Epub 2011 Jul 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hunter JE, Berry-Kravis E, Hipp H, Todd PK. FMR1 Disorders. 1998 Jun
+16 [updated 2024 May 16]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace
+SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1384/
+Citation on PubMed
+Li Y, Jin P. RNA-mediated neurodegeneration in fragile X-associated
+tremor/ataxia syndrome. Brain Res. 2012 Jun 26;1462:112-7. doi:
+10.1016/j.brainres.2012.02.057. Epub 2012 Mar 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ma L, Herren AW, Espinal G, Randol J, McLaughlin B, Martinez-Cerdeno V, Pessah
+IN, Hagerman RJ, Hagerman PJ. Composition of the Intranuclear Inclusions of
+Fragile X-associated Tremor/Ataxia Syndrome. Acta Neuropathol Commun. 2019 Sep
+3;7(1):143. doi: 10.1186/s40478-019-0796-1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Salcedo-Arellano MJ, Dufour B, McLennan Y, Martinez-Cerdeno V, Hagerman R.
+Fragile X syndrome and associated disorders: Clinical aspects and pathology.
+Neurobiol Dis. 2020 Mar;136:104740. doi: 10.1016/j.nbd.2020.104740. Epub 2020 Jan
+10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tassone F, Beilina A, Carosi C, Albertosi S, Bagni C, Li L, Glover K, Bentley
+D, Hagerman PJ. Elevated FMR1 mRNA in premutation carriers is due to increased
+transcription. RNA. 2007 Apr;13(4):555-62. doi: 10.1261/rna.280807. Epub 2007 Feb
+5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Todd PK, Oh SY, Krans A, He F, Sellier C, Frazer M, Renoux AJ, Chen KC,
+Scaglione KM, Basrur V, Elenitoba-Johnson K, Vonsattel JP, Louis ED, Sutton MA,
+Taylor JP, Mills RE, Charlet-Berguerand N, Paulson HL. CGG repeat-associated
+translation mediates neurodegeneration in fragile X tremor ataxia syndrome.
+Neuron. 2013 May 8;78(3):440-55. doi: 10.1016/j.neuron.2013.03.026. Epub 2013 Apr
+18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wang JY, Hessl D, Hagerman RJ, Simon TJ, Tassone F, Ferrer E, Rivera SM.
+Abnormal trajectories in cerebellum and brainstem volumes in carriers of the
+fragile X premutation. Neurobiol Aging. 2017 Jul;55:11-19. doi:
+10.1016/j.neurobiolaging.2017.03.018. Epub 2017 Mar 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Willemsen R, Levenga J, Oostra BA. CGG repeat in the FMR1 gene: size matters.
+Clin Genet. 2011 Sep;80(3):214-25. doi: 10.1111/j.1399-0004.2011.01723.x. Epub
+2011 Jun 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Movement Disorders
+Neurologic Diseases
+Tremor
+MEDICAL ENCYCLOPEDIA
+Genetics
+Tremor
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

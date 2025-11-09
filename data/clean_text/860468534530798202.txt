@@ -1,0 +1,117 @@
+Methemoglobinemia, beta-globin type: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Methemoglobinemia, beta-globin type
+URL of this page: https://medlineplus.gov/genetics/condition/methemoglobinemia-beta-globin-type/
+Methemoglobinemia, beta-globin type
+Description
+Methemoglobinemia, beta-globin type is a condition that affects the function of red blood cells. Specifically, it alters a molecule called hemoglobin within these cells. Hemoglobin within red blood cells attaches (binds) to
+oxygen molecules in the lungs
+, which it carries through the bloodstream, then releases in tissues throughout the body. Instead of normal hemoglobin, people with methemoglobinemia, beta-globin type have an abnormal form called methemoglobin, which is unable to efficiently deliver oxygen to the body's tissues. In methemoglobinemia, beta-globin type, the abnormal hemoglobin gives the blood a brown color. It also causes a bluish appearance of the skin, lips, and nails (cyanosis), which usually first appears around the age of 6 months. The signs and symptoms of methemoglobinemia, beta-globin type are generally limited to cyanosis, which does not cause any health problems. However, in rare cases, severe methemoglobinemia, beta-globin type can cause headaches, weakness, and fatigue.
+Frequency
+The incidence of methemoglobinemia, beta-globin type is unknown.
+Causes
+Methemoglobinemia, beta-globin type is caused by mutations in the
+HBB
+gene. This gene provides instructions for making a protein called beta-globin. Beta-globin is one of four components (subunits) that make up hemoglobin. In adults, hemoglobin normally contains two subunits of beta-globin and two subunits of another protein called alpha-globin. Each of these protein subunits is bound to an iron-containing molecule called
+heme
+; each heme contains an iron molecule in its center that can bind to one oxygen molecule. For hemoglobin to bind to oxygen, the iron within the heme molecule needs to be in a form called ferrous iron (Fe
+2+
+). The iron within the heme can change to another form of iron called ferric iron (Fe
+3+
+), which cannot bind oxygen. Hemoglobin that contains ferric iron is known as methemoglobin.
+HBB
+gene mutations that cause methemoglobinemia, beta-globin type change the structure of beta-globin and promote the heme iron to change from ferrous to ferric. The ferric iron cannot bind oxygen and causes cyanosis and the brown appearance of blood.
+Learn more about the gene associated with Methemoglobinemia, beta-globin type
+HBB
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Blue baby syndrome
+Congenital methemoglobinemia
+Hemoglobin M disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: METHEMOGLOBINEMIA, BETA TYPE
+Genetic and Rare Diseases Information Center
+Hemoglobin M disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HEMOGLOBIN--BETA LOCUS; HBB
+Scientific Articles on PubMed
+PubMed
+References
+do Nascimento TS, Pereira RO, de Mello HL, Costa J. Methemoglobinemia: from
+diagnosis to treatment. Rev Bras Anestesiol. 2008 Nov-Dec;58(6):651-64. doi:
+10.1590/s0034-70942008000600011. English, Portuguese.
+Citation on PubMed
+Melarkode K, Prinzhausen H. Hemoglobin M variant and congenital
+methemoglobinemia: methylene blue will not be effective in the presence of
+hemoglobin M. Can J Anaesth. 2008 Feb;55(2):129-30. doi: 10.1007/BF03016328. No
+abstract available.
+Citation on PubMed
+Percy MJ, McFerran NV, Lappin TR. Disorders of oxidised haemoglobin. Blood
+Rev. 2005 Mar;19(2):61-8. doi: 10.1016/j.blre.2004.02.001.
+Citation on PubMed
+Rehman HU. Methemoglobinemia. West J Med. 2001 Sep;175(3):193-6. doi:
+10.1136/ewjm.175.3.193. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Skold A, Cosco DL, Klein R. Methemoglobinemia: pathogenesis, diagnosis, and
+management. South Med J. 2011 Nov;104(11):757-61. doi:
+10.1097/SMJ.0b013e318232139f.
+Citation on PubMed
+Thom CS, Dickson CF, Gell DA, Weiss MJ. Hemoglobin variants: biochemical
+properties and clinical correlates. Cold Spring Harb Perspect Med. 2013 Mar
+1;3(3):a011858. doi: 10.1101/cshperspect.a011858.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Blood Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Blue discoloration of the skin
+Genetics
+Hemoglobin
+Methemoglobinemia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

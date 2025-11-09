@@ -1,0 +1,125 @@
+Distal arthrogryposis type 1: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Distal arthrogryposis type 1
+URL of this page: https://medlineplus.gov/genetics/condition/distal-arthrogryposis-type-1/
+Distal arthrogryposis type 1
+Description
+Distal arthrogryposis type 1 is a disorder characterized by joint deformities (contractures) that restrict movement in the hands and feet. The term "arthrogryposis" comes from the Greek words for joint (arthro-) and crooked or hooked (gryposis). The characteristic features of this condition include permanently bent fingers and toes (
+camptodactyly
+),
+overlapping fingers
+, and a hand deformity in which all of the fingers are angled outward toward the fifth finger (
+ulnar deviation
+).
+Clubfoot
+, which is an inward- and upward-turning foot, is also commonly seen with distal arthrogryposis type 1. The specific hand and foot abnormalities vary among affected individuals. However, this condition typically does not cause any signs and symptoms affecting other parts of the body.
+Frequency
+Distal arthrogryposis type 1 affects an estimated 1 in 10,000 people worldwide.
+Causes
+Distal arthrogryposis type 1 can be caused by mutations in at least two genes:
+TPM2
+and
+MYBPC1
+. These genes are active (expressed) in
+muscle cells
+, where they interact with other muscle proteins to help regulate the tensing of muscle fibers (muscle contraction). It is unclear how mutations in the
+TPM2
+and
+MYBPC1
+genes lead to the joint abnormalities characteristic of distal arthrogryposis type 1. However, researchers speculate that contractures may be related to problems with muscle contraction that limit the movement of joints before birth.
+In some cases, the genetic cause of distal arthrogryposis type 1 is unknown. Researchers are looking for additional genetic changes that may be responsible for this condition.
+Learn more about the genes associated with Distal arthrogryposis type 1
+MYBPC1
+TPM2
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of an altered gene in each cell is sufficient to cause the disorder. In many cases, a person with distal arthrogryposis type 1 has a parent and other close family members with the condition.
+Other Names for This Condition
+AMCD1
+Arthrogryposis, distal, type 1
+DA1
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Arthrogryposis, distal, type 1A
+Genetic and Rare Diseases Information Center
+Distal arthrogryposis type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ARTHROGRYPOSIS, DISTAL, TYPE 1A; DA1A
+Scientific Articles on PubMed
+PubMed
+References
+Bamshad M, Bohnsack JF, Jorde LB, Carey JC. Distal arthrogryposis type 1:
+clinical analysis of a large kindred. Am J Med Genet. 1996 Nov 11;65(4):282-5.
+doi: 10.1002/(SICI)1096-8628(19961111)65:43.0.CO;2-R.
+Citation on PubMed
+Bamshad M, Jorde LB, Carey JC. A revised and extended classification of the
+distal arthrogryposes. Am J Med Genet. 1996 Nov 11;65(4):277-81. doi:
+10.1002/(SICI)1096-8628(19961111)65:43.0.CO;2-M.
+Citation on PubMed
+Beck AE, McMillin MJ, Gildersleeve HI, Kezele PR, Shively KM, Carey JC,
+Regnier M, Bamshad MJ. Spectrum of mutations that cause distal arthrogryposis
+types 1 and 2B. Am J Med Genet A. 2013 Mar;161A(3):550-5. doi:
+10.1002/ajmg.a.35809. Epub 2013 Feb 7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gurnett CA, Desruisseau DM, McCall K, Choi R, Meyer ZI, Talerico M, Miller SE,
+Ju JS, Pestronk A, Connolly AM, Druley TE, Weihl CC, Dobbs MB. Myosin binding
+protein C1: a novel gene for autosomal dominant distal arthrogryposis type 1. Hum
+Mol Genet. 2010 Apr 1;19(7):1165-73. doi: 10.1093/hmg/ddp587. Epub 2010 Jan 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sung SS, Brassington AM, Grannatt K, Rutherford A, Whitby FG, Krakowiak PA,
+Jorde LB, Carey JC, Bamshad M. Mutations in genes encoding fast-twitch
+contractile proteins cause distal arthrogryposis syndromes. Am J Hum Genet. 2003
+Mar;72(3):681-90. doi: 10.1086/368294.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Joint Disorders
+MEDICAL ENCYCLOPEDIA
+Clubfoot
+Contracture deformity
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

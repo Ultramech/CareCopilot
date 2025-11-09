@@ -1,0 +1,153 @@
+What Is Gene Therapy? Pros, Cons & Examples
+Home
+/
+Health Library
+/
+Medical Treatments
+/
+Gene Therapy
+Advertisement
+Advertisement
+Gene Therapy
+Gene therapy is a way to treat some genetic diseases. It works by replacing a malfunctioning gene, “turning off” a disease-causing gene or giving you a new copy of a gene. Approved gene therapies treat inherited blood, neuromuscular and eye diseases, and other genetic conditions.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Schedule Genetic Counseling
+Find a Doctor and Specialists
+Make an Appointment
+Contents
+Arrow Down
+Overview
+Treatment Details
+Overview
+Rabi Hanna, MD, explains what gene therapy is and how it works.
+What is gene therapy?
+Gene therapy is a type of treatment for
+genetic disorders
+. It works by either changing a
+disease-causing gene
+or giving you a working copy of that gene. Genes are instructions for making proteins that help your body work.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Genetic diseases can happen when you have a change to a gene that stops it from working or causes it to make faulty proteins. You can be born with a gene change or develop one during your lifetime. Gene therapies are often one-time treatments that allow your body to make the proteins it needs to work properly and ease symptoms of a disease.
+Treatment Details
+How does gene therapy work?
+Gene therapy works by either changing how the disease-causing gene works or providing a working copy of the gene to make a protein your body needs. Some methods of gene therapy include:
+Gene addition
+: Gene addition inserts a working copy of a gene into your cells. This method can be used if a gene change is preventing your cells from making enough of a certain protein.
+Gene editing
+: To edit a gene, scientists use special tools — like CRISPR/cas9 — to change a disease-causing gene so it makes the correct protein.
+Gene silencing
+: Silencing “turns off” a disease-causing gene. You might want to silence a gene that prevents a normal protein from doing its job. Or one that isn’t working properly, causing disease.
+Scientists then put the edited or new genes into a type of package (called a vector) to be delivered to your cells. The package is usually a
+virus
+(adeno-associated virus). These viruses have the ability to get inside your cells to deliver the gene, but they’re not the kind that make you sick. Scientists can also directly add the genes to the cells in a lab without using a vector.
+Advertisement
+For some gene therapies, your provider gets a sample of your blood
+stem cells
+and alters them before putting them back into your body. Other times, you get a shot (injection) or infusion of a gene inside the vector. Eventually, the cells will make more copies of themselves (proliferate) and replace many or all of the disease-causing cells. So, the effect of having a new or corrected gene should last.
+What conditions does it treat?
+Gene therapies work best on genetic conditions caused by a change to a single gene. Conditions with approved gene therapy treatments include:
+Cerebral
+adrenoleukodystrophy
+Inherited
+blood disorders
+, like
+sickle cell disease
+,
+thalassemia
+and
+hemophilia
+Inherited
+neuromuscular disorders
+, like
+Duchenne muscular dystrophy
+and
+spinal muscular atrophy
+Inherited
+retinal (eye) diseases
+, like
+Leber’s congenital amaurosis
+Metachromatic leukodystrophy
+Scientists are also investigating gene therapy to treat many other genetic conditions, as well as
+HIV
+and
+cancer
+.
+Examples of gene therapies
+Some gene therapies approved for use in the U.S. include:
+Casgevy™
+Elevidys®
+Hemgenix®
+Lenmeldy
+Luxturna
+™
+Lyfgenia™
+Roctavian™
+Skysona
+®
+Zolgensma
+®
+Zynteglo
+™
+This might not be a complete list. Many types of gene therapy are currently in
+clinical trials
+or awaiting approval.
+What happens during gene therapy?
+What you do during your gene therapy treatment depends on the kind you’re receiving. You’ll either get a shot or an infusion — where the treatment goes directly into a vein with an IV.
+You might need to prepare for the treatment by getting:
+Genetic testing
+to confirm you have a specific gene change
+Blood tests
+Chemotherapy
+or other treatments
+A blood draw or
+bone marrow procedure
+to get stem cells that’ll be prepared for gene therapy
+What are the pros and cons of gene therapy?
+Like any treatment, gene therapy has benefits and risks. Benefits include:
+New options
+: Gene therapy can provide new treatments for diseases that currently don’t have many other options.
+Convenience
+: So far, most gene therapies are one-time treatments, rather than ongoing medication that you have to take.
+Earlier treatment
+: Getting gene therapy earlier in the course of an illness may prevent the disease from causing serious damage.
+Focus on the root cause
+: Gene therapy can treat the cause of the disease, not just the symptoms.
+Risks and limitations of gene therapy may include:
+Availability
+: Gene therapies may not be available to everyone due to cost, access to technology and other factors.
+Side effects
+: Like all treatments, there’s a risk of side effects or adverse reactions. For example, while the viruses used for delivery can’t infect you, your
+immune system
+may respond to them. This can sometimes cause severe reactions.
+Preparation
+: For some forms of gene therapy, you might need to undergo chemotherapy or other treatments to prepare. These additional treatments can cause unpleasant side effects and take time.
+Advertisement
+A note from Cleveland Clinic
+Gene therapy offers new hope for people with genetic conditions. It has the power to target the root cause of a disease. While it’s been studied for decades, its use in medicine is still relatively new. There’s a lot to learn. But it has the potential to be life-changing for people who had few treatment options in the past.
+Advertisement
+Care at Cleveland Clinic
+Do certain health conditions seem to run in your family? Are you ready to find out if you’re at risk? Cleveland Clinic’s genetics team can help.
+Schedule Genetic Counseling
+Find a Doctor and Specialists
+Make an Appointment
+Medically Reviewed
+Last reviewed on 06/17/2025.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Questions
+216.444.2538
+Appointments & Locations
+Request an Appointment
+Find a Primary Care Provider

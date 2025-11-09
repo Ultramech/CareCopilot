@@ -1,0 +1,176 @@
+Megacystis-microcolon-intestinal hypoperistalsis syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Megacystis-microcolon-intestinal hypoperistalsis syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/megacystis-microcolon-intestinal-hypoperistalsis-syndrome/
+Megacystis-microcolon-intestinal hypoperistalsis syndrome
+Description
+Megacystis-microcolon-intestinal hypoperistalsis syndrome (MMIHS) is a severe disorder affecting the muscles that line the
+bladder
+and
+intestines
+. It is characterized by impairment of the muscle contractions that move food through the digestive tract (peristalsis) and empty the bladder.
+Some of the major features of MMIHS can be recognized before birth using ultrasound imaging. Affected fetuses have an enlarged bladder (megacystis) because it does not empty. In addition, the large intestine (
+colon
+) is abnormally narrow (microcolon) because of a shortage of functional muscle lining it. Intestinal and bladder problems persist throughout life.
+After birth, the continued impairment of peristalsis (hypoperistalsis) often causes a digestive condition called
+intestinal pseudo-obstruction
+. This condition, which mimics a physical blockage (obstruction) of the intestines but without an actual blockage, leads to a buildup of partially digested food in the intestines. This buildup can cause abdominal swelling (distention) and pain, nausea, and vomiting. The vomit usually contains a green or yellow digestive fluid called bile. Because digestion is impeded and the body does not get the nutrients from food, nutritional support is usually needed, which is given through intravenous feedings (parenteral nutrition). While some affected individuals rely solely on intravenous feedings, others require it only on occasion. Long-term use of parenteral nutrition can lead to
+liver
+problems.
+The reduced ability to pass urine also contributes to painful distention of the abdomen. Many people with MMIHS require placement of a tube (urinary catheter) to remove urine from the bladder.
+Another abnormality in some people with MMIHS is intestinal malrotation, in which the intestines do not fold properly. Instead, they twist abnormally, often causing a blockage. Individuals with MMIHS can also develop problems with the kidneys or the ureters, which are the ducts that carry urine from the kidneys to the bladder.
+The life expectancy of people with MMIHS is shorter than normal, often due to malnutrition, overwhelming infection (
+sepsis
+), or the failure of multiple organs.
+Frequency
+MMIHS is a rare disorder. More than 200 cases have been reported in the medical literature.
+Causes
+MMIHS can be caused by mutations in one of several genes, the most studied of which is
+ACTG2
+. The
+ACTG2
+gene provides instructions for making a protein called gamma (γ)-2 actin. The γ-2 actin proteins organize into
+filaments
+that are important for the tensing of muscle fibers (muscle contraction), specifically contraction of
+smooth muscles
+of the
+urinary
+and
+intestinal tracts
+. These contractions empty urine from the bladder and move food through the intestines.
+ACTG2
+gene mutations lead to production of an altered γ-2 actin protein. These changes hinder the formation of actin filaments, which impairs the ability of smooth muscle in the bladder and intestines to contract. These problems with muscle contractions impair the release of urine and the movement of food through the intestines, leading to the key features of MMIHS.
+Mutations in other genes have been found to cause rare cases of MMIHS. The proteins produced from these genes are also involved in smooth muscle contraction. Approximately 10 percent of people with MMIHS do not have a mutation in one of the identified genes. It is likely that additional genes that have not been identified are also involved in the disorder.
+Learn more about the genes associated with Megacystis-microcolon-intestinal hypoperistalsis syndrome
+ACTG2
+MYH11
+Additional Information from NCBI Gene:
+LMOD1
+MYLK
+Inheritance
+When caused by
+ACTG2
+gene mutations, MMIHS follows an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. These cases result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. In these cases, affected individuals have no history of the disorder in their family.
+When caused by mutations in other identified genes, MMIHS is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Berdon syndrome
+Megacystis, microcolon, hypoperistalsis syndrome
+MMIH syndrome
+MMIHS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Megacystis-microcolon-intestinal hypoperistalsis syndrome 1
+Genetic Testing Registry: Megacystis-microcolon-intestinal hypoperistalsis syndrome 2
+Genetic Testing Registry: Megacystis-microcolon-intestinal hypoperistalsis syndrome 3
+Genetic Testing Registry: Megacystis-microcolon-intestinal hypoperistalsis syndrome 5
+Genetic and Rare Diseases Information Center
+Familial visceral myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+VISCERAL MYOPATHY 1; VSCM1
+VISCERAL MYOPATHY 2; VSCM2
+Scientific Articles on PubMed
+PubMed
+References
+Bhagwat PK, Wangler MF. ACTG2 Visceral Myopathy. 2015 Jun 11 [updated
+2021 May 6]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK299311/
+Citation on PubMed
+Gauthier J, Ouled Amar Bencheikh B, Hamdan FF, Harrison SM, Baker LA, Couture
+F, Thiffault I, Ouazzani R, Samuels ME, Mitchell GA, Rouleau GA, Michaud JL,
+Soucy JF. A homozygous loss-of-function variant in MYH11 in a case with
+megacystis-microcolon-intestinal hypoperistalsis syndrome. Eur J Hum Genet. 2015
+Sep;23(9):1266-8. doi: 10.1038/ejhg.2014.256. Epub 2014 Nov 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Halim D, Brosens E, Muller F, Wangler MF, Beaudet AL, Lupski JR, Akdemir ZHC,
+Doukas M, Stoop HJ, de Graaf BM, Brouwer RWW, van Ijcken WFJ, Oury JF, Rosenblatt
+J, Burns AJ, Tibboel D, Hofstra RMW, Alves MM. Loss-of-Function Variants in MYLK
+Cause Recessive Megacystis Microcolon Intestinal Hypoperistalsis Syndrome. Am J
+Hum Genet. 2017 Jul 6;101(1):123-129. doi: 10.1016/j.ajhg.2017.05.011. Epub 2017
+Jun 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Halim D, Hofstra RM, Signorile L, Verdijk RM, van der Werf CS, Sribudiani Y,
+Brouwer RW, van IJcken WF, Dahl N, Verheij JB, Baumann C, Kerner J, van Bever Y,
+Galjart N, Wijnen RM, Tibboel D, Burns AJ, Muller F, Brooks AS, Alves MM. ACTG2
+variants impair actin polymerization in sporadic Megacystis Microcolon Intestinal
+Hypoperistalsis Syndrome. Hum Mol Genet. 2016 Feb 1;25(3):571-83. doi:
+10.1093/hmg/ddv497. Epub 2015 Dec 8.
+Citation on PubMed
+Halim D, Wilson MP, Oliver D, Brosens E, Verheij JB, Han Y, Nanda V, Lyu Q,
+Doukas M, Stoop H, Brouwer RW, van IJcken WF, Slivano OJ, Burns AJ, Christie CK,
+de Mesy Bentley KL, Brooks AS, Tibboel D, Xu S, Jin ZG, Djuwantono T, Yan W,
+Alves MM, Hofstra RM, Miano JM. Loss of LMOD1 impairs smooth muscle
+cytocontractility and causes megacystis microcolon intestinal hypoperistalsis
+syndrome in humans and mice. Proc Natl Acad Sci U S A. 2017 Mar
+28;114(13):E2739-E2747. doi: 10.1073/pnas.1620507114. Epub 2017 Mar 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Thorson W, Diaz-Horta O, Foster J 2nd, Spiliopoulos M, Quintero R, Farooq A,
+Blanton S, Tekin M. De novo ACTG2 mutations cause congenital distended bladder,
+microcolon, and intestinal hypoperistalsis. Hum Genet. 2014 Jun;133(6):737-42.
+doi: 10.1007/s00439-013-1406-0. Epub 2013 Dec 13.
+Citation on PubMed
+Wangler MF, Gonzaga-Jauregui C, Gambin T, Penney S, Moss T, Chopra A, Probst
+FJ, Xia F, Yang Y, Werlin S, Eglite I, Kornejeva L, Bacino CA, Baldridge D, Neul
+J, Lehman EL, Larson A, Beuten J, Muzny DM, Jhangiani S; Baylor-Hopkins Center
+for Mendelian Genomics; Gibbs RA, Lupski JR, Beaudet A. Heterozygous de novo and
+inherited mutations in the smooth muscle actin (ACTG2) gene underlie
+megacystis-microcolon-intestinal hypoperistalsis syndrome. PLoS Genet. 2014 Mar
+27;10(3):e1004258. doi: 10.1371/journal.pgen.1004258. eCollection 2014 Mar.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Digestive Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Intestinal pseudo-obstruction
+Peristalsis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

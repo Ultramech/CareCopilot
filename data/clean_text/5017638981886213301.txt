@@ -1,0 +1,136 @@
+3-hydroxyacyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+3-hydroxyacyl-CoA dehydrogenase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/3-hydroxyacyl-coa-dehydrogenase-deficiency/
+3-hydroxyacyl-CoA dehydrogenase deficiency
+Description
+3-hydroxyacyl-CoA dehydrogenase deficiency is an inherited condition that prevents the body from converting certain fats to energy, particularly during prolonged periods without food (fasting).
+Initial signs and symptoms of this disorder typically occur during infancy or early childhood and can include poor appetite, vomiting, diarrhea, and lack of energy (lethargy). Affected individuals can also have muscle weakness (hypotonia),
+liver
+problems, low blood glucose (hypoglycemia), and abnormally high levels of insulin (hyperinsulinism).
+Insulin
+controls the amount of glucose that moves from the blood into cells for conversion to energy. Individuals with 3-hydroxyacyl-CoA dehydrogenase deficiency are also at risk for complications such as seizures, life-threatening
+heart
+and
+breathing
+problems, coma, and sudden death. This condition may explain some cases of sudden infant death syndrome (SIDS), which is defined as unexplained death in babies younger than 1 year.
+Problems related to 3-hydroxyacyl-CoA dehydrogenase deficiency can be triggered by periods of fasting or by illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe disorder that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.
+Frequency
+The exact incidence of 3-hydroxyacyl-CoA dehydrogenase deficiency is unknown; it has been reported in only a small number of people worldwide.
+Causes
+Mutations in the
+HADH
+gene cause 3-hydroxyacyl-CoA dehydrogenase deficiency. The
+HADH
+gene provides instructions for making an enzyme called 3-hydroxyacyl-CoA dehydrogenase.
+Normally, through a process called fatty acid oxidation, several enzymes work in a step-wise fashion to break down (metabolize) fats and convert them to energy. The 3-hydroxyacyl-CoA dehydrogenase enzyme is required for a step that metabolizes groups of fats called medium-chain fatty acids and short-chain fatty acids.
+Mutations in the
+HADH
+gene lead to a shortage of 3-hydroxyacyl-CoA dehydrogenase. Medium-chain and short-chain fatty acids cannot be metabolized properly without sufficient levels of this enzyme. As a result, these fatty acids are not converted to energy, which can lead to characteristic features of 3-hydroxyacyl-CoA dehydrogenase deficiency, such as lethargy and hypoglycemia. Medium-chain and short-chain fatty acids that are not broken down can build up in tissues and damage the
+liver
+,
+heart
+, and
+muscles
+, causing serious complications.
+Conditions that disrupt the metabolism of fatty acids, including 3-hydroxyacyl-CoA dehydrogenase deficiency, are known as fatty acid oxidation disorders.
+Learn more about the gene associated with 3-hydroxyacyl-CoA dehydrogenase deficiency
+HADH
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+3-alpha-hydroxyacyl-coenzyme A dehydrogenase deficiency
+3-hydroxyacyl-coenzyme A dehydrogenase deficiency
+Deficiency of 3-hydroxyacyl-CoA dehydrogenase
+HAD deficiency
+HADH deficiency
+HADHSC deficiency
+L-3-alpha-hydroxyacyl-CoA dehydrogenase, short chain, deficiency
+M/SCHAD deficiency
+SCHAD deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deficiency of 3-hydroxyacyl-CoA dehydrogenase
+Genetic and Rare Diseases Information Center
+Hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+3-HYDROXYACYL-CoA DEHYDROGENASE DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Bennett MJ, Russell LK, Tokunaga C, Narayan SB, Tan L, Seegmiller A, Boriack
+RL, Strauss AW. Reye-like syndrome resulting from novel missense mutations in
+mitochondrial medium- and short-chain l-3-hydroxy-acyl-CoA dehydrogenase. Mol
+Genet Metab. 2006 Sep-Oct;89(1-2):74-9. doi: 10.1016/j.ymgme.2006.04.004. Epub
+2006 May 24.
+Citation on PubMed
+Bennett MJ, Spotswood SD, Ross KF, Comfort S, Koonce R, Boriack RL, IJlst L,
+Wanders RJ. Fatal hepatic short-chain L-3-hydroxyacyl-coenzyme A dehydrogenase
+deficiency: clinical, biochemical, and pathological studies on three subjects
+with this recently identified disorder of mitochondrial beta-oxidation. Pediatr
+Dev Pathol. 1999 Jul-Aug;2(4):337-45. doi: 10.1007/s100249900132.
+Citation on PubMed
+Filling C, Keller B, Hirschberg D, Marschall HU, Jornvall H, Bennett MJ,
+Oppermann U. Role of short-chain hydroxyacyl CoA dehydrogenases in SCHAD
+deficiency. Biochem Biophys Res Commun. 2008 Mar 28;368(1):6-11. doi:
+10.1016/j.bbrc.2007.10.188. Epub 2007 Nov 26.
+Citation on PubMed
+Rinaldo P, Matern D, Bennett MJ. Fatty acid oxidation disorders. Annu Rev
+Physiol. 2002;64:477-502. doi: 10.1146/annurev.physiol.64.082201.154705.
+Citation on PubMed
+Treacy EP, Lambert DM, Barnes R, Boriack RL, Vockley J, O'brien LK, Jones PM,
+Bennett MJ. Short-chain hydroxyacyl-coenzyme A dehydrogenase deficiency
+presenting as unexpected infant death: A family study. J Pediatr. 2000
+Aug;137(2):257-9. doi: 10.1067/mpd.2000.107467.
+Citation on PubMed
+Yang SY, He XY, Schulz H. 3-Hydroxyacyl-CoA dehydrogenase and short chain
+3-hydroxyacyl-CoA dehydrogenase in human health and disease. FEBS J. 2005
+Oct;272(19):4874-83. doi: 10.1111/j.1742-4658.2005.04911.x.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Hypoglycemia
+Lipid Metabolism Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

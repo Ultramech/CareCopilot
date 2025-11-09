@@ -1,0 +1,162 @@
+Schwannomatosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Schwannomatosis
+URL of this page: https://medlineplus.gov/genetics/condition/schwannomatosis/
+Schwannomatosis
+Description
+Schwannomatosis is a disorder characterized by multiple noncancerous (benign) tumors called schwannomas, which are a type of tumor that grows on nerves. Schwannomas develop when Schwann cells, which are specialized cells that normally form an insulating layer around the nerve, grow uncontrollably to form a tumor.
+The signs and symptoms of schwannomatosis usually appear in early adulthood. The most common symptom is long-lasting (chronic) pain, which can affect any part of the body. In some cases, the pain is felt in areas where there are no known tumors. The pain associated with this condition ranges from mild to severe and can be difficult to manage. Other signs and symptoms that can occur with schwannomatosis depend on the location of the tumors and which nerves are affected. These problems include numbness, weakness, tingling, and headaches. The life expectancy of people with schwannomatosis is normal.
+Schwannomatosis is usually considered to be a form of neurofibromatosis, which is a group of disorders characterized by the growth of tumors in the nervous system. The other two recognized forms of neurofibromatosis are
+neurofibromatosis type 1
+and
+neurofibromatosis type 2
+. The features of schwannomatosis can be very similar to those of neurofibromatosis type 2. However, schwannomatosis almost never includes inner ear tumors called vestibular schwannomas, which are a hallmark of neurofibromatosis type 2. Additional features of the other forms of neurofibromatosis, including the development of other types of tumors, are much less common in schwannomatosis.
+Frequency
+The incidence of schwannomatosis is unknown, although estimates in several populations have ranged from 1 in 40,000 to 1 in 1.7 million people. Some researchers have suggested that schwannomatosis may be as common as neurofibromatosis type 2, which has an incidence of 1 in 33,000 people worldwide.
+Schwannomatosis accounts for only a small percentage of all schwannoma tumors. Most schwannomas are isolated, meaning that an individual develops only a single tumor. It is rarer to have multiple schwannomas, as occurs in schwannomatosis.
+Causes
+Mutations in at least two genes,
+SMARCB1
+and
+LZTR1
+, can cause schwannomatosis. The proteins produced from both genes are thought to act as tumor suppressors, which normally keep cells from growing and dividing too rapidly or in an uncontrolled way. Mutations in either of these genes may help cells grow and divide without control or order to form a tumor.
+It appears that mutations in the
+SMARCB1
+or
+LZTR1
+gene alone are not enough to trigger the development of schwannomas. Additional genetic changes (somatic mutations) that are acquired during a person's lifetime and are present only in certain cells may also be required for schwannomas to form. The most common somatic mutations in schwannomas are mutations in the
+NF2
+gene and a loss of chromosome 22 (which is the chromosome on which the
+SMARCB1
+,
+LZTR1
+, and
+NF2
+genes are found).
+Some people with schwannomatosis do not have an identified mutation in the
+SMARCB1
+or
+LZTR1
+gene. In these cases, the cause of the disorder is unknown. Researchers suspect that mutations in other as-yet-unidentified genes, most likely on chromosome 22, also contribute to this condition.
+Learn more about the genes associated with Schwannomatosis
+LZTR1
+NF2
+SMARCB1
+Inheritance
+Most cases of schwannomatosis are sporadic, which means that they occur in people with no history of the disorder in their family. Some people with sporadic schwannomatosis have mutations in the
+SMARCB1
+or
+LZTR1
+gene, but in others, the cause of the condition is unknown.
+Studies suggest that 15 to 25 percent of cases of schwannomatosis run in families. These familial cases have an
+autosomal dominant
+pattern of inheritance, which means a mutation in one copy of the
+SMARCB1
+or
+LZTR1
+gene in each cell greatly increases the risk of developing schwannomas. However, some people who have an altered gene never develop tumors, which is a situation known as reduced penetrance.
+Other Names for This Condition
+Multiple neurilemmomas
+Multiple schwannomas
+Neurilemmomatosis
+Neurilemmomatosis, congenital cutaneous
+Neurinomatosis
+Neurofibromatosis type 3
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: LZTR1-related schwannomatosis
+Genetic Testing Registry: Schwannomatosis
+Genetic and Rare Diseases Information Center
+Schwannomatosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SCHWANNOMATOSIS 1; SWN1
+SCHWANNOMATOSIS 2; SWN2
+Scientific Articles on PubMed
+PubMed
+References
+Boyd C, Smith MJ, Kluwe L, Balogh A, Maccollin M, Plotkin SR. Alterations in
+the SMARCB1 (INI1) tumor suppressor gene in familial schwannomatosis. Clin Genet.
+2008 Oct;74(4):358-66. doi: 10.1111/j.1399-0004.2008.01060.x. Epub 2008 Jul 21.
+Citation on PubMed
+Hadfield KD, Newman WG, Bowers NL, Wallace A, Bolger C, Colley A, McCann E,
+Trump D, Prescott T, Evans DG. Molecular characterisation of SMARCB1 and NF2 in
+familial and sporadic schwannomatosis. J Med Genet. 2008 Jun;45(6):332-9. doi:
+10.1136/jmg.2007.056499. Epub 2008 Feb 19.
+Citation on PubMed
+Hulsebos TJ, Plomp AS, Wolterman RA, Robanus-Maandag EC, Baas F, Wesseling P.
+Germline mutation of INI1/SMARCB1 in familial schwannomatosis. Am J Hum Genet.
+2007 Apr;80(4):805-10. doi: 10.1086/513207. Epub 2007 Feb 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kresak JL, Walsh M. Neurofibromatosis: A Review of NF1, NF2, and
+Schwannomatosis. J Pediatr Genet. 2016 Jun;5(2):98-104. doi:
+10.1055/s-0036-1579766. Epub 2016 Mar 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+MacCollin M, Chiocca EA, Evans DG, Friedman JM, Horvitz R, Jaramillo D, Lev M,
+Mautner VF, Niimura M, Plotkin SR, Sang CN, Stemmer-Rachamimov A, Roach ES.
+Diagnostic criteria for schwannomatosis. Neurology. 2005 Jun 14;64(11):1838-45.
+doi: 10.1212/01.WNL.0000163982.78900.AD.
+Citation on PubMed
+Merker VL, Esparza S, Smith MJ, Stemmer-Rachamimov A, Plotkin SR. Clinical
+features of schwannomatosis: a retrospective analysis of 87 patients. Oncologist.
+2012;17(10):1317-22. doi: 10.1634/theoncologist.2012-0162. Epub 2012 Aug 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Piotrowski A, Xie J, Liu YF, Poplawski AB, Gomes AR, Madanecki P, Fu C,
+Crowley MR, Crossman DK, Armstrong L, Babovic-Vuksanovic D, Bergner A, Blakeley
+JO, Blumenthal AL, Daniels MS, Feit H, Gardner K, Hurst S, Kobelka C, Lee C, Nagy
+R, Rauen KA, Slopis JM, Suwannarat P, Westman JA, Zanko A, Korf BR, Messiaen LM.
+Germline loss-of-function mutations in LZTR1 predispose to an inherited disorder
+of multiple schwannomas. Nat Genet. 2014 Feb;46(2):182-7. doi: 10.1038/ng.2855.
+Epub 2013 Dec 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Neurofibromatosis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,132 @@
+Glycogen storage disease type III: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Glycogen storage disease type III
+URL of this page: https://medlineplus.gov/genetics/condition/glycogen-storage-disease-type-iii/
+Glycogen storage disease type III
+Description
+Glycogen storage disease type III (also known as GSDIII or Cori disease) is an inherited disorder caused by the buildup of a complex sugar called glycogen in the body's cells. The accumulated glycogen is structurally abnormal and impairs the function of certain organs and tissues, especially the liver and muscles.
+GSDIII is divided into types IIIa, IIIb, IIIc, and IIId, which are distinguished by their pattern of signs and symptoms. GSD types IIIa and IIIc mainly affect the liver and muscles, and GSD types IIIb and IIId typically affect only
+the liver
+. It is very difficult to distinguish between the types of GSDIII that affect the same tissues. GSD types IIIa and IIIb are the most common forms of this condition.
+Beginning in infancy, individuals with any type of GSDIII may have low blood glucose (hypoglycemia), excess amounts of fats in the blood (hyperlipidemia), and elevated blood levels of liver enzymes. As they get older, children with this condition typically develop an enlarged liver (hepatomegaly). Liver size usually returns to normal during adolescence, but some affected individuals develop chronic liver disease (cirrhosis) and liver failure later in life. People with GSDIII often have slow growth because of their liver problems, which can lead to short stature. In a small percentage of people with GSDIII, noncancerous (benign) tumors called adenomas may form in the liver.
+Individuals with GSDIIIa may develop muscle weakness (myopathy) later in life. These muscle problems can affect both
+heart (cardiac) muscle
+and the muscles that are used for movement (
+skeletal muscles
+). Muscle involvement varies greatly among affected individuals. The first signs and symptoms are typically poor muscle tone (hypotonia) and mild myopathy in early childhood. The myopathy may become severe by early to mid-adulthood. Some people with GSDIIIa have a weakened heart muscle (cardiomyopathy), but affected individuals usually do not experience heart failure. Other people affected with GSDIIIa have no cardiac muscle problems.
+Frequency
+The incidence of GSDIII in the United States is 1 in 100,000 individuals. This condition is seen more frequently in people of North African Jewish ancestry; in this population, 1 in 5,400 individuals are estimated to be affected.
+GSDIIIa is the most common form of GSDIII, accounting for about 85 percent of all cases. GSDIIIb accounts for about 15 percent of cases. GSD types IIIc and IIId are very rare, and their signs and symptoms are poorly defined. Only a small number of affected individuals have been suspected to have GSD types IIIc and IIId.
+Causes
+Mutations in the
+AGL
+gene cause GSDIII. The
+AGL
+gene provides instructions for making the glycogen debranching enzyme. This enzyme is involved in the breakdown of glycogen, which is a major source of stored energy in the body. Between meals the body breaks down stores of energy, such as glycogen, to use for fuel.
+Most
+AGL
+gene mutations lead to the production of a nonfunctional glycogen debranching enzyme. These mutations typically cause GSD types IIIa and IIIb. The mutations that cause GSD types IIIc and IIId are thought to lead to the production of an enzyme with reduced function. All
+AGL
+gene mutations lead to storage of abnormal, partially broken down glycogen molecules within cells. A buildup of abnormal glycogen damages organs and tissues throughout the body, particularly the liver and muscles, leading to the signs and symptoms of GSDIII.
+Learn more about the gene associated with Glycogen storage disease type III
+AGL
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+AGL deficiency
+Cori disease
+Cori's disease
+Debrancher deficiency
+Forbes disease
+Glycogen debrancher deficiency
+GSD III
+GSD3
+Limit dextrinosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Glycogen storage disease type III
+Genetic and Rare Diseases Information Center
+Glycogen storage disease due to glycogen debranching enzyme deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GLYCOGEN STORAGE DISEASE III; GSD3
+Scientific Articles on PubMed
+PubMed
+References
+Cheng A, Zhang M, Okubo M, Omichi K, Saltiel AR. Distinct mutations in the
+glycogen debranching enzyme found in glycogen storage disease type III lead to
+impairment in diverse cellular functions. Hum Mol Genet. 2009 Jun
+1;18(11):2045-52. doi: 10.1093/hmg/ddp128. Epub 2009 Mar 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Frisbie JH, O'Connell DJ, Tow DE, Sasahara AA, Belko JS. Autologous
+radioiodinated fibrinogen, simplified. J Nucl Med. 1975 May;16(5):393-401.
+Citation on PubMed
+Kishnani PS, Austin SL, Arn P, Bali DS, Boney A, Case LE, Chung WK, Desai DM,
+El-Gharbawy A, Haller R, Smit GP, Smith AD, Hobson-Webb LD, Wechsler SB,
+Weinstein DA, Watson MS; ACMG. Glycogen storage disease type III diagnosis and
+management guidelines. Genet Med. 2010 Jul;12(7):446-63. doi:
+10.1097/GIM.0b013e3181e655b6.
+Citation on PubMed
+Lucchiari S, Pagliarani S, Salani S, Filocamo M, Di Rocco M, Melis D, Rodolico
+C, Musumeci O, Toscano A, Bresolin N, Comi GP. Hepatic and neuromuscular forms of
+glycogenosis type III: nine mutations in AGL. Hum Mutat. 2006 Jun;27(6):600-1.
+doi: 10.1002/humu.9426.
+Citation on PubMed
+Schreuder AB, Rossi A, Grunert SC, Derks TGJ. Glycogen Storage Disease Type
+III. 2010 Mar 9 [updated 2022 Jan 6]. In: Adam MP, Feldman J, Mirzaa GM, Pagon
+RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle
+(WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK26372/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Carbohydrate Metabolism Disorders
+Cardiomyopathy
+Cirrhosis
+Genetic Disorders
+Liver Diseases
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Enlarged liver
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

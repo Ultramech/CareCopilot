@@ -1,0 +1,162 @@
+FBXL4-related encephalomyopathic mitochondrial DNA depletion syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+FBXL4-related encephalomyopathic mitochondrial DNA depletion syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/fbxl4-related-encephalomyopathic-mitochondrial-dna-depletion-syndrome/
+FBXL4-related encephalomyopathic mitochondrial DNA depletion syndrome
+Description
+FBXL4
+-related encephalomyopathic mitochondrial DNA (mtDNA) depletion syndrome is a severe condition that begins in infancy and affects multiple body systems. It is primarily associated with brain dysfunction combined with muscle weakness (encephalomyopathy).
+Infants with
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome have weak muscle tone (hypotonia) and a failure to grow or gain weight at the expected rate (failure to thrive). Children with
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome have delayed development of mental and motor skills and severely impaired speech development. Many affected individuals have seizures, movement abnormalities, and an unusually small head size (
+microcephaly
+) with a loss of nerve cells in the brain (cerebral atrophy).
+All individuals with
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome have a buildup of a chemical called lactic acid in the body (lactic acidosis), and about half of individuals have an accumulation of ammonia in the blood. Buildup of these substances can be life-threatening. Many affected individuals also have heart abnormalities, such as congenital heart defects or heart rhythm abnormalities (arrhythmias). In addition, individuals with this condition can have vision problems, hearing loss, liver abnormalities (hepatopathy), and immune deficiency due to a decrease in white blood cells. Many children with
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome have distinctive facial features that can include thick eyebrows; outside corners of the eyes that point upward (
+upslanting palpebral fissures
+); a
+broad nasal bridge
+and tip; and a
+long
+,
+smooth
+space between the upper lip and nose (philtrum).
+Because the encephalomyopathy and other signs and symptoms are so severe, people with
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome usually live only into early childhood.
+Frequency
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome is a rare condition; the exact prevalence is unknown. At least 50 affected individuals have been described in the medical literature.
+Causes
+As its name suggests,
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome is caused by mutations in the
+FBXL4
+gene. This gene provides instructions for producing a protein that is found within cell structures called
+mitochondria
+. Mitochondria are involved in a wide variety of cellular activities, including energy production, chemical signaling, and regulation of cell growth and division (proliferation) and cell death (apoptosis). Mitochondria contain their own DNA, known as mitochondrial DNA (mtDNA), which is essential for the normal function of these structures. The FBXL4 protein is likely involved in the maintenance of mtDNA. Having an adequate amount of mtDNA is essential for normal energy production within cells.
+FBXL4
+gene mutations that cause
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome lead to a loss of FBXL4 protein function. A lack of this protein's activity leads to problems with the maintenance of mtDNA, which can reduce the amount of mtDNA in cells (known as mtDNA depletion). Depletion of mtDNA impairs mitochondrial function in many of the body's cells and tissues. Reduced mitochondrial function eventually leads to cell dysfunction, most noticeably affecting the brain, muscles, and other tissues that have high-energy requirements. This cell dysfunction leads to encephalomyopathy and other features of
+FBXL4
+-related encephalomyopathic mtDNA depletion syndrome.
+Learn more about the gene associated with FBXL4-related encephalomyopathic mitochondrial DNA depletion syndrome
+FBXL4
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+FBXL4 deficiency
+FBXL4-related early onset mitochondrial encephalopathy
+Mitochondrial DNA depletion syndrome 13, encephalomyopathic type
+MTDPS13
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Mitochondrial DNA depletion syndrome 13
+Genetic and Rare Diseases Information Center
+Mitochondrial DNA depletion syndrome
+Mitochondrial DNA depletion syndrome, encephalomyopathic form with variable craniofacial anomalies
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MITOCHONDRIAL DNA DEPLETION SYNDROME 13 (ENCEPHALOMYOPATHIC TYPE); MTDPS13
+Scientific Articles on PubMed
+PubMed
+References
+Almannai M, Dai H, El-Hattab AW, Wong LJC. FBXL4-Related
+Encephalomyopathic Mitochondrial DNA Depletion Syndrome. 2017 Apr 6. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK425540/
+Citation on PubMed
+Antoun G, McBride S, Vanstone JR, Naas T, Michaud J, Redpath S, McMillan HJ,
+Brophy J, Daoud H, Chakraborty P, Dyment D, Holcik M, Harper ME, Lines MA.
+Detailed Biochemical and Bioenergetic Characterization of FBXL4-Related
+Encephalomyopathic Mitochondrial DNA Depletion. JIMD Rep. 2016;27:1-9. doi:
+10.1007/8904_2015_491. Epub 2015 Sep 25.
+Citation on PubMed
+Bonnen PE, Yarham JW, Besse A, Wu P, Faqeih EA, Al-Asmari AM, Saleh MA, Eyaid
+W, Hadeel A, He L, Smith F, Yau S, Simcox EM, Miwa S, Donti T, Abu-Amero KK, Wong
+LJ, Craigen WJ, Graham BH, Scott KL, McFarland R, Taylor RW. Mutations in FBXL4
+cause mitochondrial encephalopathy and a disorder of mitochondrial DNA
+maintenance. Am J Hum Genet. 2013 Sep 5;93(3):471-81. doi:
+10.1016/j.ajhg.2013.07.017. Epub 2013 Aug 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dai H, Zhang VW, El-Hattab AW, Ficicioglu C, Shinawi M, Lines M, Schulze A,
+McNutt M, Gotway G, Tian X, Chen S, Wang J, Craigen WJ, Wong LJ. FBXL4 defects
+are common in patients with congenital lactic acidemia and encephalomyopathic
+mitochondrial DNA depletion syndrome. Clin Genet. 2017 Apr;91(4):634-639. doi:
+10.1111/cge.12894. Epub 2017 Jan 5.
+Citation on PubMed
+Gai X, Ghezzi D, Johnson MA, Biagosch CA, Shamseldin HE, Haack TB, Reyes A,
+Tsukikawa M, Sheldon CA, Srinivasan S, Gorza M, Kremer LS, Wieland T, Strom TM,
+Polyak E, Place E, Consugar M, Ostrovsky J, Vidoni S, Robinson AJ, Wong LJ,
+Sondheimer N, Salih MA, Al-Jishi E, Raab CP, Bean C, Furlan F, Parini R, Lamperti
+C, Mayr JA, Konstantopoulou V, Huemer M, Pierce EA, Meitinger T, Freisinger P,
+Sperl W, Prokisch H, Alkuraya FS, Falk MJ, Zeviani M. Mutations in FBXL4,
+encoding a mitochondrial protein, cause early-onset mitochondrial
+encephalomyopathy. Am J Hum Genet. 2013 Sep 5;93(3):482-95. doi:
+10.1016/j.ajhg.2013.07.016. Epub 2013 Aug 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Huemer M, Karall D, Schossig A, Abdenur JE, Al Jasmi F, Biagosch C,
+Distelmaier F, Freisinger P, Graham BH, Haack TB, Hauser N, Hertecant J,
+Ebrahimi-Fakhari D, Konstantopoulou V, Leydiker K, Lourenco CM, Scholl-Burgi S,
+Wilichowski E, Wolf NI, Wortmann SB, Taylor RW, Mayr JA, Bonnen PE, Sperl W,
+Prokisch H, McFarland R. Clinical, morphological, biochemical, imaging and
+outcome parameters in 21 individuals with mitochondrial maintenance defect
+related to FBXL4 mutations. J Inherit Metab Dis. 2015 Sep;38(5):905-14. doi:
+10.1007/s10545-015-9836-6. Epub 2015 Apr 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Mitochondrial Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

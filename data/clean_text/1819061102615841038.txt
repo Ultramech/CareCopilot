@@ -1,0 +1,126 @@
+Danon disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Danon disease
+URL of this page: https://medlineplus.gov/genetics/condition/danon-disease/
+Danon disease
+Description
+Danon disease is a condition characterized by weakening of the heart muscle (
+cardiomyopathy
+); weakening of the muscles used for movement, called skeletal muscles (myopathy); and intellectual disabilities. People with Danon disease may develop the condition at different ages. Signs and symptoms of this condition appear about 15 years earlier in males than in females. Males first experience health problems in childhood or adolescence; without treatment, these individuals typically live into early adulthood. Females start experiencing health problems in early adulthood and typically survive into mid-adulthood without treatment.
+Cardiomyopathy is the most common symptom of Danon disease, and it occurs in all males and in most females. Beginning in childhood, most affected males develop hypertrophic cardiomyopathy, which is a thickening of the heart muscle that may make it harder for the heart to pump blood. Others with Danon disease may have dilated cardiomyopathy, which is a condition that weakens and enlarges the heart, preventing it from pumping blood efficiently. About half of females with Danon disease have hypertrophic cardiomyopathy, and the other half have dilated cardiomyopathy. Rarely, individuals with hypertrophic cardiomyopathy later develop dilated cardiomyopathy. Either type of cardiomyopathy can lead to heart failure and premature death.
+Individuals with Danon disease can have other heart-related signs and symptoms, including a sensation of fluttering or pounding in the chest (palpitations), an abnormal heartbeat (arrhythmia), or chest pain. Many affected individuals have abnormalities of the
+electrical signals that control the heartbeat
+(conduction abnormalities). Affected individuals often have a specific conduction abnormality known as cardiac preexcitation. The type of cardiac preexcitation most often seen in people with Danon disease is called the
+Wolff-Parkinson-White syndrome
+pattern.
+Skeletal myopathy occurs in most males with Danon disease and in some affected females. The weakness typically occurs in the muscles of the shoulders, neck, and upper thighs. Many males with Danon disease have elevated levels of an enzyme called creatine kinase in their blood, which often indicates muscle disease.
+Most males with Danon disease have mild intellectual disabilities, but this is much less common in affected females.
+There can be other signs and symptoms of the condition in addition to the three characteristic features. Several affected individuals have had gastrointestinal disease, breathing problems, or visual abnormalities.
+Frequency
+Danon disease is a rare condition, but the exact prevalence is unknown.
+Causes
+Danon disease is caused by variants (also called mutations) in the
+LAMP2
+gene. The
+LAMP2
+gene provides instructions for making a protein called lysosome-associated membrane glycoprotein 2 (LAMP-2). As its name suggests, this protein is found in the membrane of cellular structures called
+lysosomes
+. Lysosomes are compartments in the cell that digest and recycle different types of materials. The LAMP-2 protein helps transport cellular materials or digestive enzymes into the lysosome. Three slightly different versions (isoforms) of the LAMP-2 protein are produced. These isoforms have slightly different functions and are found in different tissues throughout the body. The main isoform is needed to transport materials into lysosomes using a formation of cellular structures called autophagic vacuoles (or autophagosomes). Cellular material is first enclosed in an autophagic vacuole inside the cell. The vacuole then attaches (fuses) to a lysosome to transfer the cellular material into the lysosome. The LAMP-2 protein is involved in the fusion between autophagic vacuoles and lysosomes.
+Variants in the
+LAMP2
+gene lead to the production of very little or no functional LAMP-2 protein. Studies have shown that fusion between autophagic vacuoles and lysosomes occurs more slowly in cells without the LAMP-2 protein, which causes autophagic vacuoles to accumulate in these cells. Accumulation of these vacuoles in the heart likely causes heart muscle cells to expand and eventually die, leading to the enlarged and weakened heart common in people with Danon disease. Similarly, in skeletal muscle cells, this accumulation likely leads to the breakdown of the muscle cells, causing muscle weakness. The cause of the other signs and symptoms of Danon disease is unclear, but it is likely related to the accumulation of vacuoles in other affected tissues.
+Learn more about the gene associated with Danon disease
+LAMP2
+Inheritance
+This condition is inherited in an X-linked pattern. A condition is considered X-linked if the altered gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+in each cell. In males (who have only one X chromosome) a variant in the only copy of the gene in each cell is sufficient to cause the condition. In females (who have two copies of the X chromosome) one altered copy of the gene can cause the condition, although the features may be less severe than in people with both copies altered. Some people with only one altered copy of the gene may have no signs or symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+Glycogen storage disease type 2B
+Glycogen storage disease type IIb
+Lysosomal glycogen storage disease with normal acid maltase
+Lysosomal glycogen storage disease without acid maltase deficiency
+Lysosome-associated membrane protein 2 (LAMP2) deficiency
+X-linked pseudoglycogenosis II
+X-linked vacuolar cardiomyopathy and myopathy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Danon disease
+Genetic and Rare Diseases Information Center
+Glycogen storage disease due to LAMP-2 deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+DANON DISEASE
+Scientific Articles on PubMed
+PubMed
+References
+Boucek D, Jirikowic J, Taylor M. Natural history of Danon disease. Genet Med.
+2011 Jun;13(6):563-8. doi: 10.1097/GIM.0b013e31820ad795.
+Citation on PubMed
+Brambatti M, Caspi O, Maolo A, Koshi E, Greenberg B, Taylor MRG, Adler ED.
+Danon disease: Gender differences in presentation and outcomes. Int J Cardiol.
+2019 Jul 1;286:92-98. doi: 10.1016/j.ijcard.2019.01.020. Epub 2019 Feb 16.
+Citation on PubMed
+Cenacchi G, Papa V, Pegoraro V, Marozzo R, Fanin M, Angelini C. Review: Danon
+disease: Review of natural history and recent advances. Neuropathol Appl
+Neurobiol. 2020 Jun;46(4):303-322. doi: 10.1111/nan.12587. Epub 2019 Nov 25.
+Citation on PubMed
+Hong KN, Eshraghian EA, Arad M, Argiro A, Brambatti M, Bui Q, Caspi O, de
+Frutos F, Greenberg B, Ho CY, Kaski JP, Olivotto I, Taylor MRG, Yesso A,
+Garcia-Pavia P, Adler ED. International Consensus on Differential Diagnosis and
+Management of Patients With Danon Disease: JACC State-of-the-Art Review. J Am
+Coll Cardiol. 2023 Oct 17;82(16):1628-1647. doi: 10.1016/j.jacc.2023.08.014.
+Citation on PubMed
+Taylor MRG, Adler ED. Danon Disease. 2020 Mar 5 [updated 2024 May 23]. In:
+Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK554742/
+Citation on PubMed
+Related Health Topics
+Cardiomyopathy
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Dilated cardiomyopathy
+Genetics
+Hypertrophic cardiomyopathy
+Wolff-Parkinson-White syndrome (WPW)
+Related Medical Tests
+Creatine Kinase
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

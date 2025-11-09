@@ -1,0 +1,201 @@
+Autosomal dominant epilepsy with auditory features: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Autosomal dominant epilepsy with auditory features
+URL of this page: https://medlineplus.gov/genetics/condition/autosomal-dominant-epilepsy-with-auditory-features/
+Autosomal dominant epilepsy with auditory features
+Description
+Autosomal dominant epilepsy with auditory features (ADEAF) is an uncommon form of epilepsy that runs in families. People with this condition typically hear sounds (auditory features), such as buzzing, humming, or ringing, during seizures. Some people hear more complex sounds, like specific voices or music, or changes in the volume of sounds. Some people with ADEAF suddenly become unable to understand language before losing consciousness during a seizure. This inability to understand speech is known as receptive aphasia. Less commonly, seizures may cause visual hallucinations, a disturbance in the sense of smell, a feeling of dizziness or spinning (vertigo), or other symptoms that affect the senses.
+ADEAF is called a focal epilepsy because the seizures start in one part of the brain, rather than involving the entire brain from the beginning. Most people with ADEAF have focal aware seizures, which do not cause a loss of consciousness. These seizures are thought to begin in a part of the brain called the lateral temporal lobe. In some people, seizure activity may spread from the lateral temporal lobe to affect other regions of the brain. If seizure activity spreads to the entire brain, it causes a loss of consciousness, muscle stiffening, and rhythmic jerking. Episodes that begin as focal seizures and spread throughout the brain are known as secondarily generalized seizures.
+Seizures associated with ADEAF usually begin in adolescence or young adulthood. They may be triggered by specific sounds, such as a ringing telephone or speech, but in most cases the seizures do not have any recognized triggers. In most affected people, seizures are infrequent and effectively controlled with medication.
+Frequency
+ADEAF appears to be uncommon, although its prevalence is unknown.
+Causes
+Variants (also called mutations) in the
+LGI1
+gene or
+RELN
+gene are the most common cause of ADEAF. Variants in other genes have been identified in small numbers of affected families, and the genetic cause in many families is unknown.
+The
+LGI1
+gene provides instructions for making a protein called Lgi1 or epitempin, which is found primarily in nerve cells (neurons) in the
+brain
+. Although the precise role of epitempin remains uncertain, researchers suggest it may play a role at the junction of neurons (
+synapses
+) where cell-to-cell communication takes place.
+The
+RELN
+gene provides instructions for making a protein called reelin. Reelin is produced in the brain both during brain development and after birth. It appears to play several roles at synapses, including controlling communication between neurons.
+Variants in the
+LGI1
+or
+RELN
+gene may impair the formation or function of synapses. Abnormal communication between neurons can lead to seizure activity in the brain.
+Learn more about the genes associated with Autosomal dominant epilepsy with auditory features
+DEPDC5
+LGI1
+RELN
+Additional Information from NCBI Gene:
+MICAL1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to raise the risk of developing epilepsy. About two-thirds of people who inherit an
+LGI
+gene variant will develop seizures. Some people who have the altered gene never develop the condition, which is known as
+reduced penetrance
+. The likelihood of developing seizures in people with a variant in
+RELN
+or other associated genes is unknown. Most people with ADEAF have one affected parent and other relatives with the condition.
+Other Names for This Condition
+ADEAF
+ADLTE
+ADPEAF
+Autosomal dominant lateral temporal lobe epilepsy
+Autosomal dominant partial epilepsy with auditory features
+Epilepsy, partial, with auditory features
+ETL1
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal dominant epilepsy with auditory features
+Genetic and Rare Diseases Information Center
+Autosomal dominant epilepsy with auditory features
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+EPILEPSY, FAMILIAL TEMPORAL LOBE, 1; ETL1
+Scientific Articles on PubMed
+PubMed
+References
+Brodtkorb E, Gu W, Nakken KO, Fischer C, Steinlein OK. Familial temporal lobe
+epilepsy with aphasic seizures and linkage to chromosome 10q22-q24. Epilepsia.
+2002 Mar;43(3):228-35. doi: 10.1046/j.1528-1157.2002.32001.x.
+Citation on PubMed
+Dazzo E, Fanciulli M, Serioli E, Minervini G, Pulitano P, Binelli S, Di
+Bonaventura C, Luisi C, Pasini E, Striano S, Striano P, Coppola G, Chiavegato A,
+Radovic S, Spadotto A, Uzzau S, La Neve A, Giallonardo AT, Mecarelli O, Tosatto
+SC, Ottman R, Michelucci R, Nobile C. Heterozygous reelin mutations cause
+autosomal-dominant lateral temporal epilepsy. Am J Hum Genet. 2015 Jun
+4;96(6):992-1000. doi: 10.1016/j.ajhg.2015.04.020.
+Citation on PubMed
+Dazzo E, Rehberg K, Michelucci R, Passarelli D, Boniver C, Vianello Dri V,
+Striano P, Striano S, Pasterkamp RJ, Nobile C. Mutations in MICAL-1cause
+autosomal-dominant lateral temporal epilepsy. Ann Neurol. 2018 Mar;83(3):483-493.
+doi: 10.1002/ana.25167. Epub 2018 Mar 13.
+Citation on PubMed
+Furia A, Licchetta L, Muccioli L, Ferri L, Mostacci B, Mazzoni S, Menghi V,
+Minardi R, Tinuper P, Bisulli F. Epilepsy With Auditory Features: From Etiology
+to Treatment. Front Neurol. 2022 Jan 27;12:807939. doi:
+10.3389/fneur.2021.807939. eCollection 2021.
+Citation on PubMed
+Kalachikov S, Evgrafov O, Ross B, Winawer M, Barker-Cummings C, Martinelli
+Boneschi F, Choi C, Morozov P, Das K, Teplitskaya E, Yu A, Cayanis E,
+Penchaszadeh G, Kottmann AH, Pedley TA, Hauser WA, Ottman R, Gilliam TC.
+Mutations in LGI1 cause autosomal-dominant partial epilepsy with auditory
+features. Nat Genet. 2002 Mar;30(3):335-41. doi: 10.1038/ng832. Epub 2002 Jan 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Michelucci R, Pasini E, Dazzo E. Autosomal Dominant Epilepsy with Auditory
+Features. 2007 Apr 20 [updated 2024 May 9]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1537/
+Citation on PubMed
+Michelucci R, Pasini E, Malacrida S, Striano P, Bonaventura CD, Pulitano P,
+Bisulli F, Egeo G, Santulli L, Sofia V, Gambardella A, Elia M, de Falco A, Neve
+Al, Banfi P, Coppola G, Avoni P, Binelli S, Boniver C, Pisano T, Marchini M,
+Dazzo E, Fanciulli M, Bartolini Y, Riguzzi P, Volpi L, de Falco FA, Giallonardo
+AT, Mecarelli O, Striano S, Tinuper P, Nobile C. Low penetrance of autosomal
+dominant lateral temporal epilepsy in Italian families without LGI1 mutations.
+Epilepsia. 2013 Jul;54(7):1288-97. doi: 10.1111/epi.12194. Epub 2013 Apr 26.
+Citation on PubMed
+Michelucci R, Poza JJ, Sofia V, de Feo MR, Binelli S, Bisulli F, Scudellaro E,
+Simionati B, Zimbello R, D'Orsi G, Passarelli D, Avoni P, Avanzini G, Tinuper P,
+Biondi R, Valle G, Mautner VF, Stephani U, Tassinari CA, Moschonas NK, Siebert R,
+Lopez de Munain A, Perez-Tur J, Nobile C. Autosomal dominant lateral temporal
+epilepsy: clinical spectrum, new epitempin mutations, and genetic heterogeneity
+in seven European families. Epilepsia. 2003 Oct;44(10):1289-97. doi:
+10.1046/j.1528-1157.2003.20003.x.
+Citation on PubMed
+Ottman R, Risch N, Hauser WA, Pedley TA, Lee JH, Barker-Cummings C,
+Lustenberger A, Nagle KJ, Lee KS, Scheuer ML, et al. Localization of a gene for
+partial epilepsy to chromosome 10q. Nat Genet. 1995 May;10(1):56-60. doi:
+10.1038/ng0595-56.
+Citation on PubMed
+Ottman R, Winawer MR, Kalachikov S, Barker-Cummings C, Gilliam TC, Pedley TA,
+Hauser WA. LGI1 mutations in autosomal dominant partial epilepsy with auditory
+features. Neurology. 2004 Apr 13;62(7):1120-6. doi:
+10.1212/01.wnl.0000120098.39231.6e.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pippucci T, Licchetta L, Baldassari S, Palombo F, Menghi V, D'Aurizio R, Leta
+C, Stipa C, Boero G, d'Orsi G, Magi A, Scheffer I, Seri M, Tinuper P, Bisulli F.
+Epilepsy with auditory features: A heterogeneous clinico-molecular disease.
+Neurol Genet. 2015 May 14;1(1):e5. doi: 10.1212/NXG.0000000000000005. eCollection
+2015 Jun.
+Citation on PubMed
+Rosanoff MJ, Ottman R. Penetrance of LGI1 mutations in autosomal dominant
+partial epilepsy with auditory features. Neurology. 2008 Aug 19;71(8):567-71.
+doi: 10.1212/01.wnl.0000323926.77565.ee.
+Citation on PubMed
+Ventruti A, Kazdoba TM, Niu S, D'Arcangelo G. Reelin deficiency causes
+specific defects in the molecular composition of the synapses in the adult brain.
+Neuroscience. 2011 Aug 25;189:32-42. doi: 10.1016/j.neuroscience.2011.05.050.
+Epub 2011 Jun 2.
+Citation on PubMed
+Winawer MR, Martinelli Boneschi F, Barker-Cummings C, Lee JH, Liu J, Mekios C,
+Gilliam TC, Pedley TA, Hauser WA, Ottman R. Four new families with autosomal
+dominant partial epilepsy with auditory features: clinical description and
+linkage to chromosome 10q24. Epilepsia. 2002 Jan;43(1):60-7. doi:
+10.1046/j.1528-1157.2002.45001.x.
+Citation on PubMed
+or
+Free article on PubMed Central
+Winawer MR, Ottman R, Hauser WA, Pedley TA. Autosomal dominant partial
+epilepsy with auditory features: defining the phenotype. Neurology. 2000 Jun
+13;54(11):2173-6. doi: 10.1212/wnl.54.11.2173.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Epilepsy
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Focal seizure
+Genetics
+Seizures
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

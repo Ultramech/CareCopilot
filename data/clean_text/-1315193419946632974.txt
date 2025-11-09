@@ -1,0 +1,184 @@
+Systemic lupus erythematosus: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Systemic lupus erythematosus
+URL of this page: https://medlineplus.gov/genetics/condition/systemic-lupus-erythematosus/
+Systemic lupus erythematosus
+Description
+Systemic lupus erythematosus (SLE) is a chronic disease that causes inflammation in connective tissues, such as cartilage and the lining of blood vessels, which provide strength and flexibility to structures throughout the body. The signs and symptoms of SLE vary among affected individuals, and can involve many organs and systems, including the skin, joints, kidneys, lungs, central nervous system, and blood-forming (hematopoietic) system. SLE is one of a large group of conditions called autoimmune disorders that occur when the immune system attacks the body's own tissues and organs.
+SLE may first appear as extreme tiredness (fatigue), a vague feeling of discomfort or illness (malaise), fever, loss of appetite, and weight loss. Most affected individuals also have joint pain, typically affecting the same joints on both sides of the body, and muscle pain and weakness. Skin problems are common in SLE. A characteristic feature is a flat red rash across the cheeks and bridge of the nose, called a "butterfly rash" because of its shape. The rash, which generally does not hurt or itch, often appears or becomes more pronounced when exposed to sunlight. Other skin problems that may occur in SLE include calcium deposits under the skin (calcinosis), damaged blood vessels (vasculitis) in the skin, and tiny red spots called petechiae. Petechiae are caused by a shortage of cells involved in clotting (platelets), which leads to bleeding under the skin. Affected individuals may also have hair loss (alopecia) and open sores (ulcerations) in the moist lining (mucosae) of the mouth, nose, or, less commonly, the genitals.
+About a third of people with SLE develop kidney disease (nephritis). Heart problems may also occur in SLE, including inflammation of the sac-like membrane around the heart (pericarditis) and abnormalities of the heart valves, which control blood flow in the heart. Heart disease caused by fatty buildup in the blood vessels (
+atherosclerosis
+), which is very common in the general population, is even more common in people with SLE. The inflammation characteristic of SLE can also damage the nervous system, and may result in abnormal sensation and weakness in the limbs (peripheral neuropathy); seizures; stroke; and difficulty processing, learning, and remembering information (cognitive impairment). Anxiety and
+depression
+are also common in SLE.
+People with SLE have episodes in which the condition gets worse (exacerbations) and other times when it gets better (remissions). Overall, SLE gradually gets worse over time, and damage to the major organs of the body can be life-threatening.
+Frequency
+SLE has been estimated to affect between 322,000 and 1.5 million people in the United States. The exact prevalence is difficult to determine because many of the signs and symptoms of SLE resemble those of other disorders. Diagnosis may be delayed for years, and the condition may never be diagnosed in some affected individuals. Females develop SLE about nine times more often than males. It is most common in younger women, peaking during the childbearing years; however, 20 percent of SLE cases occur in people over age 50.
+For unknown reasons, in industrialized Western countries SLE has become 10 times more common over the past 50 years. The prevalence of SLE in Africa and Asia is believed to be much lower than in Western nations; however, in industrialized Western countries, people of African and Asian descent are two to four times more likely to develop SLE than are people of European descent. Researchers suggest that factors such as ethnic mixing, tobacco use in industrialized countries, and the different types of infections people acquire in different regions may contribute to these differences. For example malaria, which occurs often in tropical regions, is thought to be protective against SLE, while the Epstein-Barr virus, more common in the West, increases SLE risk.
+Causes
+Normal variations (polymorphisms) in many genes can affect the risk of developing SLE, and in most cases multiple genetic factors are thought to be involved. In rare cases, variants (also called mutations) in single genes cause SLE. Most of the genes associated with SLE are involved in immune system function, and changes in these genes likely affect proper targeting and control of the immune response. Sex hormones and a variety of environmental factors including viral infections, diet, stress, chemical exposures, and sunlight are also thought to play a role in triggering this complex disorder. About 10 percent of SLE cases are thought to be triggered by drug exposure, and more than 80 drugs that may be involved have been identified.
+In people with SLE, cells that have undergone self-destruction (
+apoptosis
+) because they are damaged or no longer needed are not cleared away properly. The relationship of this loss of function to the cause or features of SLE is unclear. Researchers suggest that these dead cells may release substances that cause the immune system to react inappropriately and attack the body's tissues, resulting in the signs and symptoms of SLE.
+Learn more about the genes associated with Systemic lupus erythematosus
+IRF5
+NCF2
+PTPN22
+STAT4
+TREX1
+Additional Information from NCBI Gene:
+BANK1
+C4A
+C4B
+CR2
+CRP
+CTLA4
+DNASE1
+DNASE1L3
+FCGR2B
+ITGAM
+LTK
+PDCD1
+RASGRP1
+RIPK1
+TLR5
+TNFAIP3
+TNFSF4
+Inheritance
+SLE and other autoimmune disorders tend to run in families, but the inheritance pattern is usually unknown. People may inherit a gene variation that increases or decreases the risk of SLE, but in most cases do not inherit the condition itself. Not all people with SLE have a gene variation that increases the risk, and not all people with such a gene variation will develop the disorder.
+A rare, inherited form of SLE follows an
+autosomal recessive inheritance pattern
+, which means both copies of the gene in each cell have disease-causing variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Disseminated lupus erythematosus
+LE syndrome
+Libman-Sacks disease
+Lupus
+SLE
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal systemic lupus erythematosus type 16
+Genetic Testing Registry: Systemic lupus erythematosus, susceptibility to, 1
+Genetic Testing Registry: Systemic lupus erythematosus, susceptibility to, 10
+Genetic Testing Registry: Systemic lupus erythematosus, susceptibility to, 2
+Genetic Testing Registry: Systemic lupus erythematosus, susceptibility to, 6
+Genetic Testing Registry: Systemic lupus erythematosus, susceptibility to, 9
+Genetic and Rare Diseases Information Center
+Autosomal systemic lupus erythematosus
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SYSTEMIC LUPUS ERYTHEMATOSUS; SLE
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 1; SLEB1
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 15; SLEB15
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 2; SLEB2
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 4; SLEB4
+SYSTEMIC LUPUS ERYTHEMATOSUS WITH HEMOLYTIC ANEMIA, SUSCEPTIBILITY TO, 1; SLEH1
+SYSTEMIC LUPUS ERYTHEMATOSUS WITH NEPHRITIS, SUSCEPTIBILITY TO, 1; SLEN1
+SYSTEMIC LUPUS ERYTHEMATOSUS WITH NEPHRITIS, SUSCEPTIBILITY TO, 2; SLEN2
+SYSTEMIC LUPUS ERYTHEMATOSUS WITH NEPHRITIS, SUSCEPTIBILITY TO, 3; SLEN3
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 3; SLEB3
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 5; SLEB5
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 6; SLEB6
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 7; SLEB7
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 8; SLEB8
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 9; SLEB9
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 10; SLEB10
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 11; SLEB11
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 12; SLEB12
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 14; SLEB14
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 13; SLEB13
+SYSTEMIC LUPUS ERYTHEMATOSUS 16; SLEB16
+Scientific Articles on PubMed
+PubMed
+References
+Costa-Reis P, Sullivan KE. Genetics and epigenetics of systemic lupus
+erythematosus. Curr Rheumatol Rep. 2013 Sep;15(9):369. doi:
+10.1007/s11926-013-0369-4.
+Citation on PubMed
+Crispin JC, Hedrich CM, Tsokos GC. Gene-function studies in systemic lupus
+erythematosus. Nat Rev Rheumatol. 2013 Aug;9(8):476-84. doi:
+10.1038/nrrheum.2013.78. Epub 2013 Jun 4.
+Citation on PubMed
+Cui Y, Sheng Y, Zhang X. Genetic susceptibility to SLE: recent progress from
+GWAS. J Autoimmun. 2013 Mar;41:25-33. doi: 10.1016/j.jaut.2013.01.008. Epub 2013
+Feb 6.
+Citation on PubMed
+Frieri M. Mechanisms of disease for the clinician: systemic lupus
+erythematosus. Ann Allergy Asthma Immunol. 2013 Apr;110(4):228-32. doi:
+10.1016/j.anai.2012.12.010. Epub 2013 Jan 5.
+Citation on PubMed
+Gurevitz SL, Snyder JA, Wessel EK, Frey J, Williamson BA. Systemic lupus
+erythematosus: a review of the disease and treatment options. Consult Pharm. 2013
+Feb;28(2):110-21. doi: 10.4140/TCP.n.2013.110.
+Citation on PubMed
+Kiriakidou M, Cotton D, Taichman D, Williams S. Systemic lupus erythematosus.
+Ann Intern Med. 2013 Oct 1;159(7):ITC4-1. doi:
+10.7326/0003-4819-159-7-201310010-01004. No abstract available.
+Citation on PubMed
+Rullo OJ, Tsao BP. Recent insights into the genetic basis of systemic lupus
+erythematosus. Ann Rheum Dis. 2013 Apr;72 Suppl 2(0 2):ii56-61. doi:
+10.1136/annrheumdis-2012-202351. Epub 2012 Dec 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tiffin N, Adeyemo A, Okpechi I. A diverse array of genetic factors contribute
+to the pathogenesis of systemic lupus erythematosus. Orphanet J Rare Dis. 2013
+Jan 7;8:2. doi: 10.1186/1750-1172-8-2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tunnicliffe DJ, Singh-Grewal D, Kim S, Craig JC, Tong A. Diagnosis,
+Monitoring, and Treatment of Systemic Lupus Erythematosus: A Systematic Review of
+Clinical Practice Guidelines. Arthritis Care Res (Hoboken). 2015
+Oct;67(10):1440-52. doi: 10.1002/acr.22591.
+Citation on PubMed
+Yang W, Lau YL. Solving the genetic puzzle of systemic lupus erythematosus.
+Pediatr Nephrol. 2015 Oct;30(10):1735-48. doi: 10.1007/s00467-014-2947-8. Epub
+2014 Sep 20.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Lupus
+MEDICAL ENCYCLOPEDIA
+Antinuclear antibody panel
+Genetics
+Lupus nephritis
+Systemic lupus erythematosus
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

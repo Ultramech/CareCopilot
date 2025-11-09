@@ -1,0 +1,184 @@
+Angelman syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Angelman syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/angelman-syndrome/
+Angelman syndrome
+Description
+Angelman syndrome is a complex genetic disorder that primarily affects the nervous system. Characteristic features of this condition include delayed development, intellectual disability, severe speech impairment, and problems with movement and balance (ataxia). Most affected children also have recurrent seizures (epilepsy) and a small head size (
+microcephaly
+). Delayed development becomes noticeable by the age of 6 to 12 months, and other common signs and symptoms usually appear in early childhood.
+Children with Angelman syndrome typically have a happy, excitable demeanor with frequent smiling, laughter, and hand-flapping movements. Hyperactivity and a short attention span are common. Most affected children also have difficulty sleeping and need less sleep than usual.
+With age, people with Angelman syndrome become less excitable, and the sleeping problems tend to improve. However, affected individuals continue to have intellectual disability, severe speech impairment, and seizures throughout their lives. Adults with Angelman syndrome have distinctive facial features that may be described as "
+coarse
+." Other common features include
+unusually fair skin with light-colored hair
+and an abnormal side-to-side curvature of the spine (
+scoliosis
+). The life expectancy of people with this condition appears to be nearly normal.
+Frequency
+Angelman syndrome affects an estimated 1 in 12,000 to 20,000 people.
+Causes
+Many of the characteristic features of Angelman syndrome result from the loss of function of a gene called
+UBE3A
+. People normally inherit one copy of the
+UBE3A
+gene from each parent. Both copies of this gene are turned on (active) in most of the body's tissues. However, in nerve cells (neurons) in the brain and spinal cord (central nervous system), only the copy inherited from a person's mother (the maternal copy) is active. This parent-specific gene activation is caused by a phenomenon called genomic imprinting. If the maternal copy of the
+UBE3A
+gene is lost because of a chromosomal change or a gene variant (also known as a mutation), a person will have no active copies of the gene in most parts of the brain.
+Several different genetic mechanisms
+can inactivate or delete the maternal copy of the
+UBE3A
+gene. Most cases of Angelman syndrome (about 70 percent) occur when a segment of the maternal
+chromosome 15
+containing this gene is
+deleted
+. In other cases (about 10 to 20 percent), Angelman syndrome is caused by a variant in the maternal copy of the
+UBE3A
+gene.
+In a small percentage of cases, Angelman syndrome results when a person inherits two copies of chromosome 15 from his or her father (paternal copies) instead of one copy from each parent. This phenomenon is called paternal
+uniparental disomy
+. Rarely, Angelman syndrome can also be caused by a chromosomal rearrangement called a translocation, or by a variant or other defect in the region of DNA that controls activation of the
+UBE3A
+gene. These genetic changes can abnormally turn off (inactivate)
+UBE3A
+or other genes on the maternal copy of chromosome 15.
+The causes of Angelman syndrome are unknown in 10 to 15 percent of affected individuals. Changes involving other genes or chromosomes may be responsible for the disorder in these cases.
+In some people who have Angelman syndrome, the loss of a gene called
+OCA2
+is associated with
+light-colored hair and fair skin
+. The
+OCA2
+gene is located on the segment of chromosome 15 that is often deleted in people with this disorder. However, loss of the
+OCA2
+gene does not cause the other signs and symptoms of Angelman syndrome. The protein produced from this gene helps determine the coloring (pigmentation) of the skin, hair, and eyes.
+Learn more about the genes and chromosome associated with Angelman syndrome
+OCA2
+UBE3A
+chromosome 15
+Inheritance
+Most cases of Angelman syndrome are not inherited, particularly those caused by a
+deletion
+in the maternal chromosome 15 or by paternal
+uniparental disomy
+. These genetic changes occur as random events during the formation of reproductive cells (eggs and sperm) or in early embryonic development. Affected people typically have no history of the disorder in their family.
+Rarely, a genetic change responsible for Angelman syndrome can be
+inherited
+. For example, it is possible for a variant in the
+UBE3A
+gene or in the nearby region of DNA that controls gene activation to be passed from one generation to the next.
+Other Names for This Condition
+AS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Angelman syndrome
+Genetic and Rare Diseases Information Center
+Angelman syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ANGELMAN SYNDROME; AS
+Scientific Articles on PubMed
+PubMed
+References
+Buiting K. Prader-Willi syndrome and Angelman syndrome. Am J Med Genet C Semin
+Med Genet. 2010 Aug 15;154C(3):365-76. doi: 10.1002/ajmg.c.30273.
+Citation on PubMed
+Dagli AI, Mathews J, Williams CA. Angelman Syndrome. 1998 Sep 15 [updated 2025
+May 1]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1144/
+Citation on PubMed
+Gentile JK, Tan WH, Horowitz LT, Bacino CA, Skinner SA, Barbieri-Welge R,
+Bauer-Carlin A, Beaudet AL, Bichell TJ, Lee HS, Sahoo T, Waisbren SE, Bird LM,
+Peters SU. A neurodevelopmental survey of Angelman syndrome with
+genotype-phenotype correlations. J Dev Behav Pediatr. 2010 Sep;31(7):592-601.
+doi: 10.1097/DBP.0b013e3181ee408e.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lalande M, Calciano MA. Molecular epigenetics of Angelman syndrome. Cell Mol
+Life Sci. 2007 Apr;64(7-8):947-60. doi: 10.1007/s00018-007-6460-0.
+Citation on PubMed
+Lossie AC, Whitney MM, Amidon D, Dong HJ, Chen P, Theriaque D, Hutson A,
+Nicholls RD, Zori RT, Williams CA, Driscoll DJ. Distinct phenotypes distinguish
+the molecular classes of Angelman syndrome. J Med Genet. 2001 Dec;38(12):834-45.
+doi: 10.1136/jmg.38.12.834.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pelc K, Cheron G, Dan B. Behavior and neuropsychiatric manifestations in
+Angelman syndrome. Neuropsychiatr Dis Treat. 2008 Jun;4(3):577-84. doi:
+10.2147/ndt.s2749.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tan WH, Bacino CA, Skinner SA, Anselm I, Barbieri-Welge R, Bauer-Carlin A,
+Beaudet AL, Bichell TJ, Gentile JK, Glaze DG, Horowitz LT, Kothare SV, Lee HS,
+Nespeca MP, Peters SU, Sahoo T, Sarco D, Waisbren SE, Bird LM. Angelman syndrome:
+Mutations influence features in early childhood. Am J Med Genet A. 2011
+Jan;155A(1):81-90. doi: 10.1002/ajmg.a.33775.
+Citation on PubMed
+or
+Free article on PubMed Central
+Van Buggenhout G, Fryns JP. Angelman syndrome (AS, MIM 105830). Eur J Hum
+Genet. 2009 Nov;17(11):1367-73. doi: 10.1038/ejhg.2009.67. Epub 2009 May 20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Williams CA, Beaudet AL, Clayton-Smith J, Knoll JH, Kyllerman M, Laan LA,
+Magenis RE, Moncla A, Schinzel AA, Summers JA, Wagstaff J. Angelman syndrome
+2005: updated consensus for diagnostic criteria. Am J Med Genet A. 2006 Mar
+1;140(5):413-8. doi: 10.1002/ajmg.a.31074.
+Citation on PubMed
+Williams CA. Neurological aspects of the Angelman syndrome. Brain Dev. 2005
+Mar;27(2):88-94. doi: 10.1016/j.braindev.2003.09.014.
+Citation on PubMed
+Williams CA. The behavioral phenotype of the Angelman syndrome. Am J Med Genet
+C Semin Med Genet. 2010 Nov 15;154C(4):432-7. doi: 10.1002/ajmg.c.30278.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Speech disorders - children
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

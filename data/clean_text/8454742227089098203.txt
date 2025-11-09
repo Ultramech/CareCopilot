@@ -1,0 +1,149 @@
+Y chromosome infertility: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Y chromosome infertility
+URL of this page: https://medlineplus.gov/genetics/condition/y-chromosome-infertility/
+Y chromosome infertility
+Description
+Y chromosome infertility is a condition that affects the production of sperm and causes male infertility, which means it is difficult or impossible for affected men to father children. An affected man's body may produce no mature sperm cells (azoospermia), fewer than the usual number of sperm cells (oligospermia), or sperm cells that are abnormally shaped or that do not move properly. Men with Y chromosome infertility do not have any other signs or symptoms related to the condition.
+Some men with Y chromosome infertility who have mild to moderate oligospermia may eventually father a child naturally. Men with oligospermia may also be helped with assisted reproductive technologies; most men with Y chromosome infertility have some sperm cells in the
+testes
+that can be extracted for this purpose.
+Frequency
+Y chromosome infertility occurs in approximately 1 in 2,000 to 1 in 3,000 males of all ethnic groups. This condition accounts for about 13 percent of cases of azoospermia and 5 percent of severe oligospermia.
+Causes
+As its name suggests, this form of infertility is caused by changes in the
+Y chromosome
+. People normally have 46 chromosomes in each cell. Two of the 46 chromosomes are
+sex chromosomes
+, called X and Y. Females have two X chromosomes (46,XX), and males have one
+X chromosome
+and one Y chromosome (46,XY).
+Many genes on the Y chromosome are involved in male sex determination and development. In particular, genes in areas of the Y chromosome called
+azoospermia factor (AZF) regions
+provide instructions for making proteins that are involved in sperm cell production and development, although the specific functions of these proteins are not well understood.
+Y chromosome infertility is caused by deletions of genes in the AZF regions. These deletions remove several genes, or in rare cases, a single gene. Loss of this genetic material likely prevents the production of one or more proteins needed for normal sperm cell development. As a result, either few sperm develop or sperm do not develop at all, leading to Y chromosome infertility.
+Learn more about the chromosome associated with Y chromosome infertility
+y chromosome
+Additional Information from NCBI Gene:
+CDY1
+DAZ1
+DAZ2
+DAZ3
+DAZ4
+DDX3Y
+HSFY1
+HSFY2
+KDM5D
+PRY
+RBMY1A1
+RPS4Y2
+TSPY1
+USP9Y
+VCY
+Inheritance
+Because Y chromosome infertility impedes the ability to father children, this condition is usually not inherited. Most cases of this condition result from new (de novo) deletions on the Y chromosome that occur during formation of sperm cells in an affected individual's father who is not himself infertile. These cases occur in men with no history of the disorder in their family.
+When men with Y chromosome infertility do father children, either naturally or with the aid of assisted reproductive technologies, they pass the genetic changes on the Y chromosome to all their sons. As a result, the sons will also have Y chromosome infertility. This form of inheritance is called
+Y-linked
+. Daughters do not inherit the Y chromosome and are not affected.
+Other Names for This Condition
+Spermatogenic failure, Y-linked
+Y chromosome-related azoospermia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Spermatogenic failure, Y-linked, 2
+Genetic Testing Registry: Spermatogenic failure, Y-linked, 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPERMATOGENIC FAILURE, Y-LINKED, 1; SPGFY1
+SPERMATOGENIC FAILURE, Y-LINKED, 2; SPGFY2
+Scientific Articles on PubMed
+PubMed
+References
+Esteves SC, Agarwal A. Novel concepts in male infertility. Int Braz J Urol.
+2011 Jan-Feb;37(1):5-15. doi: 10.1590/s1677-55382011000100002.
+Citation on PubMed
+Fan Y, Silber SJ. Y Chromosome Infertility. 2002 Oct 31 [updated 2019 Aug 1].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1339/
+Citation on PubMed
+Gallego A, Rogel R, Lujan S, Plaza B, Delgado F, Boronat F. AZF gene
+microdeletions: case series and literature review. Actas Urol Esp. 2014
+Dec;38(10):698-702. doi: 10.1016/j.acuro.2014.04.003. Epub 2014 Jun 19. English,
+Spanish.
+Citation on PubMed
+Goncalves C, Cunha M, Rocha E, Fernandes S, Silva J, Ferraz L, Oliveira C,
+Barros A, Sousa M. Y-chromosome microdeletions in nonobstructive azoospermia and
+severe oligozoospermia. Asian J Androl. 2017 May-Jun;19(3):338-345. doi:
+10.4103/1008-682X.172827.
+Citation on PubMed
+or
+Free article on PubMed Central
+Krausz C, Casamonti E. Spermatogenic failure and the Y chromosome. Hum Genet.
+2017 May;136(5):637-655. doi: 10.1007/s00439-017-1793-8. Epub 2017 Apr 29.
+Citation on PubMed
+Liu XG, Hu HY, Guo YH, Sun YP. Correlation between Y chromosome microdeletion
+and male infertility. Genet Mol Res. 2016 Jun 3;15(2). doi: 10.4238/gmr.15028426.
+Citation on PubMed
+Mau Kai C, Juul A, McElreavey K, Ottesen AM, Garn ID, Main KM, Loft A,
+Jorgensen N, Skakkebaek NE, Andersen AN, Rajpert-De Meyts E. Sons conceived by
+assisted reproduction techniques inherit deletions in the azoospermia factor
+(AZF) region of the Y chromosome and the DAZ gene copy number. Hum Reprod. 2008
+Jul;23(7):1669-78. doi: 10.1093/humrep/den124. Epub 2008 Apr 25.
+Citation on PubMed
+Pan Y, Zhang HG, Xi QI, Zhang H, Wang RX, Li LL, Liu RZ. Molecular
+microdeletion analysis of infertile men with karyotypic Y chromosome
+abnormalities. J Int Med Res. 2018 Jan;46(1):307-315. doi:
+10.1177/0300060517719394. Epub 2017 Aug 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Silber SJ. The Y chromosome in the era of intracytoplasmic sperm injection: a
+personal review. Fertil Steril. 2011 Jun 30;95(8):2439-48.e1-5. doi:
+10.1016/j.fertnstert.2011.05.070.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Assisted Reproductive Technology
+Genetic Disorders
+Male Infertility
+MEDICAL ENCYCLOPEDIA
+Genetics
+Semen analysis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

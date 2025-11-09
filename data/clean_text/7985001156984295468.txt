@@ -1,0 +1,160 @@
+Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/immune-dysregulation-polyendocrinopathy-enteropathy-x-linked-syndrome/
+Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome
+Description
+Immune dysregulation, polyendocrinopathy, enteropathy, X-linked (IPEX) syndrome primarily affects males and is caused by problems with the immune system. The immune system normally protects the body from foreign invaders, such as bacteria and viruses, by recognizing and attacking these invaders and clearing them from the body. However, the immune system can malfunction and attack the body's own tissues and organs instead, which is known as autoimmunity. IPEX syndrome is characterized by the development of multiple autoimmune disorders in affected individuals. Although IPEX syndrome can affect many different areas of the body, autoimmune disorders involving the intestines, skin, and hormone-producing (endocrine) glands occur most often. IPEX syndrome can be life-threatening in early childhood.
+Almost all individuals with IPEX syndrome develop a disorder of
+the intestines
+called autoimmune enteropathy. Autoimmune enteropathy occurs when certain cells in the intestines are destroyed by a person's immune system. It causes severe diarrhea, which is usually the first symptom of IPEX syndrome. Autoimmune enteropathy typically begins in the first few months of life. It can cause failure to gain weight and grow at the expected rate (failure to thrive) and general wasting and weight loss (cachexia).
+People with IPEX syndrome frequently develop inflammation of the skin, called
+dermatitis
+. Eczema is the most common type of dermatitis that occurs in this syndrome, and it causes abnormal patches of red, irritated skin. Other skin disorders that cause similar symptoms are sometimes present in IPEX syndrome.
+The term polyendocrinopathy is used in IPEX syndrome because individuals can develop multiple disorders of the endocrine glands.
+Type 1 diabetes
+mellitus is an autoimmune condition involving the pancreas and is the most common endocrine disorder present in people with IPEX syndrome. It usually develops within the first few months of life and prevents the body from properly controlling the amount of sugar in the blood. Autoimmune thyroid disease may also develop in people with IPEX syndrome. The
+thyroid gland
+is a butterfly-shaped organ in the lower neck that produces hormones. This gland is commonly underactive (hypothyroidism) in individuals with this disorder, but may become overactive (hyperthyroidism).
+Individuals with IPEX syndrome typically develop other types of autoimmune disorders in addition to those that involve the intestines, skin, and endocrine glands. Autoimmune blood disorders are common; about half of affected individuals have low levels of red blood cells (
+anemia
+), platelets (thrombocytopenia), or certain white blood cells (neutropenia) because these cells are attacked by the immune system. In some individuals, IPEX syndrome involves the liver and kidneys.
+Frequency
+IPEX syndrome is a rare disorder that affects an estimated 1 in 1.6 million people.
+Causes
+Mutations in the
+FOXP3
+gene cause IPEX syndrome. The protein produced from this gene is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes. This protein is essential for the production and normal function of certain immune cells called regulatory T cells. Regulatory T cells play an important role in controlling immune responses and preventing autoimmune disorders. Mutations in the
+FOXP3
+gene impair the normal function of regulatory T cells, making it difficult for the body to turn off immune responses when they are not needed. Normal body tissues and organs are attacked, causing the multiple autoimmune disorders that develop in people with IPEX syndrome.
+Learn more about the gene associated with Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome
+FOXP3
+Inheritance
+IPEX syndrome is inherited in an X-linked recessive pattern. The
+FOXP3
+gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Some people have conditions that appear identical to IPEX syndrome, but they do not have mutations in the
+FOXP3
+gene. These conditions do not follow an X-linked inheritance pattern, and females can be affected. Such conditions are classified as IPEX-like syndromes.
+Other Names for This Condition
+Autoimmunity-immunodeficiency syndrome, X-linked
+Diabetes mellitus, congenital insulin-dependent, with fatal secretory diarrhea
+Diarrhea, polyendocrinopathy, fatal infection syndrome, X-linked
+Enteropathy, autoimmune, with hemolytic anemia and polyendocrinopathy
+IDDM-secretory diarrhea syndrome
+Immunodeficiency, polyendocrinopathy, and enteropathy, X-linked
+Insulin-dependent diabetes mellitus secretory diarrhea syndrome
+IPEX syndrome
+Polyendocrinopathy, immune dysfunction, and diarrhea, X-linked
+X-linked autoimmunity-allergic dysregulation syndrome
+XLAAD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Insulin-dependent diabetes mellitus secretory diarrhea syndrome
+Genetic and Rare Diseases Information Center
+Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+IMMUNODYSREGULATION, POLYENDOCRINOPATHY, AND ENTEROPATHY, X-LINKED; IPEX
+Scientific Articles on PubMed
+PubMed
+References
+Bacchetta R, Passerini L, Gambineri E, Dai M, Allan SE, Perroni L,
+Dagna-Bricarelli F, Sartirana C, Matthes-Martin S, Lawitschka A, Azzari C,
+Ziegler SF, Levings MK, Roncarolo MG. Defective regulatory and effector T cell
+functions in patients with FOXP3 mutations. J Clin Invest. 2006
+Jun;116(6):1713-22. doi: 10.1172/JCI25112.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bin Dhuban K, Piccirillo CA. The immunological and genetic basis of immune
+dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome. Curr Opin
+Allergy Clin Immunol. 2015 Dec;15(6):525-32. doi: 10.1097/ACI.0000000000000214.
+Citation on PubMed
+Fuchizawa T, Adachi Y, Ito Y, Higashiyama H, Kanegane H, Futatani T, Kobayashi
+I, Kamachi Y, Sakamoto T, Tsuge I, Tanaka H, Banham AH, Ochs HD, Miyawaki T.
+Developmental changes of FOXP3-expressing CD4+CD25+ regulatory T cells and their
+impairment in patients with FOXP3 gene mutations. Clin Immunol. 2007
+Dec;125(3):237-46. doi: 10.1016/j.clim.2007.08.004. Epub 2007 Oct 3.
+Citation on PubMed
+Nik Tavakoli N, Hambly BD, Sullivan DR, Bao S. Forkhead box protein 3:
+essential immune regulatory role. Int J Biochem Cell Biol. 2008;40(11):2369-73.
+doi: 10.1016/j.biocel.2007.10.004. Epub 2007 Oct 10.
+Citation on PubMed
+Otsubo K, Kanegane H, Kamachi Y, Kobayashi I, Tsuge I, Imaizumi M, Sasahara Y,
+Hayakawa A, Nozu K, Iijima K, Ito S, Horikawa R, Nagai Y, Takatsu K, Mori H, Ochs
+HD, Miyawaki T. Identification of FOXP3-negative regulatory T-like
+(CD4(+)CD25(+)CD127(low)) cells in patients with immune dysregulation,
+polyendocrinopathy, enteropathy, X-linked syndrome. Clin Immunol. 2011
+Oct;141(1):111-20. doi: 10.1016/j.clim.2011.06.006. Epub 2011 Jul 12.
+Citation on PubMed
+Peterson RA. Regulatory T-cells: diverse phenotypes integral to immune
+homeostasis and suppression. Toxicol Pathol. 2012;40(2):186-204. doi:
+10.1177/0192623311430693. Epub 2012 Jan 5.
+Citation on PubMed
+Tan QKG, Louie RJ, Sleasman JW. IPEX Syndrome. 2004 Oct 19 [updated 2024 Feb
+1]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1118/
+Citation on PubMed
+Torgerson TR, Ochs HD. Immune dysregulation, polyendocrinopathy, enteropathy,
+X-linked: forkhead box protein 3 mutations and lack of regulatory T cells. J
+Allergy Clin Immunol. 2007 Oct;120(4):744-50; quiz 751-2. doi:
+10.1016/j.jaci.2007.08.044.
+Citation on PubMed
+van der Vliet HJ, Nieuwenhuis EE. IPEX as a result of mutations in FOXP3. Clin
+Dev Immunol. 2007;2007:89017. doi: 10.1155/2007/89017.
+Citation on PubMed
+or
+Free article on PubMed Central
+Verbsky JW, Chatila TA. Immune dysregulation, polyendocrinopathy, enteropathy,
+X-linked (IPEX) and IPEX-related disorders: an evolving web of heritable
+autoimmune diseases. Curr Opin Pediatr. 2013 Dec;25(6):708-14. doi:
+10.1097/MOP.0000000000000029.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Autoimmune Diseases
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Type 1 diabetes
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

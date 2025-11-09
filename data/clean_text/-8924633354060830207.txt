@@ -1,0 +1,178 @@
+Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia
+URL of this page: https://medlineplus.gov/genetics/condition/inclusion-body-myopathy-with-early-onset-paget-disease-and-frontotemporal-dementia/
+Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia
+Description
+Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia (IBMPFD) is a condition that can affect the muscles, bones, and brain.
+The first symptom of IBMPFD is often muscle weakness (myopathy), which typically appears in mid-adulthood. Weakness first occurs in muscles of the hips and shoulders, making it difficult to climb stairs and raise the arms above the shoulders. As the disorder progresses, weakness develops in other muscles in the arms and legs. Muscle weakness can also affect respiratory and
+heart (cardiac)
+muscles, leading to life-threatening breathing difficulties and heart failure.
+About half of all adults with IBMPFD develop a disorder called
+Paget disease of bone
+. This disorder causes bones to grow larger and weaker than normal.
+Paget disease of bone most often affects bones of the hips, spine, and skull, and the long bones of the arms and legs. Bone pain, particularly in the hips and spine, is usually the major symptom of Paget disease. Other complications of Paget disease of bone depend on which bones are affected.
+Rarely, this condition can weaken bones so much that they break (fracture).
+In about one-third of people with IBMPFD, the disorder also affects the brain. IBMPFD is associated with a brain condition called frontotemporal dementia, which becomes noticeable in a person's forties or fifties. People with frontotemporal dementia initially may have trouble speaking, remembering words and names (dysnomia), and using numbers (dyscalculia). Over time, the condition damages parts of the brain that control reasoning, personality, social skills, speech, and language. Personality changes, loss of judgment, and inappropriate social behavior are also hallmarks of the disease. As the dementia worsens, affected people ultimately become unable to speak, read, or care for themselves.
+Additional features that rarely occur in IBMPFD include a severe and progressive muscular disease called
+amyotrophic lateral sclerosis
+and progressive problems with movement and balance
+(
+Parkinson's disease
+).
+People with IBMPFD usually live into their fifties or sixties.
+Frequency
+Although the prevalence of IBMPFD is unknown, this condition is rare. It has been diagnosed in several hundred people worldwide.
+Causes
+Variants (also known as mutations) in the
+VCP
+gene are the main cause of IBMPFD. The
+VCP
+gene provides instructions for making an enzyme called valosin-containing protein, which has a wide variety of functions within cells. One of its most critical jobs is to help break down (degrade) proteins that are abnormal or no longer needed.
+Variants in the
+VCP
+gene alter the structure of valosin-containing protein, impairing its ability to break down other proteins. As a result, excess and abnormal proteins build up in muscle, bone, and brain cells. The proteins form clumps that interfere with the normal functions of these cells. It remains unclear how damage to muscle, bone, and brain cells leads to the specific features of IBMPFD.
+In individuals with IBMPFD who do not have identified
+VCP
+variants, the condition may be caused by rare variants in specific genes or remain unknown. IBMPFD is sometimes known as mutlisystem proteinopathy, often distinguished by its genetic cause. For example, when the condition is caused by
+VCP
+gene variants, it is called
+VCP
+-associated multisystem proteinopathy (
+VCP
+MSP).
+Learn more about the gene associated with Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia
+VCP
+Additional Information from NCBI Gene:
+HNRNPA1
+HNRNPA2B1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the altered gene from
+one affected parent.
+Other Names for This Condition
+IBMPFD
+Inclusion body myopathy with early-onset Paget disease of bone and/or frontotemporal dementia
+Inclusion body myopathy with Paget disease of bone and/or frontotemporal dementia
+Lower motor neuron degeneration with Paget-like bone disease
+Multisystem proteinopathy
+Muscular dystrophy, limb-girdle, with Paget disease of bone
+Pagetoid amyotrophic lateral sclerosis
+Pagetoid neuroskeletal syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Inclusion body myopathy with Paget disease of bone and frontotemporal dementia
+Genetic and Rare Diseases Information Center
+Inclusion body myopathy with Paget disease of bone and frontotemporal dementia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INCLUSION BODY MYOPATHY WITH EARLY-ONSET PAGET DISEASE WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA 1; IBMPFD1
+INCLUSION BODY MYOPATHY WITH EARLY-ONSET PAGET DISEASE WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA 2; IBMPFD2
+INCLUSION BODY MYOPATHY WITH EARLY-ONSET PAGET DISEASE WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA 3; IBMPFD3
+Scientific Articles on PubMed
+PubMed
+References
+Forman MS, Mackenzie IR, Cairns NJ, Swanson E, Boyer PJ, Drachman DA, Jhaveri
+BS, Karlawish JH, Pestronk A, Smith TW, Tu PH, Watts GD, Markesbery WR, Smith CD,
+Kimonis VE. Novel ubiquitin neuropathology in frontotemporal dementia with
+valosin-containing protein gene mutations. J Neuropathol Exp Neurol. 2006
+Jun;65(6):571-81. doi: 10.1097/00005072-200606000-00005.
+Citation on PubMed
+Guinto JB, Ritson GP, Taylor JP, Forman MS. Valosin-containing protein and the
+pathogenesis of frontotemporal dementia associated with inclusion body myopathy.
+Acta Neuropathol. 2007 Jul;114(1):55-61. doi: 10.1007/s00401-007-0224-7. Epub
+2007 Apr 25.
+Citation on PubMed
+Kimonis V. Inclusion Body Myopathy with Paget Disease of Bone and/or
+Frontotemporal Dementia. 2007 May 25 [updated 2019 Sep 12]. In: Adam MP, Feldman
+J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK1476/
+Citation on PubMed
+Kimonis VE, Mehta SG, Fulchiero EC, Thomasova D, Pasquali M, Boycott K, Neilan
+EG, Kartashov A, Forman MS, Tucker S, Kimonis K, Mumm S, Whyte MP, Smith CD,
+Watts GD. Clinical studies in familial VCP myopathy associated with Paget disease
+of bone and frontotemporal dementia. Am J Med Genet A. 2008 Mar
+15;146A(6):745-57. doi: 10.1002/ajmg.a.31862.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kimonis VE, Watts GD. Autosomal dominant inclusion body myopathy, Paget
+disease of bone, and frontotemporal dementia. Alzheimer Dis Assoc Disord. 2005
+Oct-Dec;19 Suppl 1:S44-7. doi: 10.1097/01.wad.0000183081.76820.5a.
+Citation on PubMed
+Korb M, Peck A, Alfano LN, Berger KI, James MK, Ghoshal N, Healzer E,
+Henchcliffe C, Khan S, Mammen PPA, Patel S, Pfeffer G, Ralston SH, Roy B, Seeley
+WW, Swenson A, Mozaffar T, Weihl C, Kimonis V; VCP Standards of Care Working
+Group. Development of a standard of care for patients with valosin-containing
+protein associated multisystem proteinopathy. Orphanet J Rare Dis. 2022 Jan
+29;17(1):23. doi: 10.1186/s13023-022-02172-5.
+Citation on PubMed
+Kovach MJ, Waggoner B, Leal SM, Gelber D, Khardori R, Levenstien MA, Shanks
+CA, Gregg G, Al-Lozi MT, Miller T, Rakowicz W, Lopate G, Florence J, Glosser G,
+Simmons Z, Morris JC, Whyte MP, Pestronk A, Kimonis VE. Clinical delineation and
+localization to chromosome 9p13.3-p12 of a unique dominant disorder in four
+families: hereditary inclusion body myopathy, Paget disease of bone, and
+frontotemporal dementia. Mol Genet Metab. 2001 Dec;74(4):458-75. doi:
+10.1006/mgme.2001.3256.
+Citation on PubMed
+Nalbandian A, Donkervoort S, Dec E, Badadani M, Katheria V, Rana P, Nguyen C,
+Mukherjee J, Caiozzo V, Martin B, Watts GD, Vesa J, Smith C, Kimonis VE. The
+multiple faces of valosin-containing protein-associated diseases: inclusion body
+myopathy with Paget's disease of bone, frontotemporal dementia, and amyotrophic
+lateral sclerosis. J Mol Neurosci. 2011 Nov;45(3):522-31. doi:
+10.1007/s12031-011-9627-y. Epub 2011 Sep 3.
+Citation on PubMed
+Nalbandian A, Ghimbovschi S, Radom-Aizik S, Dec E, Vesa J, Martin B, Knoblach
+S, Smith C, Hoffman E, Kimonis VE. Global gene profiling of VCP-associated
+inclusion body myopathy. Clin Transl Sci. 2012 Jun;5(3):226-34. doi:
+10.1111/j.1752-8062.2012.00407.x. Epub 2012 Apr 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Dementia
+Genetic Disorders
+Muscle Disorders
+Paget's Disease of Bone
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

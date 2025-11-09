@@ -1,0 +1,194 @@
+Hypermethioninemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hypermethioninemia
+URL of this page: https://medlineplus.gov/genetics/condition/hypermethioninemia/
+Hypermethioninemia
+Description
+Hypermethioninemia is an excess of a particular protein building block (
+amino acid
+), called methionine, in the blood. This condition can occur when methionine is not broken down (metabolized) properly in the body.
+People with hypermethioninemia often do not show any symptoms. Some individuals with hypermethioninemia exhibit intellectual disability and other neurological problems; delays in motor skills such as standing or walking; sluggishness; muscle weakness; liver problems; unusual facial features; and their breath, sweat, or urine may have a smell resembling boiled cabbage.
+Hypermethioninemia can occur with other metabolic disorders, such as
+homocystinuria
+,
+tyrosinemia
+, and
+galactosemia
+, which also involve the faulty breakdown of particular molecules. It can also result from liver disease or excessive dietary intake of methionine from consuming large amounts of protein or a methionine-enriched infant formula. The condition is called primary hypermethioninemia when it is not associated with other metabolic disorders or excess methionine in the diet.
+Frequency
+Primary hypermethioninemia that is not caused by other disorders or excess methionine intake appears to be rare; only a small number of cases have been reported. The actual incidence is difficult to determine, however, since many individuals with hypermethioninemia have no symptoms.
+Causes
+Primary hypermethioninemia that is not associated with other metabolic disorders can be caused by variants (also known as mutations) in the
+MAT1A
+,
+GNMT
+, or
+AHCY
+gene. These genes provide instructions for making enzymes that each carry out one step of the multistep process to break down methionine. The reactions involved help supply some of the amino acids needed for protein production. These reactions are also involved in transferring methyl groups, consisting of a carbon atom and three hydrogen atoms, from one molecule to another (transmethylation), which is important in many cellular processes.
+The
+MAT1A
+gene provides instructions for producing the enzyme methionine adenosyltransferase. This enzyme converts methionine into a compound called S-adenosylmethionine, also known as AdoMet or SAMe.
+The
+GNMT
+gene provides instructions for making the enzyme glycine N-methyltransferase. This enzyme starts the next step in the process, converting AdoMet to a compound called S-adenosyl homocysteine (also known as AdoHcy).
+The
+AHCY
+gene provides instructions for producing the enzyme S-adenosylhomocysteine hydrolase. This enzyme converts AdoHcy into the compound homocysteine. Homocysteine may be converted back to methionine or into another amino acid, cysteine.
+Variants in one of these genes result in a shortage (deficiency) of an enzyme involved in breaking down methionine. A deficiency of any of these enzymes leads to a buildup of methionine in the body, which may cause signs and symptoms related to hypermethioninemia.
+Learn more about the genes associated with Hypermethioninemia
+AHCY
+GNMT
+MAT1A
+Inheritance
+Hypermethioninemia can have different inheritance patterns. This condition is usually inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have variants. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.
+Hypermethioninemia is occasionally inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In these cases, an affected person usually has one parent with the condition.
+Other Names for This Condition
+Deficiency of methionine adenosyltransferase
+Glycine N-methyltransferase deficiency
+GNMT deficiency
+Hepatic methionine adenosyltransferase deficiency
+MAT deficiency
+MET
+Methionine adenosyltransferase deficiency
+Methioninemia
+S-adenosylhomocysteine hydrolase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase
+Genetic Testing Registry: Glycine N-methyltransferase deficiency
+Genetic Testing Registry: Hepatic methionine adenosyltransferase deficiency
+Genetic and Rare Diseases Information Center
+Brain demyelination due to methionine adenosyltransferase deficiency
+Hypermethioninemia due to glycine N-methyltransferase deficiency
+S-adenosylhomocysteine hydrolase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+METHIONINE ADENOSYLTRANSFERASE I/III DEFICIENCY
+GLYCINE N-METHYLTRANSFERASE DEFICIENCY
+HYPERMETHIONINEMIA WITH S-ADENOSYLHOMOCYSTEINE HYDROLASE DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Augoustides-Savvopoulou P, Luka Z, Karyda S, Stabler SP, Allen RH, Patsiaoura
+K, Wagner C, Mudd SH. Glycine N -methyltransferase deficiency: a new patient with
+a novel mutation. J Inherit Metab Dis. 2003;26(8):745-59. doi:
+10.1023/B:BOLI.0000009978.17777.33.
+Citation on PubMed
+Baric I, Cuk M, Fumic K, Vugrek O, Allen RH, Glenn B, Maradin M, Pazanin L,
+Pogribny I, Rados M, Sarnavka V, Schulze A, Stabler S, Wagner C, Zeisel SH, Mudd
+SH. S-Adenosylhomocysteine hydrolase deficiency: a second patient, the younger
+brother of the index patient, and outcomes during therapy. J Inherit Metab Dis.
+2005;28(6):885-902. doi: 10.1007/s10545-005-0192-9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Baric I, Fumic K, Glenn B, Cuk M, Schulze A, Finkelstein JD, James SJ,
+Mejaski-Bosnjak V, Pazanin L, Pogribny IP, Rados M, Sarnavka V, Scukanec-Spoljar
+M, Allen RH, Stabler S, Uzelac L, Vugrek O, Wagner C, Zeisel S, Mudd SH.
+S-adenosylhomocysteine hydrolase deficiency in a human: a genetic disorder of
+methionine metabolism. Proc Natl Acad Sci U S A. 2004 Mar 23;101(12):4234-9. doi:
+10.1073/pnas.0400658101. Epub 2004 Mar 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Biochemistry (fifth edition, 2002): Methionine Metabolism
+Brosnan JT, Brosnan ME. The sulfur-containing amino acids: an overview. J
+Nutr. 2006 Jun;136(6 Suppl):1636S-1640S. doi: 10.1093/jn/136.6.1636S.
+Citation on PubMed
+Buist NR, Glenn B, Vugrek O, Wagner C, Stabler S, Allen RH, Pogribny I,
+Schulze A, Zeisel SH, Baric I, Mudd SH. S-adenosylhomocysteine hydrolase
+deficiency in a 26-year-old man. J Inherit Metab Dis. 2006 Aug;29(4):538-45. doi:
+10.1007/s10545-006-0240-0. Epub 2006 May 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chamberlin ME, Ubagai T, Mudd SH, Thomas J, Pao VY, Nguyen TK, Levy HL, Greene
+C, Freehauf C, Chou JY. Methionine adenosyltransferase I/III deficiency: novel
+mutations and clinical variations. Am J Hum Genet. 2000 Feb;66(2):347-55. doi:
+10.1086/302752.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chou JY. Molecular genetics of hepatic methionine adenosyltransferase
+deficiency. Pharmacol Ther. 2000 Jan;85(1):1-9. doi:
+10.1016/s0163-7258(99)00047-9.
+Citation on PubMed
+Finkelstein JD. Inborn errors of sulfur-containing amino acid metabolism. J
+Nutr. 2006 Jun;136(6 Suppl):1750S-1754S. doi: 10.1093/jn/136.6.1750S.
+Citation on PubMed
+Harvey Mudd S, Braverman N, Pomper M, Tezcan K, Kronick J, Jayakar P, Garganta
+C, Ampola MG, Levy HL, McCandless SE, Wiltse H, Stabler SP, Allen RH, Wagner C,
+Borschel MW. Infantile hypermethioninemia and hyperhomocysteinemia due to high
+methionine intake: a diagnostic trap. Mol Genet Metab. 2003 May;79(1):6-16. doi:
+10.1016/s1096-7192(03)00066-0.
+Citation on PubMed
+Luka Z, Capdevila A, Mato JM, Wagner C. A glycine N-methyltransferase knockout
+mouse model for humans with deficiency of this enzyme. Transgenic Res. 2006
+Jun;15(3):393-7. doi: 10.1007/s11248-006-0008-1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Luka Z, Cerone R, Phillips JA 3rd, Mudd HS, Wagner C. Mutations in human
+glycine N-methyltransferase give insights into its role in methionine metabolism.
+Hum Genet. 2002 Jan;110(1):68-74. doi: 10.1007/s00439-001-0648-4. Epub 2001 Dec
+7.
+Citation on PubMed
+Luka Z, Wagner C. Effect of naturally occurring mutations in human glycine
+N-methyltransferase on activity and conformation. Biochem Biophys Res Commun.
+2003 Dec 26;312(4):1067-72. doi: 10.1016/j.bbrc.2003.11.037.
+Citation on PubMed
+Mudd SH, Cerone R, Schiaffino MC, Fantasia AR, Minniti G, Caruso U, Lorini R,
+Watkins D, Matiaszuk N, Rosenblatt DS, Schwahn B, Rozen R, LeGros L, Kotb M,
+Capdevila A, Luka Z, Finkelstein JD, Tangerman A, Stabler SP, Allen RH, Wagner C.
+Glycine N-methyltransferase deficiency: a novel inborn error causing persistent
+isolated hypermethioninaemia. J Inherit Metab Dis. 2001 Aug;24(4):448-64. doi:
+10.1023/a:1010577512912.
+Citation on PubMed
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

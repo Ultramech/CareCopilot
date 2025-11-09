@@ -1,0 +1,221 @@
+Myhre syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Myhre syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/myhre-syndrome/
+Myhre syndrome
+Description
+Myhre syndrome is a rare condition that affects
+connective tissue
+. Connective tissue provides strength and flexibility to structures throughout the body. Myhre syndrome has a variety of signs and symptoms that affect many parts of the body, though not everyone has all the possible features. The features of the condition can range in severity, and some features become more apparent with age.
+Common signs and symptoms of Myhre syndrome include short stature, skeletal abnormalities, limited joint mobility, characteristic facial features, intellectual and behavioral problems, hearing loss, a tendency for the buildup of scar tissue (fibrosis) in the skin and internal organs, and
+heart
+and lung abnormalities.
+Growth is reduced in most people with Myhre syndrome, beginning before birth and continuing through adolescence. Affected individuals usually have a low birth weight and are generally shorter than about 97 percent of their peers throughout life. They have shortened long bones of the arms and legs, unusually short fingers and toes (
+brachydactyly
+), and curved pinky fingers (fifth finger
+clinodactyly
+). Other skeletal abnormalities associated with this disorder include thickening of the skull bones, flattened bones of the spine (platyspondyly), broad ribs, and underdevelopment of the wing-shaped structures of the pelvis (hypoplastic iliac wings). Affected individuals often have joint problems (arthropathy), including stiffness and limited mobility.
+Typical facial features in people with Myhre syndrome include narrow openings of the eyelids (
+short palpebral fissures
+), deeply set eyes, a shortened distance between the nose and upper lip (a short philtrum), a
+narrow mouth
+with a
+thin upper lip
+, an underdeveloped upper jaw, and a protruding lower jaw (
+prognathism
+). Some affected individuals are born with an opening in the roof of the mouth (a
+cleft palate
+), a split in the lip (a
+cleft lip
+), or both.
+Vision problems
+are common in this disorder and can include eyes that do not point in the same direction (strabismus),
+nearsightedness
+(
+myopia
+),
+farsightedness
+(
+hyperopia
+), an irregular curvature of the front of the eye (astigmatism), clouding of the lenses (
+cataracts
+), or rarely, an abnormality of the back of the eye called pseudopapilledema.
+Children with Myhre syndrome have delayed development, which is noticeable by age 5. Speech and language delay are the most significant. Motor skills such as crawling and walking may be delayed, although children with Myhre syndrome eventually learn to walk. Most affected individuals have intellectual disability that ranges from mild to moderate, yet some are able to have jobs or pursue higher education.
+People with Myhre syndrome typically have features like those in
+autism spectrum disorder
+, which affects communication and social interaction. These problems vary in severity, and they usually improve over time.
+Hearing loss occurs in most people with Myhre syndrome, usually beginning in childhood and gradually worsening. If not detected promptly, hearing problems can contribute to learning and behavioral problems.
+Fibrosis in Myhre syndrome can occur in the absence of injury (spontaneously) or develop following surgery or trauma. Affected individuals typically have stiff, thickened skin, usually beginning in childhood. Typically, the skin changes first appear on the palms of the hands, the soles of the feet, the back of the elbows, and the front of the knees. Eventually the skin thickens on other parts of the body. As a result of the thicker skin, affected individuals typically have fewer facial creases (wrinkles) than others of their age. Scars may be more noticeable or become unusually thickened after healing (keloids or hypertrophic scars).
+Individuals with Myhre syndrome often have problems with the structure of the heart that are present at birth (congenital heart defects). Fibrosis in the heart and blood vessels (cardiovascular system) can lead to the development of additional problems such as high blood pressure (
+hypertension
+) and narrowing (stenosis) of the heart valves or blood vessels. Other cardiovascular problems can include swelling and tightening of the
+pericardium
+, which is the membrane that surrounds the heart (pericarditis), and rarely, restrictive cardiomyopathy, in which the heart muscle is stiff and cannot fully relax after each contraction. These cardiovascular problems can be life-threatening.
+Abnormalities of the lungs and airways (
+respiratory tract
+) in people with Myhre syndrome include narrowing of the windpipe (laryngotracheal stenosis) and the passages leading from the windpipe to the lungs (bronchi); difficulty filling the lungs with air when inhaling (restrictive pulmonary disease); or widespread lung damage (interstitial lung disease). These respiratory tract problems can be life-threatening.
+Additional features of Myhre syndrome include problems in the gastrointestinal tract, such as narrowing of the lower part of the
+stomach
+(pyloric stenosis) or of the upper part of the
+small intestine
+(duodenal strictures) and severe constipation. People with Myhre syndrome also may have an increased risk of developing cancerous or noncancerous tumors, including cancer of the
+lining of the uterus
+(endometrial cancer).
+Frequency
+Myhre syndrome is a rare disorder; its prevalence is unknown. Almost 100 cases have been documented in the medical literature.
+Causes
+Mutations in the
+SMAD4
+gene cause Myhre syndrome. The
+SMAD4
+gene provides instructions for making a protein involved in transmitting chemical signals from the cell surface to the
+nucleus
+. This signaling pathway, called the transforming growth factor beta (TGF-β) pathway, allows the environment outside the cell to affect gene activity and protein production within the cell. As part of this pathway, the SMAD4 protein interacts with other proteins to control the activity of particular genes. These genes influence the development of many body systems.
+Studies suggest that the
+SMAD4
+gene mutations that cause Myhre syndrome result in an abnormally stable SMAD4 protein that remains active in the cell longer than it is needed. Increased SMAD4 availability allows the protein more time to interact with other proteins and may result in abnormal TGF-β signaling in many cell types, which affects development of several body systems and leads to the signs and symptoms of Myhre syndrome.
+Learn more about the gene associated with Myhre syndrome
+SMAD4
+Inheritance
+Myhre syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered
+SMAD4
+gene in each cell is sufficient to cause the disorder.
+In almost all cases, the condition results from
+new mutations in the gene
+and occurs in people with no history of the disorder in their family. Rarely, an affected person inherits the mutation from
+one affected parent
+.
+Other Names for This Condition
+LAPS syndrome
+Laryngotracheal stenosis, arthropathy, prognathism, and short stature
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Myhre syndrome
+Genetic and Rare Diseases Information Center
+Myhre syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MYHRE SYNDROME; MYHRS
+Scientific Articles on PubMed
+PubMed
+References
+Caputo V, Bocchinfuso G, Castori M, Traversa A, Pizzuti A, Stella L,
+Grammatico P, Tartaglia M. Novel SMAD4 mutation causing Myhre syndrome. Am J Med
+Genet A. 2014 Jul;164A(7):1835-40. doi: 10.1002/ajmg.a.36544. Epub 2014 Apr 8.
+Citation on PubMed
+Caputo V, Cianetti L, Niceta M, Carta C, Ciolfi A, Bocchinfuso G, Carrani E,
+Dentici ML, Biamino E, Belligni E, Garavelli L, Boccone L, Melis D, Andria G,
+Gelb BD, Stella L, Silengo M, Dallapiccola B, Tartaglia M. A restricted spectrum
+of mutations in the SMAD4 tumor-suppressor gene underlies Myhre syndrome. Am J
+Hum Genet. 2012 Jan 13;90(1):161-9. doi: 10.1016/j.ajhg.2011.12.011.
+Citation on PubMed
+or
+Free article on PubMed Central
+Garavelli L, Maini I, Baccilieri F, Ivanovski I, Pollazzon M, Rosato S,
+Iughetti L, Unger S, Superti-Furga A, Tartaglia M. Natural history and
+life-threatening complications in Myhre syndrome and review of the literature.
+Eur J Pediatr. 2016 Oct;175(10):1307-15. doi: 10.1007/s00431-016-2761-3. Epub
+2016 Aug 25.
+Citation on PubMed
+Le Goff C, Mahaut C, Abhyankar A, Le Goff W, Serre V, Afenjar A, Destree A, di
+Rocco M, Heron D, Jacquemont S, Marlin S, Simon M, Tolmie J, Verloes A, Casanova
+JL, Munnich A, Cormier-Daire V. Mutations at a single codon in Mad homology 2
+domain of SMAD4 cause Myhre syndrome. Nat Genet. 2011 Dec 11;44(1):85-8. doi:
+10.1038/ng.1016.
+Citation on PubMed
+Le Goff C, Michot C, Cormier-Daire V. Myhre syndrome. Clin Genet. 2014
+Jun;85(6):503-13. doi: 10.1111/cge.12365. Epub 2014 Apr 2.
+Citation on PubMed
+Lin AE, Alali A, Starr LJ, Shah N, Beavis A, Pereira EM, Lindsay ME, Klugman
+S. Gain-of-function pathogenic variants in SMAD4 are associated with neoplasia in
+Myhre syndrome. Am J Med Genet A. 2020 Feb;182(2):328-337. doi:
+10.1002/ajmg.a.61430. Epub 2019 Dec 14.
+Citation on PubMed
+Lin AE, Brunetti-Pierri N, Lindsay ME, Schimmenti LA, Starr LJ. Myhre
+Syndrome. 2017 Apr 13 [updated 2024 Dec 12]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK425723/
+Citation on PubMed
+Lin AE, Michot C, Cormier-Daire V, L'Ecuyer TJ, Matherne GP, Barnes BH,
+Humberson JB, Edmondson AC, Zackai E, O'Connor MJ, Kaplan JD, Ebeid MR, Krier J,
+Krieg E, Ghoshhajra B, Lindsay ME. Gain-of-function mutations in SMAD4 cause a
+distinctive repertoire of cardiovascular phenotypes in patients with Myhre
+syndrome. Am J Med Genet A. 2016 Oct;170(10):2617-31. doi: 10.1002/ajmg.a.37739.
+Epub 2016 Jun 14.
+Citation on PubMed
+Lindor NM, Gunawardena SR, Thibodeau SN. Mutations of SMAD4 account for both
+LAPS and Myhre syndromes. Am J Med Genet A. 2012 Jun;158A(6):1520-1. doi:
+10.1002/ajmg.a.35374. Epub 2012 May 14. No abstract available.
+Citation on PubMed
+McGowan R, Gulati R, McHenry P, Cooke A, Butler S, Keng WT, Murday V,
+Whiteford M, Dikkers FG, Sikkema-Raddatz B, van Essen T, Tolmie J. Clinical
+features and respiratory complications in Myhre syndrome. Eur J Med Genet. 2011
+Nov-Dec;54(6):e553-9. doi: 10.1016/j.ejmg.2011.07.001. Epub 2011 Jul 21.
+Citation on PubMed
+Meerschaut I, Beyens A, Steyaert W, De Rycke R, Bonte K, De Backer T, Janssens
+S, Panzer J, Plasschaert F, De Wolf D, Callewaert B. Myhre syndrome: A first
+familial recurrence and broadening of the phenotypic spectrum. Am J Med Genet A.
+2019 Dec;179(12):2494-2499. doi: 10.1002/ajmg.a.61377. Epub 2019 Oct 9.
+Citation on PubMed
+Michot C, Le Goff C, Mahaut C, Afenjar A, Brooks AS, Campeau PM, Destree A, Di
+Rocco M, Donnai D, Hennekam R, Heron D, Jacquemont S, Kannu P, Lin AE,
+Manouvrier-Hanu S, Mansour S, Marlin S, McGowan R, Murphy H, Raas-Rothschild A,
+Rio M, Simon M, Stolte-Dijkstra I, Stone JR, Sznajer Y, Tolmie J, Touraine R, van
+den Ende J, Van der Aa N, van Essen T, Verloes A, Munnich A, Cormier-Daire V.
+Myhre and LAPS syndromes: clinical and molecular review of 32 patients. Eur J Hum
+Genet. 2014 Nov;22(11):1272-7. doi: 10.1038/ejhg.2013.288. Epub 2014 Jan 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Starr LJ, Grange DK, Delaney JW, Yetman AT, Hammel JM, Sanmann JN, Perry DA,
+Schaefer GB, Olney AH. Myhre syndrome: Clinical features and restrictive
+cardiopulmonary complications. Am J Med Genet A. 2015 Dec;167A(12):2893-901. doi:
+10.1002/ajmg.a.37273. Epub 2015 Sep 30.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+Hearing Disorders and Deafness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Pericarditis - constrictive
+Short stature
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

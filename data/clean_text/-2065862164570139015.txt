@@ -1,0 +1,136 @@
+3-methylglutaconyl-CoA hydratase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+3-methylglutaconyl-CoA hydratase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/3-methylglutaconyl-coa-hydratase-deficiency/
+3-methylglutaconyl-CoA hydratase deficiency
+Description
+3-methylglutaconyl-CoA hydratase deficiency is an inherited condition that causes neurological problems. Beginning in infancy to early childhood, children with this condition often have delayed development of mental and motor skills (psychomotor delay), speech delay, involuntary muscle cramping (dystonia), and spasms and weakness of the arms and legs (spastic quadriparesis). Affected individuals can also have optic atrophy, which is the breakdown (atrophy) of nerve cells that carry visual information from
+the eyes to the brain
+.
+In some cases, signs and symptoms of 3-methylglutaconyl-CoA hydratase deficiency begin in adulthood, often in a person's twenties or thirties. These individuals have damage to a type of brain tissue called white matter (leukoencephalopathy). This damage likely contributes to progressive problems with speech (dysarthria), difficulty coordinating movements (ataxia), stiffness (spasticity), optic atrophy, and a decline in intellectual function (dementia).
+Affected individuals who show symptoms of 3-methylglutaconyl-CoA hydratase deficiency in childhood often go on to develop leukoencephalopathy and other neurological problems in adulthood.
+All people with 3-methylglutaconyl-CoA hydratase deficiency accumulate large amounts of a substance called 3-methylglutaconic acid in their body fluids. As a result, they have elevated levels of acid in their blood (metabolic acidosis) and excrete large amounts of acid in their urine (aciduria). 3-methylglutaconyl-CoA hydratase deficiency is one of a group of metabolic disorders that can be diagnosed by the presence of increased levels 3-methylglutaconic acid in urine (3-methylglutaconic aciduria). People with 3-methylglutaconyl-CoA hydratase deficiency also have high urine levels of another acid called 3-methylglutaric acid.
+Frequency
+3-methylglutaconyl-CoA hydratase deficiency is a rare disorder; at least 20 cases have been reported in the scientific literature.
+Causes
+Mutations in the
+AUH
+gene cause 3-methylglutaconyl-CoA hydratase deficiency. This gene provides instructions for producing 3-methylglutaconyl-CoA hydratase, an enzyme that is involved in breaking down a protein building block (
+amino acid
+) called leucine to provide energy for cells. This amino acid is broken down in cell structures called
+mitochondria
+, which convert energy from food into a form that cells can use.
+AUH
+gene mutations lead to an absence of enzyme activity. Without any functional 3-methylglutaconyl-CoA hydratase, leucine is not properly broken down, which leads to a buildup of related compounds, including multiple acids: 3-methylglutaconic acid, 3-methylglutaric acid, and 3-hydroxyisovaleric acid. Researchers speculate that an accumulation of these acids in the fluid that surrounds and protects the brain and spinal cord (the cerebrospinal fluid or CSF) can damage these structures and contribute to the neurological features of 3-methylglutaconyl-CoA hydratase deficiency.
+Because the age at which the condition begins varies widely and because the signs and symptoms improve in some affected children, researchers speculate that other genes or environmental factors may play a role in the features of 3-methylglutaconyl-CoA hydratase deficiency.
+Learn more about the gene associated with 3-methylglutaconyl-CoA hydratase deficiency
+AUH
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+3-methylglutaconic aciduria, type I
+3-MG-CoA-hydratase deficiency
+AUH defect
+MGA, type I
+MGA1
+MGCA1
+Primary 3-methylglutaconic aciduria
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: 3-Methylglutaconic aciduria type 1
+Genetic and Rare Diseases Information Center
+3-methylglutaconic aciduria type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+3-METHYLGLUTACONIC ACIDURIA, TYPE I; MGCA1
+Scientific Articles on PubMed
+PubMed
+References
+Eriguchi M, Mizuta H, Kurohara K, Kosugi M, Yakushiji Y, Okada R, Yukitake M,
+Hasegawa Y, Yamaguchi S, Kuroda Y. 3-Methylglutaconic aciduria type I causes
+leukoencephalopathy of adult onset. Neurology. 2006 Nov 28;67(10):1895-6. doi:
+10.1212/01.wnl.0000244467.01362.54. No abstract available.
+Citation on PubMed
+IJlst L, Loupatty FJ, Ruiter JP, Duran M, Lehnert W, Wanders RJ.
+3-Methylglutaconic aciduria type I is caused by mutations in AUH. Am J Hum Genet.
+2002 Dec;71(6):1463-6. doi: 10.1086/344712. Epub 2002 Nov 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mercimek-Mahmutoglu S, Tucker T, Casey B. Phenotypic heterogeneity in two
+siblings with 3-methylglutaconic aciduria type I caused by a novel intragenic
+deletion. Mol Genet Metab. 2011 Nov;104(3):410-3. doi:
+10.1016/j.ymgme.2011.07.021. Epub 2011 Jul 26.
+Citation on PubMed
+Wortmann SB, Duran M, Anikster Y, Barth PG, Sperl W, Zschocke J, Morava E,
+Wevers RA. Inborn errors of metabolism with 3-methylglutaconic aciduria as
+discriminative feature: proper classification and nomenclature. J Inherit Metab
+Dis. 2013 Nov;36(6):923-8. doi: 10.1007/s10545-012-9580-0. Epub 2013 Jan 8.
+Citation on PubMed
+Wortmann SB, Kluijtmans LA, Engelke UF, Wevers RA, Morava E. The
+3-methylglutaconic acidurias: what's new? J Inherit Metab Dis. 2012
+Jan;35(1):13-22. doi: 10.1007/s10545-010-9210-7. Epub 2010 Sep 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wortmann SB, Kluijtmans LA, Rodenburg RJ, Sass JO, Nouws J, van Kaauwen EP,
+Kleefstra T, Tranebjaerg L, de Vries MC, Isohanni P, Walter K, Alkuraya FS, Smuts
+I, Reinecke CJ, van der Westhuizen FH, Thorburn D, Smeitink JA, Morava E, Wevers
+RA. 3-Methylglutaconic aciduria--lessons from 50 genes and 977 patients. J
+Inherit Metab Dis. 2013 Nov;36(6):913-21. doi: 10.1007/s10545-012-9579-6. Epub
+2013 Jan 25.
+Citation on PubMed
+Wortmann SB, Kremer BH, Graham A, Willemsen MA, Loupatty FJ, Hogg SL, Engelke
+UF, Kluijtmans LA, Wanders RJ, Illsinger S, Wilcken B, Cruysberg JR, Das AM,
+Morava E, Wevers RA. 3-Methylglutaconic aciduria type I redefined: a syndrome
+with late-onset leukoencephalopathy. Neurology. 2010 Sep 21;75(12):1079-83. doi:
+10.1212/WNL.0b013e3181f39a8a.
+Citation on PubMed
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Movement Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Metabolic acidosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

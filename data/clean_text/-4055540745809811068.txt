@@ -1,0 +1,135 @@
+Multiple myeloma: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Multiple myeloma
+URL of this page: https://medlineplus.gov/genetics/condition/multiple-myeloma/
+Multiple myeloma
+Description
+Multiple myeloma is a cancer that develops in the
+bone marrow
+, the spongy tissue found in the center of most bones. The bone marrow produces red blood cells, which carry oxygen throughout the body; white blood cells, which form the body's defenses (immune system); and platelets, which are necessary for
+blood clotting
+.
+Multiple myeloma is characterized by abnormalities in plasma cells, a type of white blood cell. These abnormal cells multiply out of control, increasing from about one percent of cells in the bone marrow to the majority of bone marrow cells. The abnormal cells form tumors within the bone, causing bone pain and an increased risk of fractures. If the tumors interfere with nerves near the bones, numbness or weakness in the arms or legs can occur. Affected individuals may also experience a loss of bone tissue, particularly in the skull, spine, ribs, and pelvis. The deterioration of bone can result in an excess of calcium in the blood (hypercalcemia), which can lead to nausea and loss of appetite, excessive thirst, fatigue, muscle weakness, and confusion.
+The abnormal plasma cells in multiple myeloma produce proteins that impair the
+development of normal blood cells
+. As a result, affected individuals may have a reduced number of red blood cells (
+anemia
+), which can cause fatigue, weakness, and unusually pale skin (pallor); a low number of white blood cells (leukopenia), which can result in a weakened immune system and frequent infections such as pneumonia; and a reduced number of platelets (thrombocytopenia), which can lead to abnormal bleeding and bruising. Kidney problems can also occur in this disorder, caused by hypercalcemia or by toxic proteins produced by the abnormal plasma cells.
+People with multiple myeloma typically develop the disorder around age 65. Over time, affected individuals can develop life-threatening complications, but the rate at which this happens varies widely. Some affected individuals are diagnosed incidentally when tests are done for other purposes and do not experience symptoms for years.
+Frequency
+Multiple myeloma is considered a rare cancer; it accounts for about 10 percent of cancers of the blood and blood-forming tissues, and between one and two percent of all cancers. Multiple myeloma occurs in approximately 4 per 100,000 people per year; there are currently about 100,000 affected individuals in the United States.
+Causes
+The cause of multiple myeloma is unclear. Somatic mutations, which are genetic changes that are not inherited but occur during an individual's lifetime in certain cells (in this case the plasma cells), have been identified in people with multiple myeloma. Some of these changes affect genes that play a critical role in regulating cell division by preventing cells from
+dividing too rapidly or in an uncontrolled way
+. Mutations in these genes may interfere with proper control (regulation) of cell growth and division (proliferation), resulting in the excessive proliferation of plasma cells that characterizes multiple myeloma.
+Abnormal exchanges of genetic material between chromosomes (
+translocations
+) are common somatic events in multiple myeloma. The translocations most often involve an exchange between
+chromosome 14
+and another chromosome. Genes that control cell growth and division are likely affected by these translocations. Researchers are working to determine what role these genetic and chromosomal changes play in the development and progression of multiple myeloma.
+Close relatives of people with multiple myeloma have an increased risk of developing it themselves, suggesting that inherited variations in certain genes may contribute to the development of the disorder in some individuals. By contrast, certain other inherited genetic variations appear to reduce the risk of developing multiple myeloma.
+Nongenetic factors that increase the risk of developing multiple myeloma include previous radiation therapy or other radiation exposure. Exposure to certain chemicals including benzene has also been found to increase myeloma risk. Benzene, a known carcinogen, is a petroleum product widely used as an industrial solvent and a gasoline additive.
+Learn more about the genes and chromosome associated with Multiple myeloma
+BRAF
+FGFR3
+chromosome 14
+Additional Information from NCBI Gene:
+CCND1
+FCRL4
+IRF4
+LIG4
+MAF
+PWWP3A
+Inheritance
+This condition is generally not inherited but arises from somatic mutations in plasma cells. An increased risk of developing multiple myeloma seems to run in some families, but the inheritance pattern is unknown.
+Other Names for This Condition
+Kahler disease
+Kahler's disease
+Kahler-Bozzolo disease
+Medullary plasmacytoma
+Myelomatosis
+Plasma cell dyscrasia
+Plasma cell myelomas
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Multiple myeloma
+Genetic and Rare Diseases Information Center
+Multiple myeloma
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MYELOMA, MULTIPLE
+Scientific Articles on PubMed
+PubMed
+References
+Bataille R. The multiple myeloma bone eco-system and its relation to
+oncogenesis. Morphologie. 2015 Jun;99(325):31-7. doi:
+10.1016/j.morpho.2015.03.002. Epub 2015 May 23.
+Citation on PubMed
+Bianchi G, Anderson KC. Understanding biology to tackle the disease: Multiple
+myeloma from bench to bedside, and back. CA Cancer J Clin. 2014
+Nov-Dec;64(6):422-44. doi: 10.3322/caac.21252. Epub 2014 Sep 29.
+Citation on PubMed
+Martino A, Campa D, Jurczyszyn A, Martinez-Lopez J, Moreno MJ, Varkonyi J,
+Dumontet C, Garcia-Sanz R, Gemignani F, Jamroziak K, Stepiel A, Jacobsen SE,
+Andersen V, Jurado M, Landi S, Rossi AM, Lesueur F, Marques H, Dudzinski M, Watek
+M, Moreno V, Orciuolo E, Petrini M, Reis RM, Rios R, Sainz J, Vogel U, Buda G,
+Vangsted AJ, Canzian F. Genetic variants and multiple myeloma risk: IMMEnSE
+validation of the best reported associations--an extensive replication of the
+associations from the candidate gene era. Cancer Epidemiol Biomarkers Prev. 2014
+Apr;23(4):670-4. doi: 10.1158/1055-9965.EPI-13-1115. Epub 2014 Feb 12.
+Citation on PubMed
+Munshi NC, Avet-Loiseau H. Genomics in multiple myeloma. Clin Cancer Res. 2011
+Mar 15;17(6):1234-42. doi: 10.1158/1078-0432.CCR-10-1843.
+Citation on PubMed
+or
+Free article on PubMed Central
+NCI Surveillance, Epidemiology, and End Results Program
+Rollig C, Knop S, Bornhauser M. Multiple myeloma. Lancet. 2015 May
+30;385(9983):2197-208. doi: 10.1016/S0140-6736(14)60493-1. Epub 2014 Dec 23.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Marrow Transplantation
+Genetic Disorders
+Multiple Myeloma
+MEDICAL ENCYCLOPEDIA
+Bone marrow transplant
+Genetics
+Multiple myeloma
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

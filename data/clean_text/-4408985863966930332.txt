@@ -1,0 +1,158 @@
+MYH9-related disorder: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+MYH9-related disorder
+URL of this page: https://medlineplus.gov/genetics/condition/myh9-related-disorder/
+MYH9-related disorder
+Description
+MYH9
+-related disorder is a condition that can have many signs and symptoms, including bleeding problems, hearing loss, kidney (renal) disease, and clouding of the lens of the eyes (
+cataracts
+).
+The bleeding problems in people with
+MYH9
+-related disorder are due to thrombocytopenia. Thrombocytopenia is a reduced level of circulating
+platelets
+, which are small cells that normally assist with blood clotting. People with
+MYH9
+-related disorder typically experience easy bruising, and affected women have excessive bleeding during menstruation (menorrhagia). The platelets in people with
+MYH9
+-related disorder are larger than normal. These enlarged platelets have difficulty moving into tiny blood vessels like
+capillaries
+. As a result, the platelet level is even lower in these small vessels, further impairing clotting.
+Some people with
+MYH9
+-related disorder develop hearing loss caused by abnormalities of
+the inner ear
+(sensorineural hearing loss). Hearing loss may be present from birth or can develop anytime into late adulthood.
+An estimated 30 to 70 percent of people with
+MYH9
+-related disorder develop
+renal
+disease, usually beginning in early adulthood. The first sign of renal disease in
+MYH9
+-related disorder is typically protein or blood in the urine. Renal disease in these individuals particularly affects structures called glomeruli, which are clusters of tiny blood vessels that help
+filter waste products
+from the blood. The resulting damage to the kidneys can lead to kidney failure and end-stage renal disease (ESRD).
+Some affected individuals develop cataracts in early adulthood that worsen over time.
+Not everyone with
+MYH9
+-related disorder has all of the major features. All individuals with
+MYH9
+-related disorder have thrombocytopenia and enlarged platelets. Most commonly, affected individuals will also have hearing loss and renal disease. Cataracts are the least common sign of this disorder.
+MYH9
+-related disorder was previously thought to be four separate disorders: May-Hegglin anomaly, Epstein syndrome, Fechtner syndrome, and Sebastian syndrome. All of these disorders involved thrombocytopenia and enlarged platelets and were distinguished by some combination of hearing loss, renal disease, and cataracts. When it was discovered that these four conditions all had the same genetic cause, they were combined and renamed
+MYH9
+-related disorder.
+Frequency
+The incidence of
+MYH9
+-related disorder is unknown. More than 200 affected families have been reported in the scientific literature.
+Causes
+MYH9
+-related disorder is caused by mutations in the
+MYH9
+gene. The
+MYH9
+gene provides instructions for making a protein called myosin-9. This protein is one part (subunit) of the myosin IIA protein.
+There are three forms of myosin II, called myosin IIA, myosin IIB and myosin IIC. The three forms are found throughout the body and perform similar functions. They play roles in cell movement (cell motility); maintenance of cell shape; and cytokinesis, which is the step in cell division when the fluid surrounding the nucleus (
+the cytoplasm
+) divides to form two separate cells. While some cells use more than one type of myosin II, certain blood cells such as platelets and white blood cells (leukocytes) use only myosin IIA.
+MYH9
+gene mutations that cause
+MYH9
+-related disorder typically result in a nonfunctional version of the myosin-9 protein. The nonfunctional protein cannot properly interact with other subunits to form myosin IIA. Platelets and leukocytes, which only use myosin IIA, are most affected by a lack of functional myosin-9. It is thought that a lack of functional myosin IIA leads to the release of large, immature platelets in the bloodstream, resulting in a reduced amount of
+normal platelets
+. In leukocytes, the nonfunctional myosin-9 clumps together. These clumps of protein, called inclusion bodies, are a hallmark of
+MYH9
+-related disorder and are present in the leukocytes of everyone with this condition.
+Learn more about the gene associated with MYH9-related disorder
+MYH9
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In most cases, an affected person
+inherits the mutation
+from one affected parent. Approximately 30 percent of cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Autosomal dominant MYH9 spectrum disorders
+MYH9-related macrothrombocytopenias
+MYH9RD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Macrothrombocytopenia and granulocyte inclusions with or without nephritis or sensorineural hearing loss
+Genetic and Rare Diseases Information Center
+MYH9-related disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MACROTHROMBOCYTOPENIA AND GRANULOCYTE INCLUSIONS WITH OR WITHOUT NEPHRITIS OR SENSORINEURAL HEARING LOSS; MATINS
+Scientific Articles on PubMed
+PubMed
+References
+Althaus K, Greinacher A. MYH9-related platelet disorders. Semin Thromb Hemost.
+2009 Mar;35(2):189-203. doi: 10.1055/s-0029-1220327. Epub 2009 Apr 30.
+Citation on PubMed
+Kunishima S, Saito H. Advances in the understanding of MYH9 disorders. Curr
+Opin Hematol. 2010 Sep;17(5):405-10. doi: 10.1097/MOH.0b013e32833c069c.
+Citation on PubMed
+Savoia A, Pecci A. MYH9-Related Disease. 2008 Nov 20 [updated 2021
+Feb 18]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK2689/
+Citation on PubMed
+Sekine T, Konno M, Sasaki S, Moritani S, Miura T, Wong WS, Nishio H,
+Nishiguchi T, Ohuchi MY, Tsuchiya S, Matsuyama T, Kanegane H, Ida K, Miura K,
+Harita Y, Hattori M, Horita S, Igarashi T, Saito H, Kunishima S. Patients with
+Epstein-Fechtner syndromes owing to MYH9 R702 mutations develop progressive
+proteinuric renal disease. Kidney Int. 2010 Jul;78(2):207-14. doi:
+10.1038/ki.2010.21. Epub 2010 Mar 3.
+Citation on PubMed
+Related Health Topics
+Cataract
+Genetic Disorders
+Hearing Disorders and Deafness
+Kidney Diseases
+Platelet Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Glomerulonephritis
+Sensorineural deafness
+Thrombocytopenia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

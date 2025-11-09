@@ -1,0 +1,148 @@
+Acute necrotizing encephalopathy type 1: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Acute necrotizing encephalopathy type 1
+URL of this page: https://medlineplus.gov/genetics/condition/acute-necrotizing-encephalopathy-type-1/
+Acute necrotizing encephalopathy type 1
+Description
+Acute necrotizing encephalopathy type 1, also known as susceptibility to infection-induced acute encephalopathy 3 or IIAE3, is a rare type of brain disease (encephalopathy) that occurs following a viral infection such as the flu.
+Acute necrotizing encephalopathy type 1 typically appears in infancy or early childhood, although some people do not develop the condition until adolescence or adulthood. People with this condition usually show typical symptoms of an infection, such as fever, cough, congestion, vomiting, and diarrhea, for a few days. Following these flu-like symptoms, affected individuals develop neurological problems, such as seizures, hallucinations, difficulty coordinating movements (ataxia), or abnormal muscle tone. Eventually, most affected individuals go into a coma, which usually lasts for a number of weeks. The condition is described as "acute" because the episodes of illness are time-limited.
+People with acute necrotizing encephalopathy type 1 develop areas of damage (lesions) in certain regions of the brain. As the condition progresses, these brain regions develop swelling (edema), bleeding (hemorrhage), and then tissue death (
+necrosis
+). The progressive brain damage and tissue loss results in encephalopathy.
+Approximately one-third of individuals with acute necrotizing encephalopathy type 1 do not survive their illness and subsequent neurological decline. Of those who do survive, about half have permanent brain damage due to tissue necrosis, resulting in impairments in walking, speech, and other basic functions. Over time, many of these skills may be regained, but the loss of brain tissue is permanent. Other individuals who survive their illness appear to recover completely.
+It is estimated that half of individuals with acute necrotizing encephalopathy type 1 are susceptible to recurrent episodes and will have another infection that results in neurological decline; some people may have numerous episodes throughout their lives. Neurological function worsens following each episode as more brain tissue is damaged.
+Frequency
+Acute necrotizing encephalopathy type 1 is likely a very rare condition, although its incidence is unknown. At least 59 cases of this condition have been reported in the scientific literature.
+Causes
+Mutations in the
+RANBP2
+gene have been found to increase the risk of developing acute necrotizing encephalopathy type 1. The
+RANBP2
+gene provides instructions for making a protein that interacts with a protein complex known as the nuclear pore. The nuclear pore is a channel that allows transport of molecules in and out of the cell's nucleus. The RANBP2 protein helps regulate the transport of proteins and other molecules through the nuclear pore and helps modify proteins coming into or out of the nucleus. In addition to its functions at the nuclear pore, the RANBP2 protein also plays multiple roles during cell division and helps transport materials within cells.
+RANBP2
+gene mutations that are associated with acute necrotizing encephalopathy type 1 result in the production of a protein that cannot function normally either due to altered shape or because it cannot get to the nuclear pore where it is needed. These mutations do not cause health problems on their own; it is unclear how they are involved in the process by which a viral infection triggers neurological problems. Researchers suspect that prolonged inflammation in response to the infection may be involved in the development of acute necrotizing encephalopathy type 1, although the role of the altered RANBP2 protein in this process is unknown. Inflammation is a normal immune system response to injury and foreign invaders (such as viruses). However, excessive inflammation can damage the body's tissues. Additionally, certain inflammatory proteins can be toxic to nerve cells when present in large amounts. It is suspected that the combination of the altered RANBP2 protein and the abnormal immune response play a role in individuals' susceptibility to recurrent episodes of acute necrotizing encephalopathy type 1. In people with acute necrotizing encephalopathy type 1, the virus is not found in
+nerve cells
+in the brain or spinal cord (central nervous system), so it is likely that the immune reaction, rather than the infection itself, accounts for the neurological signs and symptoms.
+Influenza is the most common virus found in people with acute necrotizing encephalopathy type 1; other viruses that are known to trigger this condition include human herpesvirus 6, coxsackie virus, and enteroviruses. In rare cases, the bacterium
+Mycoplasma pneumoniae
+is involved. Because the signs and symptoms of acute necrotizing encephalopathy type 1 do not vary significantly among the different infections, it is likely that the type of infection is less important than the occurrence of an infection to trigger the condition.
+Some people with signs and symptoms of acute necrotizing encephalopathy type 1 do not have an identified mutation in the
+RANBP2
+gene. In these cases, the gene involved is unknown.
+Learn more about the gene associated with Acute necrotizing encephalopathy type 1
+RANBP2
+Inheritance
+Acute necrotizing encephalopathy type 1 is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase the risk of developing the disorder following an infection.
+In most cases, an affected person
+inherits the mutation
+from a parent. Other cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+Some people who have the altered
+RANBP2
+gene never develop the condition, a situation known as reduced penetrance. It is estimated that an individual with a
+RANBP2
+gene mutation has a 40 percent chance of developing acute necrotizing encephalopathy type 1 during his or her lifetime. Additional genetic or environmental factors likely play a role in whether an infection triggers the signs and symptoms of this condition. The health history of the individual, such as nutritional status and number of prior infections, may also influence risk.
+Other Names for This Condition
+Acute necrotizing encephalitis
+ADANE
+ANE1
+Autosomal dominant acute necrotizing encephalopathy
+IIAE3
+Postinfectious acute necrotizing hemorrhagic encephalopathy
+Susceptibility to acute necrotizing encephalopathy
+Susceptibility to infection-induced acute encephalopathy
+Susceptibility to infection-induced acute encephalopathy 3
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial acute necrotizing encephalopathy
+Genetic and Rare Diseases Information Center
+Acute necrotizing encephalopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3; IIAE3
+Scientific Articles on PubMed
+PubMed
+References
+Bloch C, Suter B, Fischmann A, Gensicke H, Ruegg S, Weisser M. Only a Touch of
+the Flu? The Simultaneous Manifestation of Acute Necrotizing Encephalopathy in
+Two Consanguineous Patients. Open Forum Infect Dis. 2015 Feb 2;2(2):ofv013. doi:
+10.1093/ofid/ofv013. eCollection 2015 Apr.
+Citation on PubMed
+or
+Free article on PubMed Central
+Neilson DE, Adams MD, Orr CM, Schelling DK, Eiben RM, Kerr DS, Anderson J,
+Bassuk AG, Bye AM, Childs AM, Clarke A, Crow YJ, Di Rocco M, Dohna-Schwake C,
+Dueckers G, Fasano AE, Gika AD, Gionnis D, Gorman MP, Grattan-Smith PJ,
+Hackenberg A, Kuster A, Lentschig MG, Lopez-Laso E, Marco EJ, Mastroyianni S,
+Perrier J, Schmitt-Mechelke T, Servidei S, Skardoutsou A, Uldall P, van der Knaap
+MS, Goglin KC, Tefft DL, Aubin C, de Jager P, Hafler D, Warman ML.
+Infection-triggered familial or recurrent cases of acute necrotizing
+encephalopathy caused by mutations in a component of the nuclear pore, RANBP2. Am
+J Hum Genet. 2009 Jan;84(1):44-51. doi: 10.1016/j.ajhg.2008.12.009.
+Citation on PubMed
+or
+Free article on PubMed Central
+Neilson DE. The interplay of infection and genetics in acute necrotizing
+encephalopathy. Curr Opin Pediatr. 2010 Dec;22(6):751-7. doi:
+10.1097/MOP.0b013e3283402bfe.
+Citation on PubMed
+Sell K, Storch K, Hahn G, Lee-Kirsch MA, Ramantani G, Jackson S, Neilson D,
+von der Hagen M, Hehr U, Smitka M. Variable clinical course in acute necrotizing
+encephalopathy and identification of a novel RANBP2 mutation. Brain Dev. 2016
+Sep;38(8):777-80. doi: 10.1016/j.braindev.2016.02.007. Epub 2016 Feb 26.
+Citation on PubMed
+Singh RR, Sedani S, Lim M, Wassmer E, Absoud M. RANBP2 mutation and acute
+necrotizing encephalopathy: 2 cases and a literature review of the expanding
+clinico-radiological phenotype. Eur J Paediatr Neurol. 2015 Mar;19(2):106-13.
+doi: 10.1016/j.ejpn.2014.11.010. Epub 2014 Dec 9.
+Citation on PubMed
+Wu X, Wu W, Pan W, Wu L, Liu K, Zhang HL. Acute necrotizing encephalopathy: an
+underrecognized clinicoradiologic disorder. Mediators Inflamm. 2015;2015:792578.
+doi: 10.1155/2015/792578. Epub 2015 Mar 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Brain Diseases
+Flu
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Focal neurological deficits
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

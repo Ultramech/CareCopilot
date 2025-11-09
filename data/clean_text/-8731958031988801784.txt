@@ -1,0 +1,123 @@
+Factor X deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Factor X deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/factor-x-deficiency/
+Factor X deficiency
+Description
+Factor X deficiency is a rare bleeding disorder that varies in severity among affected individuals. The signs and symptoms of this condition can begin at any age, although the most severe cases are apparent in childhood. Factor X deficiency commonly causes nosebleeds, easy bruising, bleeding under the skin, bleeding of the gums, blood in the urine (hematuria), and prolonged or excessive bleeding following surgery or trauma. Women with factor X deficiency can have heavy or prolonged menstrual bleeding (menorrhagia) or excessive bleeding in childbirth, and may be at increased risk of pregnancy loss (miscarriage). Bleeding into joint spaces (hemarthrosis) occasionally occurs. Severely affected individuals have an increased risk of bleeding inside the skull (intracranial hemorrhage), in the lungs (pulmonary hemorrhage), or in the gastrointestinal tract, which can be life-threatening.
+Frequency
+Factor X deficiency occurs in approximately 1 per million individuals worldwide.
+Causes
+The inherited form of factor X deficiency, known as congenital factor X deficiency, is caused by mutations in the
+F10
+gene, which provides instructions for making a protein called coagulation factor X. This protein plays a critical role in the coagulation system, which is a series of chemical reactions that forms blood clots in response to injury. Some
+F10
+gene mutations that cause factor X deficiency reduce the amount of coagulation factor X in the bloodstream, resulting in a form of the disorder called type I. Other
+F10
+gene mutations result in the production of a coagulation factor X protein with impaired function, leading to type II factor X deficiency. Reduced quantity or function of coagulation factor X prevents blood from clotting normally, causing episodes of abnormal bleeding that can be severe.
+A non-inherited form of the disorder, called acquired factor X deficiency, is more common than the congenital form. Acquired factor X deficiency can be caused by other disorders such as severe liver disease or systemic amyloidosis, a condition involving the accumulation of abnormal proteins called amyloids. Acquired factor X deficiency can also be caused by certain drugs such as medicines that prevent clotting, or by a deficiency of vitamin K.
+Learn more about the gene associated with Factor X deficiency
+F10
+Inheritance
+When this condition is caused by mutations in the
+F10
+gene, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Acquired factor X deficiency is not inherited, and generally occurs in individuals with no history of the disorder in their family.
+Other Names for This Condition
+Congenital Stuart factor deficiency
+F10 deficiency
+Stuart-Prower factor deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Factor X deficiency
+Genetic and Rare Diseases Information Center
+Congenital factor X deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+FACTOR X DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Brown DL, Kouides PA. Diagnosis and treatment of inherited factor X
+deficiency. Haemophilia. 2008 Nov;14(6):1176-82. doi:
+10.1111/j.1365-2516.2008.01856.x.
+Citation on PubMed
+Girolami A, Scarparo P, Scandellari R, Allemand E. Congenital factor X
+deficiencies with a defect only or predominantly in the extrinsic or in the
+intrinsic system: a critical evaluation. Am J Hematol. 2008 Aug;83(8):668-71.
+doi: 10.1002/ajh.21207.
+Citation on PubMed
+Girolami A, Vettore S, Scarparo P, Lombardi AM. Persistent validity of a
+classification of congenital factor X defects based on clotting, chromogenic and
+immunological assays even in the molecular biology era. Haemophilia. 2011
+Jan;17(1):17-20. doi: 10.1111/j.1365-2516.2010.02328.x.
+Citation on PubMed
+Herrmann FH, Auerswald G, Ruiz-Saez A, Navarrete M, Pollmann H, Lopaciuk S,
+Batorova A, Wulff K; Greifswald Factor X Deficiency Study Group. Factor X
+deficiency: clinical manifestation of 102 subjects from Europe and Latin America
+with mutations in the factor 10 gene. Haemophilia. 2006 Sep;12(5):479-89. doi:
+10.1111/j.1365-2516.2006.01303.x.
+Citation on PubMed
+Karimi M, Menegatti M, Afrasiabi A, Sarikhani S, Peyvandi F. Phenotype and
+genotype report on homozygous and heterozygous patients with congenital factor X
+deficiency. Haematologica. 2008 Jun;93(6):934-8. doi: 10.3324/haematol.12211.
+Epub 2008 Apr 9.
+Citation on PubMed
+Menegatti M, Peyvandi F. Factor X deficiency. Semin Thromb Hemost. 2009
+Jun;35(4):407-15. doi: 10.1055/s-0029-1225763. Epub 2009 Jul 13.
+Citation on PubMed
+Uprichard J, Perry DJ. Factor X deficiency. Blood Rev. 2002 Jun;16(2):97-110.
+doi: 10.1054/blre.2002.0191.
+Citation on PubMed
+Related Health Topics
+Bleeding Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Bleeding into the skin
+Blood Clot Formation (Image)
+Factor X assay
+Factor X deficiency
+Gastrointestinal bleeding
+Genetics
+Nosebleed
+Related Medical Tests
+Coagulation Factor Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

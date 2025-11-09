@@ -1,0 +1,145 @@
+Anencephaly: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Anencephaly
+URL of this page: https://medlineplus.gov/genetics/condition/anencephaly/
+Anencephaly
+Description
+Anencephaly is a condition that prevents the normal development of the brain and the bones of the skull. This condition results when a structure called the neural tube fails to close during the first few weeks of embryonic development. The neural tube is a layer of cells that ultimately develops into the brain and spinal cord. Because anencephaly is caused by abnormalities of the neural tube, it is classified as a neural tube defect.
+Because the neural tube fails to close properly, the developing brain and spinal cord are exposed to the amniotic fluid that surrounds the fetus in the womb. This exposure causes the nervous system tissue to break down (degenerate). As a result, people with anencephaly are missing large parts of the
+brain
+called the cerebrum and cerebellum. These brain regions are necessary for thinking, hearing, vision, emotion, and coordinating movement. The bones of the skull are also missing or incompletely formed.
+Because these nervous system abnormalities are so severe, almost all babies with anencephaly die before birth or within a few hours or days after birth.
+Frequency
+Anencephaly is one of the most common types of neural tube defect, affecting about 1 in 1,000 pregnancies. However, most of these pregnancies end in miscarriage, so the prevalence of this condition in newborns is much lower. An estimated 1 in 10,000 infants in the United States is born with anencephaly.
+Causes
+Anencephaly is a complex condition that is likely caused by the interaction of multiple genetic and environmental factors. Some of these factors have been identified, but many remain unknown.
+Changes in dozens of genes in individuals with anencephaly and in their mothers may influence the risk of developing this type of neural tube defect. The best-studied of these genes is
+MTHFR
+, which provides instructions for making a protein that is involved in processing the vitamin folate (also called vitamin B9). While a shortage (deficiency) of this vitamin is an established risk factor for neural tube defects, there are many factors that can contribute to folate deficiency. Changes in other genes related to folate processing and genes involved in the development of the neural tube have also been studied as potential risk factors for anencephaly. However, no genes appear to play a major role in causing the condition.
+Researchers have also examined environmental factors that could contribute to the risk of anencephaly. Folate deficiency plays a significant role. Studies have shown that women who take supplements containing folic acid (the synthetic form of folate) before they get pregnant and very early in their pregnancy are significantly less likely to have a baby with a neural tube defect, including anencephaly. Other possible maternal risk factors for anencephaly include diabetes mellitus, obesity, exposure to high heat (such as a fever or use of a hot tub or sauna) in early pregnancy, and the use of certain anti-seizure medications during pregnancy. However, it is unclear how these factors may influence the risk of anencephaly.
+Learn more about the gene associated with Anencephaly
+MTHFR
+Inheritance
+Most cases of anencephaly are sporadic, which means they occur in people with no history of the disorder in their family. A small percentage of cases have been reported to run in families; however, the condition does not have a clear pattern of inheritance. For parents who have had a child with anencephaly, the risk of having another affected child is increased compared with the risk in the general population.
+Other Names for This Condition
+Anencephalia
+Anencephalus
+Aprosencephaly
+Congenital absence of brain
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Anencephaly
+Genetic Testing Registry: Neural tube defect
+Genetic Testing Registry: Neural tube defects, folate-sensitive
+Genetic and Rare Diseases Information Center
+Isolated anencephaly/exencephaly
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NEURAL TUBE DEFECTS, FOLATE-SENSITIVE; NTDFS
+NEURAL TUBE DEFECTS, SUSCEPTIBILITY TO; NTD
+ANENCEPHALY 1; ANPH1
+Scientific Articles on PubMed
+PubMed
+References
+Au KS, Ashley-Koch A, Northrup H. Epidemiologic and genetic aspects of spina
+bifida and other neural tube defects. Dev Disabil Res Rev. 2010;16(1):6-15. doi:
+10.1002/ddrr.93.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bassuk AG, Kibar Z. Genetic basis of neural tube defects. Semin Pediatr
+Neurol. 2009 Sep;16(3):101-10. doi: 10.1016/j.spen.2009.06.001.
+Citation on PubMed
+Botto LD, Moore CA, Khoury MJ, Erickson JD. Neural-tube defects. N Engl J Med.
+1999 Nov 11;341(20):1509-19. doi: 10.1056/NEJM199911113412006. No abstract
+available.
+Citation on PubMed
+Copp AJ, Greene ND. Genetics and development of neural tube defects. J Pathol.
+2010 Jan;220(2):217-30. doi: 10.1002/path.2643.
+Citation on PubMed
+or
+Free article on PubMed Central
+Doudney K, Grinham J, Whittaker J, Lynch SA, Thompson D, Moore GE, Copp AJ,
+Greene ND, Stanier P. Evaluation of folate metabolism gene polymorphisms as risk
+factors for open and closed neural tube defects. Am J Med Genet A. 2009
+Jul;149A(7):1585-9. doi: 10.1002/ajmg.a.32937. No abstract available.
+Citation on PubMed
+Greene ND, Stanier P, Copp AJ. Genetics of human neural tube defects. Hum Mol
+Genet. 2009 Oct 15;18(R2):R113-29. doi: 10.1093/hmg/ddp347.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hickey SE, Curry CJ, Toriello HV. ACMG Practice Guideline: lack of evidence
+for MTHFR polymorphism testing. Genet Med. 2013 Feb;15(2):153-6. doi:
+10.1038/gim.2012.165. Epub 2013 Jan 3.
+Citation on PubMed
+Levin BL, Varga E. MTHFR: Addressing Genetic Counseling Dilemmas Using
+Evidence-Based Literature. J Genet Couns. 2016 Oct;25(5):901-11. doi:
+10.1007/s10897-016-9956-7. Epub 2016 Apr 30.
+Citation on PubMed
+Obeidi N, Russell N, Higgins JR, O'Donoghue K. The natural history of
+anencephaly. Prenat Diagn. 2010 Apr;30(4):357-60. doi: 10.1002/pd.2490.
+Citation on PubMed
+Wilson RD; SOGC GENETICS COMMITTEE; SPECIAL CONTRIBUTOR. RETIRED: Prenatal
+screening, diagnosis, and pregnancy management of fetal neural tube defects. J
+Obstet Gynaecol Can. 2014 Oct;36(10):927-939. doi: 10.1016/S1701-2163(15)30444-8.
+Citation on PubMed
+Yan L, Zhao L, Long Y, Zou P, Ji G, Gu A, Zhao P. Association of the maternal
+MTHFR C677T polymorphism with susceptibility to neural tube defects in
+offsprings: evidence from 25 case-control studies. PLoS One. 2012;7(10):e41689.
+doi: 10.1371/journal.pone.0041689. Epub 2012 Oct 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Zhang T, Lou J, Zhong R, Wu J, Zou L, Sun Y, Lu X, Liu L, Miao X, Xiong G.
+Genetic variants in the folate pathway and the risk of neural tube defects: a
+meta-analysis of the published literature. PLoS One. 2013 Apr 4;8(4):e59570. doi:
+10.1371/journal.pone.0059570. Print 2013.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Neural Tube Defects
+MEDICAL ENCYCLOPEDIA
+Anencephaly
+Folic acid in diet
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

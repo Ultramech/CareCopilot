@@ -1,0 +1,155 @@
+Nonbullous congenital ichthyosiform erythroderma: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Nonbullous congenital ichthyosiform erythroderma
+URL of this page: https://medlineplus.gov/genetics/condition/nonbullous-congenital-ichthyosiform-erythroderma/
+Nonbullous congenital ichthyosiform erythroderma
+Description
+Nonbullous congenital ichthyosiform erythroderma (NBCIE) is a condition that mainly affects
+the skin
+. Many infants with this condition are born with a tight, clear sheath covering their skin called a collodion membrane. Constriction by the membrane may cause the lips and
+eyelids
+to be turned out so the inner surface is exposed. The collodion membrane is usually shed during the first few weeks of life. Following shedding of the collodion membrane, the skin is red (erythroderma) and covered with fine, white scales (ichthyosis). Infants with NBCIE may develop infections, an excessive loss of fluids (dehydration), and respiratory problems early in life.
+Some people with NBCIE have thickening of the skin on the palms of the hands and soles of the feet (palmoplantar keratoderma), decreased or absent sweating (anhidrosis), and abnormal nails (nail dystrophy). In severe cases, there is an absence of hair growth (alopecia) in certain areas, often affecting the scalp and eyebrows.
+In individuals with NBCIE, some of the skin problems may improve by adulthood. Life expectancy is normal in people with NBCIE.
+Frequency
+NBCIE is estimated to affect 1 in 200,000 to 300,000 individuals in the United States. This condition is more common in Norway, where an estimated 1 in 90,000 people are affected.
+Causes
+Mutations in several genes can cause NBCIE. Mutations in the
+ABCA12
+,
+ALOX12B
+, or
+ALOXE3
+gene are responsible for most of cases of NBCIE. Mutations in other genes are each found in only a small percentage of cases. All of the genes associated with NBCIE provide instructions for making proteins that are found in the outermost layer of the skin (the epidermis). The epidermis forms a protective barrier between the body and its surrounding environment. Gene mutations impair the respective protein's function or structure within the epidermis, which prevents this outermost layer of skin from being an effective barrier before and after birth. The abnormal skin cannot protect against fluid loss (dehydration) or the outside environment, leading to problems controlling body temperature; dry skin; the formation of fine, white scales; and increased risk of infections in people with NBCIE. The skin scales can impair the function of sweat glands under the skin, causing anhidrosis.
+In some people with NBCIE, the cause of the disorder is unknown. Researchers are looking for additional genes that are associated with NBCIE.
+Learn more about the genes associated with Nonbullous congenital ichthyosiform erythroderma
+ABCA12
+ALOX12B
+ALOXE3
+Additional Information from NCBI Gene:
+CASP14
+CERS3
+CYP4F22
+NIPAL4
+PNPLA1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital ichthyosiform erythroderma
+Congenital nonbullous ichthyosiform erythroderma
+NBCIE
+NBIE
+NCIE
+Nonbullous ichthyosiform erythroderma
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 10
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 2
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 3
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 4A
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 5
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 6
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 9
+Genetic Testing Registry: Ichthyosis, congenital, autosomal recessive 12
+Genetic and Rare Diseases Information Center
+Congenital non-bullous ichthyosiform erythroderma
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 4A; ARCI4A
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 2; ARCI2
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 5; ARCI5
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 3; ARCI3
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 6; ARCI6
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 12; ARCI12
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 9; ARCI9
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 10; ARCI10
+Scientific Articles on PubMed
+PubMed
+References
+Boyden LM, Craiglow BG, Hu RH, Zhou J, Browning J, Eichenfield L, Lim YL, Luu
+M, Randolph LM, Ginarte M, Fachal L, Rodriguez-Pazos L, Vega A, Kramer D,
+Yosipovitch G, Vahidnezhad H, Youssefian L, Uitto J, Lifton RP, Paller AS,
+Milstone LM, Choate KA. Phenotypic spectrum of autosomal recessive congenital
+ichthyosis due to PNPLA1 mutation. Br J Dermatol. 2017 Jul;177(1):319-322. doi:
+10.1111/bjd.15570. Epub 2017 Jun 7. No abstract available.
+Citation on PubMed
+Eckl KM, de Juanes S, Kurtenbach J, Natebus M, Lugassy J, Oji V, Traupe H,
+Preil ML, Martinez F, Smolle J, Harel A, Krieg P, Sprecher E, Hennies HC.
+Molecular analysis of 250 patients with autosomal recessive congenital
+ichthyosis: evidence for mutation hotspots in ALOXE3 and allelic heterogeneity in
+ALOX12B. J Invest Dermatol. 2009 Jun;129(6):1421-8. doi: 10.1038/jid.2008.409.
+Epub 2009 Jan 8.
+Citation on PubMed
+Eckl KM, Krieg P, Kuster W, Traupe H, Andre F, Wittstruck N, Furstenberger G,
+Hennies HC. Mutation spectrum and functional analysis of epidermis-type
+lipoxygenases in patients with autosomal recessive congenital ichthyosis. Hum
+Mutat. 2005 Oct;26(4):351-61. doi: 10.1002/humu.20236.
+Citation on PubMed
+Kirchmeier P, Zimmer A, Bouadjar B, Rosler B, Fischer J.
+Whole-Exome-Sequencing Reveals Small Deletions in CASP14 in Patients with
+Autosomal Recessive Inherited Ichthyosis. Acta Derm Venereol. 2017 Jan
+4;97(1):102-104. doi: 10.2340/00015555-2510. No abstract available.
+Citation on PubMed
+Krieg P, Furstenberger G. The role of lipoxygenases in epidermis. Biochim
+Biophys Acta. 2014 Mar;1841(3):390-400. doi: 10.1016/j.bbalip.2013.08.005. Epub
+2013 Aug 16.
+Citation on PubMed
+Nawaz S, Tariq M, Ahmad I, Malik NA, Baig SM, Dahl N, Klar J. Non-bullous
+congentital ichthyosiform erythroderma associated with homozygosity for a novel
+missense mutation in an ATP binding domain of ABCA12. Eur J Dermatol. 2012
+Mar-Apr;22(2):178-81. doi: 10.1684/ejd.2011.1638.
+Citation on PubMed
+Pigg MH, Bygum A, Ganemo A, Virtanen M, Brandrup F, Zimmer AD, Hotz A,
+Vahlquist A, Fischer J. Spectrum of Autosomal Recessive Congenital Ichthyosis in
+Scandinavia: Clinical Characteristics and Novel and Recurrent Mutations in 132
+Patients. Acta Derm Venereol. 2016 Nov 2;96(7):932-937. doi:
+10.2340/00015555-2418.
+Citation on PubMed
+Takeichi T, Akiyama M. Inherited ichthyosis: Non-syndromic forms. J Dermatol.
+2016 Mar;43(3):242-51. doi: 10.1111/1346-8138.13243.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

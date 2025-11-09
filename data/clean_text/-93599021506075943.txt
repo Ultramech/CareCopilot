@@ -1,0 +1,228 @@
+Cytochrome c oxidase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cytochrome c oxidase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/cytochrome-c-oxidase-deficiency/
+Cytochrome c oxidase deficiency
+Description
+Cytochrome
+c
+oxidase deficiency is a genetic condition that can affect several parts of the body, including the muscles used for movement (
+skeletal muscles
+),
+the heart
+,
+the brain
+, or
+the liver
+. Signs and symptoms of cytochrome
+c
+oxidase deficiency usually begin before age 2 but can appear later in mildly affected individuals.
+The severity of cytochrome
+c
+oxidase deficiency varies widely among affected individuals, even among those in the same family. People who are mildly affected tend to have muscle weakness (myopathy) and poor muscle tone (hypotonia) with no other related health problems. More severely affected people have problems in multiple body systems, often including severe brain dysfunction (encephalomyopathy). Approximately one-quarter of individuals with cytochrome
+c
+oxidase deficiency have a type of heart disease that enlarges and weakens the heart muscle (
+hypertrophic cardiomyopathy
+). Another possible feature of this condition is an enlarged liver (hepatomegaly), which may lead to liver failure. Most individuals with cytochrome
+c
+oxidase deficiency have a buildup of a chemical called lactic acid in the body (lactic acidosis), which can cause nausea and an irregular heart rate, and can be life-threatening.
+Many people with cytochrome
+c
+oxidase deficiency have a specific group of features known as
+Leigh syndrome
+. The signs and symptoms of Leigh syndrome include loss of mental function, movement problems, hypertrophic cardiomyopathy, eating difficulties, and brain abnormalities. Cytochrome
+c
+oxidase deficiency is one of the many causes of Leigh syndrome.
+Many individuals with cytochrome
+c
+oxidase deficiency do not survive past childhood, although some individuals with mild signs and symptoms live into adolescence or adulthood.
+Frequency
+In Eastern Europe, cytochrome
+c
+oxidase deficiency is estimated to occur in 1 in 35,000 individuals. The prevalence of this condition outside this region is unknown.
+Causes
+Mutations in more than 20 genes have been found to cause cytochrome
+c
+oxidase deficiency. Most genes are found in DNA in the
+cell's nucleus
+(
+nuclear DNA
+). However, some genes are found in DNA in specialized cell structures called
+mitochondria
+. This type of DNA is known as
+mitochondrial DNA
+(mtDNA). Most cases of cytochrome
+c
+oxidase deficiency are caused by mutations in genes found within nuclear DNA; however, in some rare instances, mutations in genes located within mtDNA cause this condition.
+The genes associated with cytochrome
+c
+oxidase deficiency are involved in energy production in mitochondria through a process called
+oxidative phosphorylation
+. Mutations in these genes affect an enzyme complex called cytochrome
+c
+oxidase, which is responsible for one of the last steps in oxidative phosphorylation. Cytochrome
+c
+oxidase is made up of two large groups of enzymes (complexes) called holoenzymes, which are each composed of multiple protein parts (subunits). Many other proteins are involved in assembling these subunits into holoenzymes.
+In most cases, cytochrome
+c
+oxidase deficiency is caused by mutations that alter the proteins that assemble the holoenzymes. As a result, the holoenzymes are either partially assembled or not assembled at all. Without complete holoenzymes, cytochrome
+c
+oxidase cannot form. Less frequently, mutations alter the holoenzyme subunits, leading to a nonfunctional version of cytochrome
+c
+oxidase. Whether cytochrome
+c
+oxidase is not formed or not functional, this missing enzyme complex disrupts the last step of oxidative phosphorylation, causing a decrease in energy production.
+Researchers believe that impaired oxidative phosphorylation can lead to cell death by reducing the amount of energy available in the cell. Certain tissues that require large amounts of energy, such as the brain, muscles, and heart, seem especially sensitive to decreases in energy. Cell death in these and other sensitive tissues likely contribute to the features of cytochrome
+c
+oxidase deficiency.
+Learn more about the gene and chromosome associated with Cytochrome c oxidase deficiency
+SURF1
+mitochondrial dna
+Additional Information from NCBI Gene:
+COA3
+COA5
+COA6
+COA7
+COA8
+COX10
+COX14
+COX15
+COX20
+COX5A
+COX6B1
+COX8A
+FASTKD2
+LRPPRC
+MT-CO1
+MT-CO2
+MT-CO3
+PET100
+PET117
+SCO1
+SCO2
+TACO1
+Inheritance
+Cytochrome
+c
+oxidase deficiency can have different inheritance patterns depending on the gene involved.
+When this condition is caused by mutations in genes within nuclear DNA, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+When this condition is caused by mutations in genes within mtDNA, it is inherited in a
+mitochondrial pattern
+, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.
+Other Names for This Condition
+Complex IV deficiency
+COX deficiency
+Cytochrome-c oxidase deficiency
+Mitochondrial complex IV deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 2
+Genetic Testing Registry: Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3
+Genetic Testing Registry: Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 4
+Genetic Testing Registry: Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 1
+Genetic and Rare Diseases Information Center
+Isolated cytochrome C oxidase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MITOCHONDRIAL COMPLEX IV DEFICIENCY, NUCLEAR TYPE 1; MC4DN1
+MITOCHONDRIAL COMPLEX IV DEFICIENCY, NUCLEAR TYPE 2; MC4DN2
+MITOCHONDRIAL COMPLEX IV DEFICIENCY, NUCLEAR TYPE 6; MC4DN6
+MITOCHONDRIAL COMPLEX IV DEFICIENCY, NUCLEAR TYPE 9; MC4DN9
+MITOCHONDRIAL COMPLEX IV DEFICIENCY, NUCLEAR TYPE 13; MC4DN13
+Scientific Articles on PubMed
+PubMed
+References
+Bohm M, Pronicka E, Karczmarewicz E, Pronicki M, Piekutowska-Abramczuk D,
+Sykut-Cegielska J, Mierzewska H, Hansikova H, Vesela K, Tesarova M, Houstkova H,
+Houstek J, Zeman J. Retrospective, multicentric study of 180 children with
+cytochrome C oxidase deficiency. Pediatr Res. 2006 Jan;59(1):21-6. doi:
+10.1203/01.pdr.0000190572.68191.13. Epub 2005 Dec 2.
+Citation on PubMed
+Du A, Naviaux RK, Le T, Xu C, Sommer SS, Haas RH. Fibroblast immuno-diagnosis
+of cytochrome oxidase (COX) deficiency in mitochondrial disease. Mitochondrion.
+2011 May;11(3):430-6. doi: 10.1016/j.mito.2010.12.014. Epub 2010 Dec 25.
+Citation on PubMed
+Parikh S, Goldstein A, Karaa A, Koenig MK, Anselm I, Brunel-Guitton C,
+Christodoulou J, Cohen BH, Dimmock D, Enns GM, Falk MJ, Feigenbaum A, Frye RE,
+Ganesh J, Griesemer D, Haas R, Horvath R, Korson M, Kruer MC, Mancuso M,
+McCormack S, Raboisson MJ, Reimschisel T, Salvarinova R, Saneto RP, Scaglia F,
+Shoffner J, Stacpoole PW, Sue CM, Tarnopolsky M, Van Karnebeek C, Wolfe LA,
+Cunningham ZZ, Rahman S, Chinnery PF. Patient care standards for primary
+mitochondrial disease: a consensus statement from the Mitochondrial Medicine
+Society. Genet Med. 2017 Dec;19(12):10.1038/gim.2017.107. doi:
+10.1038/gim.2017.107. Epub 2017 Jul 27.
+Citation on PubMed
+Parikh S, Goldstein A, Koenig MK, Scaglia F, Enns GM, Saneto R, Anselm I,
+Cohen BH, Falk MJ, Greene C, Gropman AL, Haas R, Hirano M, Morgan P, Sims K,
+Tarnopolsky M, Van Hove JL, Wolfe L, DiMauro S. Diagnosis and management of
+mitochondrial disease: a consensus statement from the Mitochondrial Medicine
+Society. Genet Med. 2015 Sep;17(9):689-701. doi: 10.1038/gim.2014.177. Epub 2014
+Dec 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rak M, Benit P, Chretien D, Bouchereau J, Schiff M, El-Khoury R, Tzagoloff A,
+Rustin P. Mitochondrial cytochrome c oxidase deficiency. Clin Sci (Lond). 2016
+Mar;130(6):393-407. doi: 10.1042/CS20150707.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ugalde C, Coenen MJ, Farhoud MH, Gilinsky S, Koopman WJ, van den Heuvel LP,
+Smeitink JA, Nijtmans LG. New perspectives on the assembly process of
+mitochondrial respiratory chain complex cytochrome c oxidase. Mitochondrion. 2002
+Nov;2(1-2):117-28. doi: 10.1016/s1567-7249(02)00012-0.
+Citation on PubMed
+Vondrackova A, Vesela K, Hansikova H, Docekalova DZ, Rozsypalova E, Zeman J,
+Tesarova M. High-resolution melting analysis of 15 genes in 60 patients with
+cytochrome-c oxidase deficiency. J Hum Genet. 2012 Jul;57(7):442-8. doi:
+10.1038/jhg.2012.49. Epub 2012 May 17.
+Citation on PubMed
+Wortmann SB, Mayr JA, Nuoffer JM, Prokisch H, Sperl W. A Guideline for the
+Diagnosis of Pediatric Mitochondrial Disease: The Value of Muscle and Skin
+Biopsies in the Genetics Era. Neuropediatrics. 2017 Aug;48(4):309-314. doi:
+10.1055/s-0037-1603776. Epub 2017 Jun 9. No abstract available.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Mitochondrial Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

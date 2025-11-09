@@ -1,0 +1,151 @@
+PURA syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+PURA syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/pura-syndrome/
+PURA syndrome
+Description
+PURA
+syndrome is a condition characterized by intellectual disability and delayed development of speech and motor skills, such as walking. Expressive language skills (vocabulary and the production of speech) are generally more severely affected than receptive language skills (the ability to understand speech), and most affected individuals are unable to speak. People with
+PURA
+syndrome may learn to walk later than their peers; many are never able to walk. In infancy, affected infants have very weak muscle tone (hypotonia) and feeding difficulties. Problems with swallowing (dysphagia) can last throughout life. In addition, affected infants can be excessively sleepy (hypersomnolent), have a low body temperature (hypothermia), and have short pauses in breathing (apnea) or episodes of abnormally slow breathing (hypoventilation). These breathing problems usually go away after age 1.
+Recurrent seizures (epilepsy) are also common in
+PURA
+syndrome. Seizures usually begin before age 5 with uncontrolled muscle jerks (myoclonus). Other types of seizures can develop, such as generalized tonic-clonic seizures, which involve loss of consciousness, muscle rigidity, and convulsions. In people with
+PURA
+syndrome, seizures are often difficult to control.
+Other features in people with
+PURA
+syndrome can include abnormalities of the heart, eyes, urogenital tract, gastrointestinal tract, and skeleton. Some affected individuals have symptoms of a hormonal problem, such as early sexual development (precocious puberty) or low levels of vitamin D (which is a hormone).
+Frequency
+PURA
+syndrome is a rare condition affecting at least 70 individuals. It is estimated to account for fewer than 1 percent of cases of developmental delay.
+Causes
+PURA
+syndrome is caused by mutations in the
+PURA
+gene, which provides instructions for making a protein called Pur-alpha (Purα). This protein has multiple roles in cells, including controlling the activity of genes (
+gene transcription
+) and aiding in the copying (replication) of DNA. The Purα protein is especially important for normal brain development. Purα helps direct the growth and division of nerve cells (neurons). It may also be involved in the formation or maturation of
+myelin
+, the protective substance that covers nerves and promotes the efficient transmission of nerve impulses.
+Mutations in the
+PURA
+gene are thought to lead to a reduced amount of functional Purα protein. Although it is not understood how a partial loss of Purα function leads to the signs and symptoms of
+PURA
+syndrome, researchers suspect that it may alter normal brain development and impair the function of neurons, leading to developmental problems and seizures in people with the condition.
+Learn more about the gene associated with PURA syndrome
+PURA
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Most cases of this condition result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual’s parent or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+PURA-related neurodevelopmental disorder
+PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome
+Genetic and Rare Diseases Information Center
+PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+NEURODEVELOPMENTAL DISORDER WITH NEONATAL RESPIRATORY INSUFFICIENCY, HYPOTONIA, AND FEEDING DIFFICULTIES; NEDRIHF
+Scientific Articles on PubMed
+PubMed
+References
+Hunt D, Leventer RJ, Simons C, Taft R, Swoboda KJ, Gawne-Cain M; DDD study;
+Magee AC, Turnpenny PD, Baralle D. Whole exome sequencing in family trios reveals
+de novo mutations in PURA as a cause of severe neurodevelopmental delay and
+learning disability. J Med Genet. 2014 Dec;51(12):806-13. doi:
+10.1136/jmedgenet-2014-102798. Epub 2014 Oct 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lalani SR, Zhang J, Schaaf CP, Brown CW, Magoulas P, Tsai AC, El-Gharbawy A,
+Wierenga KJ, Bartholomew D, Fong CT, Barbaro-Dieber T, Kukolich MK, Burrage LC,
+Austin E, Keller K, Pastore M, Fernandez F, Lotze T, Wilfong A, Purcarin G, Zhu
+W, Craigen WJ, McGuire M, Jain M, Cooney E, Azamian M, Bainbridge MN, Muzny DM,
+Boerwinkle E, Person RE, Niu Z, Eng CM, Lupski JR, Gibbs RA, Beaudet AL, Yang Y,
+Wang MC, Xia F. Mutations in PURA cause profound neonatal hypotonia, seizures,
+and encephalopathy in 5q31.3 microdeletion syndrome. Am J Hum Genet. 2014 Nov
+6;95(5):579-83. doi: 10.1016/j.ajhg.2014.09.014. Epub 2014 Oct 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Reijnders MRF, Janowski R, Alvi M, Self JE, van Essen TJ, Vreeburg M, Rouhl
+RPW, Stevens SJC, Stegmann APA, Schieving J, Pfundt R, van Dijk K, Smeets E,
+Stumpel CTRM, Bok LA, Cobben JM, Engelen M, Mansour S, Whiteford M, Chandler KE,
+Douzgou S, Cooper NS, Tan EC, Foo R, Lai AHM, Rankin J, Green A, Lonnqvist T,
+Isohanni P, Williams S, Ruhoy I, Carvalho KS, Dowling JJ, Lev DL, Sterbova K,
+Lassuthova P, Neupauerova J, Waugh JL, Keros S, Clayton-Smith J, Smithson SF,
+Brunner HG, van Hoeckel C, Anderson M, Clowes VE, Siu VM, Ddd Study T, Selber P,
+Leventer RJ, Nellaker C, Niessing D, Hunt D, Baralle D. PURA syndrome: clinical
+delineation and genotype-phenotype study in 32 individuals with review of
+published literature. J Med Genet. 2018 Feb;55(2):104-113. doi:
+10.1136/jmedgenet-2017-104946. Epub 2017 Nov 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Reijnders MRF, Leventer RJ, Lee BH, Baralle D, Selber P, Paciorkowski AR, Hunt
+D. PURA-Related Neurodevelopmental Disorders. 2017 Apr 27. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK426063/
+Citation on PubMed
+Tanaka AJ, Bai R, Cho MT, Anyane-Yeboa K, Ahimaz P, Wilson AL, Kendall F, Hay
+B, Moss T, Nardini M, Bauer M, Retterer K, Juusola J, Chung WK. De novo mutations
+in PURA are associated with hypotonia and developmental delay. Cold Spring Harb
+Mol Case Stud. 2015 Oct;1(1):a000356. doi: 10.1101/mcs.a000356.
+Citation on PubMed
+or
+Free article on PubMed Central
+White MK, Johnson EM, Khalili K. Multiple roles for Puralpha in cellular and
+viral regulation. Cell Cycle. 2009 Feb 1;8(3):1-7. doi: 10.4161/cc.8.3.7585. Epub
+2009 Feb 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+Speech and Communication Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hypotonia
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

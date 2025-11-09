@@ -1,0 +1,177 @@
+Neurofibromatosis type 1: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Neurofibromatosis type 1
+URL of this page: https://medlineplus.gov/genetics/condition/neurofibromatosis-type-1/
+Neurofibromatosis type 1
+Description
+Neurofibromatosis type 1 is a condition characterized by changes in skin coloring (pigmentation) and the growth of tumors along nerves in the skin, brain, and other parts of the body. The signs and symptoms of this condition vary widely among affected people.
+Beginning in early childhood, almost all people with neurofibromatosis type 1 have multiple
+café-au-lait spots
+, which are flat patches on the skin that are darker than the surrounding area. These spots increase in size and number as the individual grows older. Freckles in the underarms and groin typically develop later in childhood.
+Most adults with neurofibromatosis type 1 develop neurofibromas, which are noncancerous (benign) tumors that are usually located on or just under the skin. These tumors may also occur in nerves near the spinal cord or along nerves elsewhere in the body. Some people with neurofibromatosis type 1 develop cancerous tumors that grow along nerves. These tumors, which usually develop in adolescence or adulthood, are called malignant peripheral nerve sheath tumors. People with neurofibromatosis type 1 also have an increased risk of developing other cancers, including brain tumors and cancer of blood-forming tissue (
+leukemia
+).
+During childhood, benign growths called Lisch nodules often appear in the colored part of the
+eye
+(the iris). Lisch nodules do not interfere with vision. Some affected individuals also develop tumors that grow along the nerve leading from the eye to the brain (the
+optic nerve
+). These tumors, which are called optic gliomas, may lead to reduced vision or total vision loss. In some cases, optic gliomas have no effect on vision.
+Additional signs and symptoms of neurofibromatosis type 1 vary, but they can include high blood pressure (
+hypertension
+), short stature, an unusually large head (
+macrocephaly
+), and skeletal abnormalities such as an abnormal curvature of the spine (
+scoliosis
+). Although most people with neurofibromatosis type 1 have normal intelligence, learning disabilities and
+attention-deficit/hyperactivity disorder
+(ADHD) occur frequently in affected individuals.
+Frequency
+Neurofibromatosis type 1 occurs in 1 in 3,000 to 4,000 people worldwide.
+Causes
+Mutations in the
+NF1
+gene cause neurofibromatosis type 1. The
+NF1
+gene provides instructions for making a protein called neurofibromin. This protein is produced in many cells, including nerve cells and specialized cells surrounding nerves (
+oligodendrocytes
+and Schwann cells). Neurofibromin acts as a tumor suppressor, which means that it keeps cells from growing and dividing too rapidly or in an uncontrolled way. Mutations in the
+NF1
+gene lead to the production of a nonfunctional version of neurofibromin that cannot regulate cell growth and division. As a result, tumors such as neurofibromas can form along nerves throughout the body. It is unclear how mutations in the
+NF1
+gene lead to the other features of neurofibromatosis type 1, such as café-au-lait spots and learning disabilities.
+Learn more about the gene associated with Neurofibromatosis type 1
+NF1
+Inheritance
+Neurofibromatosis type 1 is considered to have an autosomal dominant pattern of inheritance. People with this condition are born with one mutated copy of the
+NF1
+gene in each cell. In about half of cases, the altered gene is inherited from
+an affected parent
+. The remaining cases result from
+new mutations
+in the
+NF1
+gene and occur in people with no history of the disorder in their family.
+Unlike most other autosomal dominant conditions, in which one altered copy of a gene in each cell is sufficient to cause the disorder, two copies of the
+NF1
+gene must be altered to trigger tumor formation in neurofibromatosis type 1. A mutation in the second copy of the
+NF1
+gene occurs during a person's lifetime in specialized cells surrounding nerves. Almost everyone who is born with one
+NF1
+mutation acquires a second mutation in many cells and develops the tumors characteristic of neurofibromatosis type 1.
+Other Names for This Condition
+Neurofibromatosis 1
+NF1
+Peripheral neurofibromatosis
+Recklinghausen disease, nerve
+Von Recklinghausen disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Neurofibromatosis, type 1
+Genetic and Rare Diseases Information Center
+Neurofibromatosis
+Neurofibromatosis type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NEUROFIBROMATOSIS, TYPE I; NF1
+Scientific Articles on PubMed
+PubMed
+References
+Arun D, Gutmann DH. Recent advances in neurofibromatosis type 1. Curr Opin
+Neurol. 2004 Apr;17(2):101-5. doi: 10.1097/00019052-200404000-00004.
+Citation on PubMed
+Baralle D, Mattocks C, Kalidas K, Elmslie F, Whittaker J, Lees M, Ragge N,
+Patton MA, Winter RM, ffrench-Constant C. Different mutations in the NF1 gene are
+associated with Neurofibromatosis-Noonan syndrome (NFNS). Am J Med Genet A. 2003
+May 15;119A(1):1-8. doi: 10.1002/ajmg.a.20023.
+Citation on PubMed
+De Luca A, Bottillo I, Sarkozy A, Carta C, Neri C, Bellacchio E, Schirinzi A,
+Conti E, Zampino G, Battaglia A, Majore S, Rinaldi MM, Carella M, Marino B,
+Pizzuti A, Digilio MC, Tartaglia M, Dallapiccola B. NF1 gene mutations represent
+the major molecular event underlying neurofibromatosis-Noonan syndrome. Am J Hum
+Genet. 2005 Dec;77(6):1092-101. doi: 10.1086/498454. Epub 2005 Oct 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Friedman JM. Neurofibromatosis 1. 1998 Oct 2 [updated 2025 Apr 3]. In: Adam
+MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1109/
+Citation on PubMed
+Hart L. Primary care for patients with neurofibromatosis 1. Nurse Pract. 2005
+Jun;30(6):38-43. doi: 10.1097/00006205-200506000-00007. No abstract available.
+Citation on PubMed
+Huffmeier U, Zenker M, Hoyer J, Fahsold R, Rauch A. A variable combination of
+features of Noonan syndrome and neurofibromatosis type I are caused by mutations
+in the NF1 gene. Am J Med Genet A. 2006 Dec 15;140(24):2749-56. doi:
+10.1002/ajmg.a.31547.
+Citation on PubMed
+Kandt RS. Tuberous sclerosis complex and neurofibromatosis type 1: the two
+most common neurocutaneous diseases. Neurol Clin. 2003 Nov;21(4):983-1004. doi:
+10.1016/s0733-8619(03)00004-5.
+Citation on PubMed
+Levine TM, Materek A, Abel J, O'Donnell M, Cutting LE. Cognitive profile of
+neurofibromatosis type 1. Semin Pediatr Neurol. 2006 Mar;13(1):8-20. doi:
+10.1016/j.spen.2006.01.006.
+Citation on PubMed
+Reynolds RM, Browning GG, Nawroz I, Campbell IW. Von Recklinghausen's
+neurofibromatosis: neurofibromatosis type 1. Lancet. 2003 May 3;361(9368):1552-4.
+doi: 10.1016/s0140-6736(03)13166-2. No abstract available.
+Citation on PubMed
+Rose VM. Neurocutaneous syndromes. Mo Med. 2004 Mar-Apr;101(2):112-6.
+Citation on PubMed
+Theos A, Korf BR; American College of Physicians; American Physiological
+Society. Pathophysiology of neurofibromatosis type 1. Ann Intern Med. 2006 Jun
+6;144(11):842-9. doi: 10.7326/0003-4819-144-11-200606060-00010. No abstract
+available.
+Citation on PubMed
+Tonsgard JH. Clinical manifestations and management of neurofibromatosis type
+1. Semin Pediatr Neurol. 2006 Mar;13(1):2-7. doi: 10.1016/j.spen.2006.01.005.
+Citation on PubMed
+Ward BA, Gutmann DH. Neurofibromatosis 1: from lab bench to clinic. Pediatr
+Neurol. 2005 Apr;32(4):221-8. doi: 10.1016/j.pediatrneurol.2004.11.002.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Neurofibromatosis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Neurofibromatosis-1
+Optic glioma
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

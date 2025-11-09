@@ -1,0 +1,178 @@
+Septo-optic dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Septo-optic dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/septo-optic-dysplasia/
+Septo-optic dysplasia
+Description
+Septo-optic dysplasia is a disorder that affects early brain development. This condition is typically defined as a combination of at least two of the following three features: underdevelopment (hypoplasia) of the nerves that carry visual information from the eye to the brain (
+optic nerves
+); abnormal development of the structures that separate the right and left halves (the midline) of the brain; and hypoplasia of the hormone-producing gland (pituitary gland) at the base of the brain. The signs and symptoms of septo-optic dysplasia can vary widely among affected individuals. Less than half of people with septo-optic dysplasia have all three of the main features.
+In individuals with optic nerve hypoplasia, the optic nerves are often abnormally small and make fewer connections than usual between the eyes and the brain. As a result, affected individuals have impaired vision in one or both eyes. People with optic nerve hypoplasia can also have other eye abnormalities, including rapid, involuntary eye movements (nystagmus) and eyes that do not point in the same direction (strabismus).
+Abnormal development of the structures along the midline of the brain occurs in many people with septo-optic dysplasia. These structures include the corpus callosum, which is a band of tissue that connects the two halves of the brain, and the septum pellucidum, which separates the fluid-filled spaces in the brain. In affected individuals, these structures may form abnormally or fail to develop at all. Additional brain abnormalities, such as slits or clefts in one or both halves of the brain (schizencephaly), may also be present in people with septo-optic dysplasia. Depending on which structures are affected, abnormal brain development can lead to intellectual disabilities and other behavioral and neurological problems, including recurrent seizures (epilepsy); developmental delays; and
+autism spectrum disorder
+, which is characterized by impaired social skills and communication problems.
+Many people who have septo-optic dysplasia have an underdeveloped pituitary gland. Pituitary hypoplasia can lead to a shortage (deficiency) of essential hormones. These hormones help control growth, reproduction, and other critical body functions. In most cases, pituitary hypoplasia causes
+growth hormone
+(GH) deficiency, which results in slow growth and short stature. Less commonly, individuals who have septo-optic dysplasia have panhypopituitarism, a condition in which the production of multiple hormones is impaired. Panhypopituitarism can be associated with slow growth, low levels of glucose in the blood (hypoglycemia), genital abnormalities, and problems with sexual development.
+Because the signs and symptoms of septo-optic dysplasia can vary significantly, researchers have suggested that this condition may actually represent a spectrum of related conditions rather than a single disorder. Researchers have suggested various names for this spectrum, including "septo-optic-pituitary dysplasia," "septo-optic pituitary dysplasia complex," and "hypothalamo-pituitary-optic dysplasia." Researchers are working to better understand this condition.
+Frequency
+Septo-optic dysplasia affects approximately 1 in 10,000 newborns.
+Causes
+In most cases of septo-optic dysplasia, the cause of the disorder is unknown. Researchers suspect that a combination of genetic and environmental factors play a role in causing this disorder. Septo-optic dysplasia is more common in children born to young women who are pregnant for the first time. Children also have an increased risk of septo-optic dysplasia if they were exposed to alcohol or specific medications or drugs before birth, or if their mothers had certain viral infections while pregnant. A disruption in blood flow to certain areas of the brain during critical periods of development may also increase the risk of septo-optic dysplasia.
+Variants (also called mutations) in a few genes that play important roles in embryonic development have been associated with septo-optic dysplasia. Genetic variants are more likely to be found in children born to older mothers who have had multiple pregnancies and in children who have additional findings.
+Researchers are looking for additional environmental factors and genetic changes that may contribute to septo-optic dysplasia.
+Learn more about the genes associated with Septo-optic dysplasia
+HESX1
+OTX2
+SOX2
+Additional Information from NCBI Gene:
+SOX3
+Inheritance
+Septo-optic dysplasia is usually sporadic, which means that the condition typically occurs in people with no history of the disorder in their family.
+Less commonly, septo-optic dysplasia has been found to run in families. Some familial cases appear to have an
+autosomal recessive pattern
+of inheritance, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+In other cases, the condition has an
+autosomal dominant pattern
+of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Combined pituitary hormone deficiency 5
+CPHD5
+De Morsier syndrome
+Septo-optic dysplasia complex
+Septo-optic-pituitary dysplasia complex
+Septooptic dysplasia
+SOD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Septo-optic dysplasia sequence
+Genetic and Rare Diseases Information Center
+Septo-optic dysplasia spectrum
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SEPTOOPTIC DYSPLASIA
+Scientific Articles on PubMed
+PubMed
+References
+Atapattu N, Ainsworth J, Willshaw H, Parulekar M, MacPherson L, Miller C,
+Davies P, Kirk JM. Septo-optic dysplasia: antenatal risk factors and clinical
+features in a regional study. Horm Res Paediatr. 2012;78(2):81-7. doi:
+10.1159/000341148. Epub 2012 Aug 14.
+Citation on PubMed
+Cerbone M, Guemes M, Wade A, Improda N, Dattani M. Endocrine morbidity in
+midline brain defects: Differences between septo-optic dysplasia and related
+disorders. EClinicalMedicine. 2020 Jan 9;19:100224. doi:
+10.1016/j.eclinm.2019.11.017. eCollection 2020 Feb.
+Citation on PubMed
+Dattani MT, Martinez-Barbera JP, Thomas PQ, Brickman JM, Gupta R, Martensson
+IL, Toresson H, Fox M, Wales JK, Hindmarsh PC, Krauss S, Beddington RS, Robinson
+IC. Mutations in the homeobox gene HESX1/Hesx1 associated with septo-optic
+dysplasia in human and mouse. Nat Genet. 1998 Jun;19(2):125-33. doi: 10.1038/477.
+Citation on PubMed
+Dattani MT, Robinson IC. HESX1 and Septo-Optic Dysplasia. Rev Endocr Metab
+Disord. 2002 Dec;3(4):289-300. doi: 10.1023/a:1020945406356. No abstract
+available.
+Citation on PubMed
+Hoyt WF, Kaplan SL, Grumbach MM, Glaser JS. Septo-optic dysplasia and
+pituitary dwarfism. Lancet. 1970 Apr 25;1(7652):893-4. doi:
+10.1016/s0140-6736(70)91717-4. No abstract available.
+Citation on PubMed
+Kelberman D, Dattani MT. Genetics of septo-optic dysplasia. Pituitary.
+2007;10(4):393-407. doi: 10.1007/s11102-007-0055-5.
+Citation on PubMed
+Kelberman D, Dattani MT. Septo-optic dysplasia - novel insights into the
+aetiology. Horm Res. 2008;69(5):257-65. doi: 10.1159/000114856. Epub 2008 Feb 6.
+Citation on PubMed
+McCabe MJ, Alatzoglou KS, Dattani MT. Septo-optic dysplasia and other midline
+defects: the role of transcription factors: HESX1 and beyond. Best Pract Res Clin
+Endocrinol Metab. 2011 Feb;25(1):115-24. doi: 10.1016/j.beem.2010.06.008.
+Citation on PubMed
+McNay DE, Turton JP, Kelberman D, Woods KS, Brauner R, Papadimitriou A, Keller
+E, Keller A, Haufs N, Krude H, Shalet SM, Dattani MT. HESX1 mutations are an
+uncommon cause of septooptic dysplasia and hypopituitarism. J Clin Endocrinol
+Metab. 2007 Feb;92(2):691-7. doi: 10.1210/jc.2006-1609. Epub 2006 Dec 5.
+Citation on PubMed
+Miller SP, Shevell MI, Patenaude Y, Poulin C, O'Gorman AM. Septo-optic
+dysplasia plus: a spectrum of malformations of cortical development. Neurology.
+2000 Apr 25;54(8):1701-3. doi: 10.1212/wnl.54.8.1701.
+Citation on PubMed
+Nalawade R, Bhate M. Septo-Optic Dysplasia: A Case Series of 33 Patients.
+Neuroophthalmology. 2024 Feb 12;48(1):13-18. doi: 10.1080/01658107.2023.2276187.
+eCollection 2024.
+Citation on PubMed
+Patel L, McNally RJ, Harrison E, Lloyd IC, Clayton PE. Geographical
+distribution of optic nerve hypoplasia and septo-optic dysplasia in Northwest
+England. J Pediatr. 2006 Jan;148(1):85-8. doi: 10.1016/j.jpeds.2005.07.031.
+Citation on PubMed
+Polizzi A, Pavone P, Iannetti P, Manfre L, Ruggieri M. Septo-optic dysplasia
+complex: a heterogeneous malformation syndrome. Pediatr Neurol. 2006
+Jan;34(1):66-71. doi: 10.1016/j.pediatrneurol.2005.07.004.
+Citation on PubMed
+Reis LM, Seese S, Maheshwari M, Basel D, Weik L, McCarrier J, University Of
+Washington Center For Mendelian Genomics, Semina EV. Novel Genetic Diagnoses in
+Septo-Optic Dysplasia. Genes (Basel). 2022 Jun 28;13(7):1165. doi:
+10.3390/genes13071165.
+Citation on PubMed
+Salman MS, Ruth CA, Yogendran MS, Lix LM. Morbidities and comorbidities
+associated with optic nerve hypoplasia and septo-optic-pituitary dysplasia. Dev
+Med Child Neurol. 2025 Jul;67(7):941-952. doi: 10.1111/dmcn.16235. Epub 2025 Jan
+13.
+Citation on PubMed
+Thomas PQ, Dattani MT, Brickman JM, McNay D, Warne G, Zacharin M, Cameron F,
+Hurst J, Woods K, Dunger D, Stanhope R, Forrest S, Robinson IC, Beddington RS.
+Heterozygous HESX1 mutations associated with isolated congenital pituitary
+hypoplasia and septo-optic dysplasia. Hum Mol Genet. 2001 Jan 1;10(1):39-45. doi:
+10.1093/hmg/10.1.39.
+Citation on PubMed
+Webb EA, Dattani MT. Septo-optic dysplasia. Eur J Hum Genet. 2010
+Apr;18(4):393-7. doi: 10.1038/ejhg.2009.125. Epub 2009 Jul 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+Optic Nerve Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Growth hormone deficiency - children
+Hypopituitarism
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

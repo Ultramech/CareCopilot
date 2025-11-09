@@ -1,0 +1,104 @@
+Sudden infant death with dysgenesis of the testes syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Sudden infant death with dysgenesis of the testes syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/sudden-infant-death-with-dysgenesis-of-the-testes-syndrome/
+Sudden infant death with dysgenesis of the testes syndrome
+Description
+Sudden infant death with dysgenesis of the testes syndrome (SIDDT) is a rare condition that is fatal in the first year of life; its major features include abnormalities of the reproductive system in males, feeding difficulties, and breathing problems.
+Infants with SIDDT who are genetically male, with
+one X chromosome and one Y chromosome
+in each cell, have underdeveloped or abnormal testes. They may also have external genitalia that appear female-typical or that do not look clearly male or clearly female. In affected infants who are genetically female, with two X chromosomes in each cell, development of the internal and external reproductive organs is normal.
+SIDDT is associated with abnormal development of the brain, particularly the
+brainstem
+, which is the part of the brain that is connected to the spinal cord. The brainstem regulates many basic body functions, including heart rate, breathing, eating, and sleeping. It also relays information about movement and the senses between the brain and the rest of the body. Many features of SIDDT appear to be related to brainstem malfunction, including a slow or uneven heart rate, abnormal breathing patterns, difficulty controlling body temperature, unusual tongue and eye movements, an exaggerated startle reflex to sudden lights or loud noises, and feeding difficulties. Affected infants also have an unusual cry that has been described as similar to the bleating of a goat, which is probably a result of abnormal nerve connections between the brain and the voicebox (larynx).
+The brainstem abnormalities lead to death in the first year of life, when affected infants suddenly stop breathing or their heart stops beating (cardiorespiratory arrest).
+Frequency
+SIDDT has been diagnosed in more than 20 infants from a single Old Order Amish community in Pennsylvania. The condition has not been reported outside this community.
+Causes
+A single mutation in the
+TSPYL1
+gene has caused all identified cases of SIDDT. This gene provides instructions for making a protein called TSPY-like 1, whose function is unknown. Based on its role in SIDDT, researchers propose that TSPY-like 1 is involved in the development of the male reproductive system and the brain.
+The
+TSPYL1
+gene mutation that causes SIDDT eliminates the function of TSPY-like 1. The loss of this protein's function appears to cause the major features of the disorder by disrupting the normal development of the male reproductive system and the brain, particularly the brainstem.
+Research findings suggest that mutations in the
+TSPYL1
+gene are not associated with sudden infant death syndrome (SIDS) in the general population. SIDS is a major cause of death in children younger than 1 year.
+Learn more about the gene associated with Sudden infant death with dysgenesis of the testes syndrome
+TSPYL1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+SIDDT
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Sudden infant death-dysgenesis of the testes syndrome
+Genetic and Rare Diseases Information Center
+Sudden infant death-dysgenesis of the testes syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+SUDDEN INFANT DEATH WITH DYSGENESIS OF THE TESTES SYNDROME; SIDDT
+Scientific Articles on PubMed
+PubMed
+References
+Hering R, Frade-Martinez R, Bajanowski T, Poets CF, Tschentscher F, Riess O.
+Genetic investigation of the TSPYL1 gene in sudden infant death syndrome. Genet
+Med. 2006 Jan;8(1):55-8. doi: 10.1097/01.gim.0000195898.15290.03.
+Citation on PubMed
+Puffenberger EG, Hu-Lince D, Parod JM, Craig DW, Dobrin SE, Conway AR, Donarum
+EA, Strauss KA, Dunckley T, Cardenas JF, Melmed KR, Wright CA, Liang W, Stafford
+P, Flynn CR, Morton DH, Stephan DA. Mapping of sudden infant death with
+dysgenesis of the testes syndrome (SIDDT) by a SNP genome scan and identification
+of TSPYL loss of function. Proc Natl Acad Sci U S A. 2004 Aug
+10;101(32):11689-94. doi: 10.1073/pnas.0401194101. Epub 2004 Jul 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schubert S, Haas C, Bartsch C, Mirshekarnejad M, Kohrs S, Roettinger I,
+Grosshennig A, Stuhrmann M, Scholz C, Schmidtke J. Variants in TSPYL1 are not
+associated with sudden infant death syndrome in a cohort of deceased infants from
+Switzerland. Mol Cell Probes. 2015 Feb;29(1):31-4. doi:
+10.1016/j.mcp.2014.10.006. Epub 2014 Nov 4.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Sudden Infant Death Syndrome
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

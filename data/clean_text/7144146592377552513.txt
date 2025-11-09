@@ -1,0 +1,152 @@
+STING-associated vasculopathy with onset in infancy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+STING-associated vasculopathy with onset in infancy
+URL of this page: https://medlineplus.gov/genetics/condition/sting-associated-vasculopathy-with-onset-in-infancy/
+STING-associated vasculopathy with onset in infancy
+Description
+STING-associated vasculopathy with onset in infancy (SAVI) is a disorder involving abnormal
+inflammation
+throughout the body, especially in the
+skin
+,
+blood vessels
+, and
+lungs
+. Inflammation normally occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and help with tissue repair. Excessive inflammation damages the body's own cells and tissues. Disorders such as SAVI that result from abnormally increased inflammation are known as autoinflammatory diseases.
+The signs and symptoms of SAVI begin in the first few months of life, and most are related to problems with blood vessels (vasculopathy) and damage to the tissues that rely on these vessels for their blood supply. Affected infants develop areas of severely damaged skin (lesions), particularly on the face, ears, nose, fingers, and toes. These lesions begin as rashes and can progress to become wounds (ulcers) and dead tissue (necrosis). The skin problems, which worsen in cold weather, can lead to complications such as scarred ears, a hole in the tissue that separates the two nostrils (nasal septum perforation), or fingers or toes that require amputation. Individuals with SAVI also have a purplish skin discoloration (livedo reticularis) caused by abnormalities in the tiny blood vessels of the skin. Affected individuals may also experience episodes of
+Raynaud phenomenon
+, in which the fingers and toes turn white or blue in response to cold temperature or other stresses. This effect occurs because of problems with the small vessels that carry blood to the extremities.
+In addition to problems affecting the skin, people with SAVI have recurrent low-grade fevers and swollen
+lymph nodes
+. They may also develop widespread lung damage (interstitial lung disease) that can lead to the formation of scar tissue in the lungs (pulmonary fibrosis) and difficulty breathing; these respiratory complications can become life-threatening. Rarely, muscle inflammation (myositis) and joint stiffness also occur.
+Frequency
+The prevalence of this condition is unknown. Only a few affected individuals have been described in the medical literature.
+Causes
+SAVI is caused by mutations in the
+STING1
+gene. This gene provides instructions for making a protein called STING, which is involved in immune system function. STING helps produce beta-interferon, a member of a class of proteins called cytokines that promote inflammation.
+The
+STING1
+gene mutations that cause SAVI are described as "gain-of-function" mutations because they enhance the activity of the STING protein, leading to overproduction of beta-interferon. Abnormally high beta-interferon levels cause excessive inflammation that results in tissue damage, leading to the signs and symptoms of SAVI.
+Learn more about the gene associated with STING-associated vasculopathy with onset in infancy
+STING1
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, this condition likely results from
+new (de novo) mutations in the gene
+that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+SAVI
+STING-associated vasculopathy, infantile onset
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: STING-associated vasculopathy with onset in infancy
+Genetic and Rare Diseases Information Center
+STING-associated vasculopathy with onset in infancy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+STING-ASSOCIATED VASCULOPATHY, INFANTILE-ONSET; SAVI
+Scientific Articles on PubMed
+PubMed
+References
+Burdette DL, Monroe KM, Sotelo-Troha K, Iwig JS, Eckert B, Hyodo M, Hayakawa
+Y, Vance RE. STING is a direct innate immune sensor of cyclic di-GMP. Nature.
+2011 Sep 25;478(7370):515-8. doi: 10.1038/nature10429.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chen H, Sun H, You F, Sun W, Zhou X, Chen L, Yang J, Wang Y, Tang H, Guan Y,
+Xia W, Gu J, Ishikawa H, Gutman D, Barber G, Qin Z, Jiang Z. Activation of STAT6
+by STING is critical for antiviral innate immunity. Cell. 2011 Oct
+14;147(2):436-46. doi: 10.1016/j.cell.2011.09.022.
+Citation on PubMed
+Chiliveru S, Rahbek SH, Jensen SK, Jorgensen SE, Nissen SK, Christiansen SH,
+Mogensen TH, Jakobsen MR, Iversen L, Johansen C, Paludan SR. Inflammatory
+cytokines break down intrinsic immunological tolerance of human primary
+keratinocytes to cytosolic DNA. J Immunol. 2014 Mar 1;192(5):2395-404. doi:
+10.4049/jimmunol.1302120. Epub 2014 Jan 31.
+Citation on PubMed
+Ishikawa H, Barber GN. STING is an endoplasmic reticulum adaptor that
+facilitates innate immune signalling. Nature. 2008 Oct 2;455(7213):674-8. doi:
+10.1038/nature07317. Epub 2008 Aug 24.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ishikawa H, Barber GN. The STING pathway and regulation of innate immune
+signaling in response to DNA pathogens. Cell Mol Life Sci. 2011
+Apr;68(7):1157-65. doi: 10.1007/s00018-010-0605-2. Epub 2010 Dec 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ishikawa H, Ma Z, Barber GN. STING regulates intracellular DNA-mediated, type
+I interferon-dependent innate immunity. Nature. 2009 Oct 8;461(7265):788-92. doi:
+10.1038/nature08476. Epub 2009 Sep 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Liu Y, Jesus AA, Marrero B, Yang D, Ramsey SE, Sanchez GAM, Tenbrock K,
+Wittkowski H, Jones OY, Kuehn HS, Lee CR, DiMattia MA, Cowen EW, Gonzalez B,
+Palmer I, DiGiovanna JJ, Biancotto A, Kim H, Tsai WL, Trier AM, Huang Y, Stone
+DL, Hill S, Kim HJ, St Hilaire C, Gurprasad S, Plass N, Chapelle D,
+Horkayne-Szakaly I, Foell D, Barysenka A, Candotti F, Holland SM, Hughes JD,
+Mehmet H, Issekutz AC, Raffeld M, McElwee J, Fontana JR, Minniti CP, Moir S,
+Kastner DL, Gadina M, Steven AC, Wingfield PT, Brooks SR, Rosenzweig SD, Fleisher
+TA, Deng Z, Boehm M, Paller AS, Goldbach-Mansky R. Activated STING in a vascular
+and pulmonary syndrome. N Engl J Med. 2014 Aug 7;371(6):507-518. doi:
+10.1056/NEJMoa1312625. Epub 2014 Jul 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Paludan SR, Bowie AG. Immune sensing of DNA. Immunity. 2013 May
+23;38(5):870-80. doi: 10.1016/j.immuni.2013.05.004.
+Citation on PubMed
+or
+Free article on PubMed Central
+Xiao TS, Fitzgerald KA. The cGAS-STING pathway for DNA sensing. Mol Cell. 2013
+Jul 25;51(2):135-9. doi: 10.1016/j.molcel.2013.07.004.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Autoimmune Diseases
+Fever
+Genetic Disorders
+Interstitial Lung Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

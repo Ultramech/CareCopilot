@@ -1,0 +1,128 @@
+RNAse T2-deficient leukoencephalopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+RNAse T2-deficient leukoencephalopathy
+URL of this page: https://medlineplus.gov/genetics/condition/rnase-t2-deficient-leukoencephalopathy/
+RNAse T2-deficient leukoencephalopathy
+Description
+RNAse T2-deficient leukoencephalopathy is a disorder that affects the brain. People with RNAse T2-deficient leukoencephalopathy have neurological problems that become apparent during infancy; the problems generally do not worsen over time (progress). Most affected individuals have severe intellectual disability; muscle stiffness (spasticity); and a delay in developing motor skills such as sitting, crawling, and walking. Some do not learn to walk, and most do not develop the ability to speak. Other neurological features that can occur in RNAse T2-deficient leukoencephalopathy include hearing loss caused by abnormalities in the inner
+ear
+(sensorineural deafness), seizures, involuntary writhing movements of the hands (athetosis), uncontrolled muscle tensing (dystonia), and involuntary eye movements (nystagmus). In addition to the neurological problems associated with this disorder, some affected individuals have unusual facial features sometimes described as a "doll-like face."
+The neurological problems in this disorder are caused by abnormalities in the brain. People with this condition have leukoencephalopathy, an abnormality of the brain's white matter that can be detected with medical imaging. White matter consists of nerve fibers covered by a fatty substance called
+myelin
+. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses. In people with RNAse T2-deficient leukoencephalopathy, myelin is not made in sufficient amounts during development, leading to patchy white matter abnormalities (lesions) in the brain. In addition, individuals with RNAse T2-deficient leukoencephalopathy may have cysts in regions of the brain called the
+temporal lobes
+and enlargement of the fluid-filled cavities (ventricles) near the center of the brain. The white matter lesions are primarily concentrated around the cysts and the ventricles. An abnormally small head and brain size (
+microcephaly
+) often occurs in this disorder.
+Frequency
+The prevalence of RNAse T2-deficient leukoencephalopathy is unknown. About 50 people with the signs and symptoms of this disorder have been described in the medical literature. However, only about a quarter of these individuals have been confirmed to have the same genetic change that causes RNAse T2-deficient leukoencephalopathy. Researchers suggest that additional genetic changes or other causes may also result in the same pattern of signs and symptoms (phenotype).
+Causes
+RNAse T2-deficient leukoencephalopathy is caused by variants (also called mutations) in the
+RNASET2
+gene. This gene provides instructions for making a protein called ribonuclease T2 (RNAse T2), which is normally abundant in the brain. Ribonucleases help break down RNA, a chemical cousin of DNA. Studies suggest that ribonuclease T2 may also be involved in other functions within cells, such as controlling the development of blood vessels (angiogenesis) and helping to suppress the growth of cancerous tumors. These potential roles of the protein are not well understood.
+The
+RNASET2
+gene variants that cause RNAse T2-deficient leukoencephalopathy result in loss of ribonuclease T2 protein function. It is unknown how loss of this protein results in brain abnormalities and neurological problems. Researchers have noted that the signs and symptoms of RNAse T2-deficient leukoencephalopathy are similar to those resulting from infection with a particular virus, called cytomegalovirus (CMV), when it is transmitted to a fetus during pregnancy (congenital CMV). They are seeking to understand how the viral infection, or the body's response to it, and the loss of ribonuclease T2 function could have similar effects on the developing brain. It is thought that both may be related to changes in angiogenesis or an immune system response to RNA that has not been properly broken down.
+Learn more about the gene associated with RNAse T2-deficient leukoencephalopathy
+RNASET2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Cystic leukoencephalopathy without megalencephaly
+LBATC
+Leukoencephalopathy with bilateral anterior temporal lobe cysts
+RNASET2-deficient cystic leukoencephalopathy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cystic leukoencephalopathy without megalencephaly
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+LEUKOENCEPHALOPATHY, CYSTIC, WITHOUT MEGALENCEPHALY
+Scientific Articles on PubMed
+PubMed
+References
+Battini R, Bianchi MC, Tosetti M, Guzzetta A, Cioni G. Leukoencephalopathy
+with bilateral anterior temporal lobe cysts: a further case of this new entity. J
+Child Neurol. 2002 Oct;17(10):773-6. doi: 10.1177/08830738020170101803.
+Citation on PubMed
+Bodensteiner JB, Kerrigan JF, Johnsen SD. Leukoencephalopathy with bilateral
+anterior temporal lobe cysts. J Child Neurol. 2006 May;21(5):419-22. doi:
+10.1177/08830738060210050401.
+Citation on PubMed
+Faria EC, Arita JH, Peruchi MM, Lin J, Masruha MR, Vilanova LC. Cystic
+leukoencephalopathy without megalencephaly. Arq Neuropsiquiatr. 2008
+Jun;66(2A):261-3. doi: 10.1590/s0004-282x2008000200027. No abstract available.
+Citation on PubMed
+Grosso S, Cerase A, De Stefano N, Marco LD, Galluzzi P, Galimberti D, Morgese
+G, Balestri P. Non-progressive leukoencephalopathy with bilateral anterior
+temporal cysts: a case report and review of the literature. Brain Dev. 2005
+Jan;27(1):73-7. doi: 10.1016/j.braindev.2004.04.009.
+Citation on PubMed
+Henneke M, Diekmann S, Ohlenbusch A, Kaiser J, Engelbrecht V, Kohlschutter A,
+Kratzner R, Madruga-Garrido M, Mayer M, Opitz L, Rodriguez D, Ruschendorf F,
+Schumacher J, Thiele H, Thoms S, Steinfeld R, Nurnberg P, Gartner J.
+RNASET2-deficient cystic leukoencephalopathy resembles congenital cytomegalovirus
+brain infection. Nat Genet. 2009 Jul;41(7):773-5. doi: 10.1038/ng.398. Epub 2009
+Jun 14.
+Citation on PubMed
+Henneke M, Preuss N, Engelbrecht V, Aksu F, Bertini E, Bibat G, Brockmann K,
+Hubner C, Mayer M, Mejaski-Bosnjak V, Naidu S, Neumaier-Probst E, Rodriguez D,
+Weisz W, Kohlschutter A, Gartner J. Cystic leukoencephalopathy without
+megalencephaly: a distinct disease entity in 15 children. Neurology. 2005 Apr
+26;64(8):1411-6. doi: 10.1212/01.WNL.0000158472.82823.01.
+Citation on PubMed
+Olivier M, Lenard HG, Aksu F, Gartner J. A new leukoencephalopathy with
+bilateral anterior temporal lobe cysts. Neuropediatrics. 1998 Oct;29(5):225-8.
+doi: 10.1055/s-2007-973566.
+Citation on PubMed
+Tonduti D, Orcesi S, Jenkinson EM, Dorboz I, Renaldo F, Panteghini C, Rice GI,
+Henneke M, Livingston JH, Elmaleh M, Burglen L, Willemsen MA, Chiapparini L,
+Garavaglia B, Rodriguez D, Boespflug-Tanguy O, Moroni I, Crow YJ. Clinical,
+radiological and possible pathological overlap of cystic leukoencephalopathy
+without megalencephaly and Aicardi-Goutieres syndrome. Eur J Paediatr Neurol.
+2016 Jul;20(4):604-10. doi: 10.1016/j.ejpn.2016.03.009. Epub 2016 Apr 7.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Leukodystrophies
+MEDICAL ENCYCLOPEDIA
+Genetics
+Head MRI
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

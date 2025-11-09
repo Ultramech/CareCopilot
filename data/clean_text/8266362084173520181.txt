@@ -1,0 +1,148 @@
+CHMP2B-related frontotemporal dementia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+CHMP2B-related frontotemporal dementia
+URL of this page: https://medlineplus.gov/genetics/condition/chmp2b-related-frontotemporal-dementia/
+CHMP2B-related frontotemporal dementia
+Description
+CHMP2B
+-related frontotemporal dementia is a progressive brain disorder that affects personality, behavior, and language. The symptoms of this disorder usually become noticeable in a person's fifties or sixties, and affected people survive about 3 to 21 years after the appearance of symptoms.
+Changes in personality and behavior are the most common early signs of
+CHMP2B
+-related frontotemporal dementia. These changes include inappropriate emotional responses, restlessness, loss of initiative, and neglect of personal hygiene. Affected individuals may overeat sweet foods or place non-food items into their mouths (hyperorality). Additionally, it may become difficult for affected individuals to interact with others in a socially appropriate manner. They increasingly require help with personal care and other activities of daily living.
+Many people with
+CHMP2B
+-related frontotemporal dementia develop progressive problems with speech and language (aphasia). They may have trouble speaking, although they can often understand others' speech and written text. Affected individuals may also have difficulty using numbers (dyscalculia). In the later stages of the disease, many completely lose the ability to communicate.
+Several years after signs and symptoms first appear, some people with
+CHMP2B
+-related frontotemporal dementia develop problems with movement. These movement abnormalities include rigidity, tremors, uncontrolled muscle tensing (dystonia), and involuntary muscle spasms (myoclonus). As the disease progresses, most affected individuals become unable to walk.
+Frequency
+CHMP2B
+-related frontotemporal dementia has been reported in one large family in Denmark and a few unrelated individuals from other countries. This disease appears to be a rare form of frontotemporal dementia.
+Causes
+CHMP2B
+-related frontotemporal dementia results from mutations in the
+CHMP2B
+gene. This gene provides instructions for making a protein called charged multivesicular body protein 2B. This protein is active in the brain, where it plays an essential role in transporting proteins that need to be broken down (degraded).
+Mutations in the
+CHMP2B
+gene lead to the production of an abnormal version of charged multivesicular body protein 2B. Most of the mutations that cause
+CHMP2B
+-related frontotemporal dementia result in the production of an abnormal protein that is missing a critical segment at one end. This segment keeps the protein turned off (inactive) when it is not needed. Without this segment, the protein is constantly turned on (active), which disrupts the transport and degradation of other proteins. These abnormalities ultimately lead to the death of nerve cells (neurons) in the brain.
+A gradual loss of neurons throughout the brain is characteristic of
+CHMP2B
+-related frontotemporal dementia. Many of the features of this disease result from neuronal death in regions near the front of the
+brain
+called the frontal and temporal lobes. The frontal lobes are involved in reasoning, planning, judgment, and problem-solving, while the temporal lobes help process hearing, speech, memory, and emotion. It is unclear why the signs and symptoms of this disease are related primarily to the frontal and temporal lobes.
+Learn more about the gene associated with CHMP2B-related frontotemporal dementia
+CHMP2B
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Chromosome 3-linked frontotemporal dementia
+DTM1
+FTD-3
+FTD-CHMP2B
+FTD3
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Frontotemporal dementia and/or amyotrophic lateral sclerosis 7
+Genetic and Rare Diseases Information Center
+Frontotemporal dementia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+FRONTOTEMPORAL DEMENTIA AND/OR AMYOTROPHIC LATERAL SCLEROSIS 7; FTDALS7
+Scientific Articles on PubMed
+PubMed
+References
+Brown J, Ashworth A, Gydesen S, Sorensen A, Rossor M, Hardy J, Collinge J.
+Familial non-specific dementia maps to chromosome 3. Hum Mol Genet. 1995
+Sep;4(9):1625-8. doi: 10.1093/hmg/4.9.1625.
+Citation on PubMed
+Brown J, Gydesen S, Johannsen P, Gade A, Skibinski G, Chakrabarti L, Brun A,
+Spillantini M, Yancopoulou D, Thusgaard T, Sorensen A, Fisher E, Collinge J;
+FReJA (Frontotemporal Dementia Research in Jutland Association). Frontotemporal
+dementia linked to chromosome 3. Dement Geriatr Cogn Disord. 2004;17(4):274-6.
+doi: 10.1159/000077153.
+Citation on PubMed
+Brown J. Chromosome 3-linked frontotemporal dementia. Cell Mol Life Sci. 1998
+Sep;54(9):925-7. doi: 10.1007/s000180050222.
+Citation on PubMed
+Gydesen S, Brown JM, Brun A, Chakrabarti L, Gade A, Johannsen P, Rossor M,
+Thusgaard T, Grove A, Yancopoulou D, Spillantini MG, Fisher EM, Collinge J,
+Sorensen SA. Chromosome 3 linked frontotemporal dementia (FTD-3). Neurology. 2002
+Nov 26;59(10):1585-94. doi: 10.1212/01.wnl.0000034763.54161.1f.
+Citation on PubMed
+Holm IE, Englund E, Mackenzie IR, Johannsen P, Isaacs AM. A reassessment of
+the neuropathology of frontotemporal dementia linked to chromosome 3. J
+Neuropathol Exp Neurol. 2007 Oct;66(10):884-91. doi:
+10.1097/nen.0b013e3181567f02.
+Citation on PubMed
+Lindquist SG, Braedgaard H, Svenstrup K, Isaacs AM, Nielsen JE; FReJA
+Consortium. Frontotemporal dementia linked to chromosome 3 (FTD-3)--current
+concepts and the detection of a previously unknown branch of the Danish FTD-3
+family. Eur J Neurol. 2008 Jul;15(7):667-70. doi:
+10.1111/j.1468-1331.2008.02144.x. Epub 2008 May 15.
+Citation on PubMed
+Roos P, Holm IE, Nielsen JE, Nielsen TT, Brown JM, Johannsen P, Isaacs AM.
+CHMP2B Frontotemporal Dementia. 2007 Aug 23 [updated 2020 Jul 2]. In:
+Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1199/
+Citation on PubMed
+Skibinski G, Parkinson NJ, Brown JM, Chakrabarti L, Lloyd SL, Hummerich H,
+Nielsen JE, Hodges JR, Spillantini MG, Thusgaard T, Brandner S, Brun A, Rossor
+MN, Gade A, Johannsen P, Sorensen SA, Gydesen S, Fisher EM, Collinge J. Mutations
+in the endosomal ESCRTIII-complex subunit CHMP2B in frontotemporal dementia. Nat
+Genet. 2005 Aug;37(8):806-8. doi: 10.1038/ng1609. Epub 2005 Jul 24.
+Citation on PubMed
+van der Zee J, Urwin H, Engelborghs S, Bruyland M, Vandenberghe R, Dermaut B,
+De Pooter T, Peeters K, Santens P, De Deyn PP, Fisher EM, Collinge J, Isaacs AM,
+Van Broeckhoven C. CHMP2B C-truncating mutations in frontotemporal lobar
+degeneration are associated with an aberrant endosomal phenotype in vitro. Hum
+Mol Genet. 2008 Jan 15;17(2):313-22. doi: 10.1093/hmg/ddm309. Epub 2007 Oct 22.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Dementia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Dementia
+Genetics
+Lobes of the Brain (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

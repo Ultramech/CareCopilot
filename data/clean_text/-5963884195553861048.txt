@@ -1,0 +1,130 @@
+Free sialic acid storage disorder: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Free sialic acid storage disorder
+URL of this page: https://medlineplus.gov/genetics/condition/free-sialic-acid-storage-disorder/
+Free sialic acid storage disorder
+Description
+Free sialic acid storage disorder (FSASD) is an inherited condition that primarily affects the brain and spinal cord (central nervous system). The signs and symptoms of FSASD can vary from person to person, and the condition is often divided into three forms based on the severity of these features.
+The severe form of FSASD is called infantile free sialic acid storage disease or ISSD. The signs and symptoms of this form typically appear in infancy. In some cases, a condition called hydrops fetalis, in which excess fluid accumulates in the body, occurs before or soon after birth. Babies with the severe form of FSASD typically have severe developmental delays, weak muscle tone (hypotonia), and an inability to gain weight and grow at the expected rate (failure to thrive). Additional signs and symptoms may include unusual facial features that are often described as "coarse," bone malformations, an enlarged liver and spleen (hepatosplenomegaly), an enlarged heart (cardiomegaly), and seizures. Respiratory infections are common and can be life-threatening; children with the severe form of FSASD typically only survive into early childhood.
+Children with the least severe form of FSASD, also called Salla disease, may not have the signs and symptoms of the condition at birth. The age at which people develop the signs and symptoms of Salla disease can vary, but hypotonia usually appears during the first year of life. People with Salla disease typically have intellectual disabilities and developmental delays, which can make it difficult for them to learn to walk and talk. Additional signs and symptoms include problems with movement and balance (ataxia); abnormal tensing of the muscles (spasticity); and involuntary slow, writhing movements of the limbs (athetosis). Signs and symptoms typically worsen over time. Although life expectancy may be shortened, individuals with Salla disease often survive into adulthood.
+People with the intermediate form of FSASD, also called intermediate severe Salla disease, have signs and symptoms that are typically more severe than the signs and symptoms seen in people with Salla disease and less severe than those seen in people with ISSD.
+Frequency
+Fewer than 300 people with FSASD have been reported in the medical literature. Salla disease is more common among people of Finnish and Swedish descent and has been reported in approximately 150 people.
+Causes
+Variants (also called mutations) in the
+SLC17A5
+gene cause all the forms of FSASD. This gene provides instructions for producing a protein called sialin. This protein is located on the membranes of
+lysosomes
+, which are compartments in the cell that digest and recycle different types of molecules.
+Sialin moves (transports) a molecule called free sialic acid to other parts of the cell. Sialic acid is produced when fats and proteins are broken down, and it plays an important role in cell communication and in the attachment of cells to one another (adhesion). Sialic acid is "free" when it is not attached (bound) to other molecules.
+Some
+SLC17A5
+gene variants cause cells to produce a sialin protein that does not function properly; others prevent sialin from being produced. In a few cases, sialin is produced but cannot travel to the lysosomal membrane where it is needed.
+SLC17A5
+gene variants that alter or eliminate sialin activity cause free sialic acid to build up in the lysosomes. It is not known exactly how this buildup causes the neurologic signs and symptoms of FSASD.
+FSASD belongs to a large family of conditions called lysosomal storage disorders. Each of these disorders is caused by the deficiency of a specific lysosomal enzyme or protein.
+Learn more about the gene associated with Free sialic acid storage disorder
+SLC17A5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+FSASD
+Sialic acid storage disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Salla disease
+Genetic Testing Registry: Sialic acid storage disease, severe infantile type
+Genetic and Rare Diseases Information Center
+Free sialic acid storage disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INFANTILE SIALIC ACID STORAGE DISEASE; ISSD
+SALLA DISEASE; SD
+Scientific Articles on PubMed
+PubMed
+References
+Adams D, Huizing M, Wasserstein M. Free Sialic Acid Storage Disorder. 2003 Jun
+13 [updated 2025 Jun 26]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace
+SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1470/
+Citation on PubMed
+Aula N, Kopra O, Jalanko A, Peltonen L. Sialin expression in the CNS
+implicates extralysosomal function in neurons. Neurobiol Dis. 2004
+Mar;15(2):251-61. doi: 10.1016/j.nbd.2003.11.017.
+Citation on PubMed
+Barmherzig R, Bullivant G, Cordeiro D, Sinasac DS, Blaser S,
+Mercimek-Mahmutoglu S. A New Patient With Intermediate Severe Salla Disease With
+Hypomyelination: A Literature Review for Salla Disease. Pediatr Neurol. 2017
+Sep;74:87-91.e2. doi: 10.1016/j.pediatrneurol.2017.05.022. Epub 2017 Jun 1.
+Citation on PubMed
+Eskelinen EL, Tanaka Y, Saftig P. At the acidic edge: emerging functions for
+lysosomal membrane proteins. Trends Cell Biol. 2003 Mar;13(3):137-45. doi:
+10.1016/s0962-8924(03)00005-9.
+Citation on PubMed
+Huizing M, Hackbarth ME, Adams DR, Wasserstein M, Patterson MC, Walkley SU,
+Gahl WA; FSASD Consortium. Free sialic acid storage disorder: Progress and
+promise. Neurosci Lett. 2021 Jun 11;755:135896. doi:
+10.1016/j.neulet.2021.135896. Epub 2021 Apr 20.
+Citation on PubMed
+Lemyre E, Russo P, Melancon SB, Gagne R, Potier M, Lambert M. Clinical
+spectrum of infantile free sialic acid storage disease. Am J Med Genet. 1999 Feb
+19;82(5):385-91.
+Citation on PubMed
+Mach L. Biosynthesis of lysosomal proteinases in health and disease. Biol
+Chem. 2002 May;383(5):751-6. doi: 10.1515/BC.2002.078.
+Citation on PubMed
+Morin P, Sagne C, Gasnier B. Functional characterization of wild-type and
+mutant human sialin. EMBO J. 2004 Nov 24;23(23):4560-70. doi:
+10.1038/sj.emboj.7600464. Epub 2004 Oct 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Suwannarat P. Disorders of free sialic acid. Mol Genet Metab. 2005
+Jun;85(2):85-7. doi: 10.1016/j.ymgme.2005.04.005. No abstract available.
+Citation on PubMed
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Metabolic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

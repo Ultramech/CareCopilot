@@ -1,0 +1,154 @@
+Smith-Kingsmore syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Smith-Kingsmore syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/smith-kingsmore-syndrome/
+Smith-Kingsmore syndrome
+Description
+Smith-Kingsmore syndrome is a neurological disorder characterized by a head that is larger than normal (
+macrocephaly
+), intellectual disability, and seizures. In some people with this condition, the ability to speak is delayed or never develops. Some children with Smith-Kingsmore syndrome have neurodevelopmental conditions known as
+attention-deficit/hyperactivity disorder
+(ADHD) and
+autism spectrum disorder
+, which is characterized by impaired communication and social interaction. Structural brain abnormalities may also be present in affected individuals. For example, one or both sides of the brain may be enlarged (hemimegalencephaly or megalencephaly) or have too many ridges on the surface (
+polymicrogyria
+), or the fluid-filled spaces near the center of the brain (ventricles) may be bigger than normal (ventriculomegaly).
+Many people with Smith-Kingsmore syndrome have unusual facial features, such as a
+triangular face
+with a pointed chin, a protruding forehead (
+frontal bossing
+), widely spaced eyes (
+hypertelorism
+) with outside corners that point downward (downslanting palpebral fissures), a
+flat nasal bridge
+, or a long space between the nose and upper lip (
+long philtrum
+). However, not everyone with Smith-Kingsmore syndrome has distinctive facial features.
+Frequency
+Smith-Kingsmore syndrome is a rare condition with an unknown prevalence.
+Causes
+Mutations in a gene called
+MTOR
+cause Smith-Kingsmore syndrome. The protein produced from this gene, called mTOR, is a key piece of two groups of proteins, known as mTOR complex 1 (mTORC1) and mTOR complex2 (mTORC2). These two complexes relay signals inside cells that regulate protein production and control several cellular processes, including growth, division, and survival. This mTOR signaling is especially important for growth and development of the brain, and it plays a role in a process called synaptic plasticity, which is the ability of the connections between nerve cells (
+synapses
+) to change and adapt over time in response to experience. Synaptic plasticity is critical for learning and memory.
+MTOR
+gene mutations that cause Smith-Kingsmore syndrome increase the activity of the mTOR protein and, consequently, mTOR signaling. As a result, protein production normally regulated by these complexes is uncontrolled, which impacts cell growth and division and other cellular processes. Too much mTOR signaling in brain cells disrupts brain growth and development and synaptic plasticity, leading to
+macrocephaly
+, intellectual disability, seizures, and other neurological problems in people with Smith-Kingsmore syndrome. Excessive mTOR signaling in other parts of the body likely underlies the unusual facial features and other less common signs and symptoms of the condition. It is unclear why the brain is particularly affected in people with Smith-Kingsmore syndrome.
+Learn more about the gene associated with Smith-Kingsmore syndrome
+MTOR
+Inheritance
+Smith-Kingsmore syndrome follows an
+autosomal dominant inheritance pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual’s parent or in early embryonic development. Rarely, people with Smith-Kingsmore syndrome inherit the altered gene from an unaffected parent who has an
+MTOR
+gene mutation only in their sperm or egg cells. This phenomenon is called germline mosaicism.
+Other Names for This Condition
+Macrocephaly, seizures, intellectual disability, umbilical hernia, and facial dysmorphism
+Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome
+MINDS syndrome
+SKS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome
+Genetic and Rare Diseases Information Center
+Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SMITH-KINGSMORE SYNDROME; SKS
+Scientific Articles on PubMed
+PubMed
+References
+Gordo G, Tenorio J, Arias P, Santos-Simarro F, Garcia-Minaur S, Moreno JC,
+Nevado J, Vallespin E, Rodriguez-Laguna L, de Mena R, Dapia I, Palomares-Bralo M,
+Del Pozo A, Ibanez K, Silla JC, Barroso E, Ruiz-Perez VL, Martinez-Glez V,
+Lapunzina P. mTOR mutations in Smith-Kingsmore syndrome: Four additional patients
+and a review. Clin Genet. 2018 Apr;93(4):762-775. doi: 10.1111/cge.13135. Epub
+2018 Feb 13.
+Citation on PubMed
+Hoeffer CA, Klann E. mTOR signaling: at the crossroads of plasticity, memory
+and disease. Trends Neurosci. 2010 Feb;33(2):67-75. doi:
+10.1016/j.tins.2009.11.003. Epub 2009 Dec 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jhanwar-Uniyal M, Amin AG, Cooper JB, Das K, Schmidt MH, Murali R. Discrete
+signaling mechanisms of mTORC1 and mTORC2: Connected yet apart in cellular and
+molecular aspects. Adv Biol Regul. 2017 May;64:39-48. doi:
+10.1016/j.jbior.2016.12.001. Epub 2017 Jan 4.
+Citation on PubMed
+Mirzaa GM, Campbell CD, Solovieff N, Goold C, Jansen LA, Menon S, Timms AE,
+Conti V, Biag JD, Adams C, Boyle EA, Collins S, Ishak G, Poliachik S, Girisha KM,
+Yeung KS, Chung BHY, Rahikkala E, Gunter SA, McDaniel SS, Macmurdo CF, Bernstein
+JA, Martin B, Leary R, Mahan S, Liu S, Weaver M, Doerschner M, Jhangiani S, Muzny
+DM, Boerwinkle E, Gibbs RA, Lupski JR, Shendure J, Saneto RP, Novotny EJ, Wilson
+CJ, Sellers WR, Morrissey M, Hevner RF, Ojemann JG, Guerrini R, Murphy LO,
+Winckler W, Dobyns WB. Association of MTOR Mutations With Developmental Brain
+Disorders, Including Megalencephaly, Focal Cortical Dysplasia, and Pigmentary
+Mosaicism. JAMA Neurol. 2016 Jul 1;73(7):836-845. doi:
+10.1001/jamaneurol.2016.0363.
+Citation on PubMed
+or
+Free article on PubMed Central
+Moller RS, Weckhuysen S, Chipaux M, Marsan E, Taly V, Bebin EM, Hiatt SM,
+Prokop JW, Bowling KM, Mei D, Conti V, de la Grange P, Ferrand-Sorbets S,
+Dorfmuller G, Lambrecq V, Larsen LH, Leguern E, Guerrini R, Rubboli G, Cooper GM,
+Baulac S. Germline and somatic mutations in the MTOR gene in focal
+cortical dysplasia and epilepsy. Neurol Genet. 2016 Oct 31;2(6):e118. doi:
+10.1212/NXG.0000000000000118. eCollection 2016 Dec.
+Citation on PubMed
+or
+Free article on PubMed Central
+Moosa S, Bohrer-Rabel H, Altmuller J, Beleggia F, Nurnberg P, Li Y, Yigit G,
+Wollnik B. Smith-Kingsmore syndrome: A third family with the MTOR mutation
+c.5395G>A p.(Glu1799Lys) and evidence for paternal gonadal mosaicism. Am J Med
+Genet A. 2017 Jan;173(1):264-267. doi: 10.1002/ajmg.a.37999. Epub 2016 Oct 18.
+Citation on PubMed
+Related Health Topics
+Brain Malformations
+Developmental Disabilities
+Genetic Disorders
+Learning Disabilities
+Seizures
+MEDICAL ENCYCLOPEDIA
+Genetics
+Increased head circumference
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

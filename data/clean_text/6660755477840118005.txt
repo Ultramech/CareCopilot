@@ -1,0 +1,121 @@
+Harlequin ichthyosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Harlequin ichthyosis
+URL of this page: https://medlineplus.gov/genetics/condition/harlequin-ichthyosis/
+Harlequin ichthyosis
+Description
+Harlequin ichthyosis is a severe genetic disorder that affects the skin. Infants with this condition are born prematurely with very hard, thick skin covering most of their bodies. The skin forms large, diamond-shaped plates that are separated by deep cracks (fissures). These skin abnormalities affect the shape of the eyelids, nose, mouth, and ears, and limit movement of the arms and legs. Restricted movement of the chest can lead to breathing difficulties and respiratory failure in babies with harlequin ichthyosis. Affected infants also have feeding problems.
+The skin normally forms a protective barrier between the body and its surrounding environment. The skin abnormalities associated with harlequin ichthyosis disrupt this barrier, making it difficult for affected infants to control water loss, regulate their body temperature, and fight infections. Infants with harlequin ichthyosis often experience an excessive loss of fluids (dehydration) and develop life-threatening infections in the first few weeks of life.
+Following the newborn period, the hard, skin plates are shed and the skin develops widespread scales and redness.
+It used to be very rare for affected infants to survive the newborn period. However, with intensive medical support and improved treatment, babies with this disorder now have a better chance of living into childhood and early adulthood.
+Frequency
+Harlequin ichthyosis is very rare; its exact incidence is unknown.
+Causes
+Variants (also known as mutations) in the
+ABCA12
+gene cause harlequin ichthyosis. The
+ABCA12
+gene provides instructions for making a protein that is essential for the normal development of skin cells. This protein plays a major role in the transport of fats (lipids) and enzymes in the outermost layer of skin (the epidermis).
+Some variants in the
+ABCA12
+gene prevent the cell from making any ABCA12 protein. Other variants lead to the production of an abnormally small version of the protein that cannot transport lipids properly. A loss of functional ABCA12 protein disrupts the normal development of the epidermis before and after birth, resulting in the severe skin abnormalities characteristic of harlequin ichthyosis.
+Learn more about the gene associated with Harlequin ichthyosis
+ABCA12
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Autosomal recessive congenital ichthyosis 4B
+Harlequin baby syndrome
+HI
+Ichthyosis congenita, harlequin fetus type
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal recessive congenital ichthyosis 4B
+Genetic and Rare Diseases Information Center
+Harlequin ichthyosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 4B; ARCI4B
+Scientific Articles on PubMed
+PubMed
+References
+Hovnanian A. Harlequin ichthyosis unmasked: a defect of lipid transport. J
+Clin Invest. 2005 Jul;115(7):1708-10. doi: 10.1172/JCI25736.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kelsell DP, Norgett EE, Unsworth H, Teh MT, Cullup T, Mein CA,
+Dopping-Hepenstal PJ, Dale BA, Tadini G, Fleckman P, Stephens KG, Sybert VP,
+Mallory SB, North BV, Witt DR, Sprecher E, Taylor AE, Ilchyshyn A, Kennedy CT,
+Goodyear H, Moss C, Paige D, Harper JI, Young BD, Leigh IM, Eady RA, O'Toole EA.
+Mutations in ABCA12 underlie the severe congenital skin disease harlequin
+ichthyosis. Am J Hum Genet. 2005 May;76(5):794-803. doi: 10.1086/429844. Epub
+2005 Mar 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rajpopat S, Moss C, Mellerio J, Vahlquist A, Ganemo A, Hellstrom-Pigg M,
+Ilchyshyn A, Burrows N, Lestringant G, Taylor A, Kennedy C, Paige D, Harper J,
+Glover M, Fleckman P, Everman D, Fouani M, Kayserili H, Purvis D, Hobson E, Chu
+C, Mein C, Kelsell D, O'Toole E. Harlequin ichthyosis: a review of clinical and
+molecular findings in 45 cases. Arch Dermatol. 2011 Jun;147(6):681-6. doi:
+10.1001/archdermatol.2011.9. Epub 2011 Feb 21.
+Citation on PubMed
+Richard G. Autosomal Recessive Congenital Ichthyosis. 2001 Jan 10 [updated
+2023 Apr 20]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1420/
+Citation on PubMed
+Thomas AC, Cullup T, Norgett EE, Hill T, Barton S, Dale BA, Sprecher E,
+Sheridan E, Taylor AE, Wilroy RS, DeLozier C, Burrows N, Goodyear H, Fleckman P,
+Stephens KG, Mehta L, Watson RM, Graham R, Wolf R, Slavotinek A, Martin M, Bourn
+D, Mein CA, O'Toole EA, Kelsell DP. ABCA12 is the major harlequin ichthyosis
+gene. J Invest Dermatol. 2006 Nov;126(11):2408-13. doi: 10.1038/sj.jid.5700455.
+Epub 2006 Aug 10.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

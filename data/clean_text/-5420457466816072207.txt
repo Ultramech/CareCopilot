@@ -1,0 +1,153 @@
+Bosma arhinia microphthalmia syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Bosma arhinia microphthalmia syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/bosma-arhinia-microphthalmia-syndrome/
+Bosma arhinia microphthalmia syndrome
+Description
+Bosma arhinia
+microphthalmia
+syndrome (BAMS) is a rare condition characterized by abnormalities of the nose and eyes and problems with puberty.
+The key feature of BAMS is arhinia, which is the absence of an external nose. While most people with BAMS are born without a nose, some affected individuals have a severely underdeveloped (hypoplastic) nose. Affected individuals may also be missing the brain structure involved in the sense of smell (
+olfactory bulb
+). Because of these abnormalities, people with BAMS have an impaired ability to smell and, consequently, to taste.
+In most people with BAMS, the eyeballs are abnormally small (microphthalmia) or absent (anophthalmia), which causes severe vision impairment or blindness. Additional eye abnormalities common in BAMS include a gap or hole in one of several structures of the eye (
+coloboma
+) and clouding of the lenses of the eyes (
+cataracts
+).
+Additional head and face abnormalities that can occur in people with BAMS include a high arch or opening in the roof of the mouth (
+high-arched
+or
+cleft palate
+), absence of the sinuses behind the nose (
+paranasal sinuses
+), blockage of the nasal passages (choanal atresia), narrowing of the tear ducts (nasolacrimal duct stenosis), or a small upper jaw (hypoplastic maxilla). Many of these abnormalities contribute to difficulty breathing, particularly in affected babies. Some affected individuals have abnormal external ears.
+Individuals with BAMS also have hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development. Without treatment, these hormone problems often result in delayed puberty. Affected males may also have underdeveloped reproductive tissues and undescended testes (cryptorchidism).
+Frequency
+BAMS is a very rare condition with an unknown prevalence. Fewer than 100 cases of the condition have been described in the medical literature. BAMS has been found in several different populations.
+Causes
+BAMS is usually caused by mutations in the
+SMCHD1
+gene. Other, unknown genes may be rare causes of the condition.
+The
+SMCHD1
+gene provides instructions for making a protein involved in regulating gene activity by altering the structure of DNA. Specifically, the SMCHD1 protein plays a role in turning off (silencing) certain genes. Among other functions, the SMCHD1 protein appears to be important for development of the nose, eyes, and other structures of the head and face.
+Researchers are unsure how
+SMCHD1
+gene mutations affect the protein's function and lead to the development problems characteristic of BAMS. Changes in this gene may lead to abnormal silencing of genes involved in development of the head and face, which could underlie
+arhinia
+, microphthalmia, and other characteristic facial abnormalities of BAMS. Problems with nasal development may affect gonadotropin-releasing hormone (GnRH) neurons, which are nerve cells that control the release of reproductive hormones. GnRH neurons originate in the developing nose and then move to the brain. Impaired development of these neurons could explain hypogonadotropic hypogonadism in affected individuals.
+Some people with an
+SMCHD1
+gene mutation have arhinia without other features of BAMS (isolated arhinia) or less severe abnormalities of the nose, leading researchers to suspect that additional genetic factors contribute to the severity of the symptoms. These additional factors are not yet known.
+Learn more about the gene associated with Bosma arhinia microphthalmia syndrome
+SMCHD1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered
+SMCHD1
+gene in each cell is sufficient to cause the disorder.
+Most cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family. In some cases, an affected person inherits the mutation from one affected parent. The parent often has milder symptoms, such as a reduced sense of smell (anosmia), arhinia without other features of BAMS, or less severe abnormalities of the nose.
+Other Names for This Condition
+Arhinia choanal atresia microphthalmia
+Arhinia, choanal atresia, and microphthalmia
+Arhinia, choanal atresia, microphthalmia, and hypogonadotropic hypogonadism
+BAM syndrome
+BAMS
+Bosma syndrome
+Gifford-Bosma syndrome
+Hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome
+Ruprecht Majewski syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Arrhinia with choanal atresia and microphthalmia syndrome
+Genetic and Rare Diseases Information Center
+Arrhinia-choanal atresia-microphthalmia syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+BOSMA ARHINIA MICROPHTHALMIA SYNDROME; BAMS
+Scientific Articles on PubMed
+PubMed
+References
+Brasseur B, Martin CM, Cayci Z, Burmeister L, Schimmenti LA. Bosma arhinia
+microphthalmia syndrome: Clinical report and review of the literature. Am J Med
+Genet A. 2016 May;170A(5):1302-7. doi: 10.1002/ajmg.a.37572. Epub 2016 Feb 3.
+Citation on PubMed
+Gordon CT, Xue S, Yigit G, Filali H, Chen K, Rosin N, Yoshiura KI, Oufadem M,
+Beck TJ, McGowan R, Magee AC, Altmuller J, Dion C, Thiele H, Gurzau AD, Nurnberg
+P, Meschede D, Muhlbauer W, Okamoto N, Varghese V, Irving R, Sigaudy S, Williams
+D, Ahmed SF, Bonnard C, Kong MK, Ratbi I, Fejjal N, Fikri M, Elalaoui SC,
+Reigstad H, Bole-Feysot C, Nitschke P, Ragge N, Levy N, Tuncbilek G, Teo AS,
+Cunningham ML, Sefiani A, Kayserili H, Murphy JM, Chatdokmaiprai C, Hillmer AM,
+Wattanasirichaigoon D, Lyonnet S, Magdinier F, Javed A, Blewitt ME, Amiel J,
+Wollnik B, Reversade B. De novo mutations in SMCHD1 cause Bosma arhinia
+microphthalmia syndrome and abrogate nasal development. Nat Genet. 2017
+Feb;49(2):249-255. doi: 10.1038/ng.3765. Epub 2017 Jan 9.
+Citation on PubMed
+Jansz N, Chen K, Murphy JM, Blewitt ME. The Epigenetic Regulator SMCHD1 in
+Development and Disease. Trends Genet. 2017 Apr;33(4):233-243. doi:
+10.1016/j.tig.2017.01.007. Epub 2017 Feb 20.
+Citation on PubMed
+Shaw ND, Brand H, Kupchinsky ZA, Bengani H, Plummer L, Jones TI, Erdin S,
+Williamson KA, Rainger J, Stortchevoi A, Samocha K, Currall BB, Dunican DS,
+Collins RL, Willer JR, Lek A, Lek M, Nassan M, Pereira S, Kammin T, Lucente D,
+Silva A, Seabra CM, Chiang C, An Y, Ansari M, Rainger JK, Joss S, Smith JC,
+Lippincott MF, Singh SS, Patel N, Jing JW, Law JR, Ferraro N, Verloes A, Rauch A,
+Steindl K, Zweier M, Scheer I, Sato D, Okamoto N, Jacobsen C, Tryggestad J,
+Chernausek S, Schimmenti LA, Brasseur B, Cesaretti C, Garcia-Ortiz JE, Buitrago
+TP, Silva OP, Hoffman JD, Muhlbauer W, Ruprecht KW, Loeys BL, Shino M, Kaindl AM,
+Cho CH, Morton CC, Meehan RR, van Heyningen V, Liao EC, Balasubramanian R, Hall
+JE, Seminara SB, Macarthur D, Moore SA, Yoshiura KI, Gusella JF, Marsh JA, Graham
+JM Jr, Lin AE, Katsanis N, Jones PL, Crowley WF Jr, Davis EE, FitzPatrick DR,
+Talkowski ME. SMCHD1 mutations associated with a rare muscular dystrophy can also
+cause isolated arhinia and Bosma arhinia microphthalmia syndrome. Nat Genet. 2017
+Feb;49(2):238-248. doi: 10.1038/ng.3743. Epub 2017 Jan 9.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Craniofacial Abnormalities
+Eye Diseases
+Genetic Disorders
+Taste and Smell Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hypogonadotropic hypogonadism
+Smell - impaired
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

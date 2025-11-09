@@ -1,0 +1,182 @@
+Permanent neonatal diabetes mellitus: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Permanent neonatal diabetes mellitus
+URL of this page: https://medlineplus.gov/genetics/condition/permanent-neonatal-diabetes-mellitus/
+Permanent neonatal diabetes mellitus
+Description
+Permanent neonatal diabetes mellitus is a type of diabetes that first appears within the first 6 months of life and persists throughout the lifespan. This form of diabetes is characterized by high blood sugar levels (hyperglycemia) resulting from a shortage of the hormone insulin. Insulin controls how much glucose (a type of sugar) is passed from the blood into cells for conversion to energy.
+Individuals with permanent neonatal diabetes mellitus experience slow growth before birth (intrauterine growth retardation). Affected infants have hyperglycemia and an excessive loss of fluids (dehydration) and are unable to gain weight and grow at the expected rate (failure to thrive).
+In some cases, people with permanent neonatal diabetes mellitus also have certain neurological problems, including developmental delay and recurrent seizures (epilepsy). This combination of developmental delay, epilepsy, and neonatal diabetes is called DEND syndrome. Intermediate DEND syndrome is a similar combination but with milder developmental delay and without epilepsy.
+A small number of individuals with permanent neonatal diabetes mellitus have an underdeveloped pancreas. Because the pancreas produces digestive enzymes as well as secreting insulin and other hormones, affected individuals experience digestive problems such as fatty stools and an inability to absorb fat-soluble vitamins.
+Frequency
+About 1 in 400,000 infants are diagnosed with diabetes mellitus in the first few months of life. However, in about half of these babies the condition is transient and goes away on its own by age 18 months. The remainder are considered to have permanent neonatal diabetes mellitus.
+Causes
+Permanent neonatal diabetes mellitus may be caused by mutations in several genes.
+About 30 percent of individuals with permanent neonatal diabetes mellitus have mutations in the
+KCNJ11
+gene. An additional 20 percent of people with permanent neonatal diabetes mellitus have mutations in the
+ABCC8
+gene. These genes provide instructions for making parts (subunits) of the ATP-sensitive potassium (K-ATP) channel. Each K-ATP channel consists of eight subunits, four produced from the
+KCNJ11
+gene and four from the
+ABCC8
+gene.
+K-ATP channels are found across cell membranes in the insulin-secreting beta cells of the pancreas. These channels open and close in response to the amount of glucose in the bloodstream. Closure of the channels in response to increased glucose triggers the release of insulin out of beta cells and into the bloodstream, which helps control blood glucose levels.
+Mutations in the
+KCNJ11
+or
+ABCC8
+gene that cause permanent neonatal diabetes mellitus result in K-ATP channels that do not close, leading to reduced insulin secretion from beta cells and impaired blood glucose control.
+Mutations in the
+INS
+gene, which provides instructions for making insulin, have been identified in about 20 percent of individuals with permanent neonatal diabetes mellitus.
+Insulin is produced in a precursor form called proinsulin
+, which consists of a single chain of protein building blocks (amino acids). The proinsulin chain is cut (cleaved) to form individual pieces called the A and B chains, which are joined together by connections called disulfide bonds to form insulin. Mutations in the
+INS
+gene are believed to disrupt the cleavage of the proinsulin chain or the binding of the A and B chains to form insulin, leading to impaired blood glucose control.
+Permanent neonatal diabetes mellitus can also be caused by mutations in other genes, some of which have not been identified.
+Learn more about the genes associated with Permanent neonatal diabetes mellitus
+ABCC8
+GCK
+INS
+KCNJ11
+Additional Information from NCBI Gene:
+PDX1
+Inheritance
+Permanent neonatal diabetes mellitus can have different inheritance patterns.
+When this condition is caused by mutations in the
+KCNJ11
+or
+INS
+gene it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In about 90 percent of these cases, the condition results from
+new mutations in the gene
+and occurs in people with no history of the disorder in their family. In the remaining cases, an affected person inherits the mutation from
+one affected parent
+.
+When permanent neonatal diabetes mellitus is caused by mutations in the
+ABCC8
+gene, it may be inherited in either an autosomal dominant or
+autosomal recessive pattern
+. In autosomal recessive inheritance, both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Less commonly the condition is caused by mutations in other genes, and in these cases it is also inherited in an autosomal recessive pattern.
+Other Names for This Condition
+PNDM
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pancreatic agenesis 1
+Genetic Testing Registry: Permanent neonatal diabetes mellitus
+Genetic and Rare Diseases Information Center
+Isolated permanent neonatal diabetes mellitus
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PANCREATIC AGENESIS 1; PAGEN1
+DIABETES MELLITUS, PERMANENT NEONATAL, 1; PNDM1
+Scientific Articles on PubMed
+PubMed
+References
+Barbarini DS, Haslinger V, Schmidt K, Patch AM, Muller G, Simma B. Neonatal
+diabetes mellitus due to pancreas agenesis: a new case report and review of the
+literature. Pediatr Diabetes. 2009 Nov;10(7):487-91. doi:
+10.1111/j.1399-5448.2009.00523.x. Epub 2009 Jun 3.
+Citation on PubMed
+Edghill EL, Flanagan SE, Ellard S. Permanent neonatal diabetes due to
+activating mutations in ABCC8 and KCNJ11. Rev Endocr Metab Disord. 2010
+Sep;11(3):193-8. doi: 10.1007/s11154-010-9149-x.
+Citation on PubMed
+Edghill EL, Flanagan SE, Patch AM, Boustred C, Parrish A, Shields B, Shepherd
+MH, Hussain K, Kapoor RR, Malecki M, MacDonald MJ, Stoy J, Steiner DF, Philipson
+LH, Bell GI; Neonatal Diabetes International Collaborative Group; Hattersley AT,
+Ellard S. Insulin mutation screening in 1,044 patients with diabetes: mutations
+in the INS gene are a common cause of neonatal diabetes but a rare cause of
+diabetes diagnosed in childhood or adulthood. Diabetes. 2008 Apr;57(4):1034-42.
+doi: 10.2337/db07-1405. Epub 2007 Dec 27.
+Citation on PubMed
+Ellard S, Flanagan SE, Girard CA, Patch AM, Harries LW, Parrish A, Edghill EL,
+Mackay DJ, Proks P, Shimomura K, Haberland H, Carson DJ, Shield JP, Hattersley
+AT, Ashcroft FM. Permanent neonatal diabetes caused by dominant, recessive, or
+compound heterozygous SUR1 mutations with opposite functional effects. Am J Hum
+Genet. 2007 Aug;81(2):375-82. doi: 10.1086/519174. Epub 2007 Jun 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Flanagan SE, Clauin S, Bellanne-Chantelot C, de Lonlay P, Harries LW, Gloyn
+AL, Ellard S. Update of mutations in the genes encoding the pancreatic beta-cell
+K(ATP) channel subunits Kir6.2 (KCNJ11) and sulfonylurea receptor 1 (ABCC8) in
+diabetes mellitus and hyperinsulinism. Hum Mutat. 2009 Feb;30(2):170-80. doi:
+10.1002/humu.20838.
+Citation on PubMed
+Flanagan SE, Edghill EL, Gloyn AL, Ellard S, Hattersley AT. Mutations in
+KCNJ11, which encodes Kir6.2, are a common cause of diabetes diagnosed in the
+first 6 months of life, with the phenotype determined by genotype. Diabetologia.
+2006 Jun;49(6):1190-7. doi: 10.1007/s00125-006-0246-z. Epub 2006 Apr 12.
+Citation on PubMed
+Malecki MT, Mlynarski W. Monogenic diabetes: implications for therapy of rare
+types of disease. Diabetes Obes Metab. 2008 Aug;10(8):607-16. doi:
+10.1111/j.1463-1326.2007.00736.x. Epub 2007 May 6.
+Citation on PubMed
+Osbak KK, Colclough K, Saint-Martin C, Beer NL, Bellanne-Chantelot C, Ellard
+S, Gloyn AL. Update on mutations in glucokinase (GCK), which cause maturity-onset
+diabetes of the young, permanent neonatal diabetes, and hyperinsulinemic
+hypoglycemia. Hum Mutat. 2009 Nov;30(11):1512-26. doi: 10.1002/humu.21110.
+Citation on PubMed
+Polak M, Cave H. Neonatal diabetes mellitus: a disease linked to multiple
+mechanisms. Orphanet J Rare Dis. 2007 Mar 9;2:12. doi: 10.1186/1750-1172-2-12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rubio-Cabezas O, Klupa T, Malecki MT; CEED3 Consortium. Permanent neonatal
+diabetes mellitus--the importance of diabetes differential diagnosis in neonates
+and infants. Eur J Clin Invest. 2011 Mar;41(3):323-33. doi:
+10.1111/j.1365-2362.2010.02409.x. Epub 2010 Nov 4.
+Citation on PubMed
+Stoy J, Steiner DF, Park SY, Ye H, Philipson LH, Bell GI. Clinical and
+molecular genetics of neonatal diabetes due to mutations in the insulin gene. Rev
+Endocr Metab Disord. 2010 Sep;11(3):205-15. doi: 10.1007/s11154-010-9151-3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Diabetes
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Blood Glucose Test
+Insulin in Blood
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

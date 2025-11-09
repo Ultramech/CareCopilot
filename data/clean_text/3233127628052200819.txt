@@ -1,0 +1,119 @@
+Cryptogenic cirrhosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cryptogenic cirrhosis
+URL of this page: https://medlineplus.gov/genetics/condition/cryptogenic-cirrhosis/
+Cryptogenic cirrhosis
+Description
+Cryptogenic cirrhosis is a condition that impairs liver function. People with this condition develop irreversible liver disease caused by scarring of the liver (cirrhosis), typically in mid- to late adulthood.
+The liver is a part of the digestive system that helps break down food, store energy, and remove waste products, including toxins. Minor damage to the liver can be repaired by the body. However, severe or long-term damage can lead to the replacement of normal liver tissue with scar tissue.
+In the early stages of cryptogenic cirrhosis, people often have no symptoms because the liver has enough normal tissue to function. Signs and symptoms become apparent as more of the liver is replaced by scar tissue. Affected individuals can experience fatigue, weakness, loss of appetite, weight loss, nausea, swelling (
+edema
+), enlarged blood vessels, and yellowing of the skin and whites of the eyes (jaundice).
+People with cryptogenic cirrhosis may develop high blood pressure in the vein that supplies blood to the liver (portal hypertension). Cryptogenic cirrhosis can lead to
+type 2 diabetes
+, although the mechanism is unclear. Some people with cryptogenic cirrhosis develop cancer of the liver (
+hepatocellular cancer
+).
+Frequency
+Cirrhosis affects more than 600,000 people in the United States; cryptogenic cirrhosis likely accounts for 5 to 30 percent of these cases.
+Causes
+Unlike most cases of cirrhosis, cryptogenic cirrhosis is not caused by the hepatitis C or B virus or chronic alcohol use. A diagnosis of cryptogenic cirrhosis is typically given when all other causes of cirrhosis have been ruled out. When a disorder occurs without an apparent underlying reason, it is described as cryptogenic.
+Research has shown that many cases of cryptogenic cirrhosis likely result from a condition called
+non-alcoholic fatty liver disease
+(NAFLD). In NAFLD, fat accumulates in
+the liver
+, impairing its function. If the fat buildup leads to inflammation and damage to liver tissue, NAFLD progresses to a condition called non-alcoholic steatohepatitis (NASH). Long term inflammation in people with NASH can cause the formation of scar tissue and a decrease in fat buildup. As a result, individuals progress from NASH to cirrhosis.
+Cryptogenic cirrhosis may also develop from autoimmune hepatitis, which is a condition that occurs when the body's immune system malfunctions and attacks the liver, causing inflammation and liver damage.
+In very rare cases, cryptogenic cirrhosis has been associated with mutations in genes that provide instructions for making certain keratin proteins. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, nails, and similar tissues. People with these keratin gene mutations are more likely to have fibrous deposits in their livers than individuals without the mutations. These deposits impair liver function, leading to cirrhosis. Mutations in these genes have also been found in people with other liver disorders.
+In many cases, the cause of cryptogenic cirrhosis is unknown. Many people with predisposing conditions do not develop cirrhosis. Researchers are working to discover the causes of cryptogenic cirrhosis as well as to find out why some people seem to be protected from developing cirrhosis and others seem to be susceptible.
+Inheritance
+Most cases of cryptogenic cirrhosis are not inherited. However, people with a family history of
+liver
+disease or autoimmune disease are at an increased risk of developing these diseases themselves, and possibly cirrhosis.
+In individuals with an associated keratin gene mutation, the risk of developing cryptogenic cirrhosis appears to have an
+autosomal dominant pattern
+of inheritance. Autosomal dominant inheritance means that one copy of an altered gene in each cell is sufficient to increase the risk of developing cryptogenic cirrhosis. In these families, people inherit an increased risk of cryptogenic cirrhosis, not the disease itself.
+Other Names for This Condition
+Cirrhosis, cryptogenic
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cirrhosis, cryptogenic
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CIRRHOSIS, FAMILIAL
+Scientific Articles on PubMed
+PubMed
+References
+Caldwell S. Cryptogenic cirrhosis: what are we missing? Curr Gastroenterol
+Rep. 2010 Feb;12(1):40-8. doi: 10.1007/s11894-009-0082-7.
+Citation on PubMed
+De BK, Mani S, Mandal SK, Mondal SS, Bhattacharya R, Pramanik AB, Sau D,
+Bhattacharjee K, Joardar S. Cryptogenic cirrhosis: metabolic liver disease due to
+insulin resistance. Indian J Med Sci. 2010 Nov;64(11):508-19.
+Citation on PubMed
+Ku NO, Darling JM, Krams SM, Esquivel CO, Keeffe EB, Sibley RK, Lee YM, Wright
+TL, Omary MB. Keratin 8 and 18 mutations are risk factors for developing liver
+disease of multiple etiologies. Proc Natl Acad Sci U S A. 2003 May
+13;100(10):6063-8. doi: 10.1073/pnas.0936165100. Epub 2003 Apr 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ku NO, Gish R, Wright TL, Omary MB. Keratin 8 mutations in patients with
+cryptogenic liver disease. N Engl J Med. 2001 May 24;344(21):1580-7. doi:
+10.1056/NEJM200105243442103.
+Citation on PubMed
+Mohammed OK, Mahadeva S. Clinical outcomes of cryptogenic compared with
+non-cryptogenic cirrhosis: A retrospective cohort study. J Gastroenterol Hepatol.
+2015 Sep;30(9):1423-8. doi: 10.1111/jgh.12978.
+Citation on PubMed
+Scaglione S, Kliethermes S, Cao G, Shoham D, Durazo R, Luke A, Volk ML. The
+Epidemiology of Cirrhosis in the United States: A Population-based Study. J Clin
+Gastroenterol. 2015 Sep;49(8):690-6. doi: 10.1097/MCG.0000000000000208.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cirrhosis
+Fatty Liver Disease
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cirrhosis
+Genetics
+Liver cancer - hepatocellular carcinoma
+Nonalcoholic fatty liver disease
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

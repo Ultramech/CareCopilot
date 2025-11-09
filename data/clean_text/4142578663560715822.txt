@@ -1,0 +1,174 @@
+Leukoencephalopathy with vanishing white matter: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Leukoencephalopathy with vanishing white matter
+URL of this page: https://medlineplus.gov/genetics/condition/leukoencephalopathy-with-vanishing-white-matter/
+Leukoencephalopathy with vanishing white matter
+Description
+Leukoencephalopathy with vanishing white matter is a progressive disorder that mainly affects the brain and spinal cord (central nervous system). This disorder causes deterioration of the central nervous system's white matter, which consists of nerve fibers covered by myelin. Myelin is the fatty substance that insulates and protects nerves.
+In most cases, people with leukoencephalopathy with vanishing white matter show no signs or symptoms of the disorder at birth. Affected children may have slightly delayed development of motor skills such as crawling or walking. During early childhood, most affected individuals begin to develop motor symptoms, including abnormal muscle stiffness (spasticity) and difficulty with coordinating movements (ataxia). There may also be some deterioration of mental functioning, but this is not usually as pronounced as the motor symptoms. Some affected females may have abnormal development of the
+ovaries
+(ovarian dysgenesis). Specific changes in the brain as seen using magnetic resonance imaging (MRI) are characteristic of leukoencephalopathy with vanishing white matter, and may be visible before the onset of symptoms.
+While childhood onset is the most common form of leukoencephalopathy with vanishing white matter, some severe forms are apparent at birth. A severe, early-onset form seen among the Cree and Chippewayan populations of Quebec and Manitoba is called Cree leukoencephalopathy. Milder forms may not become evident until adolescence or adulthood, when behavioral or psychiatric problems may be the first signs of the disease. Some females with milder forms of leukoencephalopathy with vanishing white matter who survive to adolescence exhibit ovarian dysfunction. This variant of the disorder is called ovarioleukodystrophy.
+Progression of leukoencephalopathy with vanishing white matter is generally uneven, with periods of relative stability interrupted by episodes of rapid decline. People with this disorder are particularly vulnerable to stresses such as infection, mild head trauma or other injury, or even extreme fright. These stresses may trigger the first symptoms of the condition or worsen existing symptoms, and can cause affected individuals to become lethargic or comatose.
+Frequency
+The prevalence of leukoencephalopathy with vanishing white matter is unknown. Although it is a rare disorder, it is believed to be one of the most common inherited diseases that affect the white matter.
+Causes
+Mutations in the
+EIF2B1
+,
+EIF2B2
+,
+EIF2B3
+,
+EIF2B4
+, and
+EIF2B5
+genes cause leukoencephalopathy with vanishing white matter.
+The
+EIF2B1
+,
+EIF2B2
+,
+EIF2B3
+,
+EIF2B4
+and
+EIF2B5
+genes provide instructions for making the five parts (subunits) of a protein called eIF2B. The eIF2B protein helps regulate overall protein production (synthesis) in the cell by interacting with another protein, eIF2. The eIF2 protein is called an initiation factor because it is involved in starting (initiating) protein synthesis. Proper regulation of protein synthesis is vital for ensuring that the correct levels of protein are available for the cell to cope with changing conditions. For example, cells must synthesize protein much faster if they are multiplying than if they are in a resting state.
+Mutations have been identified in all five of the genes from which the eIF2B protein is produced, although most of these mutations (about 65 percent) occur in the
+EIF2B5
+gene. These mutations cause partial loss of eIF2B function in various ways. For example, they may impair the ability of one of the protein subunits to form a complex with the others, or make it more difficult for the protein to attach to the initiation factor.
+Partial loss of eIF2B function makes it more difficult for the body's cells to regulate protein synthesis and deal with changing conditions and stress. Researchers believe that cells in the white matter may be particularly affected by an abnormal response to stress, resulting in the signs and symptoms of leukoencephalopathy with vanishing white matter.
+Learn more about the genes associated with Leukoencephalopathy with vanishing white matter
+EIF2B1
+EIF2B2
+EIF2B3
+EIF2B4
+EIF2B5
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CACH syndrome
+Childhood ataxia with central nervous system hypomyelination
+Cree leukoencephalopathy
+Myelinosis centralis diffusa
+Vanishing white matter disease
+Vanishing white matter leukodystrophy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Vanishing white matter disease
+Genetic and Rare Diseases Information Center
+CACH syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LEUKOENCEPHALOPATHY WITH VANISHING WHITE MATTER 1; VWM1
+Scientific Articles on PubMed
+PubMed
+References
+Dietrich J, Lacagnina M, Gass D, Richfield E, Mayer-Proschel M, Noble M,
+Torres C, Proschel C. EIF2B5 mutations compromise GFAP+ astrocyte generation in
+vanishing white matter leukodystrophy. Nat Med. 2005 Mar;11(3):277-83. doi:
+10.1038/nm1195. Epub 2005 Feb 20.
+Citation on PubMed
+Fogli A, Boespflug-Tanguy O. The large spectrum of eIF2B-related diseases.
+Biochem Soc Trans. 2006 Feb;34(Pt 1):22-9. doi: 10.1042/BST20060022.
+Citation on PubMed
+Fogli A, Schiffmann R, Hugendubler L, Combes P, Bertini E, Rodriguez D,
+Kimball SR, Boespflug-Tanguy O. Decreased guanine nucleotide exchange factor
+activity in eIF2B-mutated patients. Eur J Hum Genet. 2004 Jul;12(7):561-6. doi:
+10.1038/sj.ejhg.5201189.
+Citation on PubMed
+Li W, Wang X, Van Der Knaap MS, Proud CG. Mutations linked to
+leukoencephalopathy with vanishing white matter impair the function of the
+eukaryotic initiation factor 2B complex in diverse ways. Mol Cell Biol. 2004
+Apr;24(8):3295-306. doi: 10.1128/MCB.24.8.3295-3306.2004.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pavitt GD. eIF2B, a mediator of general and gene-specific translational
+control. Biochem Soc Trans. 2005 Dec;33(Pt 6):1487-92. doi: 10.1042/BST0331487.
+Citation on PubMed
+Pronk JC, van Kollenburg B, Scheper GC, van der Knaap MS. Vanishing white
+matter disease: a review with focus on its genetics. Ment Retard Dev Disabil Res
+Rev. 2006;12(2):123-8. doi: 10.1002/mrdd.20104.
+Citation on PubMed
+Scali O, Di Perri C, Federico A. The spectrum of mutations for the diagnosis
+of vanishing white matter disease. Neurol Sci. 2006 Sep;27(4):271-7. doi:
+10.1007/s10072-006-0683-y.
+Citation on PubMed
+Scheper GC, Proud CG, van der Knaap MS. Defective translation initiation
+causes vanishing of cerebral white matter. Trends Mol Med. 2006 Apr;12(4):159-66.
+doi: 10.1016/j.molmed.2006.02.006. Epub 2006 Mar 20.
+Citation on PubMed
+Schiffmann R, Elroy-Stein O. Childhood ataxia with CNS
+hypomyelination/vanishing white matter disease--a common leukodystrophy caused by
+abnormal control of protein synthesis. Mol Genet Metab. 2006 May;88(1):7-15. doi:
+10.1016/j.ymgme.2005.10.019. Epub 2006 Jan 18.
+Citation on PubMed
+Schiffmann R, Moller JR, Trapp BD, Shih HH, Farrer RG, Katz DA, Alger JR,
+Parker CC, Hauer PE, Kaneski CR, et al. Childhood ataxia with diffuse central
+nervous system hypomyelination. Ann Neurol. 1994 Mar;35(3):331-40. doi:
+10.1002/ana.410350314.
+Citation on PubMed
+van der Knaap MS, Fogli A, Boespflug-Tanguy O, Abbink TEM, Schiffmann R.
+Childhood Ataxia with Central Nervous System Hypomyelination / Vanishing White
+Matter. 2003 Feb 20 [updated 2019 Apr 4]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1258/
+Citation on PubMed
+van der Voorn JP, van Kollenburg B, Bertrand G, Van Haren K, Scheper GC,
+Powers JM, van der Knaap MS. The unfolded protein response in vanishing white
+matter disease. J Neuropathol Exp Neurol. 2005 Sep;64(9):770-5. doi:
+10.1097/01.jnen.0000178446.41595.3a.
+Citation on PubMed
+van Kollenburg B, van Dijk J, Garbern J, Thomas AA, Scheper GC, Powers JM, van
+der Knaap MS. Glia-specific activation of all pathways of the unfolded protein
+response in vanishing white matter disease. J Neuropathol Exp Neurol. 2006
+Jul;65(7):707-15. doi: 10.1097/01.jnen.0000228201.27539.50.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Leukodystrophies
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

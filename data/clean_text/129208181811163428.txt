@@ -1,0 +1,120 @@
+Mandibuloacral dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Mandibuloacral dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/mandibuloacral-dysplasia/
+Mandibuloacral dysplasia
+Description
+Mandibuloacral dysplasia is a condition that causes a variety of abnormalities involving bone development, skin coloring (pigmentation), and fat distribution. People with this condition may grow slowly after birth. Most affected individuals are born with an underdeveloped lower jaw bone (mandible) and small collar bones (clavicles), leading to the characteristic features of a small chin and sloped shoulders. Other bone problems include loss of bone from the tips of the fingers (acroosteolysis), which causes bulbous finger tips; delayed closure of certain skull bones; and joint deformities (contractures).
+People with mandibuloacral dysplasia can have mottled or patchy skin pigmentation or other skin abnormalities. Some people with this condition have features of premature aging (a condition called progeria), such as thin skin, loss of teeth, loss of hair, and a beaked nose. Some individuals with mandibuloacral dysplasia have metabolic problems, such as diabetes.
+A common feature of mandibuloacral dysplasia is a lack of fatty tissue under the skin (lipodystrophy) in certain regions of the body. The two types of this disorder, mandibuloacral dysplasia with type A lipodystrophy (MADA) and mandibuloacral dysplasia with type B lipodystrophy (MADB) are distinguished by the pattern of fat distribution throughout the body. Type A is described as partial lipodystrophy; affected individuals have a loss of fatty tissue from the torso and limbs, but it may build up around the neck and shoulders. Type B is a generalized lipodystrophy, with loss of fatty tissue in the face, torso, and limbs.
+MADA usually begins in adulthood, although children can be affected. MADB begins earlier, often just after birth. Many babies with MADB are born prematurely.
+Frequency
+Mandibuloacral dysplasia is a rare condition; its prevalence is unknown.
+Causes
+The two forms of mandibuloacral dysplasia are caused by mutations in different genes. Mutations in the
+LMNA
+gene cause MADA, and mutations in the
+ZMPSTE24
+gene cause MADB. Within cells, these genes are involved in maintaining the structure of the
+nucleus
+and may play a role in many cellular processes.
+The
+LMNA
+gene provides instructions for making two related proteins, lamin A and lamin C. These proteins act as scaffolding (supporting) components of the nuclear envelope, which is the membrane that surrounds the nucleus in cells. The nuclear envelope regulates the movement of molecules into and out of the nucleus and may help regulate the activity of certain genes. Mutations in this gene likely change the structure of lamin A and lamin C.
+The lamin A protein (but not lamin C) must be processed within the cell before becoming part of the nuclear envelope. The protein produced from the
+ZMPSTE24
+gene is involved in this processing; it cuts the immature lamin A protein (prelamin A) at a particular location, forming mature lamin A. Mutations in the
+ZMPSTE24
+gene lead to a buildup of prelamin A and a shortage of the mature protein.
+Mutations in the
+LMNA
+or
+ZMPSTE24
+gene likely disrupt the structure of the nuclear envelope. Researchers are working to understand how these genetic changes result in the signs and symptoms of mandibuloacral dysplasia.
+Learn more about the genes associated with Mandibuloacral dysplasia
+LMNA
+ZMPSTE24
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Mandibuloacral dysostosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Mandibuloacral dysplasia
+Genetic Testing Registry: Mandibuloacral dysplasia with type B lipodystrophy
+Genetic and Rare Diseases Information Center
+Mandibuloacral dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MANDIBULOACRAL DYSPLASIA WITH TYPE A LIPODYSTROPHY; MADA
+MANDIBULOACRAL DYSPLASIA WITH TYPE B LIPODYSTROPHY; MADB
+Scientific Articles on PubMed
+PubMed
+References
+Ahmad Z, Zackai E, Medne L, Garg A. Early onset mandibuloacral dysplasia due
+to compound heterozygous mutations in ZMPSTE24. Am J Med Genet A. 2010
+Nov;152A(11):2703-10. doi: 10.1002/ajmg.a.33664.
+Citation on PubMed
+or
+Free article on PubMed Central
+Novelli G, Muchir A, Sangiuolo F, Helbling-Leclerc A, D'Apice MR, Massart C,
+Capon F, Sbraccia P, Federici M, Lauro R, Tudisco C, Pallotta R, Scarano G,
+Dallapiccola B, Merlini L, Bonne G. Mandibuloacral dysplasia is caused by a
+mutation in LMNA-encoding lamin A/C. Am J Hum Genet. 2002 Aug;71(2):426-31. doi:
+10.1086/341908. Epub 2002 Jun 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Simha V, Agarwal AK, Oral EA, Fryns JP, Garg A. Genetic and phenotypic
+heterogeneity in patients with mandibuloacral dysplasia-associated lipodystrophy.
+J Clin Endocrinol Metab. 2003 Jun;88(6):2821-4. doi: 10.1210/jc.2002-021575.
+Citation on PubMed
+Worman HJ, Ostlund C, Wang Y. Diseases of the nuclear envelope. Cold Spring
+Harb Perspect Biol. 2010 Feb;2(2):a000760. doi: 10.1101/cshperspect.a000760.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Micrognathia
+Progeria
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

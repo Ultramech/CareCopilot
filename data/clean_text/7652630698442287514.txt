@@ -1,0 +1,136 @@
+Congenital cataracts, facial dysmorphism, and neuropathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital cataracts, facial dysmorphism, and neuropathy
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-cataracts-facial-dysmorphism-and-neuropathy/
+Congenital cataracts, facial dysmorphism, and neuropathy
+Description
+Congenital cataracts, facial dysmorphism, and neuropathy (CCFDN) is a rare disorder that affects several parts of the body. It is characterized by a clouding of the lens of the eyes at birth (congenital
+cataracts
+) and other eye abnormalities, such as small or poorly developed eyes (
+microphthalmia
+) and abnormal eye movements (nystagmus). Affected individuals, particularly males, often have distinctive facial features that become more apparent as they reach adulthood. These features include a prominent midface, a large nose, protruding teeth, and a small lower jaw.
+CCFDN causes progressive damage to the peripheral nerves, which connect the brain and spinal cord to muscles and sensory cells. This nerve damage is known as peripheral neuropathy. Weakness in the legs, followed by the arms, begins in the first few years of life, and as a result children with CCFDN have delayed development of motor skills such as standing and walking. In adolescence, affected individuals develop sensory abnormalities such as numbness and tingling, mainly in the legs. By adulthood they typically have significant difficulties with mobility. Muscle weakness can also lead to skeletal abnormalities such as hand and foot deformities and abnormal curvature of the spine.
+People with CCFDN may have problems with balance and coordination (ataxia), tremors, and difficulty with movements that involve judging distance or scale (dysmetria). Some have mild intellectual disability. Individuals with CCFDN have short stature, are typically underweight, and have reduced bone density.
+A complication called rhabdomyolysis occurs in some people with CCFDN, typically following a viral infection or, in rare cases, during or after surgery. Rhabdomyolysis is a breakdown of muscle tissue that results in severe muscle weakness. The destruction of muscle tissue releases a protein called myoglobin, which is processed by the kidneys and released in the urine (myoglobinuria). The presence of myoglobin causes the urine to be red or brown. The muscles may take up to a year to recover, and the episodes may worsen the muscle weakness caused by the neuropathy.
+Frequency
+The prevalence of CCFDN is unknown. The disorder has been identified in about 150 individuals of Romani ethnicity. Thus far, no affected individuals have been observed outside this community.
+Causes
+A mutation in the
+CTDP1
+gene causes CCFDN. The
+CTDP1
+gene provides instructions for making a protein called carboxy-terminal domain phosphatase 1. This protein helps regulate the process of transcription, which is a key step in using the information carried by genes to direct the production (synthesis) of proteins.
+All known individuals with CCFDN have the same mutation in both copies of the
+CTDP1
+gene in each cell. This mutation alters the way the gene's instructions are pieced together to produce the carboxy-terminal domain phosphatase 1 protein. The altered instructions introduce a premature stop signal, resulting in an abnormally short, nonfunctional protein that cannot regulate transcription. Defective regulation of the transcription process affects the development and function of many parts of the body. It is not known how nonfunctional carboxy-terminal domain phosphatase 1 protein results in the specific signs and symptoms of CCFDN.
+Learn more about the gene associated with Congenital cataracts, facial dysmorphism, and neuropathy
+CTDP1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CCFDN
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital cataracts-facial dysmorphism-neuropathy syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CONGENITAL CATARACTS, FACIAL DYSMORPHISM, AND NEUROPATHY; CCFDN
+Scientific Articles on PubMed
+PubMed
+References
+Angelicheva D, Turnev I, Dye D, Chandler D, Thomas PK, Kalaydjieva L.
+Congenital cataracts facial dysmorphism neuropathy (CCFDN) syndrome: a novel
+developmental disorder in Gypsies maps to 18qter. Eur J Hum Genet. 1999
+Jul;7(5):560-6. doi: 10.1038/sj.ejhg.5200319.
+Citation on PubMed
+Kalaydjieva L, Chamova T. CTDP1-Related Congenital Cataracts, Facial
+Dysmorphism, and Neuropathy. 2010 Mar 2 [updated 2022 Oct 13]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK25565/
+Citation on PubMed
+Kalaydjieva L. Congenital cataracts-facial dysmorphism-neuropathy. Orphanet J
+Rare Dis. 2006 Aug 29;1:32. doi: 10.1186/1750-1172-1-32.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mastroyianni SD, Garoufi A, Voudris K, Skardoutsou A, Stefanidis CJ, Katsarou
+E, Gooding R, Kalaydjieva L. Congenital cataracts facial dysmorphism neuropathy
+(CCFDN) syndrome: a rare cause of parainfectious rhabdomyolysis. Eur J Pediatr.
+2007 Jul;166(7):747-9. doi: 10.1007/s00431-006-0307-9. Epub 2006 Dec 30.
+Citation on PubMed
+Mullner-Eidenbock A, Moser E, Klebermass N, Amon M, Walter MC, Lochmuller H,
+Gooding R, Kalaydjieva L. Ocular features of the congenital cataracts facial
+dysmorphism neuropathy syndrome. Ophthalmology. 2004 Jul;111(7):1415-23. doi:
+10.1016/j.ophtha.2003.11.007.
+Citation on PubMed
+Navarro C, Teijeira S. Neuromuscular disorders in the Gypsy ethnic group. A
+short review. Acta Myol. 2003 May;22(1):11-4.
+Citation on PubMed
+Shabo G, Scheffer H, Cruysberg JR, Lammens M, Pasman JW, Spruit M, Willemsen
+MA. Congenital cataract facial dysmorphism neuropathy syndrome: a clinically
+recognizable entity. Pediatr Neurol. 2005 Oct;33(4):277-9. doi:
+10.1016/j.pediatrneurol.2005.04.011.
+Citation on PubMed
+Tournev I, Kalaydjieva L, Youl B, Ishpekova B, Guergueltcheva V, Kamenov O,
+Katzarova M, Kamenov Z, Raicheva-Terzieva M, King RH, Romanski K, Petkov R,
+Schmarov A, Dimitrova G, Popova N, Uzunova M, Milanov S, Petrova J, Petkov Y,
+Kolarov G, Aneva L, Radeva O, Thomas PK. Congenital cataracts facial dysmorphism
+neuropathy syndrome, a novel complex genetic disease in Balkan Gypsies: clinical
+and electrophysiological observations. Ann Neurol. 1999 Jun;45(6):742-50.
+Citation on PubMed
+Varon R, Gooding R, Steglich C, Marns L, Tang H, Angelicheva D, Yong KK,
+Ambrugger P, Reinhold A, Morar B, Baas F, Kwa M, Tournev I, Guerguelcheva V,
+Kremensky I, Lochmuller H, Mullner-Eidenbock A, Merlini L, Neumann L, Burger J,
+Walter M, Swoboda K, Thomas PK, von Moers A, Risch N, Kalaydjieva L. Partial
+deficiency of the C-terminal-domain phosphatase of RNA polymerase II is
+associated with congenital cataracts facial dysmorphism neuropathy syndrome. Nat
+Genet. 2003 Oct;35(2):185-9. doi: 10.1038/ng1243. Epub 2003 Sep 21.
+Citation on PubMed
+Related Health Topics
+Cataract
+Genetic Disorders
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Congenital cataract
+Genetics
+Peripheral neuropathy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,130 @@
+Glucose-6-phosphate dehydrogenase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Glucose-6-phosphate dehydrogenase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/
+Glucose-6-phosphate dehydrogenase deficiency
+Description
+Glucose-6-phosphate dehydrogenase deficiency is a genetic disorder that affects red blood cells, which carry oxygen from the lungs to tissues throughout the body. In affected individuals, a defect in an enzyme called glucose-6-phosphate dehydrogenase causes red blood cells to break down prematurely. This destruction of red blood cells is called hemolysis.
+The most common medical problem associated with glucose-6-phosphate dehydrogenase deficiency is hemolytic anemia, which occurs when red blood cells are destroyed faster than the body can replace them. This type of anemia leads to paleness, yellowing of the skin and whites of the eyes (jaundice), dark urine, fatigue, shortness of breath, and a rapid heart rate. In people with glucose-6-phosphate dehydrogenase deficiency, hemolytic anemia is most often triggered by bacterial or viral infections or by certain drugs (such as some antibiotics and medications used to treat malaria). Hemolytic anemia can also occur after eating fava beans or inhaling pollen from fava plants (a reaction called favism).
+Glucose-6-phosphate dehydrogenase deficiency is also a significant cause of mild to severe jaundice in newborns. Many people with this disorder, however, never experience any signs or symptoms and are unaware that they have the condition.
+Frequency
+An estimated 400 million people worldwide have glucose-6-phosphate dehydrogenase deficiency. This condition occurs most frequently in certain parts of Africa, Asia, the Mediterranean, and the Middle East. It affects about 1 in 10 African American males in the United States.
+Causes
+Glucose-6-phosphate dehydrogenase deficiency results from variants (also called mutations) in the
+G6PD
+gene. This gene provides instructions for making an enzyme called glucose-6-phosphate dehydrogenase. This enzyme is involved in the normal processing of carbohydrates. It also protects red blood cells from the effects of potentially harmful molecules called reactive oxygen species, which are byproducts of normal cellular functions. Chemical reactions involving glucose-6-phosphate dehydrogenase produce compounds that prevent reactive oxygen species from building up to toxic levels within red blood cells.
+If variants in the
+G6PD
+gene reduce the amount of glucose-6-phosphate dehydrogenase or alter its structure, this enzyme can no longer play its protective role. As a result, reactive oxygen species can accumulate and damage red blood cells. Factors such as infections, certain drugs, or ingesting fava beans can increase the levels of reactive oxygen species, causing red blood cells to be destroyed faster than the body can replace them. A reduction in the number of red blood cells causes the signs and symptoms of hemolytic anemia.
+Researchers believe that people who have a
+G6PD
+variant may be partially protected against malaria, an infectious disease carried by a certain type of mosquito. A reduction in the amount of functional glucose-6-phosphate dehydrogenase appears to make it more difficult for this parasite to invade red blood cells. Glucose-6-phosphate dehydrogenase deficiency occurs most frequently in areas of the world where malaria is common.
+Learn more about the gene associated with Glucose-6-phosphate dehydrogenase deficiency
+G6PD
+Inheritance
+Glucose-6-phosphate dehydrogenase is inherited in an X-linked pattern. A condition is considered X-linked if the altered gene that causes the disorder is located on the
+X chromosome
+, one of the two
+sex chromosomes
+in each cell. Males have only one X chromosome and females have two copies of the X chromosome. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In females, who have two copies of the X chromosome, one altered copy of the
+G6PD
+gene in each cell can lead to less severe features of the condition or may cause no signs or symptoms at all. However, many females with one altered copy of this gene have glucose-6-phosphate dehydrogenase deficiency similar to affected males because the X chromosome with the normal copy of the
+G6PD
+gene is turned off through a process called
+X-inactivation
+. Early in embryonic development in females, one of the two X chromosomes is permanently inactivated in somatic cells (cells other than egg and sperm cells). X-inactivation ensures that females, like males, have only one active copy of the X chromosome in each body cell. Usually X-inactivation occurs randomly, such that each X chromosome is active in about half of the body cells. Sometimes X-inactivation is not random, and one X chromosome is active in more than half of cells. When X-inactivation does not occur randomly, it is called skewed X-inactivation.
+Research shows that females with glucose-6-phosphate dehydrogenase deficiency caused by variants in the
+G6PD
+gene often have skewed X-inactivation, which results in the inactivation of the X chromosome with the normal copy of the
+G6PD
+gene in most cells of the body. This skewed X-inactivation causes the chromosome with the altered
+G6PD
+gene to be expressed in more than half of cells. As a result, not enough normal glucose-6-phosphate dehydrogenase
+enzyme is produced, leading to hemolytic anemia and other signs and symptoms of glucose-6-phosphate dehydrogenase deficiency.
+Other Names for This Condition
+Deficiency of glucose-6-phosphate dehydrogenase
+G6PD deficiency
+G6PDD
+Glucose 6 phosphate dehydrogenase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Anemia, nonspherocytic hemolytic, due to G6PD deficiency
+Genetic and Rare Diseases Information Center
+Class I glucose-6-phosphate dehydrogenase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GLUCOSE-6-PHOSPHATE DEHYDROGENASE; G6PD
+Scientific Articles on PubMed
+PubMed
+References
+Cappellini MD, Fiorelli G. Glucose-6-phosphate dehydrogenase deficiency.
+Lancet. 2008 Jan 5;371(9606):64-74. doi: 10.1016/S0140-6736(08)60073-2.
+Citation on PubMed
+Frank JE. Diagnosis and management of G6PD deficiency. Am Fam Physician. 2005
+Oct 1;72(7):1277-82.
+Citation on PubMed
+Luzzatto L, Nannelli C, Notaro R. Glucose-6-Phosphate Dehydrogenase
+Deficiency. Hematol Oncol Clin North Am. 2016 Apr;30(2):373-93. doi:
+10.1016/j.hoc.2015.11.006.
+Citation on PubMed
+Manganelli G, Masullo U, Passarelli S, Filosa S. Glucose-6-phosphate
+dehydrogenase deficiency: disadvantages and possible benefits. Cardiovasc Hematol
+Disord Drug Targets. 2013 Mar 1;13(1):73-82. doi: 10.2174/1871529x11313010008.
+Citation on PubMed
+Nkhoma ET, Poole C, Vannappagari V, Hall SA, Beutler E. The global prevalence
+of glucose-6-phosphate dehydrogenase deficiency: a systematic review and
+meta-analysis. Blood Cells Mol Dis. 2009 May-Jun;42(3):267-78. doi:
+10.1016/j.bcmd.2008.12.005. Epub 2009 Feb 23.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Anemia
+G6PD Deficiency
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Glucose-6-phosphate dehydrogenase
+Glucose-6-phosphate dehydrogenase deficiency
+Hemolytic anemia
+Newborn jaundice
+Related Medical Tests
+Complete Blood Count (CBC)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

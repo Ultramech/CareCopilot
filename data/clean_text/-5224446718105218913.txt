@@ -1,0 +1,138 @@
+NGLY1-congenital disorder of deglycosylation: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+NGLY1-congenital disorder of deglycosylation
+URL of this page: https://medlineplus.gov/genetics/condition/ngly1-congenital-disorder-of-deglycosylation/
+NGLY1-congenital disorder of deglycosylation
+Description
+NGLY1
+-congenital disorder of deglycosylation (
+NGLY1
+-CDDG) is an inherited condition that affects many parts of the body. The severity of the signs and symptoms varies widely among people with the condition.
+Individuals with
+NGLY1
+-CDDG typically develop features of the condition during infancy. They often have delayed development of speech and motor skills, such as sitting and walking, and weak muscle tone (hypotonia). Many affected individuals have movement abnormalities, such as uncontrolled movements of the limbs (choreoathetosis), and some develop seizures that are difficult to treat. Individuals with
+NGLY1
+-CDDG may also have problems with
+liver
+function. Some affected individuals have
+eye
+abnormalities, including degeneration of the nerves that carry information from the eyes to the brain (optic atrophy) and changes in the light-sensing tissue at the back of the eye (the retina). A reduction or absence of tears (hypolacrima or alacrima) is a common feature of
+NGLY1
+-CDDG.
+Frequency
+NGLY1
+-CDDG is a rare disorder. At least 46 individuals with the condition have been described in the medical literature.
+Causes
+NGLY1
+-CDDG is caused by mutations in the
+NGLY1
+gene. The enzyme produced from this gene, called
+N
+-glycanase 1, helps cells get rid of abnormal proteins. It removes chains of sugars (glycans) from misfolded proteins through a process called deglycosylation, which is thought to be an essential step for certain abnormal proteins to be broken down. The gene mutations that cause
+NGLY1
+-CDDG impair production of the
+N
+-glycanase 1 enzyme, resulting in a severe reduction or absence of the enzyme's function. Without the removal of glycans, the misfolded proteins cannot be broken down. It is thought that the abnormal proteins accumulate and form clumps (aggregates) in cells. These aggregates may damage cells in the brain, liver, and eyes, leading to the signs and symptoms of
+NGLY1
+-CDDG.
+Learn more about the gene associated with NGLY1-congenital disorder of deglycosylation
+NGLY1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital disorder of deglycosylation
+Deficiency of N-glycanase 1
+NGLY1-CDDG
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital disorder of deglycosylation
+Genetic and Rare Diseases Information Center
+Alacrimia-choreoathetosis-liver dysfunction syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CONGENITAL DISORDER OF DEGLYCOSYLATION 1; CDDG1
+Scientific Articles on PubMed
+PubMed
+References
+Enns GM, Shashi V, Bainbridge M, Gambello MJ, Zahir FR, Bast T, Crimian R,
+Schoch K, Platt J, Cox R, Bernstein JA, Scavina M, Walter RS, Bibb A, Jones M,
+Hegde M, Graham BH, Need AC, Oviedo A, Schaaf CP, Boyle S, Butte AJ, Chen R, Chen
+R, Clark MJ, Haraksingh R; FORGE Canada Consortium; Cowan TM, He P, Langlois S,
+Zoghbi HY, Snyder M, Gibbs RA, Freeze HH, Goldstein DB. Mutations in NGLY1 cause
+an inherited disorder of the endoplasmic reticulum-associated degradation
+pathway. Genet Med. 2014 Oct;16(10):751-8. doi: 10.1038/gim.2014.22. Epub 2014
+Mar 20.
+Citation on PubMed
+or
+Free article on PubMed Central
+He P, Grotzke JE, Ng BG, Gunel M, Jafar-Nejad H, Cresswell P, Enns GM, Freeze
+HH. A congenital disorder of deglycosylation: Biochemical characterization of
+N-glycanase 1 deficiency in patient fibroblasts. Glycobiology. 2015
+Aug;25(8):836-44. doi: 10.1093/glycob/cwv024. Epub 2015 Apr 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Huang C, Harada Y, Hosomi A, Masahara-Negishi Y, Seino J, Fujihira H,
+Funakoshi Y, Suzuki T, Dohmae N, Suzuki T. Endo-beta-N-acetylglucosaminidase forms
+N-GlcNAc protein aggregates during ER-associated degradation in Ngly1-defective
+cells. Proc Natl Acad Sci U S A. 2015 Feb 3;112(5):1398-403. doi:
+10.1073/pnas.1414593112. Epub 2015 Jan 20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lam C, Ferreira C, Krasnewich D, Toro C, Latham L, Zein WM, Lehky T, Brewer C,
+Baker EH, Thurm A, Farmer CA, Rosenzweig SD, Lyons JJ, Schreiber JM, Gropman A,
+Lingala S, Ghany MG, Solomon B, Macnamara E, Davids M, Stratakis CA, Kimonis V,
+Gahl WA, Wolfe L. Prospective phenotyping of NGLY1-CDDG, the first congenital
+disorder of deglycosylation. Genet Med. 2017 Feb;19(2):160-168. doi:
+10.1038/gim.2016.75. Epub 2016 Jul 7.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Metabolic Disorders
+Movement Disorders
+Tears
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hypotonia
+Movement - uncontrolled or slow
+Seizures
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

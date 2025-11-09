@@ -1,0 +1,135 @@
+Hereditary spherocytosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary spherocytosis
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-spherocytosis/
+Hereditary spherocytosis
+Description
+Hereditary spherocytosis is a condition that affects red blood cells. People with this condition typically experience a shortage of red blood cells (
+anemia
+), yellowing of the eyes and skin (jaundice), and an enlarged spleen (splenomegaly). Most newborns with hereditary spherocytosis have severe anemia, although it improves after the first year of life. Splenomegaly can occur anytime from early childhood to adulthood. About half of affected individuals develop hard deposits in
+the gallbladder
+called gallstones, which typically occur from late childhood to mid-adulthood.
+There are four forms of hereditary spherocytosis, which are distinguished by the severity of signs and symptoms. They are known as the mild form, the moderate form, the moderate/severe form, and the severe form. It is estimated that 20 to 30 percent of people with hereditary spherocytosis have the mild form, 60 to 70 percent have the moderate form, 10 percent have the moderate/severe form, and 3 to 5 percent have the severe form.
+People with the mild form may have very mild anemia or sometimes have no symptoms. People with the moderate form typically have anemia, jaundice, and splenomegaly. Many also develop gallstones. The signs and symptoms of moderate hereditary spherocytosis usually appear in childhood. Individuals with the moderate/severe form have all the features of the moderate form but also have severe anemia. Those with the severe form have life-threatening anemia that requires frequent blood transfusions to replenish their red blood cell supply. They also have severe splenomegaly, jaundice, and a high risk for developing gallstones. Some individuals with the severe form have short stature, delayed sexual development, and skeletal abnormalities.
+Frequency
+Hereditary spherocytosis occurs in 1 in 2,000 individuals of Northern European ancestry. This condition is the most common cause of inherited anemia in that population. The prevalence of hereditary spherocytosis in people of other ethnic backgrounds is unknown, but it is much less common.
+Causes
+Mutations in at least five genes cause hereditary spherocytosis. These genes provide instructions for producing proteins that are found on the membranes of red blood cells. These proteins transport molecules into and out of cells, attach to other proteins, and maintain cell structure. Some of these proteins allow for cell flexibility; red blood cells have to be flexible to travel from the large blood vessels (
+arteries
+) to the smaller blood vessels (
+capillaries
+). The proteins allow the cell to change shape without breaking when passing through narrow capillaries.
+Mutations in red blood cell membrane proteins result in an overly rigid, misshapen cell. Instead of a flattened disc shape, these cells are spherical. Dysfunctional membrane proteins interfere with the cell's ability to change shape when traveling through the blood vessels. The misshapen red blood cells, called spherocytes, are removed from circulation and taken to the spleen for destruction. Within the spleen, the red blood cells break down (undergo hemolysis). The
+shortage of red blood cells
+in circulation and the abundance of cells in the spleen are responsible for the signs and symptoms of hereditary spherocytosis.
+Mutations in the
+ANK1
+gene are responsible for approximately half of all cases of hereditary spherocytosis. The other genes associated with hereditary spherocytosis each account for a smaller percentage of cases of this condition.
+Learn more about the genes associated with Hereditary spherocytosis
+ANK1
+SLC4A1
+Additional Information from NCBI Gene:
+EPB42
+SPTA1
+SPTB
+Inheritance
+In about 75 percent of cases, hereditary spherocytosis is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person
+inherits the mutation
+from one affected parent. Other cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+This condition can also be inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital spherocytic hemolytic anemia
+Congenital spherocytosis
+HS
+Spherocytic anemia
+Spherocytosis, type 1
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary spherocytosis type 2
+Genetic Testing Registry: Hereditary spherocytosis type 3
+Genetic Testing Registry: Hereditary spherocytosis type 4
+Genetic Testing Registry: Hereditary spherocytosis type 5
+Genetic Testing Registry: Hereditary spherocytosis
+Genetic and Rare Diseases Information Center
+Hereditary spherocytosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPHEROCYTOSIS, TYPE 3; SPH3
+SPECTRIN, BETA, ERYTHROCYTIC; SPTB
+SPHEROCYTOSIS, TYPE 1; SPH1
+SPHEROCYTOSIS, TYPE 5; SPH5
+SPHEROCYTOSIS, TYPE 4; SPH4
+Scientific Articles on PubMed
+PubMed
+References
+Eber S, Lux SE. Hereditary spherocytosis--defects in proteins that connect the
+membrane skeleton to the lipid bilayer. Semin Hematol. 2004 Apr;41(2):118-41.
+doi: 10.1053/j.seminhematol.2004.01.002.
+Citation on PubMed
+Iolascon A, Avvisati RA, Piscopo C. Hereditary spherocytosis. Transfus Clin
+Biol. 2010 Sep;17(3):138-42. doi: 10.1016/j.tracli.2010.05.006. Epub 2010 Jul 23.
+Citation on PubMed
+Iolascon A, Avvisati RA. Genotype/phenotype correlation in hereditary
+spherocytosis. Haematologica. 2008 Sep;93(9):1283-8. doi: 10.3324/haematol.13344.
+No abstract available.
+Citation on PubMed
+Mariani M, Barcellini W, Vercellati C, Marcello AP, Fermo E, Pedotti P,
+Boschetti C, Zanella A. Clinical and hematologic features of 300 patients
+affected by hereditary spherocytosis grouped according to the type of the
+membrane protein defect. Haematologica. 2008 Sep;93(9):1310-7. doi:
+10.3324/haematol.12546. Epub 2008 Jul 18.
+Citation on PubMed
+Narla J, Mohandas N. Red cell membrane disorders. Int J Lab Hematol. 2017
+May;39 Suppl 1:47-52. doi: 10.1111/ijlh.12657.
+Citation on PubMed
+Perrotta S, Gallagher PG, Mohandas N. Hereditary spherocytosis. Lancet. 2008
+Oct 18;372(9647):1411-26. doi: 10.1016/S0140-6736(08)61588-3.
+Citation on PubMed
+Related Health Topics
+Anemia
+Blood Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hereditary spherocytic anemia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

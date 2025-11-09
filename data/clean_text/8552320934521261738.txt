@@ -1,0 +1,138 @@
+Opioid addiction: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Opioid addiction
+URL of this page: https://medlineplus.gov/genetics/condition/opioid-addiction/
+Opioid addiction
+Description
+Opioid addiction is a long-lasting (chronic) disease that can cause major health, social, and economic problems. Opioids are a class of drugs that act in the nervous system to produce feelings of pleasure and pain relief. Some opioids are legally prescribed by healthcare providers to manage severe and chronic pain. Commonly prescribed opioids include oxycodone, fentanyl, buprenorphine, methadone, oxymorphone, hydrocodone, codeine, and morphine. Some other opioids, such as heroin, are illegal drugs of abuse.
+Opioid addiction is characterized by a powerful, compulsive urge to use opioid drugs, even when they are no longer required medically. Opioids have a high potential for causing addiction in some people, even when the medications are prescribed appropriately and taken as directed. Many prescription opioids are misused or diverted to others. Individuals who become addicted may prioritize getting and using these drugs over other activities in their lives, often negatively impacting their professional and personal relationships. It is unknown why some people are more likely to become addicted than others.
+Opioids change the chemistry of the brain and lead to drug tolerance, which means that over time the dose needs to be increased to achieve the same effect. Taking opioids over a long period of time produces dependence, such that when people stop taking the drug, they have physical and psychological symptoms of withdrawal (such as muscle cramping, diarrhea, and anxiety). Dependence is not the same thing as addiction; although everyone who takes opioids for an extended period will become dependent, only a small percentage also experience the compulsive, continuing need for the drug that characterizes addiction.
+Opioid addiction can cause life-threatening health problems, including the risk of overdose. Overdose occurs when high doses of opioids cause breathing to slow or stop, leading to unconsciousness and death if the overdose is not treated immediately. Both legal and illegal opioids carry a risk of overdose if a person takes too much of the drug, or if opioids are combined with other drugs (particularly tranquilizers called benzodiazepines).
+Frequency
+Misuse of prescription opioids and heroin affects more than 2 million Americans and an estimated 15 million people worldwide each year. The prevalence of opioid misuse and addiction is rapidly increasing.
+In 2016, more than 20,000 deaths in the United States were caused by an overdose of prescription opioids, and another 13,000 deaths resulted from heroin overdose. Drug overdoses are now the leading cause of death in U.S. adults under age 50, and opioids account for more than half of all drug overdose deaths.
+Causes
+The causes of opioid addiction are complex. This condition results from a combination of genetic, environmental, and lifestyle factors, some of which have not been identified.
+Many of the genes that are thought to play a role in opioid addiction are involved in the endogenous opioid system, which is the body's internal system for regulating pain, reward, and addictive behaviors. It consists of opioid substances produced naturally within the body (called endogenous opioids) and their receptors, into which opioids fit like keys into locks. Opioids introduced from outside the body (called exogenous opioids), including opioid medications and heroin, also exert their effects by acting on these receptors. Variations in the genes that provide instructions for making opioid receptors have been studied extensively as genetic risk factors for opioid addiction. Researchers suspect that differences in the receptors' structure and function influence how the body responds to opioids.
+Opioid receptors are found in the nervous system, where they are embedded in the
+outer membrane
+of nerve cells (
+neurons
+). When endogenous or exogenous opioids attach (bind) to the receptors, the interaction triggers a series of chemical changes within and between neurons that leads to feelings of pleasure and pain relief. The mu (μ) opioid receptor, which is produced from the
+OPRM1
+gene, is the primary receptor for most opioid drugs. Common variations in the
+OPRM1
+gene appear to influence how the body responds to opioids, including the amount of an opioid medication needed to achieve pain relief. At least in some populations, these variations have also been associated with the risk of opioid addiction.
+Variations in genes involved in other aspects of nervous system function have also been studied as risk factors for opioid addiction. Some of these genes play roles in various neurotransmitter pathways, in which chemicals called
+neurotransmitters
+and their receptors relay signals from one neuron to another. Other genes provide instructions for proteins that help control the growth, survival, and specialization (differentiation) of neurons. Although variations in several of these genes have been associated with opioid addiction, it is unclear how these genetic changes influence the way in which the nervous system responds to opioids.
+Opioid addiction is a complex disorder, and nongenetic factors also play a critical role. Factors that have been shown to increase the risk of opioid addiction include a history of substance abuse;
+depression
+or other psychiatric disorders; childhood abuse or neglect; and certain personality traits, including impulsivity and sensation-seeking. Living in poverty and in a rural area, associating with others who abuse opioids or other substances, and having easy access to prescription or illegal opioids also contribute to a person's risk of opioid addiction. It is likely that a combination of health, social, economic, and lifestyle factors interact with genetic factors to determine an individual's risk.
+Learn more about the genes associated with Opioid addiction
+BDNF
+COMT
+GRIN2A
+OPRM1
+Additional Information from NCBI Gene:
+ABCB1
+AVPR1A
+CSNK1E
+CYP2B6
+DRD2
+DRD3
+DRD4
+FKBP5
+GABRG1
+GAD1
+GAL
+HTR1B
+OPRD1
+OPRK1
+OPRL1
+PDYN
+PNOC
+Inheritance
+Opioid addiction does not have a clear pattern of inheritance, although many affected individuals have a family history of addiction to opioids or other substances. People who have family members with addiction appear to have a higher risk of addiction themselves. This increased risk is likely due in part to shared genetic factors, but it may also be related to environment, lifestyle, and other nongenetic influences that are shared by members of a family.
+Other Names for This Condition
+Opiate addiction
+Opiate dependence
+Opioid dependence
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Opioid dependence, susceptibility to, 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+OPIOID DEPENDENCE, SUSCEPTIBILITY TO, 1
+Scientific Articles on PubMed
+PubMed
+References
+American Society of Addiction Medicine: Opioid Addiction 2016 Facts and Figures
+Crist RC, Berrettini WH. Pharmacogenetics of OPRM1. Pharmacol Biochem Behav.
+2014 Aug;123:25-33. doi: 10.1016/j.pbb.2013.10.018. Epub 2013 Nov 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Levran O, Yuferov V, Kreek MJ. The genetics of the opioid system and specific
+drug addictions. Hum Genet. 2012 Jun;131(6):823-42. doi:
+10.1007/s00439-012-1172-4. Epub 2012 May 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mistry CJ, Bawor M, Desai D, Marsh DC, Samaan Z. Genetics of Opioid
+Dependence: A Review of the Genetic Contribution to Opioid Dependence. Curr
+Psychiatry Rev. 2014 May;10(2):156-167. doi: 10.2174/1573400510666140320000928.
+Citation on PubMed
+or
+Free article on PubMed Central
+Reed B, Butelman ER, Yuferov V, Randesi M, Kreek MJ. Genetics of opiate
+addiction. Curr Psychiatry Rep. 2014 Nov;16(11):504. doi:
+10.1007/s11920-014-0504-6.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Opioid Overdose
+Opioid Use Disorder (OUD) Treatment
+Opioids and Opioid Use Disorder (OUD)
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Mental Health Screening
+Opioid Testing
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,125 @@
+3p deletion syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+3p deletion syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/3p-deletion-syndrome/
+3p deletion syndrome
+Description
+3p deletion syndrome is a condition that results from a chromosomal change in which a small piece of chromosome 3 is deleted in each cell. The deletion occurs at the end of the short (p) arm of the chromosome. This chromosomal change often leads to intellectual disability, developmental delay, and abnormal physical features.
+Individuals with 3p deletion syndrome typically have severe to profound intellectual disability. Most have delayed development of language skills as well as motor skills such as crawling and walking. While affected individuals learn to walk in childhood, their language ability usually remains limited. Some individuals with 3p deletion syndrome have
+obsessive-compulsive disorder
+(OCD) or features of autism spectrum disorders, which are conditions characterized by impaired communication and social interaction.
+The physical signs and symptoms of 3p deletion syndrome vary greatly. Many affected individuals have slow growth, an abnormally small head (
+microcephaly
+), a small jaw (
+micrognathia
+), droopy eyelids (
+ptosis
+), malformed ears or nose, and widely spaced eyes (
+hypertelorism
+). Other frequent features include skin folds covering the inner corner of the eyes (
+epicanthal folds
+), extra fingers or toes (polydactyly), and an opening in the roof of the mouth (
+cleft palate
+). Additionally, individuals with 3p deletion syndrome may have seizures, weak muscle tone (hypotonia), intestinal abnormalities, or congenital heart defects.
+Frequency
+3p deletion syndrome is likely a rare disorder; at least 30 cases have been described in the scientific literature.
+Causes
+3p deletion syndrome is caused by deletion of the end of the small (p) arm of
+chromosome 3
+. The size of
+the deletion
+varies among affected individuals, ranging from approximately 150,000 DNA building blocks (150 kilobases or 150 kb) to 11 million DNA building blocks (11 megabases or 11 Mb). The deletion can include between 4 and 71 known genes. In some individuals, the deletion involves material near the end of the chromosome but does not include the tip (
+the telomere
+).
+The signs and symptoms related to 3p deletion syndrome result from the loss of genes in the 3p region. It is difficult to determine which genes may be responsible for which specific features of 3p deletion syndrome because of the variability in both the size of the deletion and in the signs and symptoms of the condition among affected individuals. Multiple genes at the end of chromosome 3 appear to play a role in neurological development, but because not all people with 3p deletion syndrome are missing the same genes, it is difficult to pinpoint which ones influence the cognitive symptoms. It is likely that the loss of multiple genes contribute to the different physical abnormalities.
+Learn more about the chromosome associated with 3p deletion syndrome
+chromosome 3
+Inheritance
+Most cases of 3p deletion syndrome are not inherited. The
+deletion
+occurs in one chromosome, most often as a random event during the formation of reproductive cells (eggs or sperm) or in early fetal development. In these cases, affected people have no history of the disorder in their family.
+In rare cases, 3p deletion syndrome is inherited, usually from a mildly affected parent. The deletion can also be inherited from an unaffected parent who carries a chromosomal rearrangement between chromosome 3 and another chromosome. This rearrangement is called a
+balanced translocation
+. No genetic material is gained or lost in a balanced translocation, so these chromosomal changes usually do not cause any health problems. However, translocations can become unbalanced as they are passed to the next generation. Children who inherit an
+unbalanced translocation
+have a chromosomal rearrangement with extra or missing genetic material. Individuals with 3p deletion syndrome associated with an unbalanced translocation are missing genetic material from the short arm of chromosome 3, which results in the signs and symptoms of this disorder.
+Other Names for This Condition
+3p partial monosomy syndrome
+3p- syndrome
+Chromosome 3, deletion 3p
+Chromosome 3, monosomy 3p
+Chromosome 3p deletion syndrome
+Del(3p) syndrome
+Deletion 3p
+Monosomy 3p
+Partial monosomy 3p
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: 3p- syndrome
+Genetic and Rare Diseases Information Center
+Distal monosomy 3p
+Partial deletion of the short arm of chromosome 3
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CHROMOSOME 3pter-p25 DELETION SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Kellogg G, Sum J, Wallerstein R. Deletion of 3p25.3 in a patient with
+intellectual disability and dysmorphic features with further definition of a
+critical region. Am J Med Genet A. 2013 Jun;161A(6):1405-8. doi:
+10.1002/ajmg.a.35876. Epub 2013 Apr 23.
+Citation on PubMed
+Malmgren H, Sahlen S, Wide K, Lundvall M, Blennow E. Distal 3p deletion
+syndrome: detailed molecular cytogenetic and clinical characterization of three
+small distal deletions and review. Am J Med Genet A. 2007 Sep 15;143A(18):2143-9.
+doi: 10.1002/ajmg.a.31902.
+Citation on PubMed
+Peltekova IT, Macdonald A, Armour CM. Microdeletion on 3p25 in a patient with
+features of 3p deletion syndrome. Am J Med Genet A. 2012 Oct;158A(10):2583-6.
+doi: 10.1002/ajmg.a.35559. Epub 2012 Aug 17.
+Citation on PubMed
+Pohjola P, de Leeuw N, Penttinen M, Kaariainen H. Terminal 3p deletions in two
+families--correlation between molecular karyotype and phenotype. Am J Med Genet
+A. 2010 Feb;152A(2):441-6. doi: 10.1002/ajmg.a.33215.
+Citation on PubMed
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

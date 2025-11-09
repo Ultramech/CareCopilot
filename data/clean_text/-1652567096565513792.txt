@@ -1,0 +1,183 @@
+Focal dermal hypoplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Focal dermal hypoplasia
+URL of this page: https://medlineplus.gov/genetics/condition/focal-dermal-hypoplasia/
+Focal dermal hypoplasia
+Description
+Focal dermal hypoplasia is a genetic disorder that primarily affects the skin, skeleton, eyes, and face. About 90 percent of affected individuals are female. Males usually have milder signs and symptoms than females. Although intelligence is typically unaffected, some individuals have intellectual disability.
+People with focal dermal hypoplasia have skin abnormalities present from birth, such as streaks of very thin skin (dermal hypoplasia), yellowish-pink nodules of fat under the skin, areas where the top layers of skin are absent (cutis aplasia), small clusters of veins on the surface of the skin (telangiectases), and streaks of slightly darker or lighter skin. These skin changes may cause pain, itching, irritation, or lead to skin infections. Wart-like growths called papillomas are usually not present at birth but develop with age. Papillomas typically form around the nostrils, lips, anus, and female genitalia. They may also be present in the throat, specifically in the esophagus or larynx, and can cause problems with swallowing, breathing, or sleeping. Papillomas can usually be surgically removed if necessary. Affected individuals may have small, ridged fingernails and toenails. Hair on the scalp can be sparse and brittle or absent.
+Many individuals with focal dermal hypoplasia have hand and
+foot abnormalities
+, including missing fingers or toes (
+oligodactyly
+), webbed or fused fingers or toes (
+syndactyly
+), and a
+deep split in the hands
+or
+feet
+with missing fingers or toes and fusion of the remaining digits (ectrodactyly). X-rays can show streaks of altered bone density, called osteopathia striata, that do not cause any symptoms in people with focal dermal hypoplasia.
+Eye abnormalities are common in individuals with focal dermal hypoplasia, including small eyes (
+microphthalmia
+), absent or severely underdeveloped eyes (anophthalmia), and problems with the tear ducts. Affected individuals may also have incomplete development of the light-sensitive tissue at the back of the eye (
+retina
+) or the nerve that relays visual information from the eye to the brain (
+optic nerve
+). This abnormal development of the retina and optic nerve can result in a gap or split in these structures, which is called a
+coloboma
+. Some of these eye abnormalities do not impair vision, while others can lead to low vision or blindness.
+People with focal dermal hypoplasia may have distinctive facial features. Affected individuals often have a
+pointed chin
+,
+small ears
+,
+notched nostrils
+, and a slight difference in the size and shape of the right and left sides of the face (facial asymmetry). These facial characteristics are typically very subtle. An opening in the lip (
+cleft lip
+) with or without an opening in the roof of the mouth (
+cleft palate
+) may also be present.
+About half of individuals with focal dermal hypoplasia have abnormalities of their teeth, especially the hard, white material that forms the protective outer layer of each tooth (enamel). Less commonly, abnormalities of the kidneys and gastrointestinal system are present. The kidneys may be fused together, which predisposes affected individuals to kidney infections but does not typically cause significant health problems. The main gastrointestinal abnormality that occurs in people with focal dermal hypoplasia is an
+omphalocele
+, which is an opening in the wall of the abdomen that allows the abdominal organs to protrude through the navel. The signs and symptoms of focal dermal hypoplasia vary widely, although almost all affected individuals have skin abnormalities.
+Frequency
+Focal dermal hypoplasia appears to be a rare condition, although its exact prevalence is unknown.
+Causes
+Mutations in the
+PORCN
+gene cause focal dermal hypoplasia. This gene provides instructions for making a protein that is responsible for modifying other proteins, called Wnt proteins. Wnt proteins participate in chemical signaling pathways in the body that regulate development of the skin, bones, and other structures before birth.
+Mutations in the
+PORCN
+gene appear to prevent the production of any functional PORCN protein. Researchers believe Wnt proteins cannot be released from the cell without the PORCN protein. When Wnt proteins are unable to leave the cell, they cannot participate in the chemical signaling pathways that are critical for normal development. The various signs and symptoms of focal dermal hypoplasia are likely due to abnormal Wnt signaling during early development.
+Learn more about the gene associated with Focal dermal hypoplasia
+PORCN
+Inheritance
+Focal dermal hypoplasia is inherited in an
+X-linked dominant pattern
+. The gene associated with this condition is located on the X chromosome, which is one of the two
+sex chromosomes
+. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell is sufficient to cause the disorder. The X chromosome that contains the mutated
+PORCN
+gene may be turned on (active) or turned off (inactive) due to a process called
+X-inactivation
+. Early in embryonic development in females, one of the two X chromosomes is permanently inactivated in somatic cells (cells other than egg and sperm cells). X-inactivation ensures that females, like males, have only one active copy of the X chromosome in each body cell. Usually X-inactivation occurs randomly, so that each X chromosome is active in about half the body's cells. Sometimes X-inactivation is not random, and one X chromosome is active in more than half of cells. When X-inactivation does not occur randomly, it is called skewed X-inactivation. Researchers suspect that the distribution of active and inactive X chromosomes may play a role in determining the severity of focal dermal hypoplasia in females.
+In males (who have only one X chromosome), a mutation in the only copy of the
+PORCN
+gene in each cell appears to be lethal very early in development. A male can be born with focal dermal hypoplasia if he has a
+PORCN
+gene mutation in only some of his cells (known as mosaicism). Affected males typically experience milder symptoms of the disorder than females because more of their cells have a functional copy of the
+PORCN
+gene. A characteristic of focal dermal hypoplasia is that mildly affected fathers cannot pass this condition to their sons, but they can pass it to their daughters, who are usually more severely affected than they are. Women with focal dermal hypoplasia cannot pass this condition to their sons (because it is lethal early in development) but can pass it to their daughters.
+Most cases of focal dermal hypoplasia in females result from new mutations in the
+PORCN
+gene and occur in people with no history of the disorder in their family. When focal dermal hypoplasia occurs in males, it always results from a new mutation in this gene that is not inherited. Only about 5 percent of females with this condition inherit a mutation in the
+PORCN
+gene from a parent.
+Other Names for This Condition
+Goltz syndrome
+Goltz-Gorlin syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Focal dermal hypoplasia
+Genetic and Rare Diseases Information Center
+Focal dermal hypoplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+FOCAL DERMAL HYPOPLASIA; FDH
+Scientific Articles on PubMed
+PubMed
+References
+Clements SE, Mellerio JE, Holden ST, McCauley J, McGrath JA. PORCN gene
+mutations and the protean nature of focal dermal hypoplasia. Br J Dermatol. 2009
+May;160(5):1103-9. doi: 10.1111/j.1365-2133.2009.09048.x. Epub 2009 Mar 9.
+Citation on PubMed
+Clements SE, Wessagowit V, Lai-Cheong JE, Arita K, McGrath JA. Focal dermal
+hypoplasia resulting from a new nonsense mutation, p.E300X, in the PORCN gene. J
+Dermatol Sci. 2008 Jan;49(1):39-42. doi: 10.1016/j.jdermsci.2007.09.004. Epub
+2007 Oct 24.
+Citation on PubMed
+Grzeschik KH, Bornholdt D, Oeffner F, Konig A, del Carmen Boente M, Enders H,
+Fritz B, Hertl M, Grasshoff U, Hofling K, Oji V, Paradisi M, Schuchardt C, Szalai
+Z, Tadini G, Traupe H, Happle R. Deficiency of PORCN, a regulator of Wnt
+signaling, is associated with focal dermal hypoplasia. Nat Genet. 2007
+Jul;39(7):833-5. doi: 10.1038/ng2052. Epub 2007 Jun 3.
+Citation on PubMed
+Hancock S, Pryde P, Fong C, Brazy JE, Stewart K, Favour A, Pauli RM. Probable
+identity of Goltz syndrome and Van Allen-Myhre syndrome: evidence from phenotypic
+evolution. Am J Med Genet. 2002 Jul 15;110(4):370-9. doi: 10.1002/ajmg.10456.
+Citation on PubMed
+Leoyklang P, Suphapeetiporn K, Wananukul S, Shotelersuk V. Three novel
+mutations in the PORCN gene underlying focal dermal hypoplasia. Clin Genet. 2008
+Apr;73(4):373-9. doi: 10.1111/j.1399-0004.2008.00975.x. Epub 2008 Mar 3.
+Citation on PubMed
+Lombardi MP, Bulk S, Celli J, Lampe A, Gabbett MT, Ousager LB, van der Smagt
+JJ, Soller M, Stattin EL, Mannens MA, Smigiel R, Hennekam RC. Mutation update for
+the PORCN gene. Hum Mutat. 2011 Jul;32(7):723-8. doi: 10.1002/humu.21505. Epub
+2011 Jun 21.
+Citation on PubMed
+Paller AS. Wnt signaling in focal dermal hypoplasia. Nat Genet. 2007
+Jul;39(7):820-1. doi: 10.1038/ng0707-820. No abstract available.
+Citation on PubMed
+Proffitt KD, Virshup DM. Precise regulation of porcupine activity is required
+for physiological Wnt signaling. J Biol Chem. 2012 Oct 5;287(41):34167-78. doi:
+10.1074/jbc.M112.381970. Epub 2012 Aug 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sutton VR. PORCN-Related Developmental Disorders. 2008 May 15
+[updated 2023 Jun 15]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1543/
+Citation on PubMed
+Wang X, Reid Sutton V, Omar Peraza-Llanes J, Yu Z, Rosetta R, Kou YC, Eble TN,
+Patel A, Thaller C, Fang P, Van den Veyver IB. Mutations in X-linked PORCN, a
+putative regulator of Wnt signaling, cause focal dermal hypoplasia. Nat Genet.
+2007 Jul;39(7):836-8. doi: 10.1038/ng2057. Epub 2007 Jun 3.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cleft Lip and Palate
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Ectodermal dysplasia
+Genetics
+Omphalocele
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

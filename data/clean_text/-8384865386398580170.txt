@@ -1,0 +1,121 @@
+PPM-X syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+PPM-X syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/ppm-x-syndrome/
+PPM-X syndrome
+Description
+PPM-X syndrome is a condition characterized by psychotic disorders (most commonly
+bipolar disorder
+), a pattern of movement abnormalities known as parkinsonism, and mild to severe intellectual disability with impaired language development. Other symptoms may include muscle stiffness (spasticity), exaggerated reflexes, and an abnormally small head (
+microcephaly
+). Affected males may have enlarged testes (macro-orchidism). Not all affected individuals have all these symptoms, but most have intellectual disability. Males with this condition are typically more severely affected than females, who usually have only mild intellectual disability or learning disabilities.
+Frequency
+PPM-X syndrome is thought to be a very rare condition, although its prevalence is unknown.
+Causes
+Mutations in the
+MECP2
+gene cause PPM-X syndrome. The
+MECP2
+gene provides instructions for making a protein called MeCP2 that is critical for normal brain function. Researchers believe that this protein has several functions, including regulating other genes in the brain by switching them off when they are not needed. The MeCP2 protein likely plays a role in maintaining connections (
+synapses
+) between
+nerve cells
+. The MeCP2 protein may also control the production of different versions of certain proteins in nerve cells. Although mutations in the
+MECP2
+gene disrupt the normal function of nerve cells, it is unclear how these mutations lead to the signs and symptoms of PPM-X syndrome.
+Some
+MECP2
+gene mutations that cause PPM-X syndrome disrupt attachment (binding) of the MeCP2 protein to DNA, and other mutations alter the 3-dimensional shape of the protein. These mutations lead to the production of an MeCP2 protein that cannot properly interact with DNA or other proteins and so cannot control the expression of genes. It is unclear how
+MECP2
+gene mutations lead to the signs and symptoms of PPM-X syndrome, but misregulation of genes in the brain likely plays a role.
+Learn more about the gene associated with PPM-X syndrome
+MECP2
+Inheritance
+More than 99 percent of PPM-X syndrome cases occur in people with no history of the disorder in their family. Many of these cases result from new mutations in the
+MECP2
+gene.
+A few families with more than one affected family member have been described. These cases helped researchers determine that PPM-X syndrome has an X-linked pattern of inheritance. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+in each cell. In males, who have only one X chromosome, a mutation in the only copy of the gene in each cell is sufficient to cause the condition. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell can lead to less severe features of the condition or may cause no signs or symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+MRXS13
+PPMX
+X-linked mental retardation, syndromic 13
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Rett syndrome
+Genetic and Rare Diseases Information Center
+X-linked intellectual disability-psychosis-macroorchidism syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+INTELLECTUAL DEVELOPMENTAL DISORDER, X-LINKED, SYNDROMIC 13; MRXS13
+Scientific Articles on PubMed
+PubMed
+References
+Francke U. Mechanisms of disease: neurogenetics of MeCP2 deficiency. Nat Clin
+Pract Neurol. 2006 Apr;2(4):212-21. doi: 10.1038/ncpneuro0148.
+Citation on PubMed
+Gonzales ML, LaSalle JM. The role of MeCP2 in brain development and
+neurodevelopmental disorders. Curr Psychiatry Rep. 2010 Apr;12(2):127-34. doi:
+10.1007/s11920-010-0097-7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lambert S, Maystadt I, Boulanger S, Vrielynck P, Destree A, Lederer D,
+Moortgat S. Expanding phenotype of p.Ala140Val mutation in MECP2 in a 4
+generation family with X-linked intellectual disability and spasticity. Eur J Med
+Genet. 2016 Oct;59(10):522-5. doi: 10.1016/j.ejmg.2016.07.003. Epub 2016 Jul 25.
+Citation on PubMed
+Psoni S, Sofocleous C, Traeger-Synodinos J, Kitsiou-Tzeli S, Kanavakis E,
+Fryssira-Kanioura H. Phenotypic and genotypic variability in four males with
+MECP2 gene sequence aberrations including a novel deletion. Pediatr Res. 2010
+May;67(5):551-6. doi: 10.1203/PDR.0b013e3181d4ecf7.
+Citation on PubMed
+Villard L. MECP2 mutations in males. J Med Genet. 2007 Jul;44(7):417-23. doi:
+10.1136/jmg.2007.049452. Epub 2007 Mar 9.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Bipolar Disorder
+Developmental Disabilities
+Genetic Disorders
+Movement Disorders
+Psychotic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

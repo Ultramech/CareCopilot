@@ -1,0 +1,226 @@
+Limb-girdle muscular dystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Limb-girdle muscular dystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/limb-girdle-muscular-dystrophy/
+Limb-girdle muscular dystrophy
+Description
+Limb-girdle muscular dystrophy is a term for a group of diseases that cause weakness and wasting of the muscles in the arms and legs. The muscles most affected are those closest to the body (proximal muscles), specifically the muscles of the shoulders, upper arms, pelvic area, and thighs.
+The severity, age of onset, and features of limb-girdle muscle dystrophy vary among the many subtypes of this condition and may be inconsistent even within the same family. Signs and symptoms may first appear at any age and generally worsen with time, although in some cases they remain mild.
+In the early stages of limb-girdle muscular dystrophy, affected individuals may have an unusual walking gait, such as waddling or walking on the balls of their feet, and may also have difficulty running. They may need to use their arms to press themselves up from a squatting position because of their weak thigh muscles. As the condition progresses, people with limb-girdle muscular dystrophy may eventually require wheelchair assistance.
+Muscle wasting may cause changes in posture or in the appearance of the shoulder, back, and arm. In particular, weak shoulder muscles tend to make the shoulder blades (scapulae) "stick out" from the back, a sign known as scapular winging. Affected individuals may also have an abnormally curved lower back (
+lordosis
+) or a spine that curves to the side (
+scoliosis
+). Some develop joint stiffness (contractures) that can restrict movement in their hips, knees, ankles, or elbows. Overgrowth (hypertrophy) of the calf muscles occurs in some people with limb-girdle muscular dystrophy.
+Weakening of the heart muscle (cardiomyopathy) occurs in some forms of limb-girdle muscular dystrophy. Some affected individuals experience mild to severe breathing problems related to the weakness of muscles needed for breathing. In some cases, the breathing problems are severe enough that affected individuals need to use a machine to help them breathe (mechanical ventilation).
+Intelligence is generally unaffected in limb-girdle muscular dystrophy; however, developmental delay and intellectual disability have been reported in rare forms of the disorder.
+Frequency
+It is difficult to determine the prevalence of limb-girdle muscular dystrophy because its features vary and overlap with those of other muscle disorders. Prevalence estimates range from 1 in 14,500 to 1 in 123,000 individuals.
+Causes
+The various forms of limb-girdle muscular dystrophy are caused by mutations in many different genes. These genes provide instructions for making proteins that are involved in muscle maintenance and repair.
+Some of the proteins produced from these genes assemble with other proteins into larger protein complexes. These complexes maintain the physical integrity of muscle tissue and allow the muscles to contract. Other proteins participate in cell signaling, cell membrane repair, or the removal of potentially toxic wastes from muscle cells.
+Limb-girdle muscular dystrophy is classified on the basis of its inheritance pattern and genetic cause. Limb-girdle muscular dystrophy type 1 includes forms of the disorder that have an inheritance pattern called
+autosomal dominant
+. Limb-girdle muscular dystrophy type 2 includes forms of the disorder that have an inheritance pattern called
+autosomal recessive
+.
+Calpainopathy, or limb-girdle muscular dystrophy type 2A, is caused by mutations in the
+CAPN3
+gene. Type 2A is the most common form of limb-girdle muscular dystrophy, accounting for about 30 percent of cases. Dysferlinopathy, also called limb-girdle muscular dystrophy type 2B, is caused by mutations in the
+DYSF
+gene.
+Sarcoglycanopathies are forms of limb-girdle muscular dystrophy caused by mutations in the
+SGCA
+,
+SGCB
+,
+SGCG
+, and
+SGCD
+genes. These sarcoglycanopathies are known as limb-girdle muscular dystrophy types 2D, 2E, 2C, and 2F respectively.
+A
+TTN
+gene mutation causes limb-girdle muscular dystrophy type 2J, which has been identified only in the Finnish population. Mutations in the
+ANO5
+gene cause limb-girdle muscular dystrophy type 2L. Mutations in several other genes cause forms of limb-girdle muscular dystrophy called dystroglycanopathies, including limb-girdle muscular dystrophy types 2I, 2K, 2M, and 2N.
+Other rare forms of limb-girdle muscular dystrophy are caused by mutations in several other genes, some of which have not been identified. In addition, for certain forms that are classified by some researchers as limb-girdle muscular dystrophy, other researchers propose grouping them with different, related disorders, such as
+myofibrillar myopathy
+,
+Emery-Dreifuss muscular dystrophy
+,
+rippling muscle disease
+, or
+Pompe disease
+.
+Learn more about the genes associated with Limb-girdle muscular dystrophy
+ANO5
+CAPN3
+CAV3
+COL6A1
+COL6A2
+COL6A3
+CRPPA
+DYSF
+FKRP
+FKTN
+LAMA2
+LMNA
+MYOT
+PLEC
+POGLUT1
+POMT1
+POMT2
+SGCA
+SGCB
+SGCD
+SGCG
+TTN
+Additional Information from NCBI Gene:
+DAG1
+DNAJB6
+GMPPB
+HNRNPDL
+POMGNT1
+POMGNT2
+TCAP
+TNPO3
+TRAPPC11
+TRIM32
+Inheritance
+Limb-girdle muscular dystrophy can have different inheritance patterns.
+Most forms of this condition are inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Several rare forms of limb-girdle muscular dystrophy are inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+LGMD
+Limb-girdle syndrome
+Myopathic limb-girdle syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Limb-girdle muscular dystrophy
+Genetic and Rare Diseases Information Center
+Limb-girdle muscular dystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 7; LGMDR7
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 6; LGMDR6
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 1; LGMDR1
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 2; LGMDR2
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 5; LGMDR5
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 8; LGMDR8
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL DOMINANT 1; LGMDD1
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 4; LGMDR4
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 10; LGMDR10
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 5; MDDGC5
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 3; LGMDR3
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL DOMINANT 2; LGMDD2
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 12; LGMDR12
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL DOMINANT 3; LGMDD3
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 1; MDDGC1
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 4; MDDGC4
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 14; MDDGC14
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 18; LGMDR18
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 3; MDDGC3
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 2; MDDGC2
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1H; LGMD1H
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 17; LGMDR17
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 12; MDDGC12
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL DOMINANT 4; LGMDD4
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 8; MDDGC8
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 7; MDDGC7
+MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 21; LGMDR21
+MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 9; MDDGC9
+Scientific Articles on PubMed
+PubMed
+References
+Angelini C, Giaretta L, Marozzo R. An update on diagnostic options and
+considerations in limb-girdle dystrophies. Expert Rev Neurother. 2018
+Sep;18(9):693-703. doi: 10.1080/14737175.2018.1508997. Epub 2018 Aug 21.
+Citation on PubMed
+Chu ML, Moran E. The Limb-Girdle Muscular Dystrophies: Is Treatment on the
+Horizon? Neurotherapeutics. 2018 Oct;15(4):849-862. doi:
+10.1007/s13311-018-0648-x.
+Citation on PubMed
+or
+Free article on PubMed Central
+Khadilkar SV, Patel BA, Lalkaka JA. Making sense of the clinical spectrum of
+limb girdle muscular dystrophies. Pract Neurol. 2018 Jun;18(3):201-210. doi:
+10.1136/practneurol-2017-001799. Epub 2018 Feb 22.
+Citation on PubMed
+Liewluck T, Milone M. Untangling the complexity of limb-girdle muscular
+dystrophies. Muscle Nerve. 2018 Aug;58(2):167-177. doi: 10.1002/mus.26077. Epub
+2018 Feb 7.
+Citation on PubMed
+Liu W, Pajusalu S, Lake NJ, Zhou G, Ioannidis N, Mittal P, Johnson NE, Weihl
+CC, Williams BA, Albrecht DE, Rufibach LE, Lek M. Estimating prevalence for
+limb-girdle muscular dystrophy based on public sequencing databases. Genet Med.
+2019 Nov;21(11):2512-2520. doi: 10.1038/s41436-019-0544-8. Epub 2019 May 20.
+Citation on PubMed
+Mah JK, Korngut L, Fiest KM, Dykeman J, Day LJ, Pringsheim T, Jette N. A
+Systematic Review and Meta-analysis on the Epidemiology of the Muscular
+Dystrophies. Can J Neurol Sci. 2016 Jan;43(1):163-77. doi: 10.1017/cjn.2015.311.
+Citation on PubMed
+Mitsuhashi S, Kang PB. Update on the genetics of limb girdle muscular
+dystrophy. Semin Pediatr Neurol. 2012 Dec;19(4):211-8. doi:
+10.1016/j.spen.2012.09.008.
+Citation on PubMed
+Straub V, Murphy A, Udd B; LGMD workshop study group. 229th ENMC international
+workshop: Limb girdle muscular dystrophies - Nomenclature and reformed
+classification Naarden, the Netherlands, 17-19 March 2017. Neuromuscul Disord.
+2018 Aug;28(8):702-710. doi: 10.1016/j.nmd.2018.05.007. Epub 2018 May 24. No
+abstract available.
+Citation on PubMed
+Thompson R, Straub V. Limb-girdle muscular dystrophies - international
+collaborations for translational research. Nat Rev Neurol. 2016
+May;12(5):294-309. doi: 10.1038/nrneurol.2016.35. Epub 2016 Apr 1.
+Citation on PubMed
+Wicklund MP, Kissel JT. The limb-girdle muscular dystrophies. Neurol Clin.
+2014 Aug;32(3):729-49, ix. doi: 10.1016/j.ncl.2014.04.005.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscular Dystrophy
+MEDICAL ENCYCLOPEDIA
+Genetics
+Limb-girdle muscular dystrophies
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

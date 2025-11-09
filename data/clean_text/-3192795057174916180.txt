@@ -1,0 +1,171 @@
+Benign familial neonatal seizures: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Benign familial neonatal seizures
+URL of this page: https://medlineplus.gov/genetics/condition/benign-familial-neonatal-seizures/
+Benign familial neonatal seizures
+Description
+Benign familial neonatal seizures (BFNS) is a condition characterized by recurrent seizures in newborn babies. The seizures begin around day 3 of life and usually go away within 1 to 4 months. The seizures can involve only one side of the brain (focal seizures) or both sides (generalized seizures). This condition is often associated with generalized tonic-clonic seizures (also known as grand mal seizures). This type of seizure involves both sides of the brain and affects the entire body, causing a combination of seizure types: tonic seizures, which are characterized by uncontrolled muscle stiffness and rigidity, and clonic seizures, which are characterized by uncontrolled jerking of the muscles. Seizure episodes in infants with BFNS typically begin with tonic stiffness and pauses in breathing (apnea) followed by clonic jerking.
+A test called an electroencephalogram (EEG) is used to measure the electrical activity of the brain. Abnormalities on an EEG test, measured during no seizure activity, can indicate a risk for seizures. However, infants with BFNS usually have normal EEG readings. In some affected individuals, the EEG shows a specific abnormality called the theta pointu alternant pattern. By age 2, most affected individuals who had EEG abnormalities have a normal EEG reading.
+Typically, seizures are the only symptom of BFNS, and most people with this condition develop normally. However, some affected individuals develop intellectual disability that becomes noticeable in early childhood. A small percentage of people with BFNS also have a condition called myokymia, which is an involuntary rippling movement of the muscles. In addition, in about 15 percent of people with BFNS, recurrent seizures (epilepsy) will come back later in life after the seizures associated with BFNS have gone away. The age that epilepsy begins is variable.
+Frequency
+Benign familial neonatal seizures occurs in approximately 1 in 100,000 newborns.
+Causes
+Mutations in two genes,
+KCNQ2
+and
+KCNQ3
+, have been found to cause BFNS. Mutations in the
+KCNQ2
+gene are a much more common cause of the condition than mutations in the
+KCNQ3
+gene.
+The
+KCNQ2
+and
+KCNQ3
+genes provide instructions for making proteins that interact to form potassium channels. Potassium channels, which transport positively charged atoms (ions) of potassium into and out of cells, play a key role in a cell's ability to generate and transmit electrical signals.
+Channels made with the KCNQ2 and KCNQ3 proteins are active in nerve cells (neurons) in the brain, where they transport potassium ions out of cells. These channels transmit a particular type of electrical signal called the M-current, which prevents the neuron from continuing to send signals to other neurons. The M-current ensures that the neuron is not constantly active, or excitable.
+Mutations in the
+KCNQ2
+or
+KCNQ3
+gene result in a reduced or altered M-current, which leads to excessive excitability of neurons. Seizures develop when neurons in the brain are abnormally excited. It is unclear why the seizures stop around the age of 4 months. It has been suggested that potassium channels formed from the KCNQ2 and KCNQ3 proteins play a major role in preventing excessive excitability of neurons in newborns, but other mechanisms develop during infancy.
+About 70 percent of people with BFNS have a mutation in either the
+KCNQ2
+or the
+KCNQ3
+gene. Researchers are working to identify other gene mutations involved in this condition.
+Learn more about the genes associated with Benign familial neonatal seizures
+KCNQ2
+KCNQ3
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person
+inherits the mutation from one affected parent
+. A few cases result from
+new mutations
+in the
+KCNQ2
+gene. These cases occur in people with no history of benign familial neonatal seizures in their family.
+Other Names for This Condition
+Benign familial neonatal convulsions
+Benign familial neonatal epilepsy
+Benign neonatal convulsions
+Benign neonatal epilepsy
+BFNE
+BFNS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Seizures, benign familial neonatal, 1
+Genetic Testing Registry: Seizures, benign familial neonatal, 2
+Genetic and Rare Diseases Information Center
+Benign familial neonatal epilepsy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SEIZURES, BENIGN FAMILIAL NEONATAL, 1; BFNS1
+SEIZURES, BENIGN FAMILIAL NEONATAL, 2; BFNS2
+Scientific Articles on PubMed
+PubMed
+References
+Biervert C, Schroeder BC, Kubisch C, Berkovic SF, Propping P, Jentsch TJ,
+Steinlein OK. A potassium channel mutation in neonatal human epilepsy. Science.
+1998 Jan 16;279(5349):403-6. doi: 10.1126/science.279.5349.403.
+Citation on PubMed
+Castaldo P, del Giudice EM, Coppola G, Pascotto A, Annunziato L, Taglialatela
+M. Benign familial neonatal convulsions caused by altered gating of KCNQ2/KCNQ3
+potassium channels. J Neurosci. 2002 Jan 15;22(2):RC199. doi:
+10.1523/JNEUROSCI.22-02-j0003.2002.
+Citation on PubMed
+Chung HJ, Jan YN, Jan LY. Polarized axonal surface expression of neuronal KCNQ
+channels is mediated by multiple signals in the KCNQ2 and KCNQ3 C-terminal
+domains. Proc Natl Acad Sci U S A. 2006 Jun 6;103(23):8870-5. doi:
+10.1073/pnas.0603376103. Epub 2006 May 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lerche H, Biervert C, Alekov AK, Schleithoff L, Lindner M, Klinger W,
+Bretschneider F, Mitrovic N, Jurkat-Rott K, Bode H, Lehmann-Horn F, Steinlein OK.
+A reduced K+ current due to a novel mutation in KCNQ2 causes neonatal
+convulsions. Ann Neurol. 1999 Sep;46(3):305-12. doi:
+10.1002/1531-8249(199909)46:33.0.co;2-5.
+Citation on PubMed
+Miceli F, Soldovieri MV, Weckhuysen S, Cooper E, Taglialatela M.
+KCNQ2-Related Disorders. 2010 Apr 27 [updated 2022 May 19]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK32534/
+Citation on PubMed
+Rogawski MA. KCNQ2/KCNQ3 K+ channels and the molecular pathogenesis of
+epilepsy: implications for therapy. Trends Neurosci. 2000 Sep;23(9):393-8. doi:
+10.1016/s0166-2236(00)01629-5.
+Citation on PubMed
+Schroeder BC, Kubisch C, Stein V, Jentsch TJ. Moderate loss of function of
+cyclic-AMP-modulated KCNQ2/KCNQ3 K+ channels causes epilepsy. Nature. 1998 Dec
+17;396(6712):687-90. doi: 10.1038/25367.
+Citation on PubMed
+Singh NA, Westenskow P, Charlier C, Pappas C, Leslie J, Dillon J, Anderson VE,
+Sanguinetti MC, Leppert MF; BFNC Physician Consortium. KCNQ2 and KCNQ3 potassium
+channel genes in benign familial neonatal convulsions: expansion of the
+functional and mutation spectrum. Brain. 2003 Dec;126(Pt 12):2726-37. doi:
+10.1093/brain/awg286. Epub 2003 Oct 8.
+Citation on PubMed
+Soldovieri MV, Miceli F, Bellini G, Coppola G, Pascotto A, Taglialatela M.
+Correlating the clinical and genetic features of benign familial neonatal
+seizures (BFNS) with the functional consequences of underlying mutations.
+Channels (Austin). 2007 Jul-Aug;1(4):228-33. doi: 10.4161/chan.4823. Epub 2007
+Aug 2.
+Citation on PubMed
+Volkers L, Rook MB, Das JH, Verbeek NE, Groenewegen WA, van Kempen MJ,
+Lindhout D, Koeleman BP. Functional analysis of novel KCNQ2 mutations found in
+patients with Benign Familial Neonatal Convulsions. Neurosci Lett. 2009 Oct
+2;462(1):24-9. doi: 10.1016/j.neulet.2009.06.064. Epub 2009 Jun 25.
+Citation on PubMed
+Wang HS, Pan Z, Shi W, Brown BS, Wymore RS, Cohen IS, Dixon JE, McKinnon D.
+KCNQ2 and KCNQ3 potassium channel subunits: molecular correlates of the
+M-channel. Science. 1998 Dec 4;282(5395):1890-3. doi:
+10.1126/science.282.5395.1890.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Epilepsy
+Genetic Disorders
+Seizures
+MEDICAL ENCYCLOPEDIA
+EEG
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

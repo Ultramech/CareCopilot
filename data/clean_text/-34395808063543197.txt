@@ -1,0 +1,128 @@
+Nail-patella syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Nail-patella syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/nail-patella-syndrome/
+Nail-patella syndrome
+Description
+Nail-patella syndrome is characterized by abnormalities of the nails, knees, elbows, and pelvis. The features of nail-patella syndrome vary in severity between affected individuals, even among members of the same family.
+Nail abnormalities are seen in almost all individuals with nail-patella syndrome. The nails may be absent or underdeveloped and discolored, split, ridged, or pitted. The fingernails are more likely to be affected than the toenails, and the thumbnails are usually the most severely affected. In many people with this condition, the areas at the base of the nails (lunulae) are triangular instead of the usual crescent shape.
+Individuals with nail-patella syndrome also commonly have skeletal abnormalities involving the knees, elbows, and hips. The kneecaps (patellae) are small, irregularly shaped, or absent, and dislocation of the patella is common. Some people with this condition may not be able to fully extend their arms or turn their palms up while keeping their elbows straight. The elbows may also be angled outward (cubitus valgus) or have abnormal webbing. Many individuals with nail-patella syndrome have horn-like outgrowths of the iliac bones of the pelvis (iliac horns). These abnormal projections may be felt through the skin, but they do not cause any symptoms and are usually detected on a pelvic x-ray. Iliac horns are very common in people with nail-patella syndrome and are rarely, if ever, seen in people without this condition.
+Other areas of the body may also be affected in nail-patella syndrome, particularly the eyes and kidneys. Individuals with this condition are at risk of developing increased pressure within the eyes (
+glaucoma
+) at an early age. Some people develop kidney disease, which can progress to kidney failure.
+Frequency
+The prevalence of nail-patella syndrome is estimated to be 1 in 50,000 individuals.
+Causes
+Mutations in the
+LMX1B
+gene cause nail-patella syndrome. The
+LMX1B
+gene provides instructions for producing a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the LMX1B protein is called a transcription factor. The LMX1B protein appears to be particularly important during early embryonic development of the limbs, kidneys, and eyes. Mutations in the
+LMX1B
+gene lead to the production of an abnormally short, nonfunctional protein or affect the protein's ability to bind to DNA. It is unclear how mutations in the
+LMX1B
+gene lead to the signs and symptoms of nail-patella syndrome.
+Learn more about the gene associated with Nail-patella syndrome
+LMX1B
+Inheritance
+Nail-patella syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person
+inherits the mutation
+from one affected parent. Other cases may result from
+new mutations
+in the
+LMX1B
+gene. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Fong disease
+Hereditary onycho-osteodysplasia
+Hereditary osteo-onychodysplasia
+Osterreicher syndrome
+Pelvic horn syndrome
+Turner-Kieser syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Nail-patella syndrome
+Genetic and Rare Diseases Information Center
+Nail-patella syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GLAUCOMA 1, OPEN ANGLE, A; GLC1A
+NAIL-PATELLA SYNDROME; NPS
+Scientific Articles on PubMed
+PubMed
+References
+Bongers EM, Huysmans FT, Levtchenko E, de Rooy JW, Blickman JG, Admiraal RJ,
+Huygen PL, Cruysberg JR, Toolens PA, Prins JB, Krabbe PF, Borm GF, Schoots J, van
+Bokhoven H, van Remortele AM, Hoefsloot LH, van Kampen A, Knoers NV.
+Genotype-phenotype studies in nail-patella syndrome show that LMX1B mutation
+location is involved in the risk of developing nephropathy. Eur J Hum Genet. 2005
+Aug;13(8):935-46. doi: 10.1038/sj.ejhg.5201446.
+Citation on PubMed
+Marini M, Bocciardi R, Gimelli S, Di Duca M, Divizia MT, Baban A, Gaspar H,
+Mammi I, Garavelli L, Cerone R, Emma F, Bedeschi MF, Tenconi R, Sensi A, Salmaggi
+A, Bengala M, Mari F, Colussi G, Szczaluba K, Antonarakis SE, Seri M, Lerone M,
+Ravazzolo R. A spectrum of LMX1B mutations in Nail-Patella syndrome: new point
+mutations, deletion, and evidence of mosaicism in unaffected parents. Genet Med.
+2010 Jul;12(7):431-9. doi: 10.1097/GIM.0b013e3181e21afa.
+Citation on PubMed
+McIntosh I, Dunston JA, Liu L, Hoover-Fong JE, Sweeney E. Nail patella
+syndrome revisited: 50 years after linkage. Ann Hum Genet. 2005 Jul;69(Pt
+4):349-63. doi: 10.1111/j.1529-8817.2005.00191.x.
+Citation on PubMed
+Sweeney E, Fryer A, Mountford R, Green A, McIntosh I. Nail patella syndrome: a
+review of the phenotype aided by developmental biology. J Med Genet. 2003
+Mar;40(3):153-62. doi: 10.1136/jmg.40.3.153.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sweeney E, Hoover-Fong JE, McIntosh I. Nail-Patella Syndrome. 2003 May 31
+[updated 2023 Dec 14]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1132/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Glaucoma
+Kidney Diseases
+Nail Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

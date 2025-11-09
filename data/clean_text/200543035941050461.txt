@@ -1,0 +1,174 @@
+Core binding factor acute myeloid leukemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Core binding factor acute myeloid leukemia
+URL of this page: https://medlineplus.gov/genetics/condition/core-binding-factor-acute-myeloid-leukemia/
+Core binding factor acute myeloid leukemia
+Description
+Core binding factor acute myeloid leukemia (CBF-AML) is one form of a cancer of the blood-forming tissue (bone marrow) called acute myeloid leukemia. In normal bone marrow, early blood cells called
+hematopoietic stem cells
+develop into several types of blood cells: white blood cells (leukocytes) that protect the body from infection, red blood cells (erythrocytes) that carry oxygen, and platelets (thrombocytes) that are involved in
+blood clotting
+. In acute myeloid
+leukemia
+, the bone marrow makes large numbers of abnormal, immature white blood cells called myeloid blasts. Instead of developing into normal white blood cells, the myeloid blasts develop into cancerous leukemia cells. The large number of abnormal cells in the bone marrow interferes with the production of functional white blood cells, red blood cells, and platelets.
+People with CBF-AML have a shortage of all types of mature blood cells: a shortage of white blood cells (leukopenia) leads to increased susceptibility to infections, a low number of red blood cells (
+anemia
+) causes fatigue and weakness, and a reduction in the amount of platelets (thrombocytopenia) can result in easy bruising and abnormal bleeding. Other symptoms of CBF-AML may include fever and weight loss.
+While acute myeloid leukemia is generally a disease of older adults, CBF-AML often begins in young adulthood and can occur in childhood. Compared to other forms of acute myeloid leukemia, CBF-AML has a relatively good prognosis: about 90 percent of individuals with CBF-AML recover from their disease following treatment, compared with 25 to 40 percent of those with other forms of acute myeloid leukemia. However, the disease recurs in approximately half of them after successful treatment of the initial occurrence.
+Frequency
+Acute myeloid leukemia occurs in approximately 3.5 per 100,000 individuals each year. CBF-AML accounts for 12 to 15 percent of acute myeloid leukemia cases in adults.
+Causes
+CBF-AML is associated with chromosomal rearrangements between
+chromosome 8
+and
+chromosome 21
+and within
+chromosome 16
+. The rearrangements involve the
+RUNX1
+,
+RUNX1T1
+,
+CBFB
+, and
+MYH11
+genes. Two of these genes,
+RUNX1
+and
+CBFB
+, provide instructions for making the two pieces of a protein complex known as core binding factor (CBF). CBF attaches to certain regions of DNA and turns on genes that help control the development of blood cells (hematopoiesis). In particular, it plays an important role in development of hematopoietic stem cells. Chromosomal rearrangements involving the
+RUNX1
+or
+CBFB
+gene alter CBF, leading to leukemia.
+In CBF-AML, the
+RUNX1
+gene is affected by a type of genetic rearrangement known as a translocation; in this type of change, pieces of DNA from two chromosomes break off and are interchanged. The most common translocation in this condition, called t(8;21), fuses a part of the
+RUNX1
+gene on chromosome 21 with part of the
+RUNX1T1
+gene (also known as
+ETO
+) on chromosome 8. The combination of these genes leads to production of the RUNX1-ETO fusion protein. This fusion protein is able to form CBF and attach to DNA, like the normal RUNX1 protein. However, because the function of the protein produced from the normal
+RUNX1T1
+gene is to block gene activity, the abnormal CBF turns genes off instead of turning them on.
+Other genetic rearrangements associated with CBF-AML alter the
+CBFB
+gene. One such rearrangement, called an
+inversion
+, involves breakage of a chromosome in two places; the resulting piece of DNA is reversed and reinserted into the chromosome. The inversion involved in CBF-AML (written as inv(16)) leads to the fusion of two genes on chromosome 16,
+CBFB
+and
+MYH11
+. Less commonly, a translocation involving chromosome 16, written as t(16;16), leads to the fusion of the same two genes. The protein produced from these genetic rearrangements is called CBFβ-MYH11. The fusion protein can form CBF, but it is thought that the presence of the MYH11 portion of the fusion protein prevents CBF from binding to DNA, impairing its ability to control gene activity. Alternatively, the MYH11 portion may interact with other proteins that prevent CBF from controlling gene activity.
+The change in gene activity caused by alteration of CBF
+blocks the maturation (differentiation) of blood cells
+and leads to the production of abnormal myeloid blasts. However, a chromosomal rearrangement alone is usually not enough to cause leukemia; one or more additional genetic changes are needed for cancer to develop. The additional changes likely cause the immature cells to grow and divide uncontrollably, leading to the excess of myeloid blasts characteristic of CBF-AML.
+Learn more about the genes and chromosomes associated with Core binding factor acute myeloid leukemia
+CBFB
+FLT3
+KIT
+KRAS
+MYH11
+NRAS
+RUNX1
+RUNX1T1
+chromosome 16
+chromosome 21
+chromosome 8
+Inheritance
+CBF-AML is not inherited but arises from genetic rearrangements in the body's cells that occur after conception.
+Other Names for This Condition
+CBF acute myeloid leukemia
+CBF-AML
+Core-binding factor AML
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Acute myeloid leukemia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LEUKEMIA, ACUTE MYELOID; AML
+Scientific Articles on PubMed
+PubMed
+References
+Goyama S, Mulloy JC. Molecular pathogenesis of core binding factor leukemia:
+current knowledge and future prospects. Int J Hematol. 2011 Aug;94(2):126-133.
+doi: 10.1007/s12185-011-0858-z. Epub 2011 May 3.
+Citation on PubMed
+Kuykendall A, Duployez N, Boissel N, Lancet JE, Welch JS. Acute Myeloid
+Leukemia: The Good, the Bad, and the Ugly. Am Soc Clin Oncol Educ Book. 2018 May
+23;38:555-573. doi: 10.1200/EDBK_199519.
+Citation on PubMed
+Lam K, Zhang DE. RUNX1 and RUNX1-ETO: roles in hematopoiesis and
+leukemogenesis. Front Biosci (Landmark Ed). 2012 Jan 1;17(3):1120-39. doi:
+10.2741/3977.
+Citation on PubMed
+or
+Free article on PubMed Central
+Marcucci G, Haferlach T, Dohner H. Molecular genetics of adult acute myeloid
+leukemia: prognostic and therapeutic implications. J Clin Oncol. 2011 Feb
+10;29(5):475-86. doi: 10.1200/JCO.2010.30.2554. Epub 2011 Jan 10.
+Citation on PubMed
+Paschka P, Dohner K. Core-binding factor acute myeloid leukemia: can we
+improve on HiDAC consolidation? Hematology Am Soc Hematol Educ Program.
+2013;2013:209-19. doi: 10.1182/asheducation-2013.1.209.
+Citation on PubMed
+Sangle NA, Perkins SL. Core-binding factor acute myeloid leukemia. Arch Pathol
+Lab Med. 2011 Nov;135(11):1504-9. doi: 10.5858/arpa.2010-0482-RS.
+Citation on PubMed
+Welch JS, Ley TJ, Link DC, Miller CA, Larson DE, Koboldt DC, Wartman LD,
+Lamprecht TL, Liu F, Xia J, Kandoth C, Fulton RS, McLellan MD, Dooling DJ, Wallis
+JW, Chen K, Harris CC, Schmidt HK, Kalicki-Veizer JM, Lu C, Zhang Q, Lin L,
+O'Laughlin MD, McMichael JF, Delehaunty KD, Fulton LA, Magrini VJ, McGrath SD,
+Demeter RT, Vickery TL, Hundal J, Cook LL, Swift GW, Reed JP, Alldredge PA, Wylie
+TN, Walker JR, Watson MA, Heath SE, Shannon WD, Varghese N, Nagarajan R, Payton
+JE, Baty JD, Kulkarni S, Klco JM, Tomasson MH, Westervelt P, Walter MJ, Graubert
+TA, DiPersio JF, Ding L, Mardis ER, Wilson RK. The origin and evolution of
+mutations in acute myeloid leukemia. Cell. 2012 Jul 20;150(2):264-78. doi:
+10.1016/j.cell.2012.06.023.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Acute Myeloid Leukemia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

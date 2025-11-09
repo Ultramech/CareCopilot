@@ -1,0 +1,221 @@
+Crohn's disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Crohn's disease
+URL of this page: https://medlineplus.gov/genetics/condition/crohns-disease/
+Crohn's disease
+Description
+Crohn's disease is a complex, long-lasting (chronic) disorder that primarily affects
+the digestive system
+. This condition involves an abnormal immune response that causes excess inflammation. It most often affects the intestinal walls, particularly in the lower part of the small intestine (
+the ileum
+) and portions of the large intestine (
+the colon
+). However, inflammation can occur in any part of the digestive system, from the mouth to the anus. The inflamed tissues become
+thick and swollen
+, and the inner surfaces of the digestive system may develop open sores (ulcers).
+Crohn's disease most commonly appears in a person's late teens or twenties, although the disease can begin at any age. Signs and symptoms tend to flare up multiple times throughout life. The most common features of this condition are persistent diarrhea, abdominal pain and cramping, loss of appetite, weight loss, and fever. Some people with Crohn's disease have blood in the stool from inflamed tissues in the intestine; over time, chronic bleeding can lead to a low number of red blood cells (
+anemia
+). In some cases, Crohn's disease can also cause inflammation affecting the joints, eyes, or skin.
+Intestinal blockage is a common complication of Crohn's disease. Blockages are caused by swelling or a buildup of scar tissue in the intestinal walls. Some affected individuals also develop fistulae, which are abnormal connections between the intestine and other tissues. Fistulae occur when ulcers break through the intestinal wall and passages form between loops of the intestine or between the intestine and nearby structures (such as the bladder, vagina, or skin).
+Crohn's disease is one common form of inflammatory bowel disease (IBD). Another type of IBD,
+ulcerative colitis
+, also causes chronic inflammation of the intestinal lining. Unlike Crohn's disease, which can affect any part of the digestive system, ulcerative colitis typically causes inflammation only in the colon.
+Frequency
+Crohn's disease is most common in western Europe and North America, where it has a prevalence of 100 to 300 per 100,000 people. More than half a million Americans are currently affected by this disorder. Crohn's disease occurs more often in people of northern European ancestry and those of eastern and central European (Ashkenazi) Jewish descent than among people of other ethnic backgrounds. For reasons that are not clear, the prevalence of Crohn's disease has been increasing in the United States and some other parts of the world.
+Causes
+The causes of Crohn's disease are complex. This condition results from a combination of genetic, environmental, and lifestyle factors, many of which are unknown.
+Many of the major genes related to Crohn's disease, including
+NOD2
+,
+ATG16L1
+,
+IL23R
+, and
+IRGM
+, are involved in immune system function. The proteins produced from these genes help the immune system sense and respond appropriately to bacteria in the lining of the digestive tract. Many of the proteins play roles in autophagy, which is a process that cells use to surround and destroy bacteria and viruses. Variations in these genes may disrupt autophagy or otherwise alter the immune system's response to bacteria in the digestive system. In combination with other genetic and environmental factors, these changes can lead to chronic inflammation and result in the digestive problems characteristic of Crohn's disease.
+Researchers have identified at least 200 genetic variations that influence Crohn's disease risk. The majority of these variations are thought to act by subtly changing the amount, timing, and location of gene activity (expression). The mechanism by which many of the variations influence disease risk is unknown, although they probably alter immune system function in some way. Considered together, the known genetic variations account for only a small percentage of the total Crohn's disease risk that is due to genetic factors.
+Environmental and lifestyle factors likely have a large impact on Crohn's disease risk. Studies have found that cigarette smoking doubles the likelihood of developing this disease, and it may also play a role in periodic flare-ups of signs and symptoms. Crohn's disease is more prevalent in urbanized societies, suggesting that factors related to increased industrialization and sanitation also play a role. Additionally, certain aspects of a person's diet, including sugar, fats, and fiber, have been proposed to influence Crohn's disease risk. Many of the potential lifestyle and environmental risk factors are probably related, directly or indirectly, to abnormal inflammation. However, the exact relationship between these factors and Crohn's disease risk remains unclear.
+Learn more about the genes associated with Crohn's disease
+ATG16L1
+HLA-DRB1
+IL23R
+IRGM
+JAK2
+LRRK2
+NOD2
+SLC22A5
+STAT3
+Additional Information from NCBI Gene:
+IL10
+IL12B
+MUC2
+SLC22A4
+TYK2
+Inheritance
+The inheritance pattern of Crohn's disease is unclear because many genetic and environmental factors are likely to be involved. However, Crohn's disease tends to cluster in families; about 15 percent of affected people have a first-degree relative (such as a parent or sibling) with the disorder.
+Other Names for This Condition
+Colitis, granulomatous
+Crohn disease
+Crohn's enteritis
+Enteritis, granulomatous
+Enteritis, regional
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Inflammatory bowel disease 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INFLAMMATORY BOWEL DISEASE 2; IBD2
+INFLAMMATORY BOWEL DISEASE 11; IBD11
+INFLAMMATORY BOWEL DISEASE (CROHN DISEASE) 1; IBD1
+INFLAMMATORY BOWEL DISEASE 7; IBD7
+INFLAMMATORY BOWEL DISEASE 3; IBD3
+INFLAMMATORY BOWEL DISEASE 5; IBD5
+INFLAMMATORY BOWEL DISEASE 9; IBD9
+INFLAMMATORY BOWEL DISEASE 8; IBD8
+INFLAMMATORY BOWEL DISEASE 6; IBD6
+INFLAMMATORY BOWEL DISEASE 4; IBD4
+INFLAMMATORY BOWEL DISEASE 12; IBD12
+INFLAMMATORY BOWEL DISEASE (CROHN DISEASE) 19; IBD19
+INFLAMMATORY BOWEL DISEASE 20; IBD20
+INFLAMMATORY BOWEL DISEASE 21; IBD21
+INFLAMMATORY BOWEL DISEASE (CROHN DISEASE) 10; IBD10
+INFLAMMATORY BOWEL DISEASE 13; IBD13
+INFLAMMATORY BOWEL DISEASE 14; IBD14
+INFLAMMATORY BOWEL DISEASE 15; IBD15
+INFLAMMATORY BOWEL DISEASE 16; IBD16
+INFLAMMATORY BOWEL DISEASE 17; IBD17
+INFLAMMATORY BOWEL DISEASE 18; IBD18
+INFLAMMATORY BOWEL DISEASE 24; IBD24
+INFLAMMATORY BOWEL DISEASE 25, AUTOSOMAL RECESSIVE; IBD25
+INFLAMMATORY BOWEL DISEASE 28, AUTOSOMAL RECESSIVE; IBD28
+INFLAMMATORY BOWEL DISEASE 27; IBD27
+INFLAMMATORY BOWEL DISEASE 22; IBD22
+INFLAMMATORY BOWEL DISEASE 23; IBD23
+Scientific Articles on PubMed
+PubMed
+References
+Boyapati R, Satsangi J, Ho GT. Pathogenesis of Crohn's disease. F1000Prime
+Rep. 2015 Apr 2;7:44. doi: 10.12703/P7-44. eCollection 2015.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ellinghaus D, Bethune J, Petersen BS, Franke A. The genetics of Crohn's
+disease and ulcerative colitis--status quo and beyond. Scand J Gastroenterol.
+2015 Jan;50(1):13-23. doi: 10.3109/00365521.2014.990507.
+Citation on PubMed
+Feuerstein JD, Cheifetz AS. Crohn Disease: Epidemiology, Diagnosis, and
+Management. Mayo Clin Proc. 2017 Jul;92(7):1088-1103. doi:
+10.1016/j.mayocp.2017.04.010. Epub 2017 Jun 7.
+Citation on PubMed
+Jostins L, Ripke S, Weersma RK, Duerr RH, McGovern DP, Hui KY, Lee JC, Schumm
+LP, Sharma Y, Anderson CA, Essers J, Mitrovic M, Ning K, Cleynen I, Theatre E,
+Spain SL, Raychaudhuri S, Goyette P, Wei Z, Abraham C, Achkar JP, Ahmad T,
+Amininejad L, Ananthakrishnan AN, Andersen V, Andrews JM, Baidoo L, Balschun T,
+Bampton PA, Bitton A, Boucher G, Brand S, Buning C, Cohain A, Cichon S, D'Amato
+M, De Jong D, Devaney KL, Dubinsky M, Edwards C, Ellinghaus D, Ferguson LR,
+Franchimont D, Fransen K, Gearry R, Georges M, Gieger C, Glas J, Haritunians T,
+Hart A, Hawkey C, Hedl M, Hu X, Karlsen TH, Kupcinskas L, Kugathasan S, Latiano
+A, Laukens D, Lawrance IC, Lees CW, Louis E, Mahy G, Mansfield J, Morgan AR,
+Mowat C, Newman W, Palmieri O, Ponsioen CY, Potocnik U, Prescott NJ, Regueiro M,
+Rotter JI, Russell RK, Sanderson JD, Sans M, Satsangi J, Schreiber S, Simms LA,
+Sventoraityte J, Targan SR, Taylor KD, Tremelling M, Verspaget HW, De Vos M,
+Wijmenga C, Wilson DC, Winkelmann J, Xavier RJ, Zeissig S, Zhang B, Zhang CK,
+Zhao H; International IBD Genetics Consortium (IIBDGC); Silverberg MS, Annese V,
+Hakonarson H, Brant SR, Radford-Smith G, Mathew CG, Rioux JD, Schadt EE, Daly MJ,
+Franke A, Parkes M, Vermeire S, Barrett JC, Cho JH. Host-microbe interactions
+have shaped the genetic architecture of inflammatory bowel disease. Nature. 2012
+Nov 1;491(7422):119-24. doi: 10.1038/nature11582.
+Citation on PubMed
+or
+Free article on PubMed Central
+Liu JZ, Anderson CA. Genetic studies of Crohn's disease: past, present and
+future. Best Pract Res Clin Gastroenterol. 2014 Jun;28(3):373-86. doi:
+10.1016/j.bpg.2014.04.009. Epub 2014 May 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nguyen GC, Loftus EV Jr, Hirano I, Falck-Ytter Y, Singh S, Sultan S; AGA
+Institute Clinical Guidelines Committee. American Gastroenterological Association
+Institute Guideline on the Management of Crohn's Disease After Surgical
+Resection. Gastroenterology. 2017 Jan;152(1):271-275. doi:
+10.1053/j.gastro.2016.10.038. Epub 2016 Nov 10. No abstract available.
+Citation on PubMed
+Parkes M, Barrett JC, Prescott NJ, Tremelling M, Anderson CA, Fisher SA,
+Roberts RG, Nimmo ER, Cummings FR, Soars D, Drummond H, Lees CW, Khawaja SA,
+Bagnall R, Burke DA, Todhunter CE, Ahmad T, Onnie CM, McArdle W, Strachan D,
+Bethel G, Bryan C, Lewis CM, Deloukas P, Forbes A, Sanderson J, Jewell DP,
+Satsangi J, Mansfield JC; Wellcome Trust Case Control Consortium; Cardon L,
+Mathew CG. Sequence variants in the autophagy gene IRGM and multiple other
+replicating loci contribute to Crohn's disease susceptibility. Nat Genet. 2007
+Jul;39(7):830-2. doi: 10.1038/ng2061. Epub 2007 Jun 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rioux JD, Xavier RJ, Taylor KD, Silverberg MS, Goyette P, Huett A, Green T,
+Kuballa P, Barmada MM, Datta LW, Shugart YY, Griffiths AM, Targan SR, Ippoliti
+AF, Bernard EJ, Mei L, Nicolae DL, Regueiro M, Schumm LP, Steinhart AH, Rotter
+JI, Duerr RH, Cho JH, Daly MJ, Brant SR. Genome-wide association study identifies
+new susceptibility loci for Crohn disease and implicates autophagy in disease
+pathogenesis. Nat Genet. 2007 May;39(5):596-604. doi: 10.1038/ng2032. Epub 2007
+Apr 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Terdiman JP, Gruss CB, Heidelbaugh JJ, Sultan S, Falck-Ytter YT; AGA Institute
+Clinical Practice and Quality Management Committee. American Gastroenterological
+Association Institute guideline on the use of thiopurines, methotrexate, and
+anti-TNF-alpha biologic drugs for the induction and maintenance of remission in
+inflammatory Crohn's disease. Gastroenterology. 2013 Dec;145(6):1459-63. doi:
+10.1053/j.gastro.2013.10.047. No abstract available.
+Citation on PubMed
+Torres J, Mehandru S, Colombel JF, Peyrin-Biroulet L. Crohn's disease. Lancet.
+2017 Apr 29;389(10080):1741-1755. doi: 10.1016/S0140-6736(16)31711-1. Epub 2016
+Dec 1.
+Citation on PubMed
+Wang MH, Picco MF. Crohn's Disease: Genetics Update. Gastroenterol Clin North
+Am. 2017 Sep;46(3):449-461. doi: 10.1016/j.gtc.2017.05.002. Epub 2017 Jul 19.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Crohn's Disease
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Crohn disease
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

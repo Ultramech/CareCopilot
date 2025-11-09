@@ -1,0 +1,157 @@
+Oculofaciocardiodental syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Oculofaciocardiodental syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/oculofaciocardiodental-syndrome/
+Oculofaciocardiodental syndrome
+Description
+Oculofaciocardiodental (OFCD) syndrome is a condition that affects the development of the eyes (oculo-), facial features (facio-), heart (cardio-), and teeth (dental).
+The eye abnormalities associated with OFCD syndrome can affect one or both
+eyes
+. Many people with this condition are born with eyeballs that are abnormally small (
+microphthalmia
+). Other eye problems can include clouding of the lens (
+cataract
+) and a high risk of
+glaucoma
+, an eye disease that increases the pressure in the eye. These abnormalities can lead to vision loss or blindness.
+People with OFCD syndrome often have a long, narrow face with distinctive facial features, including deep-set eyes, droopy eyelids (ptosis), and a nose with a high bridge and broad tip. Affected individuals may have a split (cleft) in their nose or in the roof of their mouth (
+cleft palate
+).
+Heart defects are another common feature of OFCD syndrome. Babies with this condition may be born with a hole between two chambers of the heart (an
+atrial
+or
+ventricular septal defect
+) or a leak in one of the valves that controls blood flow through the heart (mitral valve prolapse).
+Teeth with very large roots (radiculomegaly) are characteristic of OFCD syndrome. Additional dental abnormalities can include the delayed loss of primary (baby) teeth, missing or abnormally small teeth, delayed teething (dentition), misaligned teeth, and defective tooth enamel.
+Individuals with OFCD syndrome can have additional features, such as skeletal abnormalities (typically affecting the toes), hearing loss, and intellectual disabilities.
+Frequency
+OFCD syndrome is very rare; the incidence is estimated to be less than 1 in 1 million people.
+Causes
+Variants (also called mutations) in the
+BCOR
+gene cause OFCD syndrome. The
+BCOR
+gene provides instructions for making a protein called the BCL6 corepressor. This protein helps regulate the activity of other genes. Specifically, the BCL6 corepressor appears to play an important role in regulating genes during early development, particularly those that are involved in the formation of the eye and other organs and tissues.
+The variants in the
+BCOR
+gene that cause OFCD syndrome prevent the production of any functional BCL6 corepressor protein. As a result, gene regulation during development is disrupted, which impairs the normal development of the eyes and several other organs and tissues before birth.
+Learn more about the gene associated with Oculofaciocardiodental syndrome
+BCOR
+Inheritance
+OFCD syndrome is inherited in an
+X-linked dominant pattern
+. The
+BCOR
+gene is located on the X chromosome, which is one of the two
+sex chromosomes
+. In females (who have two X chromosomes), a variant in one of the two copies of the gene in each cell is sufficient to cause the disorder. As a result, some cells produce a normal amount of BCL6 corepressor protein and other cells produce none, leading to about half the normal amount of protein.
+No males (with only one X chromosome) have been born with OFCD syndrome. A BCOR gene variant in the only copy of the gene would cause a complete lack of BCL6 corepressor protein, and this is thought to be lethal very early in development.
+Other Names for This Condition
+MCOPS2
+Microphthalmia, cataracts, radiculomegaly, and septal heart defects
+Microphthalmia, syndromic 2
+Oculo-facio-cardio-dental syndrome
+OFCD syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Oculofaciocardiodental syndrome
+Genetic and Rare Diseases Information Center
+Oculofaciocardiodental syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MICROPHTHALMIA, SYNDROMIC 2; MCOPS2
+Scientific Articles on PubMed
+PubMed
+References
+Batkova M, Havlovicova M, Nocar A, Dudakova L, Macek M, Liskova P, Dostalova
+T. Dental abnormalities observed in the oculo-facio-cardio-dental (OFCD) syndrome
+present in two Czech families bearing novel de novo BCOR pathogenic variants. BMC
+Oral Health. 2024 Oct 22;24(1):1264. doi: 10.1186/s12903-024-05005-y.
+Citation on PubMed
+Gorlin RJ, Marashi AH, Obwegeser HL. Oculo-facio-cardio-dental (OFCD)
+syndrome. Am J Med Genet. 1996 May 3;63(1):290-2. doi:
+10.1002/(SICI)1096-8628(19960503)63:13.0.CO;2-G.
+Citation on PubMed
+Hedera P, Gorski JL. Oculo-facio-cardio-dental syndrome: skewed X chromosome
+inactivation in mother and daughter suggest X-linked dominant Inheritance. Am J
+Med Genet A. 2003 Dec 15;123A(3):261-6. doi: 10.1002/ajmg.a.20444.
+Citation on PubMed
+Horn D, Chyrek M, Kleier S, Luttgen S, Bolz H, Hinkel GK, Korenke GC, Riess A,
+Schell-Apacik C, Tinschert S, Wieczorek D, Gillessen-Kaesbach G, Kutsche K. Novel
+mutations in BCOR in three patients with oculo-facio-cardio-dental syndrome, but
+none in Lenz microphthalmia syndrome. Eur J Hum Genet. 2005 May;13(5):563-9. doi:
+10.1038/sj.ejhg.5201391.
+Citation on PubMed
+McGovern E, Al-Mudaffer M, McMahon C, Brosnahan D, Fleming P, Reardon W.
+Oculo-facio-cardio-dental syndrome in a mother and daughter. Int J Oral
+Maxillofac Surg. 2006 Nov;35(11):1060-2. doi: 10.1016/j.ijom.2006.05.001. Epub
+2006 Jul 10.
+Citation on PubMed
+Moleiro AF, Oliveira JS, Grangeia A, Faria P, Falcao-Reis F, Magalhaes A,
+Silva SE. Ocular severe involvement in oculofaciocardiodental syndrome:
+Description of a case series. Eur J Ophthalmol. 2024 Jan;34(1):NP6-NP11. doi:
+10.1177/11206721231170406. Epub 2023 May 8.
+Citation on PubMed
+Ng D, Thakker N, Corcoran CM, Donnai D, Perveen R, Schneider A, Hadley DW,
+Tifft C, Zhang L, Wilkie AO, van der Smagt JJ, Gorlin RJ, Burgess SM, Bardwell
+VJ, Black GC, Biesecker LG. Oculofaciocardiodental and Lenz microphthalmia
+syndromes result from distinct classes of mutations in BCOR. Nat Genet. 2004
+Apr;36(4):411-6. doi: 10.1038/ng1321. Epub 2004 Mar 7.
+Citation on PubMed
+Nguyen TT, Truong ATH, Hoang VA, Van Huynh D, Van Nguyen T, Le CT, Dang DTP,
+Le MHN. Oculo-facio-cardio-dental (OFCD) syndrome: a case report. J Med Case Rep.
+2024 Jan 4;18(1):18. doi: 10.1186/s13256-023-04244-x.
+Citation on PubMed
+Schulze BR, Horn D, Kobelt A, Tariverdian G, Stellzig A. Rare dental
+abnormalities seen in oculo-facio-cardio-dental (OFCD) syndrome: three new cases
+and review of nine patients. Am J Med Genet. 1999 Feb 19;82(5):429-35. doi:
+10.1002/(sici)1096-8628(19990219)82:53.0.co;2-s.
+Citation on PubMed
+Tsukawaki H, Tsuji M, Kawamoto T, Ohyama K. Three cases of
+oculo-facio-cardio-dental (OFCD) syndrome. Cleft Palate Craniofac J. 2005
+Sep;42(5):467-76. doi: 10.1597/04-089r.1.
+Citation on PubMed
+Related Health Topics
+Congenital Heart Defects
+Eye Diseases
+Genetic Disorders
+Tooth Disorders
+MEDICAL ENCYCLOPEDIA
+Congenital cataract
+Genetics
+Tooth formation - delayed or absent
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

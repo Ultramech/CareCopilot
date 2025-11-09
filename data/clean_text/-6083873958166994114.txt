@@ -1,0 +1,124 @@
+Carbamoyl phosphate synthetase I deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Carbamoyl phosphate synthetase I deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/carbamoyl-phosphate-synthetase-i-deficiency/
+Carbamoyl phosphate synthetase I deficiency
+Description
+Carbamoyl phosphate synthetase I deficiency is an inherited disorder that causes ammonia to accumulate in the blood (hyperammonemia). Ammonia, which is formed when proteins are broken down in the body, is toxic if the levels become too high. The brain is especially sensitive to the effects of excess ammonia.
+In the first few days of life, infants with carbamoyl phosphate synthetase I deficiency typically exhibit the effects of hyperammonemia, which may include unusual sleepiness, poorly regulated breathing rate or body temperature, unwillingness to feed, vomiting after feeding, unusual body movements, seizures, or coma. Affected individuals who survive the newborn period may experience recurrence of these symptoms if diet is not carefully managed or if they experience infections or other stressors. They may also have delayed development and intellectual disability.
+In some people with carbamoyl phosphate synthetase I deficiency, signs and symptoms may be less severe and appear later in life.
+Frequency
+Carbamoyl phosphate synthetase I deficiency is a rare disorder; its overall incidence is unknown. Researchers in Japan have estimated that it occurs in 1 in 800,000 newborns in that country.
+Causes
+Mutations in the
+CPS1
+gene cause carbamoyl phosphate synthetase I deficiency. The
+CPS1
+gene provides instructions for making the enzyme carbamoyl phosphate synthetase I. This enzyme participates in the urea cycle, which is a sequence of biochemical reactions that occurs in
+liver
+cells. The urea cycle processes excess nitrogen, generated when protein is broken down by the body, to make a compound called urea that is excreted by the kidneys. The specific role of the carbamoyl phosphate synthetase I enzyme is to control the first step of the urea cycle, a reaction in which excess nitrogen compounds are incorporated into the cycle to be processed.
+Carbamoyl phosphate synthetase I deficiency belongs to a class of genetic diseases called urea cycle disorders. In this condition, the carbamoyl phosphate synthetase I enzyme is at low levels (deficient) or absent, and the urea cycle cannot proceed normally. As a result, nitrogen accumulates in the bloodstream in the form of toxic ammonia instead of being converted to less toxic urea and excreted. Ammonia is especially damaging to the brain, and excess ammonia causes neurological problems and other signs and symptoms of carbamoyl phosphate synthetase I deficiency.
+Learn more about the gene associated with Carbamoyl phosphate synthetase I deficiency
+CPS1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Carbamoyl-phosphate synthase I deficiency disease
+Carbamyl-phosphate synthetase I deficiency disease
+Congenital hyperammonemia, type I
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital hyperammonemia, type I
+Genetic and Rare Diseases Information Center
+Carbamoyl-phosphate synthetase 1 deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CARBAMOYL PHOSPHATE SYNTHETASE I DEFICIENCY, HYPERAMMONEMIA DUE TO
+Scientific Articles on PubMed
+PubMed
+References
+Aoshima T, Kajita M, Sekido Y, Mimura S, Itakura A, Yasuda I, Saheki T,
+Watanabe K, Shimokata K, Niwa T. Carbamoyl phosphate synthetase I deficiency:
+molecular genetic findings and prenatal diagnosis. Prenat Diagn. 2001
+Aug;21(8):634-7. doi: 10.1002/pd.123.
+Citation on PubMed
+Endo F, Matsuura T, Yanagita K, Matsuda I. Clinical manifestations of inborn
+errors of the urea cycle and related metabolic disorders during childhood. J
+Nutr. 2004 Jun;134(6 Suppl):1605S-1609S; discussion 1630S-1632S, 1667S-1672S.
+doi: 10.1093/jn/134.6.1605S.
+Citation on PubMed
+Finckh U, Kohlschutter A, Schafer H, Sperhake K, Colombo JP, Gal A. Prenatal
+diagnosis of carbamoyl phosphate synthetase I deficiency by identification of a
+missense mutation in CPS1. Hum Mutat. 1998;12(3):206-11. doi:
+10.1002/(SICI)1098-1004(1998)12:33.0.CO;2-E.
+Citation on PubMed
+Haberle J, Schmidt E, Pauli S, Rapp B, Christensen E, Wermuth B, Koch HG. Gene
+structure of human carbamylphosphate synthetase 1 and novel mutations in patients
+with neonatal onset. Hum Mutat. 2003 Apr;21(4):444. doi: 10.1002/humu.9118.
+Citation on PubMed
+Rapp B, Haberle J, Linnebank M, Wermuth B, Marquardt T, Harms E, Koch HG.
+Genetic analysis of carbamoylphosphate synthetase I and ornithine
+transcarbamylase deficiency using fibroblasts. Eur J Pediatr. 2001
+May;160(5):283-7. doi: 10.1007/s004310100725.
+Citation on PubMed
+Simpson KL, MacLeod EL, Kakajiwala A, Gropman AL, Ah Mew N. Urea Cycle
+Disorders Overview. 2003 Apr 29 [updated 2025 Jul 3]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK1217/
+Citation on PubMed
+Wakutani Y, Nakayasu H, Takeshima T, Adachi M, Kawataki M, Kihira K, Sawada H,
+Bonno M, Yamamoto H, Nakashima K. Mutational analysis of carbamoylphosphate
+synthetase I deficiency in three Japanese patients. J Inherit Metab Dis.
+2004;27(6):787-8. doi: 10.1023/b:boli.0000045842.59768.ea.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Metabolic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hereditary urea cycle abnormality
+Related Medical Tests
+Ammonia Levels
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

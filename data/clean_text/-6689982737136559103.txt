@@ -1,0 +1,144 @@
+Cerebro-facio-thoracic dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cerebro-facio-thoracic dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/cerebro-facio-thoracic-dysplasia/
+Cerebro-facio-thoracic dysplasia
+Description
+Cerebro-facio-thoracic dysplasia is a rare condition characterized by abnormal development (dysplasia) of the brain (cerebro) and structures in the face (facio) and torso (thoracic). The problems with development lead to the key features of cerebro-facio-thoracic dysplasia, which include severe intellectual disability, distinctive facial features, and abnormalities of the ribs and spinal bones (
+vertebrae
+).
+In addition to intellectual disability, individuals with cerebro-facio-thoracic dysplasia have delayed development of speech and movement (motor) skills, and in some, these skills never develop. Nearly one-quarter of affected individuals never learn to speak and almost half are unable to walk. Weak muscle tone (hypotonia) and difficulty feeding occur in some affected infants. People with cerebro-facio-thoracic dysplasia can have neurodevelopmental problems, such as anxiety,
+autism spectrum disorder
+, or self-injuring behavior; however, many people with the condition are described as friendly and good-natured.
+Distinctive facial features common in cerebro-facio-thoracic dysplasia include a wide, short skull (
+brachycephaly
+);
+highly arched eyebrows
+or eyebrows that grow together in the middle (
+synophrys
+); widely spaced eyes (
+hypertelorism
+); a
+wide nasal bridge
+; low-set ears; an upper lip with pronounced curves (
+Cupid's bow upper lip
+); and small teeth (
+microdontia
+). Some affected individuals have overgrowth of the gums (
+gingival hyperplasia
+), an opening in the roof of the mouth (
+cleft palate
+), or a split in the upper lip (
+cleft lip
+).
+Problems with bone development in the torso (thorax) commonly leads to bone abnormalities such as two or more ribs that are joined together (fused) or ribs that are abnormally shaped with two prongs at one end (bifid ribs). Many people with cerebro-facio-thoracic dysplasia have abnormal side-to-side curvature of the spine (
+scoliosis
+) due to malformation of the vertebrae; some vertebrae may also be fused. Additionally, the shoulder blades can be affected in people with this condition.
+A wide variety of other features can occur in cerebro-facio-thoracic dysplasia, such as abnormalities involving the eyes, skin, or hair. Heart defects, digestive problems, or genitourinary problems (such as abnormal kidneys or reproductive organs) can also occur. Affected individuals may also have bone or joint abnormalities in other parts of the body.
+Frequency
+Cerebro-facio-thoracic dysplasia is a rare disorder. Its prevalence is unknown.
+Causes
+Cerebro-facio-thoracic dysplasia is caused by mutations in a gene called
+TMCO1
+. This gene provides instructions for making a protein that forms specialized structures called channels through which positively charged calcium atoms (calcium ions) flow. The protein is found in the membrane of a cell structure called the endoplasmic reticulum, which acts as a storage center for calcium ions. When there is too much calcium in the endoplasmic reticulum, four TMCO1 proteins come together to form a channel that releases the excess calcium into the surrounding fluid inside the cell (
+cytoplasm
+). Calcium acts as a signal for many cellular functions including control of cell growth and division and gene activity. The proper balance of calcium ions in cells and cell compartments is important for the development and function of various tissues and organs.
+TMCO1
+gene mutations result in a shortage of TMCO1 proteins. Without this protein, TMCO1 channels cannot form, and excess calcium builds up in the endoplasmic reticulum. The imbalance of calcium ions disrupts development of the brain and structures in the head, face, and torso, resulting in the features of cerebro-facio-thoracic dysplasia.
+Learn more about the gene associated with Cerebro-facio-thoracic dysplasia
+TMCO1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Cerebrofaciothoracic dysplasia
+CFSMR
+CFTD
+Craniofacial dysmorphism, skeletal anomalies, and mental retardation syndrome
+Pascual-Castroviejo syndrome
+TMCO1 defect syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cerebro-facio-thoracic dysplasia
+Genetic and Rare Diseases Information Center
+Cerebrofaciothoracic dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CRANIOFACIAL DYSMORPHISM, SKELETAL ANOMALIES, AND IMPAIRED INTELLECTUAL DEVELOPMENT SYNDROME 1; CFSMR1
+Scientific Articles on PubMed
+PubMed
+References
+Alanay Y, Erguner B, Utine E, Hacariz O, Kiper PO, Taskiran EZ, Percin F, Uz
+E, Sagiroglu MS, Yuksel B, Boduroglu K, Akarsu NA. TMCO1 deficiency causes
+autosomal recessive cerebrofaciothoracic dysplasia. Am J Med Genet A. 2014
+Feb;164A(2):291-304. doi: 10.1002/ajmg.a.36248. Epub 2013 Nov 5.
+Citation on PubMed
+Michael Yates T, Ng OH, Offiah AC, Willoughby J, Berg JN; DDD Study; Johnson
+DS. Cerebrofaciothoracic dysplasia: Four new patients with a recurrent TMCO1
+pathogenic variant. Am J Med Genet A. 2019 Jan;179(1):43-49. doi:
+10.1002/ajmg.a.60678. Epub 2018 Dec 17.
+Citation on PubMed
+Pehlivan D, Karaca E, Aydin H, Beck CR, Gambin T, Muzny DM, Bilge Geckinli B,
+Karaman A, Jhangiani SN; Centers for Mendelian Genomics; Gibbs RA, Lupski JR.
+Whole-exome sequencing links TMCO1 defect syndrome with cerebro-facio-thoracic
+dysplasia. Eur J Hum Genet. 2014 Sep;22(9):1145-8. doi: 10.1038/ejhg.2013.291.
+Epub 2014 Jan 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tender JAF, Ferreira CR. Cerebro-facio-thoracic dysplasia (Pascual-Castroviejo
+syndrome): Identification of a novel mutation, use of facial recognition
+analysis, and review of the literature. Transl Sci Rare Dis. 2018 Apr
+13;3(1):37-43. doi: 10.3233/TRD-180022.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wang QC, Zheng Q, Tan H, Zhang B, Li X, Yang Y, Yu J, Liu Y, Chai H, Wang X,
+Sun Z, Wang JQ, Zhu S, Wang F, Yang M, Guo C, Wang H, Zheng Q, Li Y, Chen Q, Zhou
+A, Tang TS. TMCO1 Is an ER Ca(2+) Load-Activated Ca(2+) Channel. Cell. 2016 Jun
+2;165(6):1454-1466. doi: 10.1016/j.cell.2016.04.051. Epub 2016 May 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Craniofacial Abnormalities
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

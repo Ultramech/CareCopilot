@@ -1,0 +1,183 @@
+X-linked congenital stationary night blindness: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+X-linked congenital stationary night blindness
+URL of this page: https://medlineplus.gov/genetics/condition/x-linked-congenital-stationary-night-blindness/
+X-linked congenital stationary night blindness
+Description
+X-linked congenital stationary night blindness is a disorder of the
+retina
+, which is a specialized tissue at the back of the eye that detects light and color. People with this condition typically have difficulty seeing in low light (night blindness). They also have other vision problems, including increased sensitivity to light (photophobia), loss of sharpness (reduced visual acuity), severe
+nearsightedness
+(high
+myopia
+), involuntary movements of the eyes (nystagmus), and eyes that do not look in the same direction (strabismus). Color vision is typically not affected in people with X-linked congenital stationary night blindness.
+The vision problems associated with X-linked congenital stationary night blindness are congenital, which means they are present from birth. The vision problems also tend to remain stable (stationary) over time.
+Researchers have identified two major types of X-linked congenital stationary night blindness: the complete form and the incomplete form. The types have very similar signs and symptoms. However, everyone with the complete form has night blindness, while not all people with the incomplete form have night blindness. The types are distinguished by their genetic causes and by the results of a test called an
+electroretinogram
+, which measures the function of the retina.
+Frequency
+The prevalence of X-linked congenital stationary night blindness is unknown. The incomplete form is more common than the complete form.
+Causes
+Variants (also called mutations) in the
+NYX
+gene cause the complete form of X-linked congenital stationary night blindness, and variants in the
+CACNA1F
+gene cause the incomplete form. The proteins produced from these genes play critical roles in the
+retina
+.
+Within the retina, the CACNA1F protein is located on light-detecting cells called photoreceptors. The NYX protein is located on cells called bipolar cells, which relay signals to other retinal cells. The retina contains two types of photoreceptor cells:
+rods and cones
+. Rods are needed for vision in low light. Cones are needed for vision in bright light, including color vision. The NYX and CACNA1F proteins ensure that visual signals are passed from rods and cones to bipolar cells, which is an essential step in the transmission of visual information from the eyes to the brain.
+Variants in the
+NYX
+or
+CACNA1F
+gene disrupt the transmission of visual signals between photoreceptors and bipolar cells, which impairs vision. In people with the complete form of X-linked congenital stationary night blindness, the rod pathway is severely disrupted, while the cone pathway is only mildly affected. In people with the incomplete form of the condition, the rod and cone pathways are both affected, although the affected person does have the ability to detect some light.
+A particular variant in the
+CACNA1F
+gene has been found to cause X-linked congenital stationary night blindness in individuals who are of Dutch-German Mennonite descent. Similarly, certain
+NYX
+gene variants appear to be a frequent cause of X-linked congenital stationary night blindness in people who live in the United States and in people who live in Belgium and are of Flemish descent.
+Learn more about the genes associated with X-linked congenital stationary night blindness
+CACNA1F
+NYX
+Inheritance
+X-linked congenital stationary night blindness is inherited in an
+X-linked recessive pattern
+. The
+NYX
+and
+CACNA1F
+genes are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a variant would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that both copies of the gene would be altered, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In X-linked recessive inheritance, a female with one altered copy of the gene on one of the two X chromosomes is called a
+carrier
+. Carriers of an
+NYX
+or
+CACNA1F
+gene variant can pass on the altered gene, but most do not develop any of the vision problems associated with X-linked congenital stationary night blindness. However, carriers may have retinal changes that can be detected with an
+electroretinogram.
+Other Names for This Condition
+X-linked CSNB
+XLCSNB
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital stationary night blindness
+Genetic Testing Registry: Congenital stationary night blindness 1A
+Genetic Testing Registry: Congenital stationary night blindness 2A
+Genetic and Rare Diseases Information Center
+Congenital stationary night blindness
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 1A; CSNB1A
+NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A; CSNB2A
+Scientific Articles on PubMed
+PubMed
+References
+Bech-Hansen NT, Naylor MJ, Maybaum TA, Pearce WG, Koop B, Fishman GA, Mets M,
+Musarella MA, Boycott KM. Loss-of-function mutations in a calcium-channel
+alpha1-subunit gene in Xp11.23 cause incomplete X-linked congenital stationary
+night blindness. Nat Genet. 1998 Jul;19(3):264-7. doi: 10.1038/947.
+Citation on PubMed
+Bech-Hansen NT, Naylor MJ, Maybaum TA, Sparkes RL, Koop B, Birch DG, Bergen
+AA, Prinsen CF, Polomeno RC, Gal A, Drack AV, Musarella MA, Jacobson SG, Young
+RS, Weleber RG. Mutations in NYX, encoding the leucine-rich proteoglycan
+nyctalopin, cause X-linked complete congenital stationary night blindness. Nat
+Genet. 2000 Nov;26(3):319-23. doi: 10.1038/81619.
+Citation on PubMed
+Boycott KM, Pearce WG, Bech-Hansen NT. Clinical variability among patients
+with incomplete X-linked congenital stationary night blindness and a founder
+mutation in CACNA1F. Can J Ophthalmol. 2000 Jun;35(4):204-13. doi:
+10.1016/s0008-4182(00)80031-9.
+Citation on PubMed
+Jacobi FK, Andreasson S, Langrova H, Meindl A, Zrenner E, Apfelstedt-Sylla E,
+Pusch CM. Phenotypic expression of the complete type of X-linked congenital
+stationary night blindness in patients with different mutations in the NYX gene.
+Graefes Arch Clin Exp Ophthalmol. 2002 Oct;240(10):822-8. doi:
+10.1007/s00417-002-0562-z. Epub 2002 Sep 21.
+Citation on PubMed
+Kim AH, Liu PK, Chang YH, Kang EY, Wang HH, Chen N, Tseng YJ, Seo GH, Lee H,
+Liu L, Chao AN, Chen KJ, Hwang YS, Wu WC, Lai CC, Tsang SH, Hsiao MC, Wang NK.
+Congenital Stationary Night Blindness: Clinical and Genetic Features. Int J Mol
+Sci. 2022 Nov 29;23(23):14965. doi: 10.3390/ijms232314965.
+Citation on PubMed
+MacDonald IM, Hoang S, Tuupanen S. X-Linked Congenital Stationary Night
+Blindness. 2008 Jan 16 [updated 2019 Jul 3]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1245/
+Citation on PubMed
+Pusch CM, Zeitz C, Brandau O, Pesch K, Achatz H, Feil S, Scharfe C, Maurer J,
+Jacobi FK, Pinckers A, Andreasson S, Hardcastle A, Wissinger B, Berger W, Meindl
+A. The complete form of X-linked congenital stationary night blindness is caused
+by mutations in a gene encoding a leucine-rich repeat protein. Nat Genet. 2000
+Nov;26(3):324-7. doi: 10.1038/81627.
+Citation on PubMed
+Schatz A, Kelbsch C, Zeitz C, Kohl S, Zrenner E, Gekeler F, Wilhelm H, Wilhelm
+B, Willmann G. Disinhibition of intrinsic photosensitive retinal ganglion cells
+in patients with X-linked congenital stationary night blindness. Graefes Arch
+Clin Exp Ophthalmol. 2019 Jun;257(6):1207-1215. doi: 10.1007/s00417-019-04319-w.
+Epub 2019 Apr 13.
+Citation on PubMed
+Strom TM, Nyakatura G, Apfelstedt-Sylla E, Hellebrand H, Lorenz B, Weber BH,
+Wutz K, Gutwillinger N, Ruther K, Drescher B, Sauer C, Zrenner E, Meitinger T,
+Rosenthal A, Meindl A. An L-type calcium-channel gene mutated in incomplete
+X-linked congenital stationary night blindness. Nat Genet. 1998 Jul;19(3):260-3.
+doi: 10.1038/940.
+Citation on PubMed
+Tsang SH, Sharma T. Congenital Stationary Night Blindness. Adv Exp Med Biol.
+2018;1085:61-64. doi: 10.1007/978-3-319-95046-4_13.
+Citation on PubMed
+Zeitz C, Robson AG, Audo I. Congenital stationary night blindness: an analysis
+and update of genotype-phenotype correlations and pathogenic mechanisms. Prog
+Retin Eye Res. 2015 Mar;45:58-110. doi: 10.1016/j.preteyeres.2014.09.001. Epub
+2014 Oct 13.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Electroretinography
+Genetics
+Nearsightedness
+Nystagmus
+Strabismus
+Vision - night blindness
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

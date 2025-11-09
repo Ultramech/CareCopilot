@@ -1,0 +1,157 @@
+Pseudohypoaldosteronism type 1: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pseudohypoaldosteronism type 1
+URL of this page: https://medlineplus.gov/genetics/condition/pseudohypoaldosteronism-type-1/
+Pseudohypoaldosteronism type 1
+Description
+Pseudohypoaldosteronism type 1 (PHA1) is a condition characterized by problems regulating the amount of sodium in the body. Sodium regulation, which is important for blood pressure and fluid balance, primarily occurs in the kidneys. However, sodium can also be removed from the body through other tissues, such as the sweat glands and colon. Pseudohypoaldosteronism type 1 is named for its characteristic signs and symptoms, which mimic (pseudo) low levels (hypo) of a hormone called aldosterone that helps regulate sodium levels. However, people with PHA1 have high levels of aldosterone.
+There are two types of PHA1 distinguished by their severity, the genes involved, and how they are inherited. One type, called autosomal dominant PHA1 (also known as renal PHA1) is characterized by excessive sodium loss from the kidneys. This form of the condition is relatively mild and often improves in early childhood. The other type, called autosomal recessive PHA1 (also known as generalized or systemic PHA1) is characterized by sodium loss from the kidneys and other organs, including the sweat glands, salivary glands, and colon. This type of PHA1 is more severe and does not improve with age.
+The earliest signs of both types of PHA1 are usually the inability to gain weight and grow at the expected rate (failure to thrive) and dehydration, which are typically seen in infants. The characteristic features of both types of PHA1 are excessive amounts of sodium released in the urine (salt wasting), which leads to low levels of sodium in the blood (hyponatremia), and high levels of potassium in the blood (hyperkalemia). Infants with PHA1 can also have high levels of acid in the blood (metabolic acidosis). Hyponatremia, hyperkalemia, or metabolic acidosis can cause nonspecific symptoms such as nausea, vomiting, extreme tiredness (fatigue), and muscle weakness in infants with PHA1.
+Infants with autosomal recessive PHA1 can have additional signs and symptoms due to the involvement of multiple organs. Affected individuals may experience episodes of abnormal heartbeat (cardiac arrhythmia) or shock because of the imbalance of salts in the body. They may also have recurrent lung infections or lesions on the skin. Although adults with autosomal recessive PHA1 can have repeated episodes of salt wasting, they do not usually have other signs and symptoms of the condition.
+Frequency
+PHA1 is a rare condition that has been estimated to affect 1 in 80,000 newborns.
+Causes
+Mutations in one of four different genes involved in sodium regulation cause autosomal dominant or autosomal recessive PHA1. Mutations in the
+NR3C2
+gene cause autosomal dominant PHA1. This gene provides instructions for making the mineralocorticoid receptor protein. Mutations in the
+SCNN1A
+,
+SCNN1B
+, or
+SCNN1G
+genes cause autosomal recessive PHA1. Each of these three genes provides instructions for making one of the pieces (subunits) of a protein complex called the epithelial sodium channel (ENaC).
+The mineralocorticoid receptor regulates specialized proteins in the
+cell membrane
+that control the transport of sodium or potassium into cells. In response to signals that sodium levels are low, such as the presence of the hormone aldosterone, the mineralocorticoid receptor increases the number and activity of these proteins at the cell membrane of certain kidney cells. One of these proteins is ENaC, which transports sodium into the cell; another protein simultaneously transports sodium out of the cell and potassium into the cell. These proteins help keep sodium in the body through a process called reabsorption and remove potassium from the body through a process called secretion.
+Mutations in the
+NR3C2
+gene lead to a nonfunctional or abnormally functioning mineralocorticoid receptor protein that cannot properly regulate the specialized proteins that transport sodium and potassium. As a result, sodium reabsorption and potassium secretion are both decreased, causing hyponatremia and hyperkalemia.
+Mutations in the
+SCNN1A
+,
+SCNN1B
+, and
+SCNN1G
+genes result in reduced functioning or nonfunctioning ENaC channels. As in autosomal dominant PHA1, the reduction or absence of ENaC function in the kidneys leads to hyponatremia and hyperkalemia. In addition, nonfunctional ENaC channels in other body systems lead to additional signs and symptoms of autosomal recessive PHA1, including lung infections and skin lesions.
+Learn more about the genes associated with Pseudohypoaldosteronism type 1
+NR3C2
+SCNN1A
+SCNN1B
+SCNN1G
+Inheritance
+PHA1 can have different inheritance patterns. When the condition is caused by mutations in the
+NR3C2
+gene, it is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. When PHA1 is caused by mutations in the
+SCNN1A
+,
+SCNN1B
+, or
+SCNN1G
+genes, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+PHA1
+Pseudohypoaldosteronism type I
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal dominant pseudohypoaldosteronism type 1
+Genetic Testing Registry: Pseudohypoaldosteronism, type IB1, autosomal recessive
+Genetic and Rare Diseases Information Center
+Generalized pseudohypoaldosteronism type 1
+Renal pseudohypoaldosteronism type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL DOMINANT; PHA1A
+PSEUDOHYPOALDOSTERONISM, TYPE IB1, AUTOSOMAL RECESSIVE; PHA1B1
+Scientific Articles on PubMed
+PubMed
+References
+Chang SS, Grunder S, Hanukoglu A, Rosler A, Mathew PM, Hanukoglu I, Schild L,
+Lu Y, Shimkets RA, Nelson-Williams C, Rossier BC, Lifton RP. Mutations in
+subunits of the epithelial sodium channel cause salt wasting with hyperkalaemic
+acidosis, pseudohypoaldosteronism type 1. Nat Genet. 1996 Mar;12(3):248-53. doi:
+10.1038/ng0396-248.
+Citation on PubMed
+Chen SY, Bhargava A, Mastroberardino L, Meijer OC, Wang J, Buse P, Firestone
+GL, Verrey F, Pearce D. Epithelial sodium channel regulated by
+aldosterone-induced protein sgk. Proc Natl Acad Sci U S A. 1999 Mar
+2;96(5):2514-9. doi: 10.1073/pnas.96.5.2514.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kolla V, Litwack G. Transcriptional regulation of the human Na/K ATPase via
+the human mineralocorticoid receptor. Mol Cell Biochem. 2000 Jan;204(1-2):35-40.
+doi: 10.1023/a:1007009700377.
+Citation on PubMed
+Masilamani S, Kim GH, Mitchell C, Wade JB, Knepper MA. Aldosterone-mediated
+regulation of ENaC alpha, beta, and gamma subunit proteins in rat kidney. J Clin
+Invest. 1999 Oct;104(7):R19-23. doi: 10.1172/JCI7840.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pujo L, Fagart J, Gary F, Papadimitriou DT, Claes A, Jeunemaitre X, Zennaro
+MC. Mineralocorticoid receptor mutations are the principal cause of renal type 1
+pseudohypoaldosteronism. Hum Mutat. 2007 Jan;28(1):33-40. doi:
+10.1002/humu.20371.
+Citation on PubMed
+Riepe FG, Finkeldei J, de Sanctis L, Einaudi S, Testa A, Karges B, Peter M,
+Viemann M, Grotzinger J, Sippell WG, Fejes-Toth G, Krone N. Elucidating the
+underlying molecular pathogenesis of NR3C2 mutants causing autosomal dominant
+pseudohypoaldosteronism type 1. J Clin Endocrinol Metab. 2006 Nov;91(11):4552-61.
+doi: 10.1210/jc.2006-1161. Epub 2006 Sep 5.
+Citation on PubMed
+Zennaro MC, Hubert EL, Fernandes-Rosa FL. Aldosterone resistance: structural
+and functional considerations and new perspectives. Mol Cell Endocrinol. 2012 Mar
+24;350(2):206-15. doi: 10.1016/j.mce.2011.04.023. Epub 2011 Jun 1.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Fluid and Electrolyte Balance
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+High potassium level
+Low blood sodium
+Metabolic acidosis
+Related Medical Tests
+Aldosterone Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

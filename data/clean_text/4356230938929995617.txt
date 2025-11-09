@@ -1,0 +1,196 @@
+Costello syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Costello syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/costello-syndrome/
+Costello syndrome
+Description
+Costello syndrome is a rare disorder that affects many parts of the body. This condition is characterized by delayed development, loose folds of skin (which are especially noticeable on the hands and feet), unusually flexible joints, heart problems, short stature, and distinctive facial features.
+Children with Costello syndrome are often delayed in reaching developmental milestones, such as speaking, sitting, and walking. Affected individuals may also have intellectual disabilities that can vary in severity.
+Distinctive facial features in people with Costello syndrome typically include a prominent forehead, full cheeks, and full lips. Infants with Costello syndrome may be larger than average at birth, but most have difficulty eating and grow more slowly than other children. Affected individuals may have gastrointestinal problems that include constipation or a backflow of stomach acids into the esophagus (
+gastroesophageal reflux
+or GERD). People with this condition have short stature compared to their family and peers and may have reduced
+growth hormone
+levels.
+Heart problems are common, including an abnormal heartbeat (arrhythmia), structural heart defects, and a type of heart disease that enlarges and weakens the heart muscle (
+hypertrophic cardiomyopathy
+). Neurological problems in people with Costello syndrome include seizures, weak muscle tone (hypotonia), and a structural abnormality of the brain called a Chiari I malformation. Costello syndrome can cause vision problems, such as
+nearsightedness
+(myopia),
+farsightedness
+(hyperopia), or eyes that do not point in the same direction (strabismus). Hearing loss may also occur.
+Other signs and symptoms of Costello syndrome can include tight Achilles tendons (which connect the calf muscles to the heel), recurrent respiratory infections, dry and thickened skin, skeletal abnormalities, and dental problems.
+Beginning in early childhood, people with Costello syndrome have a higher risk of developing certain cancerous and noncancerous tumors compared to the general population. The most common noncancerous tumors associated with this condition are papillomas, which are small, wart-like growths that usually develop around the nose and mouth or near the anus. The most common cancerous tumor associated with Costello syndrome is a childhood cancer called rhabdomyosarcoma, which begins in muscle tissue.
+Neuroblastoma
+, a tumor that arises in developing nerve cells, has also been reported in children and adolescents with this syndrome. In addition, some teenagers with Costello syndrome have developed transitional cell carcinoma, a form of
+bladder cancer
+that is usually seen in older adults.
+The signs and symptoms of Costello syndrome overlap significantly with those of two other genetic conditions,
+cardiofaciocutaneous syndrome
+(CFC syndrome) and
+Noonan syndrome
+. In affected infants, it can be difficult to tell the three conditions apart based on their physical features. However, the conditions can be distinguished by their genetic causes and by the specific patterns of signs and symptoms that develop later in childhood.
+Frequency
+This condition is very rare; it probably affects 100 to 1,500 people worldwide. The estimates of Costello syndrome prevalence range from 1 in 300,000 to 1 in 1.25 million people.
+Causes
+Variants (also called mutations) in the
+HRAS
+gene cause Costello syndrome. This gene provides instructions for making a protein called H-Ras, which is part of a pathway that helps control cell growth and
+division
+. Variants that cause Costello syndrome lead to the production of an H-Ras protein that is abnormally turned on (active). The overactive protein directs cells to
+grow and divide constantly
+, which can lead to the development of tumors. It is unclear how variants in the
+HRAS
+gene cause the other features of Costello syndrome, but many of the signs and symptoms probably result from cell overgrowth and abnormal cell division.
+Some people with signs and symptoms like those of Costello syndrome do not have an identified variant in the
+HRAS
+gene. These individuals may actually have CFC syndrome or Noonan syndrome, which are caused by variants in related genes. The proteins produced from these genes interact with one another and with the H-Ras protein as part of the same cell growth and division pathway. This pathway is called the RAS/MAPK signaling pathway, so these three conditions are sometimes referred to as RASopathies. These interactions help explain why variants in different genes can cause conditions with overlapping signs and symptoms.
+Learn more about the gene associated with Costello syndrome
+HRAS
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases of this condition result from new (de novo) variants in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or in early embryonic development. These affected individuals have no history of the disorder in their family.
+Other Names for This Condition
+Faciocutaneoskeletal syndrome
+FCS syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Costello syndrome
+Genetic and Rare Diseases Information Center
+Costello syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+COSTELLO SYNDROME; CSTLO
+Scientific Articles on PubMed
+PubMed
+References
+Abe Y, Aoki Y, Kuriyama S, Kawame H, Okamoto N, Kurosawa K, Ohashi H, Mizuno
+S, Ogata T, Kure S, Niihori T, Matsubara Y; Costello and CFC syndrome study group
+in Japan. Prevalence and clinical features of Costello syndrome and
+cardio-facio-cutaneous syndrome in Japan: findings from a nationwide
+epidemiological survey. Am J Med Genet A. 2012 May;158A(5):1083-94. doi:
+10.1002/ajmg.a.35292. Epub 2012 Apr 11.
+Citation on PubMed
+Aoki Y, Niihori T, Kawame H, Kurosawa K, Ohashi H, Tanaka Y, Filocamo M, Kato
+K, Suzuki Y, Kure S, Matsubara Y. Germline mutations in HRAS proto-oncogene cause
+Costello syndrome. Nat Genet. 2005 Oct;37(10):1038-40. doi: 10.1038/ng1641. Epub
+2005 Sep 18.
+Citation on PubMed
+Axelrad ME, Schwartz DD, Fehlis JE, Hopkins E, Stabley DL, Sol-Church K, Gripp
+KW. Longitudinal course of cognitive, adaptive, and behavioral characteristics in
+Costello syndrome. Am J Med Genet A. 2009 Dec;149A(12):2666-72. doi:
+10.1002/ajmg.a.33126.
+Citation on PubMed
+or
+Free article on PubMed Central
+Estep AL, Tidyman WE, Teitell MA, Cotter PD, Rauen KA. HRAS mutations in
+Costello syndrome: detection of constitutional activating mutations in codon 12
+and 13 and loss of wild-type allele in malignancy. Am J Med Genet A. 2006 Jan
+1;140(1):8-16. doi: 10.1002/ajmg.a.31078.
+Citation on PubMed
+Gripp KW, Lin AE, Stabley DL, Nicholson L, Scott CI Jr, Doyle D, Aoki Y,
+Matsubara Y, Zackai EH, Lapunzina P, Gonzalez-Meneses A, Holbrook J, Agresta CA,
+Gonzalez IL, Sol-Church K. HRAS mutation analysis in Costello syndrome: genotype
+and phenotype correlation. Am J Med Genet A. 2006 Jan 1;140(1):1-7. doi:
+10.1002/ajmg.a.31047.
+Citation on PubMed
+Gripp KW, Lin AE. Costello syndrome: a Ras/mitogen activated protein kinase
+pathway syndrome (rasopathy) resulting from HRAS germline mutations. Genet Med.
+2012 Mar;14(3):285-92. doi: 10.1038/gim.0b013e31822dd91f.
+Citation on PubMed
+Gripp KW, Morse LA, Axelrad M, Chatfield KC, Chidekel A, Dobyns W, Doyle D,
+Kerr B, Lin AE, Schwartz DD, Sibbles BJ, Siegel D, Shankar SP, Stevenson DA,
+Thacker MM, Weaver KN, White SM, Rauen KA. Costello syndrome: Clinical phenotype,
+genotype, and management guidelines. Am J Med Genet A. 2019 Sep;179(9):1725-1744.
+doi: 10.1002/ajmg.a.61270. Epub 2019 Jun 20.
+Citation on PubMed
+Gripp KW, Stabley DL, Nicholson L, Hoffman JD, Sol-Church K. Somatic mosaicism
+for an HRAS mutation causes Costello syndrome. Am J Med Genet A. 2006 Oct
+15;140(20):2163-9. doi: 10.1002/ajmg.a.31456.
+Citation on PubMed
+Gripp KW, Weaver KN. HRAS-Related Costello Syndrome. 2006 Aug 29
+[updated 2023 Dec 21]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1507/
+Citation on PubMed
+Kerr B, Delrue MA, Sigaudy S, Perveen R, Marche M, Burgelin I, Stef M, Tang B,
+Eden OB, O'Sullivan J, De Sandre-Giovannoli A, Reardon W, Brewer C, Bennett C,
+Quarell O, M'Cann E, Donnai D, Stewart F, Hennekam R, Cave H, Verloes A, Philip
+N, Lacombe D, Levy N, Arveiler B, Black G. Genotype-phenotype correlation in
+Costello syndrome: HRAS mutation analysis in 43 cases. J Med Genet. 2006
+May;43(5):401-5. doi: 10.1136/jmg.2005.040352. Epub 2006 Jan 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Quezada E, Gripp KW. Costello syndrome and related disorders. Curr Opin
+Pediatr. 2007 Dec;19(6):636-44. doi: 10.1097/MOP.0b013e3282f161dc.
+Citation on PubMed
+Rauen KA. Distinguishing Costello versus cardio-facio-cutaneous syndrome: BRAF
+mutations in patients with a Costello phenotype. Am J Med Genet A. 2006 Aug
+1;140(15):1681-3. doi: 10.1002/ajmg.a.31315. No abstract available.
+Citation on PubMed
+Rauen KA. HRAS and the Costello syndrome. Clin Genet. 2007 Feb;71(2):101-8.
+doi: 10.1111/j.1399-0004.2007.00743.x.
+Citation on PubMed
+Stevenson DA, Yang FC. The musculoskeletal phenotype of the RASopathies. Am J
+Med Genet C Semin Med Genet. 2011 May 15;157C(2):90-103. doi:
+10.1002/ajmg.c.30296. Epub 2011 Apr 14.
+Citation on PubMed
+White SM, Graham JM Jr, Kerr B, Gripp K, Weksberg R, Cytrynbaum C, Reeder JL,
+Stewart FJ, Edwards M, Wilson M, Bankier A. The adult phenotype in Costello
+syndrome. Am J Med Genet A. 2005 Jul 15;136(2):128-35. doi: 10.1002/ajmg.a.30747.
+Citation on PubMed
+Zampino G, Pantaleoni F, Carta C, Cobellis G, Vasta I, Neri C, Pogna EA, De
+Feo E, Delogu A, Sarkozy A, Atzeri F, Selicorni A, Rauen KA, Cytrynbaum CS,
+Weksberg R, Dallapiccola B, Ballabio A, Gelb BD, Neri G, Tartaglia M. Diversity,
+parental germline origin, and phenotypic spectrum of de novo HRAS missense
+changes in Costello syndrome. Hum Mutat. 2007 Mar;28(3):265-72. doi:
+10.1002/humu.20431.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cancer
+Congenital Heart Defects
+Developmental Disabilities
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,193 @@
+Freeman-Sheldon syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Freeman-Sheldon syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/freeman-sheldon-syndrome/
+Freeman-Sheldon syndrome
+Description
+Freeman-Sheldon syndrome (also known as Freeman-Burian syndrome) is a condition that primarily affects muscles in the face and skull (craniofacial muscles) and can often affect joints in the hands and feet. The condition is characterized by abnormalities known as contractures, which result from permanent tightening of muscles, skin, tendons, and surrounding tissues, and restrict movement of the affected body part. In Freeman-Sheldon syndrome, contractures in the face lead to a distinctive facial appearance including a small mouth (
+microstomia
+) with pursed lips, giving the appearance of whistling. For this reason, Freeman-Sheldon syndrome is sometimes called "whistling face syndrome." Other facial features common in this condition include a chin dimple shaped like an "H" or "V" and unusually deep folds in the skin between the nose and the corners of the mouth (nasolabial folds).
+People with Freeman-Sheldon syndrome may also have a variety of other facial features, such as a
+prominent forehead
+and brow ridges, a sunken appearance of the middle of the face (
+midface hypoplasia
+), a
+short nose
+, a
+long area between the nose and mouth
+(philtrum), and
+full cheeks
+. Affected individuals may have a number of abnormalities that affect the eyes. These features can include widely spaced eyes (
+hypertelorism
+),
+deep-set eyes
+, outside corners of the eyes that point downward (down-slanting palpebral fissures), a narrowing of the eye opening (
+blepharophimosis
+), droopy eyelids (ptosis), and eyes that do not look in the same direction (strabismus).
+Other features that can occur in Freeman-Sheldon syndrome include an unusually small tongue (
+microglossia
+) and jaw (
+micrognathia
+) and a high arch in the roof of the mouth (
+high-arched palate
+). People with Freeman-Sheldon syndrome may have difficulty swallowing (dysphagia), a failure to gain weight and grow at the expected rate (failure to thrive), and breathing complications that may be life-threatening. Speech problems or hearing impairment can also occur in people with this disorder.
+In people with Freeman-Sheldon syndrome, contractures in the hands and feet can lead to permanently bent fingers and toes (
+camptodactyly
+), a hand deformity in which all of the fingers are angled outward toward the fifth finger (
+ulnar deviation
+, also called "windmill vane hand"), and inward- and downward-turning feet (
+clubfoot
+). Less commonly, contractures affect the hips, knees, shoulders, or elbows.
+People with Freeman-Sheldon syndrome may also have abnormalities of the spine, ribs, or chest. Many affected individuals have abnormal side-to-side or front-to-back curvature of the spine (
+scoliosis
+or
+kyphosis
+) or an abnormally curved lower back (lordosis). In many affected individuals, the muscles between the ribs do not function properly, which can impair breathing or coughing. The ribs or breastbone (sternum) may be abnormally shaped in people with this condition.
+Intelligence is unaffected in most people with Freeman-Sheldon syndrome, but development of normal milestones may be delayed due to physical abnormalities.
+Frequency
+Freeman-Sheldon syndrome is a rare disorder. It is estimated to affect 200 to 300 individuals worldwide.
+Causes
+Freeman-Sheldon syndrome is caused by variants (also known as mutations) in the
+MYH3
+gene. The
+MYH3
+gene provides instructions for making a protein called myosin-3. Myosin and another protein called actin are the primary components of
+muscle fibers
+and are important for the tensing of muscles (muscle contraction). Myosin-3 is a part of muscle fibers in the fetus before birth, and the protein is important for normal development of the muscles.
+It is not completely understood how
+MYH3
+gene variants lead to the signs and symptoms of Freeman-Sheldon syndrome. The genetic changes are thought to disrupt the function of the myosin-3 protein. Studies suggest that the genetic changes prolong muscle contraction and impair relaxation, which prevents movement of the muscles. Limited muscle and limb movement during development likely result in stiffening of the muscles and surrounding tissues, causing the contractures that lead to the characteristic “whistling face” appearance and hand, foot, and spine deformities. Researchers suggest that limited muscle movement before birth impairs normal development of other parts of the body, which may account for other features of Freeman-Sheldon syndrome.
+A small number of people with Freeman-Sheldon syndrome do not have mutations in the
+MYH3
+gene. In these individuals, the cause of the disorder is unknown.
+Learn more about the gene associated with Freeman-Sheldon syndrome
+MYH3
+Inheritance
+Freeman-Sheldon syndrome follows an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from
+new variants
+in the gene and occur with no history of the disorder in the family. Some affected people inherit the variant from
+one affected parent
+. Very rarely, the parent has the gene variant only in some or all of their sperm or egg cells, which is known as germline mosaicism. In these cases, the parent has no signs or symptoms of the condition.
+Other Names for This Condition
+Craniocarpotarsal dysplasia
+Craniocarpotarsal dystrophy
+DA2A
+Distal arthrogryposis, type 2A
+FBS
+Freeman-Burian syndrome
+FSS
+Whistling face syndrome
+Whistling face-windmill vane hand syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Freeman-Sheldon syndrome
+Genetic and Rare Diseases Information Center
+Freeman-Sheldon syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ARTHROGRYPOSIS, DISTAL, TYPE 2A; DA2A
+Scientific Articles on PubMed
+PubMed
+References
+Beals RK. The distal arthrogryposes: a new classification of peripheral
+contractures. Clin Orthop Relat Res. 2005 Jun;(435):203-10.
+Citation on PubMed
+Beck AE, McMillin MJ, Gildersleeve HI, Shively KM, Tang A, Bamshad MJ.
+Genotype-phenotype relationships in Freeman-Sheldon syndrome. Am J Med Genet A.
+2014 Nov;164A(11):2808-13. doi: 10.1002/ajmg.a.36762. Epub 2014 Sep 25.
+Citation on PubMed
+Bell KM, Huang A, Kronert WA, Bernstein SI, Swank DM. Prolonged myosin binding
+increases muscle stiffness in Drosophila models of Freeman-Sheldon syndrome.
+Biophys J. 2021 Mar 2;120(5):844-854. doi: 10.1016/j.bpj.2020.12.033. Epub 2021
+Jan 30.
+Citation on PubMed
+Das S, Kumar P, Verma A, Maiti TK, Mathew SJ. Myosin heavy chain mutations
+that cause Freeman-Sheldon syndrome lead to muscle structural and functional
+defects in Drosophila. Dev Biol. 2019 May 15;449(2):90-98. doi:
+10.1016/j.ydbio.2019.02.017. Epub 2019 Feb 28.
+Citation on PubMed
+Poling MI, Dufresne CR, Chamberlain RL. Findings, Phenotypes, Diagnostic
+Accuracy, and Treatment in Freeman-Burian Syndrome. J Craniofac Surg. 2020
+Jun;31(4):1063-1069. doi: 10.1097/SCS.0000000000006299.
+Citation on PubMed
+Poling MI, Dufresne CR, Chamberlain RL. Freeman-Burian syndrome. Orphanet J
+Rare Dis. 2019 Jan 10;14(1):14. doi: 10.1186/s13023-018-0984-2.
+Citation on PubMed
+Racca AW, Beck AE, McMillin MJ, Korte FS, Bamshad MJ, Regnier M. The embryonic
+myosin R672C mutation that underlies Freeman-Sheldon syndrome impairs
+cross-bridge detachment and cycling in adult skeletal muscle. Hum Mol Genet. 2015
+Jun 15;24(12):3348-58. doi: 10.1093/hmg/ddv084. Epub 2015 Mar 3.
+Citation on PubMed
+Rao DS, Kronert WA, Guo Y, Hsu KH, Sarsoza F, Bernstein SI. Reductions in
+ATPase activity, actin sliding velocity, and myofibril stability yield muscle
+dysfunction in Drosophila models of myosin-based Freeman-Sheldon syndrome. Mol
+Biol Cell. 2019 Jan 1;30(1):30-41. doi: 10.1091/mbc.E18-08-0526. Epub 2018 Oct
+31.
+Citation on PubMed
+Schiaffino S, Rossi AC, Smerdu V, Leinwand LA, Reggiani C. Developmental
+myosins: expression patterns and functional significance. Skelet Muscle. 2015 Jul
+15;5:22. doi: 10.1186/s13395-015-0046-6. eCollection 2015.
+Citation on PubMed
+Stevenson DA, Carey JC, Palumbos J, Rutherford A, Dolcourt J, Bamshad MJ.
+Clinical characteristics and natural history of Freeman-Sheldon syndrome.
+Pediatrics. 2006 Mar;117(3):754-62. doi: 10.1542/peds.2005-1219.
+Citation on PubMed
+Tajsharghi H, Kimber E, Kroksmark AK, Jerre R, Tulinius M, Oldfors A.
+Embryonic myosin heavy-chain mutations cause distal arthrogryposis and
+developmental myosin myopathy that persists postnatally. Arch Neurol. 2008
+Aug;65(8):1083-90. doi: 10.1001/archneur.65.8.1083.
+Citation on PubMed
+Toydemir RM, Rutherford A, Whitby FG, Jorde LB, Carey JC, Bamshad MJ.
+Mutations in embryonic myosin heavy chain (MYH3) cause Freeman-Sheldon syndrome
+and Sheldon-Hall syndrome. Nat Genet. 2006 May;38(5):561-5. doi: 10.1038/ng1775.
+Epub 2006 Apr 16.
+Citation on PubMed
+Walklate J, Vera C, Bloemink MJ, Geeves MA, Leinwand L. The Most Prevalent
+Freeman-Sheldon Syndrome Mutations in the Embryonic Myosin Motor Share Functional
+Defects. J Biol Chem. 2016 May 6;291(19):10318-31. doi: 10.1074/jbc.M115.707489.
+Epub 2016 Mar 4.
+Citation on PubMed
+Related Health Topics
+Facial Injuries and Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Clubfoot
+Contracture deformity
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

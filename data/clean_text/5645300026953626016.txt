@@ -1,0 +1,241 @@
+Intestinal pseudo-obstruction: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Intestinal pseudo-obstruction
+URL of this page: https://medlineplus.gov/genetics/condition/intestinal-pseudo-obstruction/
+Intestinal pseudo-obstruction
+Description
+Intestinal pseudo-obstruction is a condition characterized by impairment of the muscle contractions that move food through the digestive tract. It can occur at any time of life, and its symptoms range from mild to severe. The condition may arise from abnormalities of the gastrointestinal muscles themselves (myogenic) or from problems with the nerves that control the muscle contractions (neurogenic).
+Intestinal pseudo-obstruction leads to a buildup of partially digested food in the intestines. This buildup can cause abdominal swelling (distention) and pain, nausea, vomiting, and constipation or diarrhea. Affected individuals experience loss of appetite and impaired ability to absorb nutrients, which may lead to malnutrition. These symptoms resemble those of an intestinal blockage (obstruction), but in intestinal pseudo-obstruction no blockage is found.
+Depending on the cause of intestinal pseudo-obstruction, affected individuals can have additional signs and symptoms. Some people with intestinal pseudo-obstruction have bladder dysfunction such as an inability to pass urine. Other features may include decreased muscle tone (hypotonia) or stiffness (spasticity) of the torso and limbs, weakness in the muscles that control eye movement (ophthalmoplegia), intellectual disability, seizures, unusual facial features, or recurrent infections.
+When intestinal pseudo-obstruction occurs by itself, it is called primary or idiopathic intestinal pseudo-obstruction. The disorder can also develop as a complication of another health problem; in these cases, it is called secondary intestinal pseudo-obstruction. The condition can be episodic (acute) or persistent (chronic).
+Frequency
+The overall prevalence of intestinal pseudo-obstruction is unknown. Researchers in Japan have estimated the prevalence of chronic intestinal pseudo-obstruction in that country as 9 cases per million people.
+Causes
+In some individuals with primary intestinal pseudo-obstruction, the condition is caused by genetic changes affecting the
+FLNA
+or
+ACTG2
+gene.
+The protein produced from the
+FLNA
+gene, filamin A, attaches (binds) to proteins called actins and helps them form the branching network of filaments that make up the
+cytoskeleton
+, which gives structure to cells and allows them to change shape and move.
+FLNA
+gene mutations that cause intestinal pseudo-obstruction are thought to reduce levels of the filamin A protein or impair its function. Research suggests that decreased filamin A function may affect the shape of cells in the smooth muscles of the gastrointestinal tract during development before birth, causing abnormalities in the layering of these muscles. Smooth muscles line the internal organs; they contract and relax without being consciously controlled. In the gastrointestinal tract, abnormal layering of these muscles interferes with the ability to produce the coordinated waves of contractions (peristalsis) that move food along during digestion.
+Deletions or duplications of genetic material can affect all or part of the
+FLNA
+gene, and may also include adjacent genes on the
+X chromosome.
+Changes in adjacent genes may account for some of the other signs and symptoms that can occur with intestinal pseudo-obstruction.
+The
+ACTG2
+gene provides instructions for making a member of the actin family called gamma (γ)-2 actin. The γ-2 actin protein is found in smooth muscle cells of the intestinal and urinary tracts. It is necessary for contraction of the smooth muscles in the intestines and bladder. These contractions move food through the intestines as part of the digestive process and empty urine from the bladder.
+ACTG2
+gene mutations hinder the formation of actin filaments in the cytoskeleton and reduce the ability of smooth muscles in the intestines and bladder to contract, leading to the signs and symptoms of intestinal pseudo-obstruction.
+Secondary intestinal pseudo-obstruction occurs as a complication of other disorders that damage muscles or nerves in the intestinal tract, such as
+Parkinson's disease
+,
+type 2 diabetes
+, various types of muscular dystrophy, or
+Kawasaki disease
+. Additionally, the condition is a characteristic feature of certain inherited syndromes such as
+megacystis-microcolon-intestinal hypoperistalsis syndrome
+(MMIHS) or
+mitochondrial neurogastrointestinal encephalopathy disease
+(MNGIE disease). Infections, surgery, or certain drugs can also cause secondary intestinal pseudo-obstruction.
+Mutations in other genes involved in smooth muscle contraction can also cause intestinal pseudo-obstruction. Studies suggest that mutations in additional genes that have not been identified can also result in this condition. In some affected individuals, the cause of intestinal pseudo-obstruction is unknown.
+Learn more about the genes and chromosome associated with Intestinal pseudo-obstruction
+ACTG2
+FLNA
+MYH11
+x chromosome
+Additional Information from NCBI Gene:
+LMOD1
+MYLK
+Inheritance
+Intestinal pseudo-obstruction is often not inherited, and most affected individuals do not have a family history of the disorder. When it does run in families, it can have different inheritance patterns.
+Intestinal pseudo-obstruction caused by
+FLNA
+gene mutations is inherited in an
+X-linked recessive pattern
+. The
+FLNA
+gene is located on the X chromosome, which is one of the two
+sex chromosomes
+. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Intestinal pseudo-obstruction caused by
+ACTG2
+gene mutations is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Some other cases of intestinal pseudo-obstruction are inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Chronic idiopathic intestinal pseudo-obstruction
+CIIP
+CIPO
+Congenital short bowel syndrome
+Enteric neuropathy
+Familial visceral myopathy
+Familial visceral neuropathy
+IPO
+Paralytic ileus
+Pseudo-obstruction of intestine
+Pseudointestinal obstruction syndrome
+Pseudoobstructive syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Visceral neuropathy, familial, 1, autosomal recessive
+Genetic Testing Registry: Visceral neuropathy, familial, 3, autosomal dominant
+Genetic Testing Registry: Intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked
+Genetic and Rare Diseases Information Center
+Intestinal pseudo-obstruction
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+VISCERAL MYOPATHY, FAMILIAL, WITH EXTERNAL OPHTHALMOPLEGIA
+INTESTINAL PSEUDOOBSTRUCTION, NEURONAL, CHRONIC IDIOPATHIC, X-LINKED; CIIPX
+VISCERAL NEUROPATHY, FAMILIAL, 1, AUTOSOMAL RECESSIVE; VSCN1
+INTESTINAL PSEUDOOBSTRUCTION WITH PATENT DUCTUS ARTERIOSUS AND NATAL TEETH
+VISCERAL NEUROPATHY, FAMILIAL, 3, AUTOSOMAL DOMINANT; VSCN3
+Scientific Articles on PubMed
+PubMed
+References
+Gargiulo A, Auricchio R, Barone MV, Cotugno G, Reardon W, Milla PJ, Ballabio
+A, Ciccodicola A, Auricchio A. Filamin A is mutated in X-linked chronic
+idiopathic intestinal pseudo-obstruction with central nervous system involvement.
+Am J Hum Genet. 2007 Apr;80(4):751-8. doi: 10.1086/513321. Epub 2007 Feb 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gauthier J, Ouled Amar Bencheikh B, Hamdan FF, Harrison SM, Baker LA, Couture
+F, Thiffault I, Ouazzani R, Samuels ME, Mitchell GA, Rouleau GA, Michaud JL,
+Soucy JF. A homozygous loss-of-function variant in MYH11 in a case with
+megacystis-microcolon-intestinal hypoperistalsis syndrome. Eur J Hum Genet. 2015
+Sep;23(9):1266-8. doi: 10.1038/ejhg.2014.256. Epub 2014 Nov 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Halim D, Brosens E, Muller F, Wangler MF, Beaudet AL, Lupski JR, Akdemir ZHC,
+Doukas M, Stoop HJ, de Graaf BM, Brouwer RWW, van Ijcken WFJ, Oury JF, Rosenblatt
+J, Burns AJ, Tibboel D, Hofstra RMW, Alves MM. Loss-of-Function Variants in MYLK
+Cause Recessive Megacystis Microcolon Intestinal Hypoperistalsis Syndrome. Am J
+Hum Genet. 2017 Jul 6;101(1):123-129. doi: 10.1016/j.ajhg.2017.05.011. Epub 2017
+Jun 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Halim D, Wilson MP, Oliver D, Brosens E, Verheij JB, Han Y, Nanda V, Lyu Q,
+Doukas M, Stoop H, Brouwer RW, van IJcken WF, Slivano OJ, Burns AJ, Christie CK,
+de Mesy Bentley KL, Brooks AS, Tibboel D, Xu S, Jin ZG, Djuwantono T, Yan W,
+Alves MM, Hofstra RM, Miano JM. Loss of LMOD1 impairs smooth muscle
+cytocontractility and causes megacystis microcolon intestinal hypoperistalsis
+syndrome in humans and mice. Proc Natl Acad Sci U S A. 2017 Mar
+28;114(13):E2739-E2747. doi: 10.1073/pnas.1620507114. Epub 2017 Mar 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Iida H, Ohkubo H, Inamori M, Nakajima A, Sato H. Epidemiology and clinical
+experience of chronic intestinal pseudo-obstruction in Japan: a nationwide
+epidemiologic survey. J Epidemiol. 2013;23(4):288-94. doi:
+10.2188/jea.je20120173.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kapoor S. Kawasaki's disease: an often overlooked cause of intestinal
+pseudo-obstruction in children. Virchows Arch. 2015 Nov;467(5):619-20. doi:
+10.1007/s00428-015-1844-2. Epub 2015 Sep 19. No abstract available.
+Citation on PubMed
+Kapur RP, Robertson SP, Hannibal MC, Finn LS, Morgan T, van Kogelenberg M,
+Loren DJ. Diffuse abnormal layering of small intestinal smooth muscle is present
+in patients with FLNA mutations and x-linked intestinal pseudo-obstruction. Am J
+Surg Pathol. 2010 Oct;34(10):1528-43. doi: 10.1097/PAS.0b013e3181f0ae47.
+Citation on PubMed
+Klar J, Raykova D, Gustafson E, Tothova I, Ameur A, Wanders A, Dahl N.
+Phenotypic expansion of visceral myopathy associated with ACTG2 tandem base
+substitution. Eur J Hum Genet. 2015 Dec;23(12):1679-83. doi:
+10.1038/ejhg.2015.49. Epub 2015 Mar 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lauro A, De Giorgio R, Pinna AD. Advancement in the clinical management of
+intestinal pseudo-obstruction. Expert Rev Gastroenterol Hepatol. 2015
+Feb;9(2):197-208. doi: 10.1586/17474124.2014.940317. Epub 2014 Jul 14.
+Citation on PubMed
+Lehtonen HJ, Sipponen T, Tojkander S, Karikoski R, Jarvinen H, Laing NG,
+Lappalainen P, Aaltonen LA, Tuupanen S. Segregation of a missense variant in
+enteric smooth muscle actin gamma-2 with autosomal dominant familial visceral
+myopathy. Gastroenterology. 2012 Dec;143(6):1482-1491.e3. doi:
+10.1053/j.gastro.2012.08.045. Epub 2012 Sep 6.
+Citation on PubMed
+Matera I, Rusmini M, Guo Y, Lerone M, Li J, Zhang J, Di Duca M, Nozza P,
+Mosconi M, Pini Prato A, Martucciello G, Barabino A, Morandi F, De Giorgio R,
+Stanghellini V, Ravazzolo R, Devoto M, Hakonarson H, Ceccherini I. Variants of
+the ACTG2 gene correlate with degree of severity and presence of megacystis in
+chronic intestinal pseudo-obstruction. Eur J Hum Genet. 2016 Aug;24(8):1211-5.
+doi: 10.1038/ejhg.2015.275. Epub 2016 Jan 27.
+Citation on PubMed
+or
+Free article on PubMed Central
+Milunsky A, Baldwin C, Zhang X, Primack D, Curnow A, Milunsky J. Diagnosis of
+Chronic Intestinal Pseudo-obstruction and Megacystis by Sequencing the ACTG2
+Gene. J Pediatr Gastroenterol Nutr. 2017 Oct;65(4):384-387. doi:
+10.1097/MPG.0000000000001608.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wangler MF, Gonzaga-Jauregui C, Gambin T, Penney S, Moss T, Chopra A, Probst
+FJ, Xia F, Yang Y, Werlin S, Eglite I, Kornejeva L, Bacino CA, Baldridge D, Neul
+J, Lehman EL, Larson A, Beuten J, Muzny DM, Jhangiani S; Baylor-Hopkins Center
+for Mendelian Genomics; Gibbs RA, Lupski JR, Beaudet A. Heterozygous de novo and
+inherited mutations in the smooth muscle actin (ACTG2) gene underlie
+megacystis-microcolon-intestinal hypoperistalsis syndrome. PLoS Genet. 2014 Mar
+27;10(3):e1004258. doi: 10.1371/journal.pgen.1004258. eCollection 2014 Mar.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Colonic Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Intestinal pseudo-obstruction
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

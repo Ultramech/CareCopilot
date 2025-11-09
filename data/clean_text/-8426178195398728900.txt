@@ -1,0 +1,173 @@
+Bardet-Biedl syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Bardet-Biedl syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/bardet-biedl-syndrome/
+Bardet-Biedl syndrome
+Description
+Bardet-Biedl syndrome is a disorder that affects many parts of the body. The signs and symptoms of this condition vary among affected individuals, even among members of the same family.
+Vision loss is one of the major features of Bardet-Biedl syndrome. Loss of vision occurs as the light-sensing tissue at the back of the eye (
+the retina
+) gradually deteriorates. Problems with night vision become apparent by mid-childhood, followed by blind spots that develop in the side (peripheral) vision. Over time, these blind spots enlarge and merge to produce tunnel vision. Most people with Bardet-Biedl syndrome also develop blurred central vision (poor visual acuity) and become legally blind by adolescence or early adulthood.
+Obesity is another characteristic feature of Bardet-Biedl syndrome. Abnormal weight gain typically begins in early childhood and continues to be an issue throughout life. Complications of obesity can include
+type 2 diabetes
+, high blood pressure (
+hypertension
+), and abnormally high cholesterol levels (hypercholesterolemia).
+Other major signs and symptoms of Bardet-Biedl syndrome include the presence of extra
+fingers
+or
+toes
+(polydactyly), intellectual disability or learning problems, and abnormalities of the genitalia. Most affected males produce reduced amounts of sex hormones (hypogonadism), and they are usually unable to father biological children (infertile). Many people with Bardet-Biedl syndrome also have
+kidney
+abnormalities, which can be serious or life-threatening.
+Additional features of Bardet-Biedl syndrome can include impaired speech, delayed development of motor skills such as standing and walking, behavioral problems such as emotional immaturity and inappropriate outbursts, and clumsiness or poor coordination. Distinctive facial features, dental abnormalities, unusually
+short
+or
+fused
+fingers or toes, and a partial or complete loss of the
+sense of smell
+(anosmia) have also been reported in some people with Bardet-Biedl syndrome. Additionally, this condition can affect the heart, liver, and digestive system.
+Frequency
+In most of North America and Europe, Bardet-Biedl syndrome has a prevalence of 1 in 140,000 to 1 in 160,000 newborns. The condition is more common on the island of Newfoundland (off the east coast of Canada), where it affects an estimated 1 in 17,000 newborns. It also occurs more frequently in the Bedouin population of Kuwait, affecting about 1 in 13,500 newborns.
+Causes
+Bardet-Biedl syndrome can result from mutations in at least 14 different genes (often called BBS genes). These genes are known or suspected to play critical roles in cell structures called cilia. Cilia are microscopic, finger-like projections that stick out from the surface of many types of cells. They are involved in cell movement and many different chemical signaling pathways. Cilia are also necessary for the perception of sensory input (such as sight, hearing, and smell). The proteins produced from BBS genes are involved in the maintenance and function of cilia.
+Mutations in BBS genes lead to problems with the structure and function of cilia. Defects in these cell structures probably disrupt important chemical signaling pathways during development and lead to abnormalities of sensory perception. Researchers believe that defective cilia are responsible for most of the features of Bardet-Biedl syndrome.
+About one-quarter of all cases of Bardet-Biedl syndrome result from mutations in the
+BBS1
+gene. Another 20 percent of cases are caused by mutations in the
+BBS10
+gene. The other BBS genes each account for only a small percentage of all cases of this condition. In about 25 percent of people with Bardet-Biedl syndrome, the cause of the disorder is unknown.
+In affected individuals who have mutations in one of the BBS genes, mutations in additional genes may be involved in causing or modifying the course of the disorder. Studies suggest that these modifying genes may be known BBS genes or other genes. The additional genetic changes could help explain the variability in the signs and symptoms of Bardet-Biedl syndrome. However, this phenomenon appears to be uncommon, and it has not been found consistently in scientific studies.
+Learn more about the genes associated with Bardet-Biedl syndrome
+BBS1
+BBS10
+CEP290
+MKKS
+Additional Information from NCBI Gene:
+ARL6
+BBS12
+BBS2
+BBS4
+BBS5
+BBS7
+BBS9
+MKS1
+TRIM32
+TTC8
+Inheritance
+Bardet-Biedl syndrome is typically inherited in an
+autosomal recessive pattern
+, which means both copies of a BBS gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+BBS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Bardet-Biedl syndrome
+Genetic and Rare Diseases Information Center
+Bardet-Biedl syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+BARDET-BIEDL SYNDROME 1; BBS1
+Scientific Articles on PubMed
+PubMed
+References
+Ansley SJ, Badano JL, Blacque OE, Hill J, Hoskins BE, Leitch CC, Kim JC, Ross
+AJ, Eichers ER, Teslovich TM, Mah AK, Johnsen RC, Cavender JC, Lewis RA, Leroux
+MR, Beales PL, Katsanis N. Basal body dysfunction is a likely cause of
+pleiotropic Bardet-Biedl syndrome. Nature. 2003 Oct 9;425(6958):628-33. doi:
+10.1038/nature02030. Epub 2003 Sep 21.
+Citation on PubMed
+Baker K, Beales PL. Making sense of cilia in disease: the human ciliopathies.
+Am J Med Genet C Semin Med Genet. 2009 Nov 15;151C(4):281-95. doi:
+10.1002/ajmg.c.30231.
+Citation on PubMed
+Beales PL, Elcioglu N, Woolf AS, Parker D, Flinter FA. New criteria for
+improved diagnosis of Bardet-Biedl syndrome: results of a population survey. J
+Med Genet. 1999 Jun;36(6):437-46.
+Citation on PubMed
+or
+Free article on PubMed Central
+Beales PL. Lifting the lid on Pandora's box: the Bardet-Biedl syndrome. Curr
+Opin Genet Dev. 2005 Jun;15(3):315-23. doi: 10.1016/j.gde.2005.04.006.
+Citation on PubMed
+Forsyth R, Gunay-Aygun M. Bardet-Biedl Syndrome Overview. 2003 Jul 14 [updated
+2023 Mar 23]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1363/
+Citation on PubMed
+Katsanis N, Ansley SJ, Badano JL, Eichers ER, Lewis RA, Hoskins BE, Scambler
+PJ, Davidson WS, Beales PL, Lupski JR. Triallelic inheritance in Bardet-Biedl
+syndrome, a Mendelian recessive disorder. Science. 2001 Sep 21;293(5538):2256-9.
+doi: 10.1126/science.1063525.
+Citation on PubMed
+Katsanis N. The oligogenic properties of Bardet-Biedl syndrome. Hum Mol Genet.
+2004 Apr 1;13 Spec No 1:R65-71. doi: 10.1093/hmg/ddh092. Epub 2004 Feb 19.
+Citation on PubMed
+Muller J, Stoetzel C, Vincent MC, Leitch CC, Laurier V, Danse JM, Helle S,
+Marion V, Bennouna-Greene V, Vicaire S, Megarbane A, Kaplan J, Drouin-Garraud V,
+Hamdani M, Sigaudy S, Francannet C, Roume J, Bitoun P, Goldenberg A, Philip N,
+Odent S, Green J, Cossee M, Davis EE, Katsanis N, Bonneau D, Verloes A, Poch O,
+Mandel JL, Dollfus H. Identification of 28 novel mutations in the Bardet-Biedl
+syndrome genes: the burden of private mutations in an extensively heterogeneous
+disease. Hum Genet. 2010 Mar;127(5):583-93. doi: 10.1007/s00439-010-0804-9. Epub
+2010 Feb 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tobin JL, Beales PL. Bardet-Biedl syndrome: beyond the cilium. Pediatr
+Nephrol. 2007 Jul;22(7):926-36. doi: 10.1007/s00467-007-0435-0. Epub 2007 Mar 15.
+Citation on PubMed
+Zaghloul NA, Katsanis N. Mechanistic insights into Bardet-Biedl syndrome, a
+model ciliopathy. J Clin Invest. 2009 Mar;119(3):428-37. doi: 10.1172/JCI37041.
+Epub 2009 Mar 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Kidney Diseases
+Neurologic Diseases
+Retinal Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Obesity
+Polydactyly
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

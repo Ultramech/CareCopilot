@@ -1,0 +1,132 @@
+Abdominal wall defect: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Abdominal wall defect
+URL of this page: https://medlineplus.gov/genetics/condition/abdominal-wall-defect/
+Abdominal wall defect
+Description
+An abdominal wall defect is an opening in the abdomen through which various abdominal organs can protrude. This opening varies in size and can usually be diagnosed early in fetal development, typically between the tenth and fourteenth weeks of pregnancy. There are two main types of abdominal wall defects: omphalocele and
+gastroschisis
+. Omphalocele is an opening in the center of the abdominal wall where the umbilical cord meets the abdomen. Organs (typically the
+intestines, stomach, and liver
+) protrude through the opening into the umbilical cord and are covered by the same protective membrane that covers the umbilical cord. Gastroschisis is a defect in the abdominal wall, usually to the right of the umbilical cord, through which the large and small intestines protrude (although other organs may sometimes bulge out). There is no membrane covering the exposed organs in gastroschisis.
+Fetuses with omphalocele may grow slowly before birth (intrauterine growth retardation) and they may be born prematurely. Individuals with omphalocele frequently have multiple birth defects, such as a congenital heart defect. Additionally, underdevelopment of the lungs is often associated with omphalocele because the abdominal organs normally provide a framework for chest wall growth. When those organs are misplaced, the chest wall does not form properly, providing a smaller than normal space for the lungs to develop. As a result, many infants with omphalocele have respiratory insufficiency and may need to be supported with a machine to help them breathe (mechanical ventilation). Rarely, affected individuals who have breathing problems in infancy experience recurrent lung infections or asthma later in life. Affected infants often have gastrointestinal problems including a backflow of stomach acids into the esophagus (
+gastroesophageal reflux
+) and feeding difficulty; these problems can persist even after treatment of omphalocele. Large omphaloceles or those associated with multiple additional health problems are more often associated with fetal death than cases in which omphalocele occurs alone (isolated).
+Omphalocele is a feature of many genetic syndromes. Nearly half of individuals with omphalocele have a condition caused by an extra copy of one of the chromosomes in each of their cells (trisomy). Up to one-third of people born with omphalocele have a genetic condition called
+Beckwith-Wiedemann syndrome
+. Affected individuals may have additional signs and symptoms associated with these genetic conditions.
+Individuals who have gastroschisis rarely have other birth defects and seldom have chromosome abnormalities or a genetic condition. Most affected individuals experience intrauterine growth retardation and are small at birth; many affected infants are born prematurely.
+With gastroschisis, the protruding organs are not covered by a protective membrane and are susceptible to damage due to direct contact with amniotic fluid in the womb. Components of the amniotic fluid may trigger immune responses and inflammatory reactions against the intestines that can damage the tissue. Constriction around exposed organs at the abdominal wall opening late in fetal development may also contribute to organ injury. Intestinal damage causes impairment of the muscle contractions that move food through the digestive tract (peristalsis) in most children with gastroschisis. In these individuals, peristalsis usually improves in a few months and intestinal muscle contractions normalize. Rarely, children with gastroschisis have a narrowing or absence of a portion of intestine (intestinal atresia) or twisting of the intestine. After birth, these intestinal malformations can lead to problems with digestive function, further loss of intestinal tissue, and a condition called short bowel syndrome that occurs when areas of the small intestine are missing, causing dehydration and poor absorption of nutrients. Depending on the severity of the condition, intravenous feedings (parenteral nutrition) may be required.
+The health of an individual with gastroschisis depends largely on how damaged his or her intestine was before birth. When the abdominal wall defect is repaired and normal intestinal function is recovered, the vast majority of affected individuals have no health problems related to the repaired defect later in life.
+Frequency
+Abdominal wall defects are uncommon. Omphalocele affects an estimated 2 to 2.5 in 10,000 newborns. Approximately 2 to 6 in 10,000 newborns are affected by gastroschisis, although researchers have observed that this malformation is becoming more common. Abdominal wall defects are more common among pregnancies that do not survive to term (miscarriages and stillbirths).
+Causes
+No genetic mutations are known to cause an abdominal wall defect. Multiple genetic and environmental factors likely influence the development of this disorder.
+Omphalocele
+and
+gastroschisis
+are caused by different errors in fetal development.
+Omphalocele occurs during an error in
+digestive tract
+development. During the formation of the abdominal cavity in the sixth to tenth weeks of fetal development, the intestines normally protrude into the umbilical cord but recede back into the abdomen as development continues. Omphalocele occurs when the intestines do not recede back into the abdomen, but remain in the umbilical cord. Other abdominal organs can also protrude through this opening, resulting in the varied organ involvement that occurs in omphalocele.
+The error that leads to gastroschisis formation is unknown. It is thought to be either a disruption in the blood flow to the digestive tract or a lack of development or injury to gastrointestinal tissue early in fetal development. For reasons that are unknown, women under the age of 20 are at the greatest risk of having a baby with gastroschisis. Other risk factors in pregnancy may include taking medications that constrict the blood vessels (called vasoconstrictive drugs) or smoking, although these risk factors have not been confirmed.
+Inheritance
+Most cases of abdominal wall defect are sporadic, which means they occur in people with no history of the disorder in their family. Multiple genetic and environmental factors likely play a part in determining the risk of developing this disorder.
+When an abdominal wall defect, most often omphalocele, is a feature of a genetic condition, it is inherited in the pattern of that condition.
+Other Names for This Condition
+Abdominal hernia
+Gastroschisis
+Hernia, abdominal
+Omphalocele
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital omphalocele
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+OMPHALOCELE, AUTOSOMAL
+GASTROSCHISIS
+OMPHALOCELE, X-LINKED
+Scientific Articles on PubMed
+PubMed
+References
+Christison-Lagay ER, Kelleher CM, Langer JC. Neonatal abdominal wall defects.
+Semin Fetal Neonatal Med. 2011 Jun;16(3):164-72. doi: 10.1016/j.siny.2011.02.003.
+Epub 2011 Apr 6.
+Citation on PubMed
+Fratelli N, Papageorghiou AT, Bhide A, Sharma A, Okoye B, Thilaganathan B.
+Outcome of antenatally diagnosed abdominal wall defects. Ultrasound Obstet
+Gynecol. 2007 Sep;30(3):266-70. doi: 10.1002/uog.4086.
+Citation on PubMed
+Hidaka N, Murata M, Yumoto Y, Hojo S, Fujita Y, Masumoto K, Taguchi T,
+Tsukimori K, Wake N. Characteristics and perinatal course of prenatally diagnosed
+fetal abdominal wall defects managed in a tertiary center in Japan. J Obstet
+Gynaecol Res. 2009 Feb;35(1):40-7. doi: 10.1111/j.1447-0756.2008.00871.x.
+Citation on PubMed
+Hwang PJ, Kousseff BG. Omphalocele and gastroschisis: an 18-year review study.
+Genet Med. 2004 Jul-Aug;6(4):232-6. doi: 10.1097/01.gim.0000133919.68912.a3.
+Citation on PubMed
+Islam S. Clinical care outcomes in abdominal wall defects. Curr Opin Pediatr.
+2008 Jun;20(3):305-10. doi: 10.1097/MOP.0b013e3282ffdc1e.
+Citation on PubMed
+Ledbetter DJ. Gastroschisis and omphalocele. Surg Clin North Am. 2006
+Apr;86(2):249-60, vii. doi: 10.1016/j.suc.2005.12.003. No abstract available.
+Citation on PubMed
+Mann S, Blinman TA, Douglas Wilson R. Prenatal and postnatal management of
+omphalocele. Prenat Diagn. 2008 Jul;28(7):626-32. doi: 10.1002/pd.2008.
+Citation on PubMed
+Sadler TW. The embryologic origin of ventral body wall defects. Semin Pediatr
+Surg. 2010 Aug;19(3):209-14. doi: 10.1053/j.sempedsurg.2010.03.006.
+Citation on PubMed
+Wilson RD, Johnson MP. Congenital abdominal wall defects: an update. Fetal
+Diagn Ther. 2004 Sep-Oct;19(5):385-98. doi: 10.1159/000078990.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Birth Defects
+Genetic Disorders
+Hernia
+MEDICAL ENCYCLOPEDIA
+Gastroschisis
+Gastroschisis repair
+Gastroschisis repair - series
+Genetics
+Omphalocele
+Omphalocele repair
+Omphalocele repair - series
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

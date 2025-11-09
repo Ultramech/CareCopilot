@@ -1,0 +1,130 @@
+Klippel-Trenaunay syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Klippel-Trenaunay syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/klippel-trenaunay-syndrome/
+Klippel-Trenaunay syndrome
+Description
+Klippel-Trenaunay syndrome is a condition that affects the development of blood vessels, soft tissues (such as skin and muscles), and bones. The disorder has three characteristic features: a red birthmark called a port-wine stain, abnormal overgrowth of soft tissues and bones, and vein malformations.
+Most people with Klippel-Trenaunay syndrome are born with a port-wine stain. This type of birthmark is caused by swelling of small blood vessels near the surface of the skin. Port-wine stains are typically flat and can vary from pale pink to deep maroon in color. In people with Klippel-Trenaunay syndrome, the port-wine stain usually covers part of one limb. The affected area may become lighter or darker with age. Occasionally, port-wine stains develop small red blisters that break open and bleed easily.
+Klippel-Trenaunay syndrome is also associated with overgrowth of bones and soft tissues beginning in infancy. Usually this abnormal growth is limited to one limb, most often one leg. However, overgrowth can also affect the arms or, rarely, the torso. The abnormal growth can cause pain, a feeling of heaviness, and reduced movement in the affected area. If the overgrowth causes one leg to be longer than the other, it can also lead to problems with walking.
+Malformations of veins are the third major feature of Klippel-Trenaunay syndrome. These abnormalities include varicose veins, which are swollen and twisted veins near the surface of the skin that often cause pain. Varicose veins usually occur on the sides of the upper legs and calves. Veins deep in the limbs can also be abnormal in people with Klippel-Trenaunay syndrome. Malformations of deep veins increase the risk of a type of blood clot called a
+deep vein thrombosis
+(DVT). If a DVT travels through the bloodstream and lodges in the lungs, it can cause a life-threatening blood clot known as a
+pulmonary embolism
+(PE).
+Other complications of Klippel-Trenaunay syndrome can include a type of skin infection called cellulitis, swelling caused by a buildup of fluid (lymphedema), and internal bleeding from abnormal blood vessels. Less commonly, this condition is also associated with fusion of certain fingers or toes (syndactyly) or the presence of extra digits (
+polydactyly
+).
+Frequency
+Klippel-Trenaunay syndrome is estimated to affect at least 1 in 100,000 people worldwide.
+Causes
+Klippel-Trenaunay syndrome can be caused by mutations in the
+PIK3CA
+gene. This gene provides instructions for making the p110 alpha (p110α) protein, which is one piece (subunit) of an enzyme called phosphatidylinositol 3-kinase (PI3K). PI3K plays a role in chemical signaling that is important for many cell activities, including cell growth and division (proliferation), movement (migration) of cells, and cell survival. These functions make PI3K important for the development of tissues throughout the body.
+The
+PIK3CA
+gene mutations associated with Klippel-Trenaunay syndrome alter the p110α protein. The altered subunit makes PI3K abnormally active, which allows cells to grow and divide continuously. Increased cell proliferation leads to abnormal growth of the bones, soft tissues, and blood vessels.
+Klippel-Trenaunay syndrome is one of several overgrowth syndromes, including
+megalencephaly-capillary malformation syndrome
+, that are caused by mutations in the
+PIK3CA
+gene. Together, these conditions are known as the
+PIK3CA
+-related overgrowth spectrum (PROS).
+Because not everyone with Klippel-Trenaunay syndrome has a mutation in the
+PIK3CA
+gene, it is possible that mutations in unidentified genes may also cause this condition.
+Learn more about the gene associated with Klippel-Trenaunay syndrome
+PIK3CA
+Inheritance
+Klippel-Trenaunay syndrome is almost always sporadic, which means that it occurs in people with no history of the disorder in their family. Studies suggest that the condition results from gene mutations that are not inherited. These genetic changes, which are called somatic mutations, arise randomly in one cell during the early stages of development before birth. As cells continue to divide during development, cells arising from the first abnormal cell will have the mutation, and other cells will not. This mixture of cells with and without a genetic mutation is known as mosaicism.
+Other Names for This Condition
+Angio-osteohypertrophy syndrome
+Congenital dysplastic angiopathy
+Klippel-Trenaunay disease
+KTS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Angioosteohypertrophic syndrome
+Genetic and Rare Diseases Information Center
+Angioosteohypertrophic syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+KLIPPEL-TRENAUNAY-WEBER SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Berry SA, Peterson C, Mize W, Bloom K, Zachary C, Blasco P, Hunter D.
+Klippel-Trenaunay syndrome. Am J Med Genet. 1998 Oct 2;79(4):319-26.
+Citation on PubMed
+Gloviczki P, Driscoll DJ. Klippel-Trenaunay syndrome: current management.
+Phlebology. 2007;22(6):291-8. doi: 10.1177/026835550702200611.
+Citation on PubMed
+Jacob AG, Driscoll DJ, Shaughnessy WJ, Stanson AW, Clay RP, Gloviczki P.
+Klippel-Trenaunay syndrome: spectrum and management. Mayo Clin Proc. 1998
+Jan;73(1):28-36. doi: 10.1016/S0025-6196(11)63615-X.
+Citation on PubMed
+Kihiczak GG, Meine JG, Schwartz RA, Janniger CK. Klippel-Trenaunay syndrome: a
+multisystem disorder possibly resulting from a pathogenic gene for vascular and
+tissue overgrowth. Int J Dermatol. 2006 Aug;45(8):883-90. doi:
+10.1111/j.1365-4632.2006.02940.x.
+Citation on PubMed
+Luks VL, Kamitaki N, Vivero MP, Uller W, Rab R, Bovee JV, Rialon KL, Guevara
+CJ, Alomari AI, Greene AK, Fishman SJ, Kozakewich HP, Maclellan RA, Mulliken JB,
+Rahbar R, Spencer SA, Trenor CC 3rd, Upton J, Zurakowski D, Perkins JA, Kirsh A,
+Bennett JT, Dobyns WB, Kurek KC, Warman ML, McCarroll SA, Murillo R. Lymphatic
+and other vascular malformative/overgrowth disorders are caused by somatic
+mutations in PIK3CA. J Pediatr. 2015 Apr;166(4):1048-54.e1-5. doi:
+10.1016/j.jpeds.2014.12.069. Epub 2015 Feb 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vahidnezhad H, Youssefian L, Uitto J. Klippel-Trenaunay syndrome belongs to
+the PIK3CA-related overgrowth spectrum (PROS). Exp Dermatol. 2016 Jan;25(1):17-9.
+doi: 10.1111/exd.12826. Epub 2015 Oct 13.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Vascular Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Klippel-Trenaunay syndrome
+Port-wine stain
+Varicose veins
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

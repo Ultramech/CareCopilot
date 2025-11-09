@@ -1,0 +1,114 @@
+Hereditary fructose intolerance: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary fructose intolerance
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-fructose-intolerance/
+Hereditary fructose intolerance
+Description
+Hereditary fructose intolerance is a condition that affects a person's ability to digest the sugar fructose. Fructose is a simple sugar found primarily in fruits. Affected individuals develop signs and symptoms of the disorder in infancy when fruits, juices, or other foods containing fructose are introduced into the diet. After ingesting fructose, individuals with hereditary fructose intolerance may experience nausea, bloating, abdominal pain, diarrhea, vomiting, and low blood sugar (hypoglycemia). Affected infants may fail to grow and gain weight at the expected rate (failure to thrive).
+Repeated ingestion of fructose-containing foods can lead to liver and
+kidney
+damage. The liver damage can result in a yellowing of the skin and whites of the eyes (jaundice), an enlarged liver (hepatomegaly), and chronic liver disease (cirrhosis). Continued exposure to fructose may result in seizures, coma, and ultimately death from liver and kidney failure. Due to the severity of symptoms experienced when fructose is ingested, most people with hereditary fructose intolerance develop a dislike for fruits, juices, and other foods containing fructose.
+Hereditary fructose intolerance should not be confused with a condition called fructose malabsorption. In people with fructose malabsorption, the cells of the intestine cannot absorb fructose normally, leading to bloating, diarrhea or constipation, flatulence, and stomach pain. Fructose malabsorption is thought to affect approximately 40 percent of individuals in the Western hemisphere; its cause is unknown.
+Frequency
+The incidence of hereditary fructose intolerance is estimated to be 1 in 20,000 to 30,000 individuals each year worldwide.
+Causes
+Mutations in the
+ALDOB
+gene cause hereditary fructose intolerance. The
+ALDOB
+gene provides instructions for making the aldolase B enzyme. This enzyme is found primarily in
+the liver
+and is involved in the breakdown (metabolism) of fructose so this sugar can be used as energy. Aldolase B is responsible for the second step in the metabolism of fructose, which breaks down the molecule fructose-1-phosphate into other molecules called glyceraldehyde and dihydroxyacetone phosphate.
+ALDOB
+gene mutations reduce the function of the enzyme, impairing its ability to metabolize fructose. A lack of functional aldolase B results in an accumulation of fructose-1-phosphate in liver cells. This buildup is toxic, resulting in the death of liver cells over time. Additionally, the breakdown products of fructose-1-phosphase are needed in the body to produce energy and to maintain blood sugar levels. The combination of decreased cellular energy, low blood sugar, and liver cell death leads to the features of hereditary fructose intolerance.
+Learn more about the gene associated with Hereditary fructose intolerance
+ALDOB
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+ALDOB deficiency
+Aldolase B deficiency
+Fructose aldolase B deficiency
+Fructose intolerance
+Fructose-1,6-biphosphate aldolase deficiency
+Fructose-1-phosphate aldolase deficiency
+Fructosemia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary fructosuria
+Genetic and Rare Diseases Information Center
+Hereditary fructose intolerance
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+FRUCTOSE INTOLERANCE, HEREDITARY; HFI
+Scientific Articles on PubMed
+PubMed
+References
+Bouteldja N, Timson DJ. The biochemical basis of hereditary fructose
+intolerance. J Inherit Metab Dis. 2010 Apr;33(2):105-12. doi:
+10.1007/s10545-010-9053-2. Epub 2010 Feb 17.
+Citation on PubMed
+Coffee EM, Yerkes L, Ewen EP, Zee T, Tolan DR. Increased prevalence of mutant
+null alleles that cause hereditary fructose intolerance in the American
+population. J Inherit Metab Dis. 2010 Feb;33(1):33-42. doi:
+10.1007/s10545-009-9008-7. Epub 2009 Dec 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Esposito G, Vitagliano L, Santamaria R, Viola A, Zagari A, Salvatore F.
+Structural and functional analysis of aldolase B mutants related to hereditary
+fructose intolerance. FEBS Lett. 2002 Nov 6;531(2):152-6. doi:
+10.1016/s0014-5793(02)03451-8.
+Citation on PubMed
+Santer R, Rischewski J, von Weihe M, Niederhaus M, Schneppenheim S, Baerlocher
+K, Kohlschutter A, Muntau A, Posselt HG, Steinmann B, Schneppenheim R. The
+spectrum of aldolase B (ALDOB) mutations and the prevalence of hereditary
+fructose intolerance in Central Europe. Hum Mutat. 2005 Jun;25(6):594. doi:
+10.1002/humu.9343.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Carbohydrate Metabolism Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hereditary fructose intolerance
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

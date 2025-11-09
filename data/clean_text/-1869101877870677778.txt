@@ -1,0 +1,148 @@
+Hypomagnesemia with secondary hypocalcemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hypomagnesemia with secondary hypocalcemia
+URL of this page: https://medlineplus.gov/genetics/condition/hypomagnesemia-with-secondary-hypocalcemia/
+Hypomagnesemia with secondary hypocalcemia
+Description
+Hypomagnesemia with secondary hypocalcemia is an inherited condition caused by the body's inability to absorb and retain magnesium that is taken in through the diet. As a result, magnesium levels in the blood are severely low (hypomagnesemia).
+Hypomagnesemia impairs the function of the parathyroid glands, which are small hormone-producing glands located in the neck. Normally, the parathyroid glands release a hormone that increases blood calcium levels when they are low. Magnesium is required for the production and release of parathyroid hormone, so when magnesium is too low, insufficient parathyroid hormone is produced and blood calcium levels are also reduced (hypocalcemia). The hypocalcemia is described as "secondary" because it occurs as a consequence of hypomagnesemia.
+Shortages of magnesium and calcium can cause neurological problems that begin in infancy, including painful muscle spasms (tetany) and seizures. If left untreated, hypomagnesemia with secondary hypocalcemia can lead to developmental delay, intellectual disability, a failure to gain weight and grow at the expected rate (failure to thrive), and heart failure.
+Frequency
+Hypomagnesemia with secondary hypocalcemia is thought to be a rare condition, but its prevalence is unknown.
+Causes
+Hypomagnesemia with secondary hypocalcemia is caused by mutations in the
+TRPM6
+gene. This gene provides instructions for making a protein that acts as a channel, which allows charged atoms (ions) of magnesium (Mg
+2+
+) to flow into cells; the channel may also allow small amounts of calcium ions (Ca
+2+
+) to pass into cells. Magnesium is involved in many cell processes, including production of cellular energy, maintenance of DNA building blocks (nucleotides), protein production, and cell growth and death. Magnesium and calcium are also required for the normal functioning of nerve cells that control muscle movement (
+motor neurons
+).
+The TRPM6 channel is embedded in the membrane of epithelial cells that line
+the large intestine
+, structures in
+the kidneys
+known as distal convoluted tubules,
+the lungs
+, and
+the testes in males
+. When the body needs additional Mg
+2+
+, the TRPM6 channel allows it to be absorbed in the intestine and filtered from the fluids that pass through the kidneys by the distal convoluted tubules. When the body has sufficient or too much Mg
+2+
+, the TRPM6 channel does not filter out the Mg
+2+
+from fluids but allows the ion to be released from the kidney cells into the urine. The channel also helps to regulate Ca
+2+
+, but to a lesser degree.
+Most
+TRPM6
+gene mutations that cause hypomagnesemia with secondary hypocalcemia result in a lack of functional protein. A loss of functional TRPM6 channels prevent Mg
+2+
+absorption in the intestine and cause excessive amounts of Mg
+2+
+to be excreted by the kidneys and released in the urine. A lack of Mg
+2+
+in the body impairs the production of parathyroid hormone, which likely reduces blood Ca
+2+
+levels. Additionally, hypomagnesemia and hypocalcemia can disrupt many cell processes and impair the function of motor neurons, leading to neurological problems and movement disorders. If the condition is not effectively treated and low Mg
+2+
+levels persist, signs and symptoms can worsen over time and may lead to early death.
+Learn more about the gene associated with Hypomagnesemia with secondary hypocalcemia
+TRPM6
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Familial primary hypomagnesemia with hypocalcuria
+HOMG
+HSH
+Hypomagnesemic tetany
+Intestinal hypomagnesemia 1
+Intestinal hypomagnesemia with secondary hypocalcemia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Intestinal hypomagnesemia 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HYPOMAGNESEMIA 1, INTESTINAL; HOMG1
+Scientific Articles on PubMed
+PubMed
+References
+Chubanov V, Gudermann T, Schlingmann KP. Essential role for TRPM6 in
+epithelial magnesium transport and body magnesium homeostasis. Pflugers Arch.
+2005 Oct;451(1):228-34. doi: 10.1007/s00424-005-1470-y. Epub 2005 Jun 17.
+Citation on PubMed
+Katayama K, Povalko N, Yatsuga S, Nishioka J, Kakuma T, Matsuishi T, Koga Y.
+New TRPM6 mutation and management of hypomagnesaemia with secondary
+hypocalcaemia. Brain Dev. 2015 Mar;37(3):292-8. doi:
+10.1016/j.braindev.2014.06.006. Epub 2014 Jun 28.
+Citation on PubMed
+Lainez S, Schlingmann KP, van der Wijst J, Dworniczak B, van Zeeland F, Konrad
+M, Bindels RJ, Hoenderop JG. New TRPM6 missense mutations linked to
+hypomagnesemia with secondary hypocalcemia. Eur J Hum Genet. 2014
+Apr;22(4):497-504. doi: 10.1038/ejhg.2013.178. Epub 2013 Aug 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schlingmann KP, Sassen MC, Weber S, Pechmann U, Kusch K, Pelken L, Lotan D,
+Syrrou M, Prebble JJ, Cole DE, Metzger DL, Rahman S, Tajima T, Shu SG, Waldegger
+S, Seyberth HW, Konrad M. Novel TRPM6 mutations in 21 families with primary
+hypomagnesemia and secondary hypocalcemia. J Am Soc Nephrol. 2005
+Oct;16(10):3061-9. doi: 10.1681/ASN.2004110989. Epub 2005 Aug 17.
+Citation on PubMed
+Schlingmann KP, Weber S, Peters M, Niemann Nejsum L, Vitzthum H, Klingel K,
+Kratz M, Haddad E, Ristoff E, Dinour D, Syrrou M, Nielsen S, Sassen M, Waldegger
+S, Seyberth HW, Konrad M. Hypomagnesemia with secondary hypocalcemia is caused by
+mutations in TRPM6, a new member of the TRPM gene family. Nat Genet. 2002
+Jun;31(2):166-70. doi: 10.1038/ng889. Epub 2002 May 28.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Fluid and Electrolyte Balance
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Low calcium level - infants
+Magnesium deficiency
+Related Medical Tests
+Magnesium Blood Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,139 @@
+Seasonal affective disorder: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Seasonal affective disorder
+URL of this page: https://medlineplus.gov/genetics/condition/seasonal-affective-disorder/
+Seasonal affective disorder
+Description
+Seasonal affective disorder is a mental health condition that is triggered by the changing of the seasons. This condition is a subtype of major depressive disorder and
+bipolar disorder
+. Major depressive disorder is characterized by prolonged sadness and a general lack of interest, while bipolar disorder is characterized by similar depressive episodes alternating with periods of abnormally high energy and activity (hypomania or mania). People with seasonal affective disorder have signs and symptoms of either major depressive disorder or bipolar disorder only during certain months of the year. Major depressive disorder is more common than bipolar disorder among people with seasonal affective disorder. This condition usually begins in a person's twenties or thirties.
+The signs and symptoms that occur during depressive episodes in people with seasonal affective disorder are similar to those of major depressive disorder, including a loss of interest or enjoyment in activities, a decrease in energy, a depressed mood, and low self-esteem. In most people with seasonal affective disorder,
+depression
+and other features appear in the fall and winter months and subside in the spring and summer months. In these individuals, additional symptoms often include weight gain due to increased cravings for carbohydrates and an increase in sleep (hypersomnia). Affected individuals with underlying bipolar disorder typically have alternating episodes of depression in the fall and winter months and mania during the spring and summer months.
+In about 10 percent of people with seasonal affective disorder, the condition has the opposite seasonal pattern, occurring in the spring and summer months and stopping during the fall and winter months. These individuals usually have a loss of appetite and sleep, unlike those with symptoms in the fall and winter.
+For those affected, it is estimated that symptoms of seasonal affective disorder are present during 40 percent of the year. In some individuals, seasonal affective disorder does not recur every year. Thirty to 50 percent of affected individuals do not show symptoms of the disorder in consecutive winters. In about 40 percent of individuals with seasonal affective disorder, depressive episodes continue after winter and do not alleviate in the summer months, leading to a change in diagnosis to either major depressive disorder or bipolar disorder.
+Individuals with seasonal affective disorder tend to have another psychological condition, such as
+attention-deficit/hyperactivity disorder
+(ADHD), an eating disorder, anxiety disorder, or panic disorder.
+Frequency
+Seasonal affective disorder occurs in 0.5 to 3 percent of individuals in the general population; it affects 10 to 20 percent of people with major depressive disorder and about 25 percent of people with bipolar disorder.
+Some individuals have a condition known as subsyndromal seasonal affective disorder or seasonality, which is more common than seasonal affective disorder. These individuals have only mild changes in mood that correspond with the changes in seasons.
+Causes
+The causes of seasonal affective disorder are complex. A shortage of sunlight contributes to the development of the disorder in the fall and winter months, and too much sunlight is associated with seasonal affective disorder in the spring and summer months. Affected individuals seem to have disrupted daily (circadian) rhythms, such as the sleep-wake cycle, which are normally regulated to match the night-day cycle. These individuals cannot alter their sleep-wake cycle to match the night-day cycle of the winter months, resulting in changes in sleep, mood, and behavior. Those with seasonal affective disorder in summer have difficulty adjusting to the increased daylight hours. It is likely that affected individuals are genetically predisposed to being unable to adjust their circadian rhythms. Studies have identified variants in multiple genes that are associated with developing seasonal affective disorder. However, few of these variants have been verified in multiple studies.
+Most genes that have been implicated in seasonal affective disorder are active (expressed) in the brain, where they are involved in the regulation of circadian rhythms. Some of these genes play a role in the expression of certain genes at specific times during the day or night, which helps set circadian rhythms. Others are involved in the production of chemical messengers in the brain known as neurotransmitters, specifically dopamine and serotonin. Dopamine can be converted into hormones that control blood pressure and body temperature, which change depending on the time of day. Serotonin can be converted into a hormone called melatonin, which signals to the brain that it is time to sleep.
+Abnormal regulation of circadian rhythms likely contribute to an individual's inability to match his or her circadian rhythms to changes in seasons, resulting in changes in sleep, mood, and behavior as daylight hours change. However, little is known about what causes certain individuals to be more sensitive to the changing of the seasons than others.
+Inheritance
+Seasonal affective disorder does not have a clear pattern of inheritance in families. Overall, the risk of developing this condition is greater for first-degree relatives (such as parents or siblings) of affected individuals compared to the general public. Studies have found that approximately 15 percent of individuals with seasonal affective disorder have a first-degree relative who also has the condition.
+Many individuals with seasonal affective disorder have relatives with other mood or psychological disorders (such as major depressive disorder or
+schizophrenia
+). Studies show that 25 to 67 percent of people with seasonal affective disorder have one or more relatives with such a disorder. These other disorders may run in families in part because they share some genetic risk factors with seasonal affective disorder. However, these conditions are relatively common in the general population, and so they may occur in multiple people in a family by chance.
+Other Names for This Condition
+Affective disorder, seasonal
+Depression in a seasonal pattern
+Depression; seasonal
+Major depressive disorder with a seasonal pattern
+SAD
+Seasonal depression
+Seasonal mood disorder
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MAJOR DEPRESSIVE DISORDER; MDD
+Scientific Articles on PubMed
+PubMed
+References
+Albrecht U. Circadian clocks and mood-related behaviors. Handb Exp Pharmacol.
+2013;(217):227-39. doi: 10.1007/978-3-642-25950-0_9.
+Citation on PubMed
+Cools O, Hebbrecht K, Coppens V, Roosens L, De Witte A, Morrens M, Neels H,
+Sabbe B. Pharmacotherapy and nutritional supplements for seasonal affective
+disorders: a systematic review. Expert Opin Pharmacother. 2018
+Aug;19(11):1221-1233. doi: 10.1080/14656566.2018.1501359. Epub 2018 Jul 26.
+Citation on PubMed
+Danilenko KV, Levitan RD. Seasonal affective disorder. Handb Clin Neurol.
+2012;106:279-89. doi: 10.1016/B978-0-444-52002-9.00017-6. No abstract available.
+Citation on PubMed
+Etain B, Milhiet V, Bellivier F, Leboyer M. Genetics of circadian rhythms and
+mood spectrum disorders. Eur Neuropsychopharmacol. 2011 Sep;21 Suppl 4:S676-82.
+doi: 10.1016/j.euroneuro.2011.07.007. Epub 2011 Aug 10.
+Citation on PubMed
+Gartlehner G, Nussbaumer-Streit B, Gaynes BN, Forneris CA, Morgan LC,
+Greenblatt A, Wipplinger J, Lux LJ, Van Noord MG, Winkler D. Second-generation
+antidepressants for preventing seasonal affective disorder in adults. Cochrane
+Database Syst Rev. 2019 Mar 18;3(3):CD011268. doi:
+10.1002/14651858.CD011268.pub3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Geoffroy PA, Bellivier F, Scott J, Etain B. Seasonality and bipolar disorder:
+a systematic review, from admission rates to seasonality of symptoms. J Affect
+Disord. 2014 Oct;168:210-23. doi: 10.1016/j.jad.2014.07.002. Epub 2014 Jul 10.
+Citation on PubMed
+McClung CA. Circadian rhythms and mood regulation: insights from pre-clinical
+models. Eur Neuropsychopharmacol. 2011 Sep;21 Suppl 4(Suppl 4):S683-93. doi:
+10.1016/j.euroneuro.2011.07.008. Epub 2011 Aug 11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Menculini G, Verdolini N, Murru A, Pacchiarotti I, Volpe U, Cervino A, Steardo
+L, Moretti P, Vieta E, Tortorella A. Depressive mood and circadian rhythms
+disturbances as outcomes of seasonal affective disorder treatment: A systematic
+review. J Affect Disord. 2018 Dec 1;241:608-626. doi: 10.1016/j.jad.2018.08.071.
+Epub 2018 Aug 15.
+Citation on PubMed
+Nussbaumer-Streit B, Forneris CA, Morgan LC, Van Noord MG, Gaynes BN,
+Greenblatt A, Wipplinger J, Lux LJ, Winkler D, Gartlehner G. Light therapy for
+preventing seasonal affective disorder. Cochrane Database Syst Rev. 2019 Mar
+18;3(3):CD011269. doi: 10.1002/14651858.CD011269.pub3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Partonen T. Clock gene variants in mood and anxiety disorders. J Neural Transm
+(Vienna). 2012 Oct;119(10):1133-45. doi: 10.1007/s00702-012-0810-2. Epub 2012 Apr
+27.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Seasonal Affective Disorder
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Depression Screening
+Panic Disorder Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

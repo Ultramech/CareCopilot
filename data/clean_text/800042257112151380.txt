@@ -1,0 +1,160 @@
+Progressive myoclonic epilepsy type 1 : MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Progressive myoclonic epilepsy type 1
+URL of this page: https://medlineplus.gov/genetics/condition/progressive-myoclonic-epilepsy-type-1/
+Progressive myoclonic epilepsy type 1
+Description
+Progressive myoclonic epilepsy type 1 (also called Unverricht-Lundborg disease or ULD) is a rare inherited form of epilepsy. Early development is normal in affected individuals. Signs and symptoms of the disorder typically begin between 6 and 15 years of age.
+People with progressive myoclonic epilepsy type 1 experience episodes of involuntary muscle jerking or twitching (myoclonus) that increase in frequency and severity over time. Episodes of myoclonus may be brought on by physical exertion, stress, light, or other stimuli. Within 5 to 10 years, the myoclonic episodes may become severe enough to interfere with walking and other everyday activities.
+Affected individuals also usually have seizures that involve loss of consciousness, muscle rigidity, and convulsions (tonic-clonic or grand mal seizures). Like the myoclonic episodes, these may increase in frequency over several years. However, the seizures may be controlled with treatment. After several years of progression, the frequency of seizures may stabilize or decrease.
+Eventually, people with progressive myoclonic epilepsy type 1 may develop problems with balance and coordination (ataxia) and speaking (dysarthria). They may also experience
+depression.
+Another feature of this condition is involuntary rhythmic shaking. This shaking is called intentional tremor because it worsens during intentional movements.
+People with progressive myoclonic epilepsy type 1 may live into adulthood. Life expectancy depends on the severity of the condition and a person's response to treatment. The severity of the condition can vary, even among members of the same family.
+Frequency
+Progressive myoclonus epilepsy is a rare group of conditions. Progressive myoclonic epilepsy type 1 is believed to be the most common form of this type of epilepsy, but its worldwide prevalence is unknown. The condition is more common in the North African countries of Tunisia, Algeria, and Morocco. Progressive myoclonic epilepsy type 1 occurs most frequently in Finland, where approximately 2 in 100,000 people are affected.
+Causes
+Variants (also called mutations) in the
+CSTB
+gene cause progressive myoclonic epilepsy type 1. The
+CSTB
+gene provides instructions for making a protein called cystatin B. This protein reduces the activity of enzymes called cathepsins. Cathepsins help break down certain proteins in the
+lysosomes
+, which are compartments in the cell that digest and recycle different types of molecules. While the specific function of cystatin B is unclear, it may help protect the cells' proteins from cathepsins that leak out of the lysosomes.
+In almost all affected individuals, progressive myoclonic epilepsy type 1 is caused by variants that affect the amount of cystatin B that is produced. One region of DNA that controls the activity of the
+CSTB
+gene has a particular repeating sequence of 12 DNA building blocks (nucleotides). This sequence is known as the dodecamer repeat. Normally, this sequence is repeated two or three times. However, in most people with progressive myoclonic epilepsy type 1, this sequence is repeated more than 30 times (called a repeat expansion). Most people with progressive myoclonic epilepsy type 1 have two copies of this variant.
+A small number of people with progressive myoclonic epilepsy type 1 have one copy of the dodecamer repeat expansion and one copy of the
+CSTB
+gene with another type of variant. These other variants can include the substitution of a single nucleotide that impairs the gene's function.
+In individuals with progressive myoclonic epilepsy type 1, levels of cystatin B are only 5 to 10 percent of normal. This change is believed to cause the signs and symptoms of progressive myoclonic epilepsy type 1, but it is unclear how a reduction in the amount of cystatin B leads to the features of this disorder.
+Learn more about the gene associated with Progressive myoclonic epilepsy type 1
+CSTB
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Baltic myoclonic epilepsy
+Baltic myoclonus
+Baltic myoclonus epilepsy
+EPM1
+EPM1A
+Myoclonic epilepsy of Unverricht and Lundborg
+PME
+Progressive myoclonic epilepsy 1A
+Progressive myoclonus epilepsy type 1
+ULD
+Unverricht-Lundborg syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Unverricht-Lundborg syndrome
+Genetic and Rare Diseases Information Center
+Progressive myoclonic epilepsy type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MYOCLONIC EPILEPSY OF UNVERRICHT AND LUNDBORG
+Scientific Articles on PubMed
+PubMed
+References
+Alakurtti K, Virtaneva K, Joensuu T, Palvimo JJ, Lehesjoki AE.
+Characterization of the cystatin B gene promoter harboring the dodecamer repeat
+expanded in progressive myoclonus epilepsy, EPM1. Gene. 2000 Jan
+25;242(1-2):65-73. doi: 10.1016/s0378-1119(99)00550-8.
+Citation on PubMed
+Alakurtti K, Weber E, Rinne R, Theil G, de Haan GJ, Lindhout D, Salmikangas P,
+Saukko P, Lahtinen U, Lehesjoki AE. Loss of lysosomal association of cystatin B
+proteins representing progressive myoclonus epilepsy, EPM1, mutations. Eur J Hum
+Genet. 2005 Feb;13(2):208-15. doi: 10.1038/sj.ejhg.5201300.
+Citation on PubMed
+Ceru S, Rabzelj S, Kopitar-Jerala N, Turk V, Zerovnik E. Protein aggregation
+as a possible cause for pathology in a subset of familial Unverricht-Lundborg
+disease. Med Hypotheses. 2005;64(5):955-9. doi: 10.1016/j.mehy.2004.11.038.
+Citation on PubMed
+Houseweart MK, Pennacchio LA, Vilaythong A, Peters C, Noebels JL, Myers RM.
+Cathepsin B but not cathepsins L or S contributes to the pathogenesis of
+Unverricht-Lundborg progressive myoclonus epilepsy (EPM1). J Neurobiol. 2003 Sep
+15;56(4):315-27. doi: 10.1002/neu.10253.
+Citation on PubMed
+Joensuu T, Kuronen M, Alakurtti K, Tegelberg S, Hakala P, Aalto A, Huopaniemi
+L, Aula N, Michellucci R, Eriksson K, Lehesjoki AE. Cystatin B: mutation
+detection, alternative splicing and expression in progressive myclonus epilepsy
+of Unverricht-Lundborg type (EPM1) patients. Eur J Hum Genet. 2007
+Feb;15(2):185-93. doi: 10.1038/sj.ejhg.5201723. Epub 2006 Sep 27.
+Citation on PubMed
+Lalioti MD, Antonarakis SE, Scott HS. The epilepsy, the protease inhibitor and
+the dodecamer: progressive myoclonus epilepsy, cystatin b and a 12-mer repeat
+expansion. Cytogenet Genome Res. 2003;100(1-4):213-23. doi: 10.1159/000072857.
+Citation on PubMed
+Lehesjoki AE, Kalviainen R. Progressive Myoclonic Epilepsy Type 1. 2004 Jun 24
+[updated 2020 Jul 2]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1142/
+Citation on PubMed
+Lehesjoki AE. Molecular background of progressive myoclonus epilepsy. EMBO J.
+2003 Jul 15;22(14):3473-8. doi: 10.1093/emboj/cdg338.
+Citation on PubMed
+or
+Free article on PubMed Central
+Magaudda A, Ferlazzo E, Nguyen VH, Genton P. Unverricht-Lundborg disease, a
+condition with self-limited progression: long-term follow-up of 20 patients.
+Epilepsia. 2006 May;47(5):860-6. doi: 10.1111/j.1528-1167.2006.00553.x.
+Citation on PubMed
+Moulard B, Darcel F, Mignard D, Jeanpierre M, Genton P, Cartault F, Yaouanq J,
+Roubertie A, Biraben A, Buresi C, Malafosse A. FOunder effect in patients with
+Unverricht-Lundborg disease on reunion island. Epilepsia. 2003
+Oct;44(10):1357-60. doi: 10.1046/j.1528-1157.2003.03703.x.
+Citation on PubMed
+Moulard B, Genton P, Grid D, Jeanpierre M, Ouazzani R, Mrabet A, Morris M,
+LeGuern E, Dravet C, Mauguiere F, Utermann B, Baldy-Moulinier M, Belaidi H,
+Bertran F, Biraben A, Ali Cherif A, Chkili T, Crespel A, Darcel F, Dulac O, Geny
+C, Humbert-Claude V, Kassiotis P, Buresi C, Malafosse A. Haplotype study of West
+European and North African Unverricht-Lundborg chromosomes: evidence for a few
+founder mutations. Hum Genet. 2002 Sep;111(3):255-62. doi:
+10.1007/s00439-002-0755-x. Epub 2002 Jul 23.
+Citation on PubMed
+Shahwan A, Farrell M, Delanty N. Progressive myoclonic epilepsies: a review of
+genetic and therapeutic aspects. Lancet Neurol. 2005 Apr;4(4):239-48. doi:
+10.1016/S1474-4422(05)70043-0.
+Citation on PubMed
+Related Health Topics
+Epilepsy
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

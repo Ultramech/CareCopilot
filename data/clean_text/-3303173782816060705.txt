@@ -1,0 +1,123 @@
+Sjögren-Larsson syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Sjögren-Larsson syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/sjogren-larsson-syndrome/
+Sjögren-Larsson syndrome
+Description
+Sjögren-Larsson syndrome is a condition characterized by dry, scaly skin (ichthyosis); neurological problems; and eye problems. These symptoms are apparent by early childhood and usually do not worsen with age.
+Affected infants tend to be born prematurely. At birth the skin is red (erythema), but later in infancy the skin becomes dry, rough, and scaly with a brownish or yellowish tone. Mild to severe itchiness (pruritus) is also common. These skin abnormalities are generally dispersed over the whole body, most severely affecting the nape of the neck, the torso, and the extremities. The skin of the face is usually not affected.
+People with this condition may also have neurological signs and symptoms. Most affected individuals have leukoencephalopathy, which is a change in a type of brain tissue called white matter. White matter consists of
+nerve fibers
+covered by a substance (myelin) that insulates and protects the nerves. The leukoencephalopathy is thought to contribute to many of the neurological signs and symptoms in people with Sjögren-Larsson syndrome. Most affected individuals have intellectual disability that varies from mild to profound and is usually apparent by early childhood. People with Sjögren-Larsson syndrome have speech difficulties (dysarthria) and delayed speech. Usually they are able to produce only short sentences with poorly formed words. Rarely, people with this condition have normal intelligence. In addition, approximately 40 percent of people with Sjögren-Larsson syndrome have seizures.
+Children with this condition often experience delayed development of motor skills (such as crawling and walking) due to abnormal muscle stiffness (spasticity) that is typically in their legs and, less commonly, also in their arms. About one-half of people with Sjögren-Larsson syndrome require wheelchair assistance and many others need some form of support to walk.
+Affected individuals have tiny crystals in the light-sensitive tissue at the back of the eye (
+retina
+) that can be seen during an eye exam. Based on their appearance, these retinal crystals are often called glistening white dots. These white dots are usually apparent by early childhood, and it is unclear if they affect normal vision. People with Sjögren-Larsson syndrome may also have
+nearsightedness
+(
+myopia
+) or an increased sensitivity to light (photophobia).
+Frequency
+Sjögren-Larsson syndrome was first observed in Sweden, where the prevalence of this condition is 1 per 250,000 individuals. Outside Sweden, the prevalence of this condition is unknown.
+Causes
+Mutations in the
+ALDH3A2
+gene cause Sjögren-Larsson syndrome. The
+ALDH3A2
+gene provides instructions for making an enzyme called fatty aldehyde dehydrogenase (FALDH). The FALDH enzyme is part of a multistep process called fatty acid oxidation in which fats are broken down and converted into energy. Specifically, the FALDH enzyme breaks down molecules called fatty aldehydes to fatty acids.
+ALDH3A2
+gene mutations disrupt the normal process of fatty acid oxidation. Most mutations result in the production of a FALDH enzyme that is unable to break down fatty aldehyde molecules. As a result, fats that cannot be broken down build up in cells. Within skin cells, excess fat accumulation can interfere with the formation of membranes that act as protective barriers to control water loss. As a result of the loss of these protective barriers, the skin has difficulty maintaining its water balance, resulting in dry, scaly skin. In the brain, the consequences of excess fat accumulation are unclear, but it is likely that an abundance of fat disrupts the formation of
+myelin
+. Myelin is the covering that protects nerves and promotes the efficient transmission of nerve impulses. A lack of myelin can lead to neurological problems such as intellectual disability and walking difficulties. The cause of the eye problems is unclear, but it is also likely related to a disruption in the breakdown of fats.
+Learn more about the gene associated with Sjögren-Larsson syndrome
+ALDH3A2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital icthyosis mental retardation spasticity syndrome
+FALDH deficiency
+Fatty aldehyde dehydrogenase deficiency
+Ichthyosis oligophrenia syndrome
+Sjogren-Larsson syndrome
+SLS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Sjögren-Larsson syndrome
+Genetic and Rare Diseases Information Center
+Sjögren-Larsson syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SJOGREN-LARSSON SYNDROME; SLS
+Scientific Articles on PubMed
+PubMed
+References
+Ganemo A, Jagell S, Vahlquist A. Sjogren-larsson syndrome: a study of clinical
+symptoms and dermatological treatment in 34 Swedish patients. Acta Derm Venereol.
+2009;89(1):68-73. doi: 10.2340/00015555-0561.
+Citation on PubMed
+Lossos A, Khoury M, Rizzo WB, Gomori JM, Banin E, Zlotogorski A, Jaber S,
+Abramsky O, Argov Z, Rosenmann H. Phenotypic variability among adult siblings
+with Sjogren-Larsson syndrome. Arch Neurol. 2006 Feb;63(2):278-80. doi:
+10.1001/archneur.63.2.278.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rizzo WB, S'Aulis D, Jennings MA, Crumrine DA, Williams ML, Elias PM.
+Ichthyosis in Sjogren-Larsson syndrome reflects defective barrier function due to
+abnormal lamellar body structure and secretion. Arch Dermatol Res. 2010
+Aug;302(6):443-51. doi: 10.1007/s00403-009-1022-y. Epub 2010 Jan 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Rizzo WB. Sjogren-Larsson syndrome: molecular genetics and biochemical
+pathogenesis of fatty aldehyde dehydrogenase deficiency. Mol Genet Metab. 2007
+Jan;90(1):1-9. doi: 10.1016/j.ymgme.2006.08.006. Epub 2006 Sep 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Neurologic Diseases
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Dysarthria
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

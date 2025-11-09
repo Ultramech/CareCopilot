@@ -1,0 +1,150 @@
+HIVEP2-related intellectual disability: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+HIVEP2-related intellectual disability
+URL of this page: https://medlineplus.gov/genetics/condition/hivep2-related-intellectual-disability/
+HIVEP2-related intellectual disability
+Description
+HIVEP2
+-related intellectual disability is a neurological disorder characterized by moderate to severe developmental delay and intellectual disability and mild physical abnormalities (dysmorphic features). Early symptoms of the condition include weak muscle tone (hypotonia) and delayed development of motor skills, such as sitting, standing, and walking. After learning to walk, many affected individuals continue to have difficulty with this activity; their walking style (gait) is often unbalanced and wide-based. Speech is also delayed, and some people with this condition never learn to talk. Most people with
+HIVEP2
+-related intellectual disability also have unusual physical features, such as widely spaced eyes (
+hypertelorism
+), a
+broad nasal bridge
+, or
+fingers with tapered ends
+, although there is no characteristic pattern of such features among affected individuals. Many people with the condition exhibit neurodevelopmental disorders, such as hyperactivity, attention deficit disorder, aggression, anxiety, and
+autism spectrum disorder
+, which is a group of developmental disorders characterized by impaired communication and social interaction.
+Other features of
+HIVEP2
+-related intellectual disability include mild abnormalities in the structure of the brain and an abnormally small brain and head size (
+microcephaly
+). Less common health problems include seizures; recurrent ear infections; and eye disorders, such as eyes that do not look in the same direction (strabismus), "lazy eye" (amblyopia), and
+farsightedness
+(hyperopia). Some people with
+HIVEP2
+-related intellectual disability have gastrointestinal problems, which can include backflow of acidic stomach contents into the esophagus (
+gastroesophageal reflux
+) and constipation.
+Frequency
+HIVEP2
+-related intellectual disability is a rare disorder. At least nine individuals with the condition have been described in the medical literature.
+Causes
+HIVEP2
+-related intellectual disability is caused by mutations in the
+HIVEP2
+gene. The protein produced from this gene is most abundant in the brain, where it controls the activity (expression) of genes involved in brain growth and development.
+Mutations in the
+HIVEP2
+gene are thought to lead to a shortage of functional HIVEP2 protein. It is unclear how these genetic changes result in the features associated with
+HIVEP2
+-related intellectual disability, although researchers speculate that a shortage of the HIVEP2 protein alters the expression of several genes involved in brain growth and development. Abnormalities in the growth and development of the brain likely underlie the cognitive problems and other neurological features of
+HIVEP2
+-related intellectual disability. It is unclear how
+HIVEP2
+gene mutations contribute to the unusual physical features and health problems that can occur with this condition.
+Learn more about the gene associated with HIVEP2-related intellectual disability
+HIVEP2
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Most cases of this condition result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual’s parent or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Mental retardation, autosomal dominant 43
+MRD43
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Intellectual disability, autosomal dominant 43
+Genetic and Rare Diseases Information Center
+Intellectual developmental disorder, autosomal dominant 43
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL DOMINANT 43; MRD43
+Scientific Articles on PubMed
+PubMed
+References
+Dorflinger U, Pscherer A, Moser M, Rummele P, Schule R, Buettner R. Activation
+of somatostatin receptor II expression by transcription factors MIBP1 and SEF-2
+in the murine brain. Mol Cell Biol. 1999 May;19(5):3736-47. doi:
+10.1128/MCB.19.5.3736.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fukuda S, Yamasaki Y, Iwaki T, Kawasaki H, Akieda S, Fukuchi N, Tahira T,
+Hayashi K. Characterization of the biological functions of a transcription
+factor, c-myc intron binding protein 1 (MIBP1). J Biochem. 2002
+Mar;131(3):349-57. doi: 10.1093/oxfordjournals.jbchem.a003109.
+Citation on PubMed
+Iwashita Y, Fukuchi N, Waki M, Hayashi K, Tahira T. Genome-wide repression of
+NF-kappaB target genes by transcription factor MIBP1 and its modulation by O-linked
+beta-N-acetylglucosamine (O-GlcNAc) transferase. J Biol Chem. 2012 Mar
+23;287(13):9887-9900. doi: 10.1074/jbc.M111.298521. Epub 2012 Jan 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Srivastava S, Engels H, Schanze I, Cremer K, Wieland T, Menzel M, Schubach M,
+Biskup S, Kreiss M, Endele S, Strom TM, Wieczorek D, Zenker M, Gupta S, Cohen J,
+Zink AM, Naidu S. Loss-of-function variants in HIVEP2 are a cause of intellectual
+disability. Eur J Hum Genet. 2016 Apr;24(4):556-61. doi: 10.1038/ejhg.2015.151.
+Epub 2015 Jul 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Steinfeld H, Cho MT, Retterer K, Person R, Schaefer GB, Danylchuk N, Malik S,
+Wechsler SB, Wheeler PG, van Gassen KL, Terhal PA, Verhoeven VJ, van Slegtenhorst
+MA, Monaghan KG, Henderson LB, Chung WK. Mutations in HIVEP2 are associated with
+developmental delay, intellectual disability, and dysmorphic features.
+Neurogenetics. 2016 Jul;17(3):159-64. doi: 10.1007/s10048-016-0479-z. Epub 2016
+Mar 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Anxiety
+Autism Spectrum Disorder
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hyperactivity
+Intellectual disability
+Microcephaly
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

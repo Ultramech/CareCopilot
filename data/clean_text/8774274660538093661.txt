@@ -1,0 +1,108 @@
+Popliteal pterygium syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Popliteal pterygium syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/popliteal-pterygium-syndrome/
+Popliteal pterygium syndrome
+Description
+Popliteal pterygium syndrome is a condition that affects the development of the face, skin, and genitals. Most people with this disorder are born with a
+cleft lip
+, a
+cleft palate
+(an opening in the roof of the mouth), or both. Affected individuals may have depressions (pits) near the center of the lower lip, which may appear moist due to the presence of salivary and mucous glands in the pits. Small mounds of tissue on the lower lip may also occur. In some cases, people with popliteal pterygium syndrome have missing teeth.
+Individuals with popliteal pterygium syndrome may be born with webs of skin on the backs of the legs across the knee joint, which may impair mobility unless surgically removed. Affected individuals may also have webbing or fusion of the fingers or toes (
+syndactyly
+), characteristic triangular folds of skin over the nails of the large toes, or tissue connecting the upper and lower eyelids or the upper and lower jaws. They may have abnormal genitals, including unusually small external genital folds (hypoplasia of the labia majora) in females. Affected males may have undescended testes (cryptorchidism) or a scrotum divided into two lobes (bifid scrotum).
+People with popliteal pterygium syndrome who have cleft lip and/or palate, like other individuals with these facial conditions, may have an increased risk of delayed language development, learning disabilities, or other mild cognitive problems. The average IQ of individuals with popliteal pterygium syndrome is not significantly different from that of the general population.
+Frequency
+Popliteal pterygium syndrome is a rare condition, occurring in approximately 1 in 300,000 individuals.
+Causes
+Variants (also known as mutations) in the
+IRF6
+gene cause popliteal pterygium syndrome. The
+IRF6
+gene provides instructions for making a protein that plays an important role in early development. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes. The IRF6 protein is active in cells that give rise to tissues in the head and face. It is also involved in the development of other parts of the body, including the skin and genitals.
+Variants in the
+IRF6
+gene that cause popliteal pterygium syndrome may change the transcription factor's effect on the activity of certain genes. This affects the development and maturation of tissues in the face, skin, and genitals, resulting in the signs and symptoms of popliteal pterygium syndrome.
+Learn more about the gene associated with Popliteal pterygium syndrome
+IRF6
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Facio-genito-popliteal syndrome
+PPS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Popliteal pterygium syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+POPLITEAL PTERYGIUM SYNDROME; PPS
+Scientific Articles on PubMed
+PubMed
+References
+Ghassibe M, Revencu N, Bayet B, Gillerot Y, Vanwijck R, Verellen-Dumoulin C,
+Vikkula M. Six families with van der Woude and/or popliteal pterygium syndrome:
+all with a mutation in the IRF6 gene. J Med Genet. 2004 Feb;41(2):e15. doi:
+10.1136/jmg.2003.009274. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kondo S, Schutte BC, Richardson RJ, Bjork BC, Knight AS, Watanabe Y, Howard E,
+de Lima RL, Daack-Hirsch S, Sander A, McDonald-McGinn DM, Zackai EH, Lammer EJ,
+Aylsworth AS, Ardinger HH, Lidral AC, Pober BR, Moreno L, Arcos-Burgos M,
+Valencia C, Houdayer C, Bahuau M, Moretti-Ferreira D, Richieri-Costa A, Dixon MJ,
+Murray JC. Mutations in IRF6 cause Van der Woude and popliteal pterygium
+syndromes. Nat Genet. 2002 Oct;32(2):285-9. doi: 10.1038/ng985. Epub 2002 Sep 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Schutte BC, Saal HM, Goudy S, Leslie EJ. IRF6-Related Disorders. 2003
+Oct 30 [updated 2021 Mar 4]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace
+SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1407/
+Citation on PubMed
+Related Health Topics
+Cleft Lip and Palate
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

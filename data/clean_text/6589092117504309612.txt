@@ -1,0 +1,211 @@
+Robinow syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Robinow syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/robinow-syndrome/
+Robinow syndrome
+Description
+Robinow syndrome is a rare disorder that affects the development of many parts of the body, particularly the skeleton. The types of Robinow syndrome can be distinguished by the severity of their signs and symptoms and by their pattern of inheritance: autosomal recessive or autosomal dominant.
+Autosomal recessive Robinow syndrome is characterized by skeletal abnormalities including shortening of the long bones in the arms and legs, particularly the forearms;
+abnormally short fingers
+and
+toes
+(brachydactyly); wedge-shaped spinal bones (hemivertebrae) leading to an abnormal curvature of the spine (
+kyphoscoliosis
+); fused or missing ribs; and short stature. Affected individuals also have distinctive facial features, such as a broad forehead, prominent and
+widely spaced eyes
+, a
+short nose
+with an upturned tip, a
+wide nasal bridge
+, and a
+broad
+and triangle-shaped mouth. Together, these facial features are sometimes described as "fetal facies" because they resemble the facial structure of a developing fetus. Other common features of autosomal recessive Robinow syndrome include underdeveloped genitalia in both males and females, and dental problems such as
+crowded teeth
+and
+overgrowth of the gums
+. Kidney and heart defects are also possible. Development is delayed in 10 to 15 percent of people with this condition, although intelligence is usually normal.
+Autosomal dominant Robinow syndrome has signs and symptoms that are similar to, but tend to be milder than, those of the autosomal recessive form. Abnormalities of the spine and ribs are rarely seen in the autosomal dominant form, and short stature is less pronounced. A variant form of autosomal dominant Robinow syndrome includes increased bone mineral density (osteosclerosis) affecting the bones of the skull in addition to the signs and symptoms listed above. This variant is called the osteosclerotic form of Robinow syndrome.
+Frequency
+Both the autosomal recessive and autosomal dominant forms of Robinow syndrome are rare.
+Fewer than 200 people with autosomal recessive Robinow syndrome have been described in the medical literature. This form of the condition has been identified in families from several countries, including Turkey, Oman, Pakistan, and Brazil.
+Autosomal dominant Robinow syndrome has been diagnosed in fewer than 50 families; about 10 of these families have had the osteosclerotic form.
+Causes
+Autosomal recessive Robinow syndrome results from mutations in the
+ROR2
+gene. This gene provides instructions for making a protein whose function is not well understood, although it is involved in chemical signaling pathways that are essential for normal development before birth. In particular, the ROR2 protein appears to play a critical role in the formation of the skeleton, heart, and genitals. Mutations in the
+ROR2
+gene prevent cells from making any functional ROR2 protein, which disrupts development starting before birth and leads to the characteristic features of Robinow syndrome.
+Autosomal dominant Robinow syndrome can be caused by mutations in several genes, including
+FZD2
+,
+WNT5A
+,
+DVL1
+, and
+DVL3
+. The osteosclerotic form of the condition results from
+DVL1
+gene mutations. The proteins produced from the genes associated with autosomal dominant Robinow syndrome appear to be part of the same chemical signaling pathways as the ROR2 protein. Mutations in any of these genes alter the production or function of their respective proteins, which impairs chemical signaling that is important for early development.
+Some people with the characteristic signs and symptoms of Robinow syndrome do not have an identified mutation in any of the known genes. In these cases, the cause of the condition is unknown.
+Learn more about the genes associated with Robinow syndrome
+DVL1
+DVL3
+FZD2
+ROR2
+WNT5A
+Additional Information from NCBI Gene:
+GPC4
+NXN
+RAC3
+Inheritance
+As discussed above, Robinow syndrome can have either an autosomal recessive or an autosomal dominant pattern of inheritance.
+Autosomal recessive inheritance
+means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Autosomal dominant inheritance means one copy of an altered gene in each cell is sufficient to cause the disorder. In some cases of Robinow syndrome, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Acral dysostosis with facial and genital abnormalities
+Fetal face syndrome
+Mesomelic dwarfism-small genitalia syndrome
+Robinow dwarfism
+Robinow's syndrome
+Robinow-Silverman syndrome
+Robinow-Silverman-Smith syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal dominant Robinow syndrome 1
+Genetic Testing Registry: Autosomal recessive Robinow syndrome
+Genetic Testing Registry: Robinow syndrome, autosomal recessive 2
+Genetic and Rare Diseases Information Center
+Robinow syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+ROBINOW SYNDROME, AUTOSOMAL RECESSIVE 1; RRS1
+ROBINOW SYNDROME, AUTOSOMAL DOMINANT 1; DRS1
+ROBINOW SYNDROME, AUTOSOMAL DOMINANT 2; DRS2
+ROBINOW SYNDROME, AUTOSOMAL DOMINANT 3; DRS3
+Scientific Articles on PubMed
+PubMed
+References
+Afzal AR, Rajab A, Fenske CD, Oldridge M, Elanko N, Ternes-Pereira E, Tuysuz
+B, Murday VA, Patton MA, Wilkie AO, Jeffery S. Recessive Robinow syndrome,
+allelic to dominant brachydactyly type B, is caused by mutation of ROR2. Nat
+Genet. 2000 Aug;25(4):419-22. doi: 10.1038/78107.
+Citation on PubMed
+Bacino CA. ROR2-Related Robinow Syndrome. 2005 Jul 28 [updated 2019
+Sep 12]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1240/
+Citation on PubMed
+Bunn KJ, Daniel P, Rosken HS, O'Neill AC, Cameron-Christie SR, Morgan T,
+Brunner HG, Lai A, Kunst HP, Markie DM, Robertson SP. Mutations in DVL1 cause an
+osteosclerotic form of Robinow syndrome. Am J Hum Genet. 2015 Apr 2;96(4):623-30.
+doi: 10.1016/j.ajhg.2015.02.010. Epub 2015 Mar 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bunn KJ, Lai A, Al-Ani A, Farella M, Craw S, Robertson SP. An osteosclerotic
+form of Robinow syndrome. Am J Med Genet A. 2014 Oct;164A(10):2638-42. doi:
+10.1002/ajmg.a.36677. Epub 2014 Jul 14.
+Citation on PubMed
+Mazzeu JF, Pardono E, Vianna-Morgante AM, Richieri-Costa A, Ae Kim C, Brunoni
+D, Martelli L, de Andrade CE, Colin G, Otto PA. Clinical characterization of
+autosomal dominant and recessive variants of Robinow syndrome. Am J Med Genet A.
+2007 Feb 15;143(4):320-5. doi: 10.1002/ajmg.a.31592.
+Citation on PubMed
+Person AD, Beiraghi S, Sieben CM, Hermanson S, Neumann AN, Robu ME,
+Schleiffarth JR, Billington CJ Jr, van Bokhoven H, Hoogeboom JM, Mazzeu JF,
+Petryk A, Schimmenti LA, Brunner HG, Ekker SC, Lohr JL. WNT5A mutations in
+patients with autosomal dominant Robinow syndrome. Dev Dyn. 2010
+Jan;239(1):327-37. doi: 10.1002/dvdy.22156.
+Citation on PubMed
+or
+Free article on PubMed Central
+Roifman M, Brunner H, Lohr J, Mazzeu J, Chitayat D. Autosomal Dominant Robinow
+Syndrome. 2015 Jan 8 [updated 2019 Oct 3]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK268648/
+Citation on PubMed
+Roifman M, Marcelis CL, Paton T, Marshall C, Silver R, Lohr JL, Yntema HG,
+Venselaar H, Kayserili H, van Bon B, Seaward G; FORGE Canada Consortium; Brunner
+HG, Chitayat D. De novo WNT5A-associated autosomal dominant Robinow syndrome
+suggests specificity of genotype and phenotype. Clin Genet. 2015;87(1):34-41.
+doi: 10.1111/cge.12401. Epub 2014 May 24.
+Citation on PubMed
+White J, Mazzeu JF, Hoischen A, Jhangiani SN, Gambin T, Alcino MC, Penney S,
+Saraiva JM, Hove H, Skovby F, Kayserili H, Estrella E, Vulto-van Silfhout AT,
+Steehouwer M, Muzny DM, Sutton VR, Gibbs RA; Baylor-Hopkins Center for Mendelian
+Genomics; Lupski JR, Brunner HG, van Bon BW, Carvalho CM. DVL1 frameshift
+mutations clustering in the penultimate exon cause autosomal-dominant Robinow
+syndrome. Am J Hum Genet. 2015 Apr 2;96(4):612-22. doi:
+10.1016/j.ajhg.2015.02.015. Epub 2015 Mar 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+White JJ, Mazzeu JF, Coban-Akdemir Z, Bayram Y, Bahrambeigi V, Hoischen A, van
+Bon BWM, Gezdirici A, Gulec EY, Ramond F, Touraine R, Thevenon J, Shinawi M,
+Beaver E, Heeley J, Hoover-Fong J, Durmaz CD, Karabulut HG, Marzioglu-Ozdemir E,
+Cayir A, Duz MB, Seven M, Price S, Ferreira BM, Vianna-Morgante AM, Ellard S,
+Parrish A, Stals K, Flores-Daboub J, Jhangiani SN, Gibbs RA; Baylor-Hopkins
+Center for Mendelian Genomics; Brunner HG, Sutton VR, Lupski JR, Carvalho CMB.
+WNT Signaling Perturbations Underlie the Genetic Heterogeneity of Robinow
+Syndrome. Am J Hum Genet. 2018 Jan 4;102(1):27-43. doi:
+10.1016/j.ajhg.2017.10.002. Epub 2017 Dec 21.
+Citation on PubMed
+White JJ, Mazzeu JF, Hoischen A, Bayram Y, Withers M, Gezdirici A, Kimonis V,
+Steehouwer M, Jhangiani SN, Muzny DM, Gibbs RA; Baylor-Hopkins Center for
+Mendelian Genomics; van Bon BWM, Sutton VR, Lupski JR, Brunner HG, Carvalho CMB.
+DVL3 Alleles Resulting in a -1 Frameshift of the Last Exon Mediate
+Autosomal-Dominant Robinow Syndrome. Am J Hum Genet. 2016 Mar 3;98(3):553-561.
+doi: 10.1016/j.ajhg.2016.01.005. Epub 2016 Feb 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Craniofacial Abnormalities
+Dwarfism
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Increased head circumference
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,134 @@
+Chorea-acanthocytosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Chorea-acanthocytosis
+URL of this page: https://medlineplus.gov/genetics/condition/chorea-acanthocytosis/
+Chorea-acanthocytosis
+Description
+Chorea-acanthocytosis is primarily a neurological disorder that affects movement in many parts of the body. Chorea refers to the involuntary jerking movements made by people with this disorder. People with this condition also have abnormal star-shaped red blood cells (acanthocytosis). This condition is one of a group of conditions called neuroacanthocytoses that involve neurological problems and abnormal red blood cells.
+In addition to chorea, another common feature of chorea-acanthocytosis is involuntary tensing of various muscles (dystonia), such as those in the limbs, face, mouth, tongue, and throat. These muscle twitches can cause vocal tics (such as grunting), involuntary belching, and limb spasms. Eating can also be impaired as tongue and throat twitches can interfere with chewing and swallowing food. People with chorea-acanthocytosis may uncontrollably bite their tongue, lips, and inside of the mouth. Nearly half of all people with chorea-acanthocytosis have seizures.
+Individuals with chorea-acanthocytosis may develop difficulty processing, learning, and remembering information (cognitive impairment). They may have reduced sensation and weakness in their arms and legs (peripheral neuropathy) and muscle weakness (myopathy). Impaired muscle and nerve functioning commonly cause speech difficulties in individuals with this condition, and can lead to an inability to speak.
+Behavioral changes are a common feature of chorea-acanthocytosis and may be the first sign of this condition. These behavioral changes may include changes in personality,
+obsessive-compulsive disorder
+(OCD), lack of self-restraint, and the inability to take care of oneself.
+The signs and symptoms of chorea-acanthocytosis usually begin in early to mid-adulthood. The movement problems of this condition worsen with age. Loss of cells (atrophy) in certain brain regions is the major cause of the neurological problems seen in people with chorea-acanthocytosis.
+Frequency
+It is estimated that 500 to 1,000 people worldwide have chorea-acanthocytosis.
+Causes
+Mutations in the
+VPS13A
+gene cause chorea-acanthocytosis. The
+VPS13A
+gene provides instructions for producing a protein called chorein; the function of this protein in the body is unknown. Some researchers believe that chorein plays a role in the movement of proteins within cells. Most
+VPS13A
+gene mutations lead to the production of an abnormally small, nonfunctional version of chorein. The
+VPS13A
+gene is active (expressed) throughout the body; it is unclear why mutations in this gene affect only the brain and red blood cells.
+Learn more about the gene associated with Chorea-acanthocytosis
+VPS13A
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CHAC
+Choreoacanthocytosis
+Neuroacanthocytosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Chorea-acanthocytosis
+Genetic and Rare Diseases Information Center
+Choreoacanthocytosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CHOREOACANTHOCYTOSIS; CHAC
+Scientific Articles on PubMed
+PubMed
+References
+Benninger F, Afawi Z, Korczyn AD, Oliver KL, Pendziwiat M, Nakamura M, Sano A,
+Helbig I, Berkovic SF, Blatt I. Seizures as presenting and prominent symptom in
+chorea-acanthocytosis with c.2343del VPS13A gene mutation. Epilepsia. 2016
+Apr;57(4):549-56. doi: 10.1111/epi.13318. Epub 2016 Jan 27.
+Citation on PubMed
+Connolly BS, Hazrati LN, Lang AE. Neuropathological findings in
+chorea-acanthocytosis: new insights into mechanisms underlying parkinsonism and
+seizures. Acta Neuropathol. 2014 Apr;127(4):613-5. doi:
+10.1007/s00401-013-1241-3. Epub 2014 Jan 7. No abstract available.
+Citation on PubMed
+Dobson-Stone C, Danek A, Rampoldi L, Hardie RJ, Chalmers RM, Wood NW, Bohlega
+S, Dotti MT, Federico A, Shizuka M, Tanaka M, Watanabe M, Ikeda Y, Brin M,
+Goldfarb LG, Karp BI, Mohiddin S, Fananapazir L, Storch A, Fryer AE, Maddison P,
+Sibon I, Trevisol-Bittencourt PC, Singer C, Caballero IR, Aasly JO, Schmierer K,
+Dengler R, Hiersemenzel LP, Zeviani M, Meiner V, Lossos A, Johnson S, Mercado FC,
+Sorrentino G, Dupre N, Rouleau GA, Volkmann J, Arpa J, Lees A, Geraud G,
+Chouinard S, Nemeth A, Monaco AP. Mutational spectrum of the CHAC gene in
+patients with chorea-acanthocytosis. Eur J Hum Genet. 2002 Nov;10(11):773-81.
+doi: 10.1038/sj.ejhg.5200866.
+Citation on PubMed
+Dobson-Stone C, Velayos-Baeza A, Jansen A, Andermann F, Dubeau F, Robert F,
+Summers A, Lang AE, Chouinard S, Danek A, Andermann E, Monaco AP. Identification
+of a VPS13A founder mutation in French Canadian families with
+chorea-acanthocytosis. Neurogenetics. 2005 Sep;6(3):151-8. doi:
+10.1007/s10048-005-0220-9. Epub 2005 Sep 28.
+Citation on PubMed
+Karkheiran S, Bader B, Roohani M, Danek A, Shahidi GA. Chorea-acanthocytosis:
+report of three cases from Iran. Arch Iran Med. 2012 Dec;15(12):780-2.
+Citation on PubMed
+Rampoldi L, Dobson-Stone C, Rubio JP, Danek A, Chalmers RM, Wood NW, Verellen
+C, Ferrer X, Malandrini A, Fabrizi GM, Brown R, Vance J, Pericak-Vance M, Rudolf
+G, Carre S, Alonso E, Manfredi M, Nemeth AH, Monaco AP. A conserved
+sorting-associated protein is mutant in chorea-acanthocytosis. Nat Genet. 2001
+Jun;28(2):119-20. doi: 10.1038/88821.
+Citation on PubMed
+Ueno S, Maruki Y, Nakamura M, Tomemori Y, Kamae K, Tanabe H, Yamashita Y,
+Matsuda S, Kaneko S, Sano A. The gene encoding a newly discovered protein,
+chorein, is mutated in chorea-acanthocytosis. Nat Genet. 2001 Jun;28(2):121-2.
+doi: 10.1038/88825.
+Citation on PubMed
+Walker RH, Jung HH, Dobson-Stone C, Rampoldi L, Sano A, Tison F, Danek A.
+Neurologic phenotypes associated with acanthocytosis. Neurology. 2007 Jan
+9;68(2):92-8. doi: 10.1212/01.wnl.0000250356.78092.cc.
+Citation on PubMed
+Related Health Topics
+Blood Disorders
+Genetic Disorders
+Movement Disorders
+Neurologic Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

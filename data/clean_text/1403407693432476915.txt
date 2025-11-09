@@ -1,0 +1,111 @@
+Guillain-Barré syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Guillain-Barré syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/guillain-barre-syndrome/
+Guillain-Barré syndrome
+Description
+Guillain-Barré syndrome is an autoimmune disorder that affects the nerves. Autoimmune disorders occur when the immune system malfunctions and attacks the body's own tissues and organs. In Guillain-Barré syndrome, the immune response damages peripheral nerves, which are the nerves that connect the central nervous system (the brain and spinal cord) to the limbs and organs. Specifically, the immune response affects a particular part of peripheral nerves called axons, which are the extensions of nerve cells (neurons) that transmit nerve impulses. Guillain-Barré syndrome can affect the neurons that control muscle movement (
+motor neurons
+); the neurons that transmit sensory signals such as pain, temperature, and touch (sensory neurons); or both. As a result, affected individuals can experience muscle weakness or lose the ability to feel certain sensations.
+Muscle weakness or paralysis are the characteristic features of Guillain-Barré syndrome. The weakness often begins in the legs and spreads to the arms, torso, and face and is commonly accompanied by numbness, tingling, or pain. Additional signs and symptoms of the condition include difficulty swallowing and difficulty breathing. Occasionally, the nerves that control involuntary functions of the body such as blood pressure and heart rate are affected, which can lead to fluctuating blood pressure or an abnormal heartbeat (cardiac arrhythmia).
+There are several types of Guillain-Barré syndrome, classified by the part of the peripheral nerve involved in the condition. The most common type of Guillain-Barré syndrome is acute inflammatory demyelinating polyradiculoneuropathy (AIDP). In AIDP, the immune response damages myelin, which is the covering that protects axons and promotes the efficient transmission of nerve impulses. In two other types of Guillain-Barré syndrome, acute motor axonal neuropathy (AMAN) and acute motor-sensory axonal neuropathy (AMSAN), the axons themselves are damaged by the immune response. In AMAN, only the axons of motor neurons are damaged. In AMSAN, the axons of sensory neurons are also damaged. Because of sensory nerve damage, affected individuals can lose the ability to sense the position of their limbs and can have abnormal or absent reflexes (areflexia).
+Miller Fisher syndrome, another type of Guillain-Barré syndrome, involves
+cranial nerves
+, which extend from the brain to various areas of the head and neck. Miller Fisher syndrome is characterized by three features: weakness or paralysis of the muscles that move the eyes (ophthalmoplegia), problems with balance and coordination (ataxia), and areflexia. People with this condition can have other signs and symptoms common in Guillain-Barré syndrome, such as muscle weakness.
+Guillain-Barré syndrome occurs in people of all ages. The development of the condition usually follows a pattern. Prior to developing the condition, most people with Guillain-Barré syndrome have a bacterial or viral infection. The first phase of Guillain-Barré syndrome, during which signs and symptoms of the condition worsen, can last up to four weeks, although the peak of the illness is usually reached in one to two weeks. During the second phase, called the plateau, signs and symptoms of Guillain-Barré syndrome stabilize. This phase can last weeks or months. During the recovery phase, symptoms improve. However, some people with Guillain-Barré syndrome never fully recover and can still experience excessive tiredness (fatigue), muscle weakness, or muscle pain.
+Frequency
+The prevalence of Guillain-Barré syndrome is estimated to be 6 to 40 cases per 1 million people. The occurrence of the different types of Guillain-Barré syndrome varies across regions. AIDP is the most common type in North America and Europe, accounting for approximately 90 percent of cases of Guillain-Barré syndrome in those regions. AMAN and AMSAN together account for 30 to 50 percent of cases in Asian countries and Latin America but only 3 to 5 percent of cases in North America and Europe. Miller Fisher syndrome is also more common in Asian countries, accounting for approximately 20 percent of cases in these countries but less than 5 percent in North America and Europe.
+Causes
+Some studies show that normal variations in certain genes may be associated with an increased risk of developing Guillain-Barré syndrome; however, more research is necessary to identify and confirm associated genes. Many of the genes that may increase the risk of Guillain-Barré syndrome are involved in the immune system, and their roles in fighting infection may contribute to the development of the condition.
+Most people who develop Guillain-Barré syndrome have a bacterial or viral infection prior to developing the signs and symptoms of the condition. However, only a very small percentage of people who have an infection develop Guillain-Barré syndrome. In order to fight the infection, specialized immune cells produce proteins called
+antibodies
+that recognize specific proteins or molecules on the bacteria or virus (pathogen). Some research shows that antibodies that recognize molecules on some pathogens may also recognize proteins on the body's own nerves. As a result, the immune system attacks the nerves, causing inflammation and damaging the axons and myelin, which can lead to the signs and symptoms of Guillain-Barré syndrome.
+Inheritance
+Almost all cases of Guillain-Barré syndrome are sporadic, which means they occur in people with no history of the condition in their family. A few families with more than one affected family member have been described; however, the condition does not have a clear pattern of inheritance. Multiple genetic and environmental factors likely play a part in determining the risk of developing this condition. As a result, inheriting a genetic variation linked with Guillain-Barré syndrome does not mean that a person will develop the condition.
+Other Names for This Condition
+Acute infectious polyneuritis
+Acute inflammatory polyneuropathy
+Fisher syndrome
+GBS
+Guillain-Barre syndrome
+Landry-Guillain-Barre syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Guillain-Barre syndrome, familial
+Genetic and Rare Diseases Information Center
+Guillain-Barré syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GUILLAIN-BARRE SYNDROME, FAMILIAL; GBS
+Scientific Articles on PubMed
+PubMed
+References
+Abraham LJ, Kroeger KM. Impact of the -308 TNF promoter polymorphism on the
+transcriptional regulation of the TNF gene: relevance to disease. J Leukoc Biol.
+1999 Oct;66(4):562-6. doi: 10.1002/jlb.66.4.562.
+Citation on PubMed
+Hughes RA, Cornblath DR. Guillain-Barre syndrome. Lancet. 2005 Nov
+5;366(9497):1653-66. doi: 10.1016/S0140-6736(05)67665-9.
+Citation on PubMed
+Ishikawa M, Kuroda Y, Kobayashi K, Sawada H, Hayashi M. Identification of a
+brain-specific 27/26-kDa extracellular protein with the monoclonal antibody to
+differentiated PC12h pheochromocytoma cells. Exp Cell Res. 1991 Mar;193(1):151-4.
+doi: 10.1016/0014-4827(91)90549-a.
+Citation on PubMed
+Pithadia AB, Kakadia N. Guillain-Barre syndrome (GBS). Pharmacol Rep. 2010
+Mar-Apr;62(2):220-32. doi: 10.1016/s1734-1140(10)70261-9.
+Citation on PubMed
+Prasad KN, Nyati KK, Verma A, Rizwan A, Paliwal VK. Tumor necrosis
+factor-alpha polymorphisms and expression in Guillain-Barre syndrome. Hum
+Immunol. 2010 Sep;71(9):905-10. doi: 10.1016/j.humimm.2010.06.013. Epub 2010 Jun
+19.
+Citation on PubMed
+Zhang J, Dong H, Li B, Li CY, Guo L. Association of tumor necrosis factor
+polymorphisms with Guillain-Barre syndrome. Eur Neurol. 2007;58(1):21-5. doi:
+10.1159/000102162. Epub 2007 May 4.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Autoimmune Diseases
+Genetic Disorders
+Guillain-Barre Syndrome
+MEDICAL ENCYCLOPEDIA
+Genetics
+Guillain-Barre syndrome
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

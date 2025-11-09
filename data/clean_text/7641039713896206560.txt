@@ -1,0 +1,139 @@
+Factor V Leiden thrombophilia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Factor V Leiden thrombophilia
+URL of this page: https://medlineplus.gov/genetics/condition/factor-v-leiden-thrombophilia/
+Factor V Leiden thrombophilia
+Description
+Factor V Leiden thrombophilia is an inherited disorder of
+blood clotting
+. Factor V Leiden is the name of a specific gene mutation that results in thrombophilia, which is an increased tendency to form abnormal blood clots that can block blood vessels.
+People with factor V Leiden thrombophilia have a higher than average risk of developing a type of blood clot called a deep venous thrombosis (DVT). DVTs occur most often in the legs, although they can also occur in other parts of the body, including the brain, eyes, liver, and kidneys. Factor V Leiden thrombophilia also increases the risk that clots will break away from their original site and travel through the bloodstream. These clots can lodge in the lungs, where they are known as
+pulmonary emboli
+. Although factor V Leiden thrombophilia increases the risk of blood clots, only about 10 percent of individuals with the factor V Leiden mutation ever develop abnormal clots.
+The factor V Leiden mutation is associated with a slightly increased risk of pregnancy loss (miscarriage). Women with this mutation are two to three times more likely to have multiple (recurrent) miscarriages or a pregnancy loss during the second or third trimester. Some research suggests that the factor V Leiden mutation may also increase the risk of other complications during pregnancy, including pregnancy-induced high blood pressure (
+preeclampsia
+), slow fetal growth, and early separation of the placenta from the uterine wall (placental abruption). However, the association between the factor V Leiden mutation and these complications has not been confirmed. Most women with factor V Leiden thrombophilia have normal pregnancies.
+Frequency
+Factor V Leiden is the most common inherited form of thrombophilia. Between 3 and 8 percent of people with European ancestry carry one copy of the factor V Leiden mutation in each cell, and about 1 in 5,000 people have two copies of the mutation. The mutation is less common in other populations.
+Causes
+A particular mutation in the
+F5
+gene causes factor V Leiden thrombophilia. The
+F5
+gene provides instructions for making a protein called coagulation factor V. This protein plays a critical role in the coagulation system, which is a series of chemical reactions that forms blood clots in response to injury.
+The coagulation system is controlled by several proteins, including a protein called activated protein C (APC). APC normally inactivates coagulation factor V, which slows down the clotting process and prevents clots from growing too large. However, in people with factor V Leiden thrombophilia, coagulation factor V cannot be inactivated normally by APC. As a result, the clotting process remains active longer than usual, increasing the chance of developing abnormal blood clots.
+Other factors also increase the risk of developing blood clots in people with factor V Leiden thrombophilia. These factors include increasing age, obesity, injury, surgery, smoking, pregnancy, and the use of oral contraceptives (birth control pills) or hormone replacement therapy that contains estrogen. The risk of abnormal clots is also much higher in people who have a combination of the factor V Leiden mutation and another mutation in the
+F5
+gene. Additionally, the risk is increased in people who have the factor V Leiden mutation together with a mutation in another gene involved in the coagulation system.
+Learn more about the gene associated with Factor V Leiden thrombophilia
+F5
+Inheritance
+The chance of developing an abnormal blood clot depends on whether a person has one or two copies of the factor V Leiden mutation in each cell. People who inherit two copies of the mutation, one from each parent, have a higher risk of developing a clot than people who inherit one copy of the mutation. Considering that about 1 in 1,000 people per year in the general population will develop an abnormal blood clot, the presence of one copy of the factor V Leiden mutation increases that risk to 3 to 8 in 1,000, and having two copies of the mutation may raise the risk to as high as 80 in 1,000.
+Other Names for This Condition
+APC resistance, Leiden type
+Hereditary resistance to activated protein C
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Thrombophilia due to activated protein C resistance
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+THROMBOPHILIA DUE TO ACTIVATED PROTEIN C RESISTANCE; THPH2
+Scientific Articles on PubMed
+PubMed
+References
+Calderwood CJ, Greer IA. The role of factor V Leiden in maternal health and
+the outcome of pregnancy. Curr Drug Targets. 2005 Aug;6(5):567-76. doi:
+10.2174/1389450054546024.
+Citation on PubMed
+Grody WW, Griffin JH, Taylor AK, Korf BR, Heit JA; ACMG Factor V. Leiden
+Working Group. American College of Medical Genetics consensus statement on factor
+V Leiden mutation testing. Genet Med. 2001 Mar-Apr;3(2):139-48. doi:
+10.1097/00125817-200103000-00009. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Horne MK 3rd, McCloskey DJ. Factor V Leiden as a common genetic risk factor
+for venous thromboembolism. J Nurs Scholarsh. 2006;38(1):19-25. doi:
+10.1111/j.1547-5069.2006.00072.x.
+Citation on PubMed
+Juul K, Tybjaerg-Hansen A, Schnohr P, Nordestgaard BG. Factor V Leiden and the
+risk for venous thromboembolism in the adult Danish population. Ann Intern Med.
+2004 Mar 2;140(5):330-7. doi: 10.7326/0003-4819-140-5-200403020-00008.
+Citation on PubMed
+Major DA, Sane DC, Herrington DM. Cardiovascular implications of the factor V
+Leiden mutation. Am Heart J. 2000 Aug;140(2):189-95. doi:
+10.1067/mhj.2000.108241. No abstract available.
+Citation on PubMed
+Mann KG, Kalafatis M. Factor V: a combination of Dr Jekyll and Mr Hyde. Blood.
+2003 Jan 1;101(1):20-30. doi: 10.1182/blood-2002-01-0290. Epub 2002 Aug 8. No
+abstract available.
+Citation on PubMed
+Ornstein DL, Cushman M. Cardiology patient page. Factor V Leiden. Circulation.
+2003 Apr 22;107(15):e94-7. doi: 10.1161/01.CIR.0000068167.08920.F1. No abstract
+available.
+Citation on PubMed
+Pastori D, Menichelli D, Valeriani E, Pignatelli P. Factor V Leiden
+Thrombophilia. 1999 May 14 [updated 2024 May 16]. In: Adam MP, Feldman J, Mirzaa
+GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1368/
+Citation on PubMed
+Rosendaal FR, Reitsma PH. Genetics of venous thrombosis. J Thromb Haemost.
+2009 Jul;7 Suppl 1:301-4. doi: 10.1111/j.1538-7836.2009.03394.x.
+Citation on PubMed
+Rosendorff A, Dorfman DM. Activated protein C resistance and factor V Leiden:
+a review. Arch Pathol Lab Med. 2007 Jun;131(6):866-71. doi:
+10.5858/2007-131-866-APCRAF.
+Citation on PubMed
+Segal JB, Brotman DJ, Necochea AJ, Emadi A, Samal L, Wilson LM, Crim MT, Bass
+EB. Predictive value of factor V Leiden and prothrombin G20210A in adults with
+venous thromboembolism and in family members of those with a mutation: a
+systematic review. JAMA. 2009 Jun 17;301(23):2472-85. doi: 10.1001/jama.2009.853.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Blood Clots
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Deep venous thrombosis
+Genetics
+Pulmonary embolus
+Related Medical Tests
+Coagulation Factor Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

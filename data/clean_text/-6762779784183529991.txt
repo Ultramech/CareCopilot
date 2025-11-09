@@ -1,0 +1,132 @@
+Type A insulin resistance syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Type A insulin resistance syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/type-a-insulin-resistance-syndrome/
+Type A insulin resistance syndrome
+Description
+Type A insulin resistance syndrome is a rare disorder characterized by severe insulin resistance, a condition in which the body's tissues and organs do not respond properly to the hormone insulin. Insulin normally helps regulate blood sugar levels by
+controlling how much sugar (in the form of glucose)
+is passed from the bloodstream into cells to be used as energy. In people with type A insulin resistance syndrome, insulin resistance impairs blood glucose regulation and ultimately leads to a condition called diabetes mellitus, in which blood glucose levels can become dangerously high.
+Severe insulin resistance also underlies the other signs and symptoms of type A insulin resistance syndrome. In affected females, the major features of the condition become apparent in adolescence. Many affected females do not begin menstruation by age 16 (primary amenorrhea) or their periods may be light and irregular (oligomenorrhea). They develop
+cysts on the ovaries
+and excessive body hair growth (hirsutism). Most affected females also develop a skin condition called acanthosis nigricans, in which the skin in body folds and creases becomes thick, dark, and velvety. Unlike most people with insulin resistance, females with type A insulin resistance syndrome are usually not overweight.
+The features of type A insulin resistance syndrome are more subtle in affected males. Some males have low blood glucose (hypoglycemia) as the only sign; others may also have acanthosis nigricans. In many cases, males with this condition come to medical attention only when they develop diabetes mellitus in adulthood.
+Type A insulin resistance syndrome is one of a group of related conditions described as inherited severe insulin resistance syndromes. These disorders, which also include
+Donohue syndrome
+and
+Rabson-Mendenhall syndrome
+, are considered part of a spectrum. Type A insulin resistance syndrome represents the mildest end of the spectrum: its features often do not become apparent until puberty or later, and it is generally not life-threatening.
+Frequency
+Type A insulin resistance syndrome is estimated to affect about 1 in 100,000 people worldwide. Because females have more health problems associated with the condition, it is diagnosed more often in females than in males.
+Causes
+Type A insulin resistance syndrome results from mutations in the
+INSR
+gene. This gene provides instructions for making a protein called an insulin receptor, which is found in many types of cells. Insulin receptors are embedded in the outer membrane surrounding the cell, where they attach (bind) to
+insulin
+circulating in the bloodstream. This binding triggers
+signaling pathways
+that influence many cell functions.
+Most of the
+INSR
+gene mutations that cause type A insulin resistance syndrome lead to the production of a faulty insulin receptor that cannot transmit signals properly. Although insulin is present in the bloodstream, the defective receptors make it less able to exert its effects on cells and tissues. This severe resistance to the effects of insulin impairs blood glucose regulation and leads to diabetes mellitus. In females with type A insulin resistance syndrome, excess insulin in the bloodstream interacts with hormonal factors during adolescence to cause abnormalities of the menstrual cycle,
+ovarian cysts
+, and other features of the disorder.
+This condition is designated as type A to distinguish it from type B insulin resistance syndrome. Although the two disorders have similar signs and symptoms, type B is not caused by
+INSR
+gene mutations; instead, it results from an abnormality of the immune system that blocks insulin receptor function.
+Learn more about the gene associated with Type A insulin resistance syndrome
+INSR
+Inheritance
+Type A insulin resistance syndrome can have either an autosomal dominant or, less commonly, an autosomal recessive pattern of inheritance.
+In autosomal dominant inheritance, one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+In
+autosomal recessive inheritance
+, both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Diabetes mellitus, insulin-resistant, with acanthosis nigricans
+Extreme insulin resistance with acanthosis nigricans, hirsutism and abnormal insulin receptors
+Insulin resistance - type A
+Insulin resistance syndrome, type A
+Insulin-resistance syndrome type A
+Insulin-resistant diabetes mellitus and acanthosis nigricans
+Type A insulin resistance
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Insulin-resistant diabetes mellitus AND acanthosis nigricans
+Genetic and Rare Diseases Information Center
+Insulin-resistance syndrome type A
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+DIABETES MELLITUS, INSULIN-RESISTANT, WITH ACANTHOSIS NIGRICANS
+Scientific Articles on PubMed
+PubMed
+References
+Musso C, Cochran E, Moran SA, Skarulis MC, Oral EA, Taylor S, Gorden P.
+Clinical course of genetic diseases of the insulin receptor (type A and
+Rabson-Mendenhall syndromes): a 30-year prospective. Medicine (Baltimore). 2004
+Jul;83(4):209-222. doi: 10.1097/01.md.0000133625.73570.54.
+Citation on PubMed
+Parker VE, Semple RK. Genetics in endocrinology: genetic forms of severe
+insulin resistance: what endocrinologists should know. Eur J Endocrinol. 2013 Sep
+12;169(4):R71-80. doi: 10.1530/EJE-13-0327. Print 2013 Oct.
+Citation on PubMed
+or
+Free article on PubMed Central
+Semple RK, Savage DB, Cochran EK, Gorden P, O'Rahilly S. Genetic syndromes of
+severe insulin resistance. Endocr Rev. 2011 Aug;32(4):498-514. doi:
+10.1210/er.2010-0020. Epub 2011 May 2.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Blood Glucose
+Diabetes
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Absent menstrual periods - primary
+Acanthosis nigricans
+Genetics
+Ovarian cysts
+Related Medical Tests
+Blood Glucose Test
+Insulin in Blood
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,100 @@
+Isolated hyperchlorhidrosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Isolated hyperchlorhidrosis
+URL of this page: https://medlineplus.gov/genetics/condition/isolated-hyperchlorhidrosis/
+Isolated hyperchlorhidrosis
+Description
+Isolated hyperchlorhidrosis is characterized by the excessive loss of salt (sodium chloride or NaCl) in sweat. In particular, "hyperchlorhidrosis" refers to the high levels of chloride found in sweat, although both sodium and chloride are released. Because the salt is abnormally released from the body in sweat, there are lower than normal levels of sodium in fluids inside the body (hyponatremia). Most infants with isolated hyperchlorhidrosis experience one or more episodes of dehydration with low levels of sodium in the blood (hyponatremic dehydration), which can require hospitalization. These episodes typically follow a mild illness that causes vomiting or diarrhea. Affected infants also have poor feeding and an inability to grow and gain weight at the expected rate (failure to thrive). By early childhood, though, weight and height usually catch up to normal, although the abnormal loss of salt still remains. These individuals may still experience dangerous hyponatremia when they sweat excessively, for example in warm temperatures or when exercising.
+While hyperchlorhidrosis can occur as one of several features of other conditions, such as
+cystic fibrosis
+, people with isolated hyperchlorhidrosis do not have the additional signs and symptoms of these other conditions.
+Frequency
+Isolated hyperchlorhidrosis is a rare condition, although its prevalence is unknown. The condition has been found mostly in the Bedouin population of southern Israel.
+Causes
+Isolated hyperchlorhidrosis is caused by a mutation in the
+CA12
+gene. This gene provides instructions for making a protein called carbonic anhydrase 12 (CA 12), which belongs to a family of related proteins known as carbonic anhydrases. These proteins carry out a chemical reaction that involves the molecules carbon dioxide and water and produces a negatively charged bicarbonate molecule (bicarbonate ion) and a positively charged hydrogen atom (known as a proton). The presence of protons and bicarbonate affect the relative acidity (pH) of cells, which is important for several cellular processes, including the transport of salt into and out of cells. Researchers suggest that by regulating cellular pH in the sweat glands, CA 12 is able to control the amount of salt released in sweat.
+The
+CA12
+gene mutation involved in isolated hyperchlorhidrosis leads to reduction of CA 12 protein function. Researchers speculate that the altered CA 12 is less able to regulate pH, and it loses its ability to control how much salt is released in sweat, leading to hyperchlorhidrosis.
+Learn more about the gene associated with Isolated hyperchlorhidrosis
+CA12
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Carbonic anhydrase XII deficiency
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+HYPERCHLORHIDROSIS, ISOLATED; HYCHL
+Scientific Articles on PubMed
+PubMed
+References
+Chiche J, Ilc K, Laferriere J, Trottier E, Dayan F, Mazure NM, Brahimi-Horn
+MC, Pouyssegur J. Hypoxia-inducible carbonic anhydrase IX and XII promote tumor
+cell growth by counteracting acidosis through the regulation of the intracellular
+pH. Cancer Res. 2009 Jan 1;69(1):358-68. doi: 10.1158/0008-5472.CAN-08-2470.
+Citation on PubMed
+Feinstein Y, Yerushalmi B, Loewenthal N, Alkrinawi S, Birk OS, Parvari R,
+Hershkovitz E. Natural history and clinical manifestations of hyponatremia and
+hyperchlorhidrosis due to carbonic anhydrase XII deficiency. Horm Res Paediatr.
+2014;81(5):336-42. doi: 10.1159/000358327. Epub 2014 Apr 4.
+Citation on PubMed
+Feldshtein M, Elkrinawi S, Yerushalmi B, Marcus B, Vullo D, Romi H, Ofir R,
+Landau D, Sivan S, Supuran CT, Birk OS. Hyperchlorhidrosis caused by homozygous
+mutation in CA12, encoding carbonic anhydrase XII. Am J Hum Genet. 2010 Nov
+12;87(5):713-20. doi: 10.1016/j.ajhg.2010.10.008. Epub 2010 Oct 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Muhammad E, Leventhal N, Parvari G, Hanukoglu A, Hanukoglu I, Chalifa-Caspi V,
+Feinstein Y, Weinbrand J, Jacoby H, Manor E, Nagar T, Beck JC, Sheffield VC,
+Hershkovitz E, Parvari R. Autosomal recessive hyponatremia due to isolated salt
+wasting in sweat associated with a mutation in the active site of Carbonic
+Anhydrase 12. Hum Genet. 2011 Apr;129(4):397-405. doi: 10.1007/s00439-010-0930-4.
+Epub 2010 Dec 24.
+Citation on PubMed
+Related Health Topics
+Fluid and Electrolyte Balance
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Low blood sodium
+Sweat electrolytes test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

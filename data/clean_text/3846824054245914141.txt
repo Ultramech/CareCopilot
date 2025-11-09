@@ -1,0 +1,160 @@
+Familial hyperaldosteronism: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial hyperaldosteronism
+URL of this page: https://medlineplus.gov/genetics/condition/familial-hyperaldosteronism/
+Familial hyperaldosteronism
+Description
+Familial hyperaldosteronism is a group of inherited conditions in which the adrenal glands, which are small glands located on top of each kidney, produce too much of the hormone
+aldosterone
+. Aldosterone helps control the amount of salt retained by the kidneys. Excess aldosterone causes the kidneys to retain more salt than normal, which in turn increases the body's fluid levels and blood pressure. People with familial hyperaldosteronism may develop severe high blood pressure (
+hypertension
+), often early in life. Without treatment, hypertension increases the risk of strokes, heart attacks, and kidney failure.
+Familial hyperaldosteronism is categorized into three types, distinguished by their clinical features and genetic causes. In familial hyperaldosteronism type I, hypertension generally appears in childhood to early adulthood and can range from mild to severe. This type can be treated with steroid medications called
+glucocorticoids
+, so it is also known as glucocorticoid-remediable aldosteronism (GRA). In familial hyperaldosteronism type II, hypertension usually appears in early to middle adulthood and does not improve with glucocorticoid treatment. In most individuals with familial hyperaldosteronism type III, the adrenal glands are enlarged up to six times their normal size. These affected individuals have severe hypertension that starts in childhood. The hypertension is difficult to treat and often results in damage to organs such as the heart and kidneys. Rarely, individuals with type III have milder symptoms with treatable hypertension and no adrenal gland enlargement.
+There are other forms of hyperaldosteronism that are not familial. These conditions are caused by various problems in the adrenal glands or kidneys. In some cases, a cause for the increase in aldosterone levels cannot be found.
+Frequency
+The prevalence of familial hyperaldosteronism is unknown. Familial hyperaldosteronism type II appears to be the most common variety. All types of familial hyperaldosteronism combined account for fewer than 1 out of 10 cases of hyperaldosteronism.
+Causes
+The various types of familial hyperaldosteronism have different genetic causes. Familial hyperaldosteronism type I is caused by the abnormal joining together (fusion) of two similar genes called
+CYP11B1
+and
+CYP11B2
+, which are located close together on chromosome 8. These genes provide instructions for making two enzymes that are found in the adrenal glands.
+The
+CYP11B1
+gene provides instructions for making an enzyme called 11-beta-hydroxylase. This enzyme helps produce hormones called
+cortisol and corticosterone
+. The
+CYP11B2
+gene provides instructions for making another enzyme called aldosterone synthase, which helps produce aldosterone. When
+CYP11B1
+and
+CYP11B2
+are abnormally fused together, too much aldosterone synthase is produced. This overproduction causes the adrenal glands to make excess aldosterone, which leads to the signs and symptoms of familial hyperaldosteronism type I.
+Familial hyperaldosteronism type III is caused by mutations in the
+KCNJ5
+gene. The
+KCNJ5
+gene provides instructions for making a protein that functions as a potassium channel, which means that it transports positively charged atoms (ions) of potassium into and out of cells. In the adrenal glands,the flow of ions through potassium channels produced from the
+KCNJ5
+gene is thought to help regulate the production of aldosterone. Mutations in the
+KCNJ5
+gene likely result in the production of potassium channels that are less selective, allowing other ions (predominantly sodium) to pass as well. The abnormal ion flow results in the activation of biochemical processes (pathways) that lead to increased aldosterone production, causing the hypertension associated with familial hyperaldosteronism type III.
+The genetic cause of familial hyperaldosteronism type II is unknown.
+Learn more about the genes associated with Familial hyperaldosteronism
+CYP11B1
+CYP11B2
+KCNJ5
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Familial primary aldosteronism
+FH
+Hereditary aldosteronism
+Hyperaldosteronism, familial
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial hyperaldosteronism
+Genetic and Rare Diseases Information Center
+Familial hyperaldosteronism type I
+Familial hyperaldosteronism type II
+Familial hyperaldosteronism type III
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+HYPERALDOSTERONISM, FAMILIAL, TYPE I; HALD1
+HYPERALDOSTERONISM, FAMILIAL, TYPE II; HALD2
+HYPERALDOSTERONISM, FAMILIAL, TYPE III; HALD3
+Scientific Articles on PubMed
+PubMed
+References
+Funder JW. The genetic basis of primary aldosteronism. Curr Hypertens Rep.
+2012 Apr;14(2):120-4. doi: 10.1007/s11906-012-0255-x.
+Citation on PubMed
+Martinez-Aguayo A, Fardella C. Genetics of hypertensive syndrome. Horm Res.
+2009;71(5):253-9. doi: 10.1159/000208798. Epub 2009 Apr 1.
+Citation on PubMed
+Monticone S, Hattangady NG, Penton D, Isales CM, Edwards MA, Williams TA,
+Sterner C, Warth R, Mulatero P, Rainey WE. a Novel Y152C KCNJ5 mutation
+responsible for familial hyperaldosteronism type III. J Clin Endocrinol Metab.
+2013 Nov;98(11):E1861-5. doi: 10.1210/jc.2013-2428. Epub 2013 Sep 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Moraitis AG, Rainey WE, Auchus RJ. Gene mutations that promote adrenal
+aldosterone production, sodium retention, and hypertension. Appl Clin Genet. 2013
+Dec 24;7:1-13. doi: 10.2147/TACG.S35571.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mulatero P, Monticone S, Rainey WE, Veglio F, Williams TA. Role of KCNJ5 in
+familial and sporadic primary aldosteronism. Nat Rev Endocrinol. 2013
+Feb;9(2):104-12. doi: 10.1038/nrendo.2012.230. Epub 2012 Dec 11.
+Citation on PubMed
+Mulatero P, Tizzani D, Viola A, Bertello C, Monticone S, Mengozzi G, Schiavone
+D, Williams TA, Einaudi S, La Grotta A, Rabbia F, Veglio F. Prevalence and
+characteristics of familial hyperaldosteronism: the PATOGEN study (Primary
+Aldosteronism in TOrino-GENetic forms). Hypertension. 2011 Nov;58(5):797-803.
+doi: 10.1161/HYPERTENSIONAHA.111.175083. Epub 2011 Aug 29.
+Citation on PubMed
+Quack I, Vonend O, Rump LC. Familial hyperaldosteronism I-III. Horm Metab Res.
+2010 Jun;42(6):424-8. doi: 10.1055/s-0029-1246187. Epub 2010 Feb 3.
+Citation on PubMed
+Stowasser M, Gordon RD. Monogenic mineralocorticoid hypertension. Best Pract
+Res Clin Endocrinol Metab. 2006 Sep;20(3):401-20. doi:
+10.1016/j.beem.2006.07.008.
+Citation on PubMed
+Stowasser M. Primary aldosteronism and potassium channel mutations. Curr Opin
+Endocrinol Diabetes Obes. 2013 Jun;20(3):170-9. doi:
+10.1097/MED.0b013e32835ef2fd.
+Citation on PubMed
+Williams SS. Advances in genetic hypertension. Curr Opin Pediatr. 2007
+Apr;19(2):192-8. doi: 10.1097/MOP.0b013e32801e217c.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Adrenal Gland Disorders
+Genetic Disorders
+High Blood Pressure
+MEDICAL ENCYCLOPEDIA
+Aldosterone blood test
+Genetics
+Related Medical Tests
+Aldosterone Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

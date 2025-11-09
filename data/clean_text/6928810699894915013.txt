@@ -1,0 +1,180 @@
+Ulcerative colitis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Ulcerative colitis
+URL of this page: https://medlineplus.gov/genetics/condition/ulcerative-colitis/
+Ulcerative colitis
+Description
+Ulcerative colitis is a chronic disorder that affects
+the digestive system
+. This condition is characterized by abnormal inflammation of the inner surface (epithelium) of
+the rectum and colon.
+The rectum and colon make up most of the length of the large intestine. The inflammation usually causes open sores (ulcers) to develop in the large intestine. Ulcerative colitis usually appears between the age of 15 and 30, although it can develop at any age. The inflammation tends to flare up multiple times throughout a person's life, which causes recurring signs and symptoms.
+The most common symptoms of ulcerative colitis are cramping abdominal pain and frequent diarrhea, often with blood, pus, or mucus in the stool. Other signs and symptoms include nausea, loss of appetite, bowel urgency, fatigue, and fevers. Chronic bleeding from the inflamed and ulcerated intestinal tissue can cause a shortage of red blood cells (
+anemia
+) in some affected individuals. People with this disorder have difficulty absorbing enough fluids and nutrients from their diet and often experience weight loss. Affected children usually grow more slowly than normal. Less commonly, ulcerative colitis causes problems with the skin, joints, eyes, kidneys, or liver, which are most likely due to abnormal inflammation.
+Toxic megacolon is a rare complication of ulcerative colitis that can be life-threatening. Toxic megacolon involves a widening (dilation) of the colon and an overwhelming inflammatory response. Ulcerative colitis also increases the risk of developing
+colon cancer
+, especially in people whose entire colon is inflamed and in those who have had ulcerative colitis for 8 years or more.
+Ulcerative colitis is one common form of
+inflammatory bowel disease
+(IBD). Another type of IBD,
+Crohn's disease
+, also causes chronic inflammation of the intestines. Unlike ulcerative colitis, which affects only the inner surface of the large intestine, Crohn's disease can cause inflammation in any part of the digestive system, and the inflammation extends deeper into the intestinal tissue.
+Frequency
+Ulcerative colitis is most common in North America and Western Europe; however, the prevalence is increasing in other regions. In North America, ulcerative colitis affects approximately 40 to 420 in 100,000 people. It is estimated that more than 750,000 North Americans are affected by this disorder. Ulcerative colitis is more common in white people and people of eastern and central European (Ashkenazi) Jewish descent than in people of other ethnic backgrounds.
+Causes
+A variety of genetic and environmental factors are likely involved in the development of ulcerative colitis. Recent studies have identified variations in dozens of genes that may be linked to ulcerative colitis; however, the role of these variations is not completely understood. Researchers speculate that this condition may be caused by changes in the intestinal lining's protective function or an abnormal immune response to the normal bacteria in
+the digestive tract
+, both of which may be influenced by genetic variations.
+Several of the genes that may be associated with ulcerative colitis are involved in the protective function of
+the intestines
+. The inner surface of the intestines provides a barrier that protects the body's tissues from the bacteria that live in the intestines and from toxins that pass through the digestive tract. Researchers speculate that a breakdown of this barrier allows contact between the intestinal tissue and the bacteria and toxins, which can trigger an immune reaction. This immune response may lead to chronic inflammation and the digestive problems characteristic of ulcerative colitis.
+Genes that regulate the immune system may also contribute to ulcerative colitis, particularly genes that are involved in the maturation and function of immune cells called
+T cells
+. T cells identify foreign substances and defend the body against infection. Certain genetic variations may make some individuals more prone to an overactive immune response to the bacteria and other microbes in the intestines, which may cause the chronic inflammation that occurs in people with ulcerative colitis. Another possible explanation is that ulcerative colitis occurs when the immune system malfunctions and attacks the cells of the intestines, causing inflammation.
+Learn more about the genes associated with Ulcerative colitis
+IL23R
+IRF5
+Additional Information from NCBI Gene:
+ABCB1
+IL10RA
+IL10RB
+PTPN2
+Inheritance
+The inheritance pattern of ulcerative colitis is unknown because many genetic and environmental factors are likely to be involved in the development of this condition. Even though the inheritance pattern of this condition is unclear, having a family member with ulcerative colitis increases the risk of developing the condition.
+Other Names for This Condition
+Colitis gravis
+Idiopathic proctocolitis
+Inflammatory bowel disease, ulcerative colitis type
+UC
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Colitis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+INFLAMMATORY BOWEL DISEASE (CROHN DISEASE) 1; IBD1
+Scientific Articles on PubMed
+PubMed
+References
+Anderson CA, Boucher G, Lees CW, Franke A, D'Amato M, Taylor KD, Lee JC,
+Goyette P, Imielinski M, Latiano A, Lagace C, Scott R, Amininejad L, Bumpstead S,
+Baidoo L, Baldassano RN, Barclay M, Bayless TM, Brand S, Buning C, Colombel JF,
+Denson LA, De Vos M, Dubinsky M, Edwards C, Ellinghaus D, Fehrmann RS, Floyd JA,
+Florin T, Franchimont D, Franke L, Georges M, Glas J, Glazer NL, Guthery SL,
+Haritunians T, Hayward NK, Hugot JP, Jobin G, Laukens D, Lawrance I, Lemann M,
+Levine A, Libioulle C, Louis E, McGovern DP, Milla M, Montgomery GW, Morley KI,
+Mowat C, Ng A, Newman W, Ophoff RA, Papi L, Palmieri O, Peyrin-Biroulet L, Panes
+J, Phillips A, Prescott NJ, Proctor DD, Roberts R, Russell R, Rutgeerts P,
+Sanderson J, Sans M, Schumm P, Seibold F, Sharma Y, Simms LA, Seielstad M,
+Steinhart AH, Targan SR, van den Berg LH, Vatn M, Verspaget H, Walters T,
+Wijmenga C, Wilson DC, Westra HJ, Xavier RJ, Zhao ZZ, Ponsioen CY, Andersen V,
+Torkvist L, Gazouli M, Anagnou NP, Karlsen TH, Kupcinskas L, Sventoraityte J,
+Mansfield JC, Kugathasan S, Silverberg MS, Halfvarson J, Rotter JI, Mathew CG,
+Griffiths AM, Gearry R, Ahmad T, Brant SR, Chamaillard M, Satsangi J, Cho JH,
+Schreiber S, Daly MJ, Barrett JC, Parkes M, Annese V, Hakonarson H, Radford-Smith
+G, Duerr RH, Vermeire S, Weersma RK, Rioux JD. Meta-analysis identifies 29
+additional ulcerative colitis risk loci, increasing the number of confirmed
+associations to 47. Nat Genet. 2011 Mar;43(3):246-52. doi: 10.1038/ng.764. Epub
+2011 Feb 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Danese S, Fiocchi C. Ulcerative colitis. N Engl J Med. 2011 Nov
+3;365(18):1713-25. doi: 10.1056/NEJMra1102942. No abstract available.
+Citation on PubMed
+Di Sabatino A, Biancheri P, Rovedatti L, Macdonald TT, Corazza GR. Recent
+advances in understanding ulcerative colitis. Intern Emerg Med. 2012
+Apr;7(2):103-11. doi: 10.1007/s11739-011-0719-z. Epub 2011 Nov 9.
+Citation on PubMed
+Fairbrass KM, Costantino SJ, Gracie DJ, Ford AC. Prevalence of irritable bowel
+syndrome-type symptoms in patients with inflammatory bowel disease in remission:
+a systematic review and meta-analysis. Lancet Gastroenterol Hepatol. 2020
+Dec;5(12):1053-1062. doi: 10.1016/S2468-1253(20)30300-9. Epub 2020 Oct 2.
+Citation on PubMed
+McGuckin MA, Eri R, Simms LA, Florin TH, Radford-Smith G. Intestinal barrier
+dysfunction in inflammatory bowel diseases. Inflamm Bowel Dis. 2009
+Jan;15(1):100-13. doi: 10.1002/ibd.20539.
+Citation on PubMed
+Pigneur B, Escher J, Elawad M, Lima R, Buderus S, Kierkus J, Guariso G,
+Canioni D, Lambot K, Talbotec C, Shah N, Begue B, Rieux-Laucat F, Goulet O,
+Cerf-Bensussan N, Neven B, Ruemmele FM. Phenotypic characterization of very
+early-onset IBD due to mutations in the IL10, IL10 receptor alpha or beta gene: a
+survey of the Genius Working Group. Inflamm Bowel Dis. 2013 Dec;19(13):2820-8.
+doi: 10.1097/01.MIB.0000435439.22484.d3.
+Citation on PubMed
+Podolsky DK. Inflammatory bowel disease. N Engl J Med. 2002 Aug
+8;347(6):417-29. doi: 10.1056/NEJMra020831. No abstract available.
+Citation on PubMed
+Shim JO, Seo JK. Very early-onset inflammatory bowel disease (IBD) in infancy
+is a different disease entity from adult-onset IBD; one form of interleukin-10
+receptor mutations. J Hum Genet. 2014 Jun;59(6):337-41. doi: 10.1038/jhg.2014.32.
+Epub 2014 May 1.
+Citation on PubMed
+UK IBD Genetics Consortium; Barrett JC, Lee JC, Lees CW, Prescott NJ, Anderson
+CA, Phillips A, Wesley E, Parnell K, Zhang H, Drummond H, Nimmo ER, Massey D,
+Blaszczyk K, Elliott T, Cotterill L, Dallal H, Lobo AJ, Mowat C, Sanderson JD,
+Jewell DP, Newman WG, Edwards C, Ahmad T, Mansfield JC, Satsangi J, Parkes M,
+Mathew CG; Wellcome Trust Case Control Consortium 2; Donnelly P, Peltonen L,
+Blackwell JM, Bramon E, Brown MA, Casas JP, Corvin A, Craddock N, Deloukas P,
+Duncanson A, Jankowski J, Markus HS, Mathew CG, McCarthy MI, Palmer CN, Plomin R,
+Rautanen A, Sawcer SJ, Samani N, Trembath RC, Viswanathan AC, Wood N, Spencer CC,
+Barrett JC, Bellenguez C, Davison D, Freeman C, Strange A, Donnelly P, Langford
+C, Hunt SE, Edkins S, Gwilliam R, Blackburn H, Bumpstead SJ, Dronov S, Gillman M,
+Gray E, Hammond N, Jayakumar A, McCann OT, Liddle J, Perez ML, Potter SC,
+Ravindrarajah R, Ricketts M, Waller M, Weston P, Widaa S, Whittaker P, Deloukas
+P, Peltonen L, Mathew CG, Blackwell JM, Brown MA, Corvin A, McCarthy MI, Spencer
+CC, Attwood AP, Stephens J, Sambrook J, Ouwehand WH, McArdle WL, Ring SM,
+Strachan DP. Genome-wide association study of ulcerative colitis identifies three
+new susceptibility loci, including the HNF4A region. Nat Genet. 2009
+Dec;41(12):1330-4. doi: 10.1038/ng.483. Epub 2009 Nov 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Xavier RJ, Podolsky DK. Unravelling the pathogenesis of inflammatory bowel
+disease. Nature. 2007 Jul 26;448(7152):427-34. doi: 10.1038/nature06005.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Ulcerative Colitis
+MEDICAL ENCYCLOPEDIA
+Genetics
+Ulcerative colitis
+Ulcerative Colitis (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

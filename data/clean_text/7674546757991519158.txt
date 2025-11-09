@@ -1,0 +1,152 @@
+Arterial tortuosity syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Arterial tortuosity syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/arterial-tortuosity-syndrome/
+Arterial tortuosity syndrome
+Description
+Arterial tortuosity syndrome is a disorder that affects connective tissue. Connective tissue provides strength and flexibility to structures throughout the body, including blood vessels, skin, joints, and the gastrointestinal tract.
+As its name suggests, arterial tortuosity syndrome is characterized by blood vessel abnormalities, particularly abnormal twists and turns (tortuosity) of the blood vessels that carry blood from the heart to the rest of the body (
+the arteries
+). Tortuosity arises from abnormal elongation of the arteries; since the end points of the arteries are fixed, the extra length twists and curves. Other blood vessel abnormalities that may occur in this disorder include constriction (stenosis) and abnormal bulging (aneurysm) of vessels, as well as small clusters of enlarged blood vessels just under the skin (telangiectasia).
+Complications resulting from the abnormal arteries can be life-threatening. Rupture of an aneurysm or sudden tearing (dissection) of the layers in an arterial wall can result in massive loss of blood from the circulatory system. Blockage of blood flow to vital organs such as the heart, lungs, or brain can lead to heart attacks, respiratory problems, and strokes. Stenosis of the arteries forces the
+heart
+to work harder to pump blood and may lead to heart failure. As a result of these complications, arterial tortuosity syndrome is often fatal in childhood, although some individuals with mild cases of the disorder live into adulthood.
+Features of arterial tortuosity syndrome outside the circulatory system are caused by abnormal connective tissue in other parts of the body. These features include joints that are either loose and very flexible (hypermobile) or that have deformities limiting movement (contractures), and unusually soft and stretchable skin. Some affected individuals have long,
+slender fingers
+and toes (arachnodactyly); curvature of the spine (
+scoliosis
+); or a chest that is either sunken (pectus excavatum) or protruding (
+pectus carinatum
+). They may have protrusion of organs through gaps in muscles (
+hernias
+), elongation of the intestines, or pouches called diverticula in the intestinal walls.
+People with arterial tortuosity syndrome often look older than their age and have distinctive facial features including a long,
+narrow face
+with droopy cheeks; eye openings that are narrowed (
+blepharophimosis
+) with outside corners that point downward (
+downslanting palpebral fissures
+); a beaked nose with soft cartilage; a
+high, arched roof of the mouth
+(palate); a small lower jaw (
+micrognathia
+); and large ears. The
+cornea
+, which is the clear front covering of the eye, may be cone-shaped and abnormally thin (
+keratoconus
+).
+Frequency
+Arterial tortuosity syndrome is a rare disorder; its prevalence is unknown. About 100 cases have been reported in the medical literature.
+Causes
+Arterial tortuosity syndrome is caused by mutations in the
+SLC2A10
+gene. This gene provides instructions for making a protein called GLUT10. The level of GLUT10 appears to be involved in the regulation of a process called the transforming growth factor-beta (TGF-β) signaling pathway. This pathway is involved in cell growth and division (proliferation) and the process by which cells mature to carry out special functions (differentiation). The TGF-β signaling pathway is also involved in bone and blood vessel development and the formation of the extracellular matrix, an intricate lattice of proteins and other molecules that forms in the spaces between cells and defines the structure and properties of connective tissues.
+SLC2A10
+gene mutations that cause arterial tortuosity syndrome reduce or eliminate GLUT10 function. By mechanisms that are not well understood, a lack (deficiency) of functional GLUT10 protein leads to overactivity (upregulation) of TGF-β signaling. Excessive growth signaling results in elongation of the arteries, leading to tortuosity. Overactive TGF-β signaling also interferes with normal formation of the connective tissues in other parts of the body, leading to the additional signs and symptoms of arterial tortuosity syndrome.
+Learn more about the gene associated with Arterial tortuosity syndrome
+SLC2A10
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Arterial tortuosity
+ATS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Arterial tortuosity syndrome
+Genetic and Rare Diseases Information Center
+Arterial tortuosity syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ARTERIAL TORTUOSITY SYNDROME; ATORS
+Scientific Articles on PubMed
+PubMed
+References
+Akhurst RJ. A sweet link between TGFbeta and vascular disease? Nat Genet. 2006
+Apr;38(4):400-1. doi: 10.1038/ng0406-400. No abstract available.
+Citation on PubMed
+Callewaert BL, Willaert A, Kerstjens-Frederikse WS, De Backer J, Devriendt K,
+Albrecht B, Ramos-Arroyo MA, Doco-Fenzy M, Hennekam RC, Pyeritz RE, Krogmann ON,
+Gillessen-kaesbach G, Wakeling EL, Nik-zainal S, Francannet C, Mauran P, Booth C,
+Barrow M, Dekens R, Loeys BL, Coucke PJ, De Paepe AM. Arterial tortuosity
+syndrome: clinical and molecular findings in 12 newly identified families. Hum
+Mutat. 2008 Jan;29(1):150-8. doi: 10.1002/humu.20623.
+Citation on PubMed
+Castori M, Ritelli M, Zoppi N, Molisso L, Chiarelli N, Zaccagna F, Grammatico
+P, Colombi M. Adult presentation of arterial tortuosity syndrome in a 51-year-old
+woman with a novel homozygous c.1411+1G>A mutation in the SLC2A10 gene. Am J
+Med Genet A. 2012 May;158A(5):1164-9. doi: 10.1002/ajmg.a.35266. Epub 2012 Apr 9.
+Citation on PubMed
+Coucke PJ, Willaert A, Wessels MW, Callewaert B, Zoppi N, De Backer J, Fox JE,
+Mancini GM, Kambouris M, Gardella R, Facchetti F, Willems PJ, Forsyth R, Dietz
+HC, Barlati S, Colombi M, Loeys B, De Paepe A. Mutations in the facilitative
+glucose transporter GLUT10 alter angiogenesis and cause arterial tortuosity
+syndrome. Nat Genet. 2006 Apr;38(4):452-7. doi: 10.1038/ng1764. Epub 2006 Mar 19.
+Citation on PubMed
+Ritelli M, Chiarelli N, Dordoni C, Reffo E, Venturini M, Quinzani S, Monica
+MD, Scarano G, Santoro G, Russo MG, Calzavara-Pinton P, Milanesi O, Colombi M.
+Arterial Tortuosity Syndrome: homozygosity for two novel and one recurrent
+SLC2A10 missense mutations in three families with severe cardiopulmonary
+complications in infancy and a literature review. BMC Med Genet. 2014 Nov
+6;15:122. doi: 10.1186/s12881-014-0122-5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ritelli M, Drera B, Vicchio M, Puppini G, Biban P, Pilati M, Prioli MA,
+Barlati S, Colombi M. Arterial tortuosity syndrome in two Italian paediatric
+patients. Orphanet J Rare Dis. 2009 Sep 25;4:20. doi: 10.1186/1750-1172-4-20.
+Citation on PubMed
+or
+Free article on PubMed Central
+Segade F. Glucose transporter 10 and arterial tortuosity syndrome: the vitamin
+C connection. FEBS Lett. 2010 Jul 16;584(14):2990-4. doi:
+10.1016/j.febslet.2010.06.011. Epub 2010 Jun 12.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Aneurysms
+Connective Tissue Disorders
+Genetic Disorders
+Vascular Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hyperelastic skin
+Hypermobile joints
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

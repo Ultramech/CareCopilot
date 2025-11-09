@@ -1,0 +1,162 @@
+Hypertension: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hypertension
+URL of this page: https://medlineplus.gov/genetics/condition/hypertension/
+Hypertension
+Description
+Hypertension is abnormally high blood pressure in the arteries, which are the blood vessels that carry blood from the heart to the rest of the body. As the heart beats, it forces blood through the arteries to deliver nutrients and oxygen to the rest of the body. The strength of the blood pushing against the artery walls is blood pressure, which is measured in units called millimeters of mercury (mmHg). The top number in a blood pressure reading is the pressure when the heart pumps (systolic blood pressure), and the bottom number is the pressure between heart beats (diastolic blood pressure). In adults, a normal blood pressure measurement is about 120/80 mmHg. Blood pressure is considered high when the measurement is 130/80 mmHg or greater.
+Hypertension usually has no symptoms, and many affected individuals do not know they have the condition. However, hypertension is a major risk factor for heart disease, stroke, kidney failure, and eye problems. When blood pressure is elevated, the heart and arteries have to work harder than normal to pump blood through the body. The extra work thickens the muscles of the heart and arteries and hardens or damages artery walls. As a result, the flow of blood and oxygen to the heart and other organs is reduced. Damage to the heart caused by the extra work and a lack of oxygen causes heart disease. In addition, damage to the arteries increases the risk of blood clots that block the flow of blood to the heart, causing a heart attack, or to the brain, causing a type of stroke known as an
+ischemic stroke
+. Another type of stroke, called a
+hemorrhagic stroke
+, can occur when a weakened blood vessel in the brain bursts. Damage to
+blood vessels in the kidneys
+impairs their ability to filter waste and remove fluid, leading to kidney failure. Problems with blood flow in the arteries of the eyes can lead to vision loss.
+In rare cases, dangerously high blood pressure can cause severe headaches, confusion, shortness of breath, chest pain, or nosebleeds.
+In about 95 percent of cases, the cause of hypertension is unknown. These cases are classified as essential hypertension. When hypertension results from an underlying condition, such as blood vessel defects that reduce blood flow; kidney disorders, which alter the amount of fluids and salts in the body; or problems with hormone-producing glands called the
+adrenal glands
+or the
+thyroid gland
+, it is classified as secondary hypertension. Hypertension is a key feature of some rare genetic disorders, including
+familial hyperaldosteronism
+,
+pseudohypoaldosteronism type 2
+,
+Liddle syndrome
+, and tumors known as paragangliomas.
+Frequency
+Hypertension affects an estimated 47 percent of adults in the United States. Prevalence of the condition increases with age, and approximately 70 percent of people over age 65 are affected. In African Americans, the condition is more common, starts at a younger age, and is more severe than in other populations.
+Causes
+Hypertension can have a variety of causes. Secondary hypertension results from other disorders that raise blood pressure in addition to other problems. Rare, genetic forms of hypertension are caused by mutations in particular genes, many of which help control the balance of fluids and salts in the body and affect blood pressure. The causes of essential hypertension, however, are not well understood. Essential hypertension is a complex condition with a variety of factors, both genetic and environmental, contributing to its development.
+More than 100 genetic variations have been associated with essential hypertension. While these variations have been found more commonly in people with essential hypertension than in unaffected individuals, none are common causes of the condition.
+The most-studied genetic association in essential hypertension is with genes involved in the renin-angiotensin-aldosterone system. The renin-angiotensin-aldosterone system is a step-wise process that produces hormones to regulate blood pressure and the balance of fluids and salts in the body. Because these genes play an integral role in normal blood pressure control, researchers suspect that variations in them might impair blood pressure control and contribute to hypertension.
+Other genes associated with essential hypertension are important for the normal function of the lining of blood vessels (the
+vascular endothelium
+). Changes in these genes are thought to impair this cell layer (endothelial dysfunction). Such changes may result in vessels that are abnormally constricted or narrowed, which raises blood pressure. Still other genes have been linked to hypertension risk, although the roles most of them play in development of the condition are still unclear.
+Environmental factors also contribute to hypertension. In addition to race and age, activity level, alcohol consumption, and salt intake influence blood pressure. Other disorders, such as obesity, diabetes, and
+obstructive sleep apnea
+also increase the risk of developing hypertension.
+Researchers suspect epigenetic changes to the DNA also play a role in development of essential hypertension. Epigenetic changes modify DNA without changing the DNA sequence. They can affect gene activity and the production of proteins, which may influence blood pressure.
+Learn more about the genes associated with Hypertension
+AGT
+AGTR1
+Additional Information from NCBI Gene:
+ATP2B1
+EDNRA
+NOS2
+NOS3
+PTGIS
+SELE
+Inheritance
+Hypertension tends to run in families. Individuals whose parents have hypertension have an elevated risk of developing the condition, particularly if both parents are affected. However, the inheritance pattern is unknown.
+Rare, genetic forms of hypertension follow the inheritance pattern of the individual condition.
+Other Names for This Condition
+Essential hypertension
+High blood pressure
+Primary hypertension
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Essential hypertension
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HYPERTENSION, ESSENTIAL
+HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO, 2
+HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO, 1
+HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO, 4
+HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO, 3
+HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO, 5
+HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO, 6
+HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO, 8; HYT8
+HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO, 7
+Scientific Articles on PubMed
+PubMed
+References
+Dodoo SN, Benjamin IJ. Genomic Approaches to Hypertension. Cardiol Clin. 2017
+May;35(2):185-196. doi: 10.1016/j.ccl.2016.12.001.
+Citation on PubMed
+Gkaliagkousi E, Douma S, Zamboulis C, Ferro A. Nitric oxide dysfunction in
+vascular endothelium and platelets: role in essential hypertension. J Hypertens.
+2009 Dec;27(12):2310-20. doi: 10.1097/HJH.0b013e328330e89a.
+Citation on PubMed
+Padmanabhan S, Aman A, Dominiczak AF. Genomics of hypertension. Pharmacol Res.
+2017 Jul;121:219-229. doi: 10.1016/j.phrs.2017.04.031. Epub 2017 May 8.
+Citation on PubMed
+Saxena T, Ali AO, Saxena M. Pathophysiology of essential hypertension: an
+update. Expert Rev Cardiovasc Ther. 2018 Dec;16(12):879-887. doi:
+10.1080/14779072.2018.1540301.
+Citation on PubMed
+Singh M, Singh AK, Pandey P, Chandra S, Singh KA, Gambhir IS. Molecular
+genetics of essential hypertension. Clin Exp Hypertens. 2016;38(3):268-77. doi:
+10.3109/10641963.2015.1116543. Epub 2016 Mar 30.
+Citation on PubMed
+Whelton PK, Carey RM, Aronow WS, Casey DE Jr, Collins KJ, Dennison Himmelfarb
+C, DePalma SM, Gidding S, Jamerson KA, Jones DW, MacLaughlin EJ, Muntner P,
+Ovbiagele B, Smith SC Jr, Spencer CC, Stafford RS, Taler SJ, Thomas RJ, Williams
+KA Sr, Williamson JD, Wright JT Jr. 2017
+ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention,
+Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report
+of the American College of Cardiology/American Heart Association Task Force on
+Clinical Practice Guidelines. Circulation. 2018 Oct 23;138(17):e484-e594. doi:
+10.1161/CIR.0000000000000596. No abstract available.
+Citation on PubMed
+Wise IA, Charchar FJ. Epigenetic Modifications in Essential Hypertension. Int
+J Mol Sci. 2016 Mar 25;17(4):451. doi: 10.3390/ijms17040451.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wright JM, Musini VM, Gill R. First-line drugs for hypertension. Cochrane
+Database Syst Rev. 2018 Apr 18;4(4):CD001841. doi:
+10.1002/14651858.CD001841.pub3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Blood Pressure Medicines
+DASH Eating Plan
+Genetic Disorders
+High Blood Pressure
+How to Prevent High Blood Pressure
+MEDICAL ENCYCLOPEDIA
+Controlling your high blood pressure
+Genetics
+High blood pressure and eye disease
+High blood pressure in adults - hypertension
+Hypertensive heart disease
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

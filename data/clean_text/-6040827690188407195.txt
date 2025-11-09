@@ -1,0 +1,126 @@
+Phosphoglycerate mutase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Phosphoglycerate mutase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/phosphoglycerate-mutase-deficiency/
+Phosphoglycerate mutase deficiency
+Description
+Phosphoglycerate mutase deficiency is a disorder that primarily affects muscles used for movement (skeletal muscles). Beginning in childhood or adolescence, affected individuals experience muscle aches or cramping following strenuous physical activity. Some people with this condition also have recurrent episodes of myoglobinuria. Myoglobinuria occurs when muscle tissue breaks down abnormally and releases a protein called myoglobin, which is processed by the kidneys and released in the urine. If untreated, myoglobinuria can lead to kidney failure.
+In some cases of phosphoglycerate mutase deficiency, microscopic tube-shaped structures called tubular aggregates are seen in muscle fibers. It is unclear how tubular aggregates are associated with the signs and symptoms of the disorder.
+Frequency
+Phosphoglycerate mutase deficiency is a rare condition; about 15 affected people have been reported in the medical literature. Most affected individuals have been African American.
+Causes
+Phosphoglycerate mutase deficiency is caused by mutations in the
+PGAM2
+gene. This gene provides instructions for making an enzyme called phosphoglycerate mutase, which is involved in a critical energy-producing process in cells known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy.
+The version of phosphoglycerate mutase produced from the
+PGAM2
+gene is found primarily in skeletal muscle cells. Mutations in the
+PGAM2
+gene greatly reduce the activity of phosphoglycerate mutase, which disrupts energy production in these cells. This defect underlies the muscle cramping and myoglobinuria that occur after strenuous exercise in affected individuals.
+Learn more about the gene associated with Phosphoglycerate mutase deficiency
+PGAM2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the
+PGAM2
+gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. However, people who carry one altered copy of the
+PGAM2
+gene may have some features of phosphoglycerate mutase deficiency, including episodes of exercise-induced muscle cramping and myoglobinuria.
+Other Names for This Condition
+Deficiency mutase phosphoglycerate
+Glycogen storage disease X
+GSD X
+GSD10
+GSDX
+Myopathy due to phosphoglycerate mutase deficiency
+PGAM deficiency
+PGAMM deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Glycogen storage disease type X
+Genetic and Rare Diseases Information Center
+Glycogen storage disease due to phosphoglycerate mutase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GLYCOGEN STORAGE DISEASE X; GSD10
+Scientific Articles on PubMed
+PubMed
+References
+DiMauro S, Miranda AF, Khan S, Gitlin K, Friedman R. Human muscle
+phosphoglycerate mutase deficiency: newly discovered metabolic myopathy. Science.
+1981 Jun 12;212(4500):1277-9. doi: 10.1126/science.6262916.
+Citation on PubMed
+Joshi PR, Knape M, Zierz S, Deschauer M. Phosphoglycerate mutase deficiency:
+case report of a manifesting heterozygote with a novel E154K mutation and very
+late onset. Acta Neuropathol. 2009 Jun;117(6):723-5. doi:
+10.1007/s00401-009-0524-1. Epub 2009 Mar 26. No abstract available.
+Citation on PubMed
+Naini A, Toscano A, Musumeci O, Vissing J, Akman HO, DiMauro S. Muscle
+phosphoglycerate mutase deficiency revisited. Arch Neurol. 2009 Mar;66(3):394-8.
+doi: 10.1001/archneurol.2008.584.
+Citation on PubMed
+Tonin P, Bruno C, Cassandrini D, Savio C, Tavazzi E, Tomelleri G, Piccolo G.
+Unusual presentation of phosphoglycerate mutase deficiency due to two different
+mutations in PGAM-M gene. Neuromuscul Disord. 2009 Nov;19(11):776-8. doi:
+10.1016/j.nmd.2009.08.007. Epub 2009 Sep 23.
+Citation on PubMed
+Toscano A, Tsujino S, Vita G, Shanske S, Messina C, Dimauro S. Molecular basis
+of muscle phosphoglycerate mutase (PGAM-M) deficiency in the Italian kindred.
+Muscle Nerve. 1996 Sep;19(9):1134-7. doi:
+10.1002/(SICI)1097-4598(199609)19:93.0.CO;2-0.
+Citation on PubMed
+Tsujino S, Shanske S, Sakoda S, Fenichel G, DiMauro S. The molecular genetic
+basis of muscle phosphoglycerate mutase (PGAM) deficiency. Am J Hum Genet. 1993
+Mar;52(3):472-7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tsujino S, Shanske S, Sakoda S, Toscano A, DiMauro S. Molecular genetic
+studies in muscle phosphoglycerate mutase (PGAM-M) deficiency. Muscle Nerve
+Suppl. 1995;3:S50-3. doi: 10.1002/mus.880181412.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Carbohydrate Metabolism Disorders
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

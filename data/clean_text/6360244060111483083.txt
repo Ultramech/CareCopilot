@@ -1,0 +1,168 @@
+ADNP syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+ADNP syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/adnp-syndrome/
+ADNP syndrome
+Description
+ADNP
+syndrome is a condition that causes a wide variety of signs and symptoms. Its hallmark features are intellectual disability and
+autism spectrum disorder
+, which is characterized by impaired communication and social interaction. Affected individuals also have distinctive facial features and abnormalities of multiple body systems.
+Individuals with
+ADNP
+syndrome have mild to severe intellectual disability and delayed development of speech and motor skills such as sitting and walking. Some affected individuals are never able to speak. People with this disorder exhibit characteristics typical of autism spectrum disorder, including repetitive behaviors and difficulty with social interactions.
+ADNP
+syndrome is also associated with mood disorders or behavioral problems, such as anxiety, temper tantrums,
+attention-deficit/hyperactivity disorder
+(ADHD),
+obsessive-compulsive disorder
+, or sleep problems.
+Many people with
+ADNP
+syndrome have distinctive facial features, which most commonly include a prominent forehead, a high hairline, outside corners of the eyes that point upward or downward (upslanting or downslanting palpebral fissures), droopy eyelids (ptosis), a broad nasal bridge, and a thin upper lip. These individuals may also have unusually shaped ears or hand and finger abnormalities. Eye and vision abnormalities, such as eyes that do not point in the same direction (strabismus) and
+farsightedness
+(
+hyperopia
+), also occur in
+ADNP
+syndrome. Some people with this condition have early appearance (eruption) of primary (baby) teeth.
+Some people with
+ADNP
+syndrome have weak muscle tone (hypotonia) and feeding difficulties in infancy. They may also have digestive system problems, such as backflow of stomach acids into the esophagus (
+gastroesophageal reflux
+), vomiting, and constipation. Other features that occur in
+ADNP
+syndrome include obesity, seizures, and heart abnormalities.
+Frequency
+The prevalence of
+ADNP
+syndrome is unknown. It is estimated to account for 0.17 percent of all cases of autism spectrum disorder, making it one of the most common genetic causes of this condition.
+Causes
+ADNP
+syndrome is caused by mutations in the
+ADNP
+gene. The protein produced from this gene helps control the activity (expression) of other genes through a process called chromatin remodeling.
+Chromatin
+is the network of DNA and protein that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. Chromatin remodeling is one way gene expression is regulated during development; when DNA is tightly packed, gene expression is lower than when DNA is loosely packed.
+By regulating gene expression, the ADNP protein is involved in many aspects of growth and development. It is particularly important for regulation of genes involved in normal brain development, and it likely controls the activity of genes that direct the development and function of other body systems.
+Although it is unclear how mutations in the
+ADNP
+gene affect ADNP protein function, researchers suggest that the mutations result in abnormal chromatin remodeling. Disturbance of this process alters the activity of many genes and disrupts development or function of several of the body's tissues and organs, including the brain. These changes likely explain the intellectual disability, autism spectrum disorder, and other diverse signs and symptoms of
+ADNP
+syndrome.
+Learn more about the gene associated with ADNP syndrome
+ADNP
+Inheritance
+ADNP
+syndrome is not inherited. It results from new (
+de novo
+) mutations in the
+ADNP
+gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. The condition occurs in people with no history of the disorder in their family.
+Other Names for This Condition
+ADNP-related intellectual disability and autism spectrum disorder
+ADNP-related multiple congenital anomalies-intellectual disability-autism spectrum disorder
+Helsmoortel-van der Aa syndrome
+HVDAS
+Mental retardation, autosomal dominant 28
+MRD28
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: ADNP-related multiple congenital anomalies - intellectual disability - autism spectrum disorder
+Genetic and Rare Diseases Information Center
+ADNP syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HELSMOORTEL-VAN DER AA SYNDROME; HVDAS
+Scientific Articles on PubMed
+PubMed
+References
+Gozes I, Van Dijck A, Hacohen-Kleiman G, Grigg I, Karmon G, Giladi E, Eger M,
+Gabet Y, Pasmanik-Chor M, Cappuyns E, Elpeleg O, Kooy RF, Bedrosian-Sermone S.
+Premature primary tooth eruption in cognitive/motor-delayed ADNP-mutated
+children. Transl Psychiatry. 2017 Feb 21;7(2):e1043. doi: 10.1038/tp.2017.27.
+Citation on PubMed
+Harutyunyan L, Kooy RF, D'Incal CP, Van Dijck A. ADNP-Related
+Helsmoortel-Van der Aa Syndrome. 2016 Apr 7 [updated 2025 Aug 21]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK355518/
+Citation on PubMed
+Helsmoortel C, Vulto-van Silfhout AT, Coe BP, Vandeweyer G, Rooms L, van den
+Ende J, Schuurs-Hoeijmakers JH, Marcelis CL, Willemsen MH, Vissers LE, Yntema HG,
+Bakshi M, Wilson M, Witherspoon KT, Malmgren H, Nordgren A, Anneren G, Fichera M,
+Bosco P, Romano C, de Vries BB, Kleefstra T, Kooy RF, Eichler EE, Van der Aa N. A
+SWI/SNF-related autism syndrome caused by de novo mutations in ADNP. Nat Genet.
+2014 Apr;46(4):380-4. doi: 10.1038/ng.2899. Epub 2014 Feb 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Krajewska-Walasek M, Jurkiewicz D, Piekutowska-Abramczuk D, Kucharczyk M,
+Chrzanowska KH, Jezela-Stanek A, Ciara E. Additional data on the clinical
+phenotype of Helsmoortel-Van der Aa syndrome associated with a novel truncating
+mutation in ADNP gene. Am J Med Genet A. 2016 Jun;170(6):1647-50. doi:
+10.1002/ajmg.a.37641. Epub 2016 Mar 31. No abstract available.
+Citation on PubMed
+Pescosolido MF, Schwede M, Johnson Harrison A, Schmidt M, Gamsiz ED, Chen WS,
+Donahue JP, Shur N, Jerskey BA, Phornphutkul C, Morrow EM. Expansion of the
+clinical phenotype associated with mutations in activity-dependent
+neuroprotective protein. J Med Genet. 2014 Sep;51(9):587-9. doi:
+10.1136/jmedgenet-2014-102444. Epub 2014 Jul 23. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vandeweyer G, Helsmoortel C, Van Dijck A, Vulto-van Silfhout AT, Coe BP,
+Bernier R, Gerdts J, Rooms L, van den Ende J, Bakshi M, Wilson M, Nordgren A,
+Hendon LG, Abdulrahman OA, Romano C, de Vries BB, Kleefstra T, Eichler EE, Van
+der Aa N, Kooy RF. The transcriptional regulator ADNP links the BAF (SWI/SNF)
+complexes with autism. Am J Med Genet C Semin Med Genet. 2014 Sep;166C(3):315-26.
+doi: 10.1002/ajmg.c.31413. Epub 2014 Aug 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Autism Spectrum Disorder
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Autism spectrum disorder
+Genetics
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

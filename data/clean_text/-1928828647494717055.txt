@@ -1,0 +1,158 @@
+Rapid-onset dystonia parkinsonism: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Rapid-onset dystonia parkinsonism
+URL of this page: https://medlineplus.gov/genetics/condition/rapid-onset-dystonia-parkinsonism/
+Rapid-onset dystonia parkinsonism
+Description
+Rapid-onset dystonia parkinsonism (sometimes referred to as RDP) is a rare movement disorder. "Rapid-onset" refers to the abrupt appearance of signs and symptoms over a period of hours to days. Dystonia is a condition characterized by involuntary, sustained muscle contractions. Parkinsonism can include tremors, unusually slow movement (bradykinesia), rigidity, an inability to hold the body upright and balanced (postural instability), and a shuffling walk that can cause falls.
+Rapid-onset dystonia parkinsonism causes movement abnormalities that can make it difficult to walk, talk, and carry out other activities of daily life. In people with this disorder, dystonia affects the arms and legs, causing muscle cramping and spasms. Facial muscles are often affected, resulting in problems with speech and swallowing. People with rapid-onset dystonia and parkinsonism may also have headaches; seizures; a distorted view of reality (psychosis); or difficulty processing, learning, and remembering information (cognitive impairment).
+The movement abnormalities associated with rapid-onset dystonia parkinsonism tend to begin near the top of the body and move downward. They affect the facial muscles first, then the arms, and finally the legs.
+The signs and symptoms of rapid-onset dystonia parkinsonism most commonly appear in adolescence or young adulthood. In some affected individuals, signs and symptoms can be triggered by an infection, physical stress (such as prolonged exercise), emotional stress, or alcohol consumption. The signs and symptoms tend to stabilize within about a month, but they typically do not improve much after that. In some people with this condition, the movement abnormalities abruptly worsen during a second episode several years later.
+Some people with rapid-onset dystonia parkinsonism have been diagnosed with anxiety, social phobias,
+depression
+, and seizures. It is unclear whether these disorders are related to the genetic changes that cause rapid-onset dystonia parkinsonism.
+Frequency
+Rapid-onset dystonia parkinsonism appears to be a rare disorder, although its exact prevalence is unknown. It has been diagnosed in individuals and families from the United States, Europe, and Korea.
+Causes
+Rapid-onset dystonia parkinsonism is caused by variants (also called mutations) in the
+ATP1A3
+gene. This gene provides instructions for making one part of a larger protein called Na+/K+ ATPase, also known as the sodium pump. This protein is critical for the normal function of nerve cells (neurons) in the brain. It transports charged atoms (ions) into and out of neurons, which is an essential part of the signaling process that controls muscle movement.
+Variants in the
+ATP1A3
+gene reduce activity of the Na+/K+ ATPase or make the protein unstable. Studies suggest that the defective protein is unable to transport ions normally, which disrupts the electrical activity of neurons in the brain. However, it is unclear how a malfunctioning Na+/K+ ATPase causes the movement abnormalities characteristic of rapid-onset dystonia parkinsonism.
+The signs and symptoms of rapid-onset dystonia parkinsonism can occur in people who do not have variants in the
+ATP1A3
+gene. The genetic cause of the disorder is unknown in these individuals. Researchers believe that a variant in at least one other gene, which has not been identified, can cause this disorder.
+Learn more about the gene associated with Rapid-onset dystonia parkinsonism
+ATP1A3
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the variant from
+one affected parent
+. Other cases result from
+new (de novo) variants
+in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals have no history of the disorder in their family.
+Not everyone who has an
+ATP1A3
+gene variant will develop the signs and symptoms of rapid-onset dystonia parkinsonism. It is unclear why some people with a gene variant develop movement abnormalities while others do not.
+Other Names for This Condition
+Dystonia 12
+DYT12
+RDP
+RODP
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Dystonia 12
+Genetic and Rare Diseases Information Center
+Rapid-onset dystonia-parkinsonism
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+DYSTONIA 12; DYT12
+Scientific Articles on PubMed
+PubMed
+References
+Brashear A, Butler IJ, Ozelius LJ, Kramer PI, Farlow MR, Breakefield XO,
+Dobyns WB. Rapid-onset dystonia-parkinsonism: a report of clinical, biochemical,
+and genetic studies in two families. Adv Neurol. 1998;78:335-9. No abstract
+available.
+Citation on PubMed
+Brashear A, DeLeon D, Bressman SB, Thyagarajan D, Farlow MR, Dobyns WB.
+Rapid-onset dystonia-parkinsonism in a second family. Neurology. 1997
+Apr;48(4):1066-9. doi: 10.1212/wnl.48.4.1066.
+Citation on PubMed
+Brashear A, Dobyns WB, de Carvalho Aguiar P, Borg M, Frijns CJ, Gollamudi S,
+Green A, Guimaraes J, Haake BC, Klein C, Linazasoro G, Munchau A, Raymond D,
+Riley D, Saunders-Pullman R, Tijssen MA, Webb D, Zaremba J, Bressman SB, Ozelius
+LJ. The phenotypic spectrum of rapid-onset dystonia-parkinsonism (RDP) and
+mutations in the ATP1A3 gene. Brain. 2007 Mar;130(Pt 3):828-35. doi:
+10.1093/brain/awl340. Epub 2007 Feb 4.
+Citation on PubMed
+Brashear A, Farlow MR, Butler IJ, Kasarskis EJ, Dobyns WB. Variable phenotype
+of rapid-onset dystonia-parkinsonism. Mov Disord. 1996 Mar;11(2):151-6. doi:
+10.1002/mds.870110206.
+Citation on PubMed
+Brashear A, Sweadner KJ, Haq I, Napoli E, Ozelius L. ATP1A3-Related
+Disorder. 2008 Feb 7 [updated 2024 Dec 5]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1115/
+Citation on PubMed
+de Carvalho Aguiar P, Sweadner KJ, Penniston JT, Zaremba J, Liu L, Caton M,
+Linazasoro G, Borg M, Tijssen MA, Bressman SB, Dobyns WB, Brashear A, Ozelius LJ.
+Mutations in the Na+/K+ -ATPase alpha3 gene ATP1A3 are associated with
+rapid-onset dystonia parkinsonism. Neuron. 2004 Jul 22;43(2):169-75. doi:
+10.1016/j.neuron.2004.06.028.
+Citation on PubMed
+Dobyns WB, Ozelius LJ, Kramer PL, Brashear A, Farlow MR, Perry TR, Walsh LE,
+Kasarskis EJ, Butler IJ, Breakefield XO. Rapid-onset dystonia-parkinsonism.
+Neurology. 1993 Dec;43(12):2596-602. doi: 10.1212/wnl.43.12.2596.
+Citation on PubMed
+Haq IU, Snively BM, Sweadner KJ, Suerken CK, Cook JF, Ozelius LJ, Miller C,
+McCall WV, Whitlow CT, Brashear A. Revising rapid-onset dystonia-parkinsonism:
+Broadening indications for ATP1A3 testing. Mov Disord. 2019 Oct;34(10):1528-1536.
+doi: 10.1002/mds.27801. Epub 2019 Jul 30.
+Citation on PubMed
+Kabakci K, Isbruch K, Schilling K, Hedrich K, de Carvalho Aguiar P, Ozelius
+LJ, Kramer PL, Schwarz MH, Klein C. Genetic heterogeneity in rapid onset
+dystonia-parkinsonism: description of a new family. J Neurol Neurosurg
+Psychiatry. 2005 Jun;76(6):860-2. doi: 10.1136/jnnp.2004.046730.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kramer PL, Mineta M, Klein C, Schilling K, de Leon D, Farlow MR, Breakefield
+XO, Bressman SB, Dobyns WB, Ozelius LJ, Brashear A. Rapid-onset
+dystonia-parkinsonism: linkage to chromosome 19q13. Ann Neurol. 1999
+Aug;46(2):176-82. doi: 10.1002/1531-8249(199908)46:23.0.co;2-2.
+Citation on PubMed
+Pittock SJ, Joyce C, O'Keane V, Hugle B, Hardiman MO, Brett F, Green AJ,
+Barton DE, King MD, Webb DW. Rapid-onset dystonia-parkinsonism: a clinical and
+genetic analysis of a new kindred. Neurology. 2000 Oct 10;55(7):991-5. doi:
+10.1212/wnl.55.7.991.
+Citation on PubMed
+Zaremba J, Mierzewska H, Lysiak Z, Kramer P, Ozelius LJ, Brashear A.
+Rapid-onset dystonia-parkinsonism: a fourth family consistent with linkage to
+chromosome 19q13. Mov Disord. 2004 Dec;19(12):1506-10. doi: 10.1002/mds.20258.
+Citation on PubMed
+Related Health Topics
+Dystonia
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Movement - uncontrolled or slow
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,147 @@
+Léri-Weill dyschondrosteosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Léri-Weill dyschondrosteosis
+URL of this page: https://medlineplus.gov/genetics/condition/leri-weill-dyschondrosteosis/
+Léri-Weill dyschondrosteosis
+Description
+Léri-Weill dyschondrosteosis is a disorder of bone growth. Affected individuals typically have shortening of the long bones in the arms and legs (mesomelia). As a result of the shortened leg bones, people with Leri-Weill dyschondrosteosis typically have short stature. Most people with the condition also have an abnormality of the wrist and forearm bones called Madelung deformity, which may cause pain and limit wrist movement. This abnormality usually appears in childhood or early adolescence. Other features of Léri-Weill dyschondrosteosis can include increased muscle mass (muscle hypertrophy); bowing of a bone in the lower leg called the tibia; a greater-than-normal angling of the elbow away from the body (increased carrying angle); and a high arched palate.
+Léri-Weill dyschondrosteosis occurs in both males and females, although its signs and symptoms tend to be more severe in females. Researchers believe that the more severe features may result from hormonal differences.
+Frequency
+The prevalence of Léri-Weill dyschondrosteosis is unknown. It is diagnosed more often in females than in males.
+Causes
+Most cases of Léri-Weill dyschondrosteosis result from changes involving the
+SHOX
+gene. The protein produced from this gene plays a role in bone development and is particularly important for the growth and maturation of bones in the arms and legs. The most common cause of Léri-Weill dyschondrosteosis is a deletion of the entire
+SHOX
+gene. Other genetic changes that can cause the disorder include mutations in the
+SHOX
+gene or deletions of nearby genetic material that normally helps regulate the gene's activity. These changes reduce the amount of SHOX protein that is produced. A shortage of this protein disrupts normal bone development and growth, which underlies the major features of Léri-Weill dyschondrosteosis.
+In affected people who do not have a genetic change involving the
+SHOX
+gene, the cause of the condition is unknown.
+Learn more about the gene associated with Léri-Weill dyschondrosteosis
+SHOX
+Inheritance
+Léri-Weill dyschondrosteosis has a pseudoautosomal dominant pattern of inheritance. The
+SHOX
+gene is located on both the X and Y chromosomes (sex chromosomes) in an area known as the pseudoautosomal region. Although many genes are unique to either the X or Y chromosome, genes in the pseudoautosomal region are present on both sex chromosomes. As a result, both females (who have two X chromosomes) and males (who have one X and one Y chromosome) normally have two functional copies of the
+SHOX
+gene in each cell. The inheritance pattern of Léri-Weill dyschondrosteosis is described as dominant because one missing or altered copy of the
+SHOX
+gene in each cell is sufficient to cause the disorder. In females, the condition results when the gene is missing or altered on one of the two copies of the X chromosome; in males, it results when the gene is missing or altered on either the X chromosome or the Y chromosome.
+A related skeletal disorder called
+Langer mesomelic dysplasia
+occurs when both copies of the
+SHOX
+gene are mutated in each cell. This disorder has signs and symptoms that are similar to, but typically more severe than, those of Léri-Weill dyschondrosteosis.
+Other Names for This Condition
+DCO
+Dyschondrosteosis
+Leri-Weill dyschondrosteosis
+LWD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Leri-Weill dyschondrosteosis
+Genetic and Rare Diseases Information Center
+Léri-Weill dyschondrosteosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+LERI-WEILL DYSCHONDROSTEOSIS; LWD
+Scientific Articles on PubMed
+PubMed
+References
+Belin V, Cusin V, Viot G, Girlich D, Toutain A, Moncla A, Vekemans M, Le
+Merrer M, Munnich A, Cormier-Daire V. SHOX mutations in dyschondrosteosis
+(Leri-Weill syndrome). Nat Genet. 1998 May;19(1):67-9. doi: 10.1038/ng0198-67.
+Citation on PubMed
+Benito-Sanz S, Barroso E, Heine-Suner D, Hisado-Oliva A, Romanelli V, Rosell
+J, Aragones A, Caimari M, Argente J, Ross JL, Zinn AR, Gracia R, Lapunzina P,
+Campos-Barros A, Heath KE. Clinical and molecular evaluation of SHOX/PAR1
+duplications in Leri-Weill dyschondrosteosis (LWD) and idiopathic short stature
+(ISS). J Clin Endocrinol Metab. 2011 Feb;96(2):E404-12. doi:
+10.1210/jc.2010-1689. Epub 2010 Dec 8.
+Citation on PubMed
+Benito-Sanz S, Gorbenko del Blanco D, Huber C, Thomas NS, Aza-Carmona M,
+Bunyan D, Maloney V, Argente J, Cormier-Daire V, Campos-Barros A, Heath KE.
+Characterization of SHOX deletions in Leri-Weill dyschondrosteosis (LWD) reveals
+genetic heterogeneity and no recombination hotspots. Am J Hum Genet. 2006
+Aug;79(2):409-14; author reply 414. doi: 10.1086/506390. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Benito-Sanz S, Thomas NS, Huber C, Gorbenko del Blanco D, Aza-Carmona M,
+Crolla JA, Maloney V, Rappold G, Argente J, Campos-Barros A, Cormier-Daire V,
+Heath KE. A novel class of Pseudoautosomal region 1 deletions downstream of SHOX
+is associated with Leri-Weill dyschondrosteosis. Am J Hum Genet. 2005
+Oct;77(4):533-44. doi: 10.1086/449313. Epub 2005 Aug 15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Binder G, Renz A, Martinez A, Keselman A, Hesse V, Riedl SW, Hausler G,
+Fricke-Otto S, Frisch H, Heinrich JJ, Ranke MB. SHOX haploinsufficiency and
+Leri-Weill dyschondrosteosis: prevalence and growth failure in relation to
+mutation, sex, and degree of wrist deformity. J Clin Endocrinol Metab. 2004
+Sep;89(9):4403-8. doi: 10.1210/jc.2004-0591.
+Citation on PubMed
+Hirschfeldova K, Solc R, Baxova A, Zapletalova J, Kebrdlova V, Gaillyova R,
+Prasilova S, Soukalova J, Mihalova R, Lnenicka P, Florianova M, Stekrova J. SHOX
+gene defects and selected dysmorphic signs in patients of idiopathic short
+stature and Leri-Weill dyschondrosteosis. Gene. 2012 Jan 10;491(2):123-7. doi:
+10.1016/j.gene.2011.10.011. Epub 2011 Oct 14.
+Citation on PubMed
+Ross JL, Kowal K, Quigley CA, Blum WF, Cutler GB Jr, Crowe B, Hovanes K, Elder
+FF, Zinn AR. The phenotype of short stature homeobox gene (SHOX) deficiency in
+childhood: contrasting children with Leri-Weill dyschondrosteosis and Turner
+syndrome. J Pediatr. 2005 Oct;147(4):499-507. doi: 10.1016/j.jpeds.2005.04.069.
+Citation on PubMed
+Salmon-Musial AS, Rosilio M, David M, Huber C, Pichot E, Cormier-Daire V,
+Nicolino M. Clinical and radiological characteristics of 22 children with SHOX
+anomalies and familial short stature suggestive of Leri-Weill Dyschondrosteosis.
+Horm Res Paediatr. 2011;76(3):178-85. doi: 10.1159/000329359. Epub 2011 Sep 10.
+Citation on PubMed
+Shears DJ, Vassal HJ, Goodman FR, Palmer RW, Reardon W, Superti-Furga A,
+Scambler PJ, Winter RM. Mutation and deletion of the pseudoautosomal gene SHOX
+cause Leri-Weill dyschondrosteosis. Nat Genet. 1998 May;19(1):70-3. doi:
+10.1038/ng0198-70.
+Citation on PubMed
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Carrying angle of the elbow - excessive
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

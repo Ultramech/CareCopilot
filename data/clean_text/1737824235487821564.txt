@@ -1,0 +1,132 @@
+Wilson disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Wilson disease
+URL of this page: https://medlineplus.gov/genetics/condition/wilson-disease/
+Wilson disease
+Description
+Wilson disease is an inherited disorder in which excessive amounts of copper accumulate in the body, particularly in the liver, brain, and eyes. The signs and symptoms of Wilson disease usually first appear between the ages of 6 and 45, but they most often begin during the teenage years. The features of this condition include a combination of liver disease and neurological and psychiatric problems.
+Liver disease is typically the initial feature of Wilson disease in affected children and young adults; individuals diagnosed at an older age usually do not have symptoms of liver problems, although they may have very mild liver disease. The signs and symptoms of liver disease include yellowing of the skin or whites of the eyes (jaundice), fatigue, loss of appetite, and abdominal swelling.
+Nervous system or psychiatric problems are often the initial features in individuals diagnosed in adulthood and commonly occur in young adults with Wilson disease. Signs and symptoms of these problems can include clumsiness, tremors, difficulty walking, speech problems, impaired thinking ability,
+depression
+, anxiety, and mood swings.
+In many individuals with Wilson disease, copper deposits in the front surface of the eye (the
+cornea
+) form a green-to-brownish ring, called the Kayser-Fleischer ring, that surrounds the colored part of the eye. Abnormalities in eye movements, such as a restricted ability to gaze upwards, may also occur.
+Frequency
+Wilson disease is a rare disorder that affects approximately 1 in 30,000 individuals.
+Causes
+Wilson disease is caused by variants (also known as mutations) in the
+ATP7B
+gene. This gene provides instructions for making a protein called copper-transporting ATPase 2, which plays a role in the transport of copper from the liver to other parts of the body. Copper is necessary for many cellular functions, but it is toxic when present in excessive amounts. The copper-transporting ATPase 2 protein is particularly important for the elimination of excess copper from the body. Variants in the
+ATP7B
+gene prevent the transport protein from functioning properly. With a shortage of functional protein, excess copper is not removed from the body. As a result, copper accumulates to toxic levels that can damage tissues and organs, particularly the liver and brain.
+Research indicates that a normal variation in the
+PRNP
+gene may modify the course of Wilson disease. The
+PRNP
+gene provides instructions for making prion protein, which is active in the brain and other tissues and appears to be involved in transporting copper. Studies have focused on the effects of a
+PRNP
+gene variation that affects position 129 of the prion protein. At this position, people can have either the protein building block (
+amino acid
+) methionine or the amino acid valine. Among people who have variants in the
+ATP7B
+gene, it appears that having methionine instead of valine at position 129 of the prion protein is associated with delayed onset of symptoms and an increased occurrence of neurological symptoms, particularly tremors. Larger studies are needed, however, before the effects of this
+PRNP
+gene variation on Wilson disease can be established.
+Learn more about the genes associated with Wilson disease
+ATP7B
+PRNP
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Copper storage disease
+Hepatolenticular degeneration syndrome
+WD
+Wilson's disease
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Wilson disease
+Genetic and Rare Diseases Information Center
+Wilson disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+WILSON DISEASE; WND
+Scientific Articles on PubMed
+PubMed
+References
+Aggarwal A, Bhatt M. Update on Wilson disease. Int Rev Neurobiol.
+2013;110:313-48. doi: 10.1016/B978-0-12-410502-7.00014-4.
+Citation on PubMed
+Coffey AJ, Durkie M, Hague S, McLay K, Emmerson J, Lo C, Klaffke S, Joyce CJ,
+Dhawan A, Hadzic N, Mieli-Vergani G, Kirk R, Elizabeth Allen K, Nicholl D, Wong
+S, Griffiths W, Smithson S, Giffin N, Taha A, Connolly S, Gillett GT, Tanner S,
+Bonham J, Sharrack B, Palotie A, Rattray M, Dalton A, Bandmann O. A genetic study
+of Wilson's disease in the United Kingdom. Brain. 2013 May;136(Pt 5):1476-87.
+doi: 10.1093/brain/awt035. Epub 2013 Mar 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+Das SK, Ray K. Wilson's disease: an update. Nat Clin Pract Neurol. 2006
+Sep;2(9):482-93. doi: 10.1038/ncpneuro0291.
+Citation on PubMed
+Ferenci P. Pathophysiology and clinical features of Wilson disease. Metab
+Brain Dis. 2004 Dec;19(3-4):229-39. doi: 10.1023/b:mebr.0000043973.10494.85.
+Citation on PubMed
+Gitlin JD. Wilson disease. Gastroenterology. 2003 Dec;125(6):1868-77. doi:
+10.1053/j.gastro.2003.05.010. No abstract available.
+Citation on PubMed
+Kitzberger R, Madl C, Ferenci P. Wilson disease. Metab Brain Dis. 2005
+Dec;20(4):295-302. doi: 10.1007/s11011-005-7910-8.
+Citation on PubMed
+Langner C, Denk H. Wilson disease. Virchows Arch. 2004 Aug;445(2):111-8. doi:
+10.1007/s00428-004-1047-8. Epub 2004 Jun 17.
+Citation on PubMed
+Pandit A, Bavdekar A, Bhave S. Wilson's disease. Indian J Pediatr. 2002
+Sep;69(9):785-91. doi: 10.1007/BF02723693.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Wilson Disease
+MEDICAL ENCYCLOPEDIA
+Genetics
+Wilson disease
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

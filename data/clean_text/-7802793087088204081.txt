@@ -1,0 +1,125 @@
+Bare lymphocyte syndrome type I: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Bare lymphocyte syndrome type I
+URL of this page: https://medlineplus.gov/genetics/condition/bare-lymphocyte-syndrome-type-i/
+Bare lymphocyte syndrome type I
+Description
+Bare lymphocyte syndrome type I (BLS I) is an inherited disorder of the immune system (primary immunodeficiency). Immunodeficiencies are conditions in which the immune system is not able to protect the body effectively from foreign invaders such as bacteria or viruses. Starting in childhood, most people with BLS I develop recurrent bacterial infections in the lungs and airways (
+respiratory tract
+). These recurrent infections can lead to a condition called bronchiectasis, which damages the passages leading from the windpipe to the lungs (bronchi) and can cause breathing problems.
+Many people with BLS I also have open sores (ulcers) on their skin, usually on the face, arms, and legs. These ulcers typically develop in adolescence or young adulthood. Some people with BLS I have no symptoms of the condition.
+People with BLS I have a shortage of specialized immune proteins called
+major histocompatibility complex (MHC) class I proteins
+on cells, including infection-fighting white blood cells (lymphocytes), which is where the condition got its name.
+Frequency
+BLS I is a rare disorder with an unknown prevalence. About 30 affected individuals have been described in the medical literature. The condition is likely underdiagnosed, because doctors may not investigate the underlying cause of respiratory tract infections.
+Causes
+BLS I is usually caused by mutations in the
+TAP1
+or
+TAP2
+gene. Each of these genes provides instructions for making a protein that plays a role in helping the immune system recognize and fight infections. In particular, the TAP1 and TAP2 proteins aid the function of
+MHC class I proteins
+.
+The TAP1 and TAP2 proteins attach (bind) together to form a protein complex called transporter associated with antigen processing (TAP) complex. This complex, which is found in the membrane of a cell structure called the
+endoplasmic reticulum
+, moves (transports) protein fragments (peptides) from foreign invaders into the endoplasmic reticulum. There, the peptides are attached to MHC class I proteins. The peptide-bound MHC class I proteins are then moved to the surface of the cell so that
+specialized immune system cells
+can interact with them. When these immune system cells recognize the peptides as harmful, they launch an immune response to get rid of the foreign invaders.
+Mutations in the
+TAP1
+or
+TAP2
+gene prevent formation of the TAP complex, which impairs the transport of peptides into the endoplasmic reticulum. Because there are no peptides for MHC class I proteins to bind, they are broken down, which results in a shortage of MHC class I proteins on the surface of cells. A lack of these proteins impairs the body's immune response to bacteria, leading to recurrent bacterial infections. Researchers are unsure why people with BLS I do not also get viral infections, but they suspect that other immune processes are able to recognize and fight viruses. It is also not clear how
+TAP1
+and
+TAP2
+gene mutations are involved in the development of skin ulcers.
+Mutations in another gene involved in the attachment of peptides to MHC class I proteins very rarely cause BLS I.
+Learn more about the genes associated with Bare lymphocyte syndrome type I
+TAP1
+TAP2
+Additional Information from NCBI Gene:
+TAPBP
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+HLA class I deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: MHC class I deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MHC CLASS I DEFICIENCY 1; MHC1D1
+Scientific Articles on PubMed
+PubMed
+References
+Eggensperger S, Tampe R. The transporter associated with antigen processing: a
+key player in adaptive immunity. Biol Chem. 2015 Sep;396(9-10):1059-72. doi:
+10.1515/hsz-2014-0320.
+Citation on PubMed
+Gadola SD, Moins-Teisserenc HT, Trowsdale J, Gross WL, Cerundolo V. TAP
+deficiency syndrome. Clin Exp Immunol. 2000 Aug;121(2):173-8. doi:
+10.1046/j.1365-2249.2000.01264.x. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hanalioglu D, Ayvaz DC, Ozgur TT, van der Burg M, Sanal O, Tezcan I. A novel
+mutation in TAP1 gene leading to MHC class I deficiency: Report of two cases and
+review of the literature. Clin Immunol. 2017 May;178:74-78. doi:
+10.1016/j.clim.2017.01.011. Epub 2017 Feb 2.
+Citation on PubMed
+Parcej D, Tampe R. ABC proteins in antigen translocation and viral inhibition.
+Nat Chem Biol. 2010 Aug;6(8):572-80. doi: 10.1038/nchembio.410.
+Citation on PubMed
+Villa-Forte A, de la Salle H, Fricker D, Hentges F, Zimmer J. HLA class I
+deficiency syndrome mimicking Wegener's granulomatosis. Arthritis Rheum. 2008
+Aug;58(8):2579-82. doi: 10.1002/art.23675.
+Citation on PubMed
+Zimmer J, Andres E, Donato L, Hanau D, Hentges F, de la Salle H. Clinical and
+immunological aspects of HLA class I deficiency. QJM. 2005 Oct;98(10):719-27.
+doi: 10.1093/qjmed/hci112. Epub 2005 Aug 8.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Immunodeficiency disorders
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

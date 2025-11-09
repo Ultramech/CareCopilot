@@ -1,0 +1,125 @@
+Fucosidosis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Fucosidosis
+URL of this page: https://medlineplus.gov/genetics/condition/fucosidosis/
+Fucosidosis
+Description
+Fucosidosis is a condition that affects many areas of the body, especially the brain. The symptoms of fucosidosis can vary from person to person. Affected individuals have intellectual disabilities that worsen with age. Over time, people with this condition tend to lose skills they had previously learned, such as sitting, standing, walking, or talking. Additional signs and symptoms of fucosidosis can include slow growth, abnormal bone development (dysostosis multiplex), and rigid or stiff muscles (spasticity). People with fucosidosis may also have clusters of enlarged blood vessels that form small, dark red spots on the skin (angiokeratomas) and distinctive facial features that are often described as "coarse." Additional features of fucosidosis can include frequent respiratory infections, an enlarged liver and spleen (hepatosplenomegaly), and seizures.
+In the past, fucosidosis has been divided into two types based on the symptoms and age of onset. Type 1 was used to describe the more severe form of the disorder, with symptoms typically appearing in infancy. Type 2 was used to describe cases with milder symptoms and a slower progression. Currently, many researchers consider the condition to be a spectrum with a wide range in severity.
+Frequency
+Fucosidosis is a rare condition. As of 2023, fewer than 200 cases have been reported in the literature. The highest incidence of fucosidosis has been described in Italy, Cuba, and in certain populations of the Southwestern United States.
+Causes
+Variants (also called mutations) in the
+FUCA1
+gene cause fucosidosis. The
+FUCA1
+gene provides instructions for making an enzyme called alpha-L-fucosidase. This enzyme plays a role in the breakdown of sugar molecules (oligosaccharides) that are attached to certain fats (glycolipids) and proteins (glycoproteins). Alpha-L-fucosidase is responsible for cutting off (cleaving) a sugar molecule called fucose toward the end of the breakdown process.
+FUCA1
+gene variants severely reduce or eliminate the activity of the alpha-L-fucosidase enzyme. A loss of enzyme activity results in an incomplete breakdown of glycolipids and glycoproteins. These compounds gradually accumulate within various cells and tissues throughout the body. Brain cells are particularly sensitive to the buildup of glycolipids and glycoproteins. Damage to brain cells is thought to cause the neurological symptoms of fucosidosis. Glycolipids and glycoproteins also accumulate in other organs such as the liver, spleen, and skin.
+Alpha-L-fucosidase is found in the lysosomes. Lysosomes are compartments in the cell that digest and recycle different types of molecules. Conditions like fucosidosis, that cause molecules to build up inside the lysosomes, are known as lysosomal storage disorders.
+Learn more about the gene associated with Fucosidosis
+FUCA1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Alpha-L-fucosidase deficiency
+Fucosidase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Fucosidosis
+Genetic and Rare Diseases Information Center
+Fucosidosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+FUCOSIDOSIS
+Scientific Articles on PubMed
+PubMed
+References
+Ben Turkia H, Tebib N, Azzouz H, Abdelmoula MS, Bouguila J, Sanhaji H, Miladi
+N, Maire I, Caillaud C, Kaabachi N, Ben Dridi MF. Phenotypic spectrum of
+fucosidosis in Tunisia. J Inherit Metab Dis. 2008 Dec;31 Suppl 2:S313-6. doi:
+10.1007/s10545-008-0891-0. Epub 2008 Jul 27.
+Citation on PubMed
+Bharati A, Higgins C, Ellis I, Wraith J. Fucosidosis: a therapeutic challenge.
+Pediatr Dermatol. 2007 Jul-Aug;24(4):442-3. doi:
+10.1111/j.1525-1470.2007.00478.x. No abstract available.
+Citation on PubMed
+Cragg H, Williamson M, Young E, O'Brien J, Alhadeff J, Fang-Kircher S, Paschke
+E, Winchester B. Fucosidosis: genetic and biochemical analysis of eight cases. J
+Med Genet. 1997 Feb;34(2):105-10. doi: 10.1136/jmg.34.2.105.
+Citation on PubMed
+or
+Free article on PubMed Central
+Galluzzi P, Rufa A, Balestri P, Cerase A, Federico A. MR brain imaging of
+fucosidosis type I. AJNR Am J Neuroradiol. 2001 Apr;22(4):777-80.
+Citation on PubMed
+Kanitakis J, Allombert C, Doebelin B, Deroo-Berger MC, Grande S, Blanc S,
+Claudy A. Fucosidosis with angiokeratoma. Immunohistochemical &
+electronmicroscopic study of a new case and literature review. J Cutan Pathol.
+2005 Aug;32(7):506-11. doi: 10.1111/j.0303-6987.2005.00366.x.
+Citation on PubMed
+Kaur A, Dhaliwal AS, Raynes H, Naidich TP, Kaufman DM. Diagnosis and
+Supportive Management of Fucosidosis: A Case Report. Cureus. 2019 Nov
+12;11(11):e6139. doi: 10.7759/cureus.6139.
+Citation on PubMed
+Puente-Ruiz N, Ellis I, Bregu M, Chen C, Church HJ, Tylee KL, Gladston S,
+Hackett R, Oldham A, Virk S, Hendriksz C, Morris AAM, Jones SA, Stepien KM.
+Long-term outcomes in two adult siblings with Fucosidosis - Diagnostic odyssey
+and clinical manifestations. Mol Genet Metab Rep. 2023 Sep 27;37:101009. doi:
+10.1016/j.ymgmr.2023.101009. eCollection 2023 Dec.
+Citation on PubMed
+Stepien KM, Ciara E, Jezela-Stanek A. Fucosidosis-Clinical Manifestation,
+Long-Term Outcomes, and Genetic Profile-Review and Case Series. Genes (Basel).
+2020 Nov 22;11(11):1383. doi: 10.3390/genes11111383.
+Citation on PubMed
+Willems PJ, Gatti R, Darby JK, Romeo G, Durand P, Dumon JE, O'Brien JS.
+Fucosidosis revisited: a review of 77 patients. Am J Med Genet. 1991
+Jan;38(1):111-31. doi: 10.1002/ajmg.1320380125.
+Citation on PubMed
+Related Health Topics
+Carbohydrate Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Neurologic Diseases
+Seizures
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

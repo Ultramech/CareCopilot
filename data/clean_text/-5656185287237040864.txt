@@ -1,0 +1,259 @@
+Parkinson's disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Parkinson's disease
+URL of this page: https://medlineplus.gov/genetics/condition/parkinsons-disease/
+Parkinson's disease
+Description
+Parkinson's disease is a progressive disorder of the nervous system. The disorder affects several regions of the brain, especially an area called the substantia nigra that controls balance and movement.
+Often the first symptom of Parkinson's disease is trembling or shaking (tremor) of a limb, especially when the body is at rest. Typically, the tremor begins on one side of the body, usually in one hand. Tremors can also affect the arms, legs, feet, and face. Other characteristic symptoms of Parkinson's disease include rigidity or stiffness of the limbs and torso, slow movement (bradykinesia) or an inability to move (akinesia), and impaired balance and coordination (postural instability). These symptoms worsen slowly over time.
+Parkinson's disease can also affect emotions and thinking ability (cognition). Some affected individuals develop psychiatric conditions such as
+depression
+and visual hallucinations. People with Parkinson's disease also have an increased risk of developing dementia, which is a decline in intellectual functions including judgment and memory.
+Generally, Parkinson's disease that begins after age 50 is called late-onset disease. The condition is described as early-onset disease if signs and symptoms begin before age 50. Early-onset cases that begin before age 20 are sometimes referred to as juvenile-onset Parkinson's disease.
+Frequency
+Parkinson's disease affects more than 1 million people in North America and more than 4 million people worldwide. In the United States, Parkinson's disease occurs in approximately 13 per 100,000 people, and about 60,000 new cases are identified each year.
+The late-onset form is the most common type of Parkinson's disease, and the risk of developing this condition increases with age. Because more people are living longer, the number of people with this disease is expected to increase in coming decades.
+Causes
+Most cases of Parkinson's disease probably result from a complex interaction of environmental and genetic factors. These cases are classified as sporadic and occur in people with no apparent history of the disorder in their family. The cause of these sporadic cases remains unclear.
+Approximately 15 percent of people with Parkinson's disease have a family history of this disorder. Familial cases of Parkinson's disease can be caused by variants (also called mutations) in the
+LRRK2
+,
+PARK7
+,
+PINK1
+,
+PRKN
+, or
+SNCA
+gene, or by alterations in genes that have not been identified. Variants in some of these genes may also play a role in cases that appear to be sporadic (not inherited).
+Alterations in certain genes, including
+GBA1
+and
+UCHL1
+, do not cause Parkinson's disease but appear to modify the risk of developing the condition in some families. Variations in other genes that have not been identified probably also contribute to Parkinson's disease risk.
+It is not fully understood how genetic changes cause Parkinson's disease or influence the risk of developing the disorder. Many Parkinson's disease symptoms occur when nerve cells (neurons) in the substantia nigra die or become impaired. Normally, these cells produce a chemical messenger called
+dopamine
+, which transmits signals within the brain to produce smooth physical movements. When these dopamine-producing neurons are damaged or die, communication between the brain and muscles weakens. Eventually, the brain becomes unable to control muscle movement.
+Some gene variants appear to disturb the cell machinery that breaks down (degrades) unwanted proteins in dopamine-producing neurons. As a result, undegraded proteins accumulate, leading to the impairment or death of these cells. Other variants may affect the function of
+mitochondria
+, the energy-producing structures within cells. As a byproduct of energy production, mitochondria make unstable molecules called free radicals that can damage cells. Cells normally counteract the effects of free radicals before they cause damage, but variants can disrupt this process. As a result, free radicals may accumulate and impair or kill dopamine-producing neurons.
+In most cases of Parkinson's disease, protein deposits called
+Lewy bodies
+appear in dead or dying dopamine-producing neurons. (When Lewy bodies are not present, the condition is sometimes referred to as parkinsonism.) It is unclear whether Lewy bodies play a role in killing nerve cells or if they are part of the cells' response to the disease.
+Learn more about the genes associated with Parkinson's disease
+GBA1
+LRRK2
+PARK7
+PINK1
+PRKN
+SNCA
+UCHL1
+Additional Information from NCBI Gene:
+ATP13A2
+VPS35
+Inheritance
+Most cases of Parkinson's disease occur in people with no apparent family history of the disorder. These sporadic cases may not be inherited, or they may have an inheritance pattern that is unknown.
+Among familial cases of Parkinson's disease, the inheritance pattern differs depending on the gene that is altered. If the
+LRRK2
+or
+SNCA
+gene is involved, the disorder is inherited in an
+autosomal dominant pattern
+, which means one copy of an altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+If the
+PARK7
+,
+PINK1
+, or
+PRKN
+gene is involved, Parkinson's disease is inherited in an
+autosomal recessive pattern
+. This type of inheritance means that both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+When genetic alterations modify the risk of developing Parkinson's disease, the inheritance pattern is usually unknown.
+Other Names for This Condition
+Parkinson disease
+PD
+Primary parkinsonism
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal dominant Parkinson disease 1
+Genetic Testing Registry: Autosomal dominant Parkinson disease 4
+Genetic Testing Registry: Autosomal dominant Parkinson disease 8
+Genetic Testing Registry: Autosomal recessive early-onset Parkinson disease 6
+Genetic Testing Registry: Autosomal recessive early-onset Parkinson disease 7
+Genetic Testing Registry: Autosomal recessive juvenile Parkinson disease 2
+Genetic Testing Registry: Autosomal recessive Parkinson disease 14
+Genetic Testing Registry: Parkinson disease 11, autosomal dominant, susceptibility to
+Genetic Testing Registry: Parkinson disease 13, autosomal dominant, susceptibility to
+Genetic Testing Registry: Parkinson disease 18, autosomal dominant, susceptibility to
+Genetic Testing Registry: Parkinson disease 3, autosomal dominant
+Genetic Testing Registry: Parkinson disease 5, autosomal dominant, susceptibility to
+Genetic Testing Registry: Parkinsonian-pyramidal syndrome
+Genetic Testing Registry: Parkinson disease 10
+Genetic Testing Registry: Parkinson disease 12
+Genetic Testing Registry: Parkinson disease 16
+Genetic Testing Registry: Parkinson disease 17
+Genetic Testing Registry: Parkinson disease, late-onset
+Genetic Testing Registry: Parkinson disease, mitochondrial
+Genetic and Rare Diseases Information Center
+Parkinson disease 17
+Parkinson disease 2, autosomal recessive juvenile
+Parkinson disease 6, autosomal recessive early-onset
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PARKINSON DISEASE, LATE-ONSET; PD
+PARKINSON DISEASE 1, AUTOSOMAL DOMINANT; PARK1
+PARKINSON DISEASE, MITOCHONDRIAL
+PARKINSON DISEASE 2, AUTOSOMAL RECESSIVE JUVENILE; PARK2
+PARKINSON DISEASE 15, AUTOSOMAL RECESSIVE EARLY-ONSET; PARK15
+PARKINSON DISEASE 12; PARK12
+PARKINSON DISEASE 3, AUTOSOMAL DOMINANT; PARK3
+PARKINSON DISEASE 10; PARK10
+PARKINSON DISEASE 8, AUTOSOMAL DOMINANT; PARK8
+PARKINSON DISEASE 6, AUTOSOMAL RECESSIVE EARLY-ONSET; PARK6
+PARKINSON DISEASE 11, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO; PARK11
+PARKINSON DISEASE 4, AUTOSOMAL DOMINANT; PARK4
+PARKINSON DISEASE 7, AUTOSOMAL RECESSIVE EARLY-ONSET; PARK7
+PARKINSON DISEASE 13, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO; PARK13
+PARKINSON DISEASE 16; PARK16
+PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO; PARK5
+PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO; PARK18
+PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE; PARK14
+PARKINSON DISEASE 17; PARK17
+Scientific Articles on PubMed
+PubMed
+References
+Abou-Sleiman PM, Muqit MM, Wood NW. Expanding insights of mitochondrial
+dysfunction in Parkinson's disease. Nat Rev Neurosci. 2006 Mar;7(3):207-19. doi:
+10.1038/nrn1868.
+Citation on PubMed
+Cookson MR, Bandmann O. Parkinson's disease: insights from pathways. Hum Mol
+Genet. 2010 Apr 15;19(R1):R21-7. doi: 10.1093/hmg/ddq167. Epub 2010 Apr 26.
+Citation on PubMed
+or
+Free article on PubMed Central
+Corti O, Lesage S, Brice A. What genetics tells us about the causes and
+mechanisms of Parkinson's disease. Physiol Rev. 2011 Oct;91(4):1161-218. doi:
+10.1152/physrev.00022.2010.
+Citation on PubMed
+Farrer MJ. Genetics of Parkinson disease: paradigm shifts and future
+prospects. Nat Rev Genet. 2006 Apr;7(4):306-18. doi: 10.1038/nrg1831.
+Citation on PubMed
+Gasser T. Genetics of Parkinson's disease. Curr Opin Neurol. 2005
+Aug;18(4):363-9. doi: 10.1097/01.wco.0000170951.08924.3d.
+Citation on PubMed
+Hardy J, Cai H, Cookson MR, Gwinn-Hardy K, Singleton A. Genetics of
+Parkinson's disease and parkinsonism. Ann Neurol. 2006 Oct;60(4):389-98. doi:
+10.1002/ana.21022.
+Citation on PubMed
+Huang Y, Cheung L, Rowe D, Halliday G. Genetic contributions to Parkinson's
+disease. Brain Res Brain Res Rev. 2004 Aug;46(1):44-70. doi:
+10.1016/j.brainresrev.2004.04.007.
+Citation on PubMed
+Jain S, Wood NW, Healy DG. Molecular genetic pathways in Parkinson's disease:
+a review. Clin Sci (Lond). 2005 Oct;109(4):355-64. doi: 10.1042/CS20050106.
+Citation on PubMed
+Klein C, Schneider SA, Lang AE. Hereditary parkinsonism: Parkinson disease
+look-alikes--an algorithm for clinicians to "PARK" genes and beyond. Mov Disord.
+2009 Oct 30;24(14):2042-58. doi: 10.1002/mds.22675.
+Citation on PubMed
+Lewthwaite AJ, Nicholl DJ. Genetics of parkinsonism. Curr Neurol Neurosci Rep.
+2005 Sep;5(5):397-404. doi: 10.1007/s11910-005-0064-6.
+Citation on PubMed
+Morris HR. Genetics of Parkinson's disease. Ann Med. 2005;37(2):86-96. doi:
+10.1080/07853890510007269.
+Citation on PubMed
+Nuytemans K, Theuns J, Cruts M, Van Broeckhoven C. Genetic etiology of
+Parkinson disease associated with mutations in the SNCA, PARK2, PINK1, PARK7, and
+LRRK2 genes: a mutation update. Hum Mutat. 2010 Jul;31(7):763-80. doi:
+10.1002/humu.21277.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pankratz N, Foroud T. Genetics of Parkinson disease. NeuroRx. 2004
+Apr;1(2):235-42. doi: 10.1602/neurorx.1.2.235.
+Citation on PubMed
+or
+Free article on PubMed Central
+Samii A, Nutt JG, Ransom BR. Parkinson's disease. Lancet. 2004 May
+29;363(9423):1783-93. doi: 10.1016/S0140-6736(04)16305-8.
+Citation on PubMed
+Sidransky E, Nalls MA, Aasly JO, Aharon-Peretz J, Annesi G, Barbosa ER,
+Bar-Shira A, Berg D, Bras J, Brice A, Chen CM, Clark LN, Condroyer C, De Marco
+EV, Durr A, Eblan MJ, Fahn S, Farrer MJ, Fung HC, Gan-Or Z, Gasser T,
+Gershoni-Baruch R, Giladi N, Griffith A, Gurevich T, Januario C, Kropp P, Lang
+AE, Lee-Chen GJ, Lesage S, Marder K, Mata IF, Mirelman A, Mitsui J, Mizuta I,
+Nicoletti G, Oliveira C, Ottman R, Orr-Urtreger A, Pereira LV, Quattrone A,
+Rogaeva E, Rolfs A, Rosenbaum H, Rozenberg R, Samii A, Samaddar T, Schulte C,
+Sharma M, Singleton A, Spitz M, Tan EK, Tayebi N, Toda T, Troiano AR, Tsuji S,
+Wittstock M, Wolfsberg TG, Wu YR, Zabetian CP, Zhao Y, Ziegler SG. Multicenter
+analysis of glucocerebrosidase mutations in Parkinson's disease. N Engl J Med.
+2009 Oct 22;361(17):1651-61. doi: 10.1056/NEJMoa0901281.
+Citation on PubMed
+or
+Free article on PubMed Central
+Singleton AB. Altered alpha-synuclein homeostasis causing Parkinson's disease:
+the potential roles of dardarin. Trends Neurosci. 2005 Aug;28(8):416-21. doi:
+10.1016/j.tins.2005.05.009.
+Citation on PubMed
+Tan EK, Skipper LM. Pathogenic mutations in Parkinson disease. Hum Mutat. 2007
+Jul;28(7):641-53. doi: 10.1002/humu.20507.
+Citation on PubMed
+Van Den Eeden SK, Tanner CM, Bernstein AL, Fross RD, Leimpeter A, Bloch DA,
+Nelson LM. Incidence of Parkinson's disease: variation by age, gender, and
+race/ethnicity. Am J Epidemiol. 2003 Jun 1;157(11):1015-22. doi:
+10.1093/aje/kwg068.
+Citation on PubMed
+Vila M, Przedborski S. Genetic clues to the pathogenesis of Parkinson's
+disease. Nat Med. 2004 Jul;10 Suppl:S58-62. doi: 10.1038/nm1068.
+Citation on PubMed
+von Bohlen und Halbach O, Schober A, Krieglstein K. Genes, proteins, and
+neurotoxins involved in Parkinson's disease. Prog Neurobiol. 2004
+Jun;73(3):151-77. doi: 10.1016/j.pneurobio.2004.05.002.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Lewy Body Dementia
+Parkinson's Disease
+MEDICAL ENCYCLOPEDIA
+Genetics
+Parkinson disease
+Parkinson's disease - resources
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,116 @@
+Steatocystoma multiplex: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Steatocystoma multiplex
+URL of this page: https://medlineplus.gov/genetics/condition/steatocystoma-multiplex/
+Steatocystoma multiplex
+Description
+Steatocystoma multiplex is a skin disorder characterized by the development of multiple noncancerous (benign) cysts known as steatocystomas. These growths begin in the skin's sebaceous glands, which normally produce an oily substance called sebum that lubricates the skin and hair. Steatocystomas are filled with sebum.
+In affected individuals, steatocystomas typically first appear during adolescence and are found most often on the torso, neck, upper arms, and upper legs. These cysts are usually the only sign of the condition. However, some affected individuals also have mild abnormalities involving the teeth or the fingernails and toenails.
+Frequency
+Although the prevalence of steatocystoma multiplex is unknown, it appears to be rare.
+Causes
+Steatocystoma multiplex can be caused by mutations in the
+KRT17
+gene. This gene provides instructions for making a protein called keratin 17, which is produced in the nails, the hair follicles, and the skin on the palms of the hands and soles of the feet. It is also found in the skin's sebaceous glands. Keratin 17 partners with a similar protein called keratin 6b to form networks that provide strength and resilience to the skin, nails, and other tissues.
+The
+KRT17
+gene mutations that cause steatocystoma multiplex alter the structure of keratin 17, preventing it from forming strong, stable networks within cells. The defective
+keratin network
+disrupts the growth and function of cells in the skin and nails, including cells that make up the sebaceous glands. These abnormalities lead to the growth of sebum-containing cysts in people with steatocystoma multiplex. However, it is unclear why steatocystomas are typically the only feature of this disorder.
+Many researchers believe that steatocystoma multiplex is a variant form of a disorder called
+pachyonychia congenita
+, which can also result from mutations in the
+KRT17
+gene. Like steatocystoma multiplex, pachyonychia congenita involves the growth of steatocystomas. Pachyonychia congenita is also associated with more severe nail abnormalities and a painful skin condition called palmoplantar keratoderma, which are not usually found in people with steatocystoma multiplex.
+In some cases, people with steatocystoma multiplex do not have an identified mutation in the
+KRT17
+gene. The cause of the condition in these individuals is unknown.
+Learn more about the gene associated with Steatocystoma multiplex
+KRT17
+Inheritance
+When steatocystoma multiplex is caused by mutations in the
+KRT17
+gene, it is inherited in an
+autosomal dominant pattern
+. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the condition from an affected parent.
+In people with steatocystoma multiplex who do not have identified
+KRT17
+gene mutations, there is usually no family history of the disorder.
+Other Names for This Condition
+Multiple sebaceous cysts
+Multiplex steatocystoma
+Sebocystomatosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Steatocystoma multiplex
+Genetic and Rare Diseases Information Center
+Sebocystomatosis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+STEATOCYSTOMA MULTIPLEX
+Scientific Articles on PubMed
+PubMed
+References
+Antal AS, Kulichova D, Redler S, Betz RC, Ruzicka T. Steatocystoma multiplex:
+keratin 17 - the key player? Br J Dermatol. 2012 Dec;167(6):1395-7. doi:
+10.1111/j.1365-2133.2012.11073.x. No abstract available.
+Citation on PubMed
+Covello SP, Smith FJ, Sillevis Smitt JH, Paller AS, Munro CS, Jonkman MF,
+Uitto J, McLean WH. Keratin 17 mutations cause either steatocystoma multiplex or
+pachyonychia congenita type 2. Br J Dermatol. 1998 Sep;139(3):475-80. doi:
+10.1046/j.1365-2133.1998.02413.x.
+Citation on PubMed
+Gass JK, Wilson NJ, Smith FJ, Lane EB, McLean WH, Rytina E, Salvary I, Burrows
+NP. Steatocystoma multiplex, oligodontia and partial persistent primary dentition
+associated with a novel keratin 17 mutation. Br J Dermatol. 2009
+Dec;161(6):1396-8. doi: 10.1111/j.1365-2133.2009.09383.x. Epub 2009 Jul 31. No
+abstract available.
+Citation on PubMed
+Smith FJ, Corden LD, Rugg EL, Ratnavel R, Leigh IM, Moss C, Tidman MJ, Hohl D,
+Huber M, Kunkeler L, Munro CS, Lane EB, McLean WH. Missense mutations in keratin
+17 cause either pachyonychia congenita type 2 or a phenotype resembling
+steatocystoma multiplex. J Invest Dermatol. 1997 Feb;108(2):220-3. doi:
+10.1111/1523-1747.ep12335315.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hair Follicle Sebaceous Gland (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

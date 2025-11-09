@@ -1,0 +1,156 @@
+Rippling muscle disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Rippling muscle disease
+URL of this page: https://medlineplus.gov/genetics/condition/rippling-muscle-disease/
+Rippling muscle disease
+Description
+Rippling muscle disease is a condition in which the muscles are unusually sensitive to movement or pressure (irritable). The muscles near the center of the body (proximal muscles) are most affected, especially the thighs. In most people with this condition, stretching the muscle causes visible ripples to spread across the muscle, lasting 5 to 20 seconds. A bump or other sudden impact on the muscle causes it to bunch up (percussion-induced muscle mounding) or exhibit repetitive tensing (percussion-induced rapid contraction). The rapid contractions can continue for up to 30 seconds and may be painful.
+People with rippling muscle disease may have overgrowth (hypertrophy) of some muscles, especially in the calf. Some affected individuals have an abnormal pattern of walking (gait), such as walking on tiptoe. They may experience fatigue, cramps, or muscle stiffness, especially after exercise or in cold temperatures.
+The age of onset of rippling muscle disease varies widely, but it often begins in late childhood or adolescence. Rippling muscles may also occur as a feature of other muscle disorders such as
+limb-girdle muscular dystrophy
+.
+Frequency
+The prevalence of rippling muscle disease is unknown.
+Causes
+Rippling muscle disease can be caused by mutations in the
+CAV3
+gene. Muscle conditions caused by
+CAV3
+gene mutations are called caveolinopathies. The
+CAV3
+gene provides instructions for making a protein called caveolin-3, which is found in the membrane surrounding muscle cells. This protein is the main component of caveolae, which are small pouches in the muscle cell membrane. Within the caveolae, the caveolin-3 protein acts as a scaffold to organize other molecules that are important for cell signaling and maintenance of the cell structure. It may also help regulate calcium levels in muscle cells, which play a role in controlling muscle contraction and relaxation.
+CAV3
+gene mutations that cause rippling muscle disease result in a shortage of caveolin-3 protein in the muscle cell membrane. Researchers suggest that the reduction in caveolin-3 protein disrupts the normal control of calcium levels in muscle cells, leading to abnormal muscle contractions in response to stimulation.
+In addition to rippling muscle disease,
+CAV3
+gene mutations can cause other caveolinopathies including
+CAV3-related distal myopathy
+, limb-girdle muscular dystrophy,
+isolated hyperCKemia
+, and a heart disorder called hypertrophic cardiomyopathy. Several
+CAV3
+gene mutations have been found to cause different caveolinopathies in different individuals. It is unclear why a single
+CAV3
+gene mutation may cause different patterns of signs and symptoms, even within the same family.
+Some people with rippling muscle disease do not have mutations in the
+CAV3
+gene. The cause of the disorder in these individuals is unknown.
+Learn more about the gene associated with Rippling muscle disease
+CAV3
+Inheritance
+Rippling muscle disease is usually inherited in an autosomal dominant pattern, but it is occasionally inherited in an autosomal recessive pattern.
+Autosomal dominant inheritance means that one copy of an altered
+CAV3
+gene in each cell is sufficient to cause the disorder. In most cases, an affected person has
+one parent
+with rippling muscle disease or another caveolinopathy. Rare cases result from
+new mutations in the gene
+and occur in people with no history of caveolinopathies in their family.
+Autosomal recessive inheritance
+means that both copies of the
+CAV3
+gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. People with autosomal recessive rippling muscle disease generally have more severe signs and symptoms than do people with the autosomal dominant form.
+Other Names for This Condition
+Rippling muscle syndrome
+RMD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Rippling muscle disease 2
+Genetic and Rare Diseases Information Center
+Rippling muscle disease
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+RIPPLING MUSCLE DISEASE 1; RMD1
+RIPPLING MUSCLE DISEASE 2; RMD2
+Scientific Articles on PubMed
+PubMed
+References
+Aboumousa A, Hoogendijk J, Charlton R, Barresi R, Herrmann R, Voit T, Hudson
+J, Roberts M, Hilton-Jones D, Eagle M, Bushby K, Straub V. Caveolinopathy--new
+mutations and additional symptoms. Neuromuscul Disord. 2008 Jul;18(7):572-8. doi:
+10.1016/j.nmd.2008.05.003. Epub 2008 Jun 25.
+Citation on PubMed
+Betz RC, Schoser BG, Kasper D, Ricker K, Ramirez A, Stein V, Torbergsen T, Lee
+YA, Nothen MM, Wienker TF, Malin JP, Propping P, Reis A, Mortier W, Jentsch TJ,
+Vorgerd M, Kubisch C. Mutations in CAV3 cause mechanical hyperirritability of
+skeletal muscle in rippling muscle disease. Nat Genet. 2001 Jul;28(3):218-9. doi:
+10.1038/90050.
+Citation on PubMed
+Gazzerro E, Bonetto A, Minetti C. Caveolinopathies: translational implications
+of caveolin-3 in skeletal and cardiac muscle disorders. Handb Clin Neurol.
+2011;101:135-42. doi: 10.1016/B978-0-08-045031-5.00010-4.
+Citation on PubMed
+Gazzerro E, Sotgia F, Bruno C, Lisanti MP, Minetti C. Caveolinopathies: from
+the biology of caveolin-3 to human diseases. Eur J Hum Genet. 2010
+Feb;18(2):137-45. doi: 10.1038/ejhg.2009.103. Epub 2009 Jul 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kubisch C, Schoser BG, von During M, Betz RC, Goebel HH, Zahn S, Ehrbrecht A,
+Aasly J, Schroers A, Popovic N, Lochmuller H, Schroder JM, Bruning T, Malin JP,
+Fricke B, Meinck HM, Torbergsen T, Engels H, Voss B, Vorgerd M. Homozygous
+mutations in caveolin-3 cause a severe form of rippling muscle disease. Ann
+Neurol. 2003 Apr;53(4):512-20. doi: 10.1002/ana.10501.
+Citation on PubMed
+Lamb GD. Rippling muscle disease may be caused by "silent" action potentials
+in the tubular system of skeletal muscle fibers. Muscle Nerve. 2005
+May;31(5):652-8. doi: 10.1002/mus.20307.
+Citation on PubMed
+Traverso M, Bruno C, Broccolini A, Sotgia F, Donati MA, Assereto S, Gazzerro
+E, Lo Monaco M, Modoni A, D'Amico A, Gasperini S, Ricci E, Zara F, Lisanti M,
+Minetti C. Truncation of Caveolin-3 causes autosomal-recessive Rippling Muscle
+Disease. J Neurol Neurosurg Psychiatry. 2008 Jun;79(6):735-7. doi:
+10.1136/jnnp.2007.133207. No abstract available.
+Citation on PubMed
+Ullrich ND, Fischer D, Kornblum C, Walter MC, Niggli E, Zorzato F, Treves S.
+Alterations of excitation-contraction coupling and excitation coupled Ca(2+)
+entry in human myotubes carrying CAV3 mutations linked to rippling muscle. Hum
+Mutat. 2011 Mar;32(3):309-17. doi: 10.1002/humu.21431. Epub 2011 Feb 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Woodman SE, Sotgia F, Galbiati F, Minetti C, Lisanti MP. Caveolinopathies:
+mutations in caveolin-3 cause four distinct autosomal dominant muscle diseases.
+Neurology. 2004 Feb 24;62(4):538-43. doi: 10.1212/wnl.62.4.538.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

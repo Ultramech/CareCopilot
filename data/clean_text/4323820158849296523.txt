@@ -1,0 +1,113 @@
+CHOPS syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+CHOPS syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/chops-syndrome/
+CHOPS syndrome
+Description
+CHOPS syndrome is a disorder involving multiple abnormalities that are present from birth (congenital). The name "CHOPS" is an abbreviation for a list of features of the disorder including cognitive impairment, coarse facial features,
+heart
+defects, obesity, lung (pulmonary) involvement, short stature, and skeletal abnormalities.
+Children with CHOPS syndrome have intellectual disability and delayed development of skills such as sitting and walking. Characteristic facial features include a round face; thick hair; thick eyebrows that grow together in the middle (synophrys); wide-set, bulging eyes with long eyelashes; a short nose; and down-turned corners of the mouth.
+Most affected individuals are born with a heart defect called patent ductus arteriosus (PDA). The ductus arteriosus is a connection between two major arteries, the
+aorta
+and the pulmonary artery. This connection is open during fetal development and normally closes shortly after birth. However, the ductus arteriosus remains open, or patent, in babies with PDA. If untreated, this heart defect causes infants to breathe rapidly, feed poorly, and gain weight slowly; in severe cases, it can lead to heart failure. Multiple heart abnormalities have sometimes been found in children with CHOPS syndrome. In addition to PDA, affected individuals may have
+ventricular septal defect
+, which is a defect in the muscular wall (septum) that separates the right and left sides of the heart's lower chamber.
+People with CHOPS syndrome have abnormalities of the throat and airways that cause momentary cessation of breathing while asleep (
+obstructive sleep apnea
+). These abnormalities can also cause affected individuals to breathe food or fluids into the lungs accidentally, which can lead to a potentially life-threatening bacterial lung infection (aspiration pneumonia) and chronic lung disease. Affected individuals are shorter than more than 97 percent of their peers and are overweight for their height. They also have skeletal differences including unusually short fingers and toes (brachydactyly) and abnormally-shaped spinal bones (vertebrae).
+Other features that can occur in CHOPS syndrome include a small head size (
+microcephaly
+); hearing loss; clouding of the lens of the eye (cataract); a single, horseshoe-shaped kidney; and, in affected males, undescended testes (cryptorchidism).
+Frequency
+CHOPS syndrome is a rare disorder whose prevalence is unknown. Only a few affected individuals have been described in the medical literature.
+Causes
+CHOPS syndrome is caused by mutations in the
+AFF4
+gene. This gene provides instructions for making part of a protein complex called the super elongation complex (SEC). During embryonic development, the SEC is involved in an activity called transcription, which is the first step in the production of proteins from genes. By re-starting the transcription of certain genes after pauses that normally occur during the process, the SEC helps ensure that development proceeds appropriately before birth.
+Mutations in the
+AFF4
+gene are thought to result in an AFF4 protein that is not broken down when it is no longer needed, so more AFF4 protein is available than usual. The excess AFF4 protein interferes with normal pauses in transcription. This dysregulation of transcription leads to problems in the development of multiple organs and tissues, resulting in the signs and symptoms of CHOPS syndrome.
+Learn more about the gene associated with CHOPS syndrome
+AFF4
+Inheritance
+CHOPS syndrome is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. All known cases of this condition result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. Affected individuals have no history of the disorder in their family.
+Other Names for This Condition
+Cognitive impairment, coarse facies, heart defects, obesity, pulmonary involvement, short stature, and skeletal dysplasia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cognitive impairment - coarse facies - heart defects - obesity - pulmonary involvement - short stature - skeletal dysplasia syndrome
+Genetic and Rare Diseases Information Center
+Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CHOPS SYNDROME; CHOPS
+Scientific Articles on PubMed
+PubMed
+References
+Izumi K, Nakato R, Zhang Z, Edmondson AC, Noon S, Dulik MC, Rajagopalan R,
+Venditti CP, Gripp K, Samanich J, Zackai EH, Deardorff MA, Clark D, Allen JL,
+Dorsett D, Misulovin Z, Komata M, Bando M, Kaur M, Katou Y, Shirahige K, Krantz
+ID. Germline gain-of-function mutations in AFF4 cause a developmental syndrome
+functionally linking the super elongation complex and cohesin. Nat Genet. 2015
+Apr;47(4):338-44. doi: 10.1038/ng.3229. Epub 2015 Mar 2.
+Citation on PubMed
+or
+Free article on PubMed Central
+Luo Z, Lin C, Shilatifard A. The super elongation complex (SEC) family in
+transcriptional control. Nat Rev Mol Cell Biol. 2012 Sep;13(9):543-7. doi:
+10.1038/nrm3417. Epub 2012 Aug 16.
+Citation on PubMed
+Smith E, Lin C, Shilatifard A. The super elongation complex (SEC) and MLL in
+development and disease. Genes Dev. 2011 Apr 1;25(7):661-72. doi:
+10.1101/gad.2015411.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Congenital Heart Defects
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Aspiration pneumonia
+Congenital heart defect - corrective surgery
+Genetics
+Patent ductus arteriosus
+Ventricular septal defect
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

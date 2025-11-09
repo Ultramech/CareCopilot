@@ -1,0 +1,159 @@
+Nonketotic hyperglycinemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Nonketotic hyperglycinemia
+URL of this page: https://medlineplus.gov/genetics/condition/nonketotic-hyperglycinemia/
+Nonketotic hyperglycinemia
+Description
+Nonketotic hyperglycinemia is a disorder characterized by abnormally high levels of a molecule called glycine in the body (hyperglycinemia). The excess glycine builds up in tissues and organs, particularly the brain. Affected individuals have serious neurological problems.
+Nonketotic hyperglycinemia has two forms, the severe form and the attenuated form. Both forms usually begin shortly after birth, although in some cases, signs and symptoms can begin in the first few months of life. Only the attenuated form begins later in infancy. The forms are distinguished by the seriousness of the signs and symptoms. Severe nonketotic hyperglycinemia is more common. Affected babies experience extreme sleepiness (lethargy) that worsens over time and can lead to coma. They can also have weak muscle tone (hypotonia) and life-threatening breathing problems in the first days or weeks of life. Most children who survive these early signs and symptoms develop feeding difficulties, abnormal muscle stiffness (spasticity), profound intellectual disability and seizures that are difficult to control. Most affected children do not achieve normal developmental milestones, such as drinking from a bottle, sitting up, or grabbing objects, and they may lose any acquired skills over time.
+The signs and symptoms of the attenuated form of nonketotic hyperglycinemia are similar to, but milder than, those of the severe form of the condition. Children with attenuated nonketotic hyperglycinemia typically reach developmental milestones, although the skills they achieve vary widely. Despite delayed development, many affected children eventually learn to walk and are able to interact with others, often using sign language. Some affected children develop seizures; if present, seizures are usually mild and can be treated. Other features can include spasticity, involuntary jerking movements (chorea), or hyperactivity.
+Individuals with nonketotic hyperglycinemia can also have certain changes in the brain, which can be seen using magnetic resonance imaging (MRI). For example, in children with the severe form of the condition, the tissue that connects the left and right halves of the brain (the corpus callosum) is smaller than average.
+Frequency
+Nonketotic hyperglycinemia is estimated to affect at least 1 in 76,000 people worldwide. In Finland, the condition occurs in about 1 in 55,000 newborns, and in British Columbia, Canada, it occurs in about 1 in 63,000 newborns.
+Causes
+Mutations in the
+GLDC
+or
+AMT
+gene cause nonketotic hyperglycinemia. About 80 percent of cases result from mutations in the
+GLDC
+gene, while
+AMT
+gene mutations cause about 20 percent of all cases.
+The
+GLDC
+and
+AMT
+genes provide instructions for making enzymes that work together as a group. This group, known as the glycine cleavage system, is responsible for breaking down glycine into smaller pieces when it is no longer needed. Glycine is an
+amino acid
+, which is a building block of proteins. Glycine also acts as a neurotransmitter, which is a chemical messenger that transmits signals in the brain. Too much glycine can disrupt brain function.
+In addition, the breakdown of glycine by the glycine cleavage system produces a molecule called a methyl group. This molecule is added to and used by a vitamin called folate. Folate is required for many functions in the cell and is important for brain development.
+Mutations in either the
+GLDC
+or
+AMT
+gene impair the system's ability to break down glycine. Some mutations reduce the activity of the glycine cleavage system, while others completely eliminate its activity. When the function of the glycine cleavage system is disrupted, excess glycine can build up in the body's organs and tissues. In addition, the production of methyl groups for use by folate is reduced. It is unclear how these abnormalities contribute to the developmental disability, seizures, breathing difficulties, and other features characteristic of nonketotic hyperglycinemia.
+The activity level of the glycine cleavage system helps determine the severity of the disorder:
+GLDC
+or
+AMT
+gene mutations that completely eliminate the system's activity result in severe nonketotic hyperglycinemia, while mutations that preserve some activity cause attenuated nonketotic hyperglycinemia.
+Learn more about the genes associated with Nonketotic hyperglycinemia
+AMT
+GLDC
+Inheritance
+Nonketotic hyperglycinemia is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. Typically, the parents of an individual with the condition each carry one copy of the mutated gene, but they usually do not show signs and symptoms of the condition. In very rare cases, one of the mutations occurs during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or in early embryonic development. These are known as de novo mutations.
+Other Names for This Condition
+Glycine encephalopathy
+NKH
+Non-ketotic hyperglycinemia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Glycine encephalopathy
+Genetic and Rare Diseases Information Center
+Glycine encephalopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GLYCINE ENCEPHALOPATHY 1; GCE1
+Scientific Articles on PubMed
+PubMed
+References
+Aliefendioglu D, Tana Aslan Ay, Coskun T, Dursun A, Cakmak FN, Kesimer M.
+Transient nonketotic hyperglycinemia: two case reports and literature review.
+Pediatr Neurol. 2003 Feb;28(2):151-5. doi: 10.1016/s0887-8994(02)00501-5.
+Citation on PubMed
+Applegarth DA, Toone JR. Glycine encephalopathy (nonketotic hyperglycinaemia)
+: review and update. J Inherit Metab Dis. 2004;27(3):417-22. doi:
+10.1023/b:boli.0000031222.38328.59.
+Citation on PubMed
+Applegarth DA, Toone JR. Glycine encephalopathy (nonketotic hyperglycinemia):
+comments and speculations. Am J Med Genet A. 2006 Jan 15;140(2):186-8. doi:
+10.1002/ajmg.a.31030. No abstract available.
+Citation on PubMed
+Coughlin CR 2nd, Swanson MA, Kronquist K, Acquaviva C, Hutchin T,
+Rodriguez-Pombo P, Vaisanen ML, Spector E, Creadon-Swindell G, Bras-Goldberg AM,
+Rahikkala E, Moilanen JS, Mahieu V, Matthijs G, Bravo-Alonso I, Perez-Cerda C,
+Ugarte M, Vianey-Saban C, Scharer GH, Van Hove JL. The genetic basis of classic
+nonketotic hyperglycinemia due to mutations in GLDC and AMT. Genet Med. 2017
+Jan;19(1):104-111. doi: 10.1038/gim.2016.74. Epub 2016 Jun 30.
+Citation on PubMed
+Dinopoulos A, Matsubara Y, Kure S. Atypical variants of nonketotic
+hyperglycinemia. Mol Genet Metab. 2005 Sep-Oct;86(1-2):61-9. doi:
+10.1016/j.ymgme.2005.07.016.
+Citation on PubMed
+Hoover-Fong JE, Shah S, Van Hove JL, Applegarth D, Toone J, Hamosh A. Natural
+history of nonketotic hyperglycinemia in 65 patients. Neurology. 2004 Nov
+23;63(10):1847-53. doi: 10.1212/01.wnl.0000144270.83080.29.
+Citation on PubMed
+Kikuchi G, Motokawa Y, Yoshida T, Hiraga K. Glycine cleavage system: reaction
+mechanism, physiological significance, and hyperglycinemia. Proc Jpn Acad Ser B
+Phys Biol Sci. 2008;84(7):246-63. doi: 10.2183/pjab.84.246.
+Citation on PubMed
+or
+Free article on PubMed Central
+Stence NV, Fenton LZ, Levek C, Tong S, Coughlin CR 2nd, Hennermann JB,
+Wortmann SB, Van Hove JLK. Brain imaging in classic nonketotic hyperglycinemia:
+Quantitative analysis and relation to phenotype. J Inherit Metab Dis. 2019
+May;42(3):438-450. doi: 10.1002/jimd.12072. Epub 2019 Mar 20.
+Citation on PubMed
+Swanson MA, Coughlin CR Jr, Scharer GH, Szerlong HJ, Bjoraker KJ, Spector EB,
+Creadon-Swindell G, Mahieu V, Matthijs G, Hennermann JB, Applegarth DA, Toone JR,
+Tong S, Williams K, Van Hove JL. Biochemical and molecular predictors for
+prognosis in nonketotic hyperglycinemia. Ann Neurol. 2015 Oct;78(4):606-18. doi:
+10.1002/ana.24485. Epub 2015 Aug 10.
+Citation on PubMed
+or
+Free article on PubMed Central
+Van Hove JLK, Coughlin C II, Swanson M, Hennermann JB. Nonketotic
+Hyperglycinemia. 2002 Nov 14 [updated 2019 May 23]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK1357/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

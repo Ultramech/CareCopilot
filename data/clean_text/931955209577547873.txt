@@ -1,0 +1,132 @@
+Action myoclonus–renal failure syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Action myoclonus–renal failure syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/action-myoclonus-renal-failure-syndrome/
+Action myoclonus–renal failure syndrome
+Description
+Action myoclonus–renal failure (AMRF) syndrome causes episodes of involuntary muscle jerking or twitching (myoclonus) and, often,
+kidney
+(renal) disease. Although the condition name refers to kidney disease, not everyone with the condition has problems with
+kidney function
+.
+The movement problems associated with AMRF syndrome typically begin with involuntary rhythmic shaking (tremor) in the fingers and hands that occurs at rest and is most noticeable when trying to make small movements, such as writing. Over time, tremors can affect other parts of the body, such as the head, torso, legs, and tongue. Eventually, the tremors worsen to become myoclonic jerks, which can be triggered by voluntary movements or the intention to move (action myoclonus). These myoclonic jerks typically occur in the torso; upper and lower limbs; and face, particularly the muscles around the mouth and the eyelids. Anxiety, excitement, stress, or extreme tiredness (fatigue) can worsen the myoclonus. Some affected individuals develop seizures, a loss of sensation and weakness in the limbs (peripheral neuropathy), or hearing loss caused by abnormalities in the
+inner ear
+(sensorineural hearing loss). Severe seizures or myoclonus can be life-threatening.
+When kidney problems occur, an early sign is excess protein in the urine (proteinuria). Kidney function worsens over time, until the kidneys are no longer able to filter fluids and waste products from the body effectively (end-stage renal disease).
+AMRF syndrome typically begins causing symptoms between ages 15 and 25, but it can appear at younger or older ages. The age of onset and the course of the condition vary, even among members of the same family. Either the movement problems or kidney disease can occur first, or they can begin at the same time. Most people survive 7 to 15 years after the symptoms appear.
+Frequency
+AMRF syndrome is a rare condition that has been found worldwide. Its exact prevalence is unknown. At least 38 individuals with the condition have been described in the medical literature.
+Causes
+AMRF syndrome is caused by mutations in the
+SCARB2
+gene. This gene provides instructions for making the LIMP-2 protein, which transports an enzyme called beta-glucocerebrosidase to cellular structures called lysosomes. Lysosomes are specialized compartments that digest and recycle materials. In these compartments, beta-glucocerebrosidase breaks down a fatty substance called glucocerebroside. The LIMP-2 protein remains in the lysosome after transporting beta-glucocerebrosidase and is important for the stability of these structures.
+SCARB2
+gene mutations associated with AMRF syndrome lead to production of an altered LIMP-2 protein that cannot get to the lysosome. As a result, the movement of beta-glucocerebrosidase to lysosomes is impaired. It is thought that a shortage of beta-glucocerebrosidase function in these structures contributes to the signs and symptoms of AMRF syndrome, although the mechanism is unclear. Researchers are working to understand why some people with
+SCARB2
+gene mutations have kidney problems and others do not.
+Learn more about the gene associated with Action myoclonus–renal failure syndrome
+SCARB2
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Action myoclonus-renal failure syndrome
+Action myoclonus–renal failure syndrome
+AMRF
+Epilepsy, progressive myoclonic 4, with or without renal failure
+EPM4
+Familial myoclonus with renal failure
+Myoclonus-nephropathy syndrome
+Progressive myoclonus epilepsy with renal failure
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Action myoclonus-renal failure syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE; EPM4
+Scientific Articles on PubMed
+PubMed
+References
+Balreira A, Gaspar P, Caiola D, Chaves J, Beirao I, Lima JL, Azevedo JE,
+Miranda MC. A nonsense mutation in the LIMP-2 gene associated with progressive
+myoclonic epilepsy and nephrotic syndrome. Hum Mol Genet. 2008 Jul
+15;17(14):2238-43. doi: 10.1093/hmg/ddn124. Epub 2008 Apr 17.
+Citation on PubMed
+Berkovic SF, Dibbens LM, Oshlack A, Silver JD, Katerelos M, Vears DF,
+Lullmann-Rauch R, Blanz J, Zhang KW, Stankovich J, Kalnins RM, Dowling JP,
+Andermann E, Andermann F, Faldini E, D'Hooge R, Vadlamudi L, Macdonell RA,
+Hodgson BL, Bayly MA, Savige J, Mulley JC, Smyth GK, Power DA, Saftig P, Bahlo M.
+Array-based gene discovery with three unrelated subjects shows SCARB2/LIMP-2
+deficiency causes myoclonus epilepsy and glomerulosclerosis. Am J Hum Genet. 2008
+Mar;82(3):673-84. doi: 10.1016/j.ajhg.2007.12.019. Epub 2008 Feb 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Blanz J, Groth J, Zachos C, Wehling C, Saftig P, Schwake M. Disease-causing
+mutations within the lysosomal integral membrane protein type 2 (LIMP-2) reveal
+the nature of binding to its ligand beta-glucocerebrosidase. Hum Mol Genet. 2010
+Feb 15;19(4):563-72. doi: 10.1093/hmg/ddp523. Epub 2009 Nov 20.
+Citation on PubMed
+Dibbens LM, Michelucci R, Gambardella A, Andermann F, Rubboli G, Bayly MA,
+Joensuu T, Vears DF, Franceschetti S, Canafoglia L, Wallace R, Bassuk AG, Power
+DA, Tassinari CA, Andermann E, Lehesjoki AE, Berkovic SF. SCARB2 mutations in
+progressive myoclonus epilepsy (PME) without renal failure. Ann Neurol. 2009
+Oct;66(4):532-6. doi: 10.1002/ana.21765.
+Citation on PubMed
+Hopfner F, Schormair B, Knauf F, Berthele A, Tolle TR, Baron R, Maier C,
+Treede RD, Binder A, Sommer C, Maihofner C, Kunz W, Zimprich F, Heemann U,
+Pfeufer A, Nabauer M, Kaab S, Nowak B, Gieger C, Lichtner P, Trenkwalder C, Oexle
+K, Winkelmann J. Novel SCARB2 mutation in action myoclonus-renal failure syndrome
+and evaluation of SCARB2 mutations in isolated AMRF features. BMC Neurol. 2011
+Oct 27;11:134. doi: 10.1186/1471-2377-11-134.
+Citation on PubMed
+or
+Free article on PubMed Central
+Xiao C, Ahn H, Kibrom S, Toro C. SCARB2-Related Action Myoclonus -
+Renal Failure Syndrome. 2015 Dec 17 [updated 2023 Feb 9]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK333437/
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Kidney Diseases
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

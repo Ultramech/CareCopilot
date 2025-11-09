@@ -1,0 +1,118 @@
+Hereditary sensory and autonomic neuropathy type V: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hereditary sensory and autonomic neuropathy type V
+URL of this page: https://medlineplus.gov/genetics/condition/hereditary-sensory-and-autonomic-neuropathy-type-v/
+Hereditary sensory and autonomic neuropathy type V
+Description
+Hereditary sensory and autonomic neuropathy type V (HSAN5) is a condition that primarily affects the sensory nerve cells (sensory neurons), which transmit information about sensations such as pain, temperature, and touch. These sensations are impaired in people with HSAN5.
+The signs and symptoms of HSAN5 appear early, usually at birth or during infancy. People with HSAN5 lose the ability to feel pain, heat, and cold. Deep pain perception, the feeling of pain from injuries to bones, ligaments, or muscles, is especially affected in people with HSAN5. Because of the inability to feel deep pain, affected individuals suffer repeated severe injuries such as bone fractures and joint injuries that go unnoticed. Repeated trauma can lead to a condition called Charcot joints, in which the bones and tissue surrounding joints are destroyed.
+Frequency
+HSAN5 is very rare. Only a few people with the condition have been identified.
+Causes
+Mutations in the
+NGF
+gene cause HSAN5. The
+NGF
+gene provides instructions for making a protein called nerve growth factor beta (NGFβ) that is important in the development and survival of nerve cells (neurons), including sensory neurons. The NGFβ protein functions by attaching (binding) to its receptors, which are found on the surface of neurons. Binding of the NGFβ protein to its receptor transmits signals to the cell to grow and to mature and take on specialized functions (differentiate). This binding also blocks signals in the cell that initiate the process of self-destruction (apoptosis). Additionally, NGFβ signaling plays a role in pain sensation. Mutation of the
+NGF
+gene leads to the production of a protein that cannot bind to the receptor and does not transmit signals properly. Without the proper signaling, sensory neurons die and pain sensation is altered, resulting in the inability of people with HSAN5 to feel pain.
+Learn more about the gene associated with Hereditary sensory and autonomic neuropathy type V
+NGF
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital insensitivity to pain
+Congenital sensory neuropathy with selective loss of small myelinated fibers
+Hereditary sensory and autonomic neuropathy, type 5
+HSAN type V
+HSAN V
+HSAN5
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital sensory neuropathy with selective loss of small myelinated fibers
+Genetic and Rare Diseases Information Center
+Hereditary sensory and autonomic neuropathy type 5
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE V; HSAN5
+Scientific Articles on PubMed
+PubMed
+References
+Capsoni S, Covaceuszach S, Marinelli S, Ceci M, Bernardo A, Minghetti L,
+Ugolini G, Pavone F, Cattaneo A. Taking pain out of NGF: a "painless" NGF mutant,
+linked to hereditary sensory autonomic neuropathy type V, with full neurotrophic
+activity. PLoS One. 2011 Feb 28;6(2):e17321. doi: 10.1371/journal.pone.0017321.
+Citation on PubMed
+or
+Free article on PubMed Central
+Einarsdottir E, Carlsson A, Minde J, Toolanen G, Svensson O, Solders G,
+Holmgren G, Holmberg D, Holmberg M. A mutation in the nerve growth factor beta
+gene (NGFB) causes loss of pain perception. Hum Mol Genet. 2004 Apr
+15;13(8):799-805. doi: 10.1093/hmg/ddh096. Epub 2004 Feb 19.
+Citation on PubMed
+Kaplan DR, Miller FD. Neurotrophin signal transduction in the nervous system.
+Curr Opin Neurobiol. 2000 Jun;10(3):381-91. doi: 10.1016/s0959-4388(00)00092-1.
+Citation on PubMed
+Larsson E, Kuma R, Norberg A, Minde J, Holmberg M. Nerve growth factor R221W
+responsible for insensitivity to pain is defectively processed and accumulates as
+proNGF. Neurobiol Dis. 2009 Feb;33(2):221-8. doi: 10.1016/j.nbd.2008.10.012. Epub
+2008 Nov 8.
+Citation on PubMed
+Lewin GR, Mendell LM. Nerve growth factor and nociception. Trends Neurosci.
+1993 Sep;16(9):353-9. doi: 10.1016/0166-2236(93)90092-z.
+Citation on PubMed
+Ritter AM, Lewin GR, Kremer NE, Mendell LM. Requirement for nerve growth
+factor in the development of myelinated nociceptors in vivo. Nature. 1991 Apr
+11;350(6318):500-2. doi: 10.1038/350500a0.
+Citation on PubMed
+Verhoeven K, Timmerman V, Mauko B, Pieber TR, De Jonghe P, Auer-Grumbach M.
+Recent advances in hereditary sensory and autonomic neuropathies. Curr Opin
+Neurol. 2006 Oct;19(5):474-80. doi: 10.1097/01.wco.0000245370.82317.f6.
+Citation on PubMed
+Verpoorten N, De Jonghe P, Timmerman V. Disease mechanisms in hereditary
+sensory and autonomic neuropathies. Neurobiol Dis. 2006 Feb;21(2):247-55. doi:
+10.1016/j.nbd.2005.08.004. Epub 2005 Sep 23.
+Citation on PubMed
+Related Health Topics
+Degenerative Nerve Diseases
+Genetic Disorders
+Peripheral Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

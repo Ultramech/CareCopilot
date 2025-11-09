@@ -1,0 +1,136 @@
+Spinocerebellar ataxia type 2: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Spinocerebellar ataxia type 2
+URL of this page: https://medlineplus.gov/genetics/condition/spinocerebellar-ataxia-type-2/
+Spinocerebellar ataxia type 2
+Description
+Spinocerebellar ataxia type 2 (SCA2) is a condition characterized by progressive problems with movement. People with this condition initially experience problems with coordination and balance (ataxia). Other early signs and symptoms of SCA2 include additional movement problems, speech and swallowing difficulties, and weakness in
+the muscles that control eye movement
+(ophthalmoplegia). Eye muscle weakness leads to involuntary back-and-forth eye movements (nystagmus) and a decreased ability to make rapid eye movements (saccadic slowing).
+Over time, individuals with SCA2 may develop loss of sensation and weakness in the limbs (peripheral neuropathy), muscle wasting (atrophy), uncontrolled muscle tensing (dystonia), and involuntary jerking movements (chorea). Some people with SCA2 develop a group of movement abnormalities known as parkinsonism, which includes unusually slow movement (bradykinesia), involuntary trembling (tremor), and muscle stiffness (rigidity). Individuals with SCA2 may have problems with short term memory, planning, and problem solving, or experience an overall decline in intellectual function (dementia).
+Signs and symptoms of the disorder typically begin in mid-adulthood but can appear anytime from childhood to late adulthood. People with SCA2 usually survive 10 to 20 years after symptoms first appear.
+Frequency
+The prevalence of SCA2 is unknown. This condition is estimated to be one of the most common types of spinocerebellar ataxia; however, all types of spinocerebellar ataxia are relatively rare. SCA2 is more common in Cuba, particularly in the Holguín province, where approximately 40 per 100,000 individuals are affected.
+Causes
+Mutations in the
+ATXN2
+gene cause SCA2. The
+ATXN2
+gene provides instructions for making a protein called ataxin-2. This protein is found throughout the body, but its function is unknown. Ataxin-2 is found in the fluid inside cells (
+cytoplasm
+), where it appears to interact with a cell structure called
+the endoplasmic reticulum
+. The endoplasmic reticulum is involved in protein production, processing, and transport. Researchers believe that ataxin-2 may be involved in processing RNA, a chemical cousin of DNA. Ataxin-2 is also thought to play a role in the production of proteins from RNA (
+translation of DNA's genetic information
+).
+The
+ATXN2
+gene mutations that cause SCA2 involve a DNA segment known as a CAG trinucleotide repeat. This segment is made up of a series of three DNA building blocks (cytosine, adenine, and guanine) that appear multiple times in a row. Normally, the CAG segment is repeated approximately 22 times within the gene, but it can be repeated up to 31 times without causing any health problems. Individuals with 33 or more CAG repeats in the
+ATXN2
+gene develop signs and symptoms of SCA2. People with 33 to 34 repeats tend to first experience signs and symptoms of SCA2 in late adulthood, while people with more than 45 repeats usually have signs and symptoms by their teens. Most people with SCA2 have between 37 and 39 CAG repeats in the
+ATXN2
+gene.
+It is unclear how the abnormally long CAG segment affects the function of the ataxin-2 protein. The abnormal protein apparently leads to cell death, as people with SCA2 show loss of brain cells in different parts of the brain. Over time, the loss of brain cells causes the movement problems characteristic of SCA2.
+Learn more about the gene associated with Spinocerebellar ataxia type 2
+ATXN2
+Inheritance
+This condition is inherited in
+an autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. An affected person usually inherits the altered gene from one affected parent. However, some people with SCA2
+do not have a parent with the disorder
+. Individuals who have an increase in the number of CAG repeats in the
+ATXN2
+gene, but do not develop SCA2, are at risk of having children who will develop the disorder.
+As the altered
+ATXN2
+gene is passed down from one generation to the next, the length of the CAG trinucleotide repeat often increases. A larger number of repeats is usually associated with an earlier onset of signs and symptoms. This phenomenon is called
+anticipation
+. Anticipation tends to be more prominent when the
+ATXN2
+gene is inherited from a person's father (paternal inheritance) than when it is inherited from a person's mother (maternal inheritance).
+Other Names for This Condition
+SCA2
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Spinocerebellar ataxia type 2
+Genetic and Rare Diseases Information Center
+Spinocerebellar ataxia type 2
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPINOCEREBELLAR ATAXIA 2; SCA2
+Scientific Articles on PubMed
+PubMed
+References
+Almaguer-Mederos LE, Falcon NS, Almira YR, Zaldivar YG, Almarales DC, Gongora
+EM, Herrera MP, Batallan KE, Arminan RR, Manresa MV, Cruz GS, Laffita-Mesa J,
+Cyuz TM, Chang V, Auburger G, Gispert S, Perez LV. Estimation of the age at onset
+in spinocerebellar ataxia type 2 Cuban patients by survival analysis. Clin Genet.
+2010 Aug;78(2):169-74. doi: 10.1111/j.1399-0004.2009.01358.x. Epub 2009 Dec 2.
+Citation on PubMed
+Lastres-Becker I, Rub U, Auburger G. Spinocerebellar ataxia 2 (SCA2).
+Cerebellum. 2008;7(2):115-24. doi: 10.1007/s12311-008-0019-y.
+Citation on PubMed
+Mederos LE, Proenza CL, Almira YR, Batallan KE, Falcon NS, Gongora EM,
+Almarales DC, Perez LV, Herrera MP. Age-dependent risks in genetic counseling for
+spinocerebellar ataxia type 2. Clin Genet. 2008 Dec;74(6):571-3. doi:
+10.1111/j.1399-0004.2008.01073.x. Epub 2008 Aug 18. No abstract available.
+Citation on PubMed
+Velazquez Perez L, Cruz GS, Santos Falcon N, Enrique Almaguer Mederos L,
+Escalona Batallan K, Rodriguez Labrada R, Paneque Herrera M, Laffita Mesa JM,
+Rodriguez Diaz JC, Rodriguez RA, Gonzalez Zaldivar Y, Coello Almarales D,
+Almaguer Gotay D, Jorge Cedeno H. Molecular epidemiology of spinocerebellar
+ataxias in Cuba: insights into SCA2 founder effect in Holguin. Neurosci Lett.
+2009 Apr 24;454(2):157-60. doi: 10.1016/j.neulet.2009.03.015. Epub 2009 Mar 11.
+Citation on PubMed
+Velazquez-Perez L, Rodriguez-Labrada R, Canales-Ochoa N, Sanchez-Cruz G,
+Fernandez-Ruiz J, Montero JM, Aguilera-Rodriguez R, Diaz R, Almaguer-Mederos LE,
+Truitz AP. Progression markers of Spinocerebellar ataxia 2. A twenty years
+neurophysiological follow up study. J Neurol Sci. 2010 Mar 15;290(1-2):22-6. doi:
+10.1016/j.jns.2009.12.013. Epub 2010 Jan 12.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Balance Problems
+Cerebellar Disorders
+Genetic Disorders
+Movement Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Movement - uncoordinated
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

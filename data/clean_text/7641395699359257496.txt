@@ -1,0 +1,131 @@
+Deafness-dystonia-optic neuronopathy syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Deafness-dystonia-optic neuronopathy syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/deafness-dystonia-optic-neuronopathy-syndrome/
+Deafness-dystonia-optic neuronopathy syndrome
+Description
+Deafness-dystonia-optic neuronopathy (DDON) syndrome, also known as Mohr-Tranebjærg syndrome, is characterized by hearing loss that begins early in life, problems with movement, impaired vision, and behavior problems. This condition occurs almost exclusively in males.
+The first symptom of DDON syndrome is hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss), which begins in early childhood. The hearing impairment worsens over time, and most affected individuals have profound hearing loss by age 10.
+People with DDON syndrome typically begin to develop problems with movement during their teens, although the onset of these symptoms varies among affected individuals. Some people experience involuntary tensing of the muscles (dystonia), while others have difficulty coordinating movements (ataxia). The problems with movement usually worsen over time.
+Individuals with DDON syndrome have normal vision during childhood, but they may develop vision problems due to breakdown of the nerves that carry information from the eyes to the brain (optic atrophy). Affected individuals can develop an increased sensitivity to light (photophobia) or other vision problems beginning in adolescence. Their sharpness of vision (visual acuity) slowly worsens, often leading to legal blindness in mid-adulthood.
+People with this condition may also have behavior problems, including changes in personality and aggressive or paranoid behaviors. They also usually develop a gradual decline in thinking and reasoning abilities (dementia) in their forties. The lifespan of individuals with DDON syndrome depends on the severity of the disorder. People with severe cases have survived into their teenage years, while those with milder cases have lived into their sixties.
+Frequency
+DDON syndrome is a rare disorder; it has been reported in fewer than 70 people worldwide.
+Causes
+Mutations in the
+TIMM8A
+gene cause DDON syndrome. The protein produced from this gene is found inside the energy-producing centers of cells (
+mitochondria
+). The TIMM8A protein forms a complex (a group of proteins that work together) with a very similar protein called TIMM13. This complex functions by transporting other proteins within the mitochondria.
+Most mutations in the
+TIMM8A
+gene result in the absence of functional TIMM8A protein inside the mitochondria, which prevents the formation of the TIMM8A/TIMM13 complex. Researchers believe that the lack of this complex leads to abnormal protein transport, although it is unclear how abnormal protein transport affects the function of the mitochondria and causes the signs and symptoms of DDON syndrome.
+Learn more about the gene associated with Deafness-dystonia-optic neuronopathy syndrome
+TIMM8A
+Inheritance
+DDON syndrome is inherited in an
+X-linked recessive pattern
+. The gene associated with this condition is located on the X chromosome, which is one of the two
+sex chromosomes
+. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause DDON syndrome. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. Females who carry one altered copy of the
+TIMM8A
+gene are typically unaffected; however, they may develop mild hearing loss and dystonia. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+Deafness syndrome, progressive, with blindness, dystonia, fractures, and mental deficiency
+Deafness-dystonia-optic atrophy syndrome
+Jensen syndrome
+Mohr-Tranebjærg syndrome
+Opticoacoustic nerve atrophy with dementia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Deafness dystonia syndrome
+Genetic and Rare Diseases Information Center
+Mohr-Tranebjaerg syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MOHR-TRANEBJAERG SYNDROME; MTS
+Scientific Articles on PubMed
+PubMed
+References
+Bahmad F Jr, Merchant SN, Nadol JB Jr, Tranebjaerg L. Otopathology in
+Mohr-Tranebjaerg syndrome. Laryngoscope. 2007 Jul;117(7):1202-8. doi:
+10.1097/MLG.0b013e3180581944.
+Citation on PubMed
+or
+Free article on PubMed Central
+Binder J, Hofmann S, Kreisel S, Wohrle JC, Bazner H, Krauss JK, Hennerici MG,
+Bauer MF. Clinical and molecular findings in a patient with a novel mutation in
+the deafness-dystonia peptide (DDP1) gene. Brain. 2003 Aug;126(Pt 8):1814-20.
+doi: 10.1093/brain/awg174. Epub 2003 Jun 4.
+Citation on PubMed
+Engl G, Florian S, Tranebjaerg L, Rapaport D. Alterations in expression levels
+of deafness dystonia protein 1 affect mitochondrial morphology. Hum Mol Genet.
+2012 Jan 15;21(2):287-99. doi: 10.1093/hmg/ddr458. Epub 2011 Oct 7.
+Citation on PubMed
+Ha AD, Parratt KL, Rendtorff ND, Lodahl M, Ng K, Rowe DB, Sue CM, Hayes MW,
+Tranebjaerg L, Fung VS. The phenotypic spectrum of dystonia in Mohr-Tranebjaerg
+syndrome. Mov Disord. 2012 Jul;27(8):1034-40. doi: 10.1002/mds.25033. Epub 2012
+Jun 26.
+Citation on PubMed
+Roesch K, Curran SP, Tranebjaerg L, Koehler CM. Human deafness dystonia
+syndrome is caused by a defect in assembly of the DDP1/TIMM8a-TIMM13 complex. Hum
+Mol Genet. 2002 Mar 1;11(5):477-86. doi: 10.1093/hmg/11.5.477.
+Citation on PubMed
+Tranebjaerg L, Schwartz C, Eriksen H, Andreasson S, Ponjavic V, Dahl A,
+Stevenson RE, May M, Arena F, Barker D, et al. A new X linked recessive deafness
+syndrome with blindness, dystonia, fractures, and mental deficiency is linked to
+Xq22. J Med Genet. 1995 Apr;32(4):257-63. doi: 10.1136/jmg.32.4.257.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tranebjaerg L. Deafness-Dystonia-Optic Neuronopathy Syndrome. 2003 Feb 6
+[updated 2019 Nov 21]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1216/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Dystonia
+Genetic Disorders
+Hearing Disorders and Deafness
+Optic Nerve Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Movement - uncontrolled or slow
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

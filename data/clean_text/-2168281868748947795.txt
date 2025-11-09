@@ -1,0 +1,136 @@
+KCNK9 imprinting syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+KCNK9 imprinting syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/kcnk9-imprinting-syndrome/
+KCNK9 imprinting syndrome
+Description
+KCNK9
+imprinting syndrome is a rare condition characterized by weak muscle tone (hypotonia) from birth. As a result, affected infants have a lack of energy (lethargy), a weak cry, and they move less than normal. Facial weakness and a poor ability to suck cause feeding difficulties, which can lead to an inability to grow and gain weight (failure to thrive). Difficulty swallowing (dysphagia) often lasts into adolescence. While muscle tone may improve over time, affected individuals usually have some weakness into adulthood. The weakness can lead to permanently bent joints (contractures) and abnormal curvature of the spine (
+scoliosis
+).
+KCNK9
+imprinting syndrome is also characterized by intellectual disability and delayed development of speech and motor skills, such as sitting and walking. Many affected individuals have limited speech throughout life.
+This condition is associated with unusual facial features, including an elongated face that narrows at the temples; an upper lip that points outward (called a tented lip); a short, broad space between the lip and the nose (
+philtrum
+); a small lower jaw (micrognathia); and abnormally shaped eyebrows. Some affected individuals have an opening in the roof of the mouth (
+cleft palate
+). In addition to unusual facial features, some people with
+KCNK9
+imprinting syndrome have a long neck, a narrow chest, and tapered fingers.
+Frequency
+KCNK9
+imprinting syndrome is a rare condition. At least 19 affected individuals have been described in the medical literature.
+Causes
+Mutations in the
+KCNK9
+gene cause
+KCNK9
+imprinting syndrome. This gene provides instructions for making a protein called TASK3, which functions as a potassium channel. Potassium channels transport positively charged atoms (ions) of potassium into and out of cells.
+TASK3 channels are especially abundant in nerve cells (neurons) in the brain, particularly the region of the brain that coordinates movement (
+cerebellum
+). The flow of ions through potassium channels in neurons is involved in activating (exciting) the neurons and sending electrical signals in the brain. TASK3 channels, in particular, maintain the neuron's ability to generate electrical signals and regulate the neuron's activity (excitability).
+The genetic changes that cause
+KCNK9
+imprinting syndrome alter the TASK3 channels. This alteration reduces the flow of ions through the channels, which disrupts normal neuron development and excitability. Impairment of neuron function likely underlies the hypotonia, intellectual disability, and developmental problems characteristic of
+KCNK9
+imprinting syndrome.
+Learn more about the gene associated with KCNK9 imprinting syndrome
+KCNK9
+Inheritance
+KCNK9
+imprinting syndrome follows an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. People inherit two copies of their genes, one from their mother and one from their father. Usually both copies of each gene are active, or "turned on," in cells. However, for some genes, including
+KCNK9
+, only one of the two copies is normally turned on, which is a phenomenon known as genomic imprinting. The
+KCNK9
+gene is a maternally expressed imprinted gene, which means that only the copy of the gene that comes from the mother is active. The copy of the gene that comes from the father is turned off (silenced).
+In most cases of
+KCNK9
+imprinting syndrome, an affected person inherits the mutation from his or her mother. Because the copy of the gene from the father is silenced, fathers cannot pass the condition to their kids. About 20 percent of cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Birk-Barel mental retardation dysmorphism syndrome
+Birk-Barel syndrome
+Intellectual disability, Birk-Barel type
+Intellectual disability-hypotonia-facial dysmorphism syndrome
+Mental retardation with hypotonia and facial dysmorphism
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Birk-Barel syndrome
+Genetic and Rare Diseases Information Center
+Intellectual disability, Birk-Barel type
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+BIRK-BAREL SYNDROME; BIBARS
+Scientific Articles on PubMed
+PubMed
+References
+Barel O, Shalev SA, Ofir R, Cohen A, Zlotogora J, Shorer Z, Mazor G, Finer G,
+Khateeb S, Zilberberg N, Birk OS. Maternally inherited Birk Barel mental
+retardation dysmorphism syndrome caused by a mutation in the genomically
+imprinted potassium channel KCNK9. Am J Hum Genet. 2008 Aug;83(2):193-9. doi:
+10.1016/j.ajhg.2008.07.010.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enyedi P, Czirjak G. Molecular background of leak K+ currents: two-pore domain
+potassium channels. Physiol Rev. 2010 Apr;90(2):559-605. doi:
+10.1152/physrev.00029.2009.
+Citation on PubMed
+Graham JM Jr, Zadeh N, Kelley M, Tan ES, Liew W, Tan V, Deardorff MA, Wilson
+GN, Sagi-Dain L, Shalev SA. KCNK9 imprinting syndrome-further delineation of a
+possible treatable disorder. Am J Med Genet A. 2016 Oct;170(10):2632-7. doi:
+10.1002/ajmg.a.37740. Epub 2016 May 6.
+Citation on PubMed
+Veale EL, Hassan M, Walsh Y, Al-Moubarak E, Mathie A. Recovery of current
+through mutated TASK3 potassium channels underlying Birk Barel syndrome. Mol
+Pharmacol. 2014 Mar;85(3):397-407. doi: 10.1124/mol.113.090530. Epub 2013 Dec 16.
+Citation on PubMed
+Zadeh N, Graham JM Jr. KCNK9 Imprinting Syndrome. 2017 Mar 23. In:
+Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK425128/
+Citation on PubMed
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hypotonia
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

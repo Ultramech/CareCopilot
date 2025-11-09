@@ -1,0 +1,209 @@
+Critical congenital heart disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Critical congenital heart disease
+URL of this page: https://medlineplus.gov/genetics/condition/critical-congenital-heart-disease/
+Critical congenital heart disease
+Description
+Critical congenital heart disease (CCHD) is a term that refers to a group of serious heart defects that are present from birth. These abnormalities result from problems with the formation of one or more parts of the heart during the early stages of embryonic development. CCHD prevents the heart from pumping blood effectively or reduces the amount of oxygen in the blood. As a result, organs and tissues throughout the body do not receive enough oxygen, which can lead to organ damage and life-threatening complications. Individuals with CCHD usually require surgery soon after birth.
+Although babies with CCHD may appear healthy for the first few hours or days of life, signs and symptoms soon become apparent. These can include an abnormal heart sound during a heartbeat (heart murmur), rapid breathing (tachypnea), low blood pressure (hypotension), low levels of oxygen in the blood (hypoxemia), and a blue or purple tint to the skin caused by a shortage of oxygen (cyanosis). If untreated, CCHD can lead to shock, coma, and death. However, most people with CCHD now survive past infancy due to improvements in early detection, diagnosis, and treatment.
+Some people with treated CCHD have few related health problems later in life. However, long-term effects of CCHD can include delayed development and reduced stamina during exercise. Adults with these heart defects have an increased risk of abnormal heart rhythms, heart failure, sudden cardiac arrest, stroke, and premature death.
+Each of the heart defects associated with CCHD affects the flow of blood into, out of, or through the heart. Some of the heart defects involve structures within the heart itself, such as the two lower chambers of the heart (the ventricles) or the valves that control blood flow through the heart. Others affect the structure of the large blood vessels leading into and out of the heart (including the
+aorta
+and pulmonary artery). Still others involve a combination of these structural abnormalities.
+People with CCHD have one or more specific heart defects. The heart defects classified as CCHD include
+coarctation of the aorta
+, double-outlet right ventricle,
+D-transposition of the great arteries
+, Ebstein anomaly,
+hypoplastic left heart syndrome
+, interrupted aortic arch,
+pulmonary atresia with intact septum
+, single ventricle,
+total anomalous pulmonary venous connection
+,
+tetralogy of Fallot
+,
+tricuspid atresia
+, and
+truncus arteriosus
+.
+Frequency
+Heart defects are the most common type of birth defect, accounting for more than 30 percent of all infant deaths due to birth defects. CCHD represents some of the most serious types of heart defects. About 7,200 newborns, or 18 per 10,000, in the United States are diagnosed with CCHD each year.
+Causes
+In most cases, the cause of CCHD is unknown. A variety of genetic and environmental factors likely contribute to this complex condition.
+Changes in single genes have been associated with CCHD. Studies suggest that these genes are involved in normal heart development before birth. Most of the identified mutations reduce the amount or function of the protein that is produced from a specific gene, which likely impairs the normal formation of structures in the heart. Studies have also suggested that having more or fewer copies of particular genes compared with other people, a phenomenon known as copy number variation, may play a role in CCHD. However, it is unclear whether genes affected by copy number variation are involved in heart development and how having missing or extra copies of those genes could lead to heart defects. Researchers believe that single-gene mutations and copy number variation account for a relatively small percentage of all CCHD.
+CCHD is usually isolated, which means it occurs alone (without signs and symptoms affecting other parts of the body). However, the heart defects associated with CCHD can also occur as part of genetic syndromes that have additional features. Some of these genetic conditions, such as
+Down syndrome
+,
+Turner syndrome
+, and
+22q11.2 deletion syndrome
+, result from changes in the number or structure of particular chromosomes. Other conditions, including
+Noonan syndrome
+and
+Alagille syndrome
+, result from mutations in single genes.
+Environmental factors may also contribute to the development of CCHD. Potential risk factors that have been studied include exposure to certain chemicals or drugs before birth, viral infections (such as rubella and influenza) that occur during pregnancy, and other maternal illnesses including diabetes and
+phenylketonuria
+. Although researchers are examining risk factors that may be associated with this complex condition, many of these factors remain unknown.
+Learn more about the genes associated with Critical congenital heart disease
+GJA1
+JAG1
+MED13L
+NOTCH1
+Additional Information from NCBI Gene:
+CFC1
+FOXH1
+GATA4
+GATA6
+GDF1
+HAND1
+NKX2-5
+NKX2-6
+SMAD6
+ZFPM2
+Inheritance
+Most cases of CCHD are sporadic, which means they occur in people with no history of the disorder in their family. However, close relatives (such as siblings) of people with CCHD may have an increased risk of being born with a heart defect compared with people in the general population.
+Other Names for This Condition
+CCHD
+Critical congenital heart defects
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital heart disease
+Genetic Testing Registry: Congenital heart defects, multiple types, 6
+Genetic Testing Registry: Ebstein anomaly
+Genetic Testing Registry: Hypoplastic left heart syndrome
+Genetic Testing Registry: Heterotaxy, visceral, 2, autosomal
+Genetic Testing Registry: Hypoplastic left heart syndrome 2
+Genetic Testing Registry: Tetralogy of Fallot
+Genetic Testing Registry: Transposition of the great arteries
+Genetic and Rare Diseases Information Center
+Hypoplastic left heart syndrome
+Transposition of the great arteries
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+TOTAL ANOMALOUS PULMONARY VENOUS RETURN 1; TAPVR1
+COARCTATION OF AORTA
+EBSTEIN ANOMALY
+PULMONARY ATRESIA WITH VENTRICULAR SEPTAL DEFECT
+CONOTRUNCAL HEART MALFORMATIONS; CTHM
+TETRALOGY OF FALLOT; TOF
+HYPOPLASTIC LEFT HEART SYNDROME 1; HLHS1
+PULMONARY ATRESIA WITH INTACT VENTRICULAR SEPTUM
+TRICUSPID ATRESIA
+TRANSPOSITION OF THE GREAT ARTERIES, DEXTRO-LOOPED; DTGA
+HETEROTAXY, VISCERAL, 2, AUTOSOMAL; HTX2
+CONGENITAL HEART DEFECTS, MULTIPLE TYPES, 6; CHTD6
+HYPOPLASTIC LEFT HEART SYNDROME 2; HLHS2
+Scientific Articles on PubMed
+PubMed
+References
+Fahed AC, Gelb BD, Seidman JG, Seidman CE. Genetics of congenital heart
+disease: the glass half empty. Circ Res. 2013 Feb 15;112(4):707-20. doi:
+10.1161/CIRCRESAHA.112.300853.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grochowski CM, Loomes KM, Spinner NB. Jagged1 (JAG1): Structure, expression,
+and disease associations. Gene. 2016 Jan 15;576(1 Pt 3):381-4. doi:
+10.1016/j.gene.2015.10.065. Epub 2015 Nov 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Jenkins KJ, Correa A, Feinstein JA, Botto L, Britt AE, Daniels SR, Elixson M,
+Warnes CA, Webb CL; American Heart Association Council on Cardiovascular Disease
+in the Young. Noninherited risk factors and congenital cardiovascular defects:
+current knowledge: a scientific statement from the American Heart Association
+Council on Cardiovascular Disease in the Young: endorsed by the American Academy
+of Pediatrics. Circulation. 2007 Jun 12;115(23):2995-3014. doi:
+10.1161/CIRCULATIONAHA.106.183216. Epub 2007 May 22.
+Citation on PubMed
+Mahle WT, Newburger JW, Matherne GP, Smith FC, Hoke TR, Koppel R, Gidding SS,
+Beekman RH 3rd, Grosse SD; American Heart Association Congenital Heart Defects
+Committee of the Council on Cardiovascular Disease in the Young, Council on
+Cardiovascular Nursing, and Interdisciplinary Council on Quality of Care and
+Outcomes Research; American Academy of Pediatrics Section on Cardiology And
+Cardiac Surgery; Committee On Fetus And Newborn. Role of pulse oximetry in
+examining newborns for congenital heart disease: a scientific statement from the
+AHA and AAP. Pediatrics. 2009 Aug;124(2):823-36. doi: 10.1542/peds.2009-1397.
+Epub 2009 Jul 6.
+Citation on PubMed
+Richards AA, Garg V. Genetics of congenital heart disease. Curr Cardiol Rev.
+2010 May;6(2):91-7. doi: 10.2174/157340310791162703.
+Citation on PubMed
+or
+Free article on PubMed Central
+van der Bom T, Zomer AC, Zwinderman AH, Meijboom FJ, Bouma BJ, Mulder BJ. The
+changing epidemiology of congenital heart disease. Nat Rev Cardiol. 2011
+Jan;8(1):50-60. doi: 10.1038/nrcardio.2010.166. Epub 2010 Nov 2.
+Citation on PubMed
+Wessels MW, Willems PJ. Genetic factors in non-syndromic congenital heart
+malformations. Clin Genet. 2010 Aug;78(2):103-23. doi:
+10.1111/j.1399-0004.2010.01435.x. Epub 2010 May 17.
+Citation on PubMed
+Zaidi S, Choi M, Wakimoto H, Ma L, Jiang J, Overton JD, Romano-Adesman A,
+Bjornson RD, Breitbart RE, Brown KK, Carriero NJ, Cheung YH, Deanfield J, DePalma
+S, Fakhro KA, Glessner J, Hakonarson H, Italia MJ, Kaltman JR, Kaski J, Kim R,
+Kline JK, Lee T, Leipzig J, Lopez A, Mane SM, Mitchell LE, Newburger JW, Parfenov
+M, Pe'er I, Porter G, Roberts AE, Sachidanandam R, Sanders SJ, Seiden HS, State
+MW, Subramanian S, Tikhonova IR, Wang W, Warburton D, White PS, Williams IA, Zhao
+H, Seidman JG, Brueckner M, Chung WK, Gelb BD, Goldmuntz E, Seidman CE, Lifton
+RP. De novo mutations in histone-modifying genes in congenital heart disease.
+Nature. 2013 Jun 13;498(7453):220-3. doi: 10.1038/nature12141. Epub 2013 May 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Congenital Heart Defects
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Coarctation of the aorta
+Double outlet right ventricle
+Ebstein anomaly
+Genetics
+Hypoplastic left heart syndrome
+Pulmonary atresia
+Tetralogy of Fallot
+Total anomalous pulmonary venous return
+Transposition of the great arteries
+Tricuspid atresia
+Truncus arteriosus
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

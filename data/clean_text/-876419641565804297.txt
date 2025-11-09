@@ -1,0 +1,160 @@
+Central precocious puberty: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Central precocious puberty
+URL of this page: https://medlineplus.gov/genetics/condition/central-precocious-puberty/
+Central precocious puberty
+Description
+Central precocious puberty is a condition that causes early sexual development in girls and boys. While puberty normally starts between ages 8 and 13 in girls and between ages 9 and 14 in boys, girls with central precocious puberty begin exhibiting signs before age 8, and boys with this disorder begin before age 9. Signs of puberty include development of pubic and underarm hair, a rapid increase in height (commonly referred to as a "growth spurt"), acne, and underarm odor. Girls also develop breasts and begin their menstrual periods. Boys have growth of the penis and testes and deepening of the voice. Because of the early growth spurt, children with central precocious puberty may be taller than their peers; however, they may stop growing abnormally early. Without proper treatment, some affected individuals are shorter in adulthood compared with other members of their family. Developing ahead of their peers can be emotionally difficult for affected individuals and may lead to psychological and behavioral problems.
+Frequency
+Central precocious puberty is estimated to affect 1 in 5,000 to 10,000 girls. The condition is less common in boys, although the prevalence is unknown.
+Causes
+The cause of central precocious puberty is often unknown. The most common known genetic cause of central precocious puberty is mutations in the
+MKRN3
+gene. Changes in other genes are rare causes of the condition, and researchers suspect that changes in genes that have not yet been identified may also be involved in central precocious puberty. The timing of puberty is influenced by several factors in addition to genetics, including nutrition, socioeconomic status, and exposure to certain chemicals in the environment.
+The protein produced from the
+MKRN3
+gene plays a role in directing the onset of puberty. Puberty begins when a gland in the brain called the hypothalamus is stimulated to release bursts of a hormone called gonadotropin releasing hormone (GnRH). This hormone triggers the release of other hormones that direct sexual development. Research suggests that the MKRN3 protein blocks (inhibits) the release of GnRH from the hypothalamus, thus holding off the onset of puberty.
+The
+MKRN3
+gene mutations involved in central precocious puberty are thought to lead to production of a nonfunctional MKRN3 protein. Although the mechanism is unclear, researchers speculate that without the MKRN3 protein to inhibit GnRH release, the hypothalamus releases bursts of the hormone, which stimulates the onset of puberty earlier than normal.
+For most genes, both copies of the gene (one copy inherited from each parent) are active in all cells. However, the activity of the
+MKRN3
+gene depends on which parent it was inherited from. Only the copy inherited from a person's father is active; the copy inherited from the mother is not active. This sort of parent-specific difference in gene activation is caused by a phenomenon called genomic imprinting. Because only the copy of the
+MKRN3
+gene from the father is active, when associated with this gene, the condition can only be inherited from a person's father. Either sons or daughters can have central precocious puberty, although researchers suspect that girls are more severely affected than boys, because the onset of puberty is even earlier than normal in girls than in boys. Boys with an
+MKRN3
+gene mutation inherited from their father may go through puberty at the lower limit of the normal age range, so the condition is not diagnosed.
+Learn more about the gene associated with Central precocious puberty
+MKRN3
+Additional Information from NCBI Gene:
+KISS1
+KISS1R
+Inheritance
+Central precocious puberty follows an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. When passed from parent to child, the condition is known as familial central precocious puberty. In familial cases associated with the
+MKRN3
+gene, the mutation is inherited from the father. In many cases, the father is affected; however, he may be unaffected if he inherited the altered gene from his mother. A father may also be unaffected because some males with a mutation do not show signs of the condition. A father can pass the condition to his sons and daughters.
+The condition can also occur in people with no family history of the disorder. These cases are called sporadic central precocious puberty. Some apparently sporadic cases are caused by
+MKRN3
+gene mutations inherited from an unaffected father.
+Other Names for This Condition
+CPP
+Gonadotropin-dependent precocious puberty
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Central precocious puberty 1
+Genetic Testing Registry: Precocious puberty, central, 2
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PRECOCIOUS PUBERTY, CENTRAL, 1; CPPB1
+PRECOCIOUS PUBERTY, CENTRAL, 2; CPPB2
+Scientific Articles on PubMed
+PubMed
+References
+Abreu AP, Dauber A, Macedo DB, Noel SD, Brito VN, Gill JC, Cukier P, Thompson
+IR, Navarro VM, Gagliardi PC, Rodrigues T, Kochi C, Longui CA, Beckers D, de
+Zegher F, Montenegro LR, Mendonca BB, Carroll RS, Hirschhorn JN, Latronico AC,
+Kaiser UB. Central precocious puberty caused by mutations in the imprinted gene
+MKRN3. N Engl J Med. 2013 Jun 27;368(26):2467-75. doi: 10.1056/NEJMoa1302160.
+Epub 2013 Jun 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Abreu AP, Macedo DB, Brito VN, Kaiser UB, Latronico AC. A new pathway in the
+control of the initiation of puberty: the MKRN3 gene. J Mol Endocrinol. 2015
+Jun;54(3):R131-9. doi: 10.1530/JME-14-0315.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dimitrova-Mladenova MS, Stefanova EM, Glushkova M, Todorova AP, Todorov T,
+Konstantinova MM, Kazakova K, Tincheva RS. Males with Paternally Inherited MKRN3
+Mutations May Be Asymptomatic. J Pediatr. 2016 Dec;179:263-265. doi:
+10.1016/j.jpeds.2016.08.065. Epub 2016 Sep 15.
+Citation on PubMed
+Macedo DB, Abreu AP, Reis AC, Montenegro LR, Dauber A, Beneduzzi D, Cukier P,
+Silveira LF, Teles MG, Carroll RS, Junior GG, Filho GG, Gucev Z, Arnhold IJ, de
+Castro M, Moreira AC, Martinelli CE Jr, Hirschhorn JN, Mendonca BB, Brito VN,
+Antonini SR, Kaiser UB, Latronico AC. Central precocious puberty that appears to
+be sporadic caused by paternally inherited mutations in the imprinted gene
+makorin ring finger 3. J Clin Endocrinol Metab. 2014 Jun;99(6):E1097-103. doi:
+10.1210/jc.2013-3126. Epub 2014 Mar 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Neocleous V, Shammas C, Phelan MM, Nicolaou S, Phylactou LA, Skordis N. In
+silico analysis of a novel MKRN3 missense mutation in familial central precocious
+puberty. Clin Endocrinol (Oxf). 2016 Jan;84(1):80-4. doi: 10.1111/cen.12854. Epub
+2015 Aug 6.
+Citation on PubMed
+Parent AS, Teilmann G, Juul A, Skakkebaek NE, Toppari J, Bourguignon JP. The
+timing of normal puberty and the age limits of sexual precocity: variations
+around the world, secular trends, and changes after migration. Endocr Rev. 2003
+Oct;24(5):668-93. doi: 10.1210/er.2002-0019.
+Citation on PubMed
+Silveira LG, Noel SD, Silveira-Neto AP, Abreu AP, Brito VN, Santos MG, Bianco
+SD, Kuohung W, Xu S, Gryngarten M, Escobar ME, Arnhold IJ, Mendonca BB, Kaiser
+UB, Latronico AC. Mutations of the KISS1 gene in disorders of puberty. J Clin
+Endocrinol Metab. 2010 May;95(5):2276-80. doi: 10.1210/jc.2009-2421. Epub 2010
+Mar 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Simon D, Ba I, Mekhail N, Ecosse E, Paulsen A, Zenaty D, Houang M, Jesuran
+Perelroizen M, de Filippo GP, Salerno M, Simonin G, Reynaud R, Carel JC, Leger J,
+de Roux N. Mutations in the maternally imprinted gene MKRN3 are common in
+familial central precocious puberty. Eur J Endocrinol. 2016 Jan;174(1):1-8. doi:
+10.1530/EJE-15-0488. Epub 2015 Oct 1.
+Citation on PubMed
+Teles MG, Bianco SD, Brito VN, Trarbach EB, Kuohung W, Xu S, Seminara SB,
+Mendonca BB, Kaiser UB, Latronico AC. A GPR54-activating mutation in a patient
+with central precocious puberty. N Engl J Med. 2008 Feb 14;358(7):709-15. doi:
+10.1056/NEJMoa073443.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Endocrine Diseases
+Genetic Disorders
+Puberty
+MEDICAL ENCYCLOPEDIA
+Genetics
+Precocious puberty
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

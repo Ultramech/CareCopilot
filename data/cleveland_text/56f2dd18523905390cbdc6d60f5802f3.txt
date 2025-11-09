@@ -1,0 +1,191 @@
+Radiation Therapy for Cancer: How Does It Work?
+Home
+/
+Health Library
+/
+Medical Treatments
+/
+Radiation Therapy
+Advertisement
+Advertisement
+Radiation Therapy
+Radiation therapy, along with chemotherapy and surgery, is one of the most powerful tools we use to treat cancer. Radiation therapy includes the most common type, external beam radiation therapy (EBRT), and internal radiation therapy. Your radiation oncologist can recommend radiotherapy tailored to your condition and the kind of cancer you have.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Cancer Care
+Cancer Care for Children
+Make an Appointment
+Contents
+Arrow Down
+Overview
+Treatment Details
+Risks / Benefits
+Recovery and Outlook
+When To Call the Doctor
+Overview
+External beam radiation therapy uses a machine outside of your body to deliver radiation, while internal radiation therapy uses implants or drugs to deliver radiation inside your body.
+What is radiation therapy (radiotherapy)?
+Radiation therapy — or radiotherapy — is a common
+cancer treatment
+that uses radiation (usually high-powered X-rays) to kill
+cancer
+cells. Radiation therapy may be used independently or alongside other treatments, like surgery or
+chemotherapy
+.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Radiation
+oncologists
+are healthcare providers who specialize in radiation therapy. Your radiation oncologist will determine whether radiation therapy would benefit you. If so, they’ll determine the best type of radiation therapy for the kind of cancer you have. They also design the radiation treatment plan with the radiation dosage that will destroy cancer cells without harming nearby healthy tissue.
+What are the types of radiation therapy?
+There are two main types of radiation therapy: external beam radiation therapy (EBRT) and internal radiation therapy. Both types work by destroying a cancer cell’s DNA. Without DNA instructions telling them to grow and multiply, cancer cells die and tumors shrink.
+External beam radiation therapy (EBRT)
+External beam radiation therapy (EBRT)
+is the most common type of radiotherapy. With EBRT, a machine directs beams of high-energy radiation toward the tumor. The energy may be X-rays (most common), electrons or protons. Precision is vital with EBRT. Your radiation oncologist will design a treatment plan to target the tumor with radiation while avoiding your healthy tissue.
+There are many forms of EBRT:
+3D conformal radiation therapy
+uses
+CT scans
+and computer software to create a 3D model of the tumor. Using the model as a guide, the machine directs radiation beams that target the cancer site while sparing healthy tissue.
+Intensity-modulated radiation therapy (IMRT)
+is a more advanced form of radiation therapy.
+IMRT
+uses many radiation beams that vary the dose intensity. It delivers a higher radiation dose to the tumor and lower doses to healthy tissue.
+Arc-based radiotherapy
+is a form of IMRT. It directs energy beams of varying intensity in a rotational arc-like pattern. This method delivers radiation faster than traditional IMRT.
+Volumetric modulated arc therapy (VMAT)
+and tomotherapy are two forms of arc-based radiotherapy.
+Image-guided radiotherapy (IGRT)
+is a form of EBRT in which the radiation machine obtains a low-dose X-ray or mini CT scan before each treatment. This image helps align the treatment site, resulting in more precise radiation delivery.
+Particle therapy
+uses radiation therapy that consists of protons instead of photons (X-rays). For certain people, protons can deliver the same radiation dose to the tumor and reduce radiation dose to healthy tissues.
+Stereotactic radiosurgery
+, such as
+Gamma Knife surgery
+, uses high doses of focused radiation to destroy small brain tumors with surgical precision. Unlike surgery, it doesn’t require cutting. Typically, this treatment takes one to five days.
+Stereotactic body radiation therapy (SBRT
+)
+uses high doses of focused radiation to destroy tumors outside of your brain. Like stereotactic radiosurgery, it eliminates tumors with surgical precision but without actual surgery.
+Intraoperative radiation (IORT)
+delivers radiation during surgery. After a tumor has been removed surgically, IORT destroys any remaining cancer cells that aren’t safe to surgically remove.
+Advertisement
+Internal radiation therapy
+Internal radiation therapy places radiation inside of your body, close to cancer cells. It treats smaller tumors in your head, neck, breast, cervix, uterus or prostate.
+You can receive internal radiation through a solid source or in liquid form:
+Brachytherapy
+implants a solid radioactive source, or “seed,” inside or beside a tumor. The source releases radiation to a small area to kill cancer cells. Some implants release low doses for longer periods (weeks). Others may release high doses for shorter periods (minutes). Some implants used in
+brachytherapy
+are temporary. Others stay in your body forever. Eventually, they stop releasing radiation.
+Systemic therapy
+sends liquid radioactive material through your blood to find and destroy cancer cells. Some forms are swallowed. For others, you’ll receive an injection through a vein (IV). Treatments include radionuclide therapy (radioimmunotherapy). With radioimmunotherapy, a radioactive protein recognizes specific cancer cells, attaches to them and then releases radiation to kill them.
+Why is radiation therapy used?
+Radiation therapy kills cancer cells, shrinks
+tumors
+and relieves cancer symptoms. It may be your only treatment, or it may be used to:
+Shrink tumors before other cancer treatments, like surgery (neo-adjuvant therapy).
+Destroy any remaining cancer cells after surgery (adjuvant therapy).
+Kill cancer cells that return after previous treatment.
+Radiation therapy can also destroy benign (noncancerous) tumors causing symptoms.
+Treatment Details
+What happens before radiation therapy?
+For internal radiation therapy, you may need a physical exam and imaging. Your radiation oncologist will explain how you can prepare for the day of the procedure based on how you’ll receive the radiation.
+External beam radiation therapy (EBRT) involves a planning appointment called a simulation. Simulation is the treatment planning step that customizes your treatment.
+Simulation involves:
+Getting in position.
+You’re positioned on a table exactly as you will be during treatment sessions. Your radiation therapy team may use a mold or mask to hold your body in place. They’ll ensure your alignment is correct. You may get temporary or permanent markings (tiny dots) that show which body parts should receive the radiation.
+Getting scans.
+You’ll receive a CT scan or an
+MRI
+that shows the tumor’s location. This information will help your care team customize X-rays that target a tumor while sparing healthy tissue.
+Simulation allows your radiation oncologist to determine your radiation dosage and how you’ll receive it.
+What happens during radiation therapy?
+Internal radiation therapy usually happens in a special outpatient treatment room or in a hospital. Your radiation oncologist may insert the radiation implant using a small flexible tube called a catheter. For this treatment, you’ll receive
+anesthesia
+so you don’t feel pain or discomfort during the procedure. With the systemic form of internal radiation therapy, you’ll receive radioactive fluid through an IV.
+Advertisement
+With EBRT, you lie on a table, positioned as during simulation. The radiation machine moves around you but never touches you. A healthcare provider called a
+radiation therapist
+operates the machine from a separate room. You can speak to each other at any time using an intercom. The machine directs precise doses of radiation toward the tumor as it shifts positions. You won’t feel anything during treatment.
+What happens after treatment?
+With internal radiation therapy, you’ll typically go home after a short recovery the same day. Occasionally, you may need to stay in the hospital while your body sheds trace amounts of radiation. After systemic (IV) radiation therapy, you may secrete small amounts of radiation through body fluids, like sweat, pee and blood.
+If you receive IV or permanent internal radiation therapy, there’s a small risk of exposing others to radiation. Follow your radiation therapy team’s guidance about how much contact you should have with others after radiotherapy.
+You should be able to go about your regular daily activities before and after EBRT. There’s no risk of exposing others to radiation.
+Care at Cleveland Clinic
+Cancer Care
+Cancer Care for Children
+Make an Appointment
+Risks / Benefits
+What are radiation therapy side effects?
+Most people receive radiation therapy spread out over multiple treatment sessions so they don’t receive the full dose all at once. The treatment schedule gives your healthy tissue time to recover between sessions. The healing time reduces side effects.
+Advertisement
+Still, you may experience unpleasant
+side effects
+that your radiation oncologist will help manage. Usually, these side effects only affect the part of your body receiving radiation directly.
+Side effects may include:
+Fatigue
+.
+Nausea
+.
+Vomiting.
+Diarrhea
+.
+Headaches
+.
+Skin irritation.
+Dry, itchy scalp.
+Hair loss
+.
+Mouth sores
+.
+Pain when you swallow.
+Reduced appetite.
+A burning feeling in your throat or chest.
+Pain or a burning sensation when you pee.
+The need to
+pee frequently
+(often in small amounts).
+Abdominal bloating
+or cramps.
+Sense of urgency to have a bowel movement.
+Ask your radiation oncologist what side effects to expect, given the kind of radiation therapy recommended for the kind of cancer you have.
+What are the advantages of radiation therapy?
+Radiation therapy is a reliable and effective cancer treatment that’s been around for over a century. Depending on the type of cancer you have, radiation therapy can destroy cancer cells and help other treatments work better. It’s also an important part of
+palliative care
+. It can ease cancer symptoms so that you live a fuller, more enjoyable life.
+What are the risks or complications of this treatment?
+Although radiation therapy effectively treats many types of cancer, it may also increase your likelihood of developing a different cancer in the future. For many people, the benefits of radiation therapy are worth the risk.
+Advertisement
+Weigh the benefits of treatment against potential risks with your radiation oncologist.
+Recovery and Outlook
+When can I get back to my normal routine?
+Some people receiving radiation continue their routine with no problems. Others feel so sick that they need to take time out to rest. Many people don’t experience side effects until several weeks into treatment when more cells die.
+Discuss best and worst-case scenarios with your radiation care provider as you plan your schedule around treatment.
+When To Call the Doctor
+When should I see my radiation care provider?
+Your radiation care provider should know about any side effects you’re experiencing, especially those that interfere with your quality of life. Depending on your treatment response, your provider may need to adjust your dosage, change your treatment schedule or try a different type of treatment.
+A note from Cleveland Clinic
+If you have cancer and radiation therapy is one way to treat it, don’t hesitate to ask for specifics. Various forms of radiation therapy exist that can target specific cancers and tumor types. They allow radiation oncologists to deliver precise doses of radiation that can kill cancer cells while sparing healthy tissue. Ask how a particular form of radiotherapy will work to target the tumor while minimizing harmful radiation exposure.
+Care at Cleveland Clinic
+When you’re diagnosed with cancer, you want expert and compassionate care right away. At Cleveland Clinic we personalize your treatment to match your needs.
+Cancer Care
+Cancer Care for Children
+Make an Appointment
+Medically Reviewed
+Last reviewed on 09/07/2022.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Cancer Answer Line
+866.223.8100
+Appointments & Locations
+Request an Appointment
+Search Clinical Trials

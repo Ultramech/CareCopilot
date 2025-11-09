@@ -1,0 +1,183 @@
+Cerebral cavernous malformation: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cerebral cavernous malformation
+URL of this page: https://medlineplus.gov/genetics/condition/cerebral-cavernous-malformation/
+Cerebral cavernous malformation
+Description
+Cerebral cavernous malformations are collections of small blood vessels (capillaries) in
+the brain
+that are enlarged and irregular in structure. These capillaries have abnormally thin walls, and they lack other support tissues, such as elastic fibers, which normally make them stretchy. As a result, the blood vessels are prone to leakage, which can cause the health problems related to this condition. Cavernous malformations can occur anywhere in the body, but usually produce serious signs and symptoms only when they occur in the brain and spinal cord (which are described as cerebral).
+Approximately 25 percent of individuals with cerebral cavernous malformations never experience any related health problems. Other people with this condition may experience serious signs and symptoms such as headaches, seizures, paralysis, hearing or vision loss, and bleeding in the brain (cerebral hemorrhage). Severe brain hemorrhages can result in death. The location and number of cerebral cavernous malformations determine the severity of this disorder. These malformations can change in size and number over time.
+There are two forms of the condition: familial and sporadic. The familial form is passed from parent to child, and affected individuals typically have multiple cerebral cavernous malformations. The sporadic form occurs in people with no family history of the disorder. These individuals typically have only one malformation.
+Frequency
+Cerebral cavernous malformations affect about 16 to 50 per 10,000 people worldwide.
+Causes
+Mutations in at least three genes,
+KRIT1
+(also known as
+CCM1
+),
+CCM2
+, and
+PDCD10
+(also known as
+CCM3
+), cause familial cerebral cavernous malformations.
+The precise functions of these genes are not fully understood. Studies show that the proteins produced from these genes are found in the junctions connecting neighboring blood vessel cells. The proteins interact with each other as part of a complex that strengthens the interactions between cells and limits leakage from the blood vessels. Mutations in any of the three genes impair the function of the protein complex, resulting in weakened cell-to-cell junctions and increased leakage from vessels as seen in cerebral cavernous malformations.
+Mutations in these three genes account for 85 to 95 percent of all cases of familial cerebral cavernous malformations. The remaining 5 to 15 percent of cases may be due to mutations in unidentified genes or to other unknown causes. Mutations in the
+KRIT1
+,
+CCM2
+, and
+PDCD10
+genes are not involved in sporadic cerebral cavernous malformations. The cause of this form of the condition is unknown.
+Learn more about the genes associated with Cerebral cavernous malformation
+CCM2
+KRIT1
+PDCD10
+Inheritance
+This condition has an
+autosomal dominant pattern of inheritance
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In the familial form, an affected person inherits the mutation from one affected parent.
+Most people with cerebral cavernous malformations have the sporadic form of the disorder. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Cavernoma
+Cavernous angioma
+CCM
+Central nervous system cavernous hemangioma
+Cerebral cavernous hemangioma
+Familial cavernous hemangioma
+Familial cavernous malformation
+Familial cerebral cavernous angioma
+Familial cerebral cavernous malformation
+Intracerebral cavernous hemangioma
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cerebral cavernous malformation
+Genetic Testing Registry: Cerebral cavernous malformation 1
+Genetic Testing Registry: Cerebral cavernous malformation 2
+Genetic Testing Registry: Cerebral cavernous malformation 3
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CEREBRAL CAVERNOUS MALFORMATIONS; CCM
+Scientific Articles on PubMed
+PubMed
+References
+Akers A, Al-Shahi Salman R, A Awad I, Dahlem K, Flemming K, Hart B, Kim H,
+Jusue-Torres I, Kondziolka D, Lee C, Morrison L, Rigamonti D, Rebeiz T,
+Tournier-Lasserve E, Waggoner D, Whitehead K. Synopsis of Guidelines for the
+Clinical Management of Cerebral Cavernous Malformations: Consensus
+Recommendations Based on Systematic Literature Review by the Angioma Alliance
+Scientific Advisory Board Clinical Experts Panel. Neurosurgery. 2017 May
+1;80(5):665-680. doi: 10.1093/neuros/nyx091.
+Citation on PubMed
+or
+Free article on PubMed Central
+Bergametti F, Denier C, Labauge P, Arnoult M, Boetto S, Clanet M, Coubes P,
+Echenne B, Ibrahim R, Irthum B, Jacquet G, Lonjon M, Moreau JJ, Neau JP, Parker
+F, Tremoulet M, Tournier-Lasserve E; Societe Francaise de Neurochirurgie.
+Mutations within the programmed cell death 10 gene cause cerebral cavernous
+malformations. Am J Hum Genet. 2005 Jan;76(1):42-51. doi: 10.1086/426952. Epub
+2004 Nov 12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dashti SR, Hoffer A, Hu YC, Selman WR. Molecular genetics of familial cerebral
+cavernous malformations. Neurosurg Focus. 2006 Jul 15;21(1):e2. doi:
+10.3171/foc.2006.21.1.3.
+Citation on PubMed
+Denier C, Goutagny S, Labauge P, Krivosic V, Arnoult M, Cousin A, Benabid AL,
+Comoy J, Frerebeau P, Gilbert B, Houtteville JP, Jan M, Lapierre F, Loiseau H,
+Menei P, Mercier P, Moreau JJ, Nivelon-Chevallier A, Parker F, Redondo AM,
+Scarabin JM, Tremoulet M, Zerah M, Maciazek J, Tournier-Lasserve E; Societe
+Francaise de Neurochirurgie. Mutations within the MGC4607 gene cause cerebral
+cavernous malformations. Am J Hum Genet. 2004 Feb;74(2):326-37. doi:
+10.1086/381718. Epub 2004 Jan 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gault J, Sarin H, Awadallah NA, Shenkar R, Awad IA. Pathobiology of human
+cerebrovascular malformations: basic mechanisms and clinical relevance.
+Neurosurgery. 2004 Jul;55(1):1-16; discussion 16-7.
+Citation on PubMed
+Labauge P, Krivosic V, Denier C, Tournier-Lasserve E, Gaudric A. Frequency of
+retinal cavernomas in 60 patients with familial cerebral cavernomas: a clinical
+and genetic study. Arch Ophthalmol. 2006 Jun;124(6):885-6. doi:
+10.1001/archopht.124.6.885.
+Citation on PubMed
+Marchuk DA, Srinivasan S, Squire TL, Zawistowski JS. Vascular morphogenesis:
+tales of two syndromes. Hum Mol Genet. 2003 Apr 1;12 Spec No 1:R97-112. doi:
+10.1093/hmg/ddg103.
+Citation on PubMed
+Plummer NW, Zawistowski JS, Marchuk DA. Genetics of cerebral cavernous
+malformations. Curr Neurol Neurosci Rep. 2005 Sep;5(5):391-6. doi:
+10.1007/s11910-005-0063-7.
+Citation on PubMed
+Stockton RA, Shenkar R, Awad IA, Ginsberg MH. Cerebral cavernous malformations
+proteins inhibit Rho kinase to stabilize vascular integrity. J Exp Med. 2010 Apr
+12;207(4):881-96. doi: 10.1084/jem.20091258. Epub 2010 Mar 22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sure U, Freman S, Bozinov O, Benes L, Siegel AM, Bertalanffy H. Biological
+activity of adult cavernous malformations: a study of 56 patients. J Neurosurg.
+2005 Feb;102(2):342-7. doi: 10.3171/jns.2005.102.2.0342.
+Citation on PubMed
+Verlaan DJ, Davenport WJ, Stefan H, Sure U, Siegel AM, Rouleau GA. Cerebral
+cavernous malformations: mutations in Krit1. Neurology. 2002 Mar 26;58(6):853-7.
+doi: 10.1212/wnl.58.6.853.
+Citation on PubMed
+Voss K, Stahl S, Schleider E, Ullrich S, Nickel J, Mueller TD, Felbor U. CCM3
+interacts with CCM2 indicating common pathogenesis for cerebral cavernous
+malformations. Neurogenetics. 2007 Nov;8(4):249-56. doi:
+10.1007/s10048-007-0098-9. Epub 2007 Jul 27.
+Citation on PubMed
+Zawistowski JS, Stalheim L, Uhlik MT, Abell AN, Ancrile BB, Johnson GL,
+Marchuk DA. CCM1 and CCM2 protein interactions in cell signaling: implications
+for cerebral cavernous malformations pathogenesis. Hum Mol Genet. 2005 Sep
+1;14(17):2521-31. doi: 10.1093/hmg/ddi256. Epub 2005 Jul 21.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Brain Malformations
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cerebral angiography
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

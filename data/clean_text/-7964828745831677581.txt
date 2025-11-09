@@ -1,0 +1,211 @@
+Hypohidrotic ectodermal dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Hypohidrotic ectodermal dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/hypohidrotic-ectodermal-dysplasia/
+Hypohidrotic ectodermal dysplasia
+Description
+Hypohidrotic ectodermal dysplasia is one of more than 100 types of ectodermal dysplasia. Starting before birth, these disorders result in the abnormal development of ectodermal tissues, particularly the skin, hair, nails, teeth, and sweat glands.
+Most people with hypohidrotic ectodermal dysplasia have a reduced ability to sweat (hypohidrosis) because they have fewer sweat glands than normal or their sweat glands do not function properly. Sweating is a major way that the body controls its temperature; as sweat evaporates from the skin, it cools the body. Reduced sweating can lead to a dangerously high body temperature (hyperthermia), particularly in hot weather. In some cases, hyperthermia can cause life-threatening health problems.
+Affected individuals tend to have sparse scalp and body hair (
+hypotrichosis
+). The hair is often light-colored, brittle, and slow-growing. Hypohidrotic ectodermal dysplasia is also characterized by several missing teeth (hypodontia) or teeth that are malformed. The teeth that are present erupt from the gums later than usual and are frequently
+small and pointed
+.
+Some people with hypohidrotic ectodermal dysplasia have distinctive facial features, including a
+prominent forehead
+, thick lips, and a
+flattened bridge of the nose
+. Additional features of this condition can include thin, wrinkled, and dark-colored skin around the eyes; chronic skin problems such as eczema; and a bad-smelling discharge from the nostrils (ozena).
+Intellectual ability and growth are typically normal in people with hypohidrotic ectodermal dysplasia.
+Frequency
+Hypohidrotic ectodermal dysplasia is the most common form of ectodermal dysplasia. It is estimated to occur in 1 in 20,000 newborns worldwide.
+Causes
+Hypohidrotic ectodermal dysplasia is a genetic condition that can result from mutations in one of several genes. These include
+EDA
+,
+EDAR
+,
+EDARADD
+, and
+WNT10A
+.
+EDA
+gene mutations are the most common cause of the disorder, accounting for more than half of all cases.
+EDAR
+,
+EDARADD
+, and
+WNT10A
+gene mutations each account for a smaller percentage of cases. In about 10 percent of people with hypohidrotic ectodermal dysplasia, the genetic cause is unknown.
+The
+EDA
+,
+EDAR
+, and
+EDARADD
+genes provide instructions for making proteins that work together during embryonic development. These proteins form part of a signaling pathway that is critical for the interaction between two cell layers, the ectoderm and the mesoderm. In the early embryo, these cell layers form the basis for many of the body's organs and tissues. Ectoderm-mesoderm interactions are essential for the formation of several structures that arise from the ectoderm, including the skin, hair, nails, teeth, and sweat glands.
+Mutations in the
+EDA
+,
+EDAR
+, or
+EDARADD
+gene prevent normal interactions between the ectoderm and the mesoderm, which impairs the normal development of skin, hair, nails, teeth, and sweat glands. Mutations in any of these three genes lead to the major signs and symptoms of hypohidrotic ectodermal dysplasia described above.
+The
+WNT10A
+gene provides instructions for making a protein that is part of a different signaling pathway known as Wnt signaling. Wnt signaling controls the activity of certain genes and regulates the interactions between cells during embryonic development. Signaling involving the WNT10A protein is critical for the development of ectodermal structures, particularly the teeth. The
+WNT10A
+gene mutations that cause hypohidrotic ectodermal dysplasia impair the protein's function, which disrupts the development of teeth and other structures that arise from the ectodermal cell layer.
+When hypohidrotic ectodermal dysplasia results from
+WNT10A
+gene mutations, its features are more variable than when the condition is caused by mutations in the
+EDA
+,
+EDAR
+, or
+EDARADD
+gene. Signs and symptoms range from mild to severe, and mutations in the
+WNT10A
+gene are more likely to cause all of the permanent (adult) teeth to be missing.
+Learn more about the genes associated with Hypohidrotic ectodermal dysplasia
+EDA
+EDAR
+EDARADD
+WNT10A
+Inheritance
+Hypohidrotic ectodermal dysplasia has several different inheritance patterns. Most cases are inherited in an X-linked pattern and are caused by mutations in the
+EDA
+gene. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two
+sex chromosomes
+. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell often leads to less severe features of the condition. Signs and symptoms can include a few missing or abnormal teeth, sparse hair, and mild problems with sweat gland function. However, some females with one copy of the mutated gene have more severe features of this disorder.
+Less commonly, hypohidrotic ectodermal dysplasia has an
+autosomal dominant
+or
+autosomal recessive
+pattern of inheritance. Mutations in the
+EDAR
+,
+EDARADD
+, or
+WNT10A
+gene can cause either autosomal dominant or autosomal recessive hypohidrotic ectodermal dysplasia.
+Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. Some affected individuals inherit the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene. Some mutation carriers have mild signs and symptoms of hypohidrotic ectodermal dysplasia, including a somewhat reduced ability to sweat and less severe dental abnormalities.
+Other Names for This Condition
+Anhidrotic ectodermal dysplasia
+Christ-Siemens-Touraine syndrome
+CST syndrome
+HED
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant
+Genetic Testing Registry: Ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive
+Genetic Testing Registry: Hypohidrotic X-linked ectodermal dysplasia
+Genetic and Rare Diseases Information Center
+Autosomal dominant hypohidrotic ectodermal dysplasia
+Autosomal recessive hypohidrotic ectodermal dysplasia
+Hypohidrotic ectodermal dysplasia
+Hypohidrotic ectodermal dysplasia-hypothyroidism-ciliary dyskinesia syndrome
+X-linked hypohidrotic ectodermal dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ECTODERMAL DYSPLASIA 10A, HYPOHIDROTIC/HAIR/NAIL TYPE, AUTOSOMAL DOMINANT; ECTD10A
+ECTODERMAL DYSPLASIA 10B, HYPOHIDROTIC/HAIR/TOOTH TYPE, AUTOSOMAL RECESSIVE; ECTD10B
+ECTODERMAL DYSPLASIA 1, HYPOHIDROTIC, X-LINKED; XHED
+ECTODERMAL DYSPLASIA 11A, HYPOHIDROTIC/HAIR/TOOTH TYPE, AUTOSOMAL DOMINANT; ECTD11A
+ECTODERMAL DYSPLASIA 11B, HYPOHIDROTIC/HAIR/TOOTH TYPE, AUTOSOMAL RECESSIVE; ECTD11B
+Scientific Articles on PubMed
+PubMed
+References
+Bohring A, Stamm T, Spaich C, Haase C, Spree K, Hehr U, Hoffmann M, Ledig S,
+Sel S, Wieacker P, Ropke A. WNT10A mutations are a frequent cause of a broad
+spectrum of ectodermal dysplasias with sex-biased manifestation pattern in
+heterozygotes. Am J Hum Genet. 2009 Jul;85(1):97-105. doi:
+10.1016/j.ajhg.2009.06.001. Epub 2009 Jun 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Cluzeau C, Hadj-Rabia S, Jambou M, Mansour S, Guigue P, Masmoudi S, Bal E,
+Chassaing N, Vincent MC, Viot G, Clauss F, Maniere MC, Toupenay S, Le Merrer M,
+Lyonnet S, Cormier-Daire V, Amiel J, Faivre L, de Prost Y, Munnich A, Bonnefont
+JP, Bodemer C, Smahi A. Only four genes (EDA1, EDAR, EDARADD, and WNT10A) account
+for 90% of hypohidrotic/anhidrotic ectodermal dysplasia cases. Hum Mutat. 2011
+Jan;32(1):70-2. doi: 10.1002/humu.21384.
+Citation on PubMed
+Mikkola ML. Molecular aspects of hypohidrotic ectodermal dysplasia. Am J Med
+Genet A. 2009 Sep;149A(9):2031-6. doi: 10.1002/ajmg.a.32855.
+Citation on PubMed
+Nguyen-Nielsen M, Skovbo S, Svaneby D, Pedersen L, Fryzek J. The prevalence of
+X-linked hypohidrotic ectodermal dysplasia (XLHED) in Denmark, 1995-2010. Eur J
+Med Genet. 2013 May;56(5):236-42. doi: 10.1016/j.ejmg.2013.01.012. Epub 2013 Feb
+14.
+Citation on PubMed
+Trzeciak WH, Koczorowski R. Molecular basis of hypohidrotic ectodermal
+dysplasia: an update. J Appl Genet. 2016 Feb;57(1):51-61. doi:
+10.1007/s13353-015-0307-4. Epub 2015 Aug 21.
+Citation on PubMed
+or
+Free article on PubMed Central
+van der Hout AH, Oudesluijs GG, Venema A, Verheij JB, Mol BG, Rump P, Brunner
+HG, Vos YJ, van Essen AJ. Mutation screening of the Ectodysplasin-A receptor gene
+EDAR in hypohidrotic ectodermal dysplasia. Eur J Hum Genet. 2008 Jun;16(6):673-9.
+doi: 10.1038/sj.ejhg.5202012. Epub 2008 Jan 30.
+Citation on PubMed
+Wisniewski SA, Kobielak A, Trzeciak WH, Kobielak K. Recent advances in
+understanding of the molecular basis of anhidrotic ectodermal dysplasia:
+discovery of a ligand, ectodysplasin A and its two receptors. J Appl Genet.
+2002;43(1):97-107.
+Citation on PubMed
+Wright JT, Grange DK, Fete M. Hypohidrotic Ectodermal Dysplasia. 2003 Apr 28
+[updated 2025 Mar 20]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1112/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Skin Conditions
+Tooth Disorders
+MEDICAL ENCYCLOPEDIA
+Absence of Sweating
+Ectodermal dysplasia
+Genetics
+Ozena
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

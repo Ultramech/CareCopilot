@@ -1,0 +1,123 @@
+Myopathy with deficiency of iron-sulfur cluster assembly enzyme: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Myopathy with deficiency of iron-sulfur cluster assembly enzyme
+URL of this page: https://medlineplus.gov/genetics/condition/myopathy-with-deficiency-of-iron-sulfur-cluster-assembly-enzyme/
+Myopathy with deficiency of iron-sulfur cluster assembly enzyme
+Description
+Myopathy with deficiency of iron-sulfur cluster assembly enzyme is an inherited disorder that primarily affects muscles used for movement (
+skeletal muscles
+). This condition does not usually affect other types of muscle, such as the heart (cardiac) muscle.
+From early childhood, affected individuals experience extreme fatigue in response to physical activity (exercise intolerance). Mild exertion results in a rapid heartbeat (tachycardia), shortness of breath, and muscle weakness and pain. However, people with this condition typically have normal muscle strength when they are at rest.
+Prolonged or recurrent physical activity causes more severe signs and symptoms, including a breakdown of muscle tissue (rhabdomyolysis). The destruction of muscle tissue releases a protein called myoglobin, which is processed by the kidneys and released in the urine (myoglobinuria). Myoglobin causes the urine to be red or brown. This protein can also damage the kidneys, in some cases leading to life-threatening kidney failure.
+In most affected individuals, the muscle problems associated with this condition do not worsen with time. However, at least two people with a severe variant of this disorder have experienced progressive muscle weakness and wasting starting in childhood.
+Frequency
+This condition has been reported in several families of northern Swedish ancestry.
+Causes
+Myopathy with deficiency of iron-sulfur cluster assembly enzyme is caused by mutations in the
+ISCU
+gene. This gene provides instructions for making a protein called the iron-sulfur cluster assembly enzyme. As its name suggests, this enzyme is involved in the formation of clusters of iron and sulfur atoms (Fe-S clusters). These clusters are critical for the function of many different proteins, including those needed for DNA repair and the regulation of iron levels. Proteins containing Fe-S clusters are also necessary for energy production within
+mitochondria
+, which are the cell structures that convert the energy from food into a form that cells can use.
+Mutations in the
+ISCU
+gene severely limit the amount of iron-sulfur cluster assembly enzyme that is made in cells. A shortage of this enzyme prevents the normal production of proteins that contain Fe-S clusters, which disrupts a variety of cellular activities. A reduction in the amount of iron-sulfur cluster assembly enzyme is particularly damaging to skeletal muscle cells. Within the mitochondria of these cells, a lack of this enzyme causes problems with energy production and an overload of iron. These defects lead to exercise intolerance and the other features of myopathy with deficiency of iron-sulfur cluster assembly enzyme.
+Learn more about the gene associated with Myopathy with deficiency of iron-sulfur cluster assembly enzyme
+ISCU
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Hereditary myopathy with lactic acidosis
+HML
+Iron-sulfur cluster deficiency myopathy
+Myoglobinuria due to abnormal glycolysis
+Myopathy with deficiency of ISCU
+Myopathy with deficiency of succinate dehydrogenase and aconitase
+Myopathy with exercise intolerance, Swedish type
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hereditary myopathy with lactic acidosis due to ISCU deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MYOPATHY WITH LACTIC ACIDOSIS, HEREDITARY; HML
+Scientific Articles on PubMed
+PubMed
+References
+Drugge U, Holmberg M, Holmgren G, Almay BG, Linderholm H. Hereditary myopathy
+with lactic acidosis, succinate dehydrogenase and aconitase deficiency in
+northern Sweden: a genealogical study. J Med Genet. 1995 May;32(5):344-7. doi:
+10.1136/jmg.32.5.344.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kollberg G, Tulinius M, Melberg A, Darin N, Andersen O, Holmgren D, Oldfors A,
+Holme E. Clinical manifestation and a new ISCU mutation in iron-sulphur cluster
+deficiency myopathy. Brain. 2009 Aug;132(Pt 8):2170-9. doi: 10.1093/brain/awp152.
+Epub 2009 Jun 30.
+Citation on PubMed
+Mochel F, Haller RG. Myopathy with Deficiency of ISCU - RETIRED CHAPTER, FOR
+HISTORICAL REFERENCE ONLY. 2009 Mar 31 [updated 2016 Mar 3]. In: Adam MP, Feldman
+J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK5299/
+Citation on PubMed
+Mochel F, Knight MA, Tong WH, Hernandez D, Ayyad K, Taivassalo T, Andersen PM,
+Singleton A, Rouault TA, Fischbeck KH, Haller RG. Splice mutation in the
+iron-sulfur cluster scaffold protein ISCU causes myopathy with exercise
+intolerance. Am J Hum Genet. 2008 Mar;82(3):652-60. doi:
+10.1016/j.ajhg.2007.12.012. Epub 2008 Feb 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Olsson A, Lind L, Thornell LE, Holmberg M. Myopathy with lactic acidosis is
+linked to chromosome 12q23.3-24.11 and caused by an intron mutation in the ISCU
+gene resulting in a splicing defect. Hum Mol Genet. 2008 Jun 1;17(11):1666-72.
+doi: 10.1093/hmg/ddn057. Epub 2008 Feb 23.
+Citation on PubMed
+Rouault TA, Tong WH. Iron-sulfur cluster biogenesis and human disease. Trends
+Genet. 2008 Aug;24(8):398-407. doi: 10.1016/j.tig.2008.05.008. Epub 2008 Jul 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Rhabdomyolysis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

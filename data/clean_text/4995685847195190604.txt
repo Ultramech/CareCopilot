@@ -1,0 +1,158 @@
+Alpha thalassemia X-linked intellectual disability syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Alpha thalassemia X-linked intellectual disability syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/alpha-thalassemia-x-linked-intellectual-disability-syndrome/
+Alpha thalassemia X-linked intellectual disability syndrome
+Description
+Alpha thalassemia X-linked intellectual disability syndrome is an inherited disorder that affects many parts of the body. This condition occurs almost exclusively in males.
+Males with
+alpha thalassemia
+X-linked intellectual disability syndrome have intellectual disability and delayed development. Their speech is significantly delayed, and most never speak or sign more than a few words. Most affected children have weak muscle tone (hypotonia), which delays motor skills such as sitting, standing, and walking. Some people with this disorder are never able to walk independently.
+Almost everyone with alpha thalassemia X-linked intellectual disability syndrome has distinctive facial features, including widely spaced eyes, a small nose with upturned nostrils, and low-set ears. The upper lip is shaped like an upside-down "V," and the lower lip tends to be prominent. These facial characteristics are most apparent in early childhood. Over time, the facial features become coarser, including a flatter face with a shortened nose.
+Most affected individuals have mild signs of a blood disorder called alpha thalassemia. This disorder reduces the production of
+hemoglobin
+, which is the protein in red blood cells that carries oxygen to cells throughout the body. A reduction in the amount of hemoglobin prevents enough oxygen from reaching the body's tissues. Rarely, affected individuals also have a shortage of red blood cells (
+anemia
+), which can cause pale skin, weakness, and fatigue.
+Additional features of alpha thalassemia X-linked intellectual disability syndrome include an unusually small head size (
+microcephaly
+), short stature, and skeletal abnormalities. Many affected individuals have problems with the digestive system, such as a backflow of stomach acids into the esophagus (gastroesophageal reflux) and chronic constipation. Genital abnormalities are also common; affected males may have undescended testes and the opening of the urethra on the underside of the penis (hypospadias). In more severe cases, the external genitalia do not look clearly male or female.
+Frequency
+Alpha thalassemia X-linked intellectual disability syndrome appears to be a rare condition, although its exact prevalence is unknown. More than 200 affected individuals have been reported.
+Causes
+Alpha thalassemia X-linked intellectual disability syndrome results from mutations in the
+ATRX
+gene. This gene provides instructions for making a protein that plays an essential role in normal development. Although the exact function of the ATRX protein is unknown, studies suggest that it helps regulate the activity (expression) of other genes. Among these genes are
+HBA1
+and
+HBA2
+, which are necessary for normal
+hemoglobin
+production.
+Mutations in the
+ATRX
+gene change the structure of the ATRX protein, which likely prevents it from effectively regulating gene expression. Reduced activity of the
+HBA1
+and
+HBA2
+genes causes alpha thalassemia. Abnormal expression of other genes, which have not been identified, probably causes developmental delay, distinctive facial features, and the other signs and symptoms of alpha thalassemia X-linked intellectual disability syndrome.
+Learn more about the gene associated with Alpha thalassemia X-linked intellectual disability syndrome
+ATRX
+Inheritance
+This condition is inherited in an
+X-linked recessive pattern
+. The
+ATRX
+gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), one working copy of the
+ATRX
+gene can usually compensate for the mutated copy. Therefore, females who carry a single mutated
+ATRX
+gene almost never have signs of alpha thalassemia X-linked intellectual disability syndrome.
+A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+Other Names for This Condition
+Alpha thalassemia X-linked mental retardation syndrome
+Alpha thalassemia/mental retardation, X-linked
+Alpha-thalassemia X-linked mental retardation syndrome
+Alpha-thalassemia/mental retardation syndrome, nondeletion type
+ATR-X syndrome
+ATRX syndrome
+X-linked alpha-thalassemia/mental retardation syndrome
+XLMR-hypotonic face syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Alpha thalassemia-X-linked intellectual disability syndrome
+Genetic and Rare Diseases Information Center
+Alpha-thalassemia-X-linked intellectual disability syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+ALPHA-THALASSEMIA/IMPAIRED INTELLECTUAL DEVELOPMENT SYNDROME, X-LINKED; ATRX
+Scientific Articles on PubMed
+PubMed
+References
+Gibbons R. Alpha thalassaemia-mental retardation, X linked. Orphanet J Rare
+Dis. 2006 May 4;1:15. doi: 10.1186/1750-1172-1-15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gibbons RJ, Brueton L, Buckle VJ, Burn J, Clayton-Smith J, Davison BC, Gardner
+RJ, Homfray T, Kearney L, Kingston HM, et al. Clinical and hematologic aspects of
+the X-linked alpha-thalassemia/mental retardation syndrome (ATR-X). Am J Med
+Genet. 1995 Jan 30;55(3):288-99. doi: 10.1002/ajmg.1320550309.
+Citation on PubMed
+Gibbons RJ, Higgs DR. Molecular-clinical spectrum of the ATR-X syndrome. Am J
+Med Genet. 2000 Fall;97(3):204-12. doi:
+10.1002/1096-8628(200023)97:33.0.CO;2-X.
+Citation on PubMed
+Gibbons RJ, Suthers GK, Wilkie AO, Buckle VJ, Higgs DR. X-linked
+alpha-thalassemia/mental retardation (ATR-X) syndrome: localization to
+Xq12-q21.31 by X inactivation and linkage analysis. Am J Hum Genet. 1992
+Nov;51(5):1136-49.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gibbons RJ, Wada T, Fisher CA, Malik N, Mitson MJ, Steensma DP, Fryer A,
+Goudie DR, Krantz ID, Traeger-Synodinos J. Mutations in the chromatin-associated
+protein ATRX. Hum Mutat. 2008 Jun;29(6):796-802. doi: 10.1002/humu.20734.
+Citation on PubMed
+Higgs DR, Weatherall DJ. The alpha thalassaemias. Cell Mol Life Sci. 2009
+Apr;66(7):1154-62. doi: 10.1007/s00018-008-8529-9.
+Citation on PubMed
+Martucciello G, Lombardi L, Savasta S, Gibbons RJ. Gastrointestinal phenotype
+of ATR-X syndrome. Am J Med Genet A. 2006 Jun 1;140(11):1172-6. doi:
+10.1002/ajmg.a.31248.
+Citation on PubMed
+Stevenson RE. Alpha-Thalassemia X-Linked Intellectual Disability Syndrome.
+2000 Jun 19 [updated 2020 May 28]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA,
+Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1449/
+Citation on PubMed
+Villard L, Fontes M. Alpha-thalassemia/mental retardation syndrome, X-Linked
+(ATR-X, MIM #301040, ATR-X/XNP/XH2 gene MIM #300032). Eur J Hum Genet. 2002
+Apr;10(4):223-5. doi: 10.1038/sj.ejhg.5200800. No abstract available.
+Citation on PubMed
+Related Health Topics
+Developmental Disabilities
+Genetic Disorders
+Thalassemia
+MEDICAL ENCYCLOPEDIA
+Ambiguous genitalia
+Genetics
+Hypospadias
+Related Medical Tests
+Iron Tests
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

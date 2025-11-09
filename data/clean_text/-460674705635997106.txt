@@ -1,0 +1,148 @@
+Waldenström macroglobulinemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Waldenström macroglobulinemia
+URL of this page: https://medlineplus.gov/genetics/condition/waldenstrom-macroglobulinemia/
+Waldenström macroglobulinemia
+Description
+Waldenström macroglobulinemia is a rare blood cell cancer characterized by an excess of abnormal white blood cells in the bone marrow. These abnormal cells have characteristics of both white blood cells (
+lymphocytes
+) called B cells and more mature cells derived from B cells known as plasma cells. These abnormal cells with both lymphocyte and plasma characteristics are known as lymphoplasmacytic cells. Due to these cells, Waldenström macroglobulinemia is classified as a lymphoplasmacytic lymphoma. In Waldenström macroglobulinemia, these abnormal cells produce excess amounts of
+IgM
+, the largest of a type of protein known as an immunoglobulin; the overproduction of this large protein contributes to the condition's name (macroglobulinemia).
+Waldenström macroglobulinemia usually begins in a person's sixties and is a slow-growing (indolent) cancer. Some affected individuals have elevated levels of IgM and lymphoplasmacytic cells but no symptoms of the condition; in these cases, the disease is usually found incidentally by a blood test taken for another reason. These individuals are diagnosed with smoldering (or asymptomatic) Waldenström macroglobulinemia. It can be many years before a person with the condition develops noticable signs and symptoms.
+The most common signs and symptoms to first appear in people with Waldenström macroglobulinemia are weakness and extreme tiredness (fatigue) caused by a shortage of red blood cells (anemia). Affected individuals can also experience general symptoms such as fever, night sweats, and weight loss. Some people with Waldenström macroglobulinemia develop a loss of sensation and weakness in the limbs (peripheral neuropathy). Doctors are unsure why this feature occurs, although they speculate that the IgM protein attaches to the protective covering of nerve cells (myelin) and breaks it down. The damaged nerves cannot carry signals normally, leading to neuropathy.
+Other features of Waldenström macroglobulinemia are due to the accumulation of lymphoplasmacytic cells in different tissues. For example, accumulation of these cells can lead to an enlarged liver (hepatomegaly), spleen (splenomegaly), or
+lymph nodes
+(lymphadenopathy). In the bone marrow, the lymphoplasmacytic cells interfere with
+normal blood cell development
+, causing a shortage of healthy blood cells (pancytopenia).
+Several other signs and symptoms of Waldenström macroglobulinemia are related to the excess amounts of IgM. Increased IgM can thicken blood and impair circulation, causing a condition known as hyperviscosity syndrome. Features related to hyperviscosity syndrome include bleeding in the nose or mouth, blurring or loss of vision, headache, dizziness, and confusion. In some affected individuals, IgM and other immunoglobulins react to cold temperatures to form gel-like clumps that block blood flow in areas exposed to the cold, such as the hands and feet. These clumped proteins are referred to as cryoglobulins, and their clumping causes a condition known as cryoglobulinemia. Cryoglobulinemia can lead to pain in the hands and feet or episodes of
+Raynaud phenomenon
+, in which the fingers and toes turn white or blue in response to cold temperatures. The IgM protein, along with another protein called amyloid, can build up in organs and interfere with their normal function. This buildup causes a condition called amyloidosis. Organs that are typically affected by amyloidosis include the heart, kidneys, liver or spleen. Affected individuals can experience weakness, fatigue, shortness of breath, irregular heartbeat, or joint pain.
+Frequency
+Waldenström macroglobulinemia affects an estimated 3 per million people each year in the United States. Approximately 1,000 to 1,500 new cases of the condition are diagnosed each year in this country, and white people are more likely to develop Waldenström macroglobulinemia than African Americans. For unknown reasons, the condition occurs twice as often in men than women.
+Causes
+It is not clear what causes Waldenström macroglobulinemia, though it is likely to result from a combination of genetic changes. The most common known genetic change associated with this condition is a variant (also called mutation) in the
+MYD88
+gene, which is found in more than 90 percent of affected individuals. Another gene commonly associated with Waldenström macroglobulinemia,
+CXCR4
+, is altered in approximately 30 percent of affected individuals (most of whom also have the
+MYD88
+gene variant).
+The proteins produced from the
+MYD88
+and
+CXCR4
+genes are both involved in signaling within cells. The MyD88 protein relays signals that help prevent the self-destruction (
+apoptosis
+) of cells, thus aiding in cell survival. The CXCR4 protein stimulates signaling pathways inside the cell that help regulate cell growth and division (proliferation) and cell survival. Variants in these genes lead to production of proteins that are constantly turned on (overactive). Excessive signaling through these overactive proteins allows survival and proliferation of abnormal cells that should undergo apoptosis, which likely contributes to the accumulation of lymphoplasmacytic cells in Waldenström macroglobulinemia.
+Other genetic changes believed to be involved in Waldenström macroglobulinemia have not yet been identified. Studies have found that certain regions of DNA are deleted or added in some people with the condition; however, researchers are unsure which genes in these regions are important for development of the condition. The variants that cause Waldenström macroglobulinemia are acquired during a person's lifetime and are present only in the abnormal blood cells.
+Learn more about the genes associated with Waldenström macroglobulinemia
+CXCR4
+MYD88
+Inheritance
+Waldenström macroglobulinemia is not inherited, and most affected people have no history of the disorder in their family. The condition usually arises from genetic changes in blood cells that are acquired during a person's lifetime (somatic variants), which are not inherited.
+Some families seem to have a predisposition to the condition. Approximately 20 percent of people with Waldenström macroglobulinemia have a family member with the condition or another disorder involving abnormal B cells.
+Other Names for This Condition
+Macroglobulinemia of Waldenstrom
+Waldenstrom macroglobulinemia
+Waldenstrom's macroglobulinemia
+WM
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Macroglobulinemia, Waldenstrom, 1
+Genetic and Rare Diseases Information Center
+Waldenström macroglobulinemia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MACROGLOBULINEMIA, WALDENSTROM, SUSCEPTIBILITY TO, 1; WM1
+Scientific Articles on PubMed
+PubMed
+References
+Cao Y, Hunter ZR, Liu X, Xu L, Yang G, Chen J, Patterson CJ, Tsakmaklis N,
+Kanan S, Rodig S, Castillo JJ, Treon SP. The WHIM-like CXCR4(S338X) somatic
+mutation activates AKT and ERK, and promotes resistance to ibrutinib and other
+agents used in the treatment of Waldenstrom's Macroglobulinemia. Leukemia. 2015
+Jan;29(1):169-76. doi: 10.1038/leu.2014.187. Epub 2014 Jun 10.
+Citation on PubMed
+Hunter ZR, Xu L, Yang G, Zhou Y, Liu X, Cao Y, Manning RJ, Tripsas C,
+Patterson CJ, Sheehy P, Treon SP. The genomic landscape of Waldenstrom
+macroglobulinemia is characterized by highly recurring MYD88 and WHIM-like CXCR4
+mutations, and small somatic deletions associated with B-cell lymphomagenesis.
+Blood. 2014 Mar 13;123(11):1637-46. doi: 10.1182/blood-2013-09-525808. Epub 2013
+Dec 23.
+Citation on PubMed
+Monge J, Braggio E, Ansell SM. Genetic factors and pathogenesis of
+Waldenstrom's macroglobulinemia. Curr Oncol Rep. 2013 Oct;15(5):450-6. doi:
+10.1007/s11912-013-0331-7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Poulain S, Roumier C, Galiegue-Zouitina S, Daudignon A, Herbaux C, Aiijou R,
+Lainelle A, Broucqsault N, Bertrand E, Manier S, Renneville A, Soenen V, Tricot
+S, Roche-Lestienne C, Duthilleul P, Preudhomme C, Quesnel B, Morel P, Leleu X.
+Genome wide SNP array identified multiple mechanisms of genetic changes in
+Waldenstrom macroglobulinemia. Am J Hematol. 2013 Nov;88(11):948-54. doi:
+10.1002/ajh.23545. Epub 2013 Aug 30.
+Citation on PubMed
+Sahin I, Leblebjian H, Treon SP, Ghobrial IM. Waldenstrom macroglobulinemia:
+from biology to treatment. Expert Rev Hematol. 2014 Feb;7(1):157-68. doi:
+10.1586/17474086.2014.871494. Epub 2014 Jan 3.
+Citation on PubMed
+Treon SP, Xu L, Yang G, Zhou Y, Liu X, Cao Y, Sheehy P, Manning RJ, Patterson
+CJ, Tripsas C, Arcaini L, Pinkus GS, Rodig SJ, Sohani AR, Harris NL, Laramie JM,
+Skifter DA, Lincoln SE, Hunter ZR. MYD88 L265P somatic mutation in Waldenstrom's
+macroglobulinemia. N Engl J Med. 2012 Aug 30;367(9):826-33. doi:
+10.1056/NEJMoa1200710.
+Citation on PubMed
+Yang G, Zhou Y, Liu X, Xu L, Cao Y, Manning RJ, Patterson CJ, Buhrlage SJ,
+Gray N, Tai YT, Anderson KC, Hunter ZR, Treon SP. A mutation in MYD88 (L265P)
+supports the survival of lymphoplasmacytic cells by activation of Bruton tyrosine
+kinase in Waldenstrom macroglobulinemia. Blood. 2013 Aug 15;122(7):1222-32. doi:
+10.1182/blood-2012-12-475111. Epub 2013 Jul 8.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Lymphoma
+MEDICAL ENCYCLOPEDIA
+Cryoglobulinemia
+Genetics
+Waldenstrom macroglobulinemia
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

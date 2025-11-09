@@ -1,0 +1,198 @@
+TMS (Transcranial Magnetic Stimulation): What It Is
+Home
+/
+Health Library
+/
+Medical Treatments
+/
+Transcranial Magnetic Stimulation (TMS)
+Advertisement
+Advertisement
+Transcranial Magnetic Stimulation (TMS)
+Transcranial magnetic stimulation (TMS) is a treatment technique that uses a magnetic field to influence brain activity. It can treat depression, obsessive-compulsive disorder and other brain-related conditions. It’s noninvasive and can help when other treatment approaches aren’t effective. The side effects are usually mild and temporary.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Neurology Care for Adults
+Neurology Care for Children
+Make an Appointment
+Contents
+Arrow Down
+Overview
+Treatment Details
+Risks / Benefits
+Recovery and Outlook
+When To Call the Doctor
+Additional Details
+Overview
+What is transcranial magnetic stimulation (TMS)?
+Transcranial magnetic stimulation (TMS) is a noninvasive treatment that involves using a magnetic coil to influence your brain’s natural electrical activity. This treatment, first developed in 1985, now sees widespread use for a variety of mental health and brain-related conditions.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Why would a magnet affect how my brain works?
+Transcranial magnetic stimulation relies on two basic principles of physics: electricity and magnetism. These two principles can also work cooperatively, and TMS relies on their ability to work together.
+The space surrounding a magnet is magnetically active, and a magnet’s influence in that space is known as the magnetic field. You can’t see it, but that space still shows the effects of the magnet at its center. When you bring a magnet near something that conducts electricity, the interaction between the conductive item and the magnetic field generates electricity.
+So, why does all that matter? It matters because your brain is electrically active. The brain cells in your brain and nerves (known as neurons) use tiny amounts of electricity to send and relay information throughout your brain and body. Bringing a magnet close to your brain can influence your brain’s electrical activity. That’s why TMS targets specific parts of your brain, especially those related to your emotions, internal decision-making, feelings of pleasure, etc.
+However, doing TMS requires a magnet that switches on and off. Doing that is possible by using electricity to control when the magnet is on or off. It also requires a magnet that’s much stronger than the average magnet on your refrigerator or that you keep around your home.
+Advertisement
+Different types of TMS
+There are different ways to perform TMS. They have to do with the magnet’s strength or various ways to apply the magnetic field.
+Magnet strength
+. The unit for measuring the strength of a magnet is the tesla (T). Most TMS magnets generate a magnetic field with a strength of 1.5T to 2T, similar to a magnetic resonance imaging (MRI) scanner. However, the area of the magnetic field is much smaller than it is for an MRI because the TMS magnet is so much smaller.
+Pulse frequency
+. Each time the magnetic field turns on and off is a pulse. The number of pulses per second is the frequency (which is measured in hertz, abbreviated Hz). TMS can involve low-frequency pulses at 1 Hz (1 pulse per second) or high-frequency pulses at 5 Hz to 10 Hz (5 pulses per second to 10 pulses per second). TMS that uses repetitive pulses is known as repetitive TMS (rTMS).
+Pulse patterns
+. TMS can also use different patterns of pulses for treatment. An example of this is theta-burst stimulation (TBS). During TBS, a triplet of 5 Hz bursts happens, for a total of 15 pulses in a second. Using these burst patterns speeds up treatment, making it about five or six times faster than other methods.
+Magnetic coil type and stimulation target.
+Different kinds of magnetic coils can target different brain structures. Deep TMS (dTMS), which involves an H-shaped helmed coil, targets deeper brain structures than rTMS and TBS. Research shows dTMS is effective in treating conditions such as
+obsessive-compulsive disorder (OCD)
+.
+Why is transcranial magnetic stimulation done?
+TMS is often a treatment that can help when other treatment options are unsuccessful. It’s also an important option because it’s noninvasive. That means it doesn’t require surgery, and the entire treatment happens through your skin.
+TMS can also offer an alternative to treatments like
+electroconvulsive therapy (ECT)
+, if ECT isn’t an option or isn’t effective.
+The conditions TMS has full approval to treat may vary from country to country. TMS has approval from the U.S. Food and Drug Administration (FDA) to treat four conditions:
+Major depressive disorder (MDD)
+(including
+treatment-resistant depression
+).
+Obsessive-compulsive disorder (OCD).
+Migraines
+.
+Smoking cessation
+.
+In addition to the approved conditions, research is ongoing to see if it can treat other conditions. These include, but aren’t limited to:
+Addictions
+.
+Alzheimer’s disease
+.
+Bipolar disorder
+.
+Borderline personality disorder (BPD)
+.
+Chronic pain
+.
+Eating disorders
+.
+Essential tremor
+.
+Fibromyalgia
+.
+Parkinson’s disease
+.
+Post-traumatic stress disorder (PTSD)
+.
+Schizophrenia
+.
+Stroke
+complications.
+Tinnitus
+and auditory
+hallucinations
+.
+Traumatic brain injury
+.
+How often is transcranial magnetic stimulation performed?
+There’s limited available data on how many people undergo TMS per year. However, TMS is widely available, with accredited and certified providers in dozens of countries worldwide.
+Advertisement
+Treatment Details
+What happens before transcranial magnetic stimulation?
+Before you undergo TMS, a healthcare provider will probably refer you to a specialist with training and experience in using this treatment. The specialist will also talk to you before treatment to make sure you meet the criteria for having TMS or if there are any conditions or circumstances that mean you shouldn’t receive it.
+Reasons that you shouldn’t undergo TMS can include:
+Any kind of implant that’s electronic or contains magnetic metal
+. TMS is dangerous for anyone with cochlear implants, metal plates on their skull, etc. TMS involves a powerful magnet, which can pull on any magnetic metal in such implants. That pull could cause severe pain or even injuries if it moves an implant.
+A history of seizures, epilepsy or other conditions/circumstances that affect your brain
+. While it’s rare, TMS can cause seizures. If you have a seizure-related condition or take a medication that increases the risk of seizure, your provider might recommend changing your medications or trying another treatment method altogether.
+If your provider determines that TMS is a good and safe option for you, they’ll talk with you about the treatment schedule they recommend. TMS takes multiple treatments — typically three to five per week — spread out over several weeks. For FDA-approved protocols for depression, a typical TMS course happens every weekday over six weeks for a total of 30 treatments. However, some newer treatment courses can greatly reduce the course of treatment down to a single week.
+Advertisement
+Because there’s some variability in treatment courses, your provider is the best person to explain the recommended course of treatment sessions. They can provide the most accurate information specific to your case.
+What happens during transcranial magnetic stimulation?
+TMS is a noninvasive procedure. The only thing you might need to do right before the procedure is to take off glasses with metal frames or remove any metallic jewelry items. Removing all metallic jewelry is a safety precaution in case they contain any magnetic metals you don’t know about.
+The magnetic coil for TMS is inside a nonmagnetic case or housing. Some devices use a magnet inside a helmet that you wear. Others have the magnet attached to an extension arm (much like the type of arm that allows a healthcare provider to position an overhead light during a medical procedure). Your provider will have you sit in a specially designed chair underneath or beside the magnet.
+Once you’re seated comfortably, your provider will give you earplugs (or another type of hearing protection). That’s because the sound of the magnet is loud enough to damage your hearing (using hearing protection is also standard with MRI scans for this same reason).
+After you have hearing protection in place, your provider will position the magnet on your head. That either involves putting on the magnet-containing helmet (with a chin strap, so it stays in place) or positioning the extension arm with the magnet at its end, so the outer case of the magnet is against your face. The specific placement depends on the condition you have.
+Advertisement
+Before starting the treatment, your provider will give single-pulse stimulations on your scalp. This helps to find the right location and setting for your treatments. Once the magnet is in position, they’ll start the treatment. Early on, you’ll feel a tapping-like sensation from the magnet as your provider slowly increases the strength of the magnetic pulses.
+As the pulse strength increases, you’ll notice a twitch or movement in your hands, especially in your thumbs. This is normal, and your provider will watch for it because it helps them know when the pulse strength is high enough.
+After finding and setting the right pulse strength, your provider will have the magnet deliver pulses with a specific timing or pattern. You’ll hear clicking sounds during the treatments as the magnet turns on and off. This is also normal. There may be pauses between a series of pulses. That’s because the electricity that powers the magnet also makes the magnet heat up, and those pauses give the magnet time to cool.
+Depending on the type of TMS you’re receiving, including the pattern of magnetic field pulses, the treatment sessions can last anywhere from a few minutes to half an hour. Your provider is the best person to tell you how long a session will take.
+Treatments after your first session
+The sessions that follow the first TMS treatment are usually very similar to — or the same as — the first session. Your provider may make some adjustments to the treatment, depending on changes in your symptoms since the first treatment or side effects that you experienced.
+What happens after TMS?
+Once a treatment session is over, you can return to your usual routine or schedule for the day. If you have lingering side effects, such as twitching or unusual sensations in your head or face, your provider may ask you to wait a few minutes before leaving. Most of the symptoms that follow a treatment session are mild and only last a few minutes (more about these under the Risks and Benefits section).
+Care at Cleveland Clinic
+Neurology Care for Adults
+Neurology Care for Children
+Make an Appointment
+Risks / Benefits
+What are the advantages of TMS?
+TMS has several advantages that make it a useful treatment.
+It’s noninvasive
+. You don’t need surgery for this procedure, and you can go about your day once a session ends. It also doesn’t involve anesthesia of any kind.
+It’s safe
+. Seizures are the most common serious side effect of TMS, but these are very rare. Your risk of having a seizure from TMS is less than 0.01% for each session. Other side effects are usually mild and only last a few minutes.
+It’s effective
+. The success rates of TMS vary by condition, but the available research clearly shows that it works.
+It can save lives
+. One of the key conditions that TMS treats, major depressive disorder, can be so severe that it leads to death by suicide. TMS can save lives when it brings improvements to depression symptoms or causes depression to go into remission entirely.
+It can work cooperatively with other treatments
+. TMS often happens along with other treatment techniques, such as medications, mental health therapy and more.
+What are the risks, side effects or complications of transcranial magnetic stimulation?
+TMS has relatively few side effects, risks and complications. The most likely serious side effect of TMS is having a seizure. However, these are also extremely rare. The risk of having a seizure from a TMS session is 0.01%, or less than 1 in 10,000.
+The most likely complications, most of which are mild and usually don’t last more than several minutes after a session, include:
+Headaches
+.
+Pain, usually in your scalp or neck.
+Dizziness or lightheadedness.
+Tingling in the muscles of your face or scalp.
+Temporary tinnitus (ringing in your ears).
+Unusually high sensitivity to sound (
+hyperacusis
+).
+Recovery and Outlook
+What is the recovery time from transcranial magnetic stimulation?
+Most people can return to their usual activities and routine immediately after a TMS session. Some people may need a few minutes to let side effects pass, but this isn’t common.
+When To Call the Doctor
+When should I see my healthcare provider or seek medical attention?
+You should see your healthcare provider as recommended for your visits. A key factor in whether TMS works is attending all the sessions as recommended. Missing sessions makes this treatment less effective. You should also contact your healthcare provider if you notice any side effects that are moderate or severe or that linger or don’t get better even a few after a session.
+When should I go to ER or get emergency care?
+People with conditions like major depressive disorder and obsessive-compulsive disorder have a higher risk of dying by suicide. You should get emergency care if you have disturbing thoughts about harming yourself, including thoughts of
+suicide
+or harming others. If you have thoughts like this, you can call any of the following:
+National Suicide & Crisis Lifeline (U.S.)
+. To call this line, dial 988 anywhere in the U.S.
+Local crisis lines
+. Mental health organizations and centers in your area may offer resources and help through crisis lines.
+911 (or your local emergency services number)
+: You should call 911 (or the local emergency services number) if you feel like you’re in
+immediate
+danger of harming yourself. Operators and dispatchers for 911 lines can often help people in immediate danger because of a severe mental crisis and send first responders to assist.
+Additional Details
+Is TMS harmful to the brain?
+Experts have performed dozens of research studies on TMS. None of those studies has linked TMS to harmful changes in the brain. There are very isolated cases where people have reported significant side effects. However, such cases are extraordinarily rare, and there are only a handful of such cases where experts concluded that TMS probably or definitely was the cause.
+A note from Cleveland Clinic
+Transcranial magnetic stimulation (TMS) is a treatment technique that involves using a magnetic field to influence the electrical activity of your brain. This treatment can help with depression, obsessive-compulsive disorder, smoking cessation and migraines.
+While it isn’t a first-line treatment, TMS does offer hope to people who haven’t seen improvements from other more-common treatments. In the case of severe or treatment-resistant depression, TMS is a treatment with life-saving potential. Experts are also researching whether it can help many other brain-related conditions, opening up the possibilities of even more uses for the treatment.
+Care at Cleveland Clinic
+If you have a neurological condition, you want expert advice. At Cleveland Clinic, we’ll work to create a treatment plan that’s right for you.
+Neurology Care for Adults
+Neurology Care for Children
+Make an Appointment
+Medically Reviewed
+Last reviewed on 08/29/2022.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Appointments
+866.588.2264
+Appointments & Locations
+Request an Appointment

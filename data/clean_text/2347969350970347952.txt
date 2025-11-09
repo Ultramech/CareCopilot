@@ -1,0 +1,225 @@
+Maturity-onset diabetes of the young: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Maturity-onset diabetes of the young
+URL of this page: https://medlineplus.gov/genetics/condition/maturity-onset-diabetes-of-the-young/
+Maturity-onset diabetes of the young
+Description
+Maturity-onset diabetes of the young (MODY) is a group of several conditions characterized by abnormally high levels of blood glucose, also called blood sugar. These forms of diabetes typically begin before age 30, although they can occur later in life. In MODY, elevated blood glucose arises from reduced production of
+insulin
+, which is a hormone produced in the
+pancreas
+that helps regulate blood glucose levels. Specifically, insulin controls how much glucose (a type of sugar) is passed from the blood into cells, where it is used as an energy source.
+The different types of MODY are distinguished by their genetic causes. The most common types are
+HNF1A
+-MODY (also known as MODY3), accounting for 50 to 70 percent of cases, and
+GCK
+-MODY (MODY2), accounting for 30 to 50 percent of cases. Less frequent types include
+HNF4A
+-MODY (MODY1) and renal cysts and diabetes (RCAD) syndrome (also known as
+HNF1B
+-MODY or MODY5), which each account for 5 to 10 percent of cases. At least ten other types have been identified, and these are very rare.
+HNF1A
+-MODY and
+HNF4A
+-MODY have similar signs and symptoms that develop slowly over time. Early signs and symptoms in these types are caused by high blood glucose and may include frequent urination (polyuria), excessive thirst (polydipsia), fatigue, blurred vision, weight loss, and recurrent skin infections. Over time uncontrolled high blood glucose can damage small blood vessels in the eyes and kidneys. Damage to the light-sensitive tissue at the back of the eye (the
+retina
+) causes a condition known as diabetic retinopathy that can lead to vision loss and eventual blindness.
+Kidney
+damage (diabetic nephropathy) can lead to kidney failure and end-stage renal disease (ESRD). While these two types of MODY are very similar, certain features are particular to each type. For example, babies with
+HNF4A
+-MODY tend to weigh more than average or have abnormally low blood glucose at birth, even though other signs of the condition do not occur until childhood or young adulthood. People with
+HNF1A
+-MODY have a higher-than-average risk of developing noncancerous (benign)
+liver
+tumors known as hepatocellular adenomas.
+GCK
+-MODY is a very mild type of the condition. People with this type have slightly elevated blood glucose levels, particularly in the morning before eating (fasting blood glucose). However, affected individuals often have no symptoms related to the disorder, and diabetes-related complications are extremely rare.
+RCAD is associated with a combination of diabetes and kidney or urinary tract abnormalities (unrelated to the elevated blood glucose), most commonly fluid-filled sacs (cysts) in the kidneys. However, the signs and symptoms are variable, even within families, and not everyone with RCAD has both features. Affected individuals may have other features unrelated to diabetes, such as abnormalities of the pancreas or liver or a form of arthritis called
+gout
+.
+Frequency
+MODY is estimated to account for 1 to 3 percent of all cases of diabetes.
+Causes
+MODY can be caused by a mutation in one of several genes.
+HNF1A
+-MODY,
+GCK
+-MODY,
+HNF4A
+-MODY, and RCAD, are caused by mutations in the
+HNF1A
+,
+GCK
+,
+HNF4A
+, and
+HNF1B
+gene, respectively. All of these genes provide instructions for making proteins involved in the production of insulin to control blood glucose levels in the body. In particular, the proteins are important in specialized cells in the pancreas called beta cells, which secrete insulin.
+The proteins produced from the
+HNF1A
+,
+HNF4A
+, and
+HNF1B
+genes all act as
+transcription
+factors, which means they control the activity of other genes. In particular, these proteins regulate genes that direct the development and function of beta cells.
+HNF1A
+,
+HNF4A
+, or
+HNF1B
+gene mutations result in production of an altered transcription factor that is unable to function normally. These changes alter gene activity in cells, impairing normal beta cell development and function. As a result, beta cells are less able than normal to produce insulin in response to glucose in the blood, which means the body cannot control blood glucose. Elevated blood glucose results in the signs and symptoms of MODY. Some of these MODY-related genes play roles in the development of other body systems, in addition to beta cells. Disrupted development of these systems underlies additional signs and symptoms in particular forms of MODY. For example, the
+HNF1B
+gene is involved in kidney development, which helps explain the kidney abnormalities in people with RCAD.
+The protein produced from the
+GCK
+gene acts as a sensor that recognizes when the amount of glucose in the blood rises. In response, the protein helps stimulate the release of insulin from beta cells so glucose can be taken up and used by cells for energy. This protein also helps determine when excess glucose should be taken into liver cells and stored. Mutations in the
+GCK
+gene limit the protein's ability to sense a rise in blood glucose, so levels remain elevated.
+Other genes involved in controlling blood glucose cause rare types of MODY. It is likely that additional genes that have not been identified are also involved in the condition.
+Learn more about the genes associated with Maturity-onset diabetes of the young
+ABCC8
+GCK
+HNF1A
+HNF1B
+HNF4A
+INS
+KCNJ11
+Additional Information from NCBI Gene:
+APPL1
+BLK
+CEL
+KLF11
+NEUROD1
+PAX4
+PDX1
+Inheritance
+MODY is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In most cases, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations in the gene
+and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+MODY
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Maturity-onset diabetes of the young type 1
+Genetic Testing Registry: Maturity-onset diabetes of the young type 10
+Genetic Testing Registry: Maturity-onset diabetes of the young type 11
+Genetic Testing Registry: Maturity-onset diabetes of the young type 13
+Genetic Testing Registry: Maturity-onset diabetes of the young type 14
+Genetic Testing Registry: Maturity-onset diabetes of the young type 2
+Genetic Testing Registry: Maturity-onset diabetes of the young type 3
+Genetic Testing Registry: Maturity onset diabetes mellitus in young
+Genetic Testing Registry: Maturity-onset diabetes of the young type 4
+Genetic Testing Registry: Maturity-onset diabetes of the young type 6
+Genetic Testing Registry: Maturity-onset diabetes of the young type 7
+Genetic Testing Registry: Maturity-onset diabetes of the young type 8
+Genetic Testing Registry: Maturity-onset diabetes of the young type 9
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 1; MODY1
+MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 2; MODY2
+RENAL CYSTS AND DIABETES SYNDROME; RCAD
+MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 3; MODY3
+Scientific Articles on PubMed
+PubMed
+References
+Froguel P, Zouali H, Vionnet N, Velho G, Vaxillaire M, Sun F, Lesage S,
+Stoffel M, Takeda J, Passa P, et al. Familial hyperglycemia due to mutations in
+glucokinase. Definition of a subtype of diabetes mellitus. N Engl J Med. 1993 Mar
+11;328(10):697-702. doi: 10.1056/NEJM199303113281005.
+Citation on PubMed
+Haliyur R, Tong X, Sanyoura M, Shrestha S, Lindner J, Saunders DC, Aramandla
+R, Poffenberger G, Redick SD, Bottino R, Prasad N, Levy SE, Blind RD, Harlan DM,
+Philipson LH, Stein RW, Brissova M, Powers AC. Human islets expressing HNF1A
+variant have defective beta cell transcriptional regulatory networks. J Clin Invest.
+2019 Jan 2;129(1):246-251. doi: 10.1172/JCI121994. Epub 2018 Dec 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Malikova J, Kaci A, Dusatkova P, Aukrust I, Torsvik J, Vesela K, Kankova PD,
+Njolstad PR, Pruhova S, Bjorkhaug L. Functional Analyses of HNF1A-MODY Variants
+Refine the Interpretation of Identified Sequence Variants. J Clin Endocrinol
+Metab. 2020 Apr 1;105(4):dgaa051. doi: 10.1210/clinem/dgaa051.
+Citation on PubMed
+Naylor R, Knight Johnson A, del Gaudio D. Maturity-Onset Diabetes of the Young
+Overview. 2018 May 24. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK500456/
+Citation on PubMed
+Negahdar M, Aukrust I, Molnes J, Solheim MH, Johansson BB, Sagen JV,
+Dahl-Jorgensen K, Kulkarni RN, Sovik O, Flatmark T, Njolstad PR, Bjorkhaug L.
+GCK-MODY diabetes as a protein misfolding disease: the mutation R275C promotes
+protein misfolding, self-association and cellular degradation. Mol Cell
+Endocrinol. 2014 Jan 25;382(1):55-65. doi: 10.1016/j.mce.2013.08.020. Epub 2013
+Aug 31.
+Citation on PubMed
+Osbak KK, Colclough K, Saint-Martin C, Beer NL, Bellanne-Chantelot C, Ellard
+S, Gloyn AL. Update on mutations in glucokinase (GCK), which cause maturity-onset
+diabetes of the young, permanent neonatal diabetes, and hyperinsulinemic
+hypoglycemia. Hum Mutat. 2009 Nov;30(11):1512-26. doi: 10.1002/humu.21110.
+Citation on PubMed
+Singh P, Tung SP, Han EH, Lee IK, Chi YI. Dimerization defective MODY
+mutations of hepatocyte nuclear factor 4alpha. Mutat Res. 2019 Mar;814:1-6. doi:
+10.1016/j.mrfmmm.2019.01.002. Epub 2019 Jan 9.
+Citation on PubMed
+Yahaya TO, Ufuoma SB. Genetics and Pathophysiology of Maturity-onset Diabetes
+of the Young (MODY): A Review of Current Trends. Oman Med J. 2020 May
+28;35(3):e126. doi: 10.5001/omj.2020.44. eCollection 2020 May.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yamagata K. Roles of HNF1alpha and HNF4alpha in pancreatic beta-cells: lessons from a
+monogenic form of diabetes (MODY). Vitam Horm. 2014;95:407-23. doi:
+10.1016/B978-0-12-800174-5.00016-8.
+Citation on PubMed
+Related Health Topics
+Blood Glucose
+Diabetes
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Related Medical Tests
+Blood Glucose Test
+Insulin in Blood
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

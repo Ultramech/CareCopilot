@@ -1,0 +1,127 @@
+Choroideremia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Choroideremia
+URL of this page: https://medlineplus.gov/genetics/condition/choroideremia/
+Choroideremia
+Description
+Choroideremia is a condition characterized by progressive vision loss that mainly affects males. The first symptom of this condition is usually an impairment of night vision (night blindness), which can occur in early childhood. A progressive narrowing of the field of vision (tunnel vision) follows, as well as a decrease in the ability to see details (visual acuity). These vision problems are due to an ongoing loss of cells (atrophy) in the specialized light-sensitive tissue that lines the back of the eye (retina) and a nearby network of blood vessels (the choroid). The vision impairment in choroideremia worsens over time, but the progression varies among affected individuals. However, all individuals with this condition will develop blindness, most commonly in late adulthood.
+Frequency
+The prevalence of choroideremia is estimated to be 1 in 50,000 to 100,000 people. However, it is likely that this condition is underdiagnosed because of its similarities to other eye disorders. Choroideremia is thought to account for approximately 4 percent of all blindness.
+Causes
+Mutations in the
+CHM
+gene cause choroideremia. The
+CHM
+gene provides instructions for producing the Rab escort protein-1 (REP-1). As an escort protein, REP-1 attaches to molecules called Rab proteins within the cell and directs them to the membranes of various cell compartments (
+organelles
+). Rab proteins are involved in the movement of proteins and organelles within cells (intracellular trafficking). Mutations in the
+CHM
+gene lead to an absence of REP-1 protein or the production of a REP-1 protein that cannot carry out its protein escort function. This lack of functional REP-1 prevents Rab proteins from reaching and attaching (binding) to the organelle membranes. Without the aid of Rab proteins in intracellular trafficking, cells die prematurely.
+The REP-1 protein is active (expressed) throughout the body, as is a similar protein, REP-2. Research suggests that when REP-1 is absent or nonfunctional, REP-2 can perform the protein escort duties of REP-1 in many of the body's tissues. Very little REP-2 protein is present in
+the retina
+, however, so it cannot compensate for the loss of REP-1 in this tissue. Loss of REP-1 function and subsequent misplacement of Rab proteins within the cells of the retina causes the progressive vision loss characteristic of choroideremia.
+Learn more about the gene associated with Choroideremia
+CHM
+Inheritance
+Choroideremia is inherited in an
+X-linked recessive pattern
+. The
+CHM
+gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In X-linked recessive inheritance, a female with one mutated copy of the gene in each cell is called a carrier. She can pass on the altered gene, but usually does not experience signs and symptoms of the disorder. Females who carry a
+CHM
+mutation may show small areas of cell loss within
+the retina
+that can be observed during a thorough eye examination. These changes can impair vision later in life.
+Other Names for This Condition
+Choroidal sclerosis
+Progressive tapetochoroidal dystrophy
+TCD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Choroideremia
+Genetic and Rare Diseases Information Center
+Choroideremia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CHOROIDEREMIA; CHM
+Scientific Articles on PubMed
+PubMed
+References
+Garcia-Hoyos M, Lorda-Sanchez I, Gomez-Garre P, Villaverde C, Cantalapiedra D,
+Bustamante A, Diego-Alvarez D, Vallespin E, Gallego-Merlo J, Trujillo MJ, Ramos
+C, Ayuso C. New type of mutations in three spanish families with choroideremia.
+Invest Ophthalmol Vis Sci. 2008 Apr;49(4):1315-21. doi: 10.1167/iovs.07-1169.
+Citation on PubMed
+McTaggart KE, Tran M, Mah DY, Lai SW, Nesslinger NJ, MacDonald IM. Mutational
+analysis of patients with the diagnosis of choroideremia. Hum Mutat. 2002
+Sep;20(3):189-96. doi: 10.1002/humu.10114.
+Citation on PubMed
+Roberts MF, Fishman GA, Roberts DK, Heckenlively JR, Weleber RG, Anderson RJ,
+Grover S. Retrospective, longitudinal, and cross sectional study of visual acuity
+impairment in choroideraemia. Br J Ophthalmol. 2002 Jun;86(6):658-62. doi:
+10.1136/bjo.86.6.658.
+Citation on PubMed
+or
+Free article on PubMed Central
+van den Hurk JA, van de Pol DJ, Wissinger B, van Driel MA, Hoefsloot LH, de
+Wijs IJ, van den Born LI, Heckenlively JR, Brunner HG, Zrenner E, Ropers HH,
+Cremers FP. Novel types of mutation in the choroideremia ( CHM) gene: a
+full-length L1 insertion and an intronic mutation activating a cryptic exon. Hum
+Genet. 2003 Aug;113(3):268-75. doi: 10.1007/s00439-003-0970-0. Epub 2003 Jun 25.
+Citation on PubMed
+Yau RJ, Sereda CA, McTaggart KE, Sauve Y, MacDonald IM. Choroideremia carriers
+maintain a normal electro-oculogram (EOG). Doc Ophthalmol. 2007
+May;114(3):147-51. doi: 10.1007/s10633-007-9050-4. Epub 2007 Mar 1.
+Citation on PubMed
+Yip SP, Cheung TS, Chu MY, Cheung SC, Leung KW, Tsang KP, Lam ST, To CH. Novel
+truncating mutations of the CHM gene in Chinese patients with choroideremia. Mol
+Vis. 2007 Nov 27;13:2183-93.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eye Diseases
+Genetic Disorders
+Retinal Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Vision - night blindness
+Visual field
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

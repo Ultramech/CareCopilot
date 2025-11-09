@@ -1,0 +1,110 @@
+Familial porencephaly: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial porencephaly
+URL of this page: https://medlineplus.gov/genetics/condition/familial-porencephaly/
+Familial porencephaly
+Description
+Familial porencephaly is part of a group of conditions called the
+COL4A1
+-related disorders. The conditions in this group have a range of signs and symptoms that involve fragile blood vessels. In familial porencephaly, fluid-filled cysts develop in the brain (porencephaly) during fetal development or soon after birth. These cysts typically occur in only one side of the brain and vary in size. The cysts are thought to be the result of bleeding within the brain (
+hemorrhagic stroke
+). People with this condition also have leukoencephalopathy, which is a change in a type of brain tissue called white matter that can be seen with magnetic resonance imaging (MRI).
+During infancy, people with familial porencephaly typically have paralysis affecting one side of the body (infantile hemiplegia). Affected individuals may also have recurrent seizures (epilepsy),
+migraine
+headaches, speech problems, intellectual disability, and uncontrolled muscle tensing (dystonia). Some people are severely affected, and others may have no symptoms related to the brain cysts.
+Frequency
+Familial porencephaly is a rare condition, although the exact prevalence is unknown. At least eight affected families have been described in the scientific literature.
+Causes
+Mutations in the
+COL4A1
+gene cause familial porencephaly. The
+COL4A1
+gene provides instructions for making one component of a protein called type IV collagen. Type IV collagen molecules attach to each other to form complex protein networks. These protein networks are the main components of basement membranes, which are thin sheet-like structures that separate and support cells in many tissues. Type IV collagen networks play an important role in the basement membranes in virtually all tissues throughout the body, particularly the basement membranes surrounding the body's blood vessels (vasculature).
+The
+COL4A1
+gene mutations that cause familial porencephaly result in the production of a protein that disrupts the structure of type IV collagen. As a result, type IV collagen molecules cannot attach to each other to form the protein networks in basement membranes. Basement membranes without normal type IV collagen are unstable, leading to weakening of the tissues that they surround. In people with familial porencephaly, the vasculature in the brain weakens, which can lead to blood vessel breakage and
+hemorrhagic stroke
+. Bleeding within the brain is followed by the formation of fluid-filled cysts characteristic of this condition. It is thought that the pressure and stress on the head during birth contributes to vessel breakage in people with this condition; however in some individuals, bleeding in the brain can occur before birth.
+Learn more about the gene associated with Familial porencephaly
+COL4A1
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Autosomal dominant porencephaly type 1
+Infantile hemiplegia with porencephaly
+Porencephaly type 1
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial porencephaly
+Genetic and Rare Diseases Information Center
+Familial porencephaly
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+BRAIN SMALL VESSEL DISEASE 1 WITH OR WITHOUT OCULAR ANOMALIES; BSVD1
+Scientific Articles on PubMed
+PubMed
+References
+Breedveld G, de Coo IF, Lequin MH, Arts WF, Heutink P, Gould DB, John SW,
+Oostra B, Mancini GM. Novel mutations in three families confirm a major role of
+COL4A1 in hereditary porencephaly. J Med Genet. 2006 Jun;43(6):490-5. doi:
+10.1136/jmg.2005.035584. Epub 2005 Aug 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Meuwissen ME, de Vries LS, Verbeek HA, Lequin MH, Govaert PP, Schot R, Cowan
+FM, Hennekam R, Rizzu P, Verheijen FW, Wessels MW, Mancini GM. Sporadic COL4A1
+mutations with extensive prenatal porencephaly resembling hydranencephaly.
+Neurology. 2011 Mar 1;76(9):844-6. doi: 10.1212/WNL.0b013e31820e7751. No abstract
+available.
+Citation on PubMed
+Vahedi K, Alamowitch S. Clinical spectrum of type IV collagen (COL4A1)
+mutations: a novel genetic multisystem disease. Curr Opin Neurol. 2011
+Feb;24(1):63-8. doi: 10.1097/WCO.0b013e32834232c6.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Brain Diseases
+Genetic Disorders
+Hemorrhagic Stroke
+Migraine
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

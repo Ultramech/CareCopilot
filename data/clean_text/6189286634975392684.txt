@@ -1,0 +1,174 @@
+X-linked infantile nystagmus: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+X-linked infantile nystagmus
+URL of this page: https://medlineplus.gov/genetics/condition/x-linked-infantile-nystagmus/
+X-linked infantile nystagmus
+Description
+X-linked infantile nystagmus is a condition characterized by abnormal eye movements. Nystagmus is a term that refers to involuntary side-to-side, up-and-down, or circular movements of the eyes. In people with X-linked infantile nystagmus, the movements are typically side-to-side. In individuals with this condition, nystagmus is present at birth or develops within the first six months of life.
+The abnormal eye movements may worsen when an affected person is feeling anxious or tries to stare directly at an object. Some affected individuals will experience involuntary changes in the direction of their eye movements (periodic alternating nystagmus). The severity of nystagmus varies, even among affected individuals within the same family. Sometimes, affected individuals will turn or tilt their head to compensate for the irregular eye movements. Individuals with X-linked infantile nystagmus may have other eye abnormalities. For example, the region at the back of the eye responsible for sharp central vision may be underdeveloped (foveal hypoplasia).
+Frequency
+The incidence of X-linked infantile nystagmus is estimated to be 4.4 in 10,000 individuals.
+Causes
+Variants (also called mutations) in the
+FRMD7
+gene cause X-linked infantile nystagmus. The
+FRMD7
+gene provides instructions for making a protein whose exact function is unknown. This protein is found mostly in areas of the brain that control eye movement and in the light-sensitive tissue at the back of the eye (retina). Research suggests that
+FRMD7
+gene variants cause nystagmus by disrupting the development of certain nerve cells in the brain and retina.
+In some people with X-linked infantile nystagmus, no variant in the
+FRMD7
+gene has been found. The genetic cause of the disorder is unknown in these individuals. Researchers believe that variants in at least one other gene, which has not been identified, can cause this disorder. Nystagmus can also occur in people with other X-linked eye conditions, such as X-linked ocular albinism. Such cases are caused by changes in genes associated with the particular condition.
+Learn more about the gene associated with X-linked infantile nystagmus
+FRMD7
+Inheritance
+X-linked infantile nystagmus is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two
+sex chromosomes.
+In males (who have one X chromosome), a variant in the only copy of the gene in each cell is sufficient to cause the condition. In females (who have two copies of the X chromosome), one altered copy of the gene can cause the condition, although the features may be less severe than in individuals with two altered copies. Some of these individuals may have no signs or symptoms at all; approximately half of females with only one altered copy of the
+FRMD7
+gene have no symptoms of this condition.
+Other Names for This Condition
+Congenital motor nystagmus
+FRMD7-related infantile nystagmus
+Idiopathic infantile nystagmus
+NYS1
+X-linked congenital nystagmus
+X-linked idiopathic infantile nystagmus
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Nystagmus 1, congenital, X-linked
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NYSTAGMUS 1, CONGENITAL, X-LINKED; NYS1
+Scientific Articles on PubMed
+PubMed
+References
+He X, Gu F, Wang Z, Wang C, Tong Y, Wang Y, Yang J, Liu W, Zhang M, Ma X. A
+novel frameshift mutation in FRMD7 causing X-linked idiopathic congenital
+nystagmus. Genet Test. 2008 Dec;12(4):607-13. doi: 10.1089/gte.2008.0070.
+Citation on PubMed
+Kuht HJ, Maconachie GDE, Han J, Kessel L, van Genderen MM, McLean RJ, Hisaund
+M, Tu Z, Hertle RW, Gronskov K, Bai D, Wei A, Li W, Jiao Y, Smirnov V, Choi JH,
+Tobin MD, Sheth V, Purohit R, Dawar B, Girach A, Strul S, May L, Chen FK, Heath
+Jeffery RC, Aamir A, Sano R, Jin J, Brooks BP, Kohl S, Arveiler B, Montoliu L,
+Engle EC, Proudlock FA, Nishad G, Pani P, Varma G, Gottlob I, Thomas MG.
+Genotypic and Phenotypic Spectrum of Foveal Hypoplasia: A Multicenter Study.
+Ophthalmology. 2022 Jun;129(6):708-718. doi: 10.1016/j.ophtha.2022.02.010. Epub
+2022 Feb 11.
+Citation on PubMed
+Li N, Wang L, Cui L, Zhang L, Dai S, Li H, Chen X, Zhu L, Hejtmancik JF, Zhao
+K. Five novel mutations of the FRMD7 gene in Chinese families with X-linked
+infantile nystagmus. Mol Vis. 2008 Apr 18;14:733-8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sarvananthan N, Surendran M, Roberts EO, Jain S, Thomas S, Shah N, Proudlock
+FA, Thompson JR, McLean RJ, Degg C, Woodruff G, Gottlob I. The prevalence of
+nystagmus: the Leicestershire nystagmus survey. Invest Ophthalmol Vis Sci. 2009
+Nov;50(11):5201-6. doi: 10.1167/iovs.09-3486. Epub 2009 May 20.
+Citation on PubMed
+Self J, Lotery A. A review of the molecular genetics of congenital Idiopathic
+Nystagmus (CIN). Ophthalmic Genet. 2007 Dec;28(4):187-91. doi:
+10.1080/13816810701651233.
+Citation on PubMed
+Self JE, Shawkat F, Malpas CT, Thomas NS, Harris CM, Hodgkins PR, Chen X,
+Trump D, Lotery AJ. Allelic variation of the FRMD7 gene in congenital idiopathic
+nystagmus. Arch Ophthalmol. 2007 Sep;125(9):1255-63. doi:
+10.1001/archopht.125.9.1255.
+Citation on PubMed
+Shiels A, Bennett TM, Prince JB, Tychsen L. X-linked idiopathic infantile
+nystagmus associated with a missense mutation in FRMD7. Mol Vis. 2007 Nov
+29;13:2233-41.
+Citation on PubMed
+Tarpey P, Thomas S, Sarvananthan N, Mallya U, Lisgo S, Talbot CJ, Roberts EO,
+Awan M, Surendran M, McLean RJ, Reinecke RD, Langmann A, Lindner S, Koch M, Jain
+S, Woodruff G, Gale RP, Bastawrous A, Degg C, Droutsas K, Asproudis I, Zubcov AA,
+Pieh C, Veal CD, Machado RD, Backhouse OC, Baumber L, Constantinescu CS, Brodsky
+MC, Hunter DG, Hertle RW, Read RJ, Edkins S, O'Meara S, Parker A, Stevens C,
+Teague J, Wooster R, Futreal PA, Trembath RC, Stratton MR, Raymond FL, Gottlob I.
+Mutations in FRMD7, a newly identified member of the FERM family, cause X-linked
+idiopathic congenital nystagmus. Nat Genet. 2006 Nov;38(11):1242-4. doi:
+10.1038/ng1893. Epub 2006 Oct 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Thomas MG, Crosier M, Lindsay S, Kumar A, Araki M, Leroy BP, McLean RJ, Sheth
+V, Maconachie G, Thomas S, Moore AT, Gottlob I. Abnormal retinal development
+associated with FRMD7 mutations. Hum Mol Genet. 2014 Aug 1;23(15):4086-93. doi:
+10.1093/hmg/ddu122. Epub 2014 Mar 31.
+Citation on PubMed
+Thomas MG, Crosier M, Lindsay S, Kumar A, Thomas S, Araki M, Talbot CJ, McLean
+RJ, Surendran M, Taylor K, Leroy BP, Moore AT, Hunter DG, Hertle RW, Tarpey P,
+Langmann A, Lindner S, Brandner M, Gottlob I. The clinical and molecular genetic
+features of idiopathic infantile periodic alternating nystagmus. Brain. 2011
+Mar;134(Pt 3):892-902. doi: 10.1093/brain/awq373. Epub 2011 Feb 8.
+Citation on PubMed
+Thomas MG, Maconachie G, Hisaund M, Gottlob I. FRMD7-Related
+Infantile Nystagmus. 2009 Feb 12 [updated 2018 Aug 16]. In: Adam MP, Feldman J,
+Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R)
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK3822/
+Citation on PubMed
+Thomas MG, Maconachie G, Sheth V, McLean RJ, Gottlob I. Development and
+clinical utility of a novel diagnostic nystagmus gene panel using targeted
+next-generation sequencing. Eur J Hum Genet. 2017 Jun;25(6):725-734. doi:
+10.1038/ejhg.2017.44. Epub 2017 Apr 5.
+Citation on PubMed
+Thomas S, Proudlock FA, Sarvananthan N, Roberts EO, Awan M, McLean R,
+Surendran M, Kumar AS, Farooq SJ, Degg C, Gale RP, Reinecke RD, Woodruff G,
+Langmann A, Lindner S, Jain S, Tarpey P, Raymond FL, Gottlob I. Phenotypical
+characteristics of idiopathic infantile nystagmus with and without mutations in
+FRMD7. Brain. 2008 May;131(Pt 5):1259-67. doi: 10.1093/brain/awn046. Epub 2008
+Mar 27.
+Citation on PubMed
+Zhang B, Liu Z, Zhao G, Xie X, Yin X, Hu Z, Xu S, Li Q, Song F, Tian J, Luo W,
+Ding M, Yin J, Xia K, Xia J. Novel mutations of the FRMD7 gene in X-linked
+congenital motor nystagmus. Mol Vis. 2007 Sep 13;13:1674-9.
+Citation on PubMed
+Zhang Q, Xiao X, Li S, Guo X. FRMD7 mutations in Chinese families with
+X-linked congenital motor nystagmus. Mol Vis. 2007 Aug 3;13:1375-8.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eye Movement Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Nystagmus
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

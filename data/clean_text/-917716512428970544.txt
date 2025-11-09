@@ -1,0 +1,127 @@
+Carbonic anhydrase VA deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Carbonic anhydrase VA deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/carbonic-anhydrase-va-deficiency/
+Carbonic anhydrase VA deficiency
+Description
+Carbonic anhydrase VA deficiency is an inherited disorder characterized by episodes during which the balance of certain substances in the body is disrupted (known as metabolic crisis) and brain function is abnormal (known as acute encephalopathy). These potentially life-threatening episodes can cause poor feeding, vomiting, weight loss, tiredness (lethargy), rapid breathing (tachypnea), seizures, or coma.
+During an episode, people with carbonic anhydrase VA deficiency have excess ammonia in the blood (hyperammonemia), problems with acid-base balance in the blood (metabolic acidosis and respiratory alkalosis), low glucose in the blood (hypoglycemia), and reduced production of a substance called bicarbonate in the liver. These imbalances lead to the signs and symptoms that occur during the episodes.
+People with carbonic anhydrase VA deficiency typically first experience episodes of the disorder by age 2. These episodes may be triggered by going without food (fasting) for longer than usual between meals or when energy demands are increased, such as during illness. Between episodes, children with carbonic anhydrase VA deficiency are generally healthy, and more than half have no further episodes after the first one. Some affected children have mildly delayed development or learning disabilities, while others develop normally for their age.
+The risk of metabolic crisis and acute encephalopathy is thought to decrease after childhood. Because of the small number of people with carbonic anhydrase VA deficiency who have come to medical attention, the effects of this disorder in adults are not well understood.
+Frequency
+The prevalence of carbonic anhydrase VA deficiency is unknown. Only a small number of affected individuals have been described in the medical literature. However, the disorder may be underdiagnosed because the metabolic crisis often does not recur after the first episode; researchers suspect that some babies diagnosed with transient hyperammonemia may actually have carbonic anhydrase VA deficiency.
+Causes
+Carbonic anhydrase VA deficiency is caused by mutations in the
+CA5A
+gene. This gene provides instructions for making the carbonic anhydrase VA enzyme, which helps convert carbon dioxide to a substance called bicarbonate. Bicarbonate is necessary to maintain the proper acid-base balance in the body, which is necessary for most biological reactions to proceed properly. The carbonic anhydrase VA enzyme is particularly important in the liver, where it provides bicarbonate needed by four enzymes in the energy-producing centers of cells (mitochondria). These enzymes help control the amount of various other substances in the body.
+Mutations in the
+CA5A
+gene result in absent or impaired carbonic anhydrase VA enzyme function, leading to reduced bicarbonate production. Insufficient bicarbonate results in impaired control of acid-base balance and reduces the activity of the four affected mitochondrial enzymes, resulting in the various biochemical abnormalities associated with carbonic anhydrase VA deficiency. These imbalances cause acute encephalopathy and the other signs and symptoms associated with this disorder. Studies suggest that a related enzyme produced from the
+CA5B
+gene may increasingly compensate for the lack of carbonic anhydrase VA as affected individuals mature, which may result in a reduced risk of metabolic crisis and acute encephalopathy after childhood.
+Learn more about the gene associated with Carbonic anhydrase VA deficiency
+CA5A
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Some people who have two copies of the altered gene never develop the condition, a situation known as reduced penetrance. Researchers suggest that if people with these mutations get through the vulnerable period of childhood without having an episode of encephalopathy, they may never show signs or symptoms of the disorder.
+Other Names for This Condition
+CA-VA deficiency
+CA5AD
+Hyperammonemia due to carbonic anhydrase VA deficiency
+Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency
+Mitochondrial carbonic anhydrase va deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CARBONIC ANHYDRASE VA DEFICIENCY, HYPERAMMONEMIA DUE TO; CA5AD
+Scientific Articles on PubMed
+PubMed
+References
+Diez-Fernandez C, Rufenacht V, Santra S, Lund AM, Santer R, Lindner M,
+Tangeraas T, Unsinn C, de Lonlay P, Burlina A, van Karnebeek CD, Haberle J.
+Defective hepatic bicarbonate production due to carbonic anhydrase VA deficiency
+leads to early-onset life-threatening metabolic crisis. Genet Med. 2016
+Oct;18(10):991-1000. doi: 10.1038/gim.2015.201. Epub 2016 Feb 25.
+Citation on PubMed
+Haberle J. Clinical and biochemical aspects of primary and secondary
+hyperammonemic disorders. Arch Biochem Biophys. 2013 Aug 15;536(2):101-8. doi:
+10.1016/j.abb.2013.04.009. Epub 2013 Apr 27.
+Citation on PubMed
+Pastorekova S, Parkkila S, Pastorek J, Supuran CT. Carbonic anhydrases:
+current state of the art, therapeutic applications and future prospects. J Enzyme
+Inhib Med Chem. 2004 Jun;19(3):199-229. doi: 10.1080/14756360410001689540.
+Citation on PubMed
+Shah GN, Rubbelke TS, Hendin J, Nguyen H, Waheed A, Shoemaker JD, Sly WS.
+Targeted mutagenesis of mitochondrial carbonic anhydrases VA and VB implicates
+both enzymes in ammonia detoxification and glucose metabolism. Proc Natl Acad Sci
+U S A. 2013 Apr 30;110(18):7423-8. doi: 10.1073/pnas.1305805110. Epub 2013 Apr
+15.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sly WS, Hu PY. Human carbonic anhydrases and carbonic anhydrase deficiencies.
+Annu Rev Biochem. 1995;64:375-401. doi: 10.1146/annurev.bi.64.070195.002111.
+Citation on PubMed
+van Karnebeek C, Haberle J. Carbonic Anhydrase VA Deficiency. 2015 Apr 2
+[updated 2021 Aug 26]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK284774/
+Citation on PubMed
+van Karnebeek CD, Sly WS, Ross CJ, Salvarinova R, Yaplito-Lee J, Santra S,
+Shyr C, Horvath GA, Eydoux P, Lehman AM, Bernard V, Newlove T, Ukpeh H,
+Chakrapani A, Preece MA, Ball S, Pitt J, Vallance HD, Coulter-Mackie M, Nguyen H,
+Zhang LH, Bhavsar AP, Sinclair G, Waheed A, Wasserman WW, Stockler-Ipsiroglu S.
+Mitochondrial carbonic anhydrase VA deficiency resulting from CA5A alterations
+presents with hyperammonemia in early childhood. Am J Hum Genet. 2014 Mar
+6;94(3):453-61. doi: 10.1016/j.ajhg.2014.01.006. Epub 2014 Feb 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Metabolic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Metabolic acidosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

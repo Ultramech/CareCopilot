@@ -1,0 +1,124 @@
+Enlarged parietal foramina: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Enlarged parietal foramina
+URL of this page: https://medlineplus.gov/genetics/condition/enlarged-parietal-foramina/
+Enlarged parietal foramina
+Description
+Enlarged parietal foramina is an inherited condition of impaired skull development. It is characterized by enlarged openings (foramina) in the parietal bones, which are the two bones that form the top and sides of the skull. This condition is due to incomplete bone formation (ossification) within the parietal bones. The openings are symmetrical and circular in shape, ranging in size from a few millimeters to several centimeters wide. Parietal foramina are a normal feature of fetal development, but typically they close before the baby is born, usually by the fifth month of pregnancy. However, in people with this condition, the parietal foramina remain open throughout life.
+The enlarged parietal foramina are soft to the touch due to the lack of bone at those areas of the skull. People with enlarged parietal foramina usually do not have any related health problems; however, scalp defects, seizures, and structural brain abnormalities have been noted in a small percentage of affected people. Pressure applied to the openings can lead to severe headaches, and individuals with this condition have an increased risk of brain damage or skull fractures if any trauma is experienced in the area of the openings.
+There are two forms of enlarged parietal foramina, called type 1 and type 2, which differ in their genetic cause.
+Frequency
+The prevalence of enlarged parietal foramina is estimated to be 1 in 15,000 to 50,000 individuals.
+Causes
+Mutations in the
+ALX4
+gene account for 60 percent of cases of enlarged parietal foramina and mutations in the
+MSX2
+gene account for 40 percent of cases. These genes provide instructions for producing proteins called transcription factors, which are required for proper development throughout the body. Transcription factors attach (bind) to specific regions of DNA and help control the activity of particular genes. The ALX4 and MSX2 transcription factor proteins are involved in regulating genes that are needed in various cell processes in early development.
+Mutations in either the
+ALX4
+or
+MSX2
+gene likely impair the ability of their respective transcription factors to bind to DNA. As a result, the regulation of multiple genes is altered, which disrupts a number of necessary cell functions. The processes that guide skull development seem to be particularly sensitive to changes in the activity of these transcription factors.
+If the condition is caused by a mutation in the
+MSX2
+gene, it is called enlarged parietal foramina type 1. Mutations in the
+ALX4
+gene cause enlarged parietal foramina type 2. There appears to be no difference in the size of the openings between enlarged parietal foramina types 1 and 2.
+Learn more about the genes associated with Enlarged parietal foramina
+ALX4
+MSX2
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+However, in rare cases, people who inherit an altered gene do not have enlarged parietal foramina. (This situation is known as reduced penetrance.)
+Other Names for This Condition
+Catlin marks
+Cranium bifidum
+Cranium bifidum occultum
+Fenestrae parietals symmetricae
+Foramina parietalia permagna
+FPP
+Giant parietal foramina
+Hereditary cranium bifidum
+Parietal foramina
+PFM
+Symmetric parietal foramina
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Cranium bifidum occultum
+Genetic Testing Registry: Parietal foramina 1
+Genetic Testing Registry: Parietal foramina 2
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+PARIETAL FORAMINA 1; PFM1
+PARIETAL FORAMINA 2; PFM2
+Scientific Articles on PubMed
+PubMed
+References
+Edwards LS, Sachs JR, Elster AD. Skull fractures through parietal foramina:
+report of two cases. J Comput Assist Tomogr. 2012 May-Jun;36(3):308-9. doi:
+10.1097/RCT.0b013e31824d9331.
+Citation on PubMed
+Fink AM, Maixner W. Enlarged parietal foramina: MR imaging features in the
+fetus and neonate. AJNR Am J Neuroradiol. 2006 Jun-Jul;27(6):1379-81.
+Citation on PubMed
+Griessenauer CJ, Veith P, Mortazavi MM, Stewart C, Grochowsky A, Loukas M,
+Tubbs RS. Enlarged parietal foramina: a review of genetics, prognosis, radiology,
+and treatment. Childs Nerv Syst. 2013 Apr;29(4):543-7. doi:
+10.1007/s00381-012-1982-7. Epub 2012 Dec 4.
+Citation on PubMed
+Mavrogiannis LA, Taylor IB, Davies SJ, Ramos FJ, Olivares JL, Wilkie AO.
+Enlarged parietal foramina caused by mutations in the homeobox genes ALX4 and
+MSX2: from genotype to phenotype. Eur J Hum Genet. 2006 Feb;14(2):151-8. doi:
+10.1038/sj.ejhg.5201526.
+Citation on PubMed
+or
+Free article on PubMed Central
+Reddy AT, Hedlund GL, Percy AK. Enlarged parietal foramina: association with
+cerebral venous and cortical anomalies. Neurology. 2000 Mar 14;54(5):1175-8. doi:
+10.1212/wnl.54.5.1175.
+Citation on PubMed
+Related Health Topics
+Craniofacial Abnormalities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cranial sutures
+Genetics
+Skull of a Newborn (Image)
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

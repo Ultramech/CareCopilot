@@ -1,0 +1,147 @@
+White sponge nevus: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+White sponge nevus
+URL of this page: https://medlineplus.gov/genetics/condition/white-sponge-nevus/
+White sponge nevus
+Description
+White sponge nevus is a condition characterized by the formation of white patches of tissue called nevi (singular: nevus) that appear as thickened, velvety, sponge-like tissue. The nevi are most commonly found on the moist lining of the mouth (oral mucosa), especially on the inside of the cheeks (buccal mucosa). Affected individuals usually develop multiple nevi. Rarely, white sponge nevi also occur on the mucosae (singular: mucosa) of the nose, esophagus, genitals, or anus. The nevi are caused by a noncancerous (benign) overgrowth of cells.
+White sponge nevus can be present from birth but usually first appears during early childhood. The size and location of the nevi can change over time. In the oral mucosa, both sides of the mouth are usually affected. The nevi are generally painless, but the folds of extra tissue can promote bacterial growth, which can lead to infection that may cause discomfort. The altered texture and appearance of the affected tissue, especially the oral mucosa, can be bothersome for some affected individuals.
+Frequency
+The exact prevalence of white sponge nevus is unknown, but it is estimated to affect less than 1 in 200,000 individuals worldwide.
+Causes
+Mutations in the
+KRT4
+or
+KRT13
+gene cause white sponge nevus. These genes provide instructions for making proteins called keratins. Keratins are a group of tough, fibrous proteins that form the structural framework of epithelial cells, which are cells that line the surfaces and cavities of the body and make up the different mucosae. The keratin 4 protein (produced from the
+KRT4
+gene) and the keratin 13 protein (produced from the
+KRT13
+gene) partner together to form molecules known as
+intermediate filaments
+. These filaments assemble into networks that provide strength and resilience to the different mucosae. Networks of intermediate filaments protect the mucosae from being damaged by friction or other everyday physical stresses.
+Mutations in the
+KRT4
+or
+KRT13
+gene disrupt the structure of the keratin protein. As a result, keratin 4 and keratin 13 are mismatched and do not fit together properly, leading to the formation of irregular intermediate filaments that are easily damaged with little friction or trauma. Fragile intermediate filaments in the oral mucosa might be damaged when eating or brushing one's teeth. Damage to intermediate filaments leads to inflammation and promotes the abnormal growth and division (proliferation) of epithelial cells, causing the mucosae to thicken and resulting in white sponge nevus.
+Learn more about the genes associated with White sponge nevus
+KRT13
+KRT4
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell can be sufficient to cause the disorder. However, some people who have a mutation that causes white sponge nevus do not develop these abnormal growths; this phenomenon is called reduced penetrance.
+Other Names for This Condition
+Cannon's disease
+Familial white folded mucosal dysplasia
+Hereditary leukokeratosis
+Hereditary mucosal leukokeratosis
+Hereditary oral keratosis
+Leukokeratosis of oral mucosa
+Leukokeratosis, hereditary mucosal
+Nevus of Cannon
+White folded gingivostomatosis
+White gingivostomatitis
+White sponge naevus
+White sponge nevus of Cannon
+White sponge nevus of mucosa
+WSN
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: White sponge nevus 1
+Genetic Testing Registry: White sponge nevus 2
+Genetic and Rare Diseases Information Center
+White sponge nevus
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+WHITE SPONGE NEVUS 1; WSN1
+WHITE SPONGE NEVUS 2; WSN2
+Scientific Articles on PubMed
+PubMed
+References
+Aghbali A, Pouralibaba F, Eslami H, Pakdel F, Jamali Z. White sponge nevus: a
+case report. J Dent Res Dent Clin Dent Prospects. 2009 Spring;3(2):70-2. doi:
+10.5681/joddd.2009.017. Epub 2009 Jun 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kimura M, Nagao T, Machida J, Warnakulasuriya S. Mutation of keratin 4 gene
+causing white sponge nevus in a Japanese family. Int J Oral Maxillofac Surg. 2013
+May;42(5):615-8. doi: 10.1016/j.ijom.2012.10.030. Epub 2012 Nov 24.
+Citation on PubMed
+Marrelli M, Tatullo M, Dipalma G, Inchingolo F. Oral infection by
+Staphylococcus aureus in patients affected by White Sponge Nevus: a description
+of two cases occurred in the same family. Int J Med Sci. 2012;9(1):47-50. doi:
+10.7150/ijms.9.47. Epub 2011 Nov 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Martelli H Jr, Pereira SM, Rocha TM, Nogueira dos Santos PL, Batista de Paula
+AM, Bonan PR. White sponge nevus: report of a three-generation family. Oral Surg
+Oral Med Oral Pathol Oral Radiol Endod. 2007 Jan;103(1):43-7. doi:
+10.1016/j.tripleo.2006.05.029. Epub 2006 Sep 1.
+Citation on PubMed
+Nishizawa A, Nakajima R, Nakano H, Sawamura D, Takayama K, Satoh T, Yokozeki
+H. A de novo missense mutation in the keratin 13 gene in oral white sponge
+naevus. Br J Dermatol. 2008 Sep;159(4):974-5. doi:
+10.1111/j.1365-2133.2008.08716.x. Epub 2008 Jul 4. No abstract available.
+Citation on PubMed
+Rugg E, Magee G, Wilson N, Brandrup F, Hamburger J, Lane E. Identification of
+two novel mutations in keratin 13 as the cause of white sponge naevus. Oral Dis.
+1999 Oct;5(4):321-4. doi: 10.1111/j.1601-0825.1999.tb00097.x.
+Citation on PubMed
+Shibuya Y, Zhang J, Yokoo S, Umeda M, Komori T. Constitutional mutation of
+keratin 13 gene in familial white sponge nevus. Oral Surg Oral Med Oral Pathol
+Oral Radiol Endod. 2003 Nov;96(5):561-5. doi: 10.1016/s1079-2104(03)00372-x.
+Citation on PubMed
+Songu M, Adibelli H, Diniz G. White sponge nevus: clinical suspicion and
+diagnosis. Pediatr Dermatol. 2012 Jul-Aug;29(4):495-7. doi:
+10.1111/j.1525-1470.2011.01414.x. Epub 2012 Feb 22.
+Citation on PubMed
+Zhang JM, Yang ZW, Chen RY, Gao P, Zhang YR, Zhang LF. Two new mutations in
+the keratin 4 gene causing oral white sponge nevus in Chinese family. Oral Dis.
+2009 Jan;15(1):100-5. doi: 10.1111/j.1601-0825.2008.01498.x. Epub 2008 Oct 25.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Mouth Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Mouth sores
+Mucosa
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

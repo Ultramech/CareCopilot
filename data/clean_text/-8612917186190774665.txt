@@ -1,0 +1,208 @@
+Retinitis pigmentosa: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Retinitis pigmentosa
+URL of this page: https://medlineplus.gov/genetics/condition/retinitis-pigmentosa/
+Retinitis pigmentosa
+Description
+Retinitis pigmentosa is a group of related eye disorders that cause progressive vision loss. These disorders affect the retina, which is the layer of light-sensitive tissue at the back of
+the eye
+. In people with retinitis pigmentosa, vision loss occurs as the light-sensing cells of the retina gradually deteriorate.
+The first sign of retinitis pigmentosa is usually a loss of night vision, which becomes apparent in childhood. Problems with night vision can make it difficult to navigate in low light. Later, the disease causes blind spots to develop in the side (peripheral) vision. Over time, these blind spots merge to produce tunnel vision. The disease progresses over years or decades to affect central vision, which is needed for detailed tasks such as reading, driving, and recognizing faces. In adulthood, many people with retinitis pigmentosa become legally blind.
+The signs and symptoms of retinitis pigmentosa are most often limited to vision loss. When the disorder occurs by itself, it is described as nonsyndromic. Researchers have identified several major types of nonsyndromic retinitis pigmentosa, which are usually distinguished by their pattern of inheritance: autosomal dominant, autosomal recessive, or X-linked.
+Less commonly, retinitis pigmentosa occurs as part of syndromes that affect other organs and tissues in the body. These forms of the disease are described as syndromic. The most common form of syndromic retinitis pigmentosa is
+Usher syndrome
+, which is characterized by the combination of vision loss and hearing loss beginning early in life. Retinitis pigmentosa is also a feature of several other genetic syndromes, including
+Bardet-Biedl syndrome
+;
+Refsum disease
+; and
+neuropathy, ataxia, and retinitis pigmentosa
+(NARP).
+Frequency
+Retinitis pigmentosa is one of the most common inherited diseases of the retina (retinopathies). It is estimated to affect 1 in 3,500 to 1 in 4,000 people in the United States and Europe.
+Causes
+Mutations in more than 60 genes are known to cause nonsyndromic retinitis pigmentosa. More than 20 of these genes are associated with the autosomal dominant form of the disorder. Mutations in the
+RHO
+gene are the most common cause of autosomal dominant retinitis pigmentosa, accounting for 20 to 30 percent of all cases. At least 35 genes have been associated with the autosomal recessive form of the disorder. The most common of these is
+USH2A
+; mutations in this gene are responsible for 10 to 15 percent of all cases of autosomal recessive retinitis pigmentosa. Changes in at least six genes are thought to cause the X-linked form of the disorder. Together, mutations in the
+RPGR
+and
+RP2
+genes account for most cases of X-linked retinitis pigmentosa.
+The genes associated with retinitis pigmentosa play essential roles in the structure and function of specialized light receptor cells (photoreceptors) in the retina. The retina contains two types of photoreceptors,
+rods and cones
+. Rods are responsible for vision in low light, while cones provide vision in bright light, including color vision.
+Mutations in any of the genes responsible for retinitis pigmentosa lead to a gradual loss of rods and cones in the retina. The progressive degeneration of these cells causes the characteristic pattern of vision loss that occurs in people with retinitis pigmentosa. Rods typically break down before cones, which is why night vision impairment is usually the first sign of the disorder. Daytime vision is disrupted later, as both rods and cones are lost.
+Some of the genes associated with retinitis pigmentosa are also associated with other eye diseases, including a condition called
+cone-rod dystrophy
+. Cone-rod dystrophy has signs and symptoms similar to those of retinitis pigmentosa. However, cone-rod dystrophy is characterized by deterioration of the cones first, followed by the rods, so daylight and color vision are affected before night vision.
+Learn more about the genes associated with Retinitis pigmentosa
+ABCA4
+BEST1
+CLRN1
+CRB1
+CRX
+PDE6B
+PRPH2
+RHO
+RP2
+RPE65
+RPGR
+USH2A
+WDR19
+Additional Information from NCBI Gene:
+CA4
+CERKL
+CNGA1
+CNGB1
+EYS
+FAM161A
+FSCN2
+GUCA1B
+IDH3B
+IMPDH1
+IMPG2
+KLHL7
+LRAT
+MERTK
+MT-TS2
+NR2E3
+NRL
+PCARE
+PDE6A
+PDE6G
+PRCD
+PROM1
+PRPF3
+PRPF31
+PRPF8
+RBP3
+RDH12
+RGR
+RLBP1
+ROM1
+RP1
+RP9
+SAG
+SEMA4A
+SNRNP200
+SPATA7
+TOPORS
+TTC8
+TULP1
+ZNF513
+Inheritance
+Retinitis pigmentosa often has an
+autosomal dominant inheritance pattern
+, which means one copy of an altered gene in each cell is sufficient to cause the disorder. Most people with autosomal dominant retinitis pigmentosa have an affected parent and other family members with the disorder.
+Retinitis pigmentosa can also have an
+autosomal recessive pattern
+of inheritance, which means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+This condition can also be inherited in an X-linked pattern. The genes associated with X-linked retinitis pigmentosa are located on the X chromosome, which is one of the two
+sex chromosomes
+. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females, (who have two X chromosomes), mutations usually have to occur in both copes of the gene to cause the disorder. However, at least 20 percent of females who carry only one mutated copy of the gene develop retinal degeneration and associated vision loss. In most cases, males experience more severe symptoms of the disorder than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In 10 to 40 percent of all cases of retinitis pigmentosa, only one person in a family is affected. In these families, the disorder is described as simplex. It can be difficult to determine the inheritance pattern of simplex cases because affected individuals may have no affected relatives or may be unaware of other family members with the disease. Simplex cases can also result from a new gene mutation that is not present in other family members.
+Other Names for This Condition
+Pigmentary retinopathy
+Rod-cone dystrophy
+RP
+Tapetoretinal degeneration
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Retinitis pigmentosa
+Genetic and Rare Diseases Information Center
+Cone rod dystrophy
+Retinitis pigmentosa
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+RETINITIS PIGMENTOSA; RP
+Scientific Articles on PubMed
+PubMed
+References
+Daiger SP, Bowne SJ, Sullivan LS. Perspective on genes and mutations causing
+retinitis pigmentosa. Arch Ophthalmol. 2007 Feb;125(2):151-8. doi:
+10.1001/archopht.125.2.151.
+Citation on PubMed
+or
+Free article on PubMed Central
+Daiger SP, Sullivan LS, Gire AI, Birch DG, Heckenlively JR, Bowne SJ.
+Mutations in known genes account for 58% of autosomal dominant retinitis
+pigmentosa (adRP). Adv Exp Med Biol. 2008;613:203-9. doi:
+10.1007/978-0-387-74904-4_23. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fahim AT, Daiger SP, Weleber RG. Nonsyndromic Retinitis Pigmentosa Overview.
+2000 Aug 4 [updated 2023 Apr 6]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA,
+Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1417/
+Citation on PubMed
+Hamel C. Retinitis pigmentosa. Orphanet J Rare Dis. 2006 Oct 11;1:40. doi:
+10.1186/1750-1172-1-40.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hartong DT, Berson EL, Dryja TP. Retinitis pigmentosa. Lancet. 2006 Nov
+18;368(9549):1795-809. doi: 10.1016/S0140-6736(06)69740-7.
+Citation on PubMed
+Pelletier V, Jambou M, Delphin N, Zinovieva E, Stum M, Gigarel N, Dollfus H,
+Hamel C, Toutain A, Dufier JL, Roche O, Munnich A, Bonnefont JP, Kaplan J, Rozet
+JM. Comprehensive survey of mutations in RP2 and RPGR in patients affected with
+distinct retinal dystrophies: genotype-phenotype correlations and impact on
+genetic counseling. Hum Mutat. 2007 Jan;28(1):81-91. doi: 10.1002/humu.20417.
+Citation on PubMed
+Sullivan LS, Bowne SJ, Birch DG, Hughbanks-Wheaton D, Heckenlively JR, Lewis
+RA, Garcia CA, Ruiz RS, Blanton SH, Northrup H, Gire AI, Seaman R, Duzkale H,
+Spellicy CJ, Zhu J, Shankar SP, Daiger SP. Prevalence of disease-causing
+mutations in families with autosomal dominant retinitis pigmentosa: a screen of
+known genes in 200 families. Invest Ophthalmol Vis Sci. 2006 Jul;47(7):3052-64.
+doi: 10.1167/iovs.05-1443.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Retinal Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Retinitis pigmentosa
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

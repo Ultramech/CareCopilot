@@ -1,0 +1,145 @@
+Spondyloepiphyseal dysplasia with marked metaphyseal changes: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Spondyloepiphyseal dysplasia with marked metaphyseal changes
+URL of this page: https://medlineplus.gov/genetics/condition/spondyloepiphyseal-dysplasia-with-marked-metaphyseal-changes/
+Spondyloepiphyseal dysplasia with marked metaphyseal changes
+Description
+Spondyloepiphyseal dysplasia (SED) with marked metaphyseal changes is a group of rare skeletal disorders. People with SED with marked metaphyseal changes have abnormalities of the spine (spondylo-) and the regions near the ends (metaphyses) and at the ends (epiphyses) of the long bones in the arms and legs. The severity of the signs and symptoms can vary from person to person.
+People with SED with marked metaphyseal changes may have a short torso, shortened arms and legs, and flattened bones of the spine (platyspondyly), which all lead to short stature. People with SED with marked metaphyseal changes may develop abnormal side-to-side and front-to-back curvature of the spine (
+scoliosis
+and
+kyphosis
+, often called kyphoscoliosis when they occur together). This abnormal spinal curvature may be severe and can cause problems with breathing. Instability of the spinal bones (vertebrae) in the neck can cause these bones to shift, which increases the risk of damage to the spinal cord.
+Other features of SED with marked metaphyseal changes may include legs that curve outward or inward (valgus or varus deformity) and irregular bone formation (ossification) in the long bones. Changes in the position of the thigh bone where it meets the hip joint can cause difficulty walking. Affected individuals may also have joint pain, swollen joints, and joint deformities (contractures). Arthritis may develop early in life.
+The conditions that make up SED with marked metaphyseal changes were once thought to be distinct disorders, but they are now considered to be part of the same disease spectrum. These conditions include spondyloepimetaphyseal dysplasia, Strudwick type (SEMD-S); spondylometaphyseal dysplasia, Algerian type (SMD-A); spondyloepiphyseal dysplasia, Stanescu type (SED-S); some cases of spondylometaphyseal dysplasia, corner fracture type (SMDCF); and dysspondyloenchondromatosis (DSC).
+Frequency
+SED with marked metaphyseal changes is rare, but the exact prevalence is not known.
+Causes
+Variants (also called mutations) in the
+COL2A1
+gene cause SED with marked metaphyseal changes. The
+COL2A1
+gene provides instructions for making a protein that forms type II collagen, which is found in cartilage. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development; most cartilage is later converted to bone. Type II collagen is essential for the normal growth and development of bones and other
+connective tissues
+.
+Most of the variants in the
+COL2A1
+gene that cause SED with marked metaphyseal changes disrupt the formation of stable type II collagen molecules. This change in type II collagen prevents bones and other connective tissues from developing properly, which leads to the characteristic features of SED with marked metaphyseal changes.
+Learn more about the gene associated with Spondyloepiphyseal dysplasia with marked metaphyseal changes
+COL2A1
+Inheritance
+SED with marked metaphyseal changes is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Some cases are the result of new (de novo) variants in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or during early embryonic development. These affected individuals typically have no history of the disorder in their family.
+Other Names for This Condition
+SED with marked metaphyseal changes
+Spondyloepimetaphyseal dysplasia, COL2A1-related
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Spondyloepimetaphyseal dysplasia, Strudwick type
+Genetic and Rare Diseases Information Center
+Spondyloepimetaphyseal dysplasia congenita, Strudwick type
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SPONDYLOEPIMETAPHYSEAL DYSPLASIA, STRUDWICK TYPE; SEMDSTWK
+SPONDYLOMETAPHYSEAL DYSPLASIA, ALGERIAN TYPE; SMDALG
+SPONDYLOMETAPHYSEAL DYSPLASIA, CORNER FRACTURE TYPE; SMDCF
+SPONDYLOEPIPHYSEAL DYSPLASIA, STANESCU TYPE; SEDSTN
+Scientific Articles on PubMed
+PubMed
+References
+Amirfeyz R, Taylor A, Smithson SF, Gargan MF. Orthopaedic manifestations and
+management of spondyloepimetaphyseal dysplasia Strudwick type. J Pediatr Orthop
+B. 2006 Jan;15(1):41-4. doi: 10.1097/01202412-200601000-00009.
+Citation on PubMed
+England J, Campeau PM. Spondylometaphyseal Dysplasia, Corner Fracture Type.
+2020 Mar 19 [updated 2025 May 22]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA,
+Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA):
+University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK555103/
+Citation on PubMed
+Matsubayashi S, Ikema M, Ninomiya Y, Yamaguchi K, Ikegawa S, Nishimura G.
+COL2A1 Mutation in Spondylometaphyseal Dysplasia Algerian Type. Mol Syndromol.
+2013 Mar;4(3):148-51. doi: 10.1159/000346644. Epub 2013 Jan 30.
+Citation on PubMed
+Merrick B, Calder A, Wakeling E. Dysspondyloenchondromatosis (DSC) associated
+with COL2A1 mutation: Clinical and radiological overlap with
+spondyloepimetaphyseal dysplasia-Strudwick type (SEMD-S). Am J Med Genet A. 2015
+Dec;167A(12):3103-7. doi: 10.1002/ajmg.a.37282. Epub 2015 Aug 6.
+Citation on PubMed
+Nakane T, Tando T, Aoyagi K, Hatakeyama K, Nishimura G, Coucke IP, Mortier G,
+Sugita K. Dysspondyloenchondromatosis: Another COL2A1-Related Skeletal Dysplasia?
+Mol Syndromol. 2011 Dec;2(1):21-26. doi: 10.1159/000333098. Epub 2011 Oct 18.
+Citation on PubMed
+Tiller GE, Polumbo PA, Weis MA, Bogaert R, Lachman RS, Cohn DH, Rimoin DL,
+Eyre DR. Dominant mutations in the type II collagen gene, COL2A1, produce
+spondyloepimetaphyseal dysplasia, Strudwick type. Nat Genet. 1995 Sep;11(1):87-9.
+doi: 10.1038/ng0995-87.
+Citation on PubMed
+Travessa AM, Diaz-Gonzalez F, Mirco T, Oliveira-Ramos F, Parron-Pajares M,
+Heath KE, Sousa AB. Spondyloepiphyseal dysplasia type Stanescu: Expanding the
+clinical and molecular spectrum of a very rare type II collagenopathy. Am J Med
+Genet A. 2020 Nov;182(11):2715-2721. doi: 10.1002/ajmg.a.61817. Epub 2020 Aug 28.
+Citation on PubMed
+Tysoe C, Saunders J, White L, Hills N, Nicol M, Evans G, Cole T, Chapman S,
+Pope FM. A glycine to aspartic acid substitution of COL2A1 in a family with the
+Strudwick variant of spondyloepimetaphyseal dysplasia. QJM. 2003
+Sep;96(9):663-71. doi: 10.1093/qjmed/hcg112.
+Citation on PubMed
+Unger S, Ferreira CR, Mortier GR, Ali H, Bertola DR, Calder A, Cohn DH,
+Cormier-Daire V, Girisha KM, Hall C, Krakow D, Makitie O, Mundlos S, Nishimura G,
+Robertson SP, Savarirayan R, Sillence D, Simon M, Sutton VR, Warman ML,
+Superti-Furga A. Nosology of genetic skeletal disorders: 2023 revision. Am J Med
+Genet A. 2023 May;191(5):1164-1209. doi: 10.1002/ajmg.a.63132. Epub 2023 Feb 13.
+Citation on PubMed
+Walter K, Tansek M, Tobias ES, Ikegawa S, Coucke P, Hyland J, Mortier G, Iwaya
+T, Nishimura G, Superti-Furga A, Unger S. COL2A1-related skeletal dysplasias with
+predominant metaphyseal involvement. Am J Med Genet A. 2007 Jan 15;143A(2):161-7.
+doi: 10.1002/ajmg.a.31516.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Connective Tissue Disorders
+Dwarfism
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Clubfoot
+Genetics
+Scoliosis
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

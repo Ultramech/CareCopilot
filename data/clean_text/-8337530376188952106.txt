@@ -1,0 +1,136 @@
+Propionic acidemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Propionic acidemia
+URL of this page: https://medlineplus.gov/genetics/condition/propionic-acidemia/
+Propionic acidemia
+Description
+Propionic acidemia is an inherited disorder in which the body is unable to process certain parts of proteins and lipids (fats) properly. It is classified as an organic acid disorder, which is a condition that leads to an abnormal buildup of particular acids known as organic acids. Abnormal levels of organic acids in the blood (organic acidemia), urine (organic aciduria), and tissues can be toxic and can cause serious health problems.
+In most cases, the features of propionic acidemia become apparent within a few days after birth. The initial symptoms include poor feeding, vomiting, loss of appetite, weak muscle tone (hypotonia), and lack of energy (lethargy). These symptoms sometimes progress to more serious medical problems, including heart abnormalities, seizures, coma, and possibly death.
+Less commonly, the signs and symptoms of propionic acidemia appear during childhood and may come and go over time. Some affected children experience intellectual disability or delayed development. In children with this later-onset form of the condition, episodes of more serious health problems can be triggered by prolonged periods without food (fasting), fever, or infections.
+Frequency
+Propionic acidemia affects about 1 in 100,000 people in the United States. The condition appears to be more common in several populations worldwide, including the Inuit population of Greenland, some Amish communities, and Saudi Arabians.
+Causes
+Mutations in the
+PCCA
+and
+PCCB
+genes cause propionic acidemia. These genes provide instructions for making two parts (subunits) of an enzyme called propionyl-CoA carboxylase, which plays a role in the normal breakdown of proteins. Specifically, this enzyme helps process several amino acids, which are the building blocks of proteins. Propionyl-CoA carboxylase also helps break down certain types of fat and cholesterol in the body. Mutations in the
+PCCA
+or
+PCCB
+gene disrupt the function of the enzyme and prevent the normal breakdown of these molecules. As a result, a substance called propionyl-CoA and other potentially harmful compounds can build up to toxic levels in the body. This buildup damages the brain and nervous system, causing the serious health problems associated with propionic acidemia.
+Learn more about the genes associated with Propionic acidemia
+PCCA
+PCCB
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Hyperglycinemia with ketoacidosis and leukopenia
+Ketotic glycinemia
+Ketotic hyperglycinemia
+PCC deficiency
+PROP
+Propionicacidemia
+Propionyl-CoA carboxylase deficiency
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Propionic acidemia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PROPIONIC ACIDEMIA
+Scientific Articles on PubMed
+PubMed
+References
+Aldubayan SH, Rodan LH, Berry GT, Levy HL. Acute Illness Protocol for Organic
+Acidemias: Methylmalonic Acidemia and Propionic Acidemia. Pediatr Emerg Care.
+2017 Feb;33(2):142-146. doi: 10.1097/PEC.0000000000001028.
+Citation on PubMed
+Baumgartner D, Scholl-Burgi S, Sass JO, Sperl W, Schweigmann U, Stein JI,
+Karall D. Prolonged QTc intervals and decreased left ventricular contractility in
+patients with propionic acidemia. J Pediatr. 2007 Feb;150(2):192-7, 197.e1. doi:
+10.1016/j.jpeds.2006.11.043.
+Citation on PubMed
+Baumgartner MR, Horster F, Dionisi-Vici C, Haliloglu G, Karall D, Chapman KA,
+Huemer M, Hochuli M, Assoun M, Ballhausen D, Burlina A, Fowler B, Grunert SC,
+Grunewald S, Honzik T, Merinero B, Perez-Cerda C, Scholl-Burgi S, Skovby F,
+Wijburg F, MacDonald A, Martinelli D, Sass JO, Valayannopoulos V, Chakrapani A.
+Proposed guidelines for the diagnosis and management of methylmalonic and
+propionic acidemia. Orphanet J Rare Dis. 2014 Sep 2;9:130. doi:
+10.1186/s13023-014-0130-8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fraser JL, Venditti CP. Methylmalonic and propionic acidemias: clinical
+management update. Curr Opin Pediatr. 2016 Dec;28(6):682-693. doi:
+10.1097/MOP.0000000000000422.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grunert SC, Mullerleile S, De Silva L, Barth M, Walter M, Walter K, Meissner
+T, Lindner M, Ensenauer R, Santer R, Bodamer OA, Baumgartner MR, Brunner-Krainz
+M, Karall D, Haase C, Knerr I, Marquardt T, Hennermann JB, Steinfeld R, Beblo S,
+Koch HG, Konstantopoulou V, Scholl-Burgi S, van Teeffelen-Heithoff A, Suormala T,
+Sperl W, Kraus JP, Superti-Furga A, Schwab KO, Sass JO. Propionic acidemia:
+clinical course and outcome in 55 pediatric and adolescent patients. Orphanet J
+Rare Dis. 2013 Jan 10;8:6. doi: 10.1186/1750-1172-8-6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pena L, Franks J, Chapman KA, Gropman A, Ah Mew N, Chakrapani A, Island E,
+MacLeod E, Matern D, Smith B, Stagni K, Sutton VR, Ueda K, Urv T, Venditti C,
+Enns GM, Summar ML. Natural history of propionic acidemia. Mol Genet Metab. 2012
+Jan;105(1):5-9. doi: 10.1016/j.ymgme.2011.09.022. Epub 2011 Sep 22.
+Citation on PubMed
+Schreiber J, Chapman KA, Summar ML, Ah Mew N, Sutton VR, MacLeod E, Stagni K,
+Ueda K, Franks J, Island E, Matern D, Pena L, Smith B, Urv T, Venditti C,
+Chakarapani A, Gropman AL. Neurologic considerations in propionic acidemia. Mol
+Genet Metab. 2012 Jan;105(1):10-5. doi: 10.1016/j.ymgme.2011.10.003. Epub 2011
+Oct 19.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

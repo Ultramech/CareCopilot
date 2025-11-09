@@ -1,0 +1,175 @@
+Niemann-Pick disease: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Niemann-Pick disease
+URL of this page: https://medlineplus.gov/genetics/condition/niemann-pick-disease/
+Niemann-Pick disease
+Description
+Niemann-Pick disease is a condition that affects many body systems. It has a wide range of symptoms that vary in severity. Niemann-Pick disease is divided into four main types: type A, type B, type C1, and type C2. These types are classified on the basis of genetic cause and the signs and symptoms of the condition.
+Infants with Niemann-Pick disease type A usually develop an enlarged liver and spleen (hepatosplenomegaly) by age 3 months and fail to gain weight and grow at the expected rate (failure to thrive). The affected children develop normally until around age 1 year when they experience a progressive loss of mental abilities and movement (psychomotor regression). Children with Niemann-Pick disease type A also develop widespread lung damage (interstitial lung disease) that can cause recurrent lung infections and eventually lead to respiratory failure. All affected children have an eye abnormality called a cherry-red spot, which can be identified with an eye examination. Children with Niemann-Pick disease type A generally do not survive past early childhood.
+Niemann-Pick disease type B usually presents in mid-childhood. The signs and symptoms of this type are similar to type A, but not as severe. People with Niemann-Pick disease type B often have hepatosplenomegaly, recurrent lung infections, and a low number of
+platelets
+in the blood (thrombocytopenia). They also have short stature and slowed mineralization of bone (delayed bone age). About one-third of affected individuals have the cherry-red spot eye abnormality or neurological impairment. People with Niemann-Pick disease type B usually survive into adulthood.
+The signs and symptoms of Niemann-Pick disease types C1 and C2 are very similar; these types differ only in their genetic cause. Niemann-Pick disease types C1 and C2 usually become apparent in childhood, although signs and symptoms can develop at any time. People with these types usually develop difficulty coordinating movements (ataxia), an inability to move the eyes vertically (vertical supranuclear gaze palsy), poor muscle tone (dystonia), severe liver disease, and interstitial lung disease. Individuals with Niemann-Pick disease types C1 and C2 have problems with speech and swallowing that worsen over time, eventually interfering with feeding. Affected individuals often experience progressive decline in intellectual function and about one-third have seizures. People with these types may survive into adulthood.
+Frequency
+Niemann-Pick disease types A and B is estimated to affect 1 in 250,000 individuals. Niemann-Pick disease type A occurs more frequently among individuals of Ashkenazi (eastern and central European) Jewish descent than in the general population. The incidence within the Ashkenazi population is approximately 1 in 40,000 individuals.
+Combined, Niemann-Pick disease types C1 and C2 are estimated to affect 1 in 150,000 individuals; however, type C1 is by far the more common type, accounting for 95 percent of cases. The disease occurs more frequently in people of French-Acadian descent in Nova Scotia. In Nova Scotia, a population of affected French-Acadians were previously designated as having Niemann-Pick disease type D, however, it was shown that these individuals have mutations in the gene associated with Niemann-Pick disease type C1.
+Causes
+Niemann-Pick disease types A and B is caused by mutations in the
+SMPD1
+gene. This gene provides instructions for producing an enzyme called acid sphingomyelinase. This enzyme is found in
+lysosomes
+, which are compartments within cells that break down and recycle different types of molecules. Acid sphingomyelinase is responsible for the conversion of a fat (lipid) called sphingomyelin into another type of lipid called ceramide. Mutations in
+SMPD1
+lead to a shortage of acid sphingomyelinase, which results in reduced break down of sphingomyelin, causing this fat to accumulate in cells. This fat buildup causes cells to malfunction and eventually die. Over time, cell loss impairs function of tissues and organs including the brain, lungs, spleen, and liver in people with Niemann-Pick disease types A and B.
+Mutations in either the
+NPC1
+or
+NPC2
+gene cause Niemann-Pick disease type C. The proteins produced from these genes are involved in the movement of lipids within cells. Mutations in these genes lead to a shortage of functional protein, which prevents movement of cholesterol and other lipids, leading to their accumulation in cells. Because these lipids are not in their proper location in cells, many normal cell functions that require lipids (such as cell membrane formation) are impaired. The accumulation of lipids as well as the cell dysfunction eventually leads to cell death, causing the tissue and organ damage seen in Niemann-Pick disease types C1 and C2.
+Learn more about the genes associated with Niemann-Pick disease
+NPC1
+NPC2
+SMPD1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Lipid histiocytosis
+Neuronal cholesterol lipidosis
+Neuronal lipidosis
+NPD
+Sphingomyelin lipidosis
+Sphingomyelin/cholesterol lipidosis
+Sphingomyelinase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Niemann-Pick disease, type C1
+Genetic Testing Registry: Niemann-pick disease, intermediate, protracted neurovisceral
+Genetic Testing Registry: Niemann-Pick disease, type A
+Genetic Testing Registry: Niemann-Pick disease, type B
+Genetic Testing Registry: Niemann-Pick disease, type C
+Genetic Testing Registry: Niemann-Pick disease, type C2
+Genetic Testing Registry: Niemann-Pick disease, type D
+Genetic Testing Registry: Sphingomyelin/cholesterol lipidosis
+Genetic and Rare Diseases Information Center
+Chronic visceral acid sphingomyelinase deficiency
+Infantile neurovisceral acid sphingomyelinase deficiency
+Niemann-Pick disease type C2
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NIEMANN-PICK DISEASE, TYPE A
+NIEMANN-PICK DISEASE, TYPE C1; NPC1
+NIEMANN-PICK DISEASE, TYPE B
+NIEMANN-PICK DISEASE, TYPE C2; NPC2
+Scientific Articles on PubMed
+PubMed
+References
+Gabande-Rodriguez E, Boya P, Labrador V, Dotti CG, Ledesma MD. High
+sphingomyelin levels induce lysosomal damage and autophagy dysfunction in Niemann
+Pick disease type A. Cell Death Differ. 2014 Jun;21(6):864-75. doi:
+10.1038/cdd.2014.4. Epub 2014 Jan 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Garver WS, Francis GA, Jelinek D, Shepherd G, Flynn J, Castro G, Walsh Vockley
+C, Coppock DL, Pettit KM, Heidenreich RA, Meaney FJ. The National Niemann-Pick C1
+disease database: report of clinical features and health problems. Am J Med Genet
+A. 2007 Jun 1;143A(11):1204-11. doi: 10.1002/ajmg.a.31735.
+Citation on PubMed
+Hollak CE, de Sonnaville ES, Cassiman D, Linthorst GE, Groener JE, Morava E,
+Wevers RA, Mannens M, Aerts JM, Meersseman W, Akkerman E, Niezen-Koning KE,
+Mulder MF, Visser G, Wijburg FA, Lefeber D, Poorthuis BJ. Acid sphingomyelinase
+(Asm) deficiency patients in The Netherlands and Belgium: disease spectrum and
+natural course in attenuated patients. Mol Genet Metab. 2012 Nov;107(3):526-33.
+doi: 10.1016/j.ymgme.2012.06.015. Epub 2012 Jun 30.
+Citation on PubMed
+Irun P, Mallen M, Dominguez C, Rodriguez-Sureda V, Alvarez-Sala LA, Arslan N,
+Bermejo N, Guerrero C, Perez de Soto I, Villalon L, Giraldo P, Pocovi M.
+Identification of seven novel SMPD1 mutations causing Niemann-Pick disease types
+A and B. Clin Genet. 2013 Oct;84(4):356-61. doi: 10.1111/cge.12076. Epub 2013 Jan
+4.
+Citation on PubMed
+McGovern MM, Aron A, Brodie SE, Desnick RJ, Wasserstein MP. Natural history of
+Type A Niemann-Pick disease: possible endpoints for therapeutic trials.
+Neurology. 2006 Jan 24;66(2):228-32. doi: 10.1212/01.wnl.0000194208.08904.0c.
+Citation on PubMed
+McGovern MM, Lippa N, Bagiella E, Schuchman EH, Desnick RJ, Wasserstein MP.
+Morbidity and mortality in type B Niemann-Pick disease. Genet Med. 2013
+Aug;15(8):618-23. doi: 10.1038/gim.2013.4. Epub 2013 Feb 14.
+Citation on PubMed
+Mengel E, Klunemann HH, Lourenco CM, Hendriksz CJ, Sedel F, Walterfang M, Kolb
+SA. Niemann-Pick disease type C symptomatology: an expert-based clinical
+description. Orphanet J Rare Dis. 2013 Oct 17;8:166. doi:
+10.1186/1750-1172-8-166.
+Citation on PubMed
+or
+Free article on PubMed Central
+Patterson MC, Mengel E, Wijburg FA, Muller A, Schwierin B, Drevon H, Vanier
+MT, Pineda M. Disease and patient characteristics in NP-C patients: findings from
+an international disease registry. Orphanet J Rare Dis. 2013 Jan 16;8:12. doi:
+10.1186/1750-1172-8-12.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sturley SL, Patterson MC, Balch W, Liscum L. The pathophysiology and
+mechanisms of NP-C disease. Biochim Biophys Acta. 2004 Oct 11;1685(1-3):83-7.
+doi: 10.1016/j.bbalip.2004.08.014.
+Citation on PubMed
+Vance JE. Lipid imbalance in the neurological disorder, Niemann-Pick C
+disease. FEBS Lett. 2006 Oct 9;580(23):5518-24. doi:
+10.1016/j.febslet.2006.06.008. Epub 2006 Jun 15.
+Citation on PubMed
+Walkley SU, Suzuki K. Consequences of NPC1 and NPC2 loss of function in
+mammalian neurons. Biochim Biophys Acta. 2004 Oct 11;1685(1-3):48-62. doi:
+10.1016/j.bbalip.2004.08.011.
+Citation on PubMed
+Wasserstein MP, Desnick RJ, Schuchman EH, Hossain S, Wallenstein S, Lamm C,
+McGovern MM. The natural history of type B Niemann-Pick disease: results from a
+10-year longitudinal study. Pediatrics. 2004 Dec;114(6):e672-7. doi:
+10.1542/peds.2004-0887. Epub 2004 Nov 15.
+Citation on PubMed
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Lipid Metabolism Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Niemann-Pick disease
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

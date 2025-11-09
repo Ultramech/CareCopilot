@@ -1,0 +1,162 @@
+Citrullinemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Citrullinemia
+URL of this page: https://medlineplus.gov/genetics/condition/citrullinemia/
+Citrullinemia
+Description
+Citrullinemia is an inherited disorder that causes ammonia and other toxic substances to accumulate in the blood. Two types of citrullinemia have been described; they have different signs and symptoms and are caused by mutations in different genes.
+Type I citrullinemia (also known as classic citrullinemia) usually becomes evident in the first few days of life. Affected infants typically appear normal at birth, but as ammonia builds up, they experience a progressive lack of energy (lethargy), poor feeding, vomiting, seizures, and loss of consciousness. Some affected individuals develop serious
+liver
+problems. The health problems associated with type I citrullinemia are life-threatening in many cases. Less commonly, a milder form of type I citrullinemia can develop later in childhood or adulthood. This later-onset form is associated with intense headaches, blind spots (scotomas), problems with balance and muscle coordination (ataxia), and lethargy. Some people with gene mutations that cause type I citrullinemia never experience signs and symptoms of the disorder.
+Type II citrullinemia chiefly affects the nervous system, causing confusion, restlessness, memory loss, abnormal behaviors (such as aggression, irritability, and hyperactivity), seizures, and coma. Affected individuals often have specific food preferences, preferring protein-rich and fatty foods and avoiding carbohydrate-rich foods. The signs and symptoms of this disorder typically appear during adulthood (adult-onset) and can be triggered by certain medications, infections, surgery, and alcohol intake. These signs and symptoms can be life-threatening in people with adult-onset type II citrullinemia.
+Adult-onset type II citrullinemia may also develop in people who as infants had a liver disorder called neonatal intrahepatic cholestasis caused by citrin deficiency (NICCD). This liver condition is also known as neonatal-onset type II citrullinemia. NICCD blocks the flow of
+bile
+(a digestive fluid produced by the liver) and prevents the body from processing certain nutrients properly. In many cases, the signs and symptoms of NICCD go away within a year. In rare cases, affected individuals develop other signs and symptoms in early childhood after seeming to recover from NICCD, including delayed growth, extreme tiredness (fatigue), specific food preferences (mentioned above), and abnormal amounts of fats (lipids) in the blood (dyslipidemia). This condition is known as failure to thrive and dyslipidemia caused by citrin deficiency (FTTDCD). Years or even decades later, some people with NICCD or FTTDCD develop the features of adult-onset type II citrullinemia.
+Frequency
+Type I citrullinemia is the most common form of the disorder, affecting about 1 in 57,000 people worldwide. Type II citrullinemia is found primarily in the Japanese population, where it occurs in an estimated 1 in 100,000 to 230,000 individuals. Type II also has been reported in other populations, including other people from East Asia, the Middle East, the United States, and the United Kingdom.
+Causes
+Mutations in the
+ASS1
+and
+SLC25A13
+genes cause citrullinemia. The proteins produced from these genes play roles in the urea cycle. The urea cycle is a sequence of chemical reactions that takes place in
+liver
+cells. These reactions process excess nitrogen that is generated when protein is used by the body. The excess nitrogen is used to make a compound called urea, which is excreted in urine.
+Mutations in the
+ASS1
+gene cause type I citrullinemia. This gene provides instructions for making an enzyme, argininosuccinate synthase 1, that is responsible for one step of the urea cycle. Mutations in the
+ASS1
+gene reduce the activity of the enzyme, which disrupts the urea cycle and prevents the body from processing nitrogen effectively. Excess nitrogen (in the form of ammonia) and other byproducts of the urea cycle accumulate in the bloodstream. Ammonia is particularly toxic to the nervous system, which helps explain the neurologic symptoms (such as lethargy, seizures, and ataxia) that are often seen in type I citrullinemia.
+Mutations in the
+SLC25A13
+gene are responsible for adult-onset type II citrullinemia, NICCD, and FTTDCD. This gene provides instructions for making a protein called citrin. Within cells, citrin helps transport molecules used in the production and breakdown of simple sugars, the production of proteins, and the urea cycle. Molecules transported by citrin are also involved in making
+nucleotides
+, which are the building blocks of DNA and its chemical cousin, RNA. Mutations in the
+SLC25A13
+gene typically prevent cells from making any functional citrin, which inhibits the urea cycle and disrupts the production of proteins and nucleotides. The resulting buildup of ammonia and other toxic substances leads to the signs and symptoms of adult-onset type II citrullinemia. A lack of citrin also leads to the features of NICCD and FTTDCD, although ammonia does not build up in the bloodstream of individuals with these conditions.
+Because citrullinemia is caused by problems with the urea cycle, it belongs to a class of genetic diseases called urea cycle disorders.
+Learn more about the genes associated with Citrullinemia
+ASS1
+SLC25A13
+Inheritance
+Both types of citrullinemia are inherited in an
+autosomal recessive pattern
+, which means both copies of the respective gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CIT
+Citrullinuria
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Citrullinemia type I
+Genetic Testing Registry: Citrullinemia type II
+Genetic Testing Registry: Neonatal intrahepatic cholestasis due to citrin deficiency
+Genetic and Rare Diseases Information Center
+Citrullinemia type I
+Citrullinemia type II
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CITRULLINEMIA, CLASSIC
+CITRIN DEFICIENCY, ADOLESCENT OR ADULT ONSET; CDAA
+CITRIN DEFICIENCY, NEONATAL OR INFANTILE ONSET; CDNI
+Scientific Articles on PubMed
+PubMed
+References
+Faghfoury H, Baruteau J, de Baulny HO, Haberle J, Schulze A. Transient
+fulminant liver failure as an initial presentation in citrullinemia type I. Mol
+Genet Metab. 2011 Apr;102(4):413-7. doi: 10.1016/j.ymgme.2010.12.007. Epub 2010
+Dec 16.
+Citation on PubMed
+Gao HZ, Kobayashi K, Tabata A, Tsuge H, Iijima M, Yasuda T, Kalkanoglu HS,
+Dursun A, Tokatli A, Coskun T, Trefz FK, Skladal D, Mandel H, Seidel J, Kodama S,
+Shirane S, Ichida T, Makino S, Yoshino M, Kang JH, Mizuguchi M, Barshop BA,
+Fuchinoue S, Seneca S, Zeesman S, Knerr I, Rodes M, Wasant P, Yoshida I, De
+Meirleir L, Abdul Jalil M, Begum L, Horiuchi M, Katunuma N, Nakagawa S, Saheki T.
+Identification of 16 novel mutations in the argininosuccinate synthetase gene and
+genotype-phenotype correlation in 38 classical citrullinemia patients. Hum Mutat.
+2003 Jul;22(1):24-34. doi: 10.1002/humu.10230.
+Citation on PubMed
+Lu YB, Kobayashi K, Ushikai M, Tabata A, Iijima M, Li MX, Lei L, Kawabe K,
+Taura S, Yang Y, Liu TT, Chiang SH, Hsiao KJ, Lau YL, Tsui LC, Lee DH, Saheki T.
+Frequency and distribution in East Asia of 12 mutations identified in the
+SLC25A13 gene of Japanese patients with citrin deficiency. J Hum Genet.
+2005;50(7):338-346. doi: 10.1007/s10038-005-0262-8. Epub 2005 Jul 30.
+Citation on PubMed
+Quinonez SC, Lee KN. Citrullinemia Type I. 2004 Jul 7 [updated 2022 Aug 18].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1458/
+Citation on PubMed
+Saheki T, Kobayashi K, Iijima M, Horiuchi M, Begum L, Jalil MA, Li MX, Lu YB,
+Ushikai M, Tabata A, Moriyama M, Hsiao KJ, Yang Y. Adult-onset type II
+citrullinemia and idiopathic neonatal hepatitis caused by citrin deficiency:
+involvement of the aspartate glutamate carrier for urea synthesis and maintenance
+of the urea cycle. Mol Genet Metab. 2004 Apr;81 Suppl 1:S20-6. doi:
+10.1016/j.ymgme.2004.01.006.
+Citation on PubMed
+Saheki T, Kobayashi K. Mitochondrial aspartate glutamate carrier (citrin)
+deficiency as the cause of adult-onset type II citrullinemia (CTLN2) and
+idiopathic neonatal hepatitis (NICCD). J Hum Genet. 2002;47(7):333-41. doi:
+10.1007/s100380200046.
+Citation on PubMed
+Song YZ, Deng M, Chen FP, Wen F, Guo L, Cao SL, Gong J, Xu H, Jiang GY, Zhong
+L, Kobayashi K, Saheki T, Wang ZN. Genotypic and phenotypic features of citrin
+deficiency: five-year experience in a Chinese pediatric center. Int J Mol Med.
+2011 Jul;28(1):33-40. doi: 10.3892/ijmm.2011.653. Epub 2011 Mar 21.
+Citation on PubMed
+Song YZ, Oishi K, Saheki T. Citrin Deficiency. 2005 Sep 16 [updated 2025 Mar
+20]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1181/
+Citation on PubMed
+Woo HI, Park HD, Lee YW. Molecular genetics of citrullinemia types I and II.
+Clin Chim Acta. 2014 Apr 20;431:1-8. doi: 10.1016/j.cca.2014.01.032. Epub 2014
+Feb 5.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Brain Disorders
+Genetic Disorders
+Metabolic Disorders
+Newborn Screening
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hereditary urea cycle abnormality
+Related Medical Tests
+Ammonia Levels
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

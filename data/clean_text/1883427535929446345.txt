@@ -1,0 +1,117 @@
+Infantile-onset spinocerebellar ataxia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Infantile-onset spinocerebellar ataxia
+URL of this page: https://medlineplus.gov/genetics/condition/infantile-onset-spinocerebellar-ataxia/
+Infantile-onset spinocerebellar ataxia
+Description
+Infantile-onset spinocerebellar ataxia (IOSCA) is a progressive disorder that affects the nervous system. Babies with IOSCA develop normally during the first year of life. During early childhood, however, they begin experiencing difficulty coordinating movements (ataxia); very weak muscle tone (hypotonia); involuntary writhing movements of the limbs (athetosis); and decreased reflexes. By their teenage years affected individuals require wheelchair assistance.
+People with IOSCA often develop problems with the autonomic nervous system, which controls involuntary body functions. As a result, they may experience excessive sweating, difficulty controlling urination, and severe constipation.
+IOSCA also leads to vision and hearing problems that begin by about age 7. Children with this disorder develop weakness in the muscles that control eye movement (ophthalmoplegia). In their teenage years they experience degeneration of the nerves that carry information from the eyes to the brain (optic atrophy), which can result in vision loss. Hearing loss caused by nerve damage (sensorineural hearing loss) typically occurs during childhood and progresses to profound deafness.
+Individuals with IOSCA may have recurrent seizures (epilepsy). These seizures can lead to severe brain dysfunction (encephalopathy).
+Most people with IOSCA survive into adulthood. However, a few individuals with IOSCA have an especially severe form of the disorder involving liver damage and encephalopathy that develops during early childhood. These children do not generally live past age 5.
+Frequency
+More than 20 individuals with IOSCA have been identified in Finland. A few individuals with similar symptoms have been reported elsewhere in Europe.
+Causes
+Mutations in the
+TWNK
+gene cause IOSCA. The
+TWNK
+gene provides instructions for making two very similar proteins called Twinkle and Twinky. These proteins are found in the
+mitochondria
+, which are structures within cells that convert the energy from food into a form that cells can use.
+Mitochondria each contain a small amount of DNA, known as mitochondrial DNA or mtDNA, which is essential for the normal function of these structures. The Twinkle protein is involved in the production and maintenance of mtDNA. The function of the Twinky protein is unknown.
+The
+TWNK
+gene mutations that cause IOSCA interfere with the function of the Twinkle protein and result in reduced quantities of mtDNA (mtDNA depletion). Impaired mitochondrial function in the nervous system, muscles, and other tissues that require a large amount of energy leads to neurological dysfunction and the other problems associated with IOSCA.
+Learn more about the gene associated with Infantile-onset spinocerebellar ataxia
+TWNK
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+IOSCA
+Ohaha syndrome
+Ophthalmoplegia, hypotonia, ataxia, hypacusis, and athetosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Infantile onset spinocerebellar ataxia
+Genetic and Rare Diseases Information Center
+Infantile-onset spinocerebellar ataxia
+Mitochondrial DNA depletion syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MITOCHONDRIAL DNA DEPLETION SYNDROME 7 (HEPATOCEREBRAL TYPE); MTDPS7
+Scientific Articles on PubMed
+PubMed
+References
+Finsterer J. Ataxias with autosomal, X-chromosomal or maternal inheritance.
+Can J Neurol Sci. 2009 Jul;36(4):409-28. doi: 10.1017/s0317167100007733.
+Citation on PubMed
+Finsterer J. Mitochondrial ataxias. Can J Neurol Sci. 2009 Sep;36(5):543-53.
+doi: 10.1017/s0317167100008027.
+Citation on PubMed
+Hakonen AH, Goffart S, Marjavaara S, Paetau A, Cooper H, Mattila K, Lampinen
+M, Sajantila A, Lonnqvist T, Spelbrink JN, Suomalainen A. Infantile-onset
+spinocerebellar ataxia and mitochondrial recessive ataxia syndrome are associated
+with neuronal complex I defect and mtDNA depletion. Hum Mol Genet. 2008 Dec
+1;17(23):3822-35. doi: 10.1093/hmg/ddn280. Epub 2008 Sep 5.
+Citation on PubMed
+Lonnqvist T, Paetau A, Valanne L, Pihko H. Recessive twinkle mutations cause
+severe epileptic encephalopathy. Brain. 2009 Jun;132(Pt 6):1553-62. doi:
+10.1093/brain/awp045. Epub 2009 Mar 20.
+Citation on PubMed
+Lonnqvist T. Infantile-Onset Spinocerebellar Ataxia - RETIRED CHAPTER, FOR
+HISTORICAL REFERENCE ONLY. 2009 Jan 27 [updated 2018 Apr 19]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK3795/
+Citation on PubMed
+Nikali K, Suomalainen A, Saharinen J, Kuokkanen M, Spelbrink JN, Lonnqvist T,
+Peltonen L. Infantile onset spinocerebellar ataxia is caused by recessive
+mutations in mitochondrial proteins Twinkle and Twinky. Hum Mol Genet. 2005 Oct
+15;14(20):2981-90. doi: 10.1093/hmg/ddi328. Epub 2005 Aug 31.
+Citation on PubMed
+Related Health Topics
+Cerebellar Disorders
+Degenerative Nerve Diseases
+Genetic Disorders
+Movement Disorders
+Optic Nerve Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

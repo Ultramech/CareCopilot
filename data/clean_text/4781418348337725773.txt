@@ -1,0 +1,179 @@
+Restless legs syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Restless legs syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/restless-legs-syndrome/
+Restless legs syndrome
+Description
+Restless legs syndrome is a neurological condition that causes an irresistible urge to move the legs. The movement is triggered by strange or uncomfortable feelings, often described as crawling, pulling, or itching, deep within both legs. The feelings usually occur while the affected person is sitting or lying down and are worse at night. Movement, such as kicking, stretching, rubbing, or pacing, make the discomfort go away, at least temporarily. The unpleasant feelings and the resulting need to move the legs often make it difficult for an affected person to fall asleep or stay asleep.
+The signs and symptoms of restless legs syndrome range from mild to severe; people with mild cases may experience symptoms a few times a month, while those with more severe cases may have symptoms every night. In severe cases, the uncomfortable feelings can affect the arms or other parts of the body in addition to the legs.
+Many people with restless legs syndrome also experience uncontrollable, repetitive leg movements that occur while they are sleeping or while relaxed or drowsy. When these movements occur during sleep, they are called periodic limb movements of sleep (PLMS); when they occur while a person is awake, they are called periodic limb movements of wakefulness (PLMW). It is unclear whether PLMS and PLMW are features of restless legs syndrome itself or represent similar, but separate, conditions.
+Restless legs syndrome and PLMS can affect the quality and amount of sleep. As a result of these conditions, affected individuals may have difficulty concentrating during the day, and some develop mood swings,
+depression
+, or other health problems.
+Researchers have described early-onset and late-onset forms of restless legs syndrome. The early-onset form begins before age 45, and sometimes as early as childhood. The signs and symptoms of this form usually worsen slowly with time. The late-onset form begins after age 45, and its signs and symptoms tend to worsen more rapidly.
+Frequency
+Restless legs syndrome is one of the most common sleep and movement disorders. It affects an estimated 5 to 10 percent of adults and 2 to 4 percent of children in the United States. For unknown reasons, the disorder affects women more often than men. The prevalence of restless legs syndrome increases with age.
+Causes
+Restless legs syndrome likely results from a combination of genetic and environmental factors, many of which are unknown.
+Studies suggest that restless legs syndrome is related to a shortage (deficiency) of iron in certain parts of the brain. Iron is involved in several critical activities in brain cells, including the production of a chemical messenger (neurotransmitter) called
+dopamine
+. Among its many functions, dopamine triggers signals within the nervous system that help the brain control physical movement. Researchers believe that malfunction of the dopamine signaling system may underlie the abnormal movements in people with restless legs syndrome. However, it is unclear how iron deficiency is related to abnormal dopamine signaling, or how these changes in the brain lead to the particular signs and symptoms of the condition.
+Variations in several genes have been studied as risk factors for restless legs syndrome. Most of these genes are thought to be involved in the development of nerve cells (neurons) before birth. It is unclear whether any of the genes play roles in brain iron levels or in dopamine signaling. Variations in known genes appear to account for only a small percentage of the risk of developing restless legs syndrome. Changes in other genes, which have not been identified, probably also contribute to this complex disorder. Researchers suspect that the early-onset form of restless legs syndrome is more likely than the late-onset form to have a genetic basis.
+Nongenetic factors are also thought to play a role in restless legs syndrome. For example, several other disorders increase the risk of developing the condition. These include a life-threatening failure of kidney function called end-stage renal disease, diabetes mellitus,
+multiple sclerosis
+,
+rheumatoid arthritis
+, and
+Parkinson's disease
+. People with low iron levels associated with a shortage of red blood cells (
+anemia
+) and women who are pregnant are also more likely to develop restless legs syndrome. In these cases, the condition usually improves or goes away when iron levels increase or after the woman gives birth.
+Restless legs syndrome can be triggered by medications, including certain drugs used to treat nausea, depression and other mental health disorders, colds and allergies, heart problems, and high blood pressure. Use of caffeine, nicotine, or alcohol can also trigger restless legs syndrome or make the signs and symptoms worse. In these cases, the condition usually improves or goes away once a person stops using these medications or substances.
+Inheritance
+The inheritance pattern of restless legs syndrome is usually unclear because many genetic and environmental factors can be involved. The disorder often runs in families: 40 to 90 percent of affected individuals report having at least one affected
+first-degree relative
+, such as a parent or sibling, and many families have multiple affected family members. Studies suggest that the early-onset form of the disorder is more likely to run in families than the late-onset form.
+In some affected families, restless legs syndrome appears to have an
+autosomal dominant pattern
+of inheritance. Autosomal dominant inheritance suggests that one copy of an altered gene in each cell is sufficient to cause the disorder. However, the genetic changes associated with restless legs syndrome in these families have not been identified.
+Other Names for This Condition
+Ekbom syndrome
+Ekbom's syndrome
+Restless leg syndrome
+RLS
+WED
+Willis-Ekbom disease
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+RESTLESS LEGS SYNDROME, SUSCEPTIBILITY TO, 1; RLS1
+RESTLESS LEGS SYNDROME, SUSCEPTIBILITY TO, 2; RLS2
+RESTLESS LEGS SYNDROME, SUSCEPTIBILITY TO, 5; RLS5
+RESTLESS LEGS SYNDROME, SUSCEPTIBILITY TO, 6; RLS6
+RESTLESS LEGS SYNDROME, SUSCEPTIBILITY TO, 3; RLS3
+RESTLESS LEGS SYNDROME, SUSCEPTIBILITY TO, 4; RLS4
+RESTLESS LEGS SYNDROME, SUSCEPTIBILITY TO, 8; RLS8
+RESTLESS LEGS SYNDROME, SUSCEPTIBILITY TO, 7; RLS7
+Scientific Articles on PubMed
+PubMed
+References
+Khan FH, Ahlberg CD, Chow CA, Shah DR, Koo BB. Iron, dopamine, genetics, and
+hormones in the pathophysiology of restless legs syndrome. J Neurol. 2017
+Aug;264(8):1634-1641. doi: 10.1007/s00415-017-8431-1. Epub 2017 Feb 24.
+Citation on PubMed
+Schormair B, Kemlink D, Roeske D, Eckstein G, Xiong L, Lichtner P, Ripke S,
+Trenkwalder C, Zimprich A, Stiasny-Kolster K, Oertel W, Bachmann CG, Paulus W,
+Hogl B, Frauscher B, Gschliesser V, Poewe W, Peglau I, Vodicka P, Vavrova J,
+Sonka K, Nevsimalova S, Montplaisir J, Turecki G, Rouleau G, Gieger C, Illig T,
+Wichmann HE, Holsboer F, Muller-Myhsok B, Meitinger T, Winkelmann J. PTPRD
+(protein tyrosine phosphatase receptor type delta) is associated with restless
+legs syndrome. Nat Genet. 2008 Aug;40(8):946-8. doi: 10.1038/ng.190. Epub 2008
+Jul 27.
+Citation on PubMed
+Schormair B, Zhao C, Bell S, Tilch E, Salminen AV, Putz B, Dauvilliers Y,
+Stefani A, Hogl B, Poewe W, Kemlink D, Sonka K, Bachmann CG, Paulus W,
+Trenkwalder C, Oertel WH, Hornyak M, Teder-Laving M, Metspalu A, Hadjigeorgiou
+GM, Polo O, Fietze I, Ross OA, Wszolek Z, Butterworth AS, Soranzo N, Ouwehand WH,
+Roberts DJ, Danesh J, Allen RP, Earley CJ, Ondo WG, Xiong L, Montplaisir J,
+Gan-Or Z, Perola M, Vodicka P, Dina C, Franke A, Tittmann L, Stewart AFR, Shah
+SH, Gieger C, Peters A, Rouleau GA, Berger K, Oexle K, Di Angelantonio E, Hinds
+DA, Muller-Myhsok B, Winkelmann J; 23andMe Research Team; DESIR study group.
+Identification of novel risk loci for restless legs syndrome in genome-wide
+association studies in individuals of European ancestry: a meta-analysis. Lancet
+Neurol. 2017 Nov;16(11):898-907. doi: 10.1016/S1474-4422(17)30327-7.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tim RW, Sanders DB. Repetitive nerve stimulation studies in the Lambert-Eaton
+myasthenic syndrome. Muscle Nerve. 1994 Sep;17(9):995-1001. doi:
+10.1002/mus.880170906.
+Citation on PubMed
+Trenkwalder C, Paulus W. Restless legs syndrome: pathophysiology, clinical
+presentation and management. Nat Rev Neurol. 2010 Jun;6(6):337-46. doi:
+10.1038/nrneurol.2010.55.
+Citation on PubMed
+Winkelmann J, Czamara D, Schormair B, Knauf F, Schulte EC, Trenkwalder C,
+Dauvilliers Y, Polo O, Hogl B, Berger K, Fuhs A, Gross N, Stiasny-Kolster K,
+Oertel W, Bachmann CG, Paulus W, Xiong L, Montplaisir J, Rouleau GA, Fietze I,
+Vavrova J, Kemlink D, Sonka K, Nevsimalova S, Lin SC, Wszolek Z, Vilarino-Guell
+C, Farrer MJ, Gschliesser V, Frauscher B, Falkenstetter T, Poewe W, Allen RP,
+Earley CJ, Ondo WG, Le WD, Spieler D, Kaffe M, Zimprich A, Kettunen J, Perola M,
+Silander K, Cournu-Rebeix I, Francavilla M, Fontenille C, Fontaine B, Vodicka P,
+Prokisch H, Lichtner P, Peppard P, Faraco J, Mignot E, Gieger C, Illig T,
+Wichmann HE, Muller-Myhsok B, Meitinger T. Genome-wide association study
+identifies novel restless legs syndrome susceptibility loci on 2p14 and 16q12.1.
+PLoS Genet. 2011 Jul;7(7):e1002171. doi: 10.1371/journal.pgen.1002171. Epub 2011
+Jul 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Winkelmann J, Schormair B, Lichtner P, Ripke S, Xiong L, Jalilzadeh S, Fulda
+S, Putz B, Eckstein G, Hauk S, Trenkwalder C, Zimprich A, Stiasny-Kolster K,
+Oertel W, Bachmann CG, Paulus W, Peglau I, Eisensehr I, Montplaisir J, Turecki G,
+Rouleau G, Gieger C, Illig T, Wichmann HE, Holsboer F, Muller-Myhsok B, Meitinger
+T. Genome-wide association study of restless legs syndrome identifies common
+variants in three genomic regions. Nat Genet. 2007 Aug;39(8):1000-6. doi:
+10.1038/ng2099. Epub 2007 Jul 18.
+Citation on PubMed
+Winkelmann J, Wetter TC, Collado-Seidel V, Gasser T, Dichgans M, Yassouridis
+A, Trenkwalder C. Clinical characteristics and frequency of the hereditary
+restless legs syndrome in a population of 300 patients. Sleep. 2000 Aug
+1;23(5):597-602.
+Citation on PubMed
+Xiong L, Montplaisir J, Desautels A, Barhdadi A, Turecki G, Levchenko A,
+Thibodeau P, Dube MP, Gaspar C, Rouleau GA. Family study of restless legs
+syndrome in Quebec, Canada: clinical characterization of 671 familial cases. Arch
+Neurol. 2010 May;67(5):617-22. doi: 10.1001/archneurol.2010.67.
+Citation on PubMed
+Yang Q, Li L, Chen Q, Foldvary-Schaefer N, Ondo WG, Wang QK. Association
+studies of variants in MEIS1, BTBD9, and MAP2K5/SKOR1 with restless legs syndrome
+in a US population. Sleep Med. 2011 Sep;12(8):800-4. doi:
+10.1016/j.sleep.2011.06.006.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Restless Legs
+Sleep Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Restless legs syndrome
+Sleep disorders
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

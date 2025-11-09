@@ -1,0 +1,169 @@
+3q29 microdeletion syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+3q29 microdeletion syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/3q29-microdeletion-syndrome/
+3q29 microdeletion syndrome
+Description
+3q29 microdeletion syndrome (also known as 3q29 deletion syndrome) is a condition that results from the
+deletion
+of a small piece of chromosome 3 in each cell. The deletion occurs on the long (q) arm of the chromosome at a position designated q29.
+The features associated with 3q29 microdeletion syndrome vary widely. Some individuals with this chromosomal change have very mild or no related signs and symptoms, and the deletion is discovered through genetic testing only after a family member is diagnosed. However, most people with a 3q29 microdeletion have delayed development (particularly speech delay) and mild or moderate intellectual disability. They also have an increased risk of neurodevelopmental or psychiatric disorders, including
+autism spectrum disorder
+(which affects social interaction and communication), anxiety,
+bipolar disorder
+, and
+schizophrenia
+.
+Infants with 3q29 microdeletion syndrome often have feeding difficulties and do not grow and gain weight at the expected rate (which is described as failure to thrive). Weak muscle tone (hypotonia), recurrent ear infections, an unusually small head (
+microcephaly
+), and yellowing of the skin and whites of the eyes (jaundice) can also occur. Some affected babies are born with a heart defect, most commonly an abnormal connection between two major arteries called patent ductus arteriosus (PDA).
+Other possible features of 3q29 microdeletion syndrome include gastrointestinal disorders, such as a backflow of acidic stomach contents into the esophagus (
+gastroesophageal reflux
+), and abnormalities of the teeth. There may also be a subtle pattern of characteristic facial features, including a
+long, narrow face
+; a narrow space between the nose and upper lip (short philtrum); a high bridge of the nose; and large ears.
+Frequency
+3q29 microdeletion syndrome appears to be very rare. Based on a study from Iceland, the condition has an estimated incidence of 1 in 30,000 to 40,000 people in that population. About 75 affected individuals have been described in the medical literature.
+Causes
+Most people with 3q29 microdeletion syndrome are missing about 1.6 million DNA building blocks (base pairs), also written as 1.6 megabases (Mb), at position q29 on
+chromosome 3
+. This
+deletion
+affects one of the two copies of chromosome 3 in each cell.
+The segment that gets deleted is surrounded by short, repeated sequences of DNA that make it prone to rearrangement during
+cell division
+. The rearrangement can lead to missing or extra copies of DNA at 3q29. (An extra copy of this segment causes another condition called
+3q29 microduplication syndrome
+.)
+The chromosome segment most commonly deleted in people with 3q29 microdeletion syndrome contains about 20 genes. Some of these genes are thought to be involved in brain development. However, it is unknown which specific genes, when deleted, are related to the signs and symptoms of 3q29 microdeletion syndrome. It is also unclear why some people with a deletion at 3q29 have no associated health problems. It is possible that genetic changes outside the 3q29 region can influence the features of this condition.
+Learn more about the chromosome associated with 3q29 microdeletion syndrome
+chromosome 3
+Inheritance
+This condition has an autosomal dominant pattern of inheritance, which means the deletion occurs on one copy of chromosome 3 in each cell.
+Most cases of 3q29 microdeletion syndrome result from a
+new (de novo) chromosomal change
+and occur in people with no history of the deletion in their family. Less commonly, an affected person
+inherits the deletion from a parent
+. The parent may have no signs and symptoms related to the deletion, or the features may be mild.
+Other Names for This Condition
+3q subtelomere deletion syndrome
+3q29 deletion syndrome
+3q29 recurrent deletion
+Chromosome 3q29 deletion syndrome
+Microdeletion 3q29 syndrome
+Monosomy 3q29
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Chromosome 3q29 microdeletion syndrome
+Genetic and Rare Diseases Information Center
+3q29 microdeletion syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CHROMOSOME 3q29 DELETION SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Ballif BC, Theisen A, Coppinger J, Gowans GC, Hersh JH, Madan-Khetarpal S,
+Schmidt KR, Tervo R, Escobar LF, Friedrich CA, McDonald M, Campbell L, Ming JE,
+Zackai EH, Bejjani BA, Shaffer LG. Expanding the clinical phenotype of the 3q29
+microdeletion syndrome and characterization of the reciprocal microduplication.
+Mol Cytogenet. 2008 Apr 28;1:8. doi: 10.1186/1755-8166-1-8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Biamino E, Di Gregorio E, Belligni EF, Keller R, Riberi E, Gandione M, Calcia
+A, Mancini C, Giorgio E, Cavalieri S, Pappi P, Talarico F, Fea AM, De Rubeis S,
+Cirillo Silengo M, Ferrero GB, Brusco A. A novel 3q29 deletion associated with
+autism, intellectual disability, psychiatric disorders, and obesity. Am J Med
+Genet B Neuropsychiatr Genet. 2016 Mar;171B(2):290-9. doi: 10.1002/ajmg.b.32406.
+Epub 2015 Dec 1.
+Citation on PubMed
+Cox DM, Butler MG. A clinical case report and literature review of the 3q29
+microdeletion syndrome. Clin Dysmorphol. 2015 Jul;24(3):89-94. doi:
+10.1097/MCD.0000000000000077.
+Citation on PubMed
+or
+Free article on PubMed Central
+Glassford MR, Rosenfeld JA, Freedman AA, Zwick ME, Mulle JG; Unique Rare
+Chromosome Disorder Support Group. Novel features of 3q29 deletion syndrome:
+Results from the 3q29 registry. Am J Med Genet A. 2016 Apr;170A(4):999-1006. doi:
+10.1002/ajmg.a.37537. Epub 2016 Jan 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mulle JG, Dodd AF, McGrath JA, Wolyniec PS, Mitchell AA, Shetty AC, Sobreira
+NL, Valle D, Rudd MK, Satten G, Cutler DJ, Pulver AE, Warren ST. Microdeletions
+of 3q29 confer high risk for schizophrenia. Am J Hum Genet. 2010 Aug
+13;87(2):229-36. doi: 10.1016/j.ajhg.2010.07.013.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mulle JG. The 3q29 deletion confers >40-fold increase in risk for
+schizophrenia. Mol Psychiatry. 2015 Sep;20(9):1028-9. doi: 10.1038/mp.2015.76.
+Epub 2015 Jun 9. No abstract available.
+Citation on PubMed
+or
+Free article on PubMed Central
+Murphy MM, Lindsey Burrell T, Cubells JF, Espana RA, Gambello MJ, Goines KCB,
+Klaiman C, Li L, Novacek DM, Papetti A, Sanchez Russo RL, Saulnier CA, Shultz S,
+Walker E, Mulle JG. Study protocol for The Emory 3q29 Project: evaluation of
+neurodevelopmental, psychiatric, and medical symptoms in 3q29 deletion syndrome.
+BMC Psychiatry. 2018 Jun 8;18(1):183. doi: 10.1186/s12888-018-1760-5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Willatt L, Cox J, Barber J, Cabanas ED, Collins A, Donnai D, FitzPatrick DR,
+Maher E, Martin H, Parnau J, Pindar L, Ramsay J, Shaw-Smith C, Sistermans EA,
+Tettenborn M, Trump D, de Vries BB, Walker K, Raymond FL. 3q29 microdeletion
+syndrome: clinical and molecular characterization of a new syndrome. Am J Hum
+Genet. 2005 Jul;77(1):154-60. doi: 10.1086/431653. Epub 2005 May 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Autism Spectrum Disorder
+Bipolar Disorder
+Developmental Disabilities
+Genetic Disorders
+Schizophrenia
+MEDICAL ENCYCLOPEDIA
+Gastroesophageal reflux disease
+Genetics
+Patent ductus arteriosus
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

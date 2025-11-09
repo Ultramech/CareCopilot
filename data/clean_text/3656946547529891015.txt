@@ -1,0 +1,142 @@
+17-beta hydroxysteroid dehydrogenase 3 deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+17-beta hydroxysteroid dehydrogenase 3 deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiency/
+17-beta hydroxysteroid dehydrogenase 3 deficiency
+Description
+17-beta hydroxysteroid dehydrogenase 3 deficiency is a condition that affects male sexual development. People with this condition are genetically male, with one
+X and one Y chromosome
+in each cell, and they have male gonads (
+testes
+). Their bodies, however, do not produce enough of a male sex hormone (androgen) called testosterone. Testosterone has a critical role in male sexual development, and a shortage of this hormone disrupts the formation of the external sex organs before birth.
+Most people with 17-beta hydroxysteroid dehydrogenase 3 deficiency are born with external genitalia that appear female. In some cases, the external genitalia do not look clearly male or clearly female. Still other affected infants have genitalia that appear predominantly male, often with an unusually small penis (micropenis) or the urethra opening on the underside of the penis (hypospadias).
+During puberty, people with this condition develop some male secondary sex characteristics, such as increased muscle mass, deepening of the voice, and development of male pattern facial and body hair. In addition to these changes typical of adolescent boys, some affected individuals may also experience breast enlargement (gynecomastia). Despite having testes, people with this disorder are generally unable to father children (infertile).
+Frequency
+17-beta hydroxysteroid dehydrogenase 3 deficiency is a rare disorder. Researchers have estimated that this condition occurs in approximately 1 in 147,000 newborns. It is more common in the Arab population of Gaza, where it affects 1 in 200 to 300 people.
+Causes
+Mutations in the
+HSD17B3
+gene cause 17-beta hydroxysteroid dehydrogenase 3 deficiency. The
+HSD17B3
+gene provides instructions for making an enzyme called 17-beta hydroxysteroid dehydrogenase 3. This enzyme is active in the testes, where it helps to produce testosterone from a weaker precursor androgen called androstenedione.
+Mutations in the
+HSD17B3
+gene result in a 17-beta hydroxysteroid dehydrogenase 3 enzyme with little or no activity, reducing production of testosterone from androstenedione. The shortage of the stronger androgen affects the development of the
+reproductive tract
+in the male fetus, resulting in the abnormalities in the external sex organs that occur in 17-beta hydroxysteroid dehydrogenase 3 deficiency.
+At puberty, conversion of androstenedione to testosterone increases in various tissues of the body through processes involving other enzymes. The additional testosterone results in the development of male secondary sex characteristics in adolescents, including those with 17-beta hydroxysteroid dehydrogenase 3 deficiency.
+A portion of the androstenedione is also converted to the female sex hormone estrogen. Since impairment of the conversion to testosterone in this disorder results in excess androstenedione in the body, a corresponding excess of estrogen may be produced, leading to breast enlargement in some affected individuals.
+Learn more about the gene associated with 17-beta hydroxysteroid dehydrogenase 3 deficiency
+HSD17B3
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Individuals who are
+genetically male
+and have two copies of a mutated gene in each cell are affected by 17-beta hydroxysteroid dehydrogenase 3 deficiency. People with two mutations who are genetically female do not usually experience any signs and symptoms of this disorder.
+Other Names for This Condition
+17-beta hydroxysteroid dehydrogenase III deficiency
+17-ketosteroid reductase deficiency of testis
+17-KSR deficiency
+Neutral 17-beta-hydroxysteroid oxidoreductase deficiency
+Pseudohermaphroditism, male, with gynecomastia
+Testosterone 17-beta-dehydrogenase deficiency
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+17-BETA HYDROXYSTEROID DEHYDROGENASE III DEFICIENCY
+Scientific Articles on PubMed
+PubMed
+References
+Ben Rhouma B, Kallabi F, Mahfoudh N, Ben Mahmoud A, Engeli RT, Kamoun H,
+Keskes L, Odermatt A, Belguith N. Novel cases of Tunisian patients with mutations
+in the gene encoding 17beta-hydroxysteroid dehydrogenase type 3 and a founder
+effect. J Steroid Biochem Mol Biol. 2017 Jan;165(Pt A):86-94. doi:
+10.1016/j.jsbmb.2016.03.007. Epub 2016 Mar 5.
+Citation on PubMed
+Bertelloni S, Balsamo A, Giordani L, Fischetto R, Russo G, Delvecchio M,
+Gennari M, Nicoletti A, Maggio MC, Concolino D, Cavallo L, Cicognani A, Chiumello
+G, Hiort O, Baroncelli GI, Faienza MF. 17beta-Hydroxysteroid dehydrogenase-3
+deficiency: from pregnancy to adolescence. J Endocrinol Invest. 2009
+Sep;32(8):666-70. doi: 10.1007/BF03345738. Epub 2009 May 12.
+Citation on PubMed
+Castro CC, Guaragna-Filho G, Calais FL, Coeli FB, Leal IR, Cavalcante-Junior
+EF, Monlleo IL, Pereira SR, Silva RB, Gabiatti JR, Marques-de-Faria AP,
+Maciel-Guerra AT, Mello MP, Guerra-Junior G. Clinical and molecular spectrum of
+patients with 17beta-hydroxysteroid dehydrogenase type 3 (17-beta-HSD3) deficiency. Arq
+Bras Endocrinol Metabol. 2012 Nov;56(8):533-9. doi:
+10.1590/s0004-27302012000800012.
+Citation on PubMed
+Engeli RT, Tsachaki M, Hassan HA, Sager CP, Essawi ML, Gad YZ, Kamel AK, Mazen
+I, Odermatt A. Biochemical Analysis of Four Missense Mutations in the HSD17B3
+Gene Associated With 46,XY Disorders of Sex Development in Egyptian Patients. J
+Sex Med. 2017 Sep;14(9):1165-1174. doi: 10.1016/j.jsxm.2017.07.006.
+Citation on PubMed
+Faienza MF, Giordani L, Delvecchio M, Cavallo L. Clinical, endocrine, and
+molecular findings in 17beta-hydroxysteroid dehydrogenase type 3 deficiency. J
+Endocrinol Invest. 2008 Jan;31(1):85-91. doi: 10.1007/BF03345572.
+Citation on PubMed
+Galdiero M, Vitale P, Simeoli C, Afeltra L, Melis D, Alviggi C, Cariati F, Lo
+Calzo F, Di Somma C, Colao A, Pivonello R. The 17beta-hydroxysteroid dehydrogenase
+type 3 deficiency: a case report of an 18-year patient and review of the
+literature. Minerva Endocrinol. 2013 Mar;38(1):113-22.
+Citation on PubMed
+Hassan HA, Mazen I, Gad YZ, Ali OS, Mekkawy M, Essawi ML. Mutational Profile
+of 10 Afflicted Egyptian Families with 17-beta-HSD-3 Deficiency. Sex Dev.
+2016;10(2):66-73. doi: 10.1159/000445311. Epub 2016 Apr 14.
+Citation on PubMed
+Mendonca BB, Gomes NL, Costa EM, Inacio M, Martin RM, Nishi MY, Carvalho FM,
+Tibor FD, Domenice S. 46,XY disorder of sex development (DSD) due to
+17beta-hydroxysteroid dehydrogenase type 3 deficiency. J Steroid Biochem Mol Biol.
+2017 Jan;165(Pt A):79-85. doi: 10.1016/j.jsbmb.2016.05.002. Epub 2016 May 6.
+Citation on PubMed
+Yu B, Liu Z, Mao J, Wang X, Zheng J, Xiong S, Cui M, Ma W, Huang Q, Xu H,
+Huang B, Nie M, Wu X. Novel mutations of HSD17B3 in three Chinese patients with
+46,XY Disorders of Sex Development. Steroids. 2017 Oct;126:1-6. doi:
+10.1016/j.steroids.2017.07.009. Epub 2017 Aug 1.
+Citation on PubMed
+Related Health Topics
+Endocrine Diseases
+Genetic Disorders
+Infertility
+MEDICAL ENCYCLOPEDIA
+Ambiguous genitalia
+Differences of sex development
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

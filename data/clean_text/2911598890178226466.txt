@@ -1,0 +1,126 @@
+Benign essential blepharospasm: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Benign essential blepharospasm
+URL of this page: https://medlineplus.gov/genetics/condition/benign-essential-blepharospasm/
+Benign essential blepharospasm
+Description
+Benign essential blepharospasm is a condition characterized by abnormal blinking or spasms of
+the eyelids
+. This condition is a type of dystonia, which is a group of movement disorders that involve uncontrolled tensing of the muscles (muscle contractions), rhythmic shaking (tremors), and other involuntary movements. Benign essential blepharospasm is different from the common and temporary eyelid twitching that can be caused by fatigue, stress, or caffeine.
+The signs and symptoms of benign essential blepharospasm usually appear in mid- to late adulthood and gradually worsen. The first signs and symptoms of the condition include an increased frequency of blinking; dry eyes; and eye irritation that is aggravated by wind, air pollution, sunlight, and other irritants. These signs and symptoms may begin in one eye, but they ultimately affect both eyes. As the condition progresses, spasms in the muscles that surround the eyes cause involuntary blinking or squinting. Over time, affected individuals find it increasingly difficult to keep their eyes open, which can severely impair their vision.
+In some people with benign essential blepharospasm, the symptoms of dystonia spread beyond the eyes to affect other facial muscles. When people with benign essential blepharospasm also experience involuntary muscle spasms that affect the tongue and jaw (oromandibular dystonia), the combination of signs and symptoms is known as Meige syndrome.
+Frequency
+Benign essential blepharospasm affects an estimated 20,000 to 50,000 people in the United States. For unknown reasons, it occurs in women more than twice as often as it occurs in men.
+Causes
+The causes of benign essential blepharospasm are unknown, although the disorder is likely a result of a combination of genetic and environmental factors. Certain genetic changes probably increase the likelihood of developing this condition, and environmental factors may trigger the signs and symptoms in people who are at risk.
+Studies suggest that this condition may be related to other forms of adult-onset dystonia, including uncontrolled twisting of the neck muscles (spasmodic torticollis) and spasms of the hand and finger muscles (writer's cramp). Researchers suspect that benign essential blepharospasm and similar forms of dystonia are caused by problems in the basal ganglia, which are structures deep within the brain that help start and control movement.
+Although genetic factors are almost certainly involved in benign essential blepharospasm, no genes have been clearly associated with the condition. Several studies have suggested that common variations (polymorphisms) in the
+DRD5
+and
+TOR1A
+genes increase a person's risk of developing benign essential blepharospasm. However, other studies have found no connection between changes in these genes and a person’s risk of this condition. Researchers are working to determine which genetic factors are related to this disorder.
+Learn more about the genes associated with Benign essential blepharospasm
+DRD5
+TOR1A
+Inheritance
+Most cases of benign essential blepharospasm are sporadic, which means that the condition occurs in people with no history of this disorder or other forms of dystonia in their family.
+Less commonly, benign essential blepharospasm has been found to run in families. In some of these families, the condition appears to have an
+autosomal dominant pattern
+of inheritance, which means that one copy of an altered gene in each cell is sufficient to cause the disorder. However, researchers have not identified the genes that cause benign essential blepharospasm in these cases.
+Other Names for This Condition
+Essential blepharospasm
+Eyelid twitching
+Primary blepharospasm
+Spasm of eyelids
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+BLEPHAROSPASM, BENIGN ESSENTIAL, SUSCEPTIBILITY TO
+Scientific Articles on PubMed
+PubMed
+References
+Ben Simon GJ, McCann JD. Benign essential blepharospasm. Int Ophthalmol Clin.
+2005 Summer;45(3):49-75. doi: 10.1097/01.iio.0000167238.26526.a8. No abstract
+available.
+Citation on PubMed
+Defazio G, Berardelli A, Hallett M. Do primary adult-onset focal dystonias
+share aetiological factors? Brain. 2007 May;130(Pt 5):1183-93. doi:
+10.1093/brain/awl355. Epub 2007 Jan 22.
+Citation on PubMed
+Defazio G, Brancati F, Valente EM, Caputo V, Pizzuti A, Martino D, Abbruzzese
+G, Livrea P, Berardelli A, Dallapiccola B. Familial blepharospasm is inherited as
+an autosomal dominant trait and relates to a novel unassigned gene. Mov Disord.
+2003 Feb;18(2):207-12. doi: 10.1002/mds.10314.
+Citation on PubMed
+Defazio G, Livrea P. Epidemiology of primary blepharospasm. Mov Disord. 2002
+Jan;17(1):7-12. doi: 10.1002/mds.1275.
+Citation on PubMed
+Defazio G, Livrea P. Primary blepharospasm: diagnosis and management. Drugs.
+2004;64(3):237-44. doi: 10.2165/00003495-200464030-00002.
+Citation on PubMed
+Defazio G, Martino D, Aniello MS, Masi G, Abbruzzese G, Lamberti S, Valente
+EM, Brancati F, Livrea P, Berardelli A. A family study on primary blepharospasm.
+J Neurol Neurosurg Psychiatry. 2006 Feb;77(2):252-4. doi:
+10.1136/jnnp.2005.068007.
+Citation on PubMed
+or
+Free article on PubMed Central
+Grandas F, Elston J, Quinn N, Marsden CD. Blepharospasm: a review of 264
+patients. J Neurol Neurosurg Psychiatry. 1988 Jun;51(6):767-72. doi:
+10.1136/jnnp.51.6.767.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hallett M, Evinger C, Jankovic J, Stacy M; BEBRF International Workshop.
+Update on blepharospasm: report from the BEBRF International Workshop. Neurology.
+2008 Oct 14;71(16):1275-82. doi: 10.1212/01.wnl.0000327601.46315.85.
+Citation on PubMed
+or
+Free article on PubMed Central
+Hallett M. Blepharospasm: recent advances. Neurology. 2002 Nov
+12;59(9):1306-12. doi: 10.1212/01.wnl.0000027361.73814.0e.
+Citation on PubMed
+Related Health Topics
+Eyelid Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Basal ganglia dysfunction
+Eyelid twitch
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

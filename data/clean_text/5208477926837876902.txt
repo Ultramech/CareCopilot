@@ -1,0 +1,139 @@
+Lysinuric protein intolerance: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Lysinuric protein intolerance
+URL of this page: https://medlineplus.gov/genetics/condition/lysinuric-protein-intolerance/
+Lysinuric protein intolerance
+Description
+Lysinuric protein intolerance is a disorder caused by the body's inability to digest and use certain protein building blocks (amino acids), namely lysine, arginine, and ornithine. Because the body cannot absorb these amino acids, which are found in many protein-rich foods, nausea and vomiting are typically experienced after ingesting protein.
+People with lysinuric protein intolerance have a variety of features, such as an enlarged
+liver
+and
+spleen
+(hepatosplenomegaly), short stature, muscle weakness, impaired immune function, and brittle bones that are prone to fracture (
+osteoporosis
+). A lung disorder called pulmonary alveolar proteinosis may also develop. This disorder is characterized by protein deposits in the
+lungs
+, which interfere with lung function and can be life-threatening. An accumulation of amino acids in
+the kidneys
+can cause end-stage renal disease (ESRD), in which the kidneys become unable to filter fluids and waste products from the body effectively. A lack of certain amino acids can cause elevated levels of ammonia in the blood. If ammonia levels are too high for too long, they can cause coma and intellectual disability.
+The signs and symptoms of lysinuric protein intolerance typically appear after infants are weaned and receive greater amounts of protein from solid foods.
+Frequency
+Lysinuric protein intolerance is estimated to occur in 1 in 50,000 newborns in Finland. This condition has also been found in numerous individuals in Japan and Italy. Outside these populations, this condition occurs less frequently, but the exact incidence is unknown.
+Causes
+Variants (also called mutations) in the
+SLC7A7
+gene cause lysinuric protein intolerance. The
+SLC7A7
+gene provides instructions for producing a protein called y+L amino acid transporter 1 (y+LAT-1), which is involved in transporting lysine, arginine, and ornithine between cells in the body. The transportation of amino acids from the
+small intestine
+and
+kidneys
+to the rest of the body is necessary for the body to be able to make and use proteins.
+Variants in the y+LAT-1 protein disrupt the transportation of lysine, arginine, and ornithine. As a result, these amino acids are not absorbed by cells in the small intestine, leading to a shortage of lysine, arginine, and ornithine in the body. In the kidneys, the amino acids cannot be returned to the bloodstream (a process called reabsorption) but are instead removed from the body in urine.
+This shortage of lysine, arginine, and ornithine disrupts many vital functions. Arginine and ornithine are involved in a cellular process called
+the urea cycle
+, which processes the excess nitrogen (in the form of ammonia) that is generated when protein is used by the body. The lack of arginine and ornithine in the urea cycle causes elevated levels of ammonia in the blood (
+hyperammonemia
+). Lysine is particularly abundant in collagen molecules, which give structure and strength to
+connective tissues
+such as skin, tendons, and ligaments. A deficiency of lysine may contribute to the short stature and
+osteoporosis
+seen in people with lysinuric protein intolerance. However, the cause for most of the features of lysinuric protein intolerance is unclear.
+Learn more about the gene associated with Lysinuric protein intolerance
+SLC7A7
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have variants. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital lysinuria
+Hyperdibasic aminoaciduria
+LPI
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Lysinuric protein intolerance
+Genetic and Rare Diseases Information Center
+Lysinuric protein intolerance
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+LYSINURIC PROTEIN INTOLERANCE; LPI
+Scientific Articles on PubMed
+PubMed
+References
+Broer S. Lysinuric protein intolerance: one gene, many problems. Am J Physiol
+Cell Physiol. 2007 Aug;293(2):C540-1. doi: 10.1152/ajpcell.00166.2007. Epub 2007
+May 2. No abstract available.
+Citation on PubMed
+Camargo SM, Bockenhauer D, Kleta R. Aminoacidurias: Clinical and molecular
+aspects. Kidney Int. 2008 Apr;73(8):918-25. doi: 10.1038/sj.ki.5002790. Epub 2008
+Jan 16.
+Citation on PubMed
+Noguchi A, Takahashi T. Overview of symptoms and treatment for lysinuric
+protein intolerance. J Hum Genet. 2019 Sep;64(9):849-858. doi:
+10.1038/s10038-019-0620-6. Epub 2019 Jun 18.
+Citation on PubMed
+Nunes V, Niinikoski H. Lysinuric Protein Intolerance. 2006 Dec 21 [updated
+2018 Apr 12]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1361/
+Citation on PubMed
+Palacin M, Bertran J, Chillaron J, Estevez R, Zorzano A. Lysinuric protein
+intolerance: mechanisms of pathophysiology. Mol Genet Metab. 2004 Apr;81 Suppl
+1:S27-37. doi: 10.1016/j.ymgme.2003.11.015.
+Citation on PubMed
+Sperandeo MP, Andria G, Sebastio G. Lysinuric protein intolerance: update and
+extended mutation analysis of the SLC7A7 gene. Hum Mutat. 2008 Jan;29(1):14-21.
+doi: 10.1002/humu.20589.
+Citation on PubMed
+Sperandeo MP, Annunziata P, Ammendola V, Fiorito V, Pepe A, Soldovieri MV,
+Taglialatela M, Andria G, Sebastio G. Lysinuric protein intolerance:
+identification and functional analysis of mutations of the SLC7A7 gene. Hum
+Mutat. 2005 Apr;25(4):410. doi: 10.1002/humu.9323.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Malabsorption Syndromes
+MEDICAL ENCYCLOPEDIA
+Aminoaciduria
+Malabsorption
+Related Medical Tests
+Ammonia Levels
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

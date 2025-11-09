@@ -1,0 +1,190 @@
+Homocystinuria (HCU): Symptoms, Causes & Treatment
+Home
+/
+Health Library
+/
+Diseases & Conditions
+/
+Homocystinuria
+Advertisement
+Advertisement
+Homocystinuria
+Homocystinuria is a genetic disorder that causes a buildup of homocysteine in your blood and urine. Homocysteine is an amino acid. With this disorder, your body lacks an enzyme that it needs to break down homocysteine properly. The condition can cause symptoms involving your eyes, bones, brain and heart. Treatment includes vitamin B6 supplements.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Care at Cleveland Clinic
+Find a Primary Care Provider
+Schedule an Appointment
+Contents
+Arrow Down
+Overview
+Symptoms and Causes
+Diagnosis and Tests
+Management and Treatment
+Outlook / Prognosis
+Prevention
+Overview
+What is homocystinuria?
+Homocystinuria (HCU) is a rare genetic disorder that affects your body’s ability to process the amino acid
+homocysteine
+. With this disorder, a harmful buildup of homocysteine in your blood and pee (urine) can occur. This buildup can cause severe complications involving your
+eyes
+,
+skeletal system
+, central
+nervous system
+and
+vascular system
+.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Amino acids
+are the building blocks of protein. Your body produces some homocysteine from another amino acid called methionine. Your body gets more methionine from the food you eat, particularly high-protein foods.
+Your body normally breaks down (metabolizes) methionine into homocysteine. With homocystinuria, your body lacks an enzyme that it needs to metabolize homocysteine properly and keep it within a normal range. Enzymes are proteins that help speed up the chemical reactions in your body.
+What are the different types of homocystinuria?
+Researchers classify homocystinuria into different types based on their underlying genetic causes. The two main types of homocystinuria include:
+Cystathionine beta-synthase (CBS) deficiency (classical homocystinuria)
+Classical homocystinuria is the most common type of the disorder. Cystathionine beta-synthase (CBS) is an
+enzyme
+that helps convert homocysteine into cysteine, another amino acid your body needs. This type of the disease occurs when the
+CBS
+gene makes little to no CBS enzyme or when it makes CBS enzyme that doesn’t work properly. CBS enzyme requires pyridoxine (vitamin B6) to function properly. This type of homocystinuria is further classified by how well you respond to vitamin B6 supplements.
+Cobalamin (cbl) cofactor metabolism defect
+Your body needs to convert some homocysteine back into methionine. This process involves cobalamin (vitamin B12). Your body goes through a series of steps to change vitamin B12 into the form your body needs to convert homocysteine back into methionine. Homocystinuria caused by cbl defect occurs when your body can’t complete these steps, doesn’t make the correct enzymes or produces defective enzymes.
+Advertisement
+Homocystinuria vs. Marfan syndrome — what’s the difference?
+Marfan syndrome
+is a rare genetic disorder that affects the connective tissue throughout your body. The condition shares many of the symptoms of homocystinuria, including long limbs, long and slender fingers, lens dislocation and nearsightedness. However, a mutation of the fibrillin-1 (
+FBN1
+) gene causes Marfan syndrome. People with Marfan syndrome have normal levels of homocysteine and methionine.
+Who does homocystinuria affect?
+Genetic mutations
+cause homocystinuria. Therefore, it can affect anyone. But some studies have shown that the condition appears to affect people in certain countries more often. These countries include:
+Ireland.
+Norway.
+Germany
+Qatar.
+How common is homocystinuria?
+Homocystinuria is a rare genetic disorder. The most common type of the disease affects about 1 in every 200,000 to 335,000 people worldwide.
+Symptoms and Causes
+What are the symptoms of homocystinuria?
+The symptoms of homocystinuria vary based on which type you have. They typically develop during the first few years of life. But some people don’t develop any symptoms until adulthood.
+The symptoms of the most common type of homocystinuria usually involve your:
+Eyes.
+Skeletal system.
+Central nervous system.
+Vascular system.
+Homocystinuria symptoms may include:
+Eyes
+Dislocation of the lenses of your eyes (ectopia lentis).
+Severe nearsightedness (
+myopia
+).
+Skeletal system
+Excessive growth.
+Long arms, legs, fingers and toes.
+Knees bent inward that touch when legs are straight (knock knees).
+Sunken or protruding chest.
+Curvature of your spine (
+scoliosis
+).
+People with homocystinuria are also at risk of developing early
+osteoporosis
+.
+Central nervous system
+Developmental delays
+.
+Learning problems.
+Vascular system
+Increased risk of blood clots, which can lead to stroke or
+pulmonary embolism
+.
+What causes homocystinuria?
+Genetic changes (mutations) in many different genes cause most types of homocystinuria. A mutation in the
+CBS
+gene causes the most common type of homocystinuria. The
+CBS
+gene tells your body how to make an enzyme called cystathionine beta-synthase. This enzyme is responsible for creating a chemical pathway for homocysteine to convert into methionine.
+Mutations in the
+MTHFR
+,
+MTR
+,
+MTRR
+and
+MMADHC
+genes can also cause homocystinuria. All of these genes are responsible for converting homocysteine into methionine.
+Mutations in any of these genes prevent their corresponding enzymes from working properly, which can lead to a buildup of homocysteine. Researchers don’t know why excess homocysteine causes the symptoms associated with homocystinuria.
+You inherit homocystinuria in an
+autosomal recessive pattern
+. That means both of your biological parents, who usually have no symptoms, would have to pass on a copy of the affected gene for you to inherit it.
+Advertisement
+Which vitamin deficiency causes homocystinuria?
+Homocystinuria can also occur due to non-genetic reasons. A severe lack of vitamin B6, vitamin B9 (folate) or
+vitamin B12
+may cause the condition.
+Diagnosis and Tests
+How is homocystinuria diagnosed?
+In the United States, the newborn screening test checks for metabolic conditions, including homocystinuria. The
+homocysteine test
+measures the levels of homocysteine and methionine in your baby’s blood. If the test result is positive, your baby’s healthcare provider will request additional tests to confirm the result.
+Newborn screening tests aren’t always 100% accurate. Sometimes, they don’t detect certain conditions. Therefore, some people aren’t diagnosed with homocystinuria until after symptoms appear. Most symptoms develop in infancy or toddlerhood, but they can develop in adulthood as well.
+If you develop symptoms of homocystinuria, your healthcare provider will order a homocysteine test to confirm the condition. If the results show you have classical homocystinuria, your provider will request another test to determine which subtype you have. This test is called the vitamin B6 challenge. The test determines how you’ll respond to vitamin B6 supplementation so your provider can develop the right treatment plan for you.
+Classical homocystinuria can be:
+Advertisement
+Vitamin B6-responsive
+: Your body is making enough CBS enzyme, so vitamin B6 may help the enzyme do its job.
+Partially vitamin B6-responsive
+: Your body is making some CBS enzyme, so vitamin B6 may partially help the enzyme do its job.
+Vitamin B6-non-responsive
+: Your body isn’t making enough CBS enzyme, so vitamin B6 probably won’t help the enzyme do its job.
+Genetic testing
+can look for mutations in the genes that cause homocystinuria. But healthcare providers don’t typically use them because the condition can usually be diagnosed based on the homocysteine test alone.
+Management and Treatment
+How is homocystinuria treated?
+Homocystinuria treatment involves managing your symptoms by controlling the homocysteine levels in your blood. Treatment usually includes taking a vitamin B6 supplement. If you have vitamin B6-responsive classical homocystinuria, vitamin B6 supplementation may be enough to reduce and control your homocysteine levels.
+If you have vitamin B6-non-responsive or partially vitamin B6-responsive classical homocystinuria, then vitamin B6 supplements won’t be enough. You’ll need additional treatment options, including:
+A medication called
+betaine
+(cystadane)
+: Betaine can help lower the levels of homocysteine in your blood.
+A special diet for homocystinuria
+: You may have to stay on a diet that restricts your protein and methionine intake.
+Additional supplements
+: If you have another type of homocystinuria, you may need to take folate (vitamin B9) or cobalamin (vitamin B12) supplements.
+Advertisement
+Care at Cleveland Clinic
+Find a Primary Care Provider
+Schedule an Appointment
+Outlook / Prognosis
+What is the life expectancy for homocystinuria?
+With early diagnosis and lifelong treatment, most children with homocystinuria can expect to live normal, healthy lives.
+Prevention
+How can I prevent homocystinuria?
+You can’t prevent homocystinuria because it’s a genetic condition. If you’re pregnant or planning to become pregnant in the future, consider talking to a genetic counselor.
+Genetic counseling
+can help you understand your risk of having a child with homocystinuria.
+A note from Cleveland Clinic
+Finding out you or your baby have a genetic disease can be overwhelming. Take the time you need to learn everything you can about homocystinuria. Then, find a healthcare provider who understands your condition completely. Working with an expert in metabolic conditions may help you feel a sense of control. By empowering yourself with resources and information, you’ll ensure the best possible outcome.
+Care at Cleveland Clinic
+Cleveland Clinic’s primary care providers offer lifelong medical care. From sinus infections and high blood pressure to preventive screening, we’re here for you.
+Find a Primary Care Provider
+Schedule an Appointment
+Medically Reviewed
+Last reviewed on 07/26/2023.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Questions
+216.444.2538
+Appointments & Locations
+Request an Appointment
+Find a Primary Care Provider

@@ -1,0 +1,105 @@
+Congenital bile acid synthesis defect type 2: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Congenital bile acid synthesis defect type 2
+URL of this page: https://medlineplus.gov/genetics/condition/congenital-bile-acid-synthesis-defect-type-2/
+Congenital bile acid synthesis defect type 2
+Description
+Congenital bile acid synthesis defect type 2 is a disorder characterized by cholestasis, a condition that impairs the production and release of a digestive fluid called bile from liver cells. Bile is used during digestion to absorb fats and fat-soluble vitamins, such as vitamins A, D, E, and K. People with congenital bile acid synthesis defect type 2 cannot produce (synthesize) bile acids, which are a component of bile that stimulate bile flow and help it absorb fats and fat-soluble vitamins. As a result, an abnormal form of bile is produced.
+The signs and symptoms of congenital bile acid synthesis defect type 2 often develop in infancy. Affected infants usually have a failure to gain weight and grow at the expected rate (failure to thrive) and yellowing of the skin and eyes (jaundice) due to impaired bile flow and a buildup of partially formed bile. Excess fat in the feces (steatorrhea) is another feature of congenital bile acid synthesis defect type 2. As the condition progresses, affected individuals can develop liver abnormalities including inflammation or chronic liver disease (cirrhosis). Some individuals with congenital bile acid synthesis defect type 2 cannot absorb certain fat-soluble vitamins, which can result in softening and weakening of the bones (
+rickets
+) or problems with blood clotting that lead to prolonged bleeding.
+If left untreated, congenital bile acid synthesis defect type 2 typically leads to cirrhosis and death in childhood.
+Frequency
+The prevalence of congenital bile acid synthesis defect type 2 is unknown. Together, all congenital defects of bile acid synthesis are thought to have a prevalence of 1 to 9 per million people.
+Causes
+Mutations in the
+AKR1D1
+gene cause congenital bile acid synthesis defect type 2. The
+AKR1D1
+gene provides instructions for making an enzyme called 3-oxo-5- beta(β)-steroid 4-dehydrogenase. This enzyme is found in certain liver cells that
+produce bile acids
+. Bile acids are produced from cholesterol in a multi-step process. The 3-oxo-5-β-steroid 4-dehydrogenase enzyme is responsible for the third step in that process, which converts 7alpha(α)-hydroxy-4-cholesten-3-one to 7α-hydroxy-5 β-cholesten-3-one.
+AKR1D1
+gene mutations result in a 3-oxo-5-β-steroid 4-dehydrogenase enzyme with severely reduced function. Without enough functional enzyme, the conversion of 7α-hydroxy-4-cholesten-3-one to 7α-hydroxy-5 β-cholesten-3-one is impaired. The 7α-hydroxy-4-cholesten-3-one instead gets converted into abnormal bile acid compounds that cannot be transported out of the liver into the intestine, where the bile acids are needed to absorb fats and fat-soluble vitamins. As a result, cholesterol and abnormal bile acids build up in the liver and fat-soluble vitamins are not absorbed, which contribute to the signs and symptoms of congenital bile acid synthesis defect type 2.
+Learn more about the gene associated with Congenital bile acid synthesis defect type 2
+AKR1D1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CBAS2
+Cholestasis with delta(4)-3-oxosteroid 5-beta-reductase deficiency
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital bile acid synthesis defect 2
+Genetic and Rare Diseases Information Center
+Congenital bile acid synthesis defect type 2
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+BILE ACID SYNTHESIS DEFECT, CONGENITAL, 2; CBAS2
+Scientific Articles on PubMed
+PubMed
+References
+Clayton PT. Disorders of bile acid synthesis. J Inherit Metab Dis. 2011
+Jun;34(3):593-604. doi: 10.1007/s10545-010-9259-3. Epub 2011 Jan 13.
+Citation on PubMed
+Lemonde HA, Custard EJ, Bouquet J, Duran M, Overmars H, Scambler PJ, Clayton
+PT. Mutations in SRD5B1 (AKR1D1), the gene encoding delta(4)-3-oxosteroid
+5beta-reductase, in hepatitis and liver failure in infancy. Gut. 2003
+Oct;52(10):1494-9. doi: 10.1136/gut.52.10.1494.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mindnich R, Drury JE, Penning TM. The effect of disease associated point
+mutations on 5beta-reductase (AKR1D1) enzyme function. Chem Biol Interact. 2011 May
+30;191(1-3):250-4. doi: 10.1016/j.cbi.2010.12.020. Epub 2010 Dec 24.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Jaundice
+Liver Diseases
+MEDICAL ENCYCLOPEDIA
+Bile
+Cholestasis
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

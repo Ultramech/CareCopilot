@@ -1,0 +1,200 @@
+Sick sinus syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Sick sinus syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/sick-sinus-syndrome/
+Sick sinus syndrome
+Description
+Sick sinus syndrome (also known as sinus node dysfunction) is a group of related heart conditions that can affect
+how the heart beats
+. "Sick sinus" refers to the sino-atrial (SA) node, which is an area of specialized cells in the heart that functions as a natural pacemaker. The SA node generates electrical impulses that start each heartbeat. These signals travel from the SA node to the rest of the heart, signaling the
+heart (cardiac) muscle
+to contract and pump blood. In people with sick sinus syndrome, the SA node does not function normally. In some cases, it does not produce the right signals to trigger a regular heartbeat. In others, abnormalities disrupt the electrical impulses and prevent them from reaching the rest of the heart.
+Sick sinus syndrome tends to cause the heartbeat to be too slow (bradycardia), although occasionally the heartbeat is too fast (tachycardia). In some cases, the heartbeat rapidly switches from being too fast to being too slow, a condition known as tachycardia-bradycardia syndrome. Symptoms related to abnormal heartbeats can include dizziness, light-headedness, fainting (syncope), a sensation of fluttering or pounding in the chest (palpitations), and confusion or memory problems. During exercise, many affected individuals experience chest pain, difficulty breathing, or excessive tiredness (fatigue). Once symptoms of sick sinus syndrome appear, they usually worsen with time. However, some people with the condition never experience any related health problems.
+Sick sinus syndrome occurs most commonly in older adults, although it can be diagnosed in people of any age. The condition increases the risk of several life-threatening problems involving the heart and blood vessels. These include a heart rhythm abnormality called
+atrial fibrillation
+, heart failure, cardiac arrest, and stroke.
+Frequency
+Sick sinus syndrome accounts for 1 in 600 patients with heart disease who are over age 65. The incidence of this condition increases with age.
+Causes
+Sick sinus syndrome can result from genetic or environmental factors. In many cases, the cause of the condition is unknown.
+Genetic changes are an uncommon cause of sick sinus syndrome. Mutations in two genes,
+SCN5A
+and
+HCN4
+, have been found to cause the condition in a small number of families. These genes provide instructions for making proteins called
+ion channels
+that transport positively charged atoms (ions) into cardiac cells, including cells that make up the
+SA node
+. The flow of these ions is essential for creating the electrical impulses that start each heartbeat and coordinate contraction of the
+cardiac muscle
+. Mutations in these genes reduce the flow of ions, which alters the SA node's ability to create and spread electrical signals. These changes lead to abnormal heartbeats and the other symptoms of sick sinus syndrome.
+A particular variation in another gene,
+MYH6
+, appears to increase the risk of developing sick sinus syndrome. The protein produced from the
+MYH6
+gene forms part of a larger protein called myosin, which generates the mechanical force needed for cardiac muscle to contract. Researchers believe that the
+MYH6
+gene variation changes the structure of myosin, which can affect cardiac muscle contraction and increase the likelihood of developing an abnormal heartbeat.
+More commonly, sick sinus syndrome is caused by other factors that alter the structure or function of the SA node. These include a variety of heart conditions, other disorders such as muscular dystrophy, abnormal inflammation, or a shortage of oxygen (hypoxia). Certain medications, such as drugs given to treat abnormal heart rhythms or high blood pressure, can also disrupt SA node function. One of the most common causes of sick sinus syndrome in children is trauma to the SA node, such as damage that occurs during heart surgery.
+In older adults, sick sinus syndrome is often associated with age-related changes in the heart. Over time, the SA node may harden and develop scar-like damage (fibrosis) that prevents it from working properly.
+Learn more about the genes associated with Sick sinus syndrome
+HCN4
+MYH6
+SCN5A
+Inheritance
+Most cases of sick sinus syndrome are not inherited. They are described as sporadic, which means they occur in people with no history of the disorder in their family.
+When sick sinus syndrome results from mutations in the
+HCN4
+gene, it has an
+autosomal dominant pattern
+of inheritance. Autosomal dominant inheritance means that one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+When sick sinus syndrome is caused by mutations in the
+SCN5A
+gene, it is inherited in an
+autosomal recessive pattern
+. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Sinus node disease
+Sinus node dysfunction
+SND
+SSS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Sick sinus syndrome 1
+Genetic Testing Registry: Sick sinus syndrome 2, autosomal dominant
+Genetic Testing Registry: Sick sinus syndrome 3, susceptibility to
+Genetic and Rare Diseases Information Center
+Sinus node disease and myopia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SICK SINUS SYNDROME 2; SSS2
+SICK SINUS SYNDROME 1; SSS1
+SICK SINUS SYNDROME 3, SUSCEPTIBILITY TO; SSS3
+Scientific Articles on PubMed
+PubMed
+References
+Adan V, Crown LA. Diagnosis and treatment of sick sinus syndrome. Am Fam
+Physician. 2003 Apr 15;67(8):1725-32.
+Citation on PubMed
+Benson DW, Wang DW, Dyment M, Knilans TK, Fish FA, Strieper MJ, Rhodes TH,
+George AL Jr. Congenital sick sinus syndrome caused by recessive mutations in the
+cardiac sodium channel gene (SCN5A). J Clin Invest. 2003 Oct;112(7):1019-28. doi:
+10.1172/JCI18062.
+Citation on PubMed
+or
+Free article on PubMed Central
+den Hoed M, Eijgelsheim M, Esko T, Brundel BJ, Peal DS, Evans DM, Nolte IM,
+Segre AV, Holm H, Handsaker RE, Westra HJ, Johnson T, Isaacs A, Yang J, Lundby A,
+Zhao JH, Kim YJ, Go MJ, Almgren P, Bochud M, Boucher G, Cornelis MC, Gudbjartsson
+D, Hadley D, van der Harst P, Hayward C, den Heijer M, Igl W, Jackson AU, Kutalik
+Z, Luan J, Kemp JP, Kristiansson K, Ladenvall C, Lorentzon M, Montasser ME,
+Njajou OT, O'Reilly PF, Padmanabhan S, St Pourcain B, Rankinen T, Salo P, Tanaka
+T, Timpson NJ, Vitart V, Waite L, Wheeler W, Zhang W, Draisma HH, Feitosa MF,
+Kerr KF, Lind PA, Mihailov E, Onland-Moret NC, Song C, Weedon MN, Xie W, Yengo L,
+Absher D, Albert CM, Alonso A, Arking DE, de Bakker PI, Balkau B, Barlassina C,
+Benaglio P, Bis JC, Bouatia-Naji N, Brage S, Chanock SJ, Chines PS, Chung M,
+Darbar D, Dina C, Dorr M, Elliott P, Felix SB, Fischer K, Fuchsberger C, de Geus
+EJ, Goyette P, Gudnason V, Harris TB, Hartikainen AL, Havulinna AS, Heckbert SR,
+Hicks AA, Hofman A, Holewijn S, Hoogstra-Berends F, Hottenga JJ, Jensen MK,
+Johansson A, Junttila J, Kaab S, Kanon B, Ketkar S, Khaw KT, Knowles JW, Kooner
+AS, Kors JA, Kumari M, Milani L, Laiho P, Lakatta EG, Langenberg C, Leusink M,
+Liu Y, Luben RN, Lunetta KL, Lynch SN, Markus MR, Marques-Vidal P, Mateo Leach I,
+McArdle WL, McCarroll SA, Medland SE, Miller KA, Montgomery GW, Morrison AC,
+Muller-Nurasyid M, Navarro P, Nelis M, O'Connell JR, O'Donnell CJ, Ong KK, Newman
+AB, Peters A, Polasek O, Pouta A, Pramstaller PP, Psaty BM, Rao DC, Ring SM,
+Rossin EJ, Rudan D, Sanna S, Scott RA, Sehmi JS, Sharp S, Shin JT, Singleton AB,
+Smith AV, Soranzo N, Spector TD, Stewart C, Stringham HM, Tarasov KV,
+Uitterlinden AG, Vandenput L, Hwang SJ, Whitfield JB, Wijmenga C, Wild SH,
+Willemsen G, Wilson JF, Witteman JC, Wong A, Wong Q, Jamshidi Y, Zitting P, Boer
+JM, Boomsma DI, Borecki IB, van Duijn CM, Ekelund U, Forouhi NG, Froguel P,
+Hingorani A, Ingelsson E, Kivimaki M, Kronmal RA, Kuh D, Lind L, Martin NG,
+Oostra BA, Pedersen NL, Quertermous T, Rotter JI, van der Schouw YT, Verschuren
+WM, Walker M, Albanes D, Arnar DO, Assimes TL, Bandinelli S, Boehnke M, de Boer
+RA, Bouchard C, Caulfield WL, Chambers JC, Curhan G, Cusi D, Eriksson J, Ferrucci
+L, van Gilst WH, Glorioso N, de Graaf J, Groop L, Gyllensten U, Hsueh WC, Hu FB,
+Huikuri HV, Hunter DJ, Iribarren C, Isomaa B, Jarvelin MR, Jula A, Kahonen M,
+Kiemeney LA, van der Klauw MM, Kooner JS, Kraft P, Iacoviello L, Lehtimaki T,
+Lokki ML, Mitchell BD, Navis G, Nieminen MS, Ohlsson C, Poulter NR, Qi L,
+Raitakari OT, Rimm EB, Rioux JD, Rizzi F, Rudan I, Salomaa V, Sever PS, Shields
+DC, Shuldiner AR, Sinisalo J, Stanton AV, Stolk RP, Strachan DP, Tardif JC,
+Thorsteinsdottir U, Tuomilehto J, van Veldhuisen DJ, Virtamo J, Viikari J,
+Vollenweider P, Waeber G, Widen E, Cho YS, Olsen JV, Visscher PM, Willer C,
+Franke L; Global BPgen Consortium; CARDIoGRAM Consortium; Erdmann J, Thompson JR;
+PR GWAS Consortium; Pfeufer A; QRS GWAS Consortium; Sotoodehnia N; QT-IGC
+Consortium; Newton-Cheh C; CHARGE-AF Consortium; Ellinor PT, Stricker BH,
+Metspalu A, Perola M, Beckmann JS, Smith GD, Stefansson K, Wareham NJ, Munroe PB,
+Sibon OC, Milan DJ, Snieder H, Samani NJ, Loos RJ. Identification of heart
+rate-associated loci and their effects on cardiac conduction and rhythm
+disorders. Nat Genet. 2013 Jun;45(6):621-31. doi: 10.1038/ng.2610. Epub 2013 Apr
+14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dobrzynski H, Boyett MR, Anderson RH. New insights into pacemaker activity:
+promoting understanding of sick sinus syndrome. Circulation. 2007 Apr
+10;115(14):1921-32. doi: 10.1161/CIRCULATIONAHA.106.616011. No abstract
+available.
+Citation on PubMed
+Holm H, Gudbjartsson DF, Sulem P, Masson G, Helgadottir HT, Zanon C, Magnusson
+OT, Helgason A, Saemundsdottir J, Gylfason A, Stefansdottir H, Gretarsdottir S,
+Matthiasson SE, Thorgeirsson GM, Jonasdottir A, Sigurdsson A, Stefansson H, Werge
+T, Rafnar T, Kiemeney LA, Parvez B, Muhammad R, Roden DM, Darbar D, Thorleifsson
+G, Walters GB, Kong A, Thorsteinsdottir U, Arnar DO, Stefansson K. A rare variant
+in MYH6 is associated with high risk of sick sinus syndrome. Nat Genet. 2011 Mar
+6;43(4):316-20. doi: 10.1038/ng.781.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lei M, Huang CL, Zhang Y. Genetic Na+ channelopathies and sinus node
+dysfunction. Prog Biophys Mol Biol. 2008 Oct-Nov;98(2-3):171-8. doi:
+10.1016/j.pbiomolbio.2008.10.003. Epub 2008 Nov 5.
+Citation on PubMed
+Milanesi R, Baruscotti M, Gnecchi-Ruscone T, DiFrancesco D. Familial sinus
+bradycardia associated with a mutation in the cardiac pacemaker channel. N Engl J
+Med. 2006 Jan 12;354(2):151-7. doi: 10.1056/NEJMoa052475.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Arrhythmia
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Arrhythmias
+Genetics
+Sick sinus syndrome
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

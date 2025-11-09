@@ -1,0 +1,116 @@
+Chronic atrial and intestinal dysrhythmia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Chronic atrial and intestinal dysrhythmia
+URL of this page: https://medlineplus.gov/genetics/condition/chronic-atrial-and-intestinal-dysrhythmia/
+Chronic atrial and intestinal dysrhythmia
+Description
+Chronic atrial and intestinal dysrhythmia (CAID) is a disorder affecting the
+heart
+and the digestive system. CAID disrupts the
+normal rhythm of the heartbeat
+; affected individuals have a heart rhythm abnormality called
+sick sinus syndrome
+. The disorder also impairs the rhythmic muscle contractions that propel food through the intestines (peristalsis), causing a digestive condition called
+intestinal pseudo-obstruction
+. The heart and digestive issues develop at the same time, usually by age 20.
+Sick sinus syndrome (also known as sinus node dysfunction) is an abnormality of the sinoatrial (SA) node, which is an area of specialized cells in the heart that functions as a natural pacemaker. The SA node generates
+electrical impulses
+that start each heartbeat. These signals travel from the SA node to the rest of the heart, signaling the heart (cardiac) muscle to contract and pump blood. In people with sick sinus syndrome, the SA node does not function normally, which usually causes the heartbeat to be too slow (bradycardia), although occasionally the heartbeat is too fast (tachycardia) or rapidly switches from being too fast to being too slow (tachycardia-bradycardia syndrome). Symptoms related to abnormal heartbeats can include dizziness, light-headedness, fainting (syncope), a sensation of fluttering or pounding in the chest (palpitations), and confusion or memory problems. During exercise, many affected individuals experience chest pain, difficulty breathing, or excessive tiredness (fatigue).
+In intestinal pseudo-obstruction, impairment of peristalsis leads to a buildup of partially digested food in the intestines, abdominal swelling (distention) and pain, nausea, vomiting, and constipation or diarrhea. Affected individuals experience loss of appetite and impaired ability to absorb nutrients, which may lead to malnutrition. These symptoms resemble those caused by an intestinal blockage (obstruction) such as a tumor, but in intestinal pseudo-obstruction no such blockage is found.
+Frequency
+The prevalence of CAID is unknown. At least 17 affected individuals have been described in the medical literature.
+Causes
+CAID is caused by mutations in the
+SGO1
+gene. This gene provides instructions for making part of a protein complex called cohesin. This protein complex helps control the placement of chromosomes during cell division. Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. Cohesin holds the sister chromatids together, and in doing so helps maintain the stability of chromosomal structure during cell division.
+Researchers suggest that
+SGO1
+gene mutations may result in a cohesin complex that is less able to hold sister chromatids together, resulting in decreased chromosomal stability during cell division. This instability is thought to cause early aging (senescence) of cells in the intestinal muscle and in the SA node, resulting in problems maintaining proper rhythmic movements of the heart and intestines and leading to the signs and symptoms of CAID.
+It is unclear why
+SGO1
+gene mutations specifically affect the heart and intestines in CAID. Researchers suggest that the activity (expression) of the
+SGO1
+gene in certain embryonic tissues or a particular function of the SGO1 protein in the SA node and in cells that help control peristalsis may account for the features of the disorder.
+Learn more about the gene associated with Chronic atrial and intestinal dysrhythmia
+SGO1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CAID
+Cohesinopathy affecting heart and gut rhythm
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Chronic atrial and intestinal dysrhythmia syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CHRONIC ATRIAL AND INTESTINAL DYSRHYTHMIA; CAID
+Scientific Articles on PubMed
+PubMed
+References
+Brooker AS, Berkowitz KM. The roles of cohesins in mitosis, meiosis, and human
+health and disease. Methods Mol Biol. 2014;1170:229-66. doi:
+10.1007/978-1-4939-0888-2_11.
+Citation on PubMed
+or
+Free article on PubMed Central
+Chetaille P, Preuss C, Burkhard S, Cote JM, Houde C, Castilloux J, Piche J,
+Gosset N, Leclerc S, Wunnemann F, Thibeault M, Gagnon C, Galli A, Tuck E, Hickson
+GR, El Amine N, Boufaied I, Lemyre E, de Santa Barbara P, Faure S, Jonzon A,
+Cameron M, Dietz HC, Gallo-McFarlane E, Benson DW, Moreau C, Labuda D; FORGE
+Canada Consortium; Zhan SH, Shen Y, Jomphe M, Jones SJ, Bakkers J, Andelfinger G.
+Mutations in SGOL1 cause a novel cohesinopathy affecting heart and gut rhythm.
+Nat Genet. 2014 Nov;46(11):1245-9. doi: 10.1038/ng.3113. Epub 2014 Oct 5.
+Citation on PubMed
+Krantz ID. Cohesin embraces new phenotypes. Nat Genet. 2014 Nov;46(11):1157-8.
+doi: 10.1038/ng.3123.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Arrhythmia
+Colonic Diseases
+Genetic Disorders
+Nutritional Support
+Pacemakers and Implantable Defibrillators
+MEDICAL ENCYCLOPEDIA
+Genetics
+Heart pacemaker
+Intestinal pseudo-obstruction
+Sick sinus syndrome
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

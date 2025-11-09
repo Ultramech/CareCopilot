@@ -1,0 +1,143 @@
+Bare lymphocyte syndrome type II: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Bare lymphocyte syndrome type II
+URL of this page: https://medlineplus.gov/genetics/condition/bare-lymphocyte-syndrome-type-ii/
+Bare lymphocyte syndrome type II
+Description
+Bare lymphocyte syndrome type II (BLS II) is an inherited disorder of the immune system categorized as a form of combined immunodeficiency (CID). People with BLS II lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be very serious or life-threatening. These infections are often caused by "opportunistic" organisms that ordinarily do not cause illness in people with a normal immune system.
+BLS II is typically diagnosed in the first year of life. Most affected infants have persistent infections in the respiratory, gastrointestinal, and
+urinary tracts
+. Because of the infections, affected infants have difficulty absorbing nutrients (malabsorption), and they grow more slowly than their peers. Eventually, the persistent infections lead to organ failure. Without treatment, individuals with BLS II usually do not survive past early childhood.
+In people with BLS II, infection-fighting white blood cells (lymphocytes) are missing specialized proteins on their surface called
+major histocompatibility complex (MHC) class II proteins,
+which is where the condition got its name. Because BLS II is the most common and best studied form of a group of related conditions, it is often referred to as simply bare lymphocyte syndrome (BLS).
+Frequency
+BLS II is a rare condition. At least 100 cases have been reported in the medical literature. While BLS II has been found in several populations throughout the world, it appears to be especially prevalent in the Mediterranean region and North Africa.
+Causes
+BLS II is caused by mutations in the
+CIITA
+,
+RFX5
+,
+RFXANK
+, or
+RFXAP
+gene. Each of these genes provides instructions for making a protein that plays a role in controlling the activity (
+transcription
+) of genes called MHC class II genes. Transcription is the first step in the production of proteins, and the CIITA, RFX5, RFXANK, and RFXAP proteins are critical for the production of
+MHC class II proteins
+from these genes.
+The RFX5, RFXANK, and RFXAP proteins come together to form the regulatory factor X (RFX) complex, which attaches (binds) to specific regions of DNA involved in the regulation of MHC class II gene activity. The CIITA protein interacts with the RFX complex and brings together other proteins that turn on gene transcription, leading to the production of MHC class II proteins.
+MHC class II proteins play an important role in the body's immune response to foreign invaders, such as bacteria, viruses, and fungi. To help the body recognize and fight infections, MHC class II proteins on lymphocytes bind to fragments of proteins (peptides) from foreign invaders so that other specialized immune system cells can interact with them. When these immune system cells recognize the peptides as harmful, they trigger the lymphocytes to launch immune responses to get rid of the foreign invaders.
+Mutations in the
+CIITA
+,
+RFX5
+,
+RFXANK
+, or
+RFXAP
+gene prevent transcription of MHC class II genes, which leads to an absence of MHC class II proteins on the surface of certain lymphocytes. Lack of these proteins on lymphocytes impairs the body's immune response to bacteria, viruses, and fungi, leading to persistent infections in individuals with BLS II syndrome.
+Learn more about the genes associated with Bare lymphocyte syndrome type II
+CIITA
+RFX5
+RFXANK
+RFXAP
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Bare lymphocyte syndrome type 2
+BLS type II
+Major histocompatibility complex class II deficiency
+MHC class II deficiency
+SCID due to absence of class II HLA antigens
+SCID, HLA class 2-negative
+SCID, HLA class II-negative
+Severe combined immunodeficiency due to absent class II human leukocyte antigens
+Severe combined immunodeficiency, HLA class II-negative
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Bare lymphocyte syndrome type 2, complementation group A
+Genetic Testing Registry: MHC CLASS II DEFICIENCY 3
+Genetic and Rare Diseases Information Center
+Immunodeficiency by defective expression of MHC class II
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MHC CLASS II DEFICIENCY 1; MHC2D1
+Scientific Articles on PubMed
+PubMed
+References
+Ahmed A, Reith W, Puck JM, Cheng LE. Novel Mutation in the Class II
+Transactivator Associated with Immunodeficiency and Autoimmunity. J Clin Immunol.
+2015 Aug;35(6):521-2. doi: 10.1007/s10875-015-0183-z. Epub 2015 Aug 14. No
+abstract available.
+Citation on PubMed
+Burd AL, Ingraham RH, Goldrick SE, Kroe RR, Crute JJ, Grygon CA. Assembly of
+major histocompatibility complex (MHC) class II transcription factors:
+association and promoter recognition of RFX proteins. Biochemistry. 2004 Oct
+12;43(40):12750-60. doi: 10.1021/bi030262o.
+Citation on PubMed
+Garvie CW, Boss JM. Assembly of the RFX complex on the MHCII promoter: role of
+RFXAP and RFXB in relieving autoinhibition of RFX5. Biochim Biophys Acta. 2008
+Dec;1779(12):797-804. doi: 10.1016/j.bbagrm.2008.07.012. Epub 2008 Aug 6.
+Citation on PubMed
+Gobin SJ, Peijnenburg A, van Eggermond M, van Zutphen M, van den Berg R, van
+den Elsen PJ. The RFX complex is crucial for the constitutive and CIITA-mediated
+transactivation of MHC class I and beta2-microglobulin genes. Immunity. 1998
+Oct;9(4):531-41. doi: 10.1016/s1074-7613(00)80636-6.
+Citation on PubMed
+Saleem MA, Arkwright PD, Davies EG, Cant AJ, Veys PA. Clinical course of
+patients with major histocompatibility complex class II deficiency. Arch Dis
+Child. 2000 Oct;83(4):356-9. doi: 10.1136/adc.83.4.356.
+Citation on PubMed
+or
+Free article on PubMed Central
+Shrestha D, Szollosi J, Jenei A. Bare lymphocyte syndrome: an opportunity to
+discover our immune system. Immunol Lett. 2012 Jan 30;141(2):147-57. doi:
+10.1016/j.imlet.2011.10.007. Epub 2011 Oct 17.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Immune System and Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Immunodeficiency disorders
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,140 @@
+DLG4-related synaptopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+DLG4-related synaptopathy
+URL of this page: https://medlineplus.gov/genetics/condition/dlg4-related-synaptopathy/
+DLG4-related synaptopathy
+Description
+DLG4
+-related synaptopathy is a condition that affects neurological development. This condition is characterized by delayed development and mild to moderate intellectual disabilities that typically becomes evident before age 2. Over time, many individuals with
+DLG4
+-related synaptopathy lose skills that they have learned, such as speech or motor skills. About 20 percent of people with this condition cannot speak. Affected individuals often have neurodevelopmental disorders, such as
+autism spectrum disorder
+or
+attention-deficit/hyperactivity disorder
+. About half of individuals with this condition have recurrent seizures (epilepsy) that typically begin in childhood. Brain changes can also occur. These include brain tissue loss (atrophy) and abnormalities of the tissue connecting the left and right halves of the brain (corpus callosum) or the hippocampus, which is a region of the brain that is involved in learning and memory.
+Individuals with
+DLG4
+-related synaptopathy can also have weak muscle tone (hyptonia), loose joints (joint laxity), or a spine that curves to the side (scoliosis).
+Movement problems, including impaired muscle coordination (ataxia), involuntary muscle coordination (dystonia), or rhythmic shaking (tremor) are common in people with this condition. Other problems can include
+migraine
+, sleep problems, or anxiety. Some people with
+DLG4
+-related synaptopathy have a distinctive body type that includes a long face, slim body, and long fingers.
+Less commonly,
+DLG4
+-related synaptopathy can affect a person's vision. Affected individuals can have eyes that do not point in the same direction (strabismus),
+farsightedness
+(hyperopia), or involuntary movements of the eyes (nystagmus). Some affected individuals have blindness because the area of the brain responsible for processing vision is impaired.
+DLG4
+-related synaptopathy can also cause gastrointestinal difficulties that make it difficult to eat. These can include a backflow of stomach acids into the esophagus (
+gastroesophageal reflux disease
+or GERD).
+Frequency
+DLG4
+-related synaptopathy is a rare disorder, although its exact prevalence is unknown. This condition has been reported in at least 100 people.
+Causes
+The
+DLG4
+gene provides instructions for making a protein that plays a role in nerve cells (
+neurons
+) in the brain. The DLG4 protein is found at synapses, which are the connections between neurons where cell-to-cell communication occurs. The DLG4 protein plays roles in synaptic signaling, development, survival, and function. In particular, this protein interacts with other proteins to regulate a process called synaptic plasticity, which allows synapses to change and adapt over time in response to experience. Synaptic plasticity is critical for learning and memory.
+Variants (also called mutations) in the
+DLG4
+gene cause
+DLG4
+-related synaptopathy. Most of these variants impair the normal function of the DLG4 protein by decreasing its ability to interact with the other proteins involved in synaptic plasticity or decreasing its ability to help synapses send signals. Other variants prevent the production of any normal DLG4 protein. The signs and symptoms of
+DLG4
+-related synaptopathy are likely caused by the reduced ability of synapses to change and adapt during important periods of brain development. Movement problems seen in people with
+DLG4
+-related synaptopathy may because caused by signaling changes at certain synapses.
+In addition, changes that impact synapse development and activity may cause seizures in people with this condition.
+Learn more about the gene associated with DLG4-related synaptopathy
+DLG4
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases of this condition result from new (de novo) variants in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual's parent or in early embryonic development. These affected individuals have no history of the disorder in their family.
+Other Names for This Condition
+Intellectual developmental disorder 62
+intellectual developmental disorder, autosomal dominant 62
+SHINE syndrome
+sleep disturbances, hypotonia, intellectual disability, neurologic disorder, and epilepsy syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Intellectual developmental disorder 62
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL DOMINANT 62; MRD62
+Scientific Articles on PubMed
+PubMed
+References
+Levy AM, Gomez-Puertas P, Tumer Z. Neurodevelopmental Disorders Associated
+with PSD-95 and Its Interaction Partners. Int J Mol Sci. 2022 Apr 15;23(8):4390.
+doi: 10.3390/ijms23084390.
+Citation on PubMed
+Rodriguez-Palmero A, Boerrigter MM, Gomez-Andres D, Aldinger KA,
+Marcos-Alcalde I, Popp B, Everman DB, Lovgren AK, Arpin S, Bahrambeigi V,
+Beunders G, Bisgaard AM, Bjerregaard VA, Bruel AL, Challman TD, Cogne B, Coubes
+C, de Man SA, Denomme-Pichon AS, Dye TJ, Elmslie F, Feuk L, Garcia-Minaur S,
+Gertler T, Giorgio E, Gruchy N, Haack TB, Haldeman-Englert CR, Haukanes BI, Hoyer
+J, Hurst ACE, Isidor B, Soller MJ, Kushary S, Kvarnung M, Landau YE, Leppig KA,
+Lindstrand A, Kleinendorst L, MacKenzie A, Mandrile G, Mendelsohn BA, Moghadasi
+S, Morton JE, Moutton S, Muller AJ, O'Leary M, Pacio-Miguez M, Palomares-Bralo M,
+Parikh S, Pfundt R, Pode-Shakked B, Rauch A, Repnikova E, Revah-Politi A, Ross
+MJ, Ruivenkamp CAL, Sarrazin E, Savatt JM, Schluter A, Schonewolf-Greulich B,
+Shad Z, Shaw-Smith C, Shieh JT, Shohat M, Spranger S, Thiese H, Mau-Them FT, van
+Bon B, van de Burgt I, van de Laar IMBH, van Drie E, van Haelst MM, van
+Ravenswaaij-Arts CM, Verdura E, Vitobello A, Waldmuller S, Whiting S, Zweier C,
+Prada CE, de Vries BBA, Dobyns WB, Reiter SF, Gomez-Puertas P, Pujol A, Tumer Z.
+DLG4-related synaptopathy: a new rare brain disorder. Genet Med. 2021
+May;23(5):888-899. doi: 10.1038/s41436-020-01075-9. Epub 2021 Feb 17.
+Citation on PubMed
+Tumer Z, Dye TJ, Prada C, White-Brown AM, MacKenzie A, Levy AM.
+DLG4-Related Synaptopathy. 2023 Jun 22. In: Adam MP, Feldman J, Mirzaa
+GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK592682/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Autism Spectrum Disorder
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,136 @@
+Mevalonate kinase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Mevalonate kinase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/mevalonate-kinase-deficiency/
+Mevalonate kinase deficiency
+Description
+Mevalonate kinase deficiency is a condition characterized by recurrent episodes of fever, which typically begin during infancy. Each episode of fever lasts about 3 to 6 days, and the frequency of the episodes varies among affected individuals. In childhood the fevers seem to be more frequent, occurring as often as 25 times a year, but as the individual gets older the episodes occur less often.
+Mevalonate kinase deficiency has additional signs and symptoms, and the severity depends on the type of the condition. There are two types of mevalonate kinase deficiency: a less severe type called hyperimmunoglobulinemia D syndrome (HIDS) and a more severe type called mevalonic aciduria (MVA).
+During episodes of fever, people with HIDS typically have enlargement of the
+lymph nodes
+(lymphadenopathy), abdominal pain, joint pain, diarrhea, skin rashes, and headache. Occasionally they will have painful sores called aphthous ulcers around their mouth. In females, these may also occur around the vagina. Rarely, people with HIDS develop a buildup of protein deposits (amyloidosis) in the kidneys that can lead to kidney failure. Fever episodes in individuals with HIDS can be triggered by vaccinations, surgery, injury, or stress. Most people with HIDS have abnormally high levels of immune system proteins called immunoglobulin D (IgD) and
+immunoglobulin A
+(IgA) in the blood. It is unclear why some people with HIDS have high levels of IgD and IgA and some do not. Elevated levels of these immunoglobulins do not appear to cause any signs or symptoms. Individuals with HIDS do not have any signs and symptoms of the condition between fever episodes and typically have a normal life expectancy.
+People with MVA have signs and symptoms of the condition at all times, not just during episodes of fever. Affected children have developmental delay, problems with movement and balance (ataxia), recurrent seizures (epilepsy), progressive problems with vision, and failure to gain weight and grow at the expected rate (failure to thrive). Individuals with MVA typically have an unusually small, elongated head. In childhood or adolescence, affected individuals may develop eye problems such as inflammation of the eye (uveitis), a blue tint in the white part of the eye (blue sclera), an eye disorder called
+retinitis pigmentosa
+that causes vision loss, or clouding of the lens of the eye (
+cataracts
+). Affected adults may have short stature and may develop muscle weakness (myopathy) later in life. During fever episodes, people with MVA may have an enlarged liver and spleen (hepatosplenomegaly), lymphadenopathy, abdominal pain, diarrhea, and skin rashes. Children with MVA who are severely affected with multiple problems may live only into early childhood; mildly affected individuals may have a normal life expectancy.
+Frequency
+More than 200 people with mevalonate kinase deficiency have been reported worldwide; the majority of these individuals have HIDS.
+Causes
+Mutations in the
+MVK
+gene cause mevalonate kinase deficiency. The
+MVK
+gene provides instructions for making the mevalonate kinase enzyme. This enzyme is involved in the production of cholesterol, which is later converted into steroid hormones and bile acids.
+Steroid hormones
+are needed for normal development and reproduction, and bile acids are used to digest fats. Mevalonate kinase also helps to produce other substances that are necessary for certain cellular functions, such as cell growth, cell maturation (differentiation), formation of the cell's structural framework (the cytoskeleton), gene activity (expression), and protein production and modification.
+Most
+MVK
+gene mutations that cause mevalonate kinase deficiency result in an enzyme that is unstable and
+folded
+into an incorrect 3-dimensional shape, leading to a reduction of mevalonate kinase enzyme activity. Despite this shortage (deficiency) of mevalonate kinase activity, people with mevalonate kinase deficiency typically have normal production of cholesterol, steroid hormones, and bile acids.
+It is unclear how a lack of mevalonate kinase activity causes the signs and symptoms of this condition. Some researchers believe the features may be due to a buildup of mevalonic acid, the substance that mevalonate kinase normally acts on. Other researchers think that a shortage of the substances produced from mevalonic acid, such as those substances necessary for certain cellular functions, causes the fever episodes and other features of this condition.
+The severity of the enzyme deficiency determines the severity of the condition. People who have approximately 1 to 20 percent of normal mevalonate kinase activity typically develop HIDS. Individuals who have less than 1 percent of normal enzyme activity usually develop MVA.
+Learn more about the gene associated with Mevalonate kinase deficiency
+MVK
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Hyper IgD syndrome
+Hyperimmunoglobulin D with periodic fever
+Hyperimmunoglobulinemia D
+Mevalonic aciduria
+Mevalonicaciduria
+Periodic fever, Dutch type
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Hyperimmunoglobulin D with periodic fever
+Genetic Testing Registry: Mevalonic aciduria
+Genetic and Rare Diseases Information Center
+Hyperimmunoglobulinemia D with periodic fever
+Mevalonic aciduria
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HYPER-IgD SYNDROME; HIDS
+MEVALONIC ACIDURIA; MEVA
+Scientific Articles on PubMed
+PubMed
+References
+Favier LA, Schulert GS. Mevalonate kinase deficiency: current perspectives.
+Appl Clin Genet. 2016 Jul 20;9:101-10. doi: 10.2147/TACG.S93933. eCollection
+2016.
+Citation on PubMed
+or
+Free article on PubMed Central
+Haas D, Hoffmann GF. Mevalonate kinase deficiencies: from mevalonic aciduria
+to hyperimmunoglobulinemia D syndrome. Orphanet J Rare Dis. 2006 Apr 26;1:13.
+doi: 10.1186/1750-1172-1-13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Haas D, Hoffmann GF. Mevalonate kinase deficiency and autoinflammatory
+disorders. N Engl J Med. 2007 Jun 28;356(26):2671-3. doi: 10.1056/NEJMp078083. No
+abstract available.
+Citation on PubMed
+Mandey SH, Schneiders MS, Koster J, Waterham HR. Mutational spectrum and
+genotype-phenotype correlations in mevalonate kinase deficiency. Hum Mutat. 2006
+Aug;27(8):796-802. doi: 10.1002/humu.20361.
+Citation on PubMed
+van der Hilst JC, Frenkel J. Hyperimmunoglobulin D syndrome in childhood. Curr
+Rheumatol Rep. 2010 Apr;12(2):101-7. doi: 10.1007/s11926-010-0086-1.
+Citation on PubMed
+van der Hilst JCH, Bodar EJ, Barron KS, Frenkel J, Drenth JPH, van der Meer
+JWM, Simon A; International HIDS Study Group. Long-term follow-up, clinical
+features, and quality of life in a series of 103 patients with
+hyperimmunoglobulinemia D syndrome. Medicine (Baltimore). 2008 Nov;87(6):301-310.
+doi: 10.1097/MD.0b013e318190cfb7.
+Citation on PubMed
+Related Health Topics
+Fever
+Genetic Disorders
+Rashes
+MEDICAL ENCYCLOPEDIA
+Genetics
+Joint pain
+Swollen lymph nodes
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

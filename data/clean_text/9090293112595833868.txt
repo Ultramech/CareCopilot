@@ -1,0 +1,111 @@
+Gitelman syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Gitelman syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/gitelman-syndrome/
+Gitelman syndrome
+Description
+Gitelman syndrome is a kidney disorder that causes an imbalance of charged atoms (ions) in the body, including ions of potassium, magnesium, and calcium.
+The signs and symptoms of Gitelman syndrome usually appear in late childhood or adolescence. Common features of this condition include painful muscle spasms (tetany), muscle weakness or cramping, dizziness, and salt craving. Also common is a tingling or prickly sensation in the skin (paresthesias), most often affecting the face. Some individuals with Gitelman syndrome experience excessive tiredness (fatigue), low blood pressure, and a painful joint condition called chondrocalcinosis. Studies suggest that Gitelman syndrome may also increase the risk of a potentially dangerous abnormal heart rhythm called ventricular arrhythmia.
+The signs and symptoms of Gitelman syndrome vary widely, even among affected members of the same family. Most people with this condition have relatively mild symptoms, although affected individuals with severe muscle cramping, paralysis, and slow growth have been reported.
+Frequency
+Gitelman syndrome affects an estimated 1 in 40,000 people worldwide.
+Causes
+Gitelman syndrome is usually caused by mutations in the
+SLC12A3
+gene. Less often, the condition results from mutations in the
+CLCNKB
+gene. The proteins produced from these genes are involved in the kidneys'
+reabsorption
+of salt (sodium chloride or NaCl) from urine back into the bloodstream. Mutations in either gene impair the kidneys' ability to reabsorb salt, leading to the loss of excess salt in the urine (salt wasting). Abnormalities of salt transport also affect the reabsorption of other ions, including ions of potassium, magnesium, and calcium. The resulting imbalance of ions in the body underlies the major features of Gitelman syndrome.
+Learn more about the genes associated with Gitelman syndrome
+CLCNKB
+SLC12A3
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Familial hypokalemia-hypomagnesemia
+Gitelman's syndrome
+GS
+Hypokalemia-hypomagnesemia, primary renotubular, with hypocalciuria
+Tubular hypomagnesemia-hypokalemia with hypocalcuria
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Familial hypokalemia-hypomagnesemia
+Genetic and Rare Diseases Information Center
+Gitelman syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+GITELMAN SYNDROME; GTLMNS
+Scientific Articles on PubMed
+PubMed
+References
+Cruz DN, Shaer AJ, Bia MJ, Lifton RP, Simon DB; Yale Gitelman's and Bartter's
+Syndrome Collaborative Study Group. Gitelman's syndrome revisited: an evaluation
+of symptoms and health-related quality of life. Kidney Int. 2001 Feb;59(2):710-7.
+doi: 10.1046/j.1523-1755.2001.059002710.x.
+Citation on PubMed
+Enriquez R, Adam V, Sirvent AE, Garcia-Garcia AB, Millan I, Amoros F. Gitelman
+syndrome due to p.A204T mutation in CLCNKB gene. Int Urol Nephrol. 2010
+Dec;42(4):1099-102. doi: 10.1007/s11255-010-9850-4. Epub 2010 Oct 8.
+Citation on PubMed
+Jeck N, Konrad M, Peters M, Weber S, Bonzel KE, Seyberth HW. Mutations in the
+chloride channel gene, CLCNKB, leading to a mixed Bartter-Gitelman phenotype.
+Pediatr Res. 2000 Dec;48(6):754-8. doi: 10.1203/00006450-200012000-00009.
+Citation on PubMed
+Knoers NV, Levtchenko EN. Gitelman syndrome. Orphanet J Rare Dis. 2008 Jul
+30;3:22. doi: 10.1186/1750-1172-3-22.
+Citation on PubMed
+or
+Free article on PubMed Central
+Knoers NV. Gitelman syndrome. Adv Chronic Kidney Dis. 2006 Apr;13(2):148-54.
+doi: 10.1053/j.ackd.2006.01.014.
+Citation on PubMed
+Riveira-Munoz E, Chang Q, Bindels RJ, Devuyst O. Gitelman's syndrome: towards
+genotype-phenotype correlations? Pediatr Nephrol. 2007 Mar;22(3):326-32. doi:
+10.1007/s00467-006-0321-1. Epub 2006 Oct 24.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Kidney Diseases
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

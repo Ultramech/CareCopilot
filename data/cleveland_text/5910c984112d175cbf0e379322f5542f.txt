@@ -1,0 +1,189 @@
+Antibody-Drug Conjugates (ADCs)
+Home
+/
+Health Library
+/
+Medical Treatments
+/
+Antibody-Drug Conjugates (ADCs)
+Advertisement
+Advertisement
+Antibody-Drug Conjugates (ADCs)
+An antibody-drug conjugate (ADC) is cancer treatment that combines targeted therapy and chemotherapy. It’s used when certain cancers come back, spread or when other treatments aren’t effective. ADCs deliver very powerful chemotherapy drugs to specific cancerous cells, damaging or destroying cancerous cells without harming nearby healthy cells.
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+Contents
+Arrow Down
+Overview
+Treatment Details
+Risks / Benefits
+Additional Common Questions
+Overview
+What are antibody-drug conjugates (ADCs)?
+Antibody-drug-conjugates (ADCs) combine
+chemotherapy
+and
+targeted therapy
+to treat certain blood cancers and cancerous tumors.
+Oncologists
+(cancer specialists) may use an ADC when cancers come back (
+recur
+), other treatments aren’t effective (refractory cancer) or cancers spread (
+metastasize
+).
+Advertisement
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+Policy
+This treatment works by targeting specific cancerous cells and delivering small doses of very powerful chemotherapy into the cells. The chemotherapy drugs damage or destroy cancerous cells but don’t harm nearby healthy cells. Antibody-drug conjugates can’t
+cure
+cancer. But studies show the treatments help people live longer.
+How do antibody-drug conjugates work?
+This treatment combines targeted therapy and chemotherapy in a package that includes:
+A
+monoclonal antibody
+: Monoclonal antibodies are lab-made antibodies tailor-made to attach to tumor
+antigens
+on cancerous cells. Antibodies fit into tumor antigens like keys fit into locks. In antibody-drug conjugates, monoclonal antibodies open the door for chemotherapy.
+Specific
+chemotherapy drugs
+: Oncologists use drugs that tests show work against specific kinds of cancer.
+A “linker” protein
+: The protein has two jobs. One is keeping the monoclonal antibody and chemotherapy drugs connected as the drugs move to the tumor. The other is to release the chemotherapy drug exactly where the drug needs to be to get inside a cancerous cell.
+What conditions are treated with ADCs?
+Oncologists may use an ADC to treat the following conditions:
+Blood cancers
+:
+Acute lymphoblastic leukemia (
+ALL
+).
+Acute myeloid leukemia (
+AML
+).
+Anaplastic large cell lymphoma (
+ALCL
+).
+B-cell lymphoma
+.
+Hodgkin lymphoma
+.
+Multiple myeloma
+.
+Advertisement
+Cancerous tumors
+:
+Cervical cancer
+.
+HER2-positive breast cancer
+.
+Lung cancer
+.
+Ovarian cancer
+.
+Triple-negative breast cancer
+.
+Urothelial cancer
+.
+Are antibody-drug conjugates a common cancer treatment?
+They’re not common, but oncologists are using them more often when other treatments aren’t effective, or cancer comes back after treatment.
+What are examples of ADCs?
+Currently, there are more than a dozen ADCs with U.S. Food and Drug Administration approval to treat several different kinds of cancer. Here are some examples:
+Brentuximab vedotin
+(Adcetris
+®
+):
+This drug was the first ADC to receive FDA approval. It’s treatment for recurrent Hodgkin lymphoma and anaplastic large cell lymphoma, among other blood cancers.
+Trastuzumab emtansine
+(Kadcyla
+®
+):
+This ADC treats metastatic HER2-positive breast cancer.
+Sacituzumab govitecan
+(Trodelvy
+®
+):
+This drug is a treatment for triple-negative breast cancer when surgery isn’t an option, or the cancer is spreading. It’s also treatment for metastatic urothelial cancer.
+Researchers are investigating new or different ways to use these drugs, including whether they may be effective treatment for some noncancerous diseases. There are more than 100 clinical trials taking place in the U.S. and other countries, with a focus on whether different monoclonal antibodies, chemotherapies and “linker” proteins can make ADCs even more effective.
+Treatment Details
+What are the advantages of antibody-drug conjugates?
+The most significant advantage is how ADCs can deliver chemotherapy drugs directly to the inside of cancerous cells without damaging nearby healthy cells. That’s why some cancer experts sometimes call this treatment a “magic bullet,” “precision treatment” or a “biological missile.”
+What are antibody-drug conjugate side effects?
+ADC side effects vary and depend on factors like the cancer type and
+stage
+and your overall health. While some side effects may be life-threatening, most are moderate or mild. If you’re receiving an antibody-drug conjugate, your oncology team will carefully monitor your reaction to treatment and move quickly to treat any issues. Possible side effects include:
+Anemia
+.
+Constipation
+or
+diarrhea
+.
+Cough
+.
+Fatigue
+.
+Fever
+.
+Headache
+.
+Hemorrhage
+(bleeding).
+Hypokalemia
+(low potassium levels).
+Loss of appetite
+.
+Low white blood cell count (
+leukopenia
+), including low lymphocyte count (
+lymphopenia
+) and low neutrophil count (
+neutropenia
+).
+Nausea
+and
+vomiting
+.
+Peripheral neuropathy
+.
+Pneumonia
+.
+Rash
+.
+Thrombocytopenia (low platelet count)
+.
+Risks / Benefits
+What’s the outlook for antibody-drug conjugate treatment?
+In general, studies show people who receive antibody-drug conjugates live longer than people with the same cancer who receive systemic chemotherapy. But the outlook may vary depending on factors like:
+Advertisement
+Cancer type
+: Antibody-drug conjugates may be more effective in one type of cancer than another.
+Cancer stage
+: In general,
+cancer
+that’s spreading is more challenging to treat because it affects more than one area of your body.
+Overall health
+: This treatment may cause serious side effects. If you’re considering antibody-drug conjugate treatment, your oncologist will explain how treatment side effects could affect you.
+When should I see my healthcare provider?
+Contact your provider if you have treatment side effects that are more severe than you expected, like nausea and vomiting that you can’t control.
+Additional Common Questions
+How are antibody-drug conjugates different from chemotherapy?
+The difference is the way that chemotherapy travels to cancerous cells. Often, chemotherapy is systemic, meaning the drug goes into your bloodstream and moves throughout your entire body. Because systemic chemotherapy damages healthy cells and cancerous cells, oncologists use drugs that are effective but not as powerful as other options.
+With antibody-drug conjugates, oncologists can place chemotherapy inside cancerous cells, which means they can use much more powerful drugs without the risk of damaging healthy cells.
+A note from Cleveland Clinic
+When cancer experts talk about antibody-drug conjugates, they may use terms like “magic bullet” or “precision medicine.” For some people with cancer, “hope” may be the term that comes to mind. Research shows these drugs may help some people live longer with cancer that’s come back or is spreading. The drugs are a possible treatment when other cancer treatments don’t work. Unfortunately, they’re not a treatment option for all kinds of cancer. Right now, ADCs are treatments for a relatively short list of cancers. But that list is likely to get longer as clinical trial results show new ways for healthcare providers to use antibody-conjugate drugs.
+Advertisement
+Medically Reviewed
+Last reviewed on 03/28/2024.
+Learn more about the
+Health Library
+and our
+editorial process
+.
+References
+Advertisement
+Advertisement
+Ad
+Cancer Answer Line
+866.223.8100
+Appointments & Locations
+Request an Appointment
+Search Clinical Trials

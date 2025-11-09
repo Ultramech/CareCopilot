@@ -1,0 +1,123 @@
+Pyridoxine-dependent epilepsy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Pyridoxine-dependent epilepsy
+URL of this page: https://medlineplus.gov/genetics/condition/pyridoxine-dependent-epilepsy/
+Pyridoxine-dependent epilepsy
+Description
+Pyridoxine-dependent epilepsy is a condition that involves seizures beginning in infancy or, in some cases, before birth. Those affected typically experience
+prolonged seizures
+lasting several minutes (status epilepticus). These seizures involve muscle rigidity, convulsions, and loss of consciousness (tonic-clonic seizures). Additional features of pyridoxine-dependent epilepsy include low body temperature (hypothermia), poor muscle tone (dystonia) soon after birth, and irritability before a seizure episode. In rare instances, children with this condition do not have seizures until they are 1 to 3 years old.
+Anticonvulsant drugs, which are usually given to control seizures, are ineffective in people with pyridoxine-dependent epilepsy. Instead, people with this type of seizure are medically treated with large daily doses of pyridoxine (a type of vitamin B6 found in food). If left untreated, people with this condition can develop severe brain dysfunction (encephalopathy). Even though seizures can be controlled with pyridoxine, neurological problems such as developmental delay and learning disorders may still occur.
+Frequency
+Pyridoxine-dependent epilepsy occurs in 1 in 100,000 to 700,000 individuals. At least 100 cases have been reported worldwide.
+Causes
+Mutations in the
+ALDH7A1
+gene cause pyridoxine-dependent epilepsy. The
+ALDH7A1
+gene provides instructions for making an enzyme called α-aminoadipic semialdehyde (α-AASA) dehydrogenase, also known as antiquitin. This enzyme is involved in the breakdown of the protein building block (
+amino acid
+) lysine in the brain.
+When antiquitin is deficient, a molecule that interferes with vitamin B6 function builds up in various tissues. Pyridoxine plays a role in many processes in the body, such as the breakdown of amino acids and the productions of chemicals that transmit signals in the brain (
+neurotransmitters
+). It is unclear how a lack of pyridoxine causes the seizures that are characteristic of this condition.
+Some individuals with pyridoxine-dependent epilepsy do not have identified mutations in the
+ALDH7A1
+gene. In these cases, the cause of the condition is unknown.
+Learn more about the gene associated with Pyridoxine-dependent epilepsy
+ALDH7A1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+AASA dehydrogenase deficiency
+EPD
+Epilepsy, pyridoxine-dependent
+PDE
+Pyridoxine dependency
+Pyridoxine dependency with seizures
+Pyridoxine-dependent seizures
+Vitamin B6-dependent seizures
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Pyridoxine-dependent epilepsy
+Genetic and Rare Diseases Information Center
+Pyridoxine-dependent epilepsy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+EPILEPSY, EARLY-ONSET, 4, VITAMIN B6-DEPENDENT; EPEO4
+Scientific Articles on PubMed
+PubMed
+References
+Bok LA, Struys E, Willemsen MA, Been JV, Jakobs C. Pyridoxine-dependent
+seizures in Dutch patients: diagnosis by elevated urinary alpha-aminoadipic
+semialdehyde levels. Arch Dis Child. 2007 Aug;92(8):687-9. doi:
+10.1136/adc.2006.103192. Epub 2006 Nov 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kanno J, Kure S, Narisawa A, Kamada F, Takayanagi M, Yamamoto K, Hoshino H,
+Goto T, Takahashi T, Haginoya K, Tsuchiya S, Baumeister FA, Hasegawa Y, Aoki Y,
+Yamaguchi S, Matsubara Y. Allelic and non-allelic heterogeneities in pyridoxine
+dependent seizures revealed by ALDH7A1 mutational analysis. Mol Genet Metab. 2007
+Aug;91(4):384-9. doi: 10.1016/j.ymgme.2007.02.010. Epub 2007 Apr 11.
+Citation on PubMed
+Mills PB, Struys E, Jakobs C, Plecko B, Baxter P, Baumgartner M, Willemsen MA,
+Omran H, Tacke U, Uhlenberg B, Weschke B, Clayton PT. Mutations in antiquitin in
+individuals with pyridoxine-dependent seizures. Nat Med. 2006 Mar;12(3):307-9.
+doi: 10.1038/nm1366. Epub 2006 Feb 19.
+Citation on PubMed
+Pearl PL, Taylor JL, Trzcinski S, Sokohl A. The pediatric neurotransmitter
+disorders. J Child Neurol. 2007 May;22(5):606-16. doi: 10.1177/0883073807302619.
+Citation on PubMed
+Plecko B, Paul K, Paschke E, Stoeckler-Ipsiroglu S, Struys E, Jakobs C,
+Hartmann H, Luecke T, di Capua M, Korenke C, Hikel C, Reutershahn E, Freilinger
+M, Baumeister F, Bosch F, Erwa W. Biochemical and molecular characterization of
+18 patients with pyridoxine-dependent epilepsy and mutations of the antiquitin
+(ALDH7A1) gene. Hum Mutat. 2007 Jan;28(1):19-26. doi: 10.1002/humu.20433.
+Citation on PubMed
+Related Health Topics
+Epilepsy
+Genetic Disorders
+Seizures
+MEDICAL ENCYCLOPEDIA
+Bilateral tonic-clonic seizure
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

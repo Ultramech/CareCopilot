@@ -1,0 +1,152 @@
+Mucopolysaccharidosis type IV: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Mucopolysaccharidosis type IV
+URL of this page: https://medlineplus.gov/genetics/condition/mucopolysaccharidosis-type-iv/
+Mucopolysaccharidosis type IV
+Description
+Mucopolysaccharidosis type IV (MPS IV), also known as Morquio syndrome, is a progressive condition that mainly affects the skeleton. The rate at which symptoms worsen varies among affected individuals.
+The first signs and symptoms of MPS IV usually become apparent during early childhood. Affected individuals develop various skeletal abnormalities, including short stature,
+knock knees
+, and abnormalities of the ribs, chest, spine, hips, and wrists. People with MPS IV often have joints that are loose and very flexible (hypermobile), but they may also have restricted movement in certain joints. A characteristic feature of this condition is underdevelopment (hypoplasia) of a peg-like bone in the neck called the odontoid process. The odontoid process helps stabilize the spinal bones in the neck (
+cervical vertebrae
+). Odontoid hypoplasia can lead to misalignment of the cervical vertebrae, which may compress and damage the spinal cord, resulting in paralysis or death.
+In people with MPS IV, the clear covering of the eye (
+cornea
+) typically becomes cloudy, which can cause vision loss. Some affected individuals have recurrent ear infections and hearing loss. The airway may become narrow in some people with MPS IV, leading to frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea). Other common features of this condition include mildly
+"coarse" facial features
+, thin tooth enamel, multiple cavities, heart valve abnormalities, a mildly enlarged liver (hepatomegaly), and a soft out-pouching around the belly-button (umbilical
+hernia
+) or lower abdomen (inguinal hernia). Unlike some other types of mucopolysaccharidosis, MPS IV does not affect intelligence.
+The life expectancy of individuals with MPS IV depends on the severity of symptoms. Severely affected individuals may survive only until late childhood or adolescence. Those with milder forms of the disorder usually live into adulthood, although their life expectancy may be reduced. Spinal cord compression and airway obstruction are major causes of death in people with MPS IV.
+Frequency
+The exact prevalence of MPS IV is unknown, although it is estimated to occur in 1 in 200,000 to 300,000 individuals.
+Causes
+Mutations in the
+GALNS
+and
+GLB1
+genes cause MPS IV. These genes provide instructions for producing enzymes involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs). GAGs were originally called mucopolysaccharides, which is where this condition gets its name. When MPS IV is caused by mutations in the
+GALNS
+gene it is called MPS IV type A (MPS IVA), and when it is caused by mutations in the
+GLB1
+gene it is called MPS IV type B (MPS IVB). In general, the two types of MPS IV cannot be distinguished by their signs and symptoms.
+Mutations in the
+GALNS
+and
+GLB1
+genes reduce or completely eliminate the activity of the enzymes produced from these genes. Without these enzymes, GAGs accumulate within cells, specifically inside the
+lysosomes
+. Lysosomes are compartments in the cell that break down and recycle different types of molecules. Conditions such as MPS IV that cause molecules to build up inside the lysosomes are called lysosomal storage disorders. In MPS IV, GAGs accumulate to toxic levels in many tissues and organs, particularly in the bones. The accumulation of GAGs causes the bone deformities in this disorder. Researchers believe that the buildup of GAGs may also cause the features of MPS IV by interfering with the functions of other proteins inside lysosomes and disrupting the movement of molecules inside the cell.
+Learn more about the genes associated with Mucopolysaccharidosis type IV
+GALNS
+GLB1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Morquio disease
+Morquio syndrome
+Morquio's disease
+Morquio's syndrome
+Morquio-Brailsford disease
+MPS IV
+Mucopolysaccharidosis (MPS) IV (A, B)
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Morquio syndrome
+Genetic Testing Registry: Mucopolysaccharidosis, MPS-IV-A
+Genetic Testing Registry: Mucopolysaccharidosis, MPS-IV-B
+Genetic and Rare Diseases Information Center
+Mucopolysaccharidosis type 4A
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MUCOPOLYSACCHARIDOSIS, TYPE IVA; MPS4A
+MUCOPOLYSACCHARIDOSIS, TYPE IVB; MPS4B
+Scientific Articles on PubMed
+PubMed
+References
+Cheema HA, Malik HS, Hashmi MA, Fayyaz Z, Mushtaq I, Shahzadi N.
+Mucopolysaccharidoses - Clinical Spectrum and Frequency of Different Types. J
+Coll Physicians Surg Pak. 2017 Feb;27(2):80-83.
+Citation on PubMed
+Montano AM, Sukegawa K, Kato Z, Carrozzo R, Di Natale P, Christensen E, Orii
+KO, Orii T, Kondo N, Tomatsu S. Effect of 'attenuated' mutations in
+mucopolysaccharidosis IVA on molecular phenotypes of
+N-acetylgalactosamine-6-sulfate sulfatase. J Inherit Metab Dis. 2007
+Oct;30(5):758-67. doi: 10.1007/s10545-007-0702-z. Epub 2007 Sep 17.
+Citation on PubMed
+Montano AM, Tomatsu S, Gottesman GS, Smith M, Orii T. International Morquio A
+Registry: clinical manifestation and natural course of Morquio A disease. J
+Inherit Metab Dis. 2007 Apr;30(2):165-74. doi: 10.1007/s10545-007-0529-7. Epub
+2007 Mar 8.
+Citation on PubMed
+Santamaria R, Chabas A, Callahan JW, Grinberg D, Vilageliu L. Expression and
+characterization of 14 GLB1 mutant alleles found in GM1-gangliosidosis and
+Morquio B patients. J Lipid Res. 2007 Oct;48(10):2275-82. doi:
+10.1194/jlr.M700308-JLR200. Epub 2007 Jul 30.
+Citation on PubMed
+Santamaria R, Chabas A, Coll MJ, Miranda CS, Vilageliu L, Grinberg D.
+Twenty-one novel mutations in the GLB1 gene identified in a large group of
+GM1-gangliosidosis and Morquio B patients: possible common origin for the
+prevalent p.R59H mutation among gypsies. Hum Mutat. 2006 Oct;27(10):1060. doi:
+10.1002/humu.9451.
+Citation on PubMed
+Tomatsu S, Montano AM, Lopez P, Trandafirescu G, Gutierrez MA, Oikawa H,
+Nishioka T, Vieira MB, Orii T, Noguchi A. Determinant factors of spectrum of
+missense variants in mucopolysaccharidosis IVA gene. Mol Genet Metab. 2006
+Sep-Oct;89(1-2):139-49. doi: 10.1016/j.ymgme.2006.05.012. Epub 2006 Jul 11.
+Citation on PubMed
+Tomatsu S, Montano AM, Nishioka T, Gutierrez MA, Pena OM, Tranda Firescu GG,
+Lopez P, Yamaguchi S, Noguchi A, Orii T. Mutation and polymorphism spectrum of
+the GALNS gene in mucopolysaccharidosis IVA (Morquio A). Hum Mutat. 2005
+Dec;26(6):500-12. doi: 10.1002/humu.20257.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Carbohydrate Metabolism Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Cloudy cornea
+Genetics
+Hypermobile joints
+Knock knees
+Mucopolysaccharides
+Mucopolysaccharidosis type IV
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,157 @@
+Boucher-Neuhäuser syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Boucher-Neuhäuser syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/boucher-neuhauser-syndrome/
+Boucher-Neuhäuser syndrome
+Description
+Boucher-Neuhäuser syndrome is a rare disorder that affects movement, vision, and sexual development. It is part of a continuous spectrum of neurological conditions, known as
+PNPLA6
+-related disorders, that share a genetic cause and have a combination of overlapping features. Boucher-Neuhäuser syndrome is characterized by three specific features: ataxia, hypogonadotropic hypogonadism, and chorioretinal dystrophy.
+Ataxia describes difficulty with coordination and balance. In Boucher-Neuhäuser syndrome, it arises from a loss of cells (atrophy) in the part of the brain involved in coordinating movements (the cerebellum). Affected individuals have an unsteady walking style (gait) and frequent falls.
+Another key feature of Boucher-Neuhäuser syndrome is hypogonadotropic hypogonadism, which is a condition affecting the production of hormones that direct sexual development. Affected individuals have a delay in development of the typical signs of puberty, such as the growth of facial hair and deepening of the voice in males, and the start of monthly periods (menstruation) and breast development in females. Other hormone abnormalities lead to short stature in some affected individuals.
+The third characteristic feature of Boucher-Neuhäuser syndrome is
+eye
+abnormalities, most commonly chorioretinal dystrophy. Chorioretinal dystrophy refers to problems with the light-sensitive tissue that lines the back of the eye (the retina) and a nearby tissue layer called the choroid. These eye abnormalities lead to impaired vision. People with Boucher-Neuhäuser syndrome can also have abnormal eye movements, including involuntary side-to-side movements of the eyes (nystagmus).
+The key features of Boucher-Neuhäuser syndrome can begin anytime from infancy to adulthood, although at least one feature usually occurs by adolescence. Ataxia is often the initial symptom of the disorder, but vision problems or delayed puberty can be the earliest finding. Vision and movement problems worsen slowly throughout life and can result in blindness or the need for a wheelchair for mobility in the most severely affected individuals.
+People with Boucher-Neuhäuser syndrome can have additional medical problems, including muscle stiffness (spasticity); impaired speech (dysarthria); and difficulty processing, learning, or remembering information (cognitive impairment).
+Frequency
+Boucher-Neuhäuser syndrome is a rare condition. Its prevalence is unknown.
+Causes
+Most cases of Boucher-Neuhäuser syndrome are caused by mutations in the
+PNPLA6
+gene. Such mutations are the only known cause of the condition. Researchers speculate that as-yet-unidentified mutations in the
+PNPLA6
+gene or changes in other genes are involved in the remainder of cases.
+The
+PNPLA6
+gene provides instructions for making a protein called neuropathy target esterase (NTE), which helps regulate the amount of certain fats (lipids) that make up the outer membrane surrounding cells. The correct levels of these lipids are critical to the stability and function of cell membranes. In particular, the NTE protein breaks down (metabolizes) a lipid called lysophosphatidylcholine, which in high amounts can damage cells. NTE is found most abundantly in the nervous system and is thought to help maintain the stability of membranes surrounding nerve cells (
+neurons
+). NTE is also thought to play a role in the release of hormones from the pituitary gland, a process that requires particular changes in the cell membrane. The pituitary gland is located at the base of the brain and produces several hormones, including those that help direct sexual development and growth.
+PNPLA6
+gene mutations are thought to impair NTE's function. However, it is unclear how these mutations cause Boucher-Neuhäuser syndrome. Researchers speculate that impairment of lysophosphatidylcholine metabolism alters the balance of lipids in the cell membrane. This imbalance may damage neurons, leading to the movement and vision problems that characterize Boucher-Neuhäuser syndrome. The imbalance may also impair the release of hormones involved in sexual development, accounting for the delayed puberty in affected individuals.
+Researchers are unsure how mutations in the
+PNPLA6
+gene lead to different combinations of features, resulting in the spectrum of
+PNPLA6
+-related disorders.
+Learn more about the gene associated with Boucher-Neuhäuser syndrome
+PNPLA6
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Ataxia-hypogonadism-choroidal dystrophy syndrome
+BNHS
+BNS
+Cerebellar ataxia with hypogonadism and choroidal dystrophy syndrome
+Chorioretinal dystrophy, spinocerebellar ataxia, and hypogonadotropic hypogonadism
+Spinocerebellar ataxia, hypogonadotropic hypogonadism, and chorioretinal dystrophy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Ataxia-hypogonadism-choroidal dystrophy syndrome
+Genetic and Rare Diseases Information Center
+Ataxia-hypogonadism-choroidal dystrophy syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+BOUCHER-NEUHAUSER SYNDROME; BNHS
+Scientific Articles on PubMed
+PubMed
+References
+Deik A, Johannes B, Rucker JC, Sanchez E, Brodie SE, Deegan E, Landy K,
+Kajiwara Y, Scelsa S, Saunders-Pullman R, Paisan-Ruiz C. Compound heterozygous
+PNPLA6 mutations cause Boucher-Neuhauser syndrome with late-onset ataxia. J
+Neurol. 2014 Dec;261(12):2411-23. doi: 10.1007/s00415-014-7516-3. Epub 2014 Sep
+30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Sogorb MA, Pamies D, Estevan C, Estevez J, Vilanova E. Roles of NTE protein
+and encoding gene in development and neurodevelopmental toxicity. Chem Biol
+Interact. 2016 Nov 25;259(Pt B):352-357. doi: 10.1016/j.cbi.2016.07.030. Epub
+2016 Jul 28.
+Citation on PubMed
+Synofzik M, Gonzalez MA, Lourenco CM, Coutelier M, Haack TB, Rebelo A,
+Hannequin D, Strom TM, Prokisch H, Kernstock C, Durr A, Schols L, Lima-Martinez
+MM, Farooq A, Schule R, Stevanin G, Marques W Jr, Zuchner S. PNPLA6 mutations
+cause Boucher-Neuhauser and Gordon Holmes syndromes as part of a broad
+neurodegenerative spectrum. Brain. 2014 Jan;137(Pt 1):69-77. doi:
+10.1093/brain/awt326. Epub 2013 Dec 19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Synofzik M, Hufnagel RB, Zuchner S. PNPLA6 Disorders. 2014 Oct 9
+[updated 2021 Jun 10]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK247161/
+Citation on PubMed
+Tarnutzer AA, Gerth-Kahlert C, Timmann D, Chang DI, Harmuth F, Bauer P,
+Straumann D, Synofzik M. Boucher-Neuhauser syndrome: cerebellar degeneration,
+chorioretinal dystrophy and hypogonadotropic hypogonadism: two novel cases and a
+review of 40 cases from the literature. J Neurol. 2015 Jan;262(1):194-202. doi:
+10.1007/s00415-014-7555-9. Epub 2014 Oct 31.
+Citation on PubMed
+Topaloglu AK, Lomniczi A, Kretzschmar D, Dissen GA, Kotan LD, McArdle CA, Koc
+AF, Hamel BC, Guclu M, Papatya ED, Eren E, Mengen E, Gurbuz F, Cook M, Castellano
+JM, Kekil MB, Mungan NO, Yuksel B, Ojeda SR. Loss-of-function mutations in PNPLA6
+encoding neuropathy target esterase underlie pubertal failure and neurological
+deficits in Gordon Holmes syndrome. J Clin Endocrinol Metab. 2014
+Oct;99(10):E2067-75. doi: 10.1210/jc.2014-1836. Epub 2014 Jul 17.
+Citation on PubMed
+Vose SC, Fujioka K, Gulevich AG, Lin AY, Holland NT, Casida JE. Cellular
+function of neuropathy target esterase in lysophosphatidylcholine action. Toxicol
+Appl Pharmacol. 2008 Nov 1;232(3):376-83. doi: 10.1016/j.taap.2008.07.015. Epub
+2008 Jul 25.
+Citation on PubMed
+Zaccheo O, Dinsdale D, Meacock PA, Glynn P. Neuropathy target esterase and its
+yeast homologue degrade phosphatidylcholine to glycerophosphocholine in living
+cells. J Biol Chem. 2004 Jun 4;279(23):24024-33. doi: 10.1074/jbc.M400830200.
+Epub 2004 Mar 25.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Movement Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Blindness and vision loss
+Genetics
+Hypogonadotropic hypogonadism
+Movement - uncoordinated
+Nystagmus
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

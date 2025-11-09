@@ -1,0 +1,156 @@
+Mucopolysaccharidosis type I: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Mucopolysaccharidosis type I
+URL of this page: https://medlineplus.gov/genetics/condition/mucopolysaccharidosis-type-i/
+Mucopolysaccharidosis type I
+Description
+Mucopolysaccharidosis type I (MPS I) is a condition that affects many parts of the body. This disorder was once divided into three separate syndromes: Hurler syndrome (MPS I-H), Hurler-Scheie syndrome (MPS I-H/S), and Scheie syndrome (MPS I-S), listed from most to least severe. Because there is so much overlap between each of these three syndromes, MPS I is currently divided into the severe and attenuated types.
+Children with MPS I often have no signs or symptoms of the condition at birth, although some have a
+soft out-pouching
+around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). People with severe MPS I generally begin to show other signs and symptoms of the disorder within the first year of life, while those with the attenuated form have milder features that develop later in childhood.
+Individuals with MPS I may have a large head
+(macrocephaly), a buildup of fluid in the brain (hydrocephalus),
+heart valve
+abnormalities,
+distinctive-looking facial features
+that are described as "coarse," an enlarged liver and spleen (hepatosplenomegaly), and a large tongue (macroglossia). Vocal cords can also enlarge, resulting in a deep, hoarse voice. The airway may become narrow in some people with MPS I, causing frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea).
+People with MPS I often develop
+clouding of the clear covering of the eye
+(
+cornea
+), which can cause significant vision loss. Affected individuals may also have hearing loss and recurrent ear infections.
+Some individuals with MPS I have short stature and joint deformities (contractures) that affect mobility. Most people with the severe form of the disorder also have dysostosis multiplex, which refers to multiple
+skeletal abnormalities
+seen on x-ray.
+Carpal tunnel syndrome
+develops in many children with this disorder and is characterized by numbness, tingling, and weakness in the hand and fingers. Narrowing of the spinal canal (
+spinal stenosis
+) in the neck can compress and damage the spinal cord.
+While both forms of MPS I can affect many different organs and tissues, people with severe MPS I experience a decline in intellectual function and a more rapid disease progression. Developmental delay is usually present by age 1, and severely affected individuals eventually lose basic functional skills (developmentally regress). Children with this form of the disorder usually have a shortened lifespan, sometimes living only into late childhood. Individuals with attenuated MPS I typically
+live into adulthood
+and may or may not have a shortened lifespan. Some people with the attenuated type have learning disabilities, while others have no intellectual impairments. Heart disease and airway obstruction are major causes of death in people with both types of MPS I.
+Frequency
+Severe MPS I occurs in approximately 1 in 100,000 newborns. Attenuated MPS I is less common and occurs in about 1 in 500,000 newborns.
+Causes
+Mutations in the
+IDUA
+gene cause MPS I. The
+IDUA
+gene provides instructions for producing an enzyme that is involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs). GAGs were originally called mucopolysaccharides, which is where this condition gets its name. Mutations in the
+IDUA
+gene reduce or completely eliminate the function of the IDUA enzyme. The lack of IDUA enzyme activity leads to the accumulation of GAGs within cells, specifically inside the
+lysosomes
+. Lysosomes are compartments in the cell that digest and recycle different types of molecules. Conditions that cause molecules to build up inside the lysosomes, including MPS I, are called lysosomal storage disorders. The accumulation of GAGs increases the size of the lysosomes, which is why many tissues and organs are enlarged in this disorder. Researchers believe that the GAGs may also interfere with the functions of other proteins inside the lysosomes and disrupt the movement of molecules inside the cell.
+Learn more about the gene associated with Mucopolysaccharidosis type I
+IDUA
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Hurler syndrome
+Hurler-Scheie syndrome
+IDUA deficiency
+MPS I
+MPS I H
+MPS I H-S
+MPS I S
+Mucopolysaccharidosis I
+Scheie syndrome
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Mucopolysaccharidosis type 1
+Genetic and Rare Diseases Information Center
+Mucopolysaccharidosis type 1
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HURLER SYNDROME
+HURLER-SCHEIE SYNDROME
+SCHEIE SYNDROME
+Scientific Articles on PubMed
+PubMed
+References
+Campos D, Monaga M. Mucopolysaccharidosis type I: current knowledge on its
+pathophysiological mechanisms. Metab Brain Dis. 2012 Jun;27(2):121-9. doi:
+10.1007/s11011-012-9302-1. Epub 2012 Apr 14.
+Citation on PubMed
+Clarke LA. Mucopolysaccharidosis Type I. 2002 Oct 31 [updated 2024 Apr 11].
+In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors.
+GeneReviews(R) [Internet]. Seattle (WA): University of Washington,
+Seattle; 1993-2025. Available from http://www.ncbi.nlm.nih.gov/books/NBK1162/
+Citation on PubMed
+Clarke LA. The mucopolysaccharidoses: a success of molecular medicine. Expert
+Rev Mol Med. 2008 Jan 18;10:e1. doi: 10.1017/S1462399408000550.
+Citation on PubMed
+Moore D, Connock MJ, Wraith E, Lavery C. The prevalence of and survival in
+Mucopolysaccharidosis I: Hurler, Hurler-Scheie and Scheie syndromes in the UK.
+Orphanet J Rare Dis. 2008 Sep 16;3:24. doi: 10.1186/1750-1172-3-24.
+Citation on PubMed
+or
+Free article on PubMed Central
+Muenzer J. The mucopolysaccharidoses: a heterogeneous group of disorders with
+variable pediatric presentations. J Pediatr. 2004 May;144(5 Suppl):S27-34. doi:
+10.1016/j.jpeds.2004.01.052. No abstract available.
+Citation on PubMed
+Pastores GM, Arn P, Beck M, Clarke JT, Guffon N, Kaplan P, Muenzer J, Norato
+DY, Shapiro E, Thomas J, Viskochil D, Wraith JE. The MPS I registry: design,
+methodology, and early findings of a global disease registry for monitoring
+patients with Mucopolysaccharidosis Type I. Mol Genet Metab. 2007
+May;91(1):37-47. doi: 10.1016/j.ymgme.2007.01.011. Epub 2007 Mar 2.
+Citation on PubMed
+Terlato NJ, Cox GF. Can mucopolysaccharidosis type I disease severity be
+predicted based on a patient's genotype? A comprehensive review of the
+literature. Genet Med. 2003 Jul-Aug;5(4):286-94. doi:
+10.1097/01.GIM.0000078027.83236.49.
+Citation on PubMed
+Vijay S, Wraith JE. Clinical presentation and follow-up of patients with the
+attenuated phenotype of mucopolysaccharidosis type I. Acta Paediatr. 2005
+Jul;94(7):872-7. doi: 10.1111/j.1651-2227.2005.tb02004.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Carbohydrate Metabolism Disorders
+Genetic Brain Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Mucopolysaccharides
+Mucopolysaccharidoses
+Mucopolysaccharidosis type I
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

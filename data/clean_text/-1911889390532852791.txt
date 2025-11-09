@@ -1,0 +1,137 @@
+DOLK-congenital disorder of glycosylation: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+DOLK-congenital disorder of glycosylation
+URL of this page: https://medlineplus.gov/genetics/condition/dolk-congenital-disorder-of-glycosylation/
+DOLK-congenital disorder of glycosylation
+Description
+DOLK
+-congenital disorder of glycosylation (
+DOLK
+-CDG, formerly known as congenital disorder of glycosylation type Im) is an inherited condition that often affects the heart but can also involve other body systems. The pattern and severity of this disorder's signs and symptoms vary among affected individuals.
+Individuals with
+DOLK
+-CDG typically develop signs and symptoms of the condition during infancy or early childhood. Nearly all individuals with
+DOLK
+-CDG develop a weakened and enlarged heart (
+dilated cardiomyopathy
+). Other frequent signs and symptoms include recurrent seizures; developmental delay; poor muscle tone (hypotonia); and dry, scaly skin (ichthyosis). Less commonly, affected individuals can have distinctive facial features, kidney disease, hormonal abnormalities, or eye problems.
+Individuals with
+DOLK
+-CDG typically do not survive into adulthood, often because of complications related to dilated cardiomyopathy, and some do not survive past infancy.
+Frequency
+DOLK
+-CDG is likely a rare condition; at least 18 cases have been reported in the scientific literature.
+Causes
+DOLK
+-CDG is caused by mutations in the
+DOLK
+gene. This gene provides instructions for making the enzyme dolichol kinase, which facilitates the final step of the production of a compound called dolichol phosphate. This compound is critical for a process called glycosylation, which attaches groups of sugar molecules (oligosaccharides) to proteins. Glycosylation changes proteins in ways that are important for their functions. During glycosylation, sugars are added to dolichol phosphate in order to build the oligosaccharide chain. Once the chain is formed, dolichol phosphate transports the oligosaccharide to the protein that needs to be glycosylated and attaches it to a specific site on the protein.
+Mutations in the
+DOLK
+gene lead to the production of abnormal dolichol kinase with reduced or absent activity. Without properly functioning dolichol kinase, dolichol phosphate is not produced and glycosylation cannot proceed normally. In particular, a protein known to stabilize
+heart muscle fibers
+, called alpha-dystroglycan, has been shown to have reduced glycosylation in people with
+DOLK
+-CDG. Impaired glycosylation of alpha-dystroglycan disrupts its normal function, which damages heart muscle fibers as they repeatedly contract and relax. Over time, the fibers weaken and break down, leading to
+dilated cardiomyopathy
+. The other signs and symptoms of
+DOLK
+-CDG are likely due to the abnormal glycosylation of additional proteins in other organs and tissues.
+Learn more about the gene associated with DOLK-congenital disorder of glycosylation
+DOLK
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+CDG1M
+Congenital disorder of glycosylation, type Im
+DK1 deficiency
+Dolichol kinase deficiency
+DOLK-CDG
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: DK1-congenital disorder of glycosylation
+Genetic and Rare Diseases Information Center
+Congenital disorder of glycosylation
+DK1-CDG
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Im; CDG1M
+Scientific Articles on PubMed
+PubMed
+References
+Buczkowska A, Swiezewska E, Lefeber DJ. Genetic defects in dolichol
+metabolism. J Inherit Metab Dis. 2015 Jan;38(1):157-69. doi:
+10.1007/s10545-014-9760-1. Epub 2014 Oct 1.
+Citation on PubMed
+or
+Free article on PubMed Central
+Denecke J, Kranz C. Hypoglycosylation due to dolichol metabolism defects.
+Biochim Biophys Acta. 2009 Sep;1792(9):888-95. doi: 10.1016/j.bbadis.2009.01.013.
+Epub 2009 Feb 3.
+Citation on PubMed
+Helander A, Stodberg T, Jaeken J, Matthijs G, Eriksson M, Eggertsen G.
+Dolichol kinase deficiency (DOLK-CDG) with a purely neurological presentation
+caused by a novel mutation. Mol Genet Metab. 2013 Nov;110(3):342-4. doi:
+10.1016/j.ymgme.2013.07.002. Epub 2013 Jul 10.
+Citation on PubMed
+Lefeber DJ, de Brouwer AP, Morava E, Riemersma M, Schuurs-Hoeijmakers JH,
+Absmanner B, Verrijp K, van den Akker WM, Huijben K, Steenbergen G, van Reeuwijk
+J, Jozwiak A, Zucker N, Lorber A, Lammens M, Knopf C, van Bokhoven H, Grunewald
+S, Lehle L, Kapusta L, Mandel H, Wevers RA. Autosomal recessive dilated
+cardiomyopathy due to DOLK mutations results from abnormal dystroglycan
+O-mannosylation. PLoS Genet. 2011 Dec;7(12):e1002427. doi:
+10.1371/journal.pgen.1002427. Epub 2011 Dec 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lieu MT, Ng BG, Rush JS, Wood T, Basehore MJ, Hegde M, Chang RC, Abdenur JE,
+Freeze HH, Wang RY. Severe, fatal multisystem manifestations in a patient with
+dolichol kinase-congenital disorder of glycosylation. Mol Genet Metab. 2013
+Dec;110(4):484-9. doi: 10.1016/j.ymgme.2013.09.016. Epub 2013 Oct 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Cardiomyopathy
+Genetic Disorders
+Metabolic Disorders
+MEDICAL ENCYCLOPEDIA
+Dilated cardiomyopathy
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

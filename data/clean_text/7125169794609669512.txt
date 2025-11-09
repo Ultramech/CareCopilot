@@ -1,0 +1,148 @@
+Depression: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Depression
+URL of this page: https://medlineplus.gov/genetics/condition/depression/
+Depression
+Description
+Depression (also known as major depression or major depressive disorder) is a psychiatric disorder that affects mood, behavior, and overall health. It causes prolonged feelings of sadness, emptiness, or hopelessness, and a loss of interest in activities that were once enjoyed. People with depression may also have changes in appetite (leading to overeating or not eating enough), changes in sleeping patterns (sleeping too much or not being able to sleep), loss of energy, and difficulty concentrating. Although depression is considered primarily a mental health disorder, it can also have physical features including headaches, other unexplained aches and pains, unusually slow or fast movements, and digestive problems. To be diagnosed with depression, an individual must have signs and symptoms nearly every day for at least 2 weeks. However, the features of this condition vary widely.
+Depression most commonly begins in late adolescence or early adulthood, although it can appear at any age. If untreated, episodes of depression can last for weeks, months, or years, and can go away and come back (recur). Affected individuals may have difficulty functioning in their daily lives, including at school or work. People with depression have a higher risk of substance abuse problems and dying by suicide than the general population.
+Several health conditions are closely related to depression or have depression as a characteristic feature. These include dysthymia (which has long-lasting signs and symptoms that are similar to, but not as severe as, those of depression), perinatal or postpartum depression (which occurs around or following the birth of a child),
+seasonal affective disorder
+(which is triggered by the changing of the seasons),
+bipolar disorder
+(which can include both "highs," or manic episodes, and depressive episodes), and generalized anxiety disorder. In people with
+schizoaffective disorder
+, depression or another mood disorder occurs together with features of
+schizophrenia
+(a brain disorder that affects a person's thinking, sense of self, and perceptions).
+Frequency
+Depression is one of the most common mental health disorders in the United States. More than 19 million American adolescents and adults are affected. In 2016, 6.7 percent of adults and 12.8 percent of adolescents reported having at least one episode of depression.
+Depression is about twice as common in women as in men, which may be related in part to hormonal factors.
+Causes
+Depression is known to run in families, suggesting that genetic factors contribute to the risk of developing this disease. However, research into the genetics of depression is in its early stages, and very little is known for certain about the genetic basis of the disease. Studies suggest that variations in many genes, each with a small effect, combine to increase the risk of developing depression.
+Determining the genetic risk factors for depression is challenging for several reasons. It is possible that what is currently considered to be a single disease called "depression" is actually multiple disorders with similar signs and symptoms; these disorders could have different genetic risk factors. The genetic variations related to depression may also be somewhat different between men and women. Researchers suspect that studies with many more people will be required to pinpoint the genetic variations that influence the risk of depression.
+The genes thought to be associated with depression have diverse functions in the brain. Some of these genes may control the production (synthesis), transport, and activity of chemicals called
+neurotransmitters
+, which relay chemical signals that allow nerve cells (neurons) to communicate with one another. Other genes that may influence the risk of depression are involved in the growth, maturation, and maintenance of neurons, as well as the ability of the connections between neurons (
+synapses
+) to change and adapt over time in response to experience, a characteristic known as synaptic plasticity.
+Nongenetic (environmental) factors also play critical roles in a person's risk of developing depression. The disorder can be triggered by substance abuse, certain medications, or stressful life events (such as divorce or the death of a loved one). Other risk factors include difficulties in relationships or social isolation, unemployment, financial problems, and childhood abuse or neglect. Some physical illnesses, such as cancer, thyroid disease, and chronic pain, are also associated with an increased risk of developing depression. It is likely that environmental conditions interact with genetic factors to determine the overall risk of developing this disease.
+Inheritance
+Depression does not have a clear pattern of inheritance in families. People who have a
+first-degree relative
+(for example, a parent or sibling) with depression appear to have a two to three times greater risk of developing the condition than the general public. However, many people who develop depression do not have a family history of the disorder, and many people with an affected relative never develop the disorder.
+Other Names for This Condition
+Clinical depression
+Depressive disorder
+Major depression
+Major depressive disorder
+MDD
+Unipolar depression
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Major depressive disorder
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+MAJOR DEPRESSIVE DISORDER; MDD
+MAJOR DEPRESSIVE DISORDER 1
+MAJOR DEPRESSIVE DISORDER 2
+Scientific Articles on PubMed
+PubMed
+References
+Bigdeli TB, Ripke S, Peterson RE, Trzaskowski M, Bacanu SA, Abdellaoui A,
+Andlauer TF, Beekman AT, Berger K, Blackwood DH, Boomsma DI, Breen G, Buttenschon
+HN, Byrne EM, Cichon S, Clarke TK, Couvy-Duchesne B, Craddock N, de Geus EJ,
+Degenhardt F, Dunn EC, Edwards AC, Fanous AH, Forstner AJ, Frank J, Gill M,
+Gordon SD, Grabe HJ, Hamilton SP, Hardiman O, Hayward C, Heath AC, Henders AK,
+Herms S, Hickie IB, Hoffmann P, Homuth G, Hottenga JJ, Ising M, Jansen R, Kloiber
+S, Knowles JA, Lang M, Li QS, Lucae S, MacIntyre DJ, Madden PA, Martin NG,
+McGrath PJ, McGuffin P, McIntosh AM, Medland SE, Mehta D, Middeldorp CM,
+Milaneschi Y, Montgomery GW, Mors O, Muller-Myhsok B, Nauck M, Nyholt DR, Nothen
+MM, Owen MJ, Penninx BW, Pergadia ML, Perlis RH, Peyrot WJ, Porteous DJ, Potash
+JB, Rice JP, Rietschel M, Riley BP, Rivera M, Schoevers R, Schulze TG, Shi J,
+Shyn SI, Smit JH, Smoller JW, Streit F, Strohmaier J, Teumer A, Treutlein J, Van
+der Auwera S, van Grootheest G, van Hemert AM, Volzke H, Webb BT, Weissman MM,
+Wellmann J, Willemsen G, Witt SH, Levinson DF, Lewis CM, Wray NR, Flint J,
+Sullivan PF, Kendler KS. Genetic effects influencing risk for major depressive
+disorder in China and Europe. Transl Psychiatry. 2017 Mar 28;7(3):e1074. doi:
+10.1038/tp.2016.292.
+Citation on PubMed
+or
+Free article on PubMed Central
+Dunn EC, Brown RC, Dai Y, Rosand J, Nugent NR, Amstadter AB, Smoller JW.
+Genetic determinants of depression: recent findings and future directions. Harv
+Rev Psychiatry. 2015 Jan-Feb;23(1):1-18. doi: 10.1097/HRP.0000000000000054.
+Citation on PubMed
+or
+Free article on PubMed Central
+Flint J, Kendler KS. The genetics of major depression. Neuron. 2014 Feb
+5;81(3):484-503. doi: 10.1016/j.neuron.2014.01.027.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lohoff FW. Overview of the genetics of major depressive disorder. Curr
+Psychiatry Rep. 2010 Dec;12(6):539-46. doi: 10.1007/s11920-010-0150-6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Mullins N, Lewis CM. Genetics of Depression: Progress at Last. Curr Psychiatry
+Rep. 2017 Aug;19(8):43. doi: 10.1007/s11920-017-0803-9.
+Citation on PubMed
+or
+Free article on PubMed Central
+National Institute of Mental Health: Major Depression Statistics
+Roy M, Tapadia MG, Joshi S, Koch B. Molecular and genetic basis of depression.
+J Genet. 2014 Dec;93(3):879-92. doi: 10.1007/s12041-014-0449-x.
+Citation on PubMed
+Sullivan PF, Neale MC, Kendler KS. Genetic epidemiology of major depression:
+review and meta-analysis. Am J Psychiatry. 2000 Oct;157(10):1552-62. doi:
+10.1176/appi.ajp.157.10.1552.
+Citation on PubMed
+Related Health Topics
+Antidepressants
+Depression
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Dysthymia
+Genetics
+Major depression
+Related Medical Tests
+Depression Screening
+Suicide Risk Screening
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

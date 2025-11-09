@@ -1,0 +1,135 @@
+PPP2R5D-related intellectual disability: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+PPP2R5D-related intellectual disability
+URL of this page: https://medlineplus.gov/genetics/condition/ppp2r5d-related-intellectual-disability/
+PPP2R5D-related intellectual disability
+Description
+PPP2R5D
+-related intellectual disability is a neurological disorder characterized by moderate to severe developmental delay and intellectual disability. Affected individuals have weak muscle tone (hypotonia); delayed development of motor skills, such as sitting, standing, and walking; and delayed speech development. Recurrent seizures (epilepsy) and
+autism spectrum disorder
+, which is characterized by impaired communications and social interaction, can also occur in affected individuals. Most people with
+PPP2R5D
+-related intellectual disability have an unusually large head size (
+macrocephaly
+), and some have other unusual facial features, including a prominent forehead (
+frontal bossing
+), widely spaced eyes (
+hypertelorism
+), and eyes that slant downward (downslanting palpebral fissures).
+Frequency
+PPP2R5D
+-related intellectual disability is a rare disorder. At least 20 individuals with this condition have been described in the medical literature.
+Causes
+Mutations in the
+PPP2R5D
+gene have been found to cause
+PPP2R5D
+-related intellectual disability. This gene provides instructions for making a protein called B56-delta (B56δ). The B56δ protein is one piece of an enzyme called protein phosphatase 2A (PP2A), which removes phosphate groups, consisting of clusters of oxygen and phosphorus atoms, from certain proteins. This process, called dephosphorylation, helps control whether the protein is turned on or off. PP2A enzymes containing the B56δ protein are found mainly in the brain, where they are thought to play roles in the normal development and function of nerve cells (neurons).
+PPP2R5D
+gene mutations are thought to result in the production of an altered B56δ protein. Although the effects of these variations are unclear, researchers suspect that they change or impair the activity of the PP2A enzyme. Abnormal or reduced PP2A enzyme activity is thought to disrupt signaling pathways in neurons, impairing their normal development and functioning, which may underlie intellectual disability and other neurological features of
+PPP2R5D
+-related intellectual disability.
+Learn more about the gene associated with PPP2R5D-related intellectual disability
+PPP2R5D
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Most cases of this condition result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) in an affected individual’s parent or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Autosomal dominant mental retardation 35
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Congenital stationary night blindness 1G
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HOUGE-JANSSENS SYNDROME 1; HJS1
+Scientific Articles on PubMed
+PubMed
+References
+Houge G, Haesen D, Vissers LE, Mehta S, Parker MJ, Wright M, Vogt J, McKee S,
+Tolmie JL, Cordeiro N, Kleefstra T, Willemsen MH, Reijnders MR, Berland S, Hayman
+E, Lahat E, Brilstra EH, van Gassen KL, Zonneveld-Huijssoon E, de Bie CI,
+Hoischen A, Eichler EE, Holdhus R, Steen VM, Doskeland SO, Hurles ME, FitzPatrick
+DR, Janssens V. B56delta-related protein phosphatase 2A dysfunction identified in
+patients with intellectual disability. J Clin Invest. 2015 Aug 3;125(8):3051-62.
+doi: 10.1172/JCI79860. Epub 2015 Jul 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Janssens V, Goris J. Protein phosphatase 2A: a highly regulated family of
+serine/threonine phosphatases implicated in cell growth and signalling. Biochem
+J. 2001 Feb 1;353(Pt 3):417-39. doi: 10.1042/0264-6021:3530417.
+Citation on PubMed
+or
+Free article on PubMed Central
+Loveday C, Tatton-Brown K, Clarke M, Westwood I, Renwick A, Ramsay E, Nemeth
+A, Campbell J, Joss S, Gardner M, Zachariou A, Elliott A, Ruark E, van Montfort
+R; Childhood Overgrowth Collaboration; Rahman N. Mutations in the PP2A regulatory
+subunit B family genes PPP2R5B, PPP2R5C and PPP2R5D cause human overgrowth. Hum
+Mol Genet. 2015 Sep 1;24(17):4775-9. doi: 10.1093/hmg/ddv182. Epub 2015 May 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Shang L, Henderson LB, Cho MT, Petrey DS, Fong CT, Haude KM, Shur N, Lundberg
+J, Hauser N, Carmichael J, Innis J, Schuette J, Wu YW, Asaikar S, Pearson M, Folk
+L, Retterer K, Monaghan KG, Chung WK. De novo missense variants in PPP2R5D are
+associated with intellectual disability, macrocephaly, hypotonia, and autism.
+Neurogenetics. 2016 Jan;17(1):43-9. doi: 10.1007/s10048-015-0466-9. Epub 2015 Nov
+17.
+Citation on PubMed
+or
+Free article on PubMed Central
+Yu UY, Yoo BC, Ahn JH. Regulatory B Subunits of Protein Phosphatase 2A Are
+Involved in Site-specific Regulation of Tau Protein Phosphorylation. Korean J
+Physiol Pharmacol. 2014 Apr;18(2):155-61. doi: 10.4196/kjpp.2014.18.2.155. Epub
+2014 Apr 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Autism Spectrum Disorder
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Epilepsy
+Genetics
+Increased head circumference
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,139 @@
+Juvenile polyposis syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Juvenile polyposis syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/juvenile-polyposis-syndrome/
+Juvenile polyposis syndrome
+Description
+Juvenile polyposis syndrome is a disorder characterized by multiple noncancerous (benign) growths called juvenile polyps. People with juvenile polyposis syndrome typically develop polyps before age 20; however, in the name of this condition "juvenile" refers to the characteristics of the tissues that make up the polyp, not the age of the affected individual. These growths occur in the gastrointestinal tract, typically in the large intestine (colon). The number of polyps varies from only a few to hundreds, even among affected members of the same family. Polyps may cause gastrointestinal bleeding, a shortage of red blood cells (
+anemia
+), abdominal pain, and diarrhea. Approximately 15 percent of people with juvenile polyposis syndrome have other abnormalities, such as a twisting of the intestines (intestinal malrotation), heart or brain abnormalities, an opening in the roof of the mouth (
+cleft palate
+), extra fingers or toes (
+polydactyly
+), and abnormalities of the genitalia or urinary tract.
+Juvenile polyposis syndrome is diagnosed when a person has any one of the following: (1) more than five juvenile polyps of the colon or rectum; (2) juvenile polyps in other parts of the gastrointestinal tract; or (3) any number of juvenile polyps and one or more affected family members. Single juvenile polyps are relatively common in children and are not characteristic of juvenile polyposis syndrome.
+Three types of juvenile polyposis syndrome have been described, based on the signs and symptoms of the disorder. Juvenile polyposis of infancy is characterized by polyps that occur throughout the gastrointestinal tract during infancy. Juvenile polyposis of infancy is the most severe form of the disorder and is associated with the poorest outcome. Children with this type may develop a condition called protein-losing enteropathy. This condition results in severe diarrhea, failure to gain weight and grow at the expected rate (failure to thrive), and general wasting and weight loss (cachexia). Another type called generalized juvenile polyposis is diagnosed when polyps develop throughout the gastrointestinal tract. In the third type, known as juvenile polyposis coli, affected individuals develop polyps only in their colon. People with generalized juvenile polyposis and juvenile polyposis coli typically develop polyps during childhood.
+Most juvenile polyps are benign, but there is a chance that
+polyps can become cancerous
+(malignant). It is estimated that people with juvenile polyposis syndrome have a 10 to 50 percent risk of developing a cancer of the gastrointestinal tract. The most common type of cancer seen in people with juvenile polyposis syndrome is colorectal cancer.
+Frequency
+Juvenile polyposis syndrome occurs in approximately 1 in 100,000 individuals worldwide.
+Causes
+Mutations in the
+BMPR1A
+and
+SMAD4
+genes cause juvenile polyposis syndrome. These genes provide instructions for making proteins that are involved in transmitting chemical signals from the
+cell membrane
+to the
+nucleus
+. This type of signaling pathway allows the environment outside the cell to affect how the cell produces other proteins. The BMPR1A and SMAD4 proteins work together to help regulate the activity of particular genes and the growth and division (proliferation) of cells.
+Mutations in the
+BMPR1A
+gene or the
+SMAD4
+gene disrupt cell signaling and interfere with their roles in regulating gene activity and cell proliferation. This lack of regulation causes cells to grow and divide in an uncontrolled way, which can lead to polyp formation.
+Learn more about the genes associated with Juvenile polyposis syndrome
+BMPR1A
+SMAD4
+Inheritance
+Juvenile polyposis syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In approximately 75 percent of cases, an affected person inherits the mutation from
+one affected parent
+. The remaining 25 percent of cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+JIP
+JPS
+Juvenile intestinal polyposis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Juvenile polyposis syndrome
+Genetic and Rare Diseases Information Center
+Juvenile polyposis syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+JUVENILE POLYPOSIS SYNDROME; JPS
+Scientific Articles on PubMed
+PubMed
+References
+Aretz S, Stienen D, Uhlhaas S, Stolte M, Entius MM, Loff S, Back W, Kaufmann
+A, Keller KM, Blaas SH, Siebert R, Vogt S, Spranger S, Holinski-Feder E, Sunde L,
+Propping P, Friedl W. High proportion of large genomic deletions and a genotype
+phenotype update in 80 unrelated families with juvenile polyposis syndrome. J Med
+Genet. 2007 Nov;44(11):702-9. doi: 10.1136/jmg.2007.052506. Epub 2007 Sep 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Brosens LA, Langeveld D, van Hattem WA, Giardiello FM, Offerhaus GJ. Juvenile
+polyposis syndrome. World J Gastroenterol. 2011 Nov 28;17(44):4839-44. doi:
+10.3748/wjg.v17.i44.4839.
+Citation on PubMed
+or
+Free article on PubMed Central
+Calva-Cerqueira D, Chinnathambi S, Pechman B, Bair J, Larsen-Haidle J, Howe
+JR. The rate of germline mutations and large deletions of SMAD4 and BMPR1A in
+juvenile polyposis. Clin Genet. 2009 Jan;75(1):79-85. doi:
+10.1111/j.1399-0004.2008.01091.x. Epub 2008 Sep 24.
+Citation on PubMed
+Chow E, Macrae F. A review of juvenile polyposis syndrome. J Gastroenterol
+Hepatol. 2005 Nov;20(11):1634-40. doi: 10.1111/j.1440-1746.2005.03865.x.
+Citation on PubMed
+Howe JR, Sayed MG, Ahmed AF, Ringold J, Larsen-Haidle J, Merg A, Mitros FA,
+Vaccaro CA, Petersen GM, Giardiello FM, Tinley ST, Aaltonen LA, Lynch HT. The
+prevalence of MADH4 and BMPR1A mutations in juvenile polyposis and absence of
+BMPR2, BMPR1B, and ACVR1 mutations. J Med Genet. 2004 Jul;41(7):484-91. doi:
+10.1136/jmg.2004.018598.
+Citation on PubMed
+or
+Free article on PubMed Central
+Pyatt RE, Pilarski R, Prior TW. Mutation screening in juvenile polyposis
+syndrome. J Mol Diagn. 2006 Feb;8(1):84-8. doi: 10.2353/jmoldx.2006.050072.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Colonic Polyps
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Colorectal polyps
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

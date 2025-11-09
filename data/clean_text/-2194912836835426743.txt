@@ -1,0 +1,166 @@
+Primary macronodular adrenal hyperplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Primary macronodular adrenal hyperplasia
+URL of this page: https://medlineplus.gov/genetics/condition/primary-macronodular-adrenal-hyperplasia/
+Primary macronodular adrenal hyperplasia
+Description
+Primary macronodular adrenal hyperplasia (PMAH) is a disorder characterized by multiple lumps (nodules) in the adrenal glands, which are small hormone-producing glands located on top of each kidney. These nodules, which usually are found in both adrenal glands (bilateral) and vary in size, cause adrenal gland enlargement (hyperplasia) and result in the production of higher-than-normal levels of the hormone cortisol. Cortisol is an important hormone that suppresses inflammation and protects the body from physical stress such as infection or trauma through several mechanisms including raising levels of blood glucose, also called blood sugar.
+PMAH typically becomes evident in a person's forties or fifties. It is considered a form of
+Cushing syndrome
+, which is characterized by increased levels of cortisol resulting from one of many possible causes. These increased cortisol levels lead to weight gain in the face and upper body, fragile skin, bone loss, fatigue, and other health problems. However, some people with PMAH do not experience these signs and symptoms and are said to have subclinical Cushing syndrome.
+Frequency
+PMAH is a rare disorder. It is present in less than 1 percent of cases of endogenous Cushing syndrome, which describes forms of Cushing syndrome caused by factors internal to the body rather than by external factors such as long-term use of certain medicines called corticosteroids. The prevalence of endogenous Cushing syndrome is about 1 in 26,000 people.
+Causes
+In about half of individuals with PMAH, the condition is caused by mutations in the
+ARMC5
+gene. This gene provides instructions for making a protein that is thought to act as a tumor suppressor, which means that it helps to prevent cells from growing and dividing too rapidly or in an uncontrolled way.
+ARMC5
+gene mutations are believed to impair the protein's tumor-suppressor function, which allows the overgrowth of certain cells. It is unclear why this overgrowth is limited to the formation of adrenal gland nodules in people with PMAH.
+PMAH can also be caused by mutations in the
+GNAS
+gene. This gene provides instructions for making one component, the stimulatory alpha subunit, of a protein complex called a guanine nucleotide-binding protein (G protein). The G protein produced from the
+GNAS
+gene helps stimulate the activity of an enzyme called adenylate cyclase. This enzyme is involved in controlling the production of several hormones that help regulate the activity of certain endocrine glands, including the adrenal glands. The
+GNAS
+gene mutations that cause PMAH are believed to result in an overactive G protein. Research suggests that the overactive G protein may increase levels of adenylate cyclase and result in the overproduction of another compound called cyclic AMP (cAMP). An excess of cAMP may trigger abnormal cell growth and lead to the adrenal nodules characteristic of PMAH.
+Mutations in other genes, some of which are unknown, can also cause PMAH.
+Learn more about the genes associated with Primary macronodular adrenal hyperplasia
+APC
+ARMC5
+FH
+GNAS
+MC2R
+MEN1
+Additional Information from NCBI Gene:
+PDE11A
+Inheritance
+People with PMAH caused by
+ARMC5
+gene mutations inherit one copy of the mutated gene in each cell. The inheritance is considered
+autosomal dominant
+because one copy of the mutated gene is sufficient to make an individual susceptible to PMAH. However, the condition develops only when affected individuals acquire another mutation in the other copy of the
+ARMC5
+gene in certain cells of the adrenal glands. This second mutation is described as somatic. Instead of being passed from parent to child, somatic mutations are acquired during a person's lifetime and are present only in certain cells. Because somatic mutations are also required for PMAH to occur, some people who have inherited the altered
+ARMC5
+gene never develop the condition, a situation known as reduced penetrance.
+When PMAH is caused by
+GNAS
+gene mutations, the condition is not inherited. The
+GNAS
+gene mutations that cause PMAH are somatic mutations. In PMAH, the gene mutation is believed to occur early in embryonic development. Cells with the mutated
+GNAS
+gene can be found in both adrenal glands.
+Other Names for This Condition
+ACTH-independent macronodular adrenal hyperplasia
+ACTH-independent macronodular adrenocortical hyperplasia
+Adrenal Cushing syndrome due to AIMAH
+Adrenocorticotropic hormone-independent macronodular adrenal hyperplasia
+AIMAH
+Corticotropin-independent macronodular adrenal hyperplasia
+PMAH
+Primary bilateral macronodular adrenal hyperplasia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Acth-independent macronodular adrenal hyperplasia 2
+Genetic and Rare Diseases Information Center
+Cushing syndrome due to macronodular adrenal hyperplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ACTH-INDEPENDENT MACRONODULAR ADRENAL HYPERPLASIA 1; AIMAH1
+ACTH-INDEPENDENT MACRONODULAR ADRENAL HYPERPLASIA 2; AIMAH2
+Scientific Articles on PubMed
+PubMed
+References
+Alencar GA, Lerario AM, Nishi MY, Mariani BM, Almeida MQ, Tremblay J, Hamet P,
+Bourdeau I, Zerbini MC, Pereira MA, Gomes GC, Rocha Mde S, Chambo JL, Lacroix A,
+Mendonca BB, Fragoso MC. ARMC5 mutations are a frequent cause of primary
+macronodular adrenal Hyperplasia. J Clin Endocrinol Metab. 2014
+Aug;99(8):E1501-9. doi: 10.1210/jc.2013-4237. Epub 2014 Apr 7.
+Citation on PubMed
+Assie G, Libe R, Espiard S, Rizk-Rabin M, Guimier A, Luscap W, Barreau O,
+Lefevre L, Sibony M, Guignat L, Rodriguez S, Perlemoine K, Rene-Corail F,
+Letourneur F, Trabulsi B, Poussier A, Chabbert-Buffet N, Borson-Chazot F,
+Groussin L, Bertagna X, Stratakis CA, Ragazzon B, Bertherat J. ARMC5 mutations in
+macronodular adrenal hyperplasia with Cushing's syndrome. N Engl J Med. 2013 Nov
+28;369(22):2105-14. doi: 10.1056/NEJMoa1304603.
+Citation on PubMed
+or
+Free article on PubMed Central
+De Venanzi A, Alencar GA, Bourdeau I, Fragoso MC, Lacroix A. Primary bilateral
+macronodular adrenal hyperplasia. Curr Opin Endocrinol Diabetes Obes. 2014
+Jun;21(3):177-84. doi: 10.1097/MED.0000000000000061.
+Citation on PubMed
+Elbelt U, Trovato A, Kloth M, Gentz E, Finke R, Spranger J, Galas D, Weber S,
+Wolf C, Konig K, Arlt W, Buttner R, May P, Allolio B, Schneider JG. Molecular and
+clinical evidence for an ARMC5 tumor syndrome: concurrent inactivating germline
+and somatic mutations are associated with both primary macronodular adrenal
+hyperplasia and meningioma. J Clin Endocrinol Metab. 2015 Jan;100(1):E119-28.
+doi: 10.1210/jc.2014-2648.
+Citation on PubMed
+or
+Free article on PubMed Central
+Faucz FR, Zilbermint M, Lodish MB, Szarek E, Trivellin G, Sinaii N, Berthon A,
+Libe R, Assie G, Espiard S, Drougat L, Ragazzon B, Bertherat J, Stratakis CA.
+Macronodular adrenal hyperplasia due to mutations in an armadillo repeat
+containing 5 (ARMC5) gene: a clinical and genetic investigation. J Clin
+Endocrinol Metab. 2014 Jun;99(6):E1113-9. doi: 10.1210/jc.2013-4280. Epub 2014
+Mar 6.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fragoso MC, Domenice S, Latronico AC, Martin RM, Pereira MA, Zerbini MC, Lucon
+AM, Mendonca BB. Cushing's syndrome secondary to adrenocorticotropin-independent
+macronodular adrenocortical hyperplasia due to activating mutations of GNAS1
+gene. J Clin Endocrinol Metab. 2003 May;88(5):2147-51. doi:
+10.1210/jc.2002-021362.
+Citation on PubMed
+Gagliardi L, Schreiber AW, Hahn CN, Feng J, Cranston T, Boon H, Hotu C,
+Oftedal BE, Cutfield R, Adelson DL, Braund WJ, Gordon RD, Rees DA, Grossman AB,
+Torpy DJ, Scott HS. ARMC5 mutations are common in familial bilateral macronodular
+adrenal hyperplasia. J Clin Endocrinol Metab. 2014 Sep;99(9):E1784-92. doi:
+10.1210/jc.2014-1265. Epub 2014 Jun 6.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Adrenal Gland Disorders
+Cushing's Syndrome
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

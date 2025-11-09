@@ -1,0 +1,178 @@
+Frontometaphyseal dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Frontometaphyseal dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/frontometaphyseal-dysplasia/
+Frontometaphyseal dysplasia
+Description
+Frontometaphyseal dysplasia is a disorder involving abnormalities in skeletal development and other health problems. It is a member of a group of related conditions called otopalatodigital spectrum disorders, which also includes
+otopalatodigital syndrome type 1
+,
+otopalatodigital syndrome type 2
+,
+Melnick-Needles syndrome
+, and
+terminal osseous dysplasia
+. In general, these disorders involve hearing loss caused by malformations in the tiny bones in the ears (
+ossicles
+), problems in the development of the roof of the mouth (palate), and bony abnormalities involving various areas of the skeleton.
+Frontometaphyseal dysplasia is distinguished from the other otopalatodigital spectrum disorders by the presence of joint deformities called contractures that restrict the movement of certain joints. People with frontometaphyseal dysplasia may also have bowed limbs, an abnormal curvature of the spine (
+scoliosis
+), and abnormalities of the fingers and hands.
+Characteristic facial features may include prominent brow ridges; wide-set and downward-slanting eyes; a very small lower jaw and chin (micrognathia); and small, missing, or misaligned teeth. Some affected individuals have hearing loss.
+In addition to skeletal abnormalities, individuals with frontometaphyseal dysplasia may have obstruction of the ducts between the kidneys and bladder (ureters), heart defects, or constrictions in the passages leading from the windpipe to the lungs (the bronchi) that can cause problems with breathing.
+There are three types of frontometaphyseal dysplasia, known as type 1, type 2, and type 3. The three types differ in their genetic cause and the way they are inherited.
+Frequency
+Frontometaphyseal dysplasia is a rare disorder; over a hundred cases have been reported worldwide.
+Causes
+Variants (also called mutations) in the
+FLNA
+gene cause frontometaphyseal dysplasia type 1. Variants in the
+MAP3K7
+gene cause frontometaphyseal dysplasia type 2, and
+TAB2
+gene variants cause type 3.
+The
+FLNA
+gene provides instructions for producing the protein filamin A, which helps build the network of protein filaments (
+cytoskeleton
+) that gives structure to cells and allows them to change shape and move. Filamin A binds to another protein called actin, and helps the actin form the branching network of filaments that make up the cytoskeleton. Filamin A also links actin to many other proteins to perform various functions within the cell.
+Variants in the
+FLNA
+gene have been identified in people with frontometaphyseal dysplasia. These mutations are described as "gain-of-function" because they appear to enhance the activity of the filamin A protein or give the protein a new, atypical function. Researchers think that the mutations may change the way the filamin A protein helps regulate processes involved in skeletal development, but it is not known how changes in the protein relate to the specific signs and symptoms of frontometaphyseal dysplasia.
+Learn more about the gene associated with Frontometaphyseal dysplasia
+FLNA
+Additional Information from NCBI Gene:
+MAP3K7
+TAB2
+Inheritance
+When frontometaphyseal dysplasia is caused by variants in the
+FLNA
+gene, it is inherited in an
+X-linked dominant pattern
+. The
+FLNA
+gene is located on the X chromosome, which is one of the two
+sex chromosomes
+. In females (who have two X chromosomes), a variant in one of the two copies of the gene in each cell is sufficient to cause the disorder. In males (who have only one X chromosome), a variant in the only copy of the gene in each cell causes the disorder. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons. Males with frontometaphyseal dysplasia type 1 generally have more severe signs and symptoms of the disorder than do females, who may show only the characteristic facial features.
+When frontometaphyseal dysplasia is caused by variants in the
+MAP3K7
+or
+TAB2
+gene, it is inherited in an
+autosomal dominant
+pattern. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+FMD
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Frontometaphyseal dysplasia 1
+Genetic Testing Registry: Frontometaphyseal dysplasia 2
+Genetic and Rare Diseases Information Center
+Frontometaphyseal dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+FRONTOMETAPHYSEAL DYSPLASIA 1; FMD1
+FRONTOMETAPHYSEAL DYSPLASIA 2; FMD2
+Scientific Articles on PubMed
+PubMed
+References
+Giuliano F, Collignon P, Paquis-Flucklinger V, Bardot J, Philip N. A new
+three-generational family with frontometaphyseal dysplasia, male-to-female
+transmission, and a previously reported FLNA mutation. Am J Med Genet A. 2005 Jan
+15;132A(2):222. doi: 10.1002/ajmg.a.30396. No abstract available.
+Citation on PubMed
+Morava E, Illes T, Weisenbach J, Karteszi J, Kosztolanyi G. Clinical and
+genetic heterogeneity in frontometaphyseal dysplasia: severe progressive
+scoliosis in two families. Am J Med Genet A. 2003 Jan 30;116A(3):272-7. doi:
+10.1002/ajmg.a.10831.
+Citation on PubMed
+Robertson S, Wade E. FLNA-Related Otopalatodigital Spectrum
+Disorders. 2005 Nov 30 [updated 2025 Jun 26]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1393/
+Citation on PubMed
+Robertson SP, Jenkins ZA, Morgan T, Ades L, Aftimos S, Boute O, Fiskerstrand
+T, Garcia-Minaur S, Grix A, Green A, Der Kaloustian V, Lewkonia R, McInnes B, van
+Haelst MM, Mancini G, Illes T, Mortier G, Newbury-Ecob R, Nicholson L, Scott CI,
+Ochman K, Brozek I, Shears DJ, Superti-Furga A, Suri M, Whiteford M, Wilkie AO,
+Krakow D. Frontometaphyseal dysplasia: mutations in FLNA and phenotypic
+diversity. Am J Med Genet A. 2006 Aug 15;140(16):1726-36. doi:
+10.1002/ajmg.a.31322.
+Citation on PubMed
+Robertson SP, Twigg SR, Sutherland-Smith AJ, Biancalana V, Gorlin RJ, Horn D,
+Kenwrick SJ, Kim CA, Morava E, Newbury-Ecob R, Orstavik KH, Quarrell OW, Schwartz
+CE, Shears DJ, Suri M, Kendrick-Jones J, Wilkie AO; OPD-spectrum Disorders
+Clinical Collaborative Group. Localized mutations in the gene encoding the
+cytoskeletal protein filamin A cause diverse malformations in humans. Nat Genet.
+2003 Apr;33(4):487-91. doi: 10.1038/ng1119. Epub 2003 Mar 3.
+Citation on PubMed
+Robertson SP. Otopalatodigital syndrome spectrum disorders: otopalatodigital
+syndrome types 1 and 2, frontometaphyseal dysplasia and Melnick-Needles syndrome.
+Eur J Hum Genet. 2007 Jan;15(1):3-9. doi: 10.1038/sj.ejhg.5201654. Epub 2006 Aug
+23.
+Citation on PubMed
+Wade EM, Daniel PB, Jenkins ZA, McInerney-Leo A, Leo P, Morgan T, Addor MC,
+Ades LC, Bertola D, Bohring A, Carter E, Cho TJ, Duba HC, Fletcher E, Kim CA,
+Krakow D, Morava E, Neuhann T, Superti-Furga A, Veenstra-Knol I, Wieczorek D,
+Wilson LC, Hennekam RC, Sutherland-Smith AJ, Strom TM, Wilkie AO, Brown MA,
+Duncan EL, Markie DM, Robertson SP. Mutations in MAP3K7 that Alter the Activity
+of the TAK1 Signaling Complex Cause Frontometaphyseal Dysplasia. Am J Hum Genet.
+2016 Aug 4;99(2):392-406. doi: 10.1016/j.ajhg.2016.05.024. Epub 2016 Jul 15.
+Citation on PubMed
+Wade EM, Halliday BJ, Jenkins ZA, O'Neill AC, Robertson SP. The X-linked
+filaminopathies: Synergistic insights from clinical and molecular analysis. Hum
+Mutat. 2020 May;41(5):865-883. doi: 10.1002/humu.24002. Epub 2020 Mar 11.
+Citation on PubMed
+Wade EM, Jenkins ZA, Daniel PB, Morgan T, Addor MC, Ades LC, Bertola D,
+Bohring A, Carter E, Cho TJ, de Geus CM, Duba HC, Fletcher E, Hadzsiev K,
+Hennekam RCM, Kim CA, Krakow D, Morava E, Neuhann T, Sillence D, Superti-Furga A,
+Veenstra-Knol HE, Wieczorek D, Wilson LC, Markie DM, Robertson SP. Autosomal
+dominant frontometaphyseal dysplasia: Delineation of the clinical phenotype. Am J
+Med Genet A. 2017 Jul;173(7):1739-1746. doi: 10.1002/ajmg.a.38267. Epub 2017 May
+12.
+Citation on PubMed
+Zenker M, Nahrlich L, Sticht H, Reis A, Horn D. Genotype-epigenotype-phenotype
+correlations in females with frontometaphyseal dysplasia. Am J Med Genet A. 2006
+May 15;140(10):1069-73. doi: 10.1002/ajmg.a.31213.
+Citation on PubMed
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

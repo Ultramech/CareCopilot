@@ -1,0 +1,178 @@
+Fuchs endothelial dystrophy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Fuchs endothelial dystrophy
+URL of this page: https://medlineplus.gov/genetics/condition/fuchs-endothelial-dystrophy/
+Fuchs endothelial dystrophy
+Description
+Fuchs endothelial dystrophy is a condition that causes vision problems. The first symptom of this condition is typically blurred vision in the morning that usually clears during the day. Over time, affected individuals lose the ability to see details (visual acuity). People with Fuchs endothelial dystrophy also become sensitive to bright lights.
+Fuchs endothelial dystrophy specifically affects the front surface of the eye called the cornea. Deposits called guttae, which are detectable during an eye exam, form in the middle of the cornea and eventually spread throughout the cornea. These guttae contribute to the ongoing cell death within the cornea, leading to worsening vision problems. Tiny blisters may develop on the cornea, which can burst and cause eye pain.
+The signs and symptoms of Fuchs endothelial dystrophy usually begin in a person's forties or fifties. A very rare early-onset variant of this condition starts to affect vision in a person's twenties.
+Frequency
+The late-onset form of Fuchs endothelial dystrophy is a common condition, affecting approximately 4 percent of people over the age of 40 in the United States. The early-onset variant of Fuchs endothelial dystrophy is rare, although the exact prevalence is unknown.
+For reasons that are unclear, Fuchs endothelial dystrophy affects women two to four times more frequently than men.
+Causes
+The genetics of Fuchs endothelial dystrophy are unclear. Researchers have identified several genes and regions within a few chromosomes that they think may play a role in the development of Fuchs endothelial dystrophy. However, many of these genetic associations have been found in only a few affected individuals or families and it is unclear what role they have in the development of the condition.
+Fuchs endothelial dystrophy affects a thin layer of cells that line the back of the cornea, called corneal endothelial cells. These cells regulate the amount of fluid inside the cornea. An appropriate fluid balance in the cornea is necessary for clear vision. Fuchs endothelial dystrophy occurs when the endothelial cells die and the cornea becomes swollen with too much fluid. Corneal endothelial cells continue to die over time, resulting in worsening vision problems. It is thought that mutations in genes that are active (expressed) primarily in corneal endothelial cells or surrounding tissue contribute to the death of corneal endothelial cells, resulting in Fuchs endothelial dystrophy.
+Some cases of the early-onset variant of Fuchs endothelial dystrophy are caused by mutations in a gene called
+COL8A2
+. This gene provides instructions for making a protein that is part of type VIII collagen. Type VIII collagen is largely found within the cornea, surrounding the endothelial cells. Specifically, type VIII collagen is a major component of a tissue at the back of the cornea, called Descemet's membrane. This membrane is a thin, sheet-like structure that separates and supports corneal endothelial cells.
+COL8A2
+gene mutations that cause the early-onset variant of Fuchs endothelial dystrophy lead to an abnormal Descemet's membrane, which causes corneal endothelial cells to die and leads to the vision problems in people with this condition.
+Mutations in additional, unidentified genes are also thought to be involved in the development of both the early-onset variant of Fuchs endothelial dystrophy and the later onset form of the disorder.
+Learn more about the genes associated with Fuchs endothelial dystrophy
+COL8A2
+TCF4
+Additional Information from NCBI Gene:
+AGBL1
+ATP1B1
+KANK4
+LAMC1
+SLC4A11
+ZEB1
+Inheritance
+In many cases, the inheritance pattern of Fuchs endothelial dystrophy is unknown.
+In some families, Fuchs endothelial dystrophy appears to be inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. When this condition is caused by a mutation in the
+COL8A2
+gene, it is inherited in an autosomal dominant pattern. In addition, an autosomal dominant inheritance pattern is apparent in some situations in which the condition is caused by alterations in an unknown gene.
+Some cases result from
+new mutations
+in a gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Fuchs atrophy
+Fuchs corneal dystrophy
+Fuchs dystrophy
+Fuchs endothelial corneal dystrophy
+Fuchs' endothelial dystrophy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Corneal dystrophy, Fuchs endothelial, 3
+Genetic Testing Registry: Corneal dystrophy, Fuchs endothelial, 4
+Genetic Testing Registry: Corneal dystrophy, Fuchs endothelial, 6
+Genetic Testing Registry: Corneal dystrophy, Fuchs endothelial, 8
+Genetic Testing Registry: Corneal dystrophy, Fuchs endothelial, 1
+Genetic and Rare Diseases Information Center
+Fuchs endothelial corneal dystrophy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 1; FECD1
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 2; FECD2
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 3; FECD3
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 4; FECD4
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 5; FECD5
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 6; FECD6
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 7; FECD7
+CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 8; FECD8
+Scientific Articles on PubMed
+PubMed
+References
+Afshari NA, Igo RP Jr, Morris NJ, Stambolian D, Sharma S, Pulagam VL, Dunn S,
+Stamler JF, Truitt BJ, Rimmler J, Kuot A, Croasdale CR, Qin X, Burdon KP,
+Riazuddin SA, Mills R, Klebe S, Minear MA, Zhao J, Balajonda E, Rosenwasser GO,
+Baratz KH, Mootha VV, Patel SV, Gregory SG, Bailey-Wilson JE, Price MO, Price FW
+Jr, Craig JE, Fingert JH, Gottsch JD, Aldave AJ, Klintworth GK, Lass JH, Li YJ,
+Iyengar SK. Genome-wide association study identifies three novel loci in Fuchs
+endothelial corneal dystrophy. Nat Commun. 2017 Mar 30;8:14898. doi:
+10.1038/ncomms14898.
+Citation on PubMed
+or
+Free article on PubMed Central
+Afshari NA, Li YJ, Pericak-Vance MA, Gregory S, Klintworth GK. Genome-wide
+linkage scan in fuchs endothelial corneal dystrophy. Invest Ophthalmol Vis Sci.
+2009 Mar;50(3):1093-7. doi: 10.1167/iovs.08-1839. Epub 2008 May 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Baratz KH, Tosakulwong N, Ryu E, Brown WL, Branham K, Chen W, Tran KD,
+Schmid-Kubista KE, Heckenlively JR, Swaroop A, Abecasis G, Bailey KR, Edwards AO.
+E2-2 protein and Fuchs's corneal dystrophy. N Engl J Med. 2010 Sep
+9;363(11):1016-24. doi: 10.1056/NEJMoa1007064. Epub 2010 Aug 25.
+Citation on PubMed
+Biswas S, Munier FL, Yardley J, Hart-Holden N, Perveen R, Cousin P, Sutphin
+JE, Noble B, Batterbury M, Kielty C, Hackett A, Bonshek R, Ridgway A, McLeod D,
+Sheffield VC, Stone EM, Schorderet DF, Black GC. Missense mutations in COL8A2,
+the gene encoding the alpha2 chain of type VIII collagen, cause two forms of
+corneal endothelial dystrophy. Hum Mol Genet. 2001 Oct 1;10(21):2415-23. doi:
+10.1093/hmg/10.21.2415.
+Citation on PubMed
+Eghrari AO, Gottsch JD. Fuchs' corneal dystrophy. Expert Rev Ophthalmol. 2010
+Apr;5(2):147-159. doi: 10.1586/eop.10.8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Gottsch JD, Sundin OH, Liu SH, Jun AS, Broman KW, Stark WJ, Vito EC, Narang
+AK, Thompson JM, Magovern M. Inheritance of a novel COL8A2 mutation defines a
+distinct early-onset subtype of fuchs corneal dystrophy. Invest Ophthalmol Vis
+Sci. 2005 Jun;46(6):1934-9. doi: 10.1167/iovs.04-0937.
+Citation on PubMed
+Riazuddin SA, Vithana EN, Seet LF, Liu Y, Al-Saif A, Koh LW, Heng YM, Aung T,
+Meadows DN, Eghrari AO, Gottsch JD, Katsanis N. Missense mutations in the sodium
+borate cotransporter SLC4A11 cause late-onset Fuchs corneal dystrophy. Hum Mutat.
+2010 Nov;31(11):1261-8. doi: 10.1002/humu.21356. Epub 2010 Oct 14.
+Citation on PubMed
+or
+Free article on PubMed Central
+Riazuddin SA, Zaghloul NA, Al-Saif A, Davey L, Diplas BH, Meadows DN, Eghrari
+AO, Minear MA, Li YJ, Klintworth GK, Afshari N, Gregory SG, Gottsch JD, Katsanis
+N. Missense mutations in TCF8 cause late-onset Fuchs corneal dystrophy and
+interact with FCD4 on chromosome 9p. Am J Hum Genet. 2010 Jan;86(1):45-53. doi:
+10.1016/j.ajhg.2009.12.001. Epub 2009 Dec 31.
+Citation on PubMed
+or
+Free article on PubMed Central
+Vithana EN, Morgan PE, Ramprasad V, Tan DT, Yong VH, Venkataraman D,
+Venkatraman A, Yam GH, Nagasamy S, Law RW, Rajagopal R, Pang CP, Kumaramanickevel
+G, Casey JR, Aung T. SLC4A11 mutations in Fuchs endothelial corneal dystrophy.
+Hum Mol Genet. 2008 Mar 1;17(5):656-66. doi: 10.1093/hmg/ddm337. Epub 2007 Nov
+16.
+Citation on PubMed
+Wright AF, Dhillon B. Major progress in Fuchs's corneal dystrophy. N Engl J
+Med. 2010 Sep 9;363(11):1072-5. doi: 10.1056/NEJMe1007495. Epub 2010 Aug 25. No
+abstract available.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Corneal Disorders
+Genetic Disorders
+Vision Impairment and Blindness
+MEDICAL ENCYCLOPEDIA
+Fuchs dystrophy
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

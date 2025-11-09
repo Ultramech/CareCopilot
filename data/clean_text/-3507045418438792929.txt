@@ -1,0 +1,201 @@
+Klippel-Feil syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Klippel-Feil syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/klippel-feil-syndrome/
+Klippel-Feil syndrome
+Description
+Klippel-Feil syndrome is a bone disorder that is characterized by the abnormal joining (
+fusion
+) of two or more spinal bones in the neck (cervical vertebrae). The vertebral fusion is present from birth. Cases of Klippel-Feil syndrome may be classified using the Samartzis classification system. This system divides the condition into three types based on the number of fused vertebrae and whether the fused vertebrae are next to each other (contiguous). According to the Samartzis classification, type I involves a single fusion of two vertebrae, type II involves multiple fused vertebrae that are not contiguous, and type III involves multiple fused vertebrae that are contiguous.
+Klippel-Feil syndrome has been described as having three classic features: a short neck, the appearance of a low hairline at the back of the head, and a limited range of motion in the neck. However, less than half of the individuals who have been diagnosed with Klippel-Feil syndrome have all three features. People with Klippel-Feil syndrome may have additional signs and symptoms, and these can vary greatly among affected individuals. Some people with Klippel-Feil syndrome do not have any signs or symptoms.
+The fused vertebrae in people with Klippel-Feil syndrome can cause health problems. These include chronic headaches; muscle pain; and an involuntary tensing of the neck, which causes the head to tilt or turn (torticollis). Because some of the cervical vertebrae are fused, this region of the neck can become unstable, which increases the risk of damage to the spinal cord. The fused area of the spine may be more susceptible to trauma, such as a fall or car accident.
+Some individuals with Klippel-Feil syndrome have a narrowing of the spinal canal (
+spinal stenosis
+) in the neck, which can put pressure on the spinal cord and nerves. This may be more common in those with Klippel-Feil syndrome type III.
+People with Klippel-Feil syndrome may have additional skeletal features, such as rib abnormalities or an abnormal side-to-side curvature of the spine (
+scoliosis
+). Approximately 20 to 30 percent of affected individuals have a skeletal condition called Sprengel deformity, in which the shoulder blades are underdeveloped and sit abnormally high on the back.
+Additional signs and symptoms seen in people with Klippel-Feil syndrome may include a difference in the size and shape of the right and left sides of the face (facial asymmetry), hearing loss, eye abnormalities, or an opening in the roof of the mouth (
+cleft palate
+). Abnormalities of the heart or kidneys may also be present.
+Some people with Klippel-Feil syndrome have neurological issues, which can include a type of birth defect that occurs during the development of the brain and spinal cord (neural tube defect) and a condition in which intentional movements of one side of the body are mirrored by involuntary movements of the other side (synkinesia).
+Klippel-Feil syndrome may occur as a feature of other disorders, such as Wildervanck syndrome or hemifacial microsomia. In these instances, affected individuals have the signs and symptoms of both Klippel-Feil syndrome and the additional disorder.
+Frequency
+Klippel-Feil syndrome is estimated to occur in 1 in 40,000 newborns. Females are affected slightly more often than males.
+The actual incidence of Klippel-Feil syndrome may be higher, as many cases of the condition are not diagnosed until later in life when signs and symptoms worsen. Because the signs and symptoms of Klippel-Feil syndrome can vary greatly, some cases likely remain undiagnosed.
+Causes
+Variants (also called mutations) in one of several different genes can cause Klippel-Feil syndrome. Three of these genes,
+GDF6
+,
+GDF3
+, and
+MEOX1
+,
+are involved in early bone development. The proteins produced from the
+GDF6
+and
+GDF3
+genes are necessary for the formation of bones and joints, including those in the spine. The protein produced from the
+MEOX1
+gene, called homeobox protein MOX-1, regulates the process of separating vertebrae from one another during early development.
+The variants in the
+GDF6
+,
+GDF3
+, and
+MEOX1
+genes that cause Klippel-Feil syndrome likely cause cells to produce fewer normal proteins from these genes. Although the GDF6, GDF3, and homeobox protein MOX-1 proteins are involved in vertebral development, it is unclear how a shortage of one of these proteins leads to the incomplete separation and fusion of the cervical vertebrae in people with Klippel-Feil syndrome.
+In many cases, the exact cause of Klippel-Feil syndrome is not known. Researchers suspect that a combination of genetic factors and environmental factors, such as a disruption of blood flow during critical periods of development, may play a role.
+When Klippel-Feil syndrome is a feature of another disorder, it is caused by variants in the genes that cause the other disorder.
+Learn more about the genes associated with Klippel-Feil syndrome
+GDF3
+GDF6
+MEOX1
+Additional Information from NCBI Gene:
+MYO18B
+Inheritance
+In many cases, Klippel-Feil syndrome is sporadic, which means that the condition occurs in people with no family history of the disorder.
+When Klippel-Feil syndrome is caused by variants in the
+GDF6
+or
+GDF3
+genes, it is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+When Klippel-Feil syndrome is caused by variants in the
+MEOX1
+gene, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+When Klippel-Feil syndrome is a feature of another disorder, it follows the inheritance pattern of the other disorder.
+Other Names for This Condition
+Cervical vertebral fusion
+Congenital cervical vertebral fusion
+Congenital fused cervical segments
+KFS
+Klippel-Feil malformation
+Klippel-Feil sequence
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Klippel-Feil anomaly-myopathy-facial dysmorphism syndrome
+Genetic Testing Registry: Klippel-Feil syndrome
+Genetic Testing Registry: Klippel-Feil syndrome 1, autosomal dominant
+Genetic Testing Registry: Klippel-Feil syndrome 2, autosomal recessive
+Genetic Testing Registry: Klippel-Feil syndrome 3, autosomal dominant
+Genetic and Rare Diseases Information Center
+Isolated Klippel-Feil syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+KLIPPEL-FEIL SYNDROME 1, AUTOSOMAL DOMINANT; KFS1
+KLIPPEL-FEIL SYNDROME 2, AUTOSOMAL RECESSIVE; KFS2
+KLIPPEL-FEIL SYNDROME 3, AUTOSOMAL DOMINANT; KFS3
+KLIPPEL-FEIL SYNDROME 4, AUTOSOMAL RECESSIVE, WITH NEMALINE MYOPATHY AND FACIAL DYSMORPHISM; KFS4
+Scientific Articles on PubMed
+PubMed
+References
+Altuame FD, Haldeman-Englert C, Cupler E, Al Muhaizea MA, Al-Zaidan HI, Hashem
+M, Alkuraya FS. Further delineation of MYO18B-related autosomal recessive
+Klippel-Feil syndrome with myopathy and facial dysmorphism. Am J Med Genet A.
+2021 Feb;185(2):370-376. doi: 10.1002/ajmg.a.61957. Epub 2020 Nov 11.
+Citation on PubMed
+Bayrakli F, Guclu B, Yakicier C, Balaban H, Kartal U, Erguner B, Sagiroglu MS,
+Yuksel S, Ozturk AR, Kazanci B, Ozum U, Kars HZ. Mutation in MEOX1 gene causes a
+recessive Klippel-Feil syndrome subtype. BMC Genet. 2013 Sep 28;14:95. doi:
+10.1186/1471-2156-14-95.
+Citation on PubMed
+or
+Free article on PubMed Central
+Frikha R. Klippel-Feil syndrome: a review of the literature. Clin Dysmorphol.
+2020 Jan;29(1):35-37. doi: 10.1097/MCD.0000000000000301.
+Citation on PubMed
+Jae-Min Park A, Nelson SE, Mesfin A. Klippel-Feil Syndrome: Clinical
+Presentation and Management. JBJS Rev. 2022 Feb 15;10(2). doi:
+10.2106/JBJS.RVW.21.00166.
+Citation on PubMed
+Klimo P Jr, Rao G, Brockmeyer D. Congenital anomalies of the cervical spine.
+Neurosurg Clin N Am. 2007 Jul;18(3):463-78. doi: 10.1016/j.nec.2007.04.005.
+Citation on PubMed
+Lampropoulou-Adamidou K, Athanassacopoulos M, Karampinas PK, Vlamis J, Korres
+DS, Pneumaticos SG. Congenital variations of the upper cervical spine and their
+importance in preoperative diagnosis. A case report and a review of the
+literature. Eur J Orthop Surg Traumatol. 2013 Jul;23 Suppl 1:S101-5. doi:
+10.1007/s00590-013-1216-z. Epub 2013 Apr 6.
+Citation on PubMed
+Litrenta J, Bi AS, Dryer JW. Klippel-Feil Syndrome: Pathogenesis, Diagnosis,
+and Management. J Am Acad Orthop Surg. 2021 Nov 15;29(22):951-960. doi:
+10.5435/JAAOS-D-21-00190.
+Citation on PubMed
+Menger RP, Rayi A, Notarianni C. Klippel Feil Syndrome. 2024 May 11. In:
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
+Available from http://www.ncbi.nlm.nih.gov/books/NBK493157/
+Citation on PubMed
+Mohamed JY, Faqeih E, Alsiddiky A, Alshammari MJ, Ibrahim NA, Alkuraya FS.
+Mutations in MEOX1, encoding mesenchyme homeobox 1, cause Klippel-Feil anomaly.
+Am J Hum Genet. 2013 Jan 10;92(1):157-61. doi: 10.1016/j.ajhg.2012.11.016. Epub
+2013 Jan 3.
+Citation on PubMed
+or
+Free article on PubMed Central
+Royal SA, Tubbs RS, D'Antonio MG, Rauzzino MJ, Oakes WJ. Investigations into
+the association between cervicomedullary neuroschisis and mirror movements in
+patients with Klippel-Feil syndrome. AJNR Am J Neuroradiol. 2002 Apr;23(4):724-9.
+Citation on PubMed
+Samartzis D, Kalluri P, Herman J, Lubicky JP, Shen FH. The extent of fusion
+within the congenital Klippel-Feil segment. Spine (Phila Pa 1976). 2008 Jul
+1;33(15):1637-42. doi: 10.1097/BRS.0b013e31817c0bc2.
+Citation on PubMed
+Samartzis D, Lubicky JP, Herman J, Shen FH. Faces of Spine Care: From the
+Clinic and Imaging Suite. Klippel-Feil syndrome and associated abnormalities: the
+necessity for a multidisciplinary approach in patient management. Spine J. 2007
+Jan-Feb;7(1):135-7. doi: 10.1016/j.spinee.2006.05.019. No abstract available.
+Citation on PubMed
+Samartzis DD, Herman J, Lubicky JP, Shen FH. Classification of congenitally
+fused cervical patterns in Klippel-Feil patients: epidemiology and role in the
+development of cervical spine-related symptoms. Spine (Phila Pa 1976). 2006 Oct
+1;31(21):E798-804. doi: 10.1097/01.brs.0000239222.36505.46.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Genetic Disorders
+Neck Injuries and Disorders
+MEDICAL ENCYCLOPEDIA
+Cervical Vertebrae (Image)
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

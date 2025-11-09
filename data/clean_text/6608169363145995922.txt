@@ -1,0 +1,193 @@
+Alpha-1 antitrypsin deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Alpha-1 antitrypsin deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/alpha-1-antitrypsin-deficiency/
+Alpha-1 antitrypsin deficiency
+Description
+Alpha-1 antitrypsin deficiency is an inherited disorder that may cause lung disease and liver disease. The signs and symptoms of the condition and the age at which they appear vary among individuals.
+People with alpha-1 antitrypsin deficiency usually develop the first signs and symptoms of lung disease between ages 25 and 50. The earliest symptoms are shortness of breath following mild activity, reduced ability to exercise, and wheezing. Other signs and symptoms can include unintentional weight loss, recurring respiratory infections, and fatigue. Affected individuals often develop emphysema, which is a lung disease caused by damage to the small air sacs in the lungs (alveoli). Characteristic features of emphysema include difficulty breathing, a hacking cough, and a barrel-shaped chest. Smoking or exposure to tobacco smoke accelerates the appearance of emphysema symptoms and damage to the lungs.
+About 10 percent of infants with alpha-1 antitrypsin deficiency develop liver disease, which often causes yellowing of the skin and whites of the eyes (jaundice). Approximately 15 percent of adults with alpha-1 antitrypsin deficiency develop liver damage (cirrhosis) due to the formation of scar tissue in
+the liver
+. Signs of cirrhosis include a swollen abdomen and jaundice. Individuals with alpha-1 antitrypsin deficiency are also at risk of developing a type of liver cancer called hepatocellular carcinoma.
+In rare cases, people with alpha-1 antitrypsin deficiency develop a skin condition called panniculitis, which is characterized by hardened skin with painful lumps or patches. Panniculitis varies in severity and can occur at any age.
+Frequency
+Alpha-1 antitrypsin deficiency occurs worldwide, but its prevalence varies by population. This disorder affects about 1 in 1,500 to 3,500 individuals with European ancestry. It is uncommon in people of Asian descent. Many individuals with alpha-1 antitrypsin deficiency are likely undiagnosed, particularly people with a lung condition called chronic obstructive pulmonary disease (COPD). COPD can be caused by alpha-1 antitrypsin deficiency; however, the alpha-1 antitrypsin deficiency is often never diagnosed. Some people with alpha-1 antitrypsin deficiency are misdiagnosed with asthma.
+Causes
+Variants (also known as mutations) in the
+SERPINA1
+gene cause alpha-1 antitrypsin deficiency. This gene provides instructions for making a protein called alpha-1 antitrypsin, which protects the body from a powerful enzyme called neutrophil elastase. Neutrophil elastase is released from white blood cells to fight infection, but it can attack normal tissues (especially the lungs) if not tightly controlled by alpha-1 antitrypsin.
+Variants in the
+SERPINA1
+gene can lead to a shortage (deficiency) of alpha-1 antitrypsin or an abnormal form of the protein that cannot control neutrophil elastase. Without enough functional alpha-1 antitrypsin, neutrophil elastase destroys alveoli and causes lung disease. Abnormal alpha-1 antitrypsin can also accumulate in the liver and damage this organ.
+Environmental factors, such as exposure to tobacco smoke, chemicals, and dust, likely impact the severity of alpha-1 antitrypsin deficiency.
+Learn more about the gene associated with Alpha-1 antitrypsin deficiency
+SERPINA1
+Inheritance
+This condition is inherited in an
+autosomal codominant pattern
+. Codominance means that two different versions of the gene may be active (expressed), and both versions contribute to the genetic trait.
+The most common version (allele) of the
+SERPINA1
+gene, called M, produces normal levels of alpha-1 antitrypsin. Most people in the general population have two copies of the M allele (MM) in each cell. Other versions of the
+SERPINA1
+gene lead to reduced levels of alpha-1 antitrypsin. For example, the S allele produces moderately low levels of this protein, and the Z allele produces very little alpha-1 antitrypsin. Individuals with two copies of the Z allele (ZZ) in each cell have a high risk of developing lung disease (such as emphysema) and liver disease associated with alpha-1 antitrypsin deficiency. Those with the SZ combination have an increased risk of developing lung disease, particularly if they smoke.
+Worldwide, it is estimated that 185 million people have one copy of the S or Z allele and one copy of the M allele in each cell (MS or MZ). Individuals with an MS (or SS) combination usually produce enough alpha-1 antitrypsin to protect the lungs. People with MZ alleles, however, have a slightly increased risk of impaired lung or liver function.
+Other Names for This Condition
+AAT
+AATD
+Alpha-1 protease inhibitor deficiency
+Alpha-1 related emphysema
+Genetic emphysema
+Hereditary pulmonary emphysema
+Inherited emphysema
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Alpha-1-antitrypsin deficiency
+Genetic and Rare Diseases Information Center
+Alpha-1-antitrypsin deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ALPHA-1-ANTITRYPSIN DEFICIENCY; A1ATD
+Scientific Articles on PubMed
+PubMed
+References
+Carrell RW, Lomas DA. Alpha1-antitrypsin deficiency--a model for
+conformational diseases. N Engl J Med. 2002 Jan 3;346(1):45-53. doi:
+10.1056/NEJMra010772. No abstract available.
+Citation on PubMed
+de Serres FJ, Blanco I, Fernandez-Bustillo E. Estimated numbers and prevalence
+of PI*S and PI*Z deficiency alleles of alpha1-antitrypsin deficiency in Asia. Eur
+Respir J. 2006 Dec;28(6):1091-9. doi: 10.1183/09031936.00029806. Epub 2006 Sep
+27.
+Citation on PubMed
+de Serres FJ, Blanco I, Fernandez-Bustillo E. Estimating the risk for alpha-1
+antitrypsin deficiency among COPD patients: evidence supporting targeted
+screening. COPD. 2006 Aug;3(3):133-9. doi: 10.1080/15412550600829257.
+Citation on PubMed
+de Serres FJ, Blanco I, Fernandez-Bustillo E. Health implications of
+alpha1-antitrypsin deficiency in Sub-Sahara African countries and their emigrants
+in Europe and the New World. Genet Med. 2005 Mar;7(3):175-84. doi:
+10.1097/01.gim.0000156533.06057.89.
+Citation on PubMed
+de Serres FJ, Blanco I, Fernandez-Bustillo E. PI S and PI Z alpha-1
+antitrypsin deficiency worldwide. A review of existing genetic epidemiological
+data. Monaldi Arch Chest Dis. 2007 Dec;67(4):184-208. doi:
+10.4081/monaldi.2007.476.
+Citation on PubMed
+de Serres FJ. Alpha-1 antitrypsin deficiency is not a rare disease but a
+disease that is rarely diagnosed. Environ Health Perspect. 2003
+Dec;111(16):1851-4. doi: 10.1289/ehp.6511.
+Citation on PubMed
+or
+Free article on PubMed Central
+DeMeo DL, Silverman EK. Alpha1-antitrypsin deficiency. 2: genetic aspects of
+alpha(1)-antitrypsin deficiency: phenotypes and genetic modifiers of emphysema
+risk. Thorax. 2004 Mar;59(3):259-64. doi: 10.1136/thx.2003.006502.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fairbanks KD, Tavill AS. Liver disease in alpha 1-antitrypsin deficiency: a
+review. Am J Gastroenterol. 2008 Aug;103(8):2136-41; quiz 2142. doi:
+10.1111/j.1572-0241.2008.01955.x.
+Citation on PubMed
+Fregonese L, Stolk J. Hereditary alpha-1-antitrypsin deficiency and its
+clinical consequences. Orphanet J Rare Dis. 2008 Jun 19;3:16. doi:
+10.1186/1750-1172-3-16.
+Citation on PubMed
+or
+Free article on PubMed Central
+Lomas DA, Parfrey H. Alpha1-antitrypsin deficiency. 4: Molecular
+pathophysiology. Thorax. 2004 Jun;59(6):529-35. doi: 10.1136/thx.2003.006528.
+Citation on PubMed
+or
+Free article on PubMed Central
+Luisetti M, Seersholm N. Alpha1-antitrypsin deficiency. 1: epidemiology of
+alpha1-antitrypsin deficiency. Thorax. 2004 Feb;59(2):164-9. doi:
+10.1136/thorax.2003.006494.
+Citation on PubMed
+or
+Free article on PubMed Central
+Needham M, Stockley RA. Alpha 1-antitrypsin deficiency. 3: Clinical
+manifestations and natural history. Thorax. 2004 May;59(5):441-5. doi:
+10.1136/thx.2003.006510.
+Citation on PubMed
+or
+Free article on PubMed Central
+Perlmutter DH, Brodsky JL, Balistreri WF, Trapnell BC. Molecular pathogenesis
+of alpha-1-antitrypsin deficiency-associated liver disease: a meeting review.
+Hepatology. 2007 May;45(5):1313-23. doi: 10.1002/hep.21628.
+Citation on PubMed
+Ranes J, Stoller JK. A review of alpha-1 antitrypsin deficiency. Semin Respir
+Crit Care Med. 2005 Apr;26(2):154-66. doi: 10.1055/s-2005-869536.
+Citation on PubMed
+Seixas S, Marques PI. Known Mutations at the Cause of Alpha-1 Antitrypsin
+Deficiency an Updated Overview of SERPINA1 Variation Spectrum. Appl Clin
+Genet. 2021 Mar 22;14:173-194. doi: 10.2147/TACG.S257511. eCollection 2021.
+Citation on PubMed
+Stoller JK, Aboussouan LS. Myths and misconceptions about alpha1-antitrypsin
+deficiency. Arch Intern Med. 2009 Mar 23;169(6):546-50. doi:
+10.1001/archinternmed.2009.25. No abstract available.
+Citation on PubMed
+Stoller JK, Hupertz V, Aboussouan LS. Alpha-1 Antitrypsin Deficiency. 2006 Oct
+27 [updated 2023 Jun 1]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1519/
+Citation on PubMed
+Teckman JH, Lindblad D. Alpha-1-antitrypsin deficiency: diagnosis,
+pathophysiology, and management. Curr Gastroenterol Rep. 2006 Feb;8(1):14-20.
+doi: 10.1007/s11894-006-0059-8.
+Citation on PubMed
+Teckman JH. Alpha1-antitrypsin deficiency in childhood. Semin Liver Dis. 2007
+Aug;27(3):274-81. doi: 10.1055/s-2007-985072.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Alpha-1 Antitrypsin Deficiency
+Cirrhosis
+Emphysema
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Alpha-1 antitrypsin deficiency
+Genetics
+Pulmonary function tests
+Wheezing
+Related Medical Tests
+Alpha-1 Antitrypsin Testing
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

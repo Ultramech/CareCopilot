@@ -1,0 +1,138 @@
+Isolated sulfite oxidase deficiency: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Isolated sulfite oxidase deficiency
+URL of this page: https://medlineplus.gov/genetics/condition/isolated-sulfite-oxidase-deficiency/
+Isolated sulfite oxidase deficiency
+Description
+Isolated sulfite oxidase deficiency (ISOD) is a disorder of the nervous system, with a severe "classic" form that starts in the newborn period and a milder, late-onset form that begins later in infancy or early childhood.
+Classic ISOD appears within the first few days after birth with signs and symptoms of brain dysfunction (encephalopathy) that quickly get worse. Babies with classic ISOD have seizures that are difficult to treat and feeding difficulties. They have muscle stiffness that results in paralysis of the arms and legs (spastic quadriplegia) and episodes of muscle spasms that cause backward arching of the spine (opisthotonus). Because development of the brain is impaired, the head does not grow at the same rate as the body, so it appears that the head is getting smaller as the body grows (progressive microcephaly). Abnormalities in facial features also become increasingly pronounced with lack of normal head growth. These facial differences include a relatively long and narrow face; deep-set, widely-spaced eyes; elongated openings of the eyes (palpebral fissures); puffy cheeks; a small nose; a large space between the nose and upper lip (a
+long philtrum
+); and thick lips.
+Babies with classic ISOD do not respond to their environment except to startle easily in response to noises, and they do not develop any motor skills such as turning over or sitting up. They usually do not live for more than a few months. Affected individuals who survive past infancy usually develop displacement of the lenses of the eyes (
+ectopia lentis
+). Because these individuals do not react to visual stimuli (are behaviorally blind) due to the brain damage associated with classic ISOD, the ectopia lentis has no further impact on their vision.
+Late-onset ISOD usually begins between the ages of 6 and 18 months, often after an illness involving fever. Individuals with this form of the disorder may not have the seizures and ectopia lentis that usually occur in the classic form. They have developmental delay and may lose skills that they had already developed (developmental regression). Movement problems occur in this form of the disorder, including muscle tensing (dystonia), uncontrolled movements of the limbs (choreoathetosis), and difficulty with coordination (ataxia). The signs and symptoms of late-onset ISOD can gradually get worse (progress), or they can be episodic, which means that they come and go. Some individuals with this form of ISOD survive into childhood or adolescence; because of the rarity of this disorder, their life expectancy is unknown.
+Frequency
+The prevalence of ISOD is unknown. At least 50 affected individuals have been described in the medical literature.
+Causes
+ISOD is caused by mutations in the
+SUOX
+gene. This gene provides instructions for making an enzyme called sulfite oxidase, which helps break down protein building blocks (
+amino acids
+) that contain sulfur when they are no longer needed. Specifically, sulfite oxidase is involved in the final step of this process, in which sulfur-containing molecules called sulfites are converted to other molecules called sulfates by adding an oxygen atom (a process called oxidation).
+The
+SUOX
+gene mutations that cause ISOD impair the function of sulfite oxidase, preventing complete breakdown of sulfur-containing amino acids. As a result, sulfites and other compounds left over from the partial breakdown process abnormally accumulate in the body. Researchers suggest that the nervous system is especially sensitive to this abnormal accumulation, and excessive levels of sulfite compounds that are toxic to the brain are thought to result in the brain damage that occurs in ISOD. It is unclear why most affected individuals have the classic form of the condition while a smaller number develop the milder late-onset form.
+Learn more about the gene associated with Isolated sulfite oxidase deficiency
+SUOX
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Encephalopathy due to sulfite oxidase deficiency
+ISOD
+Sulfocysteinuria
+Additional Information & Resources
+Genetic and Rare Diseases Information Center
+Isolated sulfite oxidase deficiency
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SULFITE OXIDASE DEFICIENCY, ISOLATED; ISOD
+Scientific Articles on PubMed
+PubMed
+References
+Bindu PS, Christopher R, Mahadevan A, Bharath RD. Clinical and imaging
+observations in isolated sulfite oxidase deficiency. J Child Neurol. 2011
+Aug;26(8):1036-40. doi: 10.1177/0883073811401399. Epub 2011 May 13.
+Citation on PubMed
+Bosley TM, Alorainy IA, Oystreck DT, Hellani AM, Seidahmed MZ, Osman Mel F,
+Sabry MA, Rashed MS, Al-Yamani EA, Abu-Amero KK, Salih MA. Neurologic injury in
+isolated sulfite oxidase deficiency. Can J Neurol Sci. 2014 Jan;41(1):42-8. doi:
+10.1017/s0317167100016243.
+Citation on PubMed
+Claerhout H, Witters P, Regal L, Jansen K, Van Hoestenberghe MR, Breckpot J,
+Vermeersch P. Isolated sulfite oxidase deficiency. J Inherit Metab Dis. 2018
+Jan;41(1):101-108. doi: 10.1007/s10545-017-0089-4. Epub 2017 Oct 4.
+Citation on PubMed
+Karakas E, Kisker C. Structural analysis of missense mutations causing
+isolated sulfite oxidase deficiency. Dalton Trans. 2005 Nov 7;(21):3459-63. doi:
+10.1039/b505789m. Epub 2005 Sep 26.
+Citation on PubMed
+Karakas E, Wilson HL, Graf TN, Xiang S, Jaramillo-Busquets S, Rajagopalan KV,
+Kisker C. Structural insights into sulfite oxidase deficiency. J Biol Chem. 2005
+Sep 30;280(39):33506-15. doi: 10.1074/jbc.M505035200. Epub 2005 Jul 27.
+Citation on PubMed
+Rocha S, Ferreira AC, Dias AI, Vieira JP, Sequeira S. Sulfite oxidase
+deficiency--an unusual late and mild presentation. Brain Dev. 2014
+Feb;36(2):176-9. doi: 10.1016/j.braindev.2013.01.013. Epub 2013 Feb 27.
+Citation on PubMed
+Sass JO, Gunduz A, Araujo Rodrigues Funayama C, Korkmaz B, Dantas Pinto KG,
+Tuysuz B, Yanasse Dos Santos L, Taskiran E, de Fatima Turcato M, Lam CW, Reiss J,
+Walter M, Yalcinkaya C, Camelo Junior JS. Functional deficiencies of sulfite
+oxidase: Differential diagnoses in neonates presenting with intractable seizures
+and cystic encephalomalacia. Brain Dev. 2010 Aug;32(7):544-9. doi:
+10.1016/j.braindev.2009.09.005. Epub 2009 Sep 29.
+Citation on PubMed
+Tan WH, Eichler FS, Hoda S, Lee MS, Baris H, Hanley CA, Grant PE,
+Krishnamoorthy KS, Shih VE. Isolated sulfite oxidase deficiency: a case report
+with a novel mutation and review of the literature. Pediatrics. 2005
+Sep;116(3):757-66. doi: 10.1542/peds.2004-1897.
+Citation on PubMed
+Touati G, Rusthoven E, Depondt E, Dorche C, Duran M, Heron B, Rabier D, Russo
+M, Saudubray JM. Dietary therapy in two patients with a mild form of sulphite
+oxidase deficiency. Evidence for clinical and biological improvement. J Inherit
+Metab Dis. 2000 Feb;23(1):45-53. doi: 10.1023/a:1005646813492.
+Citation on PubMed
+Zaki MS, Selim L, El-Bassyouni HT, Issa MY, Mahmoud I, Ismail S, Girgis M,
+Sadek AA, Gleeson JG, Abdel Hamid MS. Molybdenum cofactor and isolated sulphite
+oxidase deficiencies: Clinical and molecular spectrum among Egyptian patients.
+Eur J Paediatr Neurol. 2016 Sep;20(5):714-22. doi: 10.1016/j.ejpn.2016.05.011.
+Epub 2016 May 30.
+Citation on PubMed
+or
+Free article on PubMed Central
+Enlarge image
+Related Health Topics
+Amino Acid Metabolism Disorders
+Developmental Disabilities
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

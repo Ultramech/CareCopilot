@@ -1,0 +1,115 @@
+Warsaw breakage syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Warsaw breakage syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/warsaw-breakage-syndrome/
+Warsaw breakage syndrome
+Description
+Warsaw breakage syndrome is a condition that can cause multiple abnormalities. People with Warsaw breakage syndrome have intellectual disability that varies from mild to severe. They also have impaired growth from birth leading to short stature and a small head size (
+microcephaly
+). Affected individuals have distinctive facial features that may include a small forehead, a short nose, a small lower jaw, a flat area between the nose and mouth (philtrum), and prominent cheeks. Other common features include hearing loss caused by nerve damage in the
+inner ear
+(sensorineural hearing loss) and heart malformations.
+Frequency
+Warsaw breakage syndrome is a rare condition; at least four cases have been described in the medical literature.
+Causes
+Mutations in the
+DDX11
+gene cause Warsaw breakage syndrome. The
+DDX11
+gene provides instructions for making an enzyme called ChlR1. This enzyme functions as a helicase. Helicases are enzymes that attach (bind) to DNA and temporarily unwind the two spiral strands (double helix) of the DNA molecule. This unwinding is necessary for copying (
+replicating
+) DNA in preparation for
+cell division
+, and for repairing damaged DNA and any errors that are made when DNA is copied. In addition, after DNA is copied, ChlR1 plays a role in ensuring proper separation of each chromosome during cell division. By helping repair errors in DNA and ensuring proper DNA replication, the ChlR1 enzyme is involved in maintaining the stability of a cell's genetic information.
+DDX11
+gene mutations severely reduce or completely eliminate ChlR1 enzyme activity. As a result, the enzyme cannot bind to DNA and cannot unwind the DNA strands to help with DNA replication and repair. A lack of functional ChlR1 impairs cell division and leads to an accumulation of DNA damage. This DNA damage can appear as breaks in the DNA, giving the condition its name. It is unclear how these problems in DNA maintenance lead to the specific abnormalities characteristic of Warsaw breakage syndrome.
+Learn more about the gene associated with Warsaw breakage syndrome
+DDX11
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+WABS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Warsaw breakage syndrome
+Genetic and Rare Diseases Information Center
+Warsaw breakage syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+WARSAW BREAKAGE SYNDROME; WABS
+Scientific Articles on PubMed
+PubMed
+References
+Capo-Chichi JM, Bharti SK, Sommers JA, Yammine T, Chouery E, Patry L, Rouleau
+GA, Samuels ME, Hamdan FF, Michaud JL, Brosh RM Jr, Megarbane A, Kibar Z.
+Identification and biochemical characterization of a novel mutation in DDX11
+causing Warsaw breakage syndrome. Hum Mutat. 2013 Jan;34(1):103-7. doi:
+10.1002/humu.22226. Epub 2012 Oct 17.
+Citation on PubMed
+or
+Free article on PubMed Central
+van der Lelij P, Chrzanowska KH, Godthelp BC, Rooimans MA, Oostra AB, Stumm M,
+Zdzienicka MZ, Joenje H, de Winter JP. Warsaw breakage syndrome, a cohesinopathy
+associated with mutations in the XPD helicase family member DDX11/ChlR1. Am J Hum
+Genet. 2010 Feb 12;86(2):262-6. doi: 10.1016/j.ajhg.2010.01.008. Epub 2010 Feb 4.
+Citation on PubMed
+or
+Free article on PubMed Central
+van der Lelij P, Oostra AB, Rooimans MA, Joenje H, de Winter JP. Diagnostic
+Overlap between Fanconi Anemia and the Cohesinopathies: Roberts Syndrome and
+Warsaw Breakage Syndrome. Anemia. 2010;2010:565268. doi: 10.1155/2010/565268.
+Epub 2010 Jul 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wu Y, Sommers JA, Khan I, de Winter JP, Brosh RM Jr. Biochemical
+characterization of Warsaw breakage syndrome helicase. J Biol Chem. 2012 Jan
+6;287(2):1007-21. doi: 10.1074/jbc.M111.276022. Epub 2011 Nov 18.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Genetic Disorders
+Growth Disorders
+MEDICAL ENCYCLOPEDIA
+Delayed growth
+Genetics
+Hearing loss - infants
+Intellectual disability
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

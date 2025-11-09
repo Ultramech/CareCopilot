@@ -1,0 +1,213 @@
+Alport syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Alport syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/alport-syndrome/
+Alport syndrome
+Description
+Alport syndrome is a genetic condition characterized by kidney disease, hearing loss, and eye abnormalities.
+People with Alport syndrome experience progressive loss of kidney function. Almost all affected individuals have blood in their urine (hematuria), which indicates abnormal functioning of the kidneys. Many people with Alport syndrome also develop high levels of protein in their urine (proteinuria). The kidneys gradually lose their ability to efficiently remove waste products from the body, resulting in end-stage kidney disease (ESKD).
+In late childhood or early adolescence, many people with Alport syndrome develop sensorineural hearing loss, which is caused by abnormalities of
+the inner ear
+. Affected individuals may also have misshapen
+lenses in their eyes
+(anterior lenticonus) and abnormal coloration of the
+retina
+, which is the light-sensitive tissue at the back of the eye. These eye abnormalities seldom lead to vision loss.
+Frequency
+Alport syndrome occurs in approximately 1 in 50,000 newborns.
+Causes
+Variants (also called mutations) in the
+COL4A3
+,
+COL4A4
+, and
+COL4A5
+genes cause Alport syndrome. These genes each provide instructions for making one component of a protein called collagen IV. Collagen IV plays an important role in
+the kidneys
+, specifically in structures called glomeruli. Glomeruli are clusters of specialized blood vessels that
+remove water and waste products
+from blood and create urine.
+Variants in these genes result in the production of abnormal versions of collagen IV in glomeruli. Kidneys with abnormal collagen IV cannot properly filter the blood, which allows blood and protein to pass into the urine, causing hematuria and proteinuria. Gradual scarring of the kidneys occurs, eventually leading to kidney failure in many people with Alport syndrome.
+Collagen IV is also an important component of
+inner ear structures
+, particularly the organ of Corti, that transform sound waves into nerve impulses for the brain. Altered versions of collagen IV in the inner ear impair its function, which can lead to hearing loss.
+In
+the eye
+, collagen IV is important for maintaining the shape of the lens and the normal color of the retina. Abnormal versions of collagen IV in the eye can result in misshapen lenses and an abnormally colored retina.
+Learn more about the genes associated with Alport syndrome
+COL4A3
+COL4A4
+COL4A5
+Inheritance
+Alport syndrome can have different inheritance patterns. About two out of three cases are caused by variants in the
+COL4A5
+gene and are inherited in an X-linked pattern. The
+COL4A5
+gene is located on the X chromosome, which is one of the two
+sex chromosomes
+. In males (who have only one X chromosome), a variant in the only copy of the
+COL4A5
+gene in each cell is sufficient to cause kidney failure and other severe symptoms of the disorder. In females (who have two copies of the X chromosome), a variant in one copy of the
+COL4A5
+gene usually only results in hematuria, but some people experience more severe symptoms. Significant hearing loss, eye abnormalities, and progressive kidney disease are more common in males with the X-linked form of Alport syndrome than in affected females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+In approximately 15 percent of cases, Alport syndrome is caused by variants in both copies of the
+COL4A3
+or
+COL4A4
+gene and is inherited in an
+autosomal recessive pattern
+. The parents of an individual with the autosomal recessive form of this condition each have one copy of the altered gene and are called carriers. Some carriers are unaffected, while others develop a less severe condition called thin basement membrane nephropathy, which is characterized by hematuria.
+Alport syndrome is inherited in an
+autosomal dominant pattern
+in about 20 to 30 percent of cases. People with this form of Alport syndrome have one variant in either the
+COL4A3
+or
+COL4A4
+gene in each cell. It remains unclear why some individuals with one variant in the
+COL4A3
+or
+COL4A4
+gene have progressive kidney disease (autosomal dominant Alport syndrome) and others have only hematuria (thin basement membrane nephropathy).
+Other Names for This Condition
+Congenital hereditary hematuria
+Hematuria-nephropathy-deafness syndrome
+Hematuric hereditary nephritis
+Hemorrhagic familial nephritis
+Hemorrhagic hereditary nephritis
+Hereditary familial congenital hemorrhagic nephritis
+Hereditary hematuria syndrome
+Hereditary interstitial pyelonephritis
+Hereditary nephritis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Alport syndrome
+Genetic Testing Registry: Autosomal dominant Alport syndrome
+Genetic Testing Registry: Autosomal recessive Alport syndrome
+Genetic Testing Registry: X-linked Alport syndrome
+Genetic and Rare Diseases Information Center
+Alport syndrome
+Autosomal dominant Alport syndrome
+Autosomal recessive Alport syndrome
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ALPORT SYNDROME 3A, AUTOSOMAL DOMINANT; ATS3A
+ALPORT SYNDROME 1, X-LINKED; ATS1
+ALPORT SYNDROME 2, AUTOSOMAL RECESSIVE; ATS2
+Scientific Articles on PubMed
+PubMed
+References
+Gibson J, Fieldhouse R, Chan MMY, Sadeghi-Alavijeh O, Burnett L, Izzi V,
+Persikov AV, Gale DP, Storey H, Savige J; Genomics England Research Consortium.
+Prevalence Estimates of Predicted Pathogenic COL4A3-COL4A5 Variants in a
+Population Sequencing Database and Their Implications for Alport Syndrome. J Am
+Soc Nephrol. 2021 Sep;32(9):2273-2290. doi: 10.1681/ASN.2020071065. Epub 2021 Jun
+18.
+Citation on PubMed
+Gross O, Licht C, Anders HJ, Hoppe B, Beck B, Tonshoff B, Hocker B, Wygoda S,
+Ehrich JH, Pape L, Konrad M, Rascher W, Dotsch J, Muller-Wiefel DE, Hoyer P;
+Study Group Members of the Gesellschaft fur Padiatrische Nephrologie; Knebelmann
+B, Pirson Y, Grunfeld JP, Niaudet P, Cochat P, Heidet L, Lebbah S, Torra R,
+Friede T, Lange K, Muller GA, Weber M. Early angiotensin-converting enzyme
+inhibition in Alport syndrome delays renal failure and improves life expectancy.
+Kidney Int. 2012 Mar;81(5):494-501. doi: 10.1038/ki.2011.407. Epub 2011 Dec 14.
+Citation on PubMed
+Jais JP, Knebelmann B, Giatras I, De Marchi M, Rizzoni G, Renieri A, Weber M,
+Gross O, Netzer KO, Flinter F, Pirson Y, Dahan K, Wieslander J, Persson U,
+Tryggvason K, Martin P, Hertz JM, Schroder C, Sanak M, Carvalho MF, Saus J,
+Antignac C, Smeets H, Gubler MC. X-linked Alport syndrome: natural history and
+genotype-phenotype correlations in girls and women belonging to 195 families: a
+"European Community Alport Syndrome Concerted Action" study. J Am Soc Nephrol.
+2003 Oct;14(10):2603-10. doi: 10.1097/01.asn.0000090034.71205.74.
+Citation on PubMed
+Jais JP, Knebelmann B, Giatras I, Marchi M, Rizzoni G, Renieri A, Weber M,
+Gross O, Netzer KO, Flinter F, Pirson Y, Verellen C, Wieslander J, Persson U,
+Tryggvason K, Martin P, Hertz JM, Schroder C, Sanak M, Krejcova S, Carvalho MF,
+Saus J, Antignac C, Smeets H, Gubler MC. X-linked Alport syndrome: natural
+history in 195 families and genotype- phenotype correlations in males. J Am Soc
+Nephrol. 2000 Apr;11(4):649-657. doi: 10.1681/ASN.V114649.
+Citation on PubMed
+Kashtan CE, Gross O. Clinical practice recommendations for the diagnosis and
+management of Alport syndrome in children, adolescents, and young adults-an
+update for 2020. Pediatr Nephrol. 2021 Mar;36(3):711-719. doi:
+10.1007/s00467-020-04819-6. Epub 2020 Nov 6.
+Citation on PubMed
+Kashtan CE. Familial hematuria due to type IV collagen mutations: Alport
+syndrome and thin basement membrane nephropathy. Curr Opin Pediatr. 2004
+Apr;16(2):177-81. doi: 10.1097/00008480-200404000-00011.
+Citation on PubMed
+Kashtan CE. Familial hematurias: what we know and what we don't. Pediatr
+Nephrol. 2005 Aug;20(8):1027-35. doi: 10.1007/s00467-005-1859-z. Epub 2005 Apr
+27.
+Citation on PubMed
+Kruegel J, Rubel D, Gross O. Alport syndrome--insights from basic and clinical
+research. Nat Rev Nephrol. 2013 Mar;9(3):170-8. doi: 10.1038/nrneph.2012.259.
+Epub 2012 Nov 20.
+Citation on PubMed
+Moriniere V, Dahan K, Hilbert P, Lison M, Lebbah S, Topa A, Bole-Feysot C,
+Pruvost S, Nitschke P, Plaisier E, Knebelmann B, Macher MA, Noel LH, Gubler MC,
+Antignac C, Heidet L. Improving mutation screening in familial hematuric
+nephropathies through next generation sequencing. J Am Soc Nephrol. 2014
+Dec;25(12):2740-51. doi: 10.1681/ASN.2013080912. Epub 2014 May 22.
+Citation on PubMed
+Pescucci C, Longo I, Bruttini M, Mari F, Renieri A. Type-IV collagen related
+diseases. J Nephrol. 2003 Mar-Apr;16(2):314-6.
+Citation on PubMed
+Quinlan C, Rheault MN. Genetic Basis of Type IV Collagen Disorders of the
+Kidney. Clin J Am Soc Nephrol. 2021 Jul;16(7):1101-1109. doi:
+10.2215/CJN.19171220. Epub 2021 Apr 13.
+Citation on PubMed
+Slajpah M, Gorinsek B, Berginc G, Vizjak A, Ferluga D, Hvala A, Meglic A,
+Jaksa I, Furlan P, Gregoric A, Kaplan-Pavlovcic S, Ravnik-Glavac M, Glavac D.
+Sixteen novel mutations identified in COL4A3, COL4A4, and COL4A5 genes in
+Slovenian families with Alport syndrome and benign familial hematuria. Kidney
+Int. 2007 Jun;71(12):1287-95. doi: 10.1038/sj.ki.5002221. Epub 2007 Mar 28.
+Citation on PubMed
+Thorner PS. Alport syndrome and thin basement membrane nephropathy. Nephron
+Clin Pract. 2007;106(2):c82-8. doi: 10.1159/000101802. Epub 2007 Jun 6.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Kidney Diseases
+Kidney Failure
+MEDICAL ENCYCLOPEDIA
+Alport syndrome
+End-stage kidney disease
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

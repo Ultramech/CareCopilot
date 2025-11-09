@@ -1,0 +1,131 @@
+Thanatophoric dysplasia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Thanatophoric dysplasia
+URL of this page: https://medlineplus.gov/genetics/condition/thanatophoric-dysplasia/
+Thanatophoric dysplasia
+Description
+Thanatophoric dysplasia is a severe skeletal disorder characterized by extremely short limbs and folds of extra (redundant) skin on the arms and legs. Other features of this condition include a narrow chest, short ribs, underdeveloped lungs, and an enlarged head with a large forehead and prominent,
+wide-spaced eyes
+.
+Researchers have described two major forms of thanatophoric dysplasia, type I and type II. Type I thanatophoric dysplasia is distinguished by the presence of curved thigh bones and flattened bones of the spine (platyspondyly). Type II thanatophoric dysplasia is characterized by straight thigh bones and a moderate to severe skull abnormality called a
+cloverleaf skull
+.
+The term thanatophoric is Greek for "death bearing." Infants with thanatophoric dysplasia are usually stillborn or die shortly after birth from respiratory failure; however, a few affected individuals have survived into childhood with extensive medical help.
+Frequency
+This condition occurs in 1 in 20,000 to 50,000 newborns. Type I thanatophoric dysplasia is more common than type II.
+Causes
+Mutations in the
+FGFR3
+gene cause thanatophoric dysplasia. Both types of this condition result from mutations in the
+FGFR3
+gene. This gene provides instructions for making a protein that is involved in the development and maintenance of bone and brain tissue. Mutations in this gene cause the FGFR3 protein to be overly active, which leads to the severe disturbances in bone growth that are characteristic of thanatophoric dysplasia. It is not known how
+FGFR3
+mutations cause the brain and skin abnormalities associated with this disorder.
+Learn more about the gene associated with Thanatophoric dysplasia
+FGFR3
+Inheritance
+Thanatophoric dysplasia is considered an
+autosomal dominant
+disorder because one mutated copy of the
+FGFR3
+gene in each cell is sufficient to cause the condition. Virtually all cases of thanatophoric dysplasia are caused by new mutations in the
+FGFR3
+gene and occur in people with no history of the disorder in their family. No affected individuals are known to have had children; therefore, the disorder has not been passed to the next generation.
+Other Names for This Condition
+Dwarf, thanatophoric
+Thanatophoric dwarfism
+Thanatophoric short stature
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Thanatophoric dysplasia type 1
+Genetic Testing Registry: Thanatophoric dysplasia, type 2
+Genetic and Rare Diseases Information Center
+Thanatophoric dysplasia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+THANATOPHORIC DYSPLASIA, TYPE I; TD1
+THANATOPHORIC DYSPLASIA, TYPE II; TD2
+Scientific Articles on PubMed
+PubMed
+References
+Cohen MM Jr. Some chondrodysplasias with short limbs: molecular perspectives.
+Am J Med Genet. 2002 Oct 15;112(3):304-13. doi: 10.1002/ajmg.10780.
+Citation on PubMed
+Foldynova-Trantirkova S, Wilcox WR, Krejci P. Sixteen years and counting: the
+current understanding of fibroblast growth factor receptor 3 (FGFR3) signaling in
+skeletal dysplasias. Hum Mutat. 2012 Jan;33(1):29-41. doi: 10.1002/humu.21636.
+Epub 2011 Nov 16.
+Citation on PubMed
+or
+Free article on PubMed Central
+French T, Savarirayan R. Thanatophoric Dysplasia. 2004 May 21 [updated 2023
+May 18]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A,
+editors. GeneReviews(R) [Internet]. Seattle (WA): University of
+Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1366/
+Citation on PubMed
+Martinez-Frias ML, de Frutos CA, Bermejo E, Nieto MA; ECEMC Working Group.
+Review of the recently defined molecular mechanisms underlying thanatophoric
+dysplasia and their potential therapeutic implications for achondroplasia. Am J
+Med Genet A. 2010 Jan;152A(1):245-55. doi: 10.1002/ajmg.a.33188.
+Citation on PubMed
+Pannier S, Martinovic J, Heuertz S, Delezoide AL, Munnich A, Schibler L, Serre
+V, Legeai-Mallet L. Thanatophoric dysplasia caused by double missense FGFR3
+mutations. Am J Med Genet A. 2009 Jun;149A(6):1296-301. doi:
+10.1002/ajmg.a.32880.
+Citation on PubMed
+Vajo Z, Francomano CA, Wilkin DJ. The molecular and genetic basis of
+fibroblast growth factor receptor 3 disorders: the achondroplasia family of
+skeletal dysplasias, Muenke craniosynostosis, and Crouzon syndrome with
+acanthosis nigricans. Endocr Rev. 2000 Feb;21(1):23-39. doi:
+10.1210/edrv.21.1.0387.
+Citation on PubMed
+Waller DK, Correa A, Vo TM, Wang Y, Hobbs C, Langlois PH, Pearson K, Romitti
+PA, Shaw GM, Hecht JT. The population-based prevalence of achondroplasia and
+thanatophoric dysplasia in selected regions of the US. Am J Med Genet A. 2008 Sep
+15;146A(18):2385-9. doi: 10.1002/ajmg.a.32485.
+Citation on PubMed
+Related Health Topics
+Craniofacial Abnormalities
+Dwarfism
+Genetic Disorders
+Respiratory Failure
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

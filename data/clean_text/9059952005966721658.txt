@@ -1,0 +1,109 @@
+Familial male-limited precocious puberty: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Familial male-limited precocious puberty
+URL of this page: https://medlineplus.gov/genetics/condition/familial-male-limited-precocious-puberty/
+Familial male-limited precocious puberty
+Description
+Familial male-limited precocious puberty is a condition that causes early sexual maturity in males; females are not affected. Boys with this disorder begin exhibiting the signs of puberty in early childhood, between the ages of 2 and 5. Signs of male puberty include a deepening voice, acne, increased body hair, underarm odor, growth of the penis and testes, and spontaneous erections. Changes in behavior, such as increased aggression and early interest in sex, may also occur. Without treatment, affected boys grow quickly at first, but they stop growing earlier than usual. As a result, they tend to be shorter in adulthood compared with other members of their family.
+Frequency
+Familial male-limited precocious puberty is a rare disorder; its prevalence is unknown.
+Causes
+Familial male-limited precocious puberty can be caused by mutations in the
+LHCGR
+gene. This gene provides instructions for making a receptor protein called the luteinizing hormone/chorionic gonadotropin receptor. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. Together, ligands and their receptors trigger signals that affect cell development and function.
+The protein produced from the
+LHCGR
+gene acts as a receptor for two ligands: luteinizing hormone and a similar hormone called chorionic gonadotropin. The receptor allows the body to respond appropriately to these hormones. In males, chorionic gonadotropin stimulates the development of cells in the testes called Leydig cells, and luteinizing hormone triggers these cells to produce androgens. Androgens, including testosterone, are the hormones that control male sexual development and reproduction. In females, luteinizing hormone triggers the release of egg cells from the ovaries (ovulation); chorionic gonadotropin is produced during pregnancy and helps maintain conditions necessary for the pregnancy to continue.
+Certain
+LHCGR
+gene mutations result in a receptor protein that is constantly turned on (constitutively activated), even when not attached (bound) to luteinizing hormone or chorionic gonadotropin. In males, the overactive receptor causes excess production of testosterone, which triggers male sexual development and lead to early puberty in affected individuals. The overactive receptor has no apparent effect on females.
+Approximately 18 percent of individuals with familial male-limited precocious puberty have no identified
+LHCGR
+gene mutation. In these individuals, the cause of the disorder is unknown.
+Learn more about the gene associated with Familial male-limited precocious puberty
+LHCGR
+Inheritance
+This condition is inherited in an autosomal dominant, male-limited pattern, which means one copy of the altered
+LHCGR
+gene in each cell is sufficient to cause the disorder in males. Females with mutations associated with familial male-limited precocious puberty appear to be unaffected. In some cases, an affected male inherits the mutation from either his mother or his father. Other cases result from new mutations in the gene and occur in males with no history of the disorder in their family.
+Other Names for This Condition
+Familial gonadotrophin-independent sexual precocity
+GIPP
+Gonadotrophin-independent precocious puberty
+Precocious pseudopuberty
+Pubertas praecox
+Testotoxicosis
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Gonadotropin-independent familial sexual precocity
+Genetic and Rare Diseases Information Center
+Familial male-limited precocious puberty
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+PRECOCIOUS PUBERTY, MALE-LIMITED
+Scientific Articles on PubMed
+PubMed
+References
+Brito VN, Latronico AC, Arnhold IJ, Mendonca BB. Update on the etiology,
+diagnosis and therapeutic management of sexual precocity. Arq Bras Endocrinol
+Metabol. 2008 Feb;52(1):18-31. doi: 10.1590/s0004-27302008000100005.
+Citation on PubMed
+Chan WY. Disorders of sexual development caused by luteinizing hormone
+receptor mutations. Beijing Da Xue Xue Bao Yi Xue Ban. 2005 Feb 18;37(1):32-8.
+Citation on PubMed
+Soriano-Guillen L, Mitchell V, Carel JC, Barbet P, Roger M, Lahlou N.
+Activating mutations in the luteinizing hormone receptor gene: a human model of
+non-follicle-stimulating hormone-dependent inhibin production and germ cell
+maturation. J Clin Endocrinol Metab. 2006 Aug;91(8):3041-7. doi:
+10.1210/jc.2005-2564. Epub 2006 May 9.
+Citation on PubMed
+Themmen AP, Verhoef-Post M. LH receptor defects. Semin Reprod Med. 2002
+Aug;20(3):199-204. doi: 10.1055/s-2002-35384.
+Citation on PubMed
+Traggiai C, Stanhope R. Disorders of pubertal development. Best Pract Res Clin
+Obstet Gynaecol. 2003 Feb;17(1):41-56. doi: 10.1053/ybeog.2003.0360.
+Citation on PubMed
+Related Health Topics
+Endocrine Diseases
+Genetic Disorders
+Puberty
+MEDICAL ENCYCLOPEDIA
+Genetics
+Precocious puberty
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

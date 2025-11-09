@@ -1,0 +1,125 @@
+Weissenbacher-Zweymüller syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Weissenbacher-Zweymüller syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/weissenbacher-zweymuller-syndrome/
+Weissenbacher-Zweymüller syndrome
+Description
+Weissenbacher-Zweymüller syndrome is a condition that affects bone growth. It is characterized by skeletal abnormalities, hearing loss, and distinctive facial features. The features of this condition significantly overlap those of two similar conditions,
+otospondylomegaepiphyseal dysplasia
+(OSMED) and
+Stickler syndrome
+type III. All of these conditions are caused by mutations in the same gene, and in some cases, it can be difficult to tell them apart. Some researchers believe they represent a single disorder with a range of signs and symptoms.
+Infants born with Weissenbacher-Zweymüller syndrome are smaller than average because the bones in their arms and legs are unusually short. The thigh and upper arm bones are wider than usual at the ends (described as dumbbell-shaped), and the bones of the spine (
+vertebrae
+) may also be abnormally shaped. High-frequency hearing loss occurs in some cases. Distinctive facial features include wide-set
+protruding
+eyes, a small and
+upturned nose with a flat bridge
+, and a
+small lower jaw
+. Some affected infants are born with an opening in the roof of the mouth (a
+cleft palate
+).
+Most people with Weissenbacher-Zweymüller syndrome experience significant "catch-up" growth in the bones of the arms and legs during childhood. As a result, adults with this condition are not unusually short. However, affected adults still have other signs and symptoms of Weissenbacher-Zweymüller syndrome, including distinctive facial features and hearing loss.
+Frequency
+Weissenbacher-Zweymüller syndrome is very rare; only a few affected families worldwide have been described in the medical literature.
+Causes
+Weissenbacher-Zweymüller syndrome is caused by mutations in the
+COL11A2
+gene. This gene provides instructions for making one component of type XI collagen, which is a complex molecule that gives structure and strength to the
+connective tissues
+that support the body's joints and organs. Type XI collagen is found in cartilage, a tough but flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Type XI collagen is also part of the
+inner ear
+and the nucleus pulposus, which is the center portion of the discs between
+vertebrae
+.
+At least one mutation in the
+COL11A2
+gene can cause Weissenbacher-Zweymüller syndrome. This mutation disrupts the assembly of type XI collagen molecules. The defective collagen weakens connective tissues in many parts of the body, including the long bones, spine, and inner ears, which impairs bone development and underlies the other signs and symptoms of this condition. It is not well understood why "catch-up" bone growth occurs in childhood.
+Learn more about the gene associated with Weissenbacher-Zweymüller syndrome
+COL11A2
+Inheritance
+This condition is inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+Most cases of this condition result from a new (de novo) mutation in the gene that occurs during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+Other Names for This Condition
+Heterozygous OSMED
+Heterozygous otospondylomegaepiphyseal dysplasia
+Otospondylomegaepiphyseal dysplasia, autosomal dominant
+Pierre Robin syndrome with fetal chondrodysplasia
+WZS
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Otospondylomegaepiphyseal dysplasia, autosomal dominant
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+OTOSPONDYLOMEGAEPIPHYSEAL DYSPLASIA, AUTOSOMAL DOMINANT; OSMEDA
+Scientific Articles on PubMed
+PubMed
+References
+Chemke J, Carmi R, Galil A, Bar-Ziv Y, Ben-Ytzhak I, Zurkowski L.
+Weissenbacher-Zweymuller syndrome: a distinct autosomal recessive skeletal
+dysplasia. Am J Med Genet. 1992 Aug 1;43(6):989-95. doi: 10.1002/ajmg.1320430616.
+Citation on PubMed
+Galil A, Carmi R, Goldstein E, Porter B, Bar Ziv J, Chemke J.
+Weissenbacher-Zweymuller syndrome: long-term follow-up of growth and psychomotor
+development. Dev Med Child Neurol. 1991 Dec;33(12):1104-9. doi:
+10.1111/j.1469-8749.1991.tb14834.x.
+Citation on PubMed
+Harel T, Rabinowitz R, Hendler N, Galil A, Flusser H, Chemke J, Gradstein L,
+Lifshitz T, Ofir R, Elbedour K, Birk OS. COL11A2 mutation associated with
+autosomal recessive Weissenbacher-Zweymuller syndrome: molecular and clinical
+overlap with otospondylomegaepiphyseal dysplasia (OSMED). Am J Med Genet A. 2005
+Jan 1;132A(1):33-5. doi: 10.1002/ajmg.a.30371.
+Citation on PubMed
+Pihlajamaa T, Prockop DJ, Faber J, Winterpacht A, Zabel B, Giedion A,
+Wiesbauer P, Spranger J, Ala-Kokko L. Heterozygous glycine substitution in the
+COL11A2 gene in the original patient with the Weissenbacher-Zweymuller syndrome
+demonstrates its identity with heterozygous OSMED (nonocular Stickler syndrome).
+Am J Med Genet. 1998 Nov 2;80(2):115-20. doi:
+10.1002/(sici)1096-8628(19981102)80:23.0.co;2-o.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Bone Diseases
+Connective Tissue Disorders
+Genetic Disorders
+Hearing Disorders and Deafness
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

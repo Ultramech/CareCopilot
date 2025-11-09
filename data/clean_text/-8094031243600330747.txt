@@ -1,0 +1,137 @@
+Autosomal dominant hypocalcemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Autosomal dominant hypocalcemia
+URL of this page: https://medlineplus.gov/genetics/condition/autosomal-dominant-hypocalcemia/
+Autosomal dominant hypocalcemia
+Description
+Autosomal dominant hypocalcemia is characterized by low levels of calcium in the blood (hypocalcemia). Affected individuals can have an imbalance of other molecules in the blood as well, including too much phosphate (hyperphosphatemia) or too little magnesium (hypomagnesemia). Some people with autosomal dominant hypocalcemia also have low levels of a hormone called parathyroid hormone (hypoparathyroidism). This hormone is involved in the regulation of calcium levels in the blood. Abnormal levels of calcium and other molecules in the body can lead to a variety of signs and symptoms, although about half of affected individuals have no associated health problems.
+The most common features of autosomal dominant hypocalcemia include muscle spasms in the hands and feet (carpopedal spasms) and muscle cramping, prickling or tingling sensations (paresthesias), or twitching of the nerves and muscles (neuromuscular irritability) in various parts of the body. More severely affected individuals develop seizures, usually in infancy or childhood. Sometimes, these symptoms occur only during episodes of illness or fever.
+Some people with autosomal dominant hypocalcemia have high levels of calcium in their urine (hypercalciuria), which can lead to deposits of calcium in the kidneys (nephrocalcinosis) or the formation of
+kidney stones
+(nephrolithiasis). These conditions can damage the kidneys and impair their function. Sometimes, abnormal deposits of calcium form in the brain, typically in structures called basal ganglia, which help control movement.
+A small percentage of severely affected individuals have features of a kidney disorder called
+Bartter syndrome
+in addition to hypocalcemia. These features can include a shortage of potassium (hypokalemia) and magnesium and a buildup of the hormone aldosterone (hyperaldosteronism) in the blood. The abnormal balance of molecules can raise the pH of the blood, which is known as metabolic alkalosis. The combination of features of these two conditions is sometimes referred to as autosomal dominant hypocalcemia with Bartter syndrome or Bartter syndrome type V.
+There are two types of autosomal dominant hypocalcemia distinguished by their genetic cause. The signs and symptoms of the two types are generally the same.
+Frequency
+The prevalence of autosomal dominant hypocalcemia is unknown. The condition is likely underdiagnosed because it often causes no signs or symptoms.
+Causes
+Autosomal dominant hypocalcemia is primarily caused by mutations in the
+CASR
+gene; these cases are known as type 1. A small percentage of cases, known as type 2, are caused by mutations in the
+GNA11
+gene. The proteins produced from these genes work together to regulate the amount of calcium in the blood.
+The
+CASR
+gene provides instructions for making a protein called the calcium-sensing receptor (CaSR). Calcium molecules attach (bind) to the CaSR protein, which allows this protein to monitor and regulate the amount of calcium in the blood. Gα
+11
+, which is produced from the
+GNA11
+gene, is one component of a signaling protein that works in conjunction with CaSR. When a certain concentration of calcium is reached, CaSR stimulates Gα
+11
+to send signals to block processes that increase the amount of calcium in the blood.
+Mutations in the
+CASR
+or
+GNA11
+gene lead to overactivity of the respective protein. The altered CaSR protein is more sensitive to calcium, meaning even low levels of calcium can trigger it to stimulate Gα
+11
+signaling. Similarly, the altered Gα
+11
+protein continues to send signals to prevent calcium increases, even when levels in the blood are very low. As a result, calcium levels in the blood remain low, causing hypocalcemia. Calcium plays an important role in the control of muscle movement, and a shortage of this molecule can lead to cramping or twitching of the muscles. Impairment of the processes that increase calcium can also disrupt the normal regulation of other molecules, such as phosphate and magnesium, leading to other signs of autosomal dominant hypocalcemia. Studies show that the lower the amount of calcium in the blood, the more severe the symptoms of the condition are.
+Learn more about the genes associated with Autosomal dominant hypocalcemia
+CASR
+GNA11
+Inheritance
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+In most cases, an affected person inherits the mutation from
+one affected parent
+. A small number of cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+Other Names for This Condition
+ADH
+Autosomal dominant hypoparathyroidism
+Familial hypercalciuric hypocalcemia
+Familial hypocalcemia
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Autosomal dominant hypocalcemia
+Genetic and Rare Diseases Information Center
+Autosomal dominant hypocalcemia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+HYPOCALCEMIA, AUTOSOMAL DOMINANT 1; HYPOC1
+HYPOCALCEMIA, AUTOSOMAL DOMINANT 2; HYPOC2
+Scientific Articles on PubMed
+PubMed
+References
+Kinoshita Y, Hori M, Taguchi M, Watanabe S, Fukumoto S. Functional activities
+of mutant calcium-sensing receptors determine clinical presentations in patients
+with autosomal dominant hypocalcemia. J Clin Endocrinol Metab. 2014
+Feb;99(2):E363-8. doi: 10.1210/jc.2013-3430. Epub 2013 Dec 2.
+Citation on PubMed
+Nesbit MA, Hannan FM, Howles SA, Babinsky VN, Head RA, Cranston T, Rust N,
+Hobbs MR, Heath H 3rd, Thakker RV. Mutations affecting G-protein subunit alpha11 in
+hypercalcemia and hypocalcemia. N Engl J Med. 2013 Jun 27;368(26):2476-2486. doi:
+10.1056/NEJMoa1300253.
+Citation on PubMed
+or
+Free article on PubMed Central
+Raue F, Pichl J, Dorr HG, Schnabel D, Heidemann P, Hammersen G, Jaursch-Hancke
+C, Santen R, Schofl C, Wabitsch M, Haag C, Schulze E, Frank-Raue K. Activating
+mutations in the calcium-sensing receptor: genetic and clinical spectrum in 25
+patients with autosomal dominant hypocalcaemia - a German survey. Clin Endocrinol
+(Oxf). 2011 Dec;75(6):760-5. doi: 10.1111/j.1365-2265.2011.04142.x.
+Citation on PubMed
+Thim SB, Birkebaek NH, Nissen PH, Host C. Activating calcium-sensing receptor
+gene variants in children: a case study of infant hypocalcaemia and literature
+review. Acta Paediatr. 2014 Nov;103(11):1117-25. doi: 10.1111/apa.12743. Epub
+2014 Aug 24.
+Citation on PubMed
+Related Health Topics
+Calcium
+Fluid and Electrolyte Balance
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Hand or foot spasms
+Hypoparathyroidism
+Seizures
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

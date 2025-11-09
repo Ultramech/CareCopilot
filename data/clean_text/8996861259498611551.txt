@@ -1,0 +1,140 @@
+Isolated ectopia lentis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Isolated ectopia lentis
+URL of this page: https://medlineplus.gov/genetics/condition/isolated-ectopia-lentis/
+Isolated ectopia lentis
+Description
+Isolated ectopia lentis is a condition that affects the eyes, specifically the positioning of the lens. The lens is a clear structure at
+the front of the eye
+that helps focus light. In people with isolated ectopia lentis, the lens in one or both eyes is not centrally positioned as it should be but is off-center (displaced). Isolated ectopia lentis usually becomes apparent in childhood. The lens may drift further off-center over time.
+Vision problems
+are common in isolated ectopia lentis. Affected individuals often have
+nearsightedness
+(myopia) and can have an irregular curvature of the lens or a structure that covers the front of the eye (the cornea), which causes blurred vision (astigmatism). They may also develop clouding of the lenses (
+cataracts
+) or increased pressure in the eyes (
+glaucoma
+) at an earlier age than other adults. In a small number of people with isolated ectopia lentis, tearing of the back lining of the eye (
+retinal detachment
+) occurs, which can lead to further vision problems and possible blindness.
+In individuals with isolated ectopia lentis, each eye can be affected differently. In addition, the eye problems vary among affected individuals, even those within the same family.
+Ectopia lentis is classified as isolated when it occurs alone without signs and symptoms affecting other body systems. Ectopia lentis can also be classified as syndromic, when it is part of a syndrome that affects multiple parts of the body. Ectopia lentis is a common feature of genetic syndromes such as
+Marfan syndrome
+and
+Weill-Marchesani syndrome
+.
+Frequency
+The prevalence of isolated ectopia lentis is unknown. In Denmark, an estimated 6.4 per 100,000 individuals have ectopia lentis, but a large proportion of these cases (about 75 percent) are syndromic.
+Causes
+Mutations in the
+FBN1
+or
+ADAMTSL4
+gene cause isolated ectopia lentis. These genes provide instructions for making proteins that are necessary for the formation of threadlike filaments called microfibrils. Microfibrils provide support to many tissues, including the lenses of the eyes, which are held in position by these filaments.
+Mutations in the
+FBN1
+or
+ADAMTSL4
+gene impair protein function and lead to a decrease in microfibril formation or result in the formation of impaired microfibrils. Without functional microfibrils to anchor the lens in its central position at the front of the eye, the lens becomes displaced. The displaced lens cannot focus light correctly, contributing to the vision problems that are common in people with isolated ectopia lentis.
+Learn more about the genes associated with Isolated ectopia lentis
+ADAMTSL4
+FBN1
+Inheritance
+When isolated ectopia lentis is caused by mutations in the
+FBN1
+gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from
+one affected parent
+. Other cases result from
+new mutations
+in the gene and occur in people with no history of the disorder in their family.
+When isolated ectopia lentis is caused by mutations in the
+ADAMTSL4
+gene, it is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Congenital ectopia lentis
+Ectopia lentis
+Lens subluxation
+Subluxation of lens
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Ectopia lentis 2, isolated, autosomal recessive
+Genetic Testing Registry: Ectopia lentis 1, isolated, autosomal dominant
+Genetic and Rare Diseases Information Center
+Isolated ectopia lentis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+ECTOPIA LENTIS 1, ISOLATED, AUTOSOMAL DOMINANT; ECTOL1
+ECTOPIA LENTIS 2, ISOLATED, AUTOSOMAL RECESSIVE; ECTOL2
+Scientific Articles on PubMed
+PubMed
+References
+Chandra A, Aragon-Martin JA, Hughes K, Gati S, Reddy MA, Deshpande C, Cormack
+G, Child AH, Charteris DG, Arno G. A genotype-phenotype comparison of ADAMTSL4
+and FBN1 in isolated ectopia lentis. Invest Ophthalmol Vis Sci. 2012 Jul
+24;53(8):4889-96. doi: 10.1167/iovs.12-9874.
+Citation on PubMed
+Chandra A, Patel D, Aragon-Martin JA, Pinard A, Collod-Beroud G, Comeglio P,
+Boileau C, Faivre L, Charteris D, Child AH, Arno G. The revised ghent nosology;
+reclassifying isolated ectopia lentis. Clin Genet. 2015 Mar;87(3):284-7. doi:
+10.1111/cge.12358. Epub 2014 Mar 6.
+Citation on PubMed
+Faivre L, Collod-Beroud G, Callewaert B, Child A, Loeys BL, Binquet C, Gautier
+E, Arbustini E, Mayer K, Arslan-Kirchner M, Kiotsekoglou A, Comeglio P, Grasso M,
+Beroud C, Bonithon-Kopp C, Claustres M, Stheneur C, Bouchot O, Wolf JE, Robinson
+PN, Ades L, De Backer J, Coucke P, Francke U, De Paepe A, Boileau C, Jondeau G.
+Pathogenic FBN1 mutations in 146 adults not meeting clinical diagnostic criteria
+for Marfan syndrome: further delineation of type 1 fibrillinopathies and focus on
+patients with an isolated major criterion. Am J Med Genet A. 2009
+May;149A(5):854-60. doi: 10.1002/ajmg.a.32809.
+Citation on PubMed
+Fuchs J, Rosenberg T. Congenital ectopia lentis. A Danish national survey.
+Acta Ophthalmol Scand. 1998 Feb;76(1):20-6. doi:
+10.1034/j.1600-0420.1998.760105.x.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Cataract
+Eye Diseases
+Genetic Disorders
+Glaucoma
+Refractive Errors
+MEDICAL ENCYCLOPEDIA
+Cataract (Image)
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

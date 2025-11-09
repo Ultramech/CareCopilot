@@ -1,0 +1,170 @@
+Generalized arterial calcification of infancy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Generalized arterial calcification of infancy
+URL of this page: https://medlineplus.gov/genetics/condition/generalized-arterial-calcification-of-infancy/
+Generalized arterial calcification of infancy
+Description
+Generalized arterial calcification of infancy (GACI) is a disorder affecting the circulatory system that becomes apparent before birth or within the first few months of life. It is characterized by abnormal accumulation of the mineral calcium (calcification) in the walls of the blood vessels that carry blood from the
+heart
+to the rest of the body (the
+arteries
+). This calcification often occurs along with thickening of the lining of the arterial walls (the intima). These changes lead to narrowing (stenosis) and stiffness of the arteries, which forces the heart to work harder to pump blood. As a result, heart failure may develop in affected individuals, with signs and symptoms including difficulty breathing, accumulation of fluid (
+edema
+) in the extremities, a bluish appearance of the skin or lips (cyanosis), severe high blood pressure (
+hypertension
+), and an enlarged heart (cardiomegaly).
+People with GACI may also have calcification in other organs and tissues, particularly around the joints. In addition, they may have hearing loss or softening and weakening of the bones (
+rickets
+).
+Some individuals with GACI also develop features similar to those of another disorder called
+pseudoxanthoma elasticum
+(PXE). PXE is characterized by the accumulation of calcium and other minerals (mineralization) in elastic fibers, which are a component of connective tissue. Connective tissue provides strength and flexibility to structures throughout the body. Features characteristic of PXE that also occur in GACI include yellowish bumps called papules on the underarms and other areas of skin that touch when a joint bends (flexor areas); and abnormalities called angioid streaks affecting tissue at the back of the eye, which can be detected during an eye examination.
+As a result of the cardiovascular problems associated with GACI, individuals with this condition often do not survive past infancy, with death typically caused by a heart attack or stroke. However, affected individuals who survive their first six months, known as the critical period, can live into adolescence or early adulthood.
+Frequency
+The prevalence of GACI has been estimated to be about 1 in 391,000. At least 200 affected individuals have been described in the medical literature.
+Causes
+In about two-thirds of cases, GACI is caused by mutations in the
+ENPP1
+gene. This gene provides instructions for making a protein that helps break down a molecule called adenosine triphosphate (ATP), specifically when it is found outside the cell (extracellular). Extracellular ATP is quickly broken down into other molecules called adenosine monophosphate (AMP) and pyrophosphate. Pyrophosphate is important in controlling calcification and other mineralization in the body. Mutations in the
+ENPP1
+gene are thought to result in reduced availability of pyrophosphate, leading to excessive calcification in the body and causing the signs and symptoms of GACI.
+GACI can also be caused by mutations in the
+ABCC6
+gene. This gene provides instructions for making a protein called MRP6, also known as the ABCC6 protein. This protein is found primarily in the liver and kidneys, with small amounts in other tissues such as the skin, stomach, blood vessels, and eyes.
+MRP6 is thought to transport certain substances across the cell membrane; however, the substances have not been identified. Some studies suggest that the MRP6 protein stimulates the release of ATP from cells through an unknown mechanism, allowing it to be broken down into AMP and pyrophosphate and helping to control deposition of calcium and other minerals in the body as described above. Other studies suggest that a substance transported by MRP6 is involved in the breakdown of ATP. This unidentified substance is thought to help prevent mineralization of tissues.
+Mutations in the
+ABCC6
+gene lead to an absent or nonfunctional MRP6 protein. It is unclear how a lack of properly functioning MRP6 protein leads to GACI. This shortage may impair the release of ATP from cells. As a result, little pyrophosphate is produced, and calcium accumulates in the blood vessels and other tissues affected by GACI. Alternatively, a lack of functioning MRP6 may impair the transport of a substance that would normally prevent mineralization, leading to the abnormal accumulation of calcium characteristic of GACI.
+Some people with GACI do not have mutations in the
+ENPP1
+or
+ABCC6
+gene. In these affected individuals, the cause of the disorder is unknown.
+Learn more about the genes associated with Generalized arterial calcification of infancy
+ABCC6
+ENPP1
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Arteriopathia calcificans infantum
+Diffuse arterial calcifying elastopathy of infancy
+GACI
+Idiopathic infantile arterial calcification
+Idiopathic obliterative arteriopathy
+IIAC
+Infantile calcifying arteriopathy
+Medial coronary sclerosis of infancy
+Occlusive infantile arteriopathy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Arterial calcification, generalized, of infancy, 2
+Genetic and Rare Diseases Information Center
+Generalized arterial calcification of infancy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+ARTERIAL CALCIFICATION, GENERALIZED, OF INFANCY, 1; GACI1
+ARTERIAL CALCIFICATION, GENERALIZED, OF INFANCY, 2; GACI2
+Scientific Articles on PubMed
+PubMed
+References
+Ciana G, Trappan A, Bembi B, Benettoni A, Maso G, Zennaro F, Ruf N, Schnabel
+D, Rutsch F. Generalized arterial calcification of infancy: two siblings with
+prolonged survival. Eur J Pediatr. 2006 Apr;165(4):258-63. doi:
+10.1007/s00431-005-0035-6. Epub 2005 Nov 29.
+Citation on PubMed
+Galletti S, Nitschke Y, Malavolti AM, Aquilano G, Faldella G, Corvaglia L,
+Rutsch F. Generalized Arterial Calcification of Infancy: Fatal Clinical Course
+Associated with a Novel Mutation in ENPP1. JIMD Rep. 2011;1:23-7. doi:
+10.1007/8904_2011_11. Epub 2011 Jun 25.
+Citation on PubMed
+or
+Free article on PubMed Central
+Kalal IG, Seetha D, Panda A, Nitschke Y, Rutsch F. Molecular diagnosis of
+generalized arterial calcification of infancy (GACI). J Cardiovasc Dis Res. 2012
+Apr;3(2):150-4. doi: 10.4103/0975-3583.95373.
+Citation on PubMed
+or
+Free article on PubMed Central
+Karthikeyan G. Generalized arterial calcification of infancy. J Pediatr. 2013
+May;162(5):1074.e1. doi: 10.1016/j.jpeds.2012.11.015. Epub 2012 Dec 12. No
+abstract available.
+Citation on PubMed
+Li Q, Brodsky JL, Conlin LK, Pawel B, Glatz AC, Gafni RI, Schurgers L, Uitto
+J, Hakonarson H, Deardorff MA, Levine MA. Mutations in the ABCC6 gene as a cause
+of generalized arterial calcification of infancy: genotypic overlap with
+pseudoxanthoma elasticum. J Invest Dermatol. 2014 Mar;134(3):658-665. doi:
+10.1038/jid.2013.370. Epub 2013 Sep 5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Nitschke Y, Baujat G, Botschen U, Wittkampf T, du Moulin M, Stella J, Le
+Merrer M, Guest G, Lambot K, Tazarourte-Pinturier MF, Chassaing N, Roche O,
+Feenstra I, Loechner K, Deshpande C, Garber SJ, Chikarmane R, Steinmann B,
+Shahinyan T, Martorell L, Davies J, Smith WE, Kahler SG, McCulloch M, Wraige E,
+Loidi L, Hohne W, Martin L, Hadj-Rabia S, Terkeltaub R, Rutsch F. Generalized
+arterial calcification of infancy and pseudoxanthoma elasticum can be caused by
+mutations in either ENPP1 or ABCC6. Am J Hum Genet. 2012 Jan 13;90(1):25-39. doi:
+10.1016/j.ajhg.2011.11.020. Epub 2011 Dec 29.
+Citation on PubMed
+or
+Free article on PubMed Central
+Ruf N, Uhlenberg B, Terkeltaub R, Nurnberg P, Rutsch F. The mutational
+spectrum of ENPP1 as arising after the analysis of 23 unrelated patients with
+generalized arterial calcification of infancy (GACI). Hum Mutat. 2005
+Jan;25(1):98. doi: 10.1002/humu.9297.
+Citation on PubMed
+Ziegler SG, Gahl WA, Ferreira CR. Generalized Arterial Calcification of
+Infancy. 2014 Nov 13 [updated 2020 Dec 30]. In: Adam MP, Feldman J, Mirzaa GM,
+Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK253403/
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Vascular Diseases
+MEDICAL ENCYCLOPEDIA
+Calcification
+Genetics
+Rickets
+Related Medical Tests
+Calcium Blood Test
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

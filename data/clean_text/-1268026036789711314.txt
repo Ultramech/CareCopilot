@@ -1,0 +1,174 @@
+PDGFRB-associated chronic eosinophilic leukemia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+PDGFRB-associated chronic eosinophilic leukemia
+URL of this page: https://medlineplus.gov/genetics/condition/pdgfrb-associated-chronic-eosinophilic-leukemia/
+PDGFRB-associated chronic eosinophilic leukemia
+Description
+PDGFRB
+-associated chronic eosinophilic leukemia is a type of cancer of blood-forming cells. It is characterized by an elevated number of
+white blood cells
+called eosinophils in the blood. These cells help fight infections by certain parasites and are involved in the inflammation associated with allergic reactions. However, these circumstances do not account for the increased number of eosinophils in
+PDGFRB
+-associated chronic eosinophilic leukemia. Some people with this condition have an increased number of other types of white blood cells, such as neutrophils or mast cells, in addition to eosinophils. People with this condition can have an enlarged spleen (splenomegaly) or enlarged liver (hepatomegaly). Some affected individuals develop skin rashes, likely as a result of an abnormal immune response due to the increased number of eosinophils.
+Frequency
+The exact prevalence of
+PDGFRB
+-associated chronic eosinophilic leukemia is unknown. For unknown reasons, males are up to nine times more likely than females to develop
+PDGFRB
+-associated chronic eosinophilic leukemia.
+Causes
+PDGFRB
+-associated chronic eosinophilic leukemia is caused by genetic rearrangements that join part of the
+PDGFRB
+gene with part of another gene. At least 20 genes have been found that fuse with the
+PDGFRB
+gene to cause
+PDGFRB
+-associated chronic eosinophilic leukemia. The most common genetic abnormality in this condition results from a rearrangement (translocation) of genetic material that brings part of the
+PDGFRB
+gene on
+chromosome 5
+together with part of the
+ETV6
+gene on
+chromosome 12
+, creating the
+ETV6
+-
+PDGFRB
+fusion gene.
+The
+PDGFRB
+gene provides instructions for making a protein that plays a role in turning on (activating) signaling pathways that control many cell processes, including cell growth and division (proliferation). The
+ETV6
+gene provides instructions for making a protein that turns off (represses) gene activity. This protein is important in development before birth and in regulating
+blood cell formation
+. The protein produced from the
+ETV6
+-
+PDGFRB
+fusion gene, called ETV6/PDGFRβ, functions differently than the proteins normally produced from the individual genes. Like the normal PDGFRβ protein, the ETV6/PDGFRβ fusion protein turns on signaling pathways. However, the fusion protein does not need to be turned on to be active, so the signaling pathways are constantly turned on (constitutively activated). The fusion protein is unable to repress gene activity regulated by the normal ETV6 protein, so gene activity is increased. The constitutively active signaling pathways and abnormal gene activity increase the proliferation and survival of cells.
+When the
+ETV6
+-
+PDGFRB
+fusion gene variant (also known as a mutation) occurs in cells that develop into blood cells, the growth of eosinophils (and occasionally other blood cells, such as neutrophils and mast cells) is poorly controlled, leading to
+PDGFRB
+-associated chronic eosinophilic leukemia. It is unclear why eosinophils are preferentially affected by this genetic change.
+Learn more about the genes and chromosomes associated with PDGFRB-associated chronic eosinophilic leukemia
+ETV6
+PDGFRB
+chromosome 12
+chromosome 5
+Inheritance
+PDGFRB
+-associated chronic eosinophilic leukemia is not inherited and occurs in people with no history of the condition in their families. Chromosomal rearrangements that lead to a
+PDGFRB
+fusion gene are somatic variants, which are variants acquired during a person's lifetime and present only in certain cells. The somatic variant occurs initially in a single cell, which continues to grow and divide, producing a group of cells with the same variant (a clonal population).
+Other Names for This Condition
+Chronic myelomonocytic leukemia with eosinophilia associated with t(5;12)
+Myeloid neoplasms associated with PDGFRB rearrangement
+Myeloid neoplasms with PDGFRB rearrangement
+Myeloid/lymphoid neoplasms with PDGFRB rearrangement
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Myeloproliferative disorder, chronic, with eosinophilia
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+MYELOPROLIFERATIVE DISORDER, CHRONIC, WITH EOSINOPHILIA
+Scientific Articles on PubMed
+PubMed
+References
+Apperley JF, Gardembas M, Melo JV, Russell-Jones R, Bain BJ, Baxter EJ, Chase
+A, Chessells JM, Colombat M, Dearden CE, Dimitrijevic S, Mahon FX, Marin D,
+Nikolova Z, Olavarria E, Silberman S, Schultheis B, Cross NC, Goldman JM.
+Response to imatinib mesylate in patients with chronic myeloproliferative
+diseases with rearrangements of the platelet-derived growth factor receptor beta.
+N Engl J Med. 2002 Aug 15;347(7):481-7. doi: 10.1056/NEJMoa020150.
+Citation on PubMed
+Arefi M, Garcia JL, Penarrubia MJ, Queizan JA, Hermosin L, Lopez-Corral L,
+Megido M, Giraldo P, de las Heras N, Vanegas RJ, Gutierrez NC, Hernandez-Rivas
+JM. Incidence and clinical characteristics of myeloproliferative neoplasms
+displaying a PDGFRB rearrangement. Eur J Haematol. 2012 Jul;89(1):37-41. doi:
+10.1111/j.1600-0609.2012.01799.x.
+Citation on PubMed
+Chang H, Chuang WY, Sun CF, Barnard MR. Concurrent acute myeloid leukemia and
+T lymphoblastic lymphoma in a patient with rearranged PDGFRB genes. Diagn Pathol.
+2012 Feb 22;7:19. doi: 10.1186/1746-1596-7-19.
+Citation on PubMed
+or
+Free article on PubMed Central
+Cross NC, Reiter A. Fibroblast growth factor receptor and platelet-derived
+growth factor receptor abnormalities in eosinophilic myeloproliferative
+disorders. Acta Haematol. 2008;119(4):199-206. doi: 10.1159/000140631. Epub 2008
+Jun 20.
+Citation on PubMed
+Galimberti S, Ferreri MI, Simi P, Azzara A, Barate C, Fazzi R, Cecconi N,
+Cervetti G, Guerrini F, Petrini M. Platelet-derived growth factor beta receptor
+(PDGFRB) gene is rearranged in a significant percentage of myelodysplastic
+syndromes with normal karyotype. Br J Haematol. 2009 Dec;147(5):763-6. doi:
+10.1111/j.1365-2141.2009.07878.x. Epub 2009 Sep 16. No abstract available.
+Citation on PubMed
+Gotlib J. Eosinophilic myeloid disorders: new classification and novel
+therapeutic strategies. Curr Opin Hematol. 2010 Mar;17(2):117-24. doi:
+10.1097/MOH.0b013e3283366c70.
+Citation on PubMed
+Gotlib J. World Health Organization-defined eosinophilic disorders: 2012
+update on diagnosis, risk stratification, and management. Am J Hematol. 2012
+Sep;87(9):903-14. doi: 10.1002/ajh.23293.
+Citation on PubMed
+Haferlach C, Bacher U, Schnittger S, Alpermann T, Zenger M, Kern W, Haferlach
+T. ETV6 rearrangements are recurrent in myeloid malignancies and are frequently
+associated with other genetic events. Genes Chromosomes Cancer. 2012
+Apr;51(4):328-37. doi: 10.1002/gcc.21918. Epub 2011 Dec 8.
+Citation on PubMed
+Noel P. Eosinophilic myeloid disorders. Semin Hematol. 2012 Apr;49(2):120-7.
+doi: 10.1053/j.seminhematol.2012.01.008.
+Citation on PubMed
+Zhou MH, Gao L, Jing Y, Xu YY, Ding Y, Wang N, Wang W, Li MY, Han XP, Sun JZ,
+Wang LL, Yu L. Detection of ETV6 gene rearrangements in adult acute lymphoblastic
+leukemia. Ann Hematol. 2012 Aug;91(8):1235-43. doi: 10.1007/s00277-012-1431-4.
+Epub 2012 Feb 29.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Eosinophilic Disorders
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Eosinophil count - absolute
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

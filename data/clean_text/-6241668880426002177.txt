@@ -1,0 +1,145 @@
+Cyclic vomiting syndrome: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Cyclic vomiting syndrome
+URL of this page: https://medlineplus.gov/genetics/condition/cyclic-vomiting-syndrome/
+Cyclic vomiting syndrome
+Description
+Cyclic vomiting syndrome is a disorder that causes recurrent episodes of nausea, vomiting, and tiredness (lethargy). This condition is diagnosed most often in young children, but it can affect people of any age.
+The episodes of nausea, vomiting, and lethargy last anywhere from an hour to 10 days. An affected person may vomit several times per hour, potentially leading to a dangerous loss of fluids (dehydration). Additional symptoms can include unusually pale skin (pallor), abdominal pain, diarrhea, headache, fever, and an increased sensitivity to light (photophobia) or to sound (phonophobia). In most affected people, the signs and symptoms of each attack are quite similar. These attacks can be debilitating, making it difficult for an affected person to go to work or school.
+Episodes of nausea, vomiting, and lethargy can occur regularly or apparently at random, or can be triggered by a variety of factors. The most common triggers are emotional excitement and infections. Other triggers can include periods without eating (fasting), temperature extremes, lack of sleep, overexertion, allergies, ingesting certain foods or alcohol, and menstruation.
+If the condition is not treated, episodes usually occur four to 12 times per year. Between attacks, vomiting is absent, and nausea is either absent or much reduced. However, many affected people experience other symptoms during and between episodes, including pain, lethargy, digestive disorders such as gastroesophageal reflux and irritable bowel syndrome, and fainting spells (syncope). People with cyclic vomiting syndrome are also more likely than people without the disorder to experience
+depression
+, anxiety, and panic disorder. It is unclear whether these health conditions are directly related to nausea and vomiting.
+Cyclic vomiting syndrome is often considered to be a variant of
+migraine
+s, which are severe headaches often associated with pain, nausea, vomiting, and extreme sensitivity to light and sound. Cyclic vomiting syndrome is likely the same as or closely related to a condition called abdominal migraine, which is characterized by attacks of stomach pain and cramping. Attacks of nausea, vomiting, or abdominal pain in childhood may be replaced by migraine headaches as an affected person gets older. Many people with cyclic vomiting syndrome or abdominal migraine have a family history of migraines.
+Most people with cyclic vomiting syndrome have normal intelligence, although some affected people have developmental delay or intellectual disability.
+Autism spectrum disorder
+, which affects communication and social interaction, have also been associated with cyclic vomiting syndrome. Additionally, muscle weakness (myopathy) and seizures are possible. People with any of these additional features are said to have cyclic vomiting syndrome plus.
+Frequency
+The exact prevalence of cyclic vomiting syndrome is unknown; estimates range from 4 to 2,000 per 100,000 children. The condition is diagnosed less frequently in adults, although recent studies suggest that the condition may begin in adulthood as commonly as it begins in childhood.
+Causes
+Although the causes of cyclic vomiting syndrome have yet to be determined, researchers have proposed several factors that may contribute to the disorder. These factors include changes in brain function, hormonal abnormalities, and gastrointestinal problems. Many researchers believe that cyclic vomiting syndrome is a migraine-like condition, which suggests that it is related to
+changes in signaling between nerve cells
+(neurons) in certain areas of the brain. Many affected individuals have abnormalities of the autonomic nervous system, which controls involuntary body functions such as heart rate, blood pressure, and digestion. Based on these abnormalities, cyclic vomiting syndrome is often classified as a type of dysautonomia.
+Some cases of cyclic vomiting syndrome, particularly those that begin in childhood, may be related to changes in
+mitochondrial DNA
+.
+Mitochondria
+are structures within cells that convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA (known as mitochondrial DNA or mtDNA).
+Several changes in mitochondrial DNA have been associated with cyclic vomiting syndrome. Some of these changes alter single DNA building blocks (nucleotides), whereas others rearrange larger segments of mitochondrial DNA. These changes likely impair the ability of mitochondria to produce energy. Researchers speculate that the impaired mitochondria may cause certain cells of the autonomic nervous system to malfunction, which could affect the digestive system. However, it remains unclear how changes in mitochondrial function could cause episodes of nausea, vomiting, and lethargy; abdominal pain; or migraines in people with this condition.
+Learn more about the chromosome associated with Cyclic vomiting syndrome
+mitochondrial dna
+Inheritance
+In most cases of cyclic vomiting syndrome, affected people have no known history of the disorder in their family. However, many affected individuals have a family history of related conditions, such as migraines, irritable bowel syndrome, or depression, in their mothers and other maternal relatives. This family history suggests an inheritance pattern known as
+maternal inheritance or mitochondrial inheritance
+, which applies to genes contained in
+mtDNA
+. Because egg cells, but not sperm cells, contribute
+mitochondria
+to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.
+Occasionally, people with cyclic vomiting syndrome have a family history of the disorder that does not follow maternal inheritance. In these cases, the inheritance pattern is unknown.
+Other Names for This Condition
+Abdominal migraine
+CVS
+Cyclical vomiting
+Cyclical vomiting syndrome
+Periodic vomiting
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+CYCLIC VOMITING SYNDROME; CVS
+Scientific Articles on PubMed
+PubMed
+References
+Abell TL, Adams KA, Boles RG, Bousvaros A, Chong SK, Fleisher DR, Hasler WL,
+Hyman PE, Issenman RM, Li BU, Linder SL, Mayer EA, McCallum RW, Olden K, Parkman
+HP, Rudolph CD, Tache Y, Tarbell S, Vakil N. Cyclic vomiting syndrome in adults.
+Neurogastroenterol Motil. 2008 Apr;20(4):269-84. doi:
+10.1111/j.1365-2982.2008.01113.x.
+Citation on PubMed
+Boles RG, Adams K, Li BU. Maternal inheritance in cyclic vomiting syndrome. Am
+J Med Genet A. 2005 Feb 15;133A(1):71-7. doi: 10.1002/ajmg.a.30524.
+Citation on PubMed
+Boles RG, Powers AL, Adams K. Cyclic vomiting syndrome plus. J Child Neurol.
+2006 Mar;21(3):182-8. doi: 10.2310/7010.2006.00040.
+Citation on PubMed
+Boles RG, Zaki EA, Lavenbarg T, Hejazi R, Foran P, Freeborn J, Trilokekar S,
+McCallum R. Are pediatric and adult-onset cyclic vomiting syndrome (CVS)
+biologically different conditions? Relationship of adult-onset CVS with the
+migraine and pediatric CVS-associated common mtDNA polymorphisms 16519T and
+3010A. Neurogastroenterol Motil. 2009 Sep;21(9):936-e72. doi:
+10.1111/j.1365-2982.2009.01305.x. Epub 2009 Apr 8.
+Citation on PubMed
+Boles RG. High degree of efficacy in the treatment of cyclic vomiting syndrome
+with combined co-enzyme Q10, L-carnitine and amitriptyline, a case series. BMC
+Neurol. 2011 Aug 16;11:102. doi: 10.1186/1471-2377-11-102.
+Citation on PubMed
+or
+Free article on PubMed Central
+Fleisher DR, Matar M. The cyclic vomiting syndrome: a report of 71 cases and
+literature review. J Pediatr Gastroenterol Nutr. 1993 Nov;17(4):361-9.
+Citation on PubMed
+Lee LY, Abbott L, Moodie S, Anderson S. Cyclic vomiting syndrome in 28
+patients: demographics, features and outcomes. Eur J Gastroenterol Hepatol. 2012
+Aug;24(8):939-43. doi: 10.1097/MEG.0b013e328354fc83.
+Citation on PubMed
+Li BU, Lefevre F, Chelimsky GG, Boles RG, Nelson SP, Lewis DW, Linder SL,
+Issenman RM, Rudolph CD; North American Society for Pediatric Gastroenterology,
+Hepatology, and Nutrition. North American Society for Pediatric Gastroenterology,
+Hepatology, and Nutrition consensus statement on the diagnosis and management of
+cyclic vomiting syndrome. J Pediatr Gastroenterol Nutr. 2008 Sep;47(3):379-93.
+doi: 10.1097/MPG.0b013e318173ed39.
+Citation on PubMed
+Pareek N, Fleisher DR, Abell T. Cyclic vomiting syndrome: what a
+gastroenterologist needs to know. Am J Gastroenterol. 2007 Dec;102(12):2832-40.
+doi: 10.1111/j.1572-0241.2007.01549.x.
+Citation on PubMed
+Zaki EA, Freilinger T, Klopstock T, Baldwin EE, Heisner KR, Adams K, Dichgans
+M, Wagler S, Boles RG. Two common mitochondrial DNA polymorphisms are highly
+associated with migraine headache and cyclic vomiting syndrome. Cephalalgia. 2009
+Jul;29(7):719-28. doi: 10.1111/j.1468-2982.2008.01793.x. Epub 2009 Feb 10.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Migraine
+Nausea and Vomiting
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

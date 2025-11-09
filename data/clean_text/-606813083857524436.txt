@@ -1,0 +1,137 @@
+Fibromyalgia: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Fibromyalgia
+URL of this page: https://medlineplus.gov/genetics/condition/fibromyalgia/
+Fibromyalgia
+Description
+Fibromyalgia is a common condition characterized by long-lasting (chronic) pain affecting many areas of the body. The pain is associated with tenderness that occurs with touch or pressure on the muscles, joints, or skin. Some affected individuals also report numbness, tingling, or a burning sensation (paresthesia) in the arms and legs.
+Other signs and symptoms of fibromyalgia include excessive tiredness (exhaustion); sleep problems, such as waking up feeling unrefreshed; and problems with memory or thinking clearly. People with fibromyalgia often report additional types of pain, including headaches, back and neck pain, sore throat, pain or clicking in the jaw (
+temporomandibular
+joint dysfunction), and stomach pain or digestive disorders such as irritable bowel syndrome. They have an increased likelihood of developing mood or psychiatric disorders including
+depression
+, anxiety, and
+obsessive-compulsive disorder
+. However, many people with fibromyalgia do not have a mental health condition.
+The major signs and symptoms of fibromyalgia can occur by themselves or together with another chronic pain condition such as
+osteoarthritis
+,
+rheumatoid arthritis
+,
+ankylosing spondylitis
+, or
+systemic lupus erythematosus
+.
+Frequency
+Fibromyalgia occurs in an estimated 2 to 8 percent of the general population worldwide. Because its signs and symptoms are nonspecific and overlap with those of many other conditions, it can be challenging to diagnose. The condition seems to affect women more than men, and its prevalence increases with age.
+Causes
+Fibromyalgia is known to run in families, suggesting that genetic factors contribute to the risk of developing this disease. However, little is known for certain about the genetic basis of fibromyalgia. It is likely that variations in many genes, each with a small effect, combine to increase the risk of developing this condition.
+The signs and symptoms of fibromyalgia are related to the way the brain recognizes and interprets pain signals. People with fibromyalgia have an increased sensitivity to pain; they feel pain more acutely than others would in response to a given stimulus. Researchers describe this phenomenon as the "volume" of pain sensations being turned up too high (pain amplification). Studies of the genetics of fibromyalgia have focused on genes with roles in the way the brain processes pain. For example, several genes that may influence the condition are involved in the production and breakdown of certain chemical messengers called
+neurotransmitters
+. These chemicals relay signals between nerve cells that can increase or decrease the sensation of pain, a process known as pain modulation.
+Nongenetic (environmental) factors also play critical roles in a person's risk of developing fibromyalgia. The disorder can be triggered by infection or illness that would not otherwise cause chronic pain, injury, and other physical stress. Psychological and social factors such as a history of childhood abuse or neglect, exposure to war or other catastrophic events, and low job or life satisfaction have also been associated with an increased risk of fibromyalgia. Additionally, physical inactivity, obesity, and sleep disturbances seem to increase risk. However, many people who develop this condition do not have any recognized triggers or risk factors. It is likely that environmental conditions interact with genetic factors to determine the overall risk of developing this disorder.
+Learn more about the gene associated with Fibromyalgia
+COMT
+Additional Information from NCBI Gene:
+ADRB2
+HTR2A
+SLC6A4
+TAAR1
+Inheritance
+Fibromyalgia does not have a clear pattern of inheritance in families. Overall, the risk of developing this condition is about eight times higher for
+first-degree relatives
+of affected individuals (such as siblings or children) as compared to the general public. Many people with fibromyalgia also have relatives with headaches, irritable bowel syndrome, temporomandibular joint dysfunction, and other conditions that cause chronic pain. These disorders may cluster in families in part because they share some genetic risk factors with fibromyalgia.
+Other Names for This Condition
+Diffuse myofascial pain syndrome
+Fibromyalgia syndrome
+Fibromyalgia-fibromyositis syndrome
+Fibromyositis
+Fibrositis
+FMS
+Myofascial pain syndrome
+Additional Information & Resources
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Scientific Articles on PubMed
+PubMed
+References
+Ablin JN, Buskila D. Update on the genetics of the fibromyalgia syndrome. Best
+Pract Res Clin Rheumatol. 2015 Feb;29(1):20-8. doi: 10.1016/j.berh.2015.04.018.
+Epub 2015 May 18.
+Citation on PubMed
+Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014 Apr 16;311(15):1547-55.
+doi: 10.1001/jama.2014.3266.
+Citation on PubMed
+Docampo E, Escaramis G, Gratacos M, Villatoro S, Puig A, Kogevinas M, Collado
+A, Carbonell J, Rivera J, Vidal J, Alegre J, Estivill X, Rabionet R. Genome-wide
+analysis of single nucleotide polymorphisms and copy number variants in
+fibromyalgia suggest a role for the central nervous system. Pain. 2014
+Jun;155(6):1102-1109. doi: 10.1016/j.pain.2014.02.016. Epub 2014 Feb 26.
+Citation on PubMed
+Hauser W, Ablin J, Fitzcharles MA, Littlejohn G, Luciano JV, Usui C, Walitt B.
+Fibromyalgia. Nat Rev Dis Primers. 2015 Aug 13;1:15022. doi:
+10.1038/nrdp.2015.22.
+Citation on PubMed
+Hauser W, Ablin J, Perrot S, Fitzcharles MA. Management of fibromyalgia:
+practical guides from recent evidence-based guidelines. Pol Arch Intern Med. 2017
+Jan 4;127(1):47-56. doi: 10.20452/pamw.3877. Epub 2017 Jan 4.
+Citation on PubMed
+Lee YH, Choi SJ, Ji JD, Song GG. Candidate gene studies of fibromyalgia: a
+systematic review and meta-analysis. Rheumatol Int. 2012 Feb;32(2):417-26. doi:
+10.1007/s00296-010-1678-9. Epub 2010 Dec 1.
+Citation on PubMed
+Park DJ, Lee SS. New insights into the genetics of fibromyalgia. Korean J
+Intern Med. 2017 Nov;32(6):984-995. doi: 10.3904/kjim.2016.207. Epub 2017 Oct 23.
+Citation on PubMed
+or
+Free article on PubMed Central
+Wolfe F, Clauw DJ, Fitzcharles MA, Goldenberg DL, Hauser W, Katz RL, Mease PJ,
+Russell AS, Russell IJ, Walitt B. 2016 Revisions to the 2010/2011 fibromyalgia
+diagnostic criteria. Semin Arthritis Rheum. 2016 Dec;46(3):319-329. doi:
+10.1016/j.semarthrit.2016.08.012. Epub 2016 Aug 30.
+Citation on PubMed
+Related Health Topics
+Ankylosing Spondylitis
+Fibromyalgia
+Genetic Disorders
+Lupus
+Osteoarthritis
+Rheumatoid Arthritis
+MEDICAL ENCYCLOPEDIA
+Fibromyalgia
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

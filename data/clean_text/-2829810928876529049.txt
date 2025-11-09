@@ -1,0 +1,178 @@
+GNE myopathy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+GNE myopathy
+URL of this page: https://medlineplus.gov/genetics/condition/gne-myopathy/
+GNE myopathy
+Description
+GNE
+myopathy is a condition that primarily affects skeletal muscles, which are muscles that the body uses for movement. This disorder causes muscle weakness that appears in late adolescence or early adulthood and worsens over time.
+Difficulty lifting the front part of the foot (foot drop) is often the first sign of
+GNE
+myopathy. For individuals with
+GNE
+myopathy, foot drop is caused by weakness of a muscle in the lower leg called the tibialis anterior. This muscle helps raise the foot up. Weakness in the tibialis anterior alters the way a person walks and makes it difficult to run and climb stairs. As the disorder progresses, weakness also develops in the muscles of the upper legs, hips, shoulders, and hands. Unlike most forms of myopathy,
+GNE
+myopathy usually does not affect the quadriceps, which are a group of large muscles at the front of the thigh. This condition also does not affect the muscles of the eye or heart, and it does not cause neurological problems. Weakness in leg muscles makes walking increasingly difficult, and most people with
+GNE
+myopathy require wheelchair assistance within 20 years after the signs and symptoms of the disorder appear.
+People with the characteristic features of
+GNE
+myopathy have been described in several different populations. When the condition was first reported in Japanese families, researchers called it distal myopathy with rimmed vacuoles (DMRV) or Nonaka myopathy. When a similar disorder was discovered in Iranian Jewish families, researchers called it rimmed vacuole myopathy or hereditary inclusion body myopathy (HIBM). It has since become clear that these conditions are variations of a single disorder caused by changes in the same gene.
+Frequency
+Worldwide, fewer than 9 in 1,000,000 people are estimated to have this condition. Some researchers have suggested that the number of people with
+GNE
+myopathy may be higher, since many people with this condition are believed to be undiagnosed.
+GNE
+myopathy is more frequent among the Japanese, Iranian Jewish, and Indian subcontinent populations.
+Causes
+Many different variants (also called mutations) in the
+GNE
+gene have been found to cause
+GNE
+myopathy
+. The
+GNE
+gene provides instructions for making an enzyme found in cells and tissues throughout the body. This enzyme is involved in a chemical pathway that produces sialic acid, which is a simple sugar that attaches to the ends of more complex molecules on the surface of cells. By modifying these molecules, sialic acid influences a wide variety of cellular functions, including cell movement (migration), the attachment of cells to one another (adhesion), signaling between cells, and inflammation.
+The variants responsible for
+GNE
+myopathy reduce the activity of the enzyme produced from the
+GNE
+gene, which decreases the production of sialic acid. As a result, less of this simple sugar is available to attach to molecules on the cell surface. Researchers are working to determine how a shortage of sialic acid leads to progressive muscle weakness in people with
+GNE
+myopathy. Sialic acid is important for the normal function of many different cells and tissues, so it is unclear why the signs and symptoms of this disorder appear to be limited to skeletal muscles.
+Learn more about the gene associated with GNE myopathy
+GNE
+Inheritance
+This condition is inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell must have a variant to cause the disorder. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene, but they typically do not show signs and symptoms of the condition.
+Other Names for This Condition
+Distal myopathy with or without rimmed vacuoles
+Distal myopathy with rimmed vacuoles
+Distal myopathy, Nonaka type
+DMRV
+Hereditary inclusion body myopathy type 2
+HIBM2
+IBM2
+Inclusion body myopathy type 2
+Inclusion body myopathy, hereditary, autosomal recessive
+Inclusion body myopathy, quadriceps-sparing
+Nonaka distal myopathy
+Nonaka myopathy
+QSM
+Quadriceps-sparing myopathy
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: GNE myopathy
+Genetic and Rare Diseases Information Center
+GNE myopathy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+NONAKA MYOPATHY; NM
+Scientific Articles on PubMed
+PubMed
+References
+Argov Z, Eisenberg I, Grabov-Nardini G, Sadeh M, Wirguin I, Soffer D,
+Mitrani-Rosenbaum S. Hereditary inclusion body myopathy: the Middle Eastern
+genetic cluster. Neurology. 2003 May 13;60(9):1519-23. doi:
+10.1212/01.wnl.0000061617.71839.42.
+Citation on PubMed
+Carrillo N, Malicdan MC, Huizing M. GNE Myopathy. 2004 Mar 26
+[updated 2020 Apr 9]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE,
+Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University
+of Washington, Seattle; 1993-2025. Available from
+http://www.ncbi.nlm.nih.gov/books/NBK1262/
+Citation on PubMed
+Celeste FV, Vilboux T, Ciccone C, de Dios JK, Malicdan MC, Leoyklang P, McKew
+JC, Gahl WA, Carrillo-Carrasco N, Huizing M. Mutation update for GNE gene
+variants associated with GNE myopathy. Hum Mutat. 2014 Aug;35(8):915-26. doi:
+10.1002/humu.22583.
+Citation on PubMed
+Eisenberg I, Avidan N, Potikha T, Hochner H, Chen M, Olender T, Barash M,
+Shemesh M, Sadeh M, Grabov-Nardini G, Shmilevich I, Friedmann A, Karpati G,
+Bradley WG, Baumbach L, Lancet D, Asher EB, Beckmann JS, Argov Z,
+Mitrani-Rosenbaum S. The UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine
+kinase gene is mutated in recessive hereditary inclusion body myopathy. Nat
+Genet. 2001 Sep;29(1):83-7. doi: 10.1038/ng718.
+Citation on PubMed
+Kayashima T, Matsuo H, Satoh A, Ohta T, Yoshiura K, Matsumoto N, Nakane Y,
+Niikawa N, Kishino T. Nonaka myopathy is caused by mutations in the
+UDP-N-acetylglucosamine-2-epimerase/N-acetylmannosamine kinase gene (GNE). J Hum
+Genet. 2002;47(2):77-9. doi: 10.1007/s100380200004.
+Citation on PubMed
+Malicdan MC, Noguchi S, Nishino I. Perspectives on distal myopathy with rimmed
+vacuoles or hereditary inclusion body myopathy: contributions from an animal
+model. Lack of sialic acid, a central determinant in sugar chains, causes
+myopathy? Acta Myol. 2007 Dec;26(3):171-5.
+Citation on PubMed
+or
+Free article on PubMed Central
+Malicdan MC, Noguchi S, Nishino I. Recent advances in distal myopathy with
+rimmed vacuoles (DMRV) or hIBM: treatment perspectives. Curr Opin Neurol. 2008
+Oct;21(5):596-600. doi: 10.1097/WCO.0b013e32830dd595.
+Citation on PubMed
+Mastaglia FL, Lamont PJ, Laing NG. Distal myopathies. Curr Opin Neurol. 2005
+Oct;18(5):504-10. doi: 10.1097/01.wco.0000175936.23945.b6.
+Citation on PubMed
+Nishino I, Malicdan MC, Murayama K, Nonaka I, Hayashi YK, Noguchi S. Molecular
+pathomechanism of distal myopathy with rimmed vacuoles. Acta Myol. 2005
+Oct;24(2):80-3.
+Citation on PubMed
+Nishino I, Noguchi S, Murayama K, Driss A, Sugie K, Oya Y, Nagata T, Chida K,
+Takahashi T, Takusa Y, Ohi T, Nishimiya J, Sunohara N, Ciafaloni E, Kawai M, Aoki
+M, Nonaka I. Distal myopathy with rimmed vacuoles is allelic to hereditary
+inclusion body myopathy. Neurology. 2002 Dec 10;59(11):1689-93. doi:
+10.1212/01.wnl.0000041631.28557.c6.
+Citation on PubMed
+Nonaka I, Noguchi S, Nishino I. Distal myopathy with rimmed vacuoles and
+hereditary inclusion body myopathy. Curr Neurol Neurosci Rep. 2005 Feb;5(1):61-5.
+doi: 10.1007/s11910-005-0025-0.
+Citation on PubMed
+Tomimitsu H, Shimizu J, Ishikawa K, Ohkoshi N, Kanazawa I, Mizusawa H. Distal
+myopathy with rimmed vacuoles (DMRV): new GNE mutations and splice variant.
+Neurology. 2004 May 11;62(9):1607-10. doi: 10.1212/01.wnl.0000123115.23652.6c.
+Citation on PubMed
+Enlarge image
+Related Health Topics
+Genetic Disorders
+Muscle Disorders
+MEDICAL ENCYCLOPEDIA
+Foot drop
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,147 @@
+Progressive supranuclear palsy: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Progressive supranuclear palsy
+URL of this page: https://medlineplus.gov/genetics/condition/progressive-supranuclear-palsy/
+Progressive supranuclear palsy
+Description
+Progressive supranuclear palsy is a brain disorder that affects movement, vision, speech, and thinking ability (cognition). The signs and symptoms of this disorder usually become apparent in mid- to late adulthood, most often in a person's 60s. Most people with progressive supranuclear palsy survive 5 to 9 years after the disease first appears, although a few affected individuals have lived for more than a decade.
+Loss of balance and frequent falls are the most common early signs of progressive supranuclear palsy. Affected individuals have problems with walking, including poor coordination and an unsteady, lurching gait. Other movement abnormalities develop as the disease progresses, including unusually slow movements (bradykinesia), clumsiness, and stiffness of the trunk muscles. These problems worsen with time, and most affected people ultimately require wheelchair assistance.
+Progressive supranuclear palsy is also characterized by abnormal eye movements, which typically develop several years after the other movement problems first appear. Restricted up-and-down eye movement (vertical gaze palsy) is a hallmark of this disease. Other eye movement problems include difficulty opening and closing the eyelids, infrequent blinking, and pulling back (retraction) of the eyelids. These abnormalities can lead to blurred vision, an increased sensitivity to light (photophobia), and a staring gaze.
+Additional features of progressive supranuclear palsy include slow and slurred speech (dysarthria) and trouble swallowing (dysphagia). Most affected individuals also experience changes in personality and behavior, such as a general loss of interest and enthusiasm (apathy). They develop problems with cognition, including difficulties with attention, planning, and problem solving. As the cognitive and behavioral problems worsen, affected individuals increasingly require help with personal care and other activities of daily living.
+Frequency
+The exact prevalence of progressive supranuclear palsy is unknown. It may affect about 6 in 100,000 people worldwide.
+Causes
+In most cases, the genetic cause of progressive supranuclear palsy is unknown. Rarely, the disease results from mutations in the
+MAPT
+gene. Certain normal variations (polymorphisms) in the
+MAPT
+gene have also been associated with an increased risk of developing progressive supranuclear palsy.
+The
+MAPT
+gene provides instructions for making a protein called tau. This protein is found throughout the nervous system, including in nerve cells (neurons) in the brain. It is involved in assembling and stabilizing microtubules, which are rigid, hollow fibers that make up the cell's structural framework (the
+cytoskeleton
+). Microtubules help cells maintain their shape, assist in the process of cell division, and are essential for the transport of materials within cells.
+The signs and symptoms of progressive supranuclear palsy appear to be related to abnormalities in the tau protein. In people with
+MAPT
+gene mutations, genetic changes disrupt the protein's normal structure and function. However, abnormal tau is also found in affected individuals without
+MAPT
+gene mutations. The defective tau protein assembles into abnormal clumps within neurons and other brain cells, although it is unclear what effect these clumps have on cell function and survival. Progressive supranuclear palsy is characterized by the gradual death of brain cells, particularly in structures deep within the brain that are essential for coordinating movement. This loss of brain cells underlies the movement abnormalities and other features of progressive supranuclear palsy.
+This condition is one of several related diseases known as tauopathies, which are characterized by an abnormal buildup of tau in the brain.
+Researchers suspect that other genetic and environmental factors also contribute to progressive supranuclear palsy. For example, the disease has been linked to genetic changes on chromosome 1 and chromosome 11. However, the specific genes involved have not been identified.
+Learn more about the gene associated with Progressive supranuclear palsy
+MAPT
+Inheritance
+Most cases of progressive supranuclear palsy are sporadic, which means they occur in people with no history of the disorder in their family. However, some people with this disorder have had family members with related conditions, such as parkinsonism and a loss of intellectual functions (dementia).
+When progressive supranuclear palsy runs in families, it can have an
+autosomal dominant pattern
+of inheritance. Autosomal dominant inheritance means one copy of an altered gene in each cell is sufficient to cause the disorder.
+Other Names for This Condition
+Progressive supranuclear ophthalmoplegia
+PSP
+Richardson's syndrome
+Steele-Richardson-Olszewski syndrome
+Supranuclear palsy, progressive
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Supranuclear palsy, progressive, 1
+Genetic and Rare Diseases Information Center
+Progressive supranuclear palsy
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Clinical Trials
+ClinicalTrials.gov
+Catalog of Genes and Diseases from OMIM
+SUPRANUCLEAR PALSY, PROGRESSIVE, 1; PSNP1
+SUPRANUCLEAR PALSY, PROGRESSIVE, 2; PSNP2
+SUPRANUCLEAR PALSY, PROGRESSIVE, 3; PSNP3
+Scientific Articles on PubMed
+PubMed
+References
+Conrad C, Andreadis A, Trojanowski JQ, Dickson DW, Kang D, Chen X, Wiederholt
+W, Hansen L, Masliah E, Thal LJ, Katzman R, Xia Y, Saitoh T. Genetic evidence for
+the involvement of tau in progressive supranuclear palsy. Ann Neurol. 1997
+Feb;41(2):277-81. doi: 10.1002/ana.410410222.
+Citation on PubMed
+Donker Kaat L, Boon AJ, Azmani A, Kamphorst W, Breteler MM, Anar B, Heutink P,
+van Swieten JC. Familial aggregation of parkinsonism in progressive supranuclear
+palsy. Neurology. 2009 Jul 14;73(2):98-105. doi: 10.1212/WNL.0b013e3181a92bcc.
+Epub 2009 May 20.
+Citation on PubMed
+Ferrari R, Ryten M, Simone R, Trabzuni D, Nicolaou N, Hondhamuni G, Ramasamy
+A, Vandrovcova J; UK Brain Expression Consortium; Weale ME, Lees AJ, Momeni P,
+Hardy J, de Silva R. Assessment of common variability and expression quantitative
+trait loci for genome-wide associations for progressive supranuclear palsy.
+Neurobiol Aging. 2014 Jun;35(6):1514.e1-12. doi:
+10.1016/j.neurobiolaging.2014.01.010. Epub 2014 Jan 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Golbe LI. Progressive supranuclear palsy. Semin Neurol. 2014 Apr;34(2):151-9.
+doi: 10.1055/s-0034-1381736. Epub 2014 Jun 25.
+Citation on PubMed
+Hoglinger GU, Melhem NM, Dickson DW, Sleiman PM, Wang LS, Klei L, Rademakers
+R, de Silva R, Litvan I, Riley DE, van Swieten JC, Heutink P, Wszolek ZK, Uitti
+RJ, Vandrovcova J, Hurtig HI, Gross RG, Maetzler W, Goldwurm S, Tolosa E, Borroni
+B, Pastor P; PSP Genetics Study Group; Cantwell LB, Han MR, Dillman A, van der
+Brug MP, Gibbs JR, Cookson MR, Hernandez DG, Singleton AB, Farrer MJ, Yu CE,
+Golbe LI, Revesz T, Hardy J, Lees AJ, Devlin B, Hakonarson H, Muller U,
+Schellenberg GD. Identification of common variants influencing risk of the
+tauopathy progressive supranuclear palsy. Nat Genet. 2011 Jun 19;43(7):699-705.
+doi: 10.1038/ng.859.
+Citation on PubMed
+or
+Free article on PubMed Central
+Melquist S, Craig DW, Huentelman MJ, Crook R, Pearson JV, Baker M, Zismann VL,
+Gass J, Adamson J, Szelinger S, Corneveaux J, Cannon A, Coon KD, Lincoln S, Adler
+C, Tuite P, Calne DB, Bigio EH, Uitti RJ, Wszolek ZK, Golbe LI, Caselli RJ,
+Graff-Radford N, Litvan I, Farrer MJ, Dickson DW, Hutton M, Stephan DA.
+Identification of a novel risk locus for progressive supranuclear palsy by a
+pooled genomewide scan of 500,288 single-nucleotide polymorphisms. Am J Hum
+Genet. 2007 Apr;80(4):769-78. doi: 10.1086/513320. Epub 2007 Mar 8.
+Citation on PubMed
+or
+Free article on PubMed Central
+Williams DR, Lees AJ. Progressive supranuclear palsy: clinicopathological
+concepts and diagnostic challenges. Lancet Neurol. 2009 Mar;8(3):270-9. doi:
+10.1016/S1474-4422(09)70042-0.
+Citation on PubMed
+Related Health Topics
+Genetic Disorders
+Progressive Supranuclear Palsy
+MEDICAL ENCYCLOPEDIA
+Genetics
+Progressive supranuclear palsy
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page

@@ -1,0 +1,155 @@
+Fibrochondrogenesis: MedlinePlus Genetics
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+You Are Here:
+Home
+→
+Genetics
+→
+Genetic Conditions
+→
+Fibrochondrogenesis
+URL of this page: https://medlineplus.gov/genetics/condition/fibrochondrogenesis/
+Fibrochondrogenesis
+Description
+Fibrochondrogenesis is a very severe disorder of bone growth. Affected infants have a very narrow chest, which prevents the lungs from developing normally. Most infants with this condition are stillborn or die shortly after birth from respiratory failure. However, some affected individuals have lived into childhood.
+Fibrochondrogenesis is characterized by short stature (dwarfism) and other skeletal abnormalities. Affected individuals have shortened long bones in the arms and legs that are unusually wide at the ends (described as dumbbell-shaped). People with this condition also have a narrow chest with short, wide ribs and a round and prominent abdomen. The bones of the spine (vertebrae) are flattened (platyspondyly) and have a characteristic pinched or pear shape that is noticeable on x-rays. Other skeletal abnormalities associated with fibrochondrogenesis include
+abnormal curvature of the spine
+and underdeveloped hip (pelvic) bones.
+People with fibrochondrogenesis also have distinctive facial features. These include
+prominent eyes
+, low-set ears, a
+small mouth
+with a long upper lip, and a small chin (
+micrognathia
+). Affected individuals have a relatively flat-appearing midface, particularly a
+small nose
+with a
+flat nasal bridge
+and nostrils that open to the front rather than downward (
+anteverted nares
+). Vision problems, including severe
+nearsightedness
+(high
+myopia
+) and clouding of the lens of the eye (
+cataract
+), are common in those who survive infancy. Most affected individuals also have sensorineural hearing loss, which is caused by abnormalities of the
+inner ear
+.
+Frequency
+Fibrochondrogenesis appears to be a rare disorder. About 20 affected individuals have been described in the medical literature.
+Causes
+Fibrochondrogenesis can result from mutations in the
+COL11A1
+or
+COL11A2
+gene. When the condition is caused by
+COL11A1
+gene mutations, it is designated as type 1; when it is caused by
+COL11A2
+gene mutations, it is designated as type 2. Both of these genes provide instructions for making components of type XI collagen, which is a complex molecule that gives structure and strength to the connective tissues that support the body's joints and organs. Specifically, type XI collagen is found in cartilage, a tough but flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Type XI collagen is also part of the
+inner ear
+; the vitreous, which is the clear gel that fills the eyeball; and the nucleus pulposus, which is the center portion of the discs between vertebrae.
+Mutations in the
+COL11A1
+or
+COL11A2
+gene impair the assembly of type XI collagen, in most cases leading to the production of abnormal collagen molecules. The defective collagen weakens connective tissues, impairing the formation of bones throughout the skeleton and causing changes in the eye and inner ear that lead to vision and hearing problems.
+Learn more about the genes associated with Fibrochondrogenesis
+COL11A1
+COL11A2
+Inheritance
+Fibrochondrogenesis is generally inherited in an
+autosomal recessive pattern
+, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they usually do not show signs and symptoms of the condition. In a few reported cases, parents of children with fibrochondrogenesis have had mild features that may be related to the condition, including slightly short stature, myopia, cataracts, joint pain, and hearing loss.
+In at least one case of fibrochondrogenesis caused by a
+COL11A2
+gene mutation, the condition was inherited in an
+autosomal dominant pattern
+, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In this case, the condition resulted from a new (de novo) mutation in the gene that occurred during the formation of reproductive cells (eggs or sperm) in one of the affected individual's parents. There was no history of the disorder in the family.
+Other Names for This Condition
+FBCG1
+FBCG2
+Fibrochondrogenesis-1
+Fibrochondrogenesis-2
+Additional Information & Resources
+Genetic Testing Information
+Genetic Testing Registry: Fibrochondrogenesis 1
+Genetic Testing Registry: Fibrochondrogenesis 2
+Genetic and Rare Diseases Information Center
+Fibrochondrogenesis
+Patient Support and Advocacy Resources
+National Organization for Rare Disorders (NORD)
+Catalog of Genes and Diseases from OMIM
+FIBROCHONDROGENESIS 1; FBCG1
+FIBROCHONDROGENESIS 2; FBCG2
+Scientific Articles on PubMed
+PubMed
+References
+Akawi NA, Al-Gazali L, Ali BR. Clinical and molecular analysis of UAE
+fibrochondrogenesis patients expands the phenotype and reveals two COL11A1
+homozygous null mutations. Clin Genet. 2012 Aug;82(2):147-56. doi:
+10.1111/j.1399-0004.2011.01734.x. Epub 2011 Jul 18.
+Citation on PubMed
+Akawi NA, Ali BR, Al-Gazali L. A response to Dr. Alzahrani's letter to the
+editor regarding the mechanism underlying fibrochondrogenesis. Gene. 2013 Oct
+10;528(2):367-8. doi: 10.1016/j.gene.2013.07.038. Epub 2013 Jul 29. No abstract
+available.
+Citation on PubMed
+Alzahrani F, Alshammari MJ, Alkuraya FS. Molecular pathogenesis of
+fibrochondrogenesis: is it really simple COL11A1 deficiency? Gene. 2012 Dec
+15;511(2):480-1. doi: 10.1016/j.gene.2012.09.069. Epub 2012 Sep 28. No abstract
+available.
+Citation on PubMed
+Bekdache GN, Begam MA, Chedid F, Al-Gazali L, Mirghani H. Fibrochondrogenesis:
+prenatal diagnosis and outcome. J Obstet Gynaecol. 2013 Oct;33(7):663-8. doi:
+10.3109/01443615.2013.817977.
+Citation on PubMed
+Tompson SW, Bacino CA, Safina NP, Bober MB, Proud VK, Funari T, Wangler MF,
+Nevarez L, Ala-Kokko L, Wilcox WR, Eyre DR, Krakow D, Cohn DH.
+Fibrochondrogenesis results from mutations in the COL11A1 type XI collagen gene.
+Am J Hum Genet. 2010 Nov 12;87(5):708-12. doi: 10.1016/j.ajhg.2010.10.009. Epub
+2010 Oct 28.
+Citation on PubMed
+or
+Free article on PubMed Central
+Tompson SW, Faqeih EA, Ala-Kokko L, Hecht JT, Miki R, Funari T, Funari VA,
+Nevarez L, Krakow D, Cohn DH. Dominant and recessive forms of fibrochondrogenesis
+resulting from mutations at a second locus, COL11A2. Am J Med Genet A. 2012
+Feb;158A(2):309-14. doi: 10.1002/ajmg.a.34406. Epub 2012 Jan 13.
+Citation on PubMed
+or
+Free article on PubMed Central
+Related Health Topics
+Bone Diseases
+Dwarfism
+Genetic Disorders
+MEDICAL ENCYCLOPEDIA
+Genetics
+Understanding Genetics
+What is the prognosis of a genetic condition?
+How can gene variants affect health and development?
+What does it mean if a disorder seems to run in my family?
+What are the different ways a genetic condition can be inherited?
+How are genetic conditions treated or managed?
+Disclaimers
+MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our
+disclaimer
+about external links and our
+quality guidelines
+.
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
